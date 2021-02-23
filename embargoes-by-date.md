@@ -2,17 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 February 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 February 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 February 2021](#22-february-2021)
 * [2 March 2021](#2-march-2021)
 * [4 March 2021](#4-march-2021)
+* [10 March 2021](#10-march-2021)
 * [12 March 2021](#12-march-2021)
+* [18 March 2021](#18-march-2021)
 * [23 March 2021](#23-march-2021)
 * [25 March 2021](#25-march-2021)
 * [30 March 2021](#30-march-2021)
 * [31 March 2021](#31-march-2021)
 * [1 April 2021](#1-april-2021)
+* [7 April 2021](#7-april-2021)
 * [8 April 2021](#8-april-2021)
 
 ------
@@ -30,7 +33,7 @@ Monday 22 February 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 February 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
 
 ### Additional Information
 
@@ -53,7 +56,7 @@ Monday 22 February 2021 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
 - [x] Exported to Keepeek Thursday 18 February 2021 at 20:20
-- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
 
 ### Additional Information
 
@@ -124,9 +127,9 @@ Tuesday 2 March 2021 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
+- [x] Exported to iLibrary Tuesday 23 February 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 February 2021 at 20:19
+- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
 
 ### Additional Information
 
@@ -134,7 +137,7 @@ Tuesday 2 March 2021 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -167,6 +170,33 @@ Thursday 4 March 2021 at 7:00 | no launch event
 
 ------
 
+# 10 March 2021
+
+## [Towards Improved Retirement Savings Outcomes for Women](https://doi.org/10.1787/f7b48808-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 March 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 23 February 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 12 March 2021
 
 ## [Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment](https://doi.org/10.1787/6ffd1936-en)
@@ -188,6 +218,33 @@ Friday 12 March 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 March 2021
+
+## [OECD Economic Surveys: Indonesia 2021](https://doi.org/10.1787/fd7e6249-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 23 February 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -485,6 +542,33 @@ Thursday 1 April 2021 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 7 April 2021
+
+## [Effective Carbon Rates 2021 - Pricing Carbon Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/0e8e24f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
