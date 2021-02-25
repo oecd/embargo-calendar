@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 February 2021 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 25 February 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 March 2021](#1-march-2021)
 * [2 March 2021](#2-march-2021)
@@ -39,6 +39,29 @@ Monday 1 March 2021 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Resource efficiency, the circular economy, sustainable materials management and trade in metals and minerals](https://doi.org/10.1787/69abc1bd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 February 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 25 February 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -327,6 +350,29 @@ Thursday 25 March 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [How Was Life? Volume II - New Perspectives on Well-being and Global Inequality since 1820](https://doi.org/10.1787/3d96efc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 March 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
