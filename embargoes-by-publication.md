@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 February 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 February 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [AI measurement in ICT usage surveys - A review](https://doi.org/10.1787/72cce754-en)
 
@@ -15,7 +15,30 @@ Monday 1 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 February 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 February 2021 at 20:01
+- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Building and sustaining collaborative platforms in genomics and biobanks for health innovation](https://doi.org/10.1787/11d960b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 February 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
 
 ### Additional Information
 
@@ -38,7 +61,7 @@ Monday 1 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 February 2021 at 19:56
+- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
 
 ### Additional Information
 
@@ -100,14 +123,14 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 March 2021 at 12:00 | no launch event
+Tuesday 2 March 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 February 2021 at 20:26
-- [x] Exported to Keepeek Wednesday 24 February 2021 at 20:15
-- [x] Exported to OECD.org Wednesday 24 February 2021 at 20:01
+- [x] Exported to iLibrary Friday 26 February 2021 at 20:21
+- [x] Exported to Keepeek Friday 26 February 2021 at 20:11
+- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
 
 ### Additional Information
 
@@ -139,6 +162,29 @@ Thursday 4 March 2021 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [The inequalities-environment nexus - Towards a people-centred green transition](https://doi.org/10.1787/ca9d8479-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 February 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
