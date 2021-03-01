@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 February 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 March 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 March 2021](#1-march-2021)
 * [2 March 2021](#2-march-2021)
@@ -108,7 +108,7 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 February 2021 at 20:20
 - [x] Exported to Keepeek Monday 22 February 2021 at 20:15
-- [x] Exported to OECD.org Monday 22 February 2021 at 19:59
+- [x] Exported to OECD.org Monday 1 March 2021 at 19:57
 
 ### Additional Information
 
@@ -131,7 +131,7 @@ Tuesday 2 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 February 2021 at 20:24
 - [x] Exported to Keepeek Friday 19 February 2021 at 20:13
-- [x] Exported to OECD.org Friday 19 February 2021 at 19:59
+- [x] Exported to OECD.org Monday 1 March 2021 at 19:57
 
 ### Additional Information
 
@@ -154,7 +154,7 @@ Tuesday 2 March 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 February 2021 at 20:21
 - [x] Exported to Keepeek Friday 26 February 2021 at 20:11
-- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+- [x] Exported to OECD.org Monday 1 March 2021 at 19:57
 
 ### Additional Information
 
@@ -269,6 +269,29 @@ Thursday 11 March 2021 at 17:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Canada 2021](https://doi.org/10.1787/55949ebb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 March 2021 at 17:51 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -646,6 +669,29 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 ------
 
 # 1 April 2021
+
+## [Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal - Le Cadre Inclusif sur le BEPS : Action 6](https://doi.org/10.1787/bcdc38c0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Prevention of Tax Treaty Abuse – Third Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/d6cecbb8-en)
 

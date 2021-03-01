@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-02-26T20:42:49.6438667+01:00">
+<report name="official-embargoes" generated="2021-03-01T20:34:29.6427114+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -133,7 +133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-19T19:24:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-19T18:59:25Z</cell>
+    <cell name="oecd.org last export date">2021-03-01T18:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -253,7 +253,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-22T19:20:02Z</cell>
     <cell name="freepreview last export date">2021-02-22T19:15:08Z</cell>
-    <cell name="oecd.org last export date">2021-02-22T18:59:55Z</cell>
+    <cell name="oecd.org last export date">2021-03-01T18:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -273,7 +273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-19T19:24:08Z</cell>
     <cell name="freepreview last export date">2021-02-19T19:13:54Z</cell>
-    <cell name="oecd.org last export date">2021-02-19T18:59:25Z</cell>
+    <cell name="oecd.org last export date">2021-03-01T18:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -993,7 +993,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-26T19:21:11Z</cell>
     <cell name="freepreview last export date">2021-02-26T19:11:14Z</cell>
-    <cell name="oecd.org last export date">2021-02-26T18:58:43Z</cell>
+    <cell name="oecd.org last export date">2021-03-01T18:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1193,7 +1193,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-26T19:21:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-26T18:58:43Z</cell>
+    <cell name="oecd.org last export date">2021-03-01T18:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2941,6 +2941,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ddd8150</cell>
   </row>
   <row index="147">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/55949ebb-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Canada 2021 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-11T17:51:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bf114e7</cell>
+  </row>
+  <row index="148">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/55949ebb-fr</cell>
+    <cell name="title">Études économiques de l'OCDE : Canada 2021 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-11T17:51:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f940983f</cell>
+  </row>
+  <row index="149">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/6ffd1936-en</cell>
     <cell name="title">Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment (en)</cell>
@@ -2960,7 +3000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd7c48f1</cell>
   </row>
-  <row index="148">
+  <row index="150">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/6ffd1936-en</cell>
     <cell name="title">Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment (en)</cell>
@@ -2980,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5687821</cell>
   </row>
-  <row index="149">
+  <row index="151">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/fd7e6249-en</cell>
     <cell name="title">OECD Economic Surveys: Indonesia 2021 (en)</cell>
@@ -3000,7 +3040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3796a5a</cell>
   </row>
-  <row index="150">
+  <row index="152">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/fd7e6249-en</cell>
     <cell name="title">OECD Economic Surveys: Indonesia 2021 (en)</cell>
@@ -3020,7 +3060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/226fe952</cell>
   </row>
-  <row index="151">
+  <row index="153">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1f010fc9-en</cell>
     <cell name="title">Counterfeiting, Piracy and the Swiss Economy (en)</cell>
@@ -3040,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c56d498b</cell>
   </row>
-  <row index="152">
+  <row index="154">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1f010fc9-en</cell>
     <cell name="title">Counterfeiting, Piracy and the Swiss Economy (en)</cell>
@@ -3060,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ac00ac0</cell>
   </row>
-  <row index="153">
+  <row index="155">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6e773bfe-en</cell>
     <cell name="title">Young People with Migrant Parents (en)</cell>
@@ -3080,7 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8d1c204</cell>
   </row>
-  <row index="154">
+  <row index="156">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9ef10b4f-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Ireland 2021 (en)</cell>
@@ -3100,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f6806dc</cell>
   </row>
-  <row index="155">
+  <row index="157">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9ef10b4f-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Ireland 2021 (en)</cell>
@@ -3120,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dffe25c</cell>
   </row>
-  <row index="156">
+  <row index="158">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3d96efc5-en</cell>
     <cell name="title">How Was Life? Volume II (en)</cell>
@@ -3140,7 +3180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f33d3186</cell>
   </row>
-  <row index="157">
+  <row index="159">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3d96efc5-en</cell>
     <cell name="title">How Was Life? Volume II (en)</cell>
@@ -3160,7 +3200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7c62829</cell>
   </row>
-  <row index="158">
+  <row index="160">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d6d1fd4e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 2) (en)</cell>
@@ -3180,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5babf139</cell>
   </row>
-  <row index="159">
+  <row index="161">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/025e9f0c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Malta (Stage 2) (en)</cell>
@@ -3200,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9635fb2b</cell>
   </row>
-  <row index="160">
+  <row index="162">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/26bc3948-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Mexico (Stage 2) (en)</cell>
@@ -3220,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fcb7ffd</cell>
   </row>
-  <row index="161">
+  <row index="163">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e0c46317-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Ireland (Stage 2) (en)</cell>
@@ -3240,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/928ba581</cell>
   </row>
-  <row index="162">
+  <row index="164">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b7f3e217-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Portugal (Stage 2) (en)</cell>
@@ -3260,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a69d8240</cell>
   </row>
-  <row index="163">
+  <row index="165">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e3d454fd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Japan (Stage 2) (en)</cell>
@@ -3280,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/108928fd</cell>
   </row>
-  <row index="164">
+  <row index="166">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/da7fc990-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Australia (Stage 2) (en)</cell>
@@ -3300,7 +3340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99f87695</cell>
   </row>
-  <row index="165">
+  <row index="167">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/025e9f0c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Malta (Stage 2) (en)</cell>
@@ -3320,7 +3360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee4caa3c</cell>
   </row>
-  <row index="166">
+  <row index="168">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e0c46317-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Ireland (Stage 2) (en)</cell>
@@ -3340,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41d6201f</cell>
   </row>
-  <row index="167">
+  <row index="169">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b7f3e217-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Portugal (Stage 2) (en)</cell>
@@ -3360,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea62231d</cell>
   </row>
-  <row index="168">
+  <row index="170">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/794c808c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, New Zealand (Stage 2) (en)</cell>
@@ -3380,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39866180</cell>
   </row>
-  <row index="169">
+  <row index="171">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/26bc3948-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Mexico (Stage 2) (en)</cell>
@@ -3400,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ea5a48b</cell>
   </row>
-  <row index="170">
+  <row index="172">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/794c808c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, New Zealand (Stage 2) (en)</cell>
@@ -3420,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80c54cec</cell>
   </row>
-  <row index="171">
+  <row index="173">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e3d454fd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Japan (Stage 2) (en)</cell>
@@ -3440,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ffc551</cell>
   </row>
-  <row index="172">
+  <row index="174">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d6d1fd4e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 2) (en)</cell>
@@ -3460,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/905690ab</cell>
   </row>
-  <row index="173">
+  <row index="175">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/da7fc990-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Australia (Stage 2) (en)</cell>
@@ -3480,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6aa96f26</cell>
   </row>
-  <row index="174">
+  <row index="176">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
@@ -3500,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5776b43d</cell>
   </row>
-  <row index="175">
+  <row index="177">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
@@ -3520,7 +3560,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f79a189</cell>
   </row>
-  <row index="176">
+  <row index="178">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bcdc38c0-fr</cell>
+    <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
+    <cell name="subtitle">Le Cadre Inclusif sur le BEPS : Action 6 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-04-01T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f490f57</cell>
+  </row>
+  <row index="179">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bcdc38c0-fr</cell>
+    <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
+    <cell name="subtitle">Le Cadre Inclusif sur le BEPS : Action 6 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-04-01T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1cb70da</cell>
+  </row>
+  <row index="180">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d6cecbb8-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Third Peer Review Report on Treaty Shopping  (en)</cell>
@@ -3540,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd00bbdf</cell>
   </row>
-  <row index="177">
+  <row index="181">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -3560,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6870a10</cell>
   </row>
-  <row index="178">
+  <row index="182">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -3580,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9436e02</cell>
   </row>
-  <row index="179">
+  <row index="183">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>
@@ -3600,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72b01cd7</cell>
   </row>
-  <row index="180">
+  <row index="184">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>
