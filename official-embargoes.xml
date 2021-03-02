@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-03-01T20:34:29.6427114+01:00">
+<report name="official-embargoes" generated="2021-03-02T21:00:33.6185368+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,8 +33,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-24T19:26:18Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-26T18:58:43Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-03-02T19:01:52Z</cell>
+    <cell name="discoveryservice last export date">2021-03-01T19:55:11Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -53,8 +53,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-26T19:21:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-26T18:58:43Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-03-02T19:01:52Z</cell>
+    <cell name="discoveryservice last export date">2021-03-01T19:55:11Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -73,8 +73,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-25T19:20:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-26T18:58:43Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-03-02T19:01:52Z</cell>
+    <cell name="discoveryservice last export date">2021-03-01T19:55:11Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -2353,7 +2353,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-17T19:51:37Z</cell>
     <cell name="freepreview last export date">2021-02-05T19:09:54Z</cell>
-    <cell name="oecd.org last export date">2021-02-05T18:56:33Z</cell>
+    <cell name="oecd.org last export date">2021-03-02T19:01:52Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2773,7 +2773,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-02-17T19:51:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-02-05T18:56:33Z</cell>
+    <cell name="oecd.org last export date">2021-03-02T19:01:52Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3521,6 +3521,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6aa96f26</cell>
   </row>
   <row index="176">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/efcc255a-fr</cell>
+    <cell name="title">Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-30T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f38d135c</cell>
+  </row>
+  <row index="177">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/efcc255a-fr</cell>
+    <cell name="title">Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-03-30T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67eb2108</cell>
+  </row>
+  <row index="178">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
@@ -3540,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5776b43d</cell>
   </row>
-  <row index="177">
+  <row index="179">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/738553c5-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Belgium 2021 (en)</cell>
@@ -3560,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f79a189</cell>
   </row>
-  <row index="178">
+  <row index="180">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bcdc38c0-fr</cell>
     <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
@@ -3580,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f490f57</cell>
   </row>
-  <row index="179">
+  <row index="181">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bcdc38c0-fr</cell>
     <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
@@ -3600,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1cb70da</cell>
   </row>
-  <row index="180">
+  <row index="182">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d6cecbb8-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Third Peer Review Report on Treaty Shopping  (en)</cell>
@@ -3620,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd00bbdf</cell>
   </row>
-  <row index="181">
+  <row index="183">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -3640,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6870a10</cell>
   </row>
-  <row index="182">
+  <row index="184">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -3660,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9436e02</cell>
   </row>
-  <row index="183">
+  <row index="185">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>
@@ -3680,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72b01cd7</cell>
   </row>
-  <row index="184">
+  <row index="186">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/e670c620-en</cell>
     <cell name="title">OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021 (en)</cell>

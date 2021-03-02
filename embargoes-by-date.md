@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 March 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 2 March 2021 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 March 2021](#1-march-2021)
 * [2 March 2021](#2-march-2021)
@@ -35,7 +35,7 @@ Monday 1 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 February 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Monday 1 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 February 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
 
 ### Additional Information
 
@@ -81,7 +81,7 @@ Monday 1 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 February 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
 
 ### Additional Information
 
@@ -181,7 +181,7 @@ Thursday 4 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
 - [x] Exported to Keepeek Friday 5 February 2021 at 20:09
-- [x] Exported to OECD.org Friday 5 February 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
 
 ### Additional Information
 
@@ -635,6 +635,29 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord](https://doi.org/10.1787/efcc255a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 March 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
