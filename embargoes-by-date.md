@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 March 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 March 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 March 2021](#2-march-2021)
 * [4 March 2021](#4-march-2021)
 * [5 March 2021](#5-march-2021)
 * [8 March 2021](#8-march-2021)
@@ -20,79 +19,6 @@ Data generated on | |
 * [7 April 2021](#7-april-2021)
 * [8 April 2021](#8-april-2021)
 * [15 April 2021](#15-april-2021)
-
-------
-
-# 2 March 2021
-
-## [Towards a Skills Strategy for Southeast Asia - Skills for Post-COVID Recovery and Growth](https://doi.org/10.1787/6db0907f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 February 2021 at 20:20
-- [x] Exported to Keepeek Monday 22 February 2021 at 20:15
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Policies for the Future of Farming and Food in Norway](https://doi.org/10.1787/20b14991-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 February 2021 at 20:24
-- [x] Exported to Keepeek Friday 19 February 2021 at 20:13
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Improving the Provision of Active Labour Market Policies in Estonia](https://doi.org/10.1787/31f72c5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 March 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 February 2021 at 20:21
-- [x] Exported to Keepeek Friday 26 February 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -131,7 +57,7 @@ Thursday 4 March 2021 at 7:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
-- [x] Exported to Keepeek Friday 5 February 2021 at 20:09
+- [x] Exported to Keepeek Thursday 4 March 2021 at 20:11
 - [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
 
 ### Additional Information
@@ -191,6 +117,29 @@ Monday 8 March 2021 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Why do more young women than men go on to tertiary education?](https://doi.org/10.1787/6f7209d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -311,9 +260,9 @@ Friday 12 March 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
+- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
 
 ### Additional Information
 
@@ -321,7 +270,7 @@ Friday 12 March 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -438,15 +387,15 @@ Thursday 25 March 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
