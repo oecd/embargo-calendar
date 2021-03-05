@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 March 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 March 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 March 2021](#4-march-2021)
 * [5 March 2021](#5-march-2021)
 * [8 March 2021](#8-march-2021)
+* [9 March 2021](#9-march-2021)
 * [10 March 2021](#10-march-2021)
 * [11 March 2021](#11-march-2021)
-* [12 March 2021](#12-march-2021)
 * [18 March 2021](#18-march-2021)
 * [23 March 2021](#23-march-2021)
 * [25 March 2021](#25-march-2021)
@@ -35,7 +35,7 @@ Thursday 4 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Thursday 4 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
 - [x] Exported to Keepeek Thursday 4 March 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 2 March 2021 at 20:01
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -112,7 +112,7 @@ Monday 8 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 February 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 February 2021 at 19:58
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -135,7 +135,7 @@ Monday 8 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -158,7 +158,7 @@ Monday 8 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -167,6 +167,56 @@ Monday 8 March 2021 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment](https://doi.org/10.1787/6ffd1936-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 March 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
+- [x] Exported to Keepeek Friday 5 March 2021 at 20:14
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 9 March 2021
+
+## [OECD Economic Outlook, Interim Report March 2021](https://doi.org/10.1787/34bfd999-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 March 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -210,9 +260,9 @@ Thursday 11 March 2021 at 17:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
 
 ### Additional Information
 
@@ -244,33 +294,6 @@ Thursday 11 March 2021 at 17:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 12 March 2021
-
-## [Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment](https://doi.org/10.1787/6ffd1936-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 March 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -585,29 +608,6 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord](https://doi.org/10.1787/efcc255a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 March 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
