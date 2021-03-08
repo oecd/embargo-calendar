@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 March 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The impacts of the COVID-19 crisis on the automotive sector in Central and Eastern European Countries](https://doi.org/10.1787/a7d40030-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives on Decentralisation and Rural-Urban Linkages in Korea](https://doi.org/10.1787/a3c685a7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 March 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 February 2021 at 20:51
-- [x] Exported to Keepeek Thursday 4 March 2021 at 20:11
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Technology, labour market institutions and early retirement: evidence from Finland](https://doi.org/10.1787/3ea0c49b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The inequalities-environment nexus - Towards a people-centred green transition](https://doi.org/10.1787/ca9d8479-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 February 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 8 March 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Why do more young women than men go on to tertiary education?](https://doi.org/10.1787/6f7209d1-en)
 
@@ -173,10 +81,10 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
+- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
 ### Additional Information
 
@@ -184,7 +92,30 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire mars 2021](https://doi.org/10.1787/01954fa3-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 March 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
+- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -219,16 +150,16 @@ Thursday 11 March 2021 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
+- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -254,6 +185,29 @@ Thursday 11 March 2021 at 17:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The inequalities-environment nexus - Towards a people-centred green transition](https://doi.org/10.1787/ca9d8479-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -312,9 +266,9 @@ Tuesday 23 March 2021 at 14:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 February 2021 at 20:26
+- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 February 2021 at 20:01
+- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
 ### Additional Information
 
@@ -688,6 +642,29 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les impôts sur les salaires 2021 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE](https://doi.org/10.1787/24d05263-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
