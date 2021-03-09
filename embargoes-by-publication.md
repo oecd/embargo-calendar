@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 March 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 March 2021 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Why do more young women than men go on to tertiary education?](https://doi.org/10.1787/6f7209d1-en)
 
@@ -15,7 +15,7 @@ Monday 8 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 8 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 8 March 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 March 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [x] Exported to Keepeek Friday 5 March 2021 at 20:14
-- [x] Exported to OECD.org Friday 5 March 2021 at 20:01
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
@@ -69,7 +69,7 @@ Monday 8 March 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -82,8 +82,8 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
-- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [x] Exported to Keepeek Tuesday 9 March 2021 at 8:41
 - [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
 ### Additional Information
@@ -96,7 +96,7 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 
 ------
 
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire mars 2021](https://doi.org/10.1787/01954fa3-fr)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2021](https://doi.org/10.1787/01954fa3-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -105,9 +105,9 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
-- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
-- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 10 March 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 3 March 2021 at 20:10
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
@@ -152,7 +152,7 @@ Thursday 11 March 2021 at 17:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 March 2021 at 20:21
-- [x] Exported to Keepeek Monday 8 March 2021 at 20:11
+- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
 - [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
 ### Additional Information
@@ -173,16 +173,16 @@ Thursday 11 March 2021 at 17:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -197,7 +197,7 @@ Monday 15 March 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
@@ -323,6 +323,75 @@ Thursday 25 March 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord](https://doi.org/10.1787/efcc255a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [تطلعات سياسات الاستثمار في الشرق الأوسط وشمال أفريقيا](https://doi.org/10.1787/9191e47c-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Arabic*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Middle East and North Africa Investment Policy Perspectives](https://doi.org/10.1787/6d84ee94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 March 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -667,6 +736,29 @@ Thursday 15 April 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Impact of the Growth of the Sharing and Gig Economy on VAT/GST Policy and Administration ](https://doi.org/10.1787/51825505-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
