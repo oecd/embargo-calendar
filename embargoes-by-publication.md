@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 March 2021 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Why do more young women than men go on to tertiary education?](https://doi.org/10.1787/6f7209d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Do girls and boys engage with global and intercultural issues differently?](https://doi.org/10.1787/9a52e7dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 March 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Man Enough? Measuring Masculine Norms to Promote Women’s Empowerment](https://doi.org/10.1787/6ffd1936-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 March 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [x] Exported to Keepeek Friday 5 March 2021 at 20:14
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Wednesday 10 March 2021 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Interim Report March 2021](https://doi.org/10.1787/34bfd999-en)
 
@@ -84,7 +15,7 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 8:41
-- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Tuesday 9 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Thursday 11 March 2021 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 March 2021 at 20:21
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Thursday 11 March 2021 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
@@ -197,15 +128,107 @@ Monday 15 March 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 March 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [How effective are different social policies in Brazil? A simulation experiment](https://doi.org/10.1787/47087376-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Towards COVID-19 recovery and greater resilience in Zuid-Holland, The Netherlands](https://doi.org/10.1787/53b967a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Raising productivity through structural reform in Brazil](https://doi.org/10.1787/84e6fbeb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving skills to harness the benefits of a more open economy in Brazil](https://doi.org/10.1787/222c1741-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -243,15 +266,15 @@ Tuesday 23 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
