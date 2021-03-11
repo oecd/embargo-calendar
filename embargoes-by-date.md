@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 March 2021 at 21:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 March 2021 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 March 2021](#9-march-2021)
 * [10 March 2021](#10-march-2021)
 * [11 March 2021](#11-march-2021)
 * [15 March 2021](#15-march-2021)
@@ -15,60 +14,10 @@ Data generated on | |
 * [30 March 2021](#30-march-2021)
 * [31 March 2021](#31-march-2021)
 * [1 April 2021](#1-april-2021)
-* [7 April 2021](#7-april-2021)
 * [8 April 2021](#8-april-2021)
 * [15 April 2021](#15-april-2021)
 * [19 April 2021](#19-april-2021)
-
-------
-
-# 9 March 2021
-
-## [OECD Economic Outlook, Interim Report March 2021](https://doi.org/10.1787/34bfd999-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 March 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 9 March 2021 at 8:41
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2021](https://doi.org/10.1787/01954fa3-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 March 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
+* [28 April 2021](#28-april-2021)
 
 ------
 
@@ -85,7 +34,7 @@ Wednesday 10 March 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
 - [x] Exported to Keepeek Wednesday 3 March 2021 at 20:10
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
 
 ### Additional Information
 
@@ -310,9 +259,9 @@ Tuesday 23 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
+- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
 
 ### Additional Information
 
@@ -594,7 +543,7 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 February 2021 at 20:24
+- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 February 2021 at 19:59
 
@@ -733,33 +682,6 @@ Thursday 1 April 2021 at 9:00 | no launch event
 
 ------
 
-# 7 April 2021
-
-## [Effective Carbon Rates 2021 - Pricing Carbon Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/0e8e24f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 8 April 2021
 
 ## [OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021](https://doi.org/10.1787/e670c620-en)
@@ -857,6 +779,33 @@ Monday 19 April 2021 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 28 April 2021
+
+## [Effective Carbon Rates 2021 - Pricing Carbon Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/0e8e24f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
