@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 March 2021 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 March 2021 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 March 2021](#10-march-2021)
 * [11 March 2021](#11-march-2021)
 * [15 March 2021](#15-march-2021)
 * [16 March 2021](#16-march-2021)
@@ -15,36 +14,9 @@ Data generated on | |
 * [31 March 2021](#31-march-2021)
 * [1 April 2021](#1-april-2021)
 * [8 April 2021](#8-april-2021)
-* [15 April 2021](#15-april-2021)
+* [13 April 2021](#13-april-2021)
 * [19 April 2021](#19-april-2021)
 * [28 April 2021](#28-april-2021)
-
-------
-
-# 10 March 2021
-
-## [Towards Improved Retirement Savings Outcomes for Women](https://doi.org/10.1787/f7b48808-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 March 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 March 2021 at 20:20
-- [x] Exported to Keepeek Wednesday 3 March 2021 at 20:10
-- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -61,7 +33,7 @@ Thursday 11 March 2021 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 March 2021 at 20:21
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -84,7 +56,7 @@ Thursday 11 March 2021 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
 - [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -100,6 +72,29 @@ Thursday 11 March 2021 at 17:00 | no launch event
 
 # 15 March 2021
 
+## [Business advice for entrepreneurship and small firms ](https://doi.org/10.1787/299705ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [The inequalities-environment nexus - Towards a people-centred green transition](https://doi.org/10.1787/ca9d8479-en)
 
 Embargo date | Launch date
@@ -111,7 +106,7 @@ Monday 15 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -138,7 +133,7 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -161,7 +156,7 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -184,7 +179,7 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -207,7 +202,7 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 March 2021 at 20:07
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
@@ -231,16 +226,16 @@ Thursday 18 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 February 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 February 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 March 2021 at 20:27
+- [x] Exported to Keepeek Friday 12 March 2021 at 20:14
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -709,13 +704,13 @@ Thursday 8 April 2021 at 10:00 | no launch event
 
 ------
 
-# 15 April 2021
+# 13 April 2021
 
 ## [Taxing Wages 2021 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/83a87978-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 April 2021 at 9:00 | no launch event
+Tuesday 13 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -738,7 +733,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 April 2021 at 9:00 | no launch event
+Tuesday 13 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -797,9 +792,9 @@ Wednesday 28 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
+- [x] Exported to iLibrary Friday 12 March 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
+- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
 
 ### Additional Information
 
