@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 March 2021 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Canada 2021](https://doi.org/10.1787/16e4abc0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 March 2021 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
-- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l'OCDE : Canada 2021](https://doi.org/10.1787/55949ebb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 March 2021 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 9 March 2021 at 20:12
-- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Business advice for entrepreneurship and small firms ](https://doi.org/10.1787/299705ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 15 March 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The inequalities-environment nexus - Towards a people-centred green transition](https://doi.org/10.1787/ca9d8479-en)
 
@@ -188,6 +119,29 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 
 ------
 
+## [OECD Observer, Volume 1980 Issue 2_](https://doi.org/10.1787/observer-v1980-2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 March 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
+- [x] Exported to Keepeek Thursday 11 March 2021 at 20:20
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Journal Issue*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Indonesia 2021](https://doi.org/10.1787/fd7e6249-en)
 
 Embargo date | Launch date
@@ -243,7 +197,7 @@ Tuesday 23 March 2021 at 14:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 March 2021 at 20:21
+- [x] Exported to iLibrary Monday 15 March 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 March 2021 at 19:59
 
