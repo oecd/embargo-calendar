@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 March 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 16 March 2021 at 21:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 March 2021](#15-march-2021)
 * [16 March 2021](#16-march-2021)
+* [17 March 2021](#17-march-2021)
 * [18 March 2021](#18-march-2021)
 * [23 March 2021](#23-march-2021)
 * [25 March 2021](#25-march-2021)
@@ -32,7 +33,7 @@ Monday 15 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 16 March 2021 at 20:04
 
 ### Additional Information
 
@@ -140,11 +141,15 @@ Tuesday 16 March 2021 at 6:00 | no launch event
 
 ------
 
-## [OECD Observer, Volume 1980 Issue 2_](https://doi.org/10.1787/observer-v1980-2-en)
+------
+
+# 17 March 2021
+
+## [OECD Observer, Volume 1980 Issue 2_2](https://doi.org/10.1787/observer-v1980-2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 16 March 2021 at 9:00 | no launch event
+Wednesday 17 March 2021 at 11:00 | no launch event
 
 ### Status Information
 
@@ -253,15 +258,15 @@ Thursday 25 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 16 March 2021 at 20:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 16 March 2021 at 20:04
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
