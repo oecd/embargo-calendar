@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 March 2021 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [How effective are different social policies in Brazil? A simulation experiment](https://doi.org/10.1787/47087376-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Towards COVID-19 recovery and greater resilience in Zuid-Holland, The Netherlands](https://doi.org/10.1787/53b967a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Raising productivity through structural reform in Brazil](https://doi.org/10.1787/84e6fbeb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Improving skills to harness the benefits of a more open economy in Brazil](https://doi.org/10.1787/222c1741-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 March 2021 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 18 March 2021 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Indonesia 2021](https://doi.org/10.1787/fd7e6249-en)
 
@@ -128,15 +36,15 @@ Monday 22 March 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
+- [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
+- [x] Exported to OECD.org Thursday 18 March 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -151,15 +59,15 @@ Monday 22 March 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
+- [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
+- [x] Exported to OECD.org Thursday 18 March 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -220,7 +128,7 @@ Thursday 25 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 March 2021 at 20:49
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 March 2021 at 20:04
 
@@ -242,18 +150,18 @@ Thursday 25 March 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 March 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
+- [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
+- [x] Exported to OECD.org Thursday 18 March 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -349,6 +257,29 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 
 ------
 
+## [Examens environnementaux de l'OCDE : Belgique 2021 (Version abrégée)](https://doi.org/10.1787/85de0c2b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 March 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Belgium 2021](https://doi.org/10.1787/738553c5-en)
 
 Embargo date | Launch date
@@ -358,7 +289,7 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
 
@@ -427,7 +358,7 @@ Thursday 1 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
 
@@ -703,9 +634,9 @@ Wednesday 28 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 March 2021 at 20:27
+- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 March 2021 at 20:00
+- [x] Exported to OECD.org Thursday 18 March 2021 at 20:00
 
 ### Additional Information
 
