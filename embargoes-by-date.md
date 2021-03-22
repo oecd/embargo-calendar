@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 March 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 March 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 March 2021](#18-march-2021)
 * [22 March 2021](#22-march-2021)
 * [23 March 2021](#23-march-2021)
 * [25 March 2021](#25-march-2021)
@@ -16,33 +15,6 @@ Data generated on | |
 * [19 April 2021](#19-april-2021)
 * [20 April 2021](#20-april-2021)
 * [28 April 2021](#28-april-2021)
-
-------
-
-# 18 March 2021
-
-## [OECD Economic Surveys: Indonesia 2021](https://doi.org/10.1787/fd7e6249-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 March 2021 at 20:27
-- [x] Exported to Keepeek Friday 12 March 2021 at 20:14
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -106,18 +78,18 @@ Tuesday 23 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 11 March 2021 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 March 2021 at 20:06
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 March 2021 at 20:26
+- [x] Exported to Keepeek Monday 22 March 2021 at 20:12
+- [x] Exported to OECD.org Monday 22 March 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -132,7 +104,7 @@ Tuesday 23 March 2021 at 14:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
 - [x] Exported to Keepeek Friday 19 March 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
+- [x] Exported to OECD.org Monday 22 March 2021 at 19:57
 
 ### Additional Information
 
@@ -147,6 +119,29 @@ Tuesday 23 March 2021 at 14:30 | no launch event
 ------
 
 # 25 March 2021
+
+## [Demand for AI skills in jobs - Evidence from online job postings](https://doi.org/10.1787/3ed32d94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 March 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 March 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 March 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
 
