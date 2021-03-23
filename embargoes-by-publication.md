@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 March 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 23 March 2021 at 22:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Boîte à outils pour des politiques et la gouvernance de l’eau - Converger vers la Recommandation du Conseil de l’OCDE sur l’eau](https://doi.org/10.1787/e867acbb-fr)
 
@@ -15,7 +15,7 @@ Monday 22 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 22 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
 - [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 25 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 March 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 March 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
 
 ### Additional Information
 
@@ -116,29 +116,6 @@ Thursday 25 March 2021 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 March 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -173,18 +150,18 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 March 2021 at 21:25
+- [x] Exported to Keepeek Tuesday 23 March 2021 at 20:27
+- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -289,9 +266,9 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
+- [x] Exported to iLibrary Tuesday 23 March 2021 at 21:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
 
 ### Additional Information
 
@@ -619,6 +596,29 @@ Tuesday 20 April 2021 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Continuing Education and Training in Germany](https://doi.org/10.1787/1f552468-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 April 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
