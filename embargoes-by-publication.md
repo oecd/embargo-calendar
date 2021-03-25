@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 March 2021 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Counterfeiting, Piracy and the Swiss Economy](https://doi.org/10.1787/1f010fc9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 March 2021 at 20:26
-- [x] Exported to Keepeek Monday 22 March 2021 at 20:12
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Young People with Migrant Parents](https://doi.org/10.1787/6e773bfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 March 2021 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
-- [x] Exported to Keepeek Friday 19 March 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 25 March 2021 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Demand for AI skills in jobs - Evidence from online job postings](https://doi.org/10.1787/3ed32d94-en)
 
@@ -153,7 +107,7 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
 - [x] Exported to Keepeek Wednesday 24 March 2021 at 20:14
-- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
+- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
 
 ### Additional Information
 
@@ -242,18 +196,18 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
+- [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
+- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -265,18 +219,18 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
+- [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
+- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -312,9 +266,9 @@ Thursday 1 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
+- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
 
 ### Additional Information
 
