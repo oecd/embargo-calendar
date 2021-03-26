@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 March 2021 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 March 2021 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Demand for AI skills in jobs - Evidence from online job postings](https://doi.org/10.1787/3ed32d94-en)
 
@@ -15,7 +15,7 @@ Thursday 25 March 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 March 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 March 2021 at 20:10
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 25 March 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 March 2021 at 20:24
 - [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 25 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 25 March 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
 
 ### Additional Information
 
@@ -92,6 +92,52 @@ Thursday 25 March 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Conflict Networks in North and West Africa](https://doi.org/10.1787/896e3eca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 March 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 March 2021 at 21:59
+- [x] Exported to Keepeek Friday 26 March 2021 at 20:44
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Réseaux de conflit en Afrique du Nord et de l’Ouest](https://doi.org/10.1787/80c03df7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 March 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 March 2021 at 21:59
+- [x] Exported to Keepeek Friday 26 March 2021 at 20:44
+- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -265,8 +311,8 @@ Thursday 1 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 March 2021 at 21:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
 
