@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 March 2021 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Demand for AI skills in jobs - Evidence from online job postings](https://doi.org/10.1787/3ed32d94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 March 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 March 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How Was Life? Volume II - New Perspectives on Well-being and Global Inequality since 1820](https://doi.org/10.1787/3d96efc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 March 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [x] Exported to Keepeek Thursday 18 March 2021 at 20:15
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Funding and financing of local government public investment - A framework and application to five OECD Countries](https://doi.org/10.1787/162d8285-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 March 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fiscal rules for subnational governments - The devil’s in the details](https://doi.org/10.1787/531da6f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 March 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 29 March 2021 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Conflict Networks in North and West Africa](https://doi.org/10.1787/896e3eca-en)
 
@@ -129,7 +37,7 @@ Monday 29 March 2021 at 7:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 March 2021 at 21:59
-- [x] Exported to Keepeek Friday 26 March 2021 at 20:44
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
 - [x] Exported to OECD.org Friday 26 March 2021 at 20:29
 
 ### Additional Information
@@ -152,8 +60,8 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [x] Exported to Keepeek Wednesday 24 March 2021 at 20:14
-- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
@@ -173,16 +81,16 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 March 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 March 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Arabic*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -199,7 +107,7 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
 - [x] Exported to Keepeek Wednesday 17 March 2021 at 20:19
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
@@ -219,16 +127,16 @@ Tuesday 30 March 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 March 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -288,18 +196,18 @@ Thursday 1 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -312,17 +220,17 @@ Thursday 1 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 March 2021 at 21:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
+- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
+- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -666,6 +574,29 @@ Wednesday 28 April 2021 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
