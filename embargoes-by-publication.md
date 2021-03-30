@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 March 2021 at 21:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 30 March 2021 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Conflict Networks in North and West Africa](https://doi.org/10.1787/896e3eca-en)
 
@@ -15,7 +15,7 @@ Monday 29 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 March 2021 at 21:59
 - [x] Exported to Keepeek Friday 26 March 2021 at 20:44
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
+- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 29 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 March 2021 at 21:59
 - [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Friday 26 March 2021 at 20:29
+- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
 
 ### Additional Information
 
@@ -82,8 +82,8 @@ Tuesday 30 March 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
-- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 30 March 2021 at 20:23
+- [x] Exported to Keepeek Tuesday 30 March 2021 at 20:08
 - [x] Exported to OECD.org Monday 29 March 2021 at 19:59
 
 ### Additional Information
@@ -153,7 +153,7 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
 - [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
 - [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Thursday 25 March 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
 
 ### Additional Information
 
