@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 March 2021 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Perspectives des politiques d’investissement au Moyen-Orient et en Afrique du Nord](https://doi.org/10.1787/efcc255a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [تطلعات سياسات الاستثمار في الشرق الأوسط وشمال أفريقيا](https://doi.org/10.1787/9191e47c-ar)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 March 2021 at 20:23
-- [x] Exported to Keepeek Tuesday 30 March 2021 at 20:08
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Arabic*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Middle East and North Africa Investment Policy Perspectives](https://doi.org/10.1787/6d84ee94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 March 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 March 2021 at 21:12
-- [x] Exported to Keepeek Wednesday 17 March 2021 at 20:19
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Companion to the Inventory of Support Measures for Fossil Fuels 2021](https://doi.org/10.1787/e670c620-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 March 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
-- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 1 April 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: Belgium 2021](https://doi.org/10.1787/738553c5-en)
 
@@ -107,7 +15,7 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
 - [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
+- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Wednesday 31 March 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
 - [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Tuesday 30 March 2021 at 19:54
+- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
 
 ### Additional Information
 
@@ -185,6 +93,29 @@ Thursday 1 April 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [The State of School Education - One Year into the COVID Pandemic](https://doi.org/10.1787/201dde84-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 April 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 April 2021 at 20:22
+- [x] Exported to Keepeek Thursday 1 April 2021 at 20:08
+- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -487,29 +418,6 @@ Friday 23 April 2021 at 8:00 | no launch event
 
 ------
 
-## [Effective Carbon Rates 2021 - Pricing Carbon Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/0e8e24f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 March 2021 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 March 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Taxing Wages 2021 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/83a87978-en)
 
 Embargo date | Launch date
@@ -552,6 +460,29 @@ Thursday 29 April 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Effective Carbon Rates 2021 - Pricing Carbon Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/0e8e24f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 1 April 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
