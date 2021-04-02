@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 April 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Belgium 2021](https://doi.org/10.1787/738553c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 March 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
-- [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Belgique 2021 (Version abrégée)](https://doi.org/10.1787/85de0c2b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 March 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 March 2021 at 20:57
-- [x] Exported to Keepeek Thursday 25 March 2021 at 20:28
-- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 2 April 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal - Le Cadre Inclusif sur le BEPS : Action 6](https://doi.org/10.1787/bcdc38c0-fr)
 
@@ -61,7 +15,7 @@ Thursday 1 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 March 2021 at 21:13
 - [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Thursday 1 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 March 2021 at 21:13
 - [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Thursday 1 April 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 April 2021 at 20:22
 - [x] Exported to Keepeek Thursday 1 April 2021 at 20:08
-- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
+- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
 
 ### Additional Information
 
