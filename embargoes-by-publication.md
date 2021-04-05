@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 April 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Prévention de l’utilisation abusive des conventions fiscales – Troisième rapport d’examen par les pairs sur le chalandage fiscal - Le Cadre Inclusif sur le BEPS : Action 6](https://doi.org/10.1787/bcdc38c0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
-- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Prevention of Tax Treaty Abuse – Third Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/d6cecbb8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 March 2021 at 21:13
-- [x] Exported to Keepeek Monday 29 March 2021 at 20:21
-- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The State of School Education - One Year into the COVID Pandemic](https://doi.org/10.1787/201dde84-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 April 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 April 2021 at 20:22
-- [x] Exported to Keepeek Thursday 1 April 2021 at 20:08
-- [x] Exported to OECD.org Friday 2 April 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Monday 5 April 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Can a growth mindset help disadvantaged students close the gap?](https://doi.org/10.1787/20922f0d-en)
 
