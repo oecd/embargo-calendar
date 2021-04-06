@@ -2,12 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 April 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 April 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 April 2021](#8-april-2021)
+* [13 April 2021](#13-april-2021)
 * [15 April 2021](#15-april-2021)
 * [19 April 2021](#19-april-2021)
 * [20 April 2021](#20-april-2021)
+* [22 April 2021](#22-april-2021)
 * [23 April 2021](#23-april-2021)
 * [29 April 2021](#29-april-2021)
 * [5 May 2021](#5-may-2021)
@@ -42,6 +44,33 @@ Thursday 8 April 2021 at 9:00 | no launch event
 
 ------
 
+# 13 April 2021
+
+## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 April 2021 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 15 April 2021
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/d6d1fd4e-en)
@@ -63,6 +92,29 @@ Thursday 15 April 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [What can schools and teachers do to help boys close the gap in reading performance?](https://doi.org/10.1787/bcbf795e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -241,9 +293,9 @@ Monday 19 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 March 2021 at 20:28
+- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
 
 ### Additional Information
 
@@ -300,6 +352,33 @@ Tuesday 20 April 2021 at 14:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | Spanish*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 April 2021
+
+## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 April 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
