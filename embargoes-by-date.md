@@ -2,18 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 April 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 April 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 April 2021](#8-april-2021)
 * [13 April 2021](#13-april-2021)
+* [14 April 2021](#14-april-2021)
 * [15 April 2021](#15-april-2021)
 * [19 April 2021](#19-april-2021)
-* [20 April 2021](#20-april-2021)
+* [21 April 2021](#21-april-2021)
 * [22 April 2021](#22-april-2021)
 * [23 April 2021](#23-april-2021)
 * [29 April 2021](#29-april-2021)
 * [5 May 2021](#5-may-2021)
 * [6 May 2021](#6-may-2021)
+* [11 May 2021](#11-may-2021)
 
 ------
 
@@ -30,7 +32,7 @@ Thursday 8 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
@@ -71,6 +73,33 @@ Tuesday 13 April 2021 at 9:30 | no launch event
 
 ------
 
+# 14 April 2021
+
+## [Economic Policy Reforms 2021 - Going for Growth](https://doi.org/10.1787/3c796721-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 April 2021 at 9:17 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 15 April 2021
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/d6d1fd4e-en)
@@ -81,16 +110,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -127,16 +156,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -150,16 +179,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -173,16 +202,16 @@ Thursday 15 April 2021 at 9:00 | Thursday 15 April 2021 at 9:00
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -196,16 +225,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -219,16 +248,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -242,16 +271,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -265,16 +294,16 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 March 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 March 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -332,13 +361,13 @@ Monday 19 April 2021 at 9:00 | no launch event
 
 ------
 
-# 20 April 2021
+# 21 April 2021
 
-## [Revenue Statistics in Latin America and the Caribbean 2021 (en) | Estadísticas tributarias en América Latina y el Caribe 2021](https://doi.org/10.1787/96ce5287-en-es)
+## [Tax Policy Reforms 2021 - Special Edition on Tax Policy during the COVID-19 Pandemic](https://doi.org/10.1787/427d2616-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 20 April 2021 at 14:00 | no launch event
+Wednesday 21 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -350,7 +379,7 @@ Tuesday 20 April 2021 at 14:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -378,6 +407,29 @@ Thursday 22 April 2021 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2021 (en) | Estadísticas tributarias en América Latina y el Caribe 2021](https://doi.org/10.1787/96ce5287-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 April 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | Spanish*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -415,7 +467,7 @@ Friday 23 April 2021 at 8:00 | no launch event
 
 # 29 April 2021
 
-## [Taxing Wages 2021 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/83a87978-en)
+## [Taxing Wages 2021](https://doi.org/10.1787/83a87978-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -424,9 +476,9 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 March 2021 at 20:28
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
@@ -438,7 +490,7 @@ Thursday 29 April 2021 at 9:00 | no launch event
 
 ------
 
-## [Les impôts sur les salaires 2021 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE](https://doi.org/10.1787/24d05263-fr)
+## [Les impôts sur les salaires 2021](https://doi.org/10.1787/24d05263-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -447,9 +499,9 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 March 2021 at 20:28
+- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 March 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
 ### Additional Information
 
@@ -511,6 +563,33 @@ Thursday 6 May 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 May 2021
+
+## [Inheritance Taxation in OECD Countries](https://doi.org/10.1787/e2879a7d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
