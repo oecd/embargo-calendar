@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 April 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 8 April 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Can a growth mindset help disadvantaged students close the gap?](https://doi.org/10.1787/20922f0d-en)
 
@@ -27,26 +27,95 @@ Thursday 8 April 2021 at 9:00 | no launch event
 
 ------
 
-## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
+## [An assessment of the impact of COVID-19 on job and skills demand using online job vacancy data](https://doi.org/10.1787/20fff09e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 13 April 2021 at 9:30 | no launch event
+Friday 9 April 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
+* Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
+## [Non-military actors as a regional strategy in the Lake Chad region](https://doi.org/10.1787/30204d8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [When and how do business shutdowns work? Evidence from Italy’s first COVID-19 wave](https://doi.org/10.1787/095b5d62-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Unleashing the full potential of the Turkish business sector](https://doi.org/10.1787/3a64ce1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -59,15 +128,15 @@ Wednesday 14 April 2021 at 9:17 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -312,15 +381,15 @@ Monday 19 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -427,9 +496,9 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
 
 ### Additional Information
 
@@ -450,14 +519,60 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 April 2021 at 10:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Driving Performance at Portugal’s Energy Services Regulatory Authority](https://doi.org/10.1787/05fb2fae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
