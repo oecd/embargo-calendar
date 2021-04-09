@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 April 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 9 April 2021 at 22:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Can a growth mindset help disadvantaged students close the gap?](https://doi.org/10.1787/20922f0d-en)
 
@@ -15,7 +15,7 @@ Thursday 8 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 13 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 13 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 13 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Wednesday 14 April 2021 at 9:17 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -381,9 +381,9 @@ Monday 19 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -450,7 +450,7 @@ Thursday 22 April 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -542,14 +542,37 @@ Thursday 29 April 2021 at 10:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to iLibrary Friday 9 April 2021 at 11:38
+- [x] Exported to Keepeek Friday 9 April 2021 at 20:12
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Impulsionando o Desempenho da Entidade Reguladora dos Serviços Energéticos de Portugal](https://doi.org/10.1787/d615a513-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -565,9 +588,9 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
 
 ### Additional Information
 
@@ -602,29 +625,6 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 
 ------
 
-## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Inheritance Taxation in OECD Countries](https://doi.org/10.1787/e2879a7d-en)
 
 Embargo date | Launch date
@@ -644,6 +644,29 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
