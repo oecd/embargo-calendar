@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 April 2021 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 12 April 2021 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 April 2021](#8-april-2021)
-* [9 April 2021](#9-april-2021)
 * [13 April 2021](#13-april-2021)
 * [14 April 2021](#14-april-2021)
 * [15 April 2021](#15-april-2021)
@@ -17,60 +15,8 @@ Data generated on | |
 * [5 May 2021](#5-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
-
-------
-
-# 8 April 2021
-
-## [Can a growth mindset help disadvantaged students close the gap?](https://doi.org/10.1787/20922f0d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 9 April 2021
-
-## [An assessment of the impact of COVID-19 on job and skills demand using online job vacancy data](https://doi.org/10.1787/20fff09e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 April 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
+* [18 May 2021](#18-may-2021)
+* [25 May 2021](#25-may-2021)
 
 ------
 
@@ -185,7 +131,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -231,7 +177,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -254,7 +200,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -277,7 +223,7 @@ Thursday 15 April 2021 at 9:00 | Thursday 15 April 2021 at 9:00
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -300,7 +246,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -323,7 +269,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -346,7 +292,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -369,7 +315,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 April 2021 at 20:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
 - [x] Exported to OECD.org Wednesday 7 April 2021 at 19:56
 
@@ -473,9 +419,9 @@ Thursday 22 April 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+- [x] Exported to OECD.org Monday 12 April 2021 at 19:57
 
 ### Additional Information
 
@@ -496,9 +442,9 @@ Thursday 22 April 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
+- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 April 2021 at 19:57
 
 ### Additional Information
 
@@ -584,6 +530,29 @@ Thursday 29 April 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 April 2021 at 10:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -733,6 +702,198 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 May 2021
+
+## [The Impact of Regulation on International Investment in Finland](https://doi.org/10.1787/b1bf8bee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 May 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 May 2021
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Iceland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8b1deca3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hungary (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a128f476-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Greece (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3bb76f22-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, The Slovak Republic (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/df4ca02e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Turkey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6dd47527-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Slovenia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/27a608bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Romania (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/800bcae2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
