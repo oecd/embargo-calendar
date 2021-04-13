@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 April 2021 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 April 2021 at 21:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 April 2021](#13-april-2021)
 * [14 April 2021](#14-april-2021)
@@ -95,32 +95,55 @@ Tuesday 13 April 2021 at 5:00 | no launch event
 
 # 14 April 2021
 
-## [Economic Policy Reforms 2021 - Going for Growth](https://doi.org/10.1787/3c796721-en)
+## [Economic Policy Reforms 2021 - Going for Growth: Shaping a Vibrant Recovery](https://doi.org/10.1787/3c796721-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 April 2021 at 9:17 | no launch event
+Wednesday 14 April 2021 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 April 2021 at 22:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
+- [x] Exported to Keepeek Tuesday 13 April 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
 ------
 
 # 15 April 2021
+
+## [Policies for a climate-neutral industry - Lessons from the Netherlands](https://doi.org/10.1787/a3a1f953-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Israel (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/d6d1fd4e-en)
 
@@ -392,15 +415,15 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -468,18 +491,18 @@ Friday 23 April 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 March 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 March 2021 at 19:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
+- [x] Exported to Keepeek Tuesday 13 April 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -542,15 +565,15 @@ Thursday 29 April 2021 at 10:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -565,9 +588,9 @@ Thursday 29 April 2021 at 10:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 April 2021 at 11:38
+- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
 - [x] Exported to Keepeek Friday 9 April 2021 at 20:12
-- [x] Exported to OECD.org Friday 9 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
 
 ### Additional Information
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-04-12T20:56:47.3276108+02:00">
+<report name="official-embargoes" generated="2021-04-13T21:06:37.634028+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -84,41 +84,41 @@
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/3c796721-en</cell>
     <cell name="title">Economic Policy Reforms 2021 (en)</cell>
-    <cell name="subtitle">Going for Growth (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-04-14</cell>
-    <cell name="embargo date">2021-04-14T09:17:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e19a4265</cell>
-  </row>
-  <row index="5">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/3c796721-en</cell>
-    <cell name="title">Economic Policy Reforms 2021 (en)</cell>
-    <cell name="subtitle">Going for Growth (en)</cell>
+    <cell name="subtitle">Going for Growth: Shaping a Vibrant Recovery (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-04-14</cell>
-    <cell name="embargo date">2021-04-14T09:17:00Z</cell>
+    <cell name="embargo date">2021-04-14T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-04-09T20:23:36Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-04-09T17:56:25Z</cell>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6baadbc3</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a3a1f953-en</cell>
+    <cell name="title">Policies for a climate-neutral industry (en)</cell>
+    <cell name="subtitle">Lessons from the Netherlands (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-15</cell>
+    <cell name="embargo date">2021-04-15T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c0d9c68</cell>
   </row>
   <row index="6">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -387,13 +387,13 @@
     <cell name="subtitle">Special Edition on Tax Policy during the COVID-19 Pandemic (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-04-21</cell>
     <cell name="embargo date">2021-04-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -408,7 +408,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2021-04-21</cell>
     <cell name="embargo date">2021-04-21T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -482,23 +482,23 @@
   </row>
   <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/1f552468-en</cell>
-    <cell name="title">Continuing Education and Training in Germany (en)</cell>
+    <cell name="doi">10.1787/5d5c6cd2-en</cell>
+    <cell name="title">The continuing education and training landscape (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-04-23</cell>
     <cell name="embargo date">2021-04-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-03-24T19:29:19Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-03-24T18:59:13Z</cell>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02ece471</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c31a64e9</cell>
   </row>
   <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
@@ -506,12 +506,232 @@
     <cell name="title">Continuing Education and Training in Germany (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-04-23</cell>
     <cell name="embargo date">2021-04-23T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21e02d2b</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3a664f72-en</cell>
+    <cell name="title">Funding of CET and financial incentives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2416d58</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/056f2c95-en</cell>
+    <cell name="title">The changing skill needs of the German labour market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c82a61aa</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/caaf1553-en</cell>
+    <cell name="title">Engaging adults with low skills (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10fbbd14</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/af23df82-en</cell>
+    <cell name="title">Guidance, validation and partial qualifications (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f70917fe</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5d5c6cd2-en</cell>
+    <cell name="title">The continuing education and training landscape (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b75e60b</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/af23df82-en</cell>
+    <cell name="title">Guidance, validation and partial qualifications (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64259572</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3b37a1f9-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5f21b2c</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/946b881a-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3462d5f9</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1f552468-en</cell>
+    <cell name="title">Continuing Education and Training in Germany (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02ece471</cell>
+  </row>
+  <row index="35">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/caaf1553-en</cell>
+    <cell name="title">Engaging adults with low skills (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ded2274</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1f552468-en</cell>
+    <cell name="title">Continuing Education and Training in Germany (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -520,7 +740,227 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14b5f6d2</cell>
   </row>
-  <row index="26">
+  <row index="37">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/056f2c95-en</cell>
+    <cell name="title">The changing skill needs of the German labour market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9aee103</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3a664f72-en</cell>
+    <cell name="title">Funding of CET and financial incentives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3e89a10</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ac7f47a4-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8463db1</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7fa97114-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ef20390</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ac7f47a4-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a185411</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3b37a1f9-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74ba9e7f</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1f552468-en</cell>
+    <cell name="title">Continuing Education and Training in Germany (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89e86d70</cell>
+  </row>
+  <row index="44">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/946b881a-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c3fe44b</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ec98075e-en</cell>
+    <cell name="title">Glossary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b25d831</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7fa97114-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f74b10a7</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ec98075e-en</cell>
+    <cell name="title">Glossary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-04-23</cell>
+    <cell name="embargo date">2021-04-23T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
+    <cell name="freepreview last export date">2021-04-13T18:12:33Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8580032d</cell>
+  </row>
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -540,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9436e02</cell>
   </row>
-  <row index="27">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/83a87978-en</cell>
     <cell name="title">Taxing Wages 2021 (en)</cell>
@@ -560,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c4b27be</cell>
   </row>
-  <row index="28">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/83a87978-en</cell>
     <cell name="title">Taxing Wages 2021 (en)</cell>
@@ -580,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da65716a</cell>
   </row>
-  <row index="29">
+  <row index="51">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/24d05263-fr</cell>
     <cell name="title">Les impôts sur les salaires 2021 (fr)</cell>
@@ -600,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e865bd6b</cell>
   </row>
-  <row index="30">
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/24d05263-fr</cell>
     <cell name="title">Les impôts sur les salaires 2021 (fr)</cell>
@@ -620,27 +1060,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94315166</cell>
   </row>
-  <row index="31">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/62046220-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée) (fr)</cell>
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-04-29</cell>
     <cell name="embargo date">2021-04-29T10:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98864b38</cell>
   </row>
-  <row index="32">
+  <row index="54">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9ef10b4f-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Ireland 2021 (en)</cell>
@@ -651,16 +1091,16 @@
     <cell name="date of publication">2021-04-29</cell>
     <cell name="embargo date">2021-04-29T10:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-04-09T09:38:09Z</cell>
+    <cell name="ilibrary last export date">2021-04-13T18:29:43Z</cell>
     <cell name="freepreview last export date">2021-04-09T18:12:05Z</cell>
-    <cell name="oecd.org last export date">2021-04-09T17:56:25Z</cell>
+    <cell name="oecd.org last export date">2021-04-13T17:58:19Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dffe25c</cell>
   </row>
-  <row index="33">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/05fb2fae-en</cell>
     <cell name="title">Driving Performance at Portugal’s Energy Services Regulatory Authority (en)</cell>
@@ -680,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab0d2f76</cell>
   </row>
-  <row index="34">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d615a513-pt</cell>
     <cell name="title">Impulsionando o Desempenho da Entidade Reguladora dos Serviços Energéticos de Portugal (pt)</cell>
@@ -700,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85651afa</cell>
   </row>
-  <row index="35">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/05fb2fae-en</cell>
     <cell name="title">Driving Performance at Portugal’s Energy Services Regulatory Authority (en)</cell>
@@ -720,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ff5def7</cell>
   </row>
-  <row index="36">
+  <row index="58">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0e8e24f5-en</cell>
     <cell name="title">Effective Carbon Rates 2021 (en)</cell>
@@ -740,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6870a10</cell>
   </row>
-  <row index="37">
+  <row index="59">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5b759e8a-fr</cell>
     <cell name="title">L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS (fr)</cell>
@@ -760,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bd6b682</cell>
   </row>
-  <row index="38">
+  <row index="60">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e2879a7d-en</cell>
     <cell name="title">Inheritance Taxation in OECD Countries (en)</cell>
@@ -780,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0cd527f</cell>
   </row>
-  <row index="39">
+  <row index="61">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e2879a7d-en</cell>
     <cell name="title">Inheritance Taxation in OECD Countries (en)</cell>
@@ -800,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff137843</cell>
   </row>
-  <row index="40">
+  <row index="62">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5b759e8a-fr</cell>
     <cell name="title">L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS (fr)</cell>
@@ -820,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/409252ee</cell>
   </row>
-  <row index="41">
+  <row index="63">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/b1bf8bee-en</cell>
     <cell name="title">The Impact of Regulation on International Investment in Finland (en)</cell>
@@ -840,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/087653dd</cell>
   </row>
-  <row index="42">
+  <row index="64">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/b1bf8bee-en</cell>
     <cell name="title">The Impact of Regulation on International Investment in Finland (en)</cell>
@@ -860,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2822c956</cell>
   </row>
-  <row index="43">
+  <row index="65">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b1deca3-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Iceland (Stage 2) (en)</cell>
@@ -880,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/328a4a8f</cell>
   </row>
-  <row index="44">
+  <row index="66">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a128f476-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Hungary (Stage 2) (en)</cell>
@@ -900,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c3b2985</cell>
   </row>
-  <row index="45">
+  <row index="67">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df4ca02e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, The Slovak Republic (Stage 2) (en)</cell>
@@ -920,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7cdc2f9</cell>
   </row>
-  <row index="46">
+  <row index="68">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3bb76f22-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Greece (Stage 2) (en)</cell>
@@ -940,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e384971f</cell>
   </row>
-  <row index="47">
+  <row index="69">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3bb76f22-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Greece (Stage 2) (en)</cell>
@@ -960,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a36f37b</cell>
   </row>
-  <row index="48">
+  <row index="70">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8b1deca3-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Iceland (Stage 2) (en)</cell>
@@ -980,7 +1420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b3f6814</cell>
   </row>
-  <row index="49">
+  <row index="71">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df4ca02e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, The Slovak Republic (Stage 2) (en)</cell>
@@ -1000,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e74ad2ae</cell>
   </row>
-  <row index="50">
+  <row index="72">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27a608bc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Slovenia (Stage 2) (en)</cell>
@@ -1020,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b1b963d</cell>
   </row>
-  <row index="51">
+  <row index="73">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6dd47527-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Turkey (Stage 2) (en)</cell>
@@ -1040,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7e9782f</cell>
   </row>
-  <row index="52">
+  <row index="74">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/800bcae2-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Romania (Stage 2) (en)</cell>
@@ -1060,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37068e5c</cell>
   </row>
-  <row index="53">
+  <row index="75">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6dd47527-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Turkey (Stage 2) (en)</cell>
@@ -1080,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b1764e</cell>
   </row>
-  <row index="54">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27a608bc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Slovenia (Stage 2) (en)</cell>
@@ -1100,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7e496a8</cell>
   </row>
-  <row index="55">
+  <row index="77">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/800bcae2-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Romania (Stage 2) (en)</cell>
@@ -1120,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6e0f669</cell>
   </row>
-  <row index="56">
+  <row index="78">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a128f476-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Hungary (Stage 2) (en)</cell>
