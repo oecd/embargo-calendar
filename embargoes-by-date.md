@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 April 2021 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 15 April 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 April 2021](#13-april-2021)
 * [14 April 2021](#14-april-2021)
 * [15 April 2021](#15-april-2021)
 * [19 April 2021](#19-april-2021)
@@ -12,84 +11,14 @@ Data generated on | |
 * [22 April 2021](#22-april-2021)
 * [23 April 2021](#23-april-2021)
 * [29 April 2021](#29-april-2021)
+* [30 April 2021](#30-april-2021)
+* [4 May 2021](#4-may-2021)
 * [5 May 2021](#5-may-2021)
+* [10 May 2021](#10-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
 * [18 May 2021](#18-may-2021)
 * [25 May 2021](#25-may-2021)
-
-------
-
-# 13 April 2021
-
-## [Non-military actors as a regional strategy in the Lake Chad region](https://doi.org/10.1787/30204d8f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 April 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [When and how do business shutdowns work? Evidence from Italy’s first COVID-19 wave](https://doi.org/10.1787/095b5d62-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 April 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Unleashing the full potential of the Turkish business sector](https://doi.org/10.1787/3a64ce1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 April 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -105,8 +34,8 @@ Wednesday 14 April 2021 at 8:30 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
-- [x] Exported to Keepeek Wednesday 14 April 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to Keepeek Thursday 15 April 2021 at 20:09
+- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
 
 ### Additional Information
 
@@ -356,25 +285,25 @@ Thursday 15 April 2021 at 9:00 | no launch event
 
 # 19 April 2021
 
-## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+## [Characterising agri-environmental policies - Towards measuring their progress](https://doi.org/10.1787/41257e3c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 April 2021 at 9:00 | no launch event
+Monday 19 April 2021 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 April 2021 at 19:58
+- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -432,29 +361,6 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 ------
 
 # 22 April 2021
-
-## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 April 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Revenue Statistics in Latin America and the Caribbean 2021 (en) | Estadísticas tributarias en América Latina y el Caribe 2021](https://doi.org/10.1787/96ce5287-en-es)
 
@@ -604,6 +510,60 @@ Thursday 29 April 2021 at 10:30 | no launch event
 
 ------
 
+# 30 April 2021
+
+## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 April 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 May 2021
+
+## [21st-Century Readers - Developing Literacy Skills in a Digital World](https://doi.org/10.1787/a83d84cb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 May 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 5 May 2021
 
 ## [Impulsionando o Desempenho da Entidade Reguladora dos Serviços Energéticos de Portugal](https://doi.org/10.1787/d615a513-pt)
@@ -671,6 +631,33 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 May 2021
+
+## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
