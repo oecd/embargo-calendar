@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 April 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Economic Policy Reforms 2021 - Going for Growth: Shaping a Vibrant Recovery](https://doi.org/10.1787/3c796721-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 April 2021 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
-- [x] Exported to Keepeek Thursday 15 April 2021 at 20:09
-- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 16 April 2021 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for a climate-neutral industry - Lessons from the Netherlands](https://doi.org/10.1787/a3a1f953-en)
 
@@ -38,7 +15,7 @@ Thursday 15 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 April 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Thursday 15 April 2021 at 9:00 | Thursday 15 April 2021 at 9:00
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -176,7 +153,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -199,7 +176,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -222,7 +199,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -245,7 +222,7 @@ Thursday 15 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 April 2021 at 20:31
 - [x] Exported to Keepeek Wednesday 7 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -268,7 +245,7 @@ Monday 19 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -291,7 +268,7 @@ Monday 19 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
 - [x] Exported to Keepeek Wednesday 14 April 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 14 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
@@ -311,16 +288,16 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 April 2021 at 20:24
+- [x] Exported to Keepeek Friday 16 April 2021 at 20:08
+- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -552,7 +529,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
