@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 April 2021 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 20 April 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 April 2021](#19-april-2021)
 * [21 April 2021](#21-april-2021)
@@ -12,10 +12,10 @@ Data generated on | |
 * [30 April 2021](#30-april-2021)
 * [4 May 2021](#4-may-2021)
 * [5 May 2021](#5-may-2021)
-* [10 May 2021](#10-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
 * [19 May 2021](#19-may-2021)
+* [20 May 2021](#20-may-2021)
 * [25 May 2021](#25-may-2021)
 
 ------
@@ -33,7 +33,7 @@ Monday 19 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 19 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
 - [x] Exported to Keepeek Wednesday 14 April 2021 at 20:11
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -72,6 +72,29 @@ Monday 19 April 2021 at 9:00 | no launch event
 
 # 21 April 2021
 
+## [Tax Administration:  Digital Resilience in the COVID-19 Environment](https://doi.org/10.1787/2f3cf2fb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 April 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Format: *PDF*
+
+------
+
 ## [Tax Policy Reforms 2021 - Special Edition on Tax Policy during the COVID-19 Pandemic](https://doi.org/10.1787/427d2616-en)
 
 Embargo date | Launch date
@@ -83,7 +106,7 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 April 2021 at 20:24
 - [x] Exported to Keepeek Friday 16 April 2021 at 20:08
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -91,7 +114,7 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -107,8 +130,8 @@ Thursday 22 April 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 12 April 2021 at 19:57
 
@@ -374,33 +397,6 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 
 ------
 
-# 10 May 2021
-
-## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 11 May 2021
 
 ## [Inheritance Taxation in OECD Countries](https://doi.org/10.1787/e2879a7d-en)
@@ -477,6 +473,33 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 20 May 2021
+
+## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 April 2021 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 20 April 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Characterising agri-environmental policies - Towards measuring their progress](https://doi.org/10.1787/41257e3c-en)
 
@@ -15,7 +15,7 @@ Monday 19 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 19 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
 - [x] Exported to Keepeek Wednesday 14 April 2021 at 20:11
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -47,6 +47,29 @@ Monday 19 April 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Tax Administration:  Digital Resilience in the COVID-19 Environment](https://doi.org/10.1787/2f3cf2fb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 April 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Format: *PDF*
 
 ------
 
@@ -61,7 +84,7 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 April 2021 at 20:24
 - [x] Exported to Keepeek Friday 16 April 2021 at 20:08
-- [x] Exported to OECD.org Friday 16 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
 
 ### Additional Information
 
@@ -69,7 +92,7 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -81,8 +104,8 @@ Thursday 22 April 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 April 2021 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 12 April 2021 at 19:57
 
@@ -326,29 +349,6 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 
 ------
 
-## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Inheritance Taxation in OECD Countries](https://doi.org/10.1787/e2879a7d-en)
 
 Embargo date | Launch date
@@ -415,6 +415,29 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
