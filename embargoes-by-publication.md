@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 April 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Characterising agri-environmental policies - Towards measuring their progress](https://doi.org/10.1787/41257e3c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 April 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Impact of the Growth of the Sharing and Gig Economy on VAT/GST Policy and Administration ](https://doi.org/10.1787/51825505-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 April 2021 at 20:27
-- [x] Exported to Keepeek Wednesday 14 April 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Wednesday 21 April 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Administration:  Digital Resilience in the COVID-19 Environment](https://doi.org/10.1787/2f3cf2fb-en)
 
@@ -59,7 +13,7 @@ Wednesday 21 April 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -105,17 +59,17 @@ Thursday 22 April 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 April 2021 at 19:57
+- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 21 April 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English | Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -196,16 +150,16 @@ Thursday 29 April 2021 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
+- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
+- [x] Exported to OECD.org Wednesday 21 April 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -312,7 +266,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 April 2021 at 20:32
+- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
 - [x] Exported to Keepeek Monday 19 April 2021 at 20:16
 - [x] Exported to OECD.org Monday 19 April 2021 at 19:57
 
