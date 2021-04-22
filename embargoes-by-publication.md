@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 April 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 22 April 2021 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Administration:  Digital Resilience in the COVID-19 Environment](https://doi.org/10.1787/2f3cf2fb-en)
 
@@ -38,7 +38,7 @@ Wednesday 21 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 April 2021 at 20:24
 - [x] Exported to Keepeek Friday 16 April 2021 at 20:08
-- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
+- [x] Exported to OECD.org Thursday 22 April 2021 at 19:57
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Friday 23 April 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
 - [x] Exported to Keepeek Tuesday 13 April 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
+- [x] Exported to OECD.org Thursday 22 April 2021 at 19:57
 
 ### Additional Information
 
