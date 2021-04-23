@@ -2,11 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 April 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 23 April 2021 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 April 2021](#21-april-2021)
 * [22 April 2021](#22-april-2021)
 * [23 April 2021](#23-april-2021)
+* [26 April 2021](#26-april-2021)
+* [27 April 2021](#27-april-2021)
+* [28 April 2021](#28-april-2021)
 * [29 April 2021](#29-april-2021)
 * [30 April 2021](#30-april-2021)
 * [4 May 2021](#4-may-2021)
@@ -16,56 +18,6 @@ Data generated on | |
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
 * [25 May 2021](#25-may-2021)
-
-------
-
-# 21 April 2021
-
-## [Tax Administration:  Digital Resilience in the COVID-19 Environment](https://doi.org/10.1787/2f3cf2fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 April 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Format: *PDF*
-
-------
-
-## [Tax Policy Reforms 2021 - Special Edition on Tax Policy during the COVID-19 Pandemic](https://doi.org/10.1787/427d2616-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 April 2021 at 20:24
-- [x] Exported to Keepeek Friday 16 April 2021 at 20:08
-- [x] Exported to OECD.org Thursday 22 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -82,7 +34,7 @@ Thursday 22 April 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
 - [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 21 April 2021 at 19:54
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
 
 ### Additional Information
 
@@ -123,6 +75,110 @@ Friday 23 April 2021 at 8:00 | no launch event
 
 ------
 
+# 26 April 2021
+
+## [Framework to discuss corruption in OECD Economic Surveys](https://doi.org/10.1787/d1e523ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Greening Lithuania’s growth](https://doi.org/10.1787/5211d402-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 April 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 27 April 2021
+
+## [OECD Skills Strategy Kazakhstan  - Assessment and Recommendations](https://doi.org/10.1787/39629b47-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 April 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [x] Exported to Keepeek Friday 23 April 2021 at 20:13
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 28 April 2021
+
+## [Risks that matter 2020: The long reach of COVID-19](https://doi.org/10.1787/44932654-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 April 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Format: *PDF*
+
+------
+
+------
+
 # 29 April 2021
 
 ## [Taxing Wages 2021](https://doi.org/10.1787/83a87978-en)
@@ -134,9 +190,9 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
 
 ### Additional Information
 
@@ -144,7 +200,7 @@ Thursday 29 April 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -157,9 +213,9 @@ Thursday 29 April 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 April 2021 at 20:26
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 April 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
 
 ### Additional Information
 
@@ -167,7 +223,7 @@ Thursday 29 April 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -257,15 +313,15 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
