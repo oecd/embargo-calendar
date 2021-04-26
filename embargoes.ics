@@ -2,96 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/96ce5287-en-esd3e63
-SUMMARY:Revenue Statistics in Latin America and 
- the Caribbean 2021 (en) | Estadísticas t
- ributarias en América Latina y el Caribe
-  2021
-DESCRIPTION:*Revenue Statistics in Latin America and
-  the Caribbean 2021 (en) | Estadísticas 
- tributarias en América Latina y el Carib
- e 2021*\n\nDirectorate: Centre for Tax P
- olicy and Administration\nLanguage: Engl
- ish | Spanish\nDOI: https://doi.org/10.1
- 787/96ce5287-en-es\nPublication type: Bo
- ok\nReleased as: PDF\n\nEmbargo date/tim
- e: Thursday, 22 April 2021, 14:00 (GMT)\
- n\n\niLibrary export: Wednesday, 21 Apri
- l 2021, 18:23 (GMT)\nFreepreview export:
-  Wednesday, 21 April 2021, 18:09 (GMT)\n
- OECD.org export: Friday, 23 April 2021, 
- 17:57 (GMT)\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:5
- 6, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=96ce5287-en-es.
-DTSTAMP:20210423T205701Z
-DTSTART:20210422T140000Z
-DTEND:20210422T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Revenue Statistics in Latin Am
- erica and the Caribbean 2021 (en) | Esta
- dísticas tributarias en América Latina y
-  el Caribe 2021
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1f552468-end3e723
-SUMMARY:Continuing Education and Training in Ger
- many
-DESCRIPTION:*Continuing Education and Training in Ge
- rmany*\n\nDirectorate: Directorate for E
- mployment, Labour and Social Affairs\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/1f552468-en\nPublication type: Boo
- k\nReleased as: ePub, HTML, Paperback, P
- DF\n\nEmbargo date/time: Friday, 23 Apri
- l 2021, 8:00 (GMT)\n\n\niLibrary export:
-  Tuesday, 13 April 2021, 18:29 (GMT)\nFr
- eepreview export: Tuesday, 13 April 2021
- , 18:12 (GMT)\nOECD.org export: Thursday
- , 22 April 2021, 17:57 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 20:56, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=1f55
- 2468-en.
-DTSTAMP:20210423T205701Z
-DTSTART:20210423T080000Z
-DTEND:20210423T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Continuing Education and Train
- ing in Germany
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d1e523ef-end3e1542
+UID:10.1787/d1e523ef-end3e63
 SUMMARY:Framework to discuss corruption in OECD 
  Economic Surveys
 DESCRIPTION:*Framework to discuss corruption in OECD
@@ -108,7 +19,7 @@ DESCRIPTION:*Framework to discuss corruption in OECD
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:56, it is updated ea
+ his afternoon at 20:39, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -117,7 +28,7 @@ DESCRIPTION:*Framework to discuss corruption in OECD
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  d1e523ef-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210426T050000Z
 DTEND:20210426T051500Z
 TRANSP:TRANSPARENT
@@ -131,7 +42,7 @@ DESCRIPTION:Reminder: Framework to discuss corruptio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5211d402-end3e1598
+UID:10.1787/5211d402-end3e118
 SUMMARY:Greening Lithuania’s growth
 DESCRIPTION:*Greening Lithuania’s growth*\n\nDirecto
  rate: Economics Department\nLanguage: En
@@ -146,7 +57,7 @@ DESCRIPTION:*Greening Lithuania’s growth*\n\nDirecto
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:56, it is
+ ect as of this afternoon at 20:39, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -155,7 +66,7 @@ DESCRIPTION:*Greening Lithuania’s growth*\n\nDirecto
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=5211d402-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210426T050000Z
 DTEND:20210426T051500Z
 TRANSP:TRANSPARENT
@@ -168,7 +79,7 @@ DESCRIPTION:Reminder: Greening Lithuania’s growth
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/39629b47-end3e2147
+UID:10.1787/39629b47-end3e668
 SUMMARY:OECD Skills Strategy Kazakhstan  - Asses
  sment and Recommendations
 DESCRIPTION:*OECD Skills Strategy Kazakhstan - Asses
@@ -186,7 +97,7 @@ DESCRIPTION:*OECD Skills Strategy Kazakhstan - Asses
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:56, it is upda
+ s of this afternoon at 20:39, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -195,7 +106,7 @@ DESCRIPTION:*OECD Skills Strategy Kazakhstan - Asses
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=39629b47-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210427T060000Z
 DTEND:20210427T061500Z
 TRANSP:TRANSPARENT
@@ -209,7 +120,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Kazakhsta
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/44932654-end3e4175
+UID:10.1787/44932654-end3e2696
 SUMMARY:Risks that matter 2020: The long reach o
  f COVID-19
 DESCRIPTION:*Risks that matter 2020: The long reach 
@@ -226,7 +137,7 @@ DESCRIPTION:*Risks that matter 2020: The long reach
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:56, it is
+ ect as of this afternoon at 20:39, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -235,7 +146,7 @@ DESCRIPTION:*Risks that matter 2020: The long reach
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=44932654-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210428T070000Z
 DTEND:20210428T071500Z
 TRANSP:TRANSPARENT
@@ -249,7 +160,7 @@ DESCRIPTION:Reminder: Risks that matter 2020: The lo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83a87978-end3e4283
+UID:10.1787/83a87978-end3e2803
 SUMMARY:Taxing Wages 2021
 DESCRIPTION:*Taxing Wages 2021*\n\nDirectorate: Cent
  re for Tax Policy and Administration\nLa
@@ -265,7 +176,7 @@ DESCRIPTION:*Taxing Wages 2021*\n\nDirectorate: Cent
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 20:56, it is updat
+  of this afternoon at 20:39, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -274,7 +185,7 @@ DESCRIPTION:*Taxing Wages 2021*\n\nDirectorate: Cent
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=83a87978-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210429T090000Z
 DTEND:20210429T091500Z
 TRANSP:TRANSPARENT
@@ -287,7 +198,7 @@ DESCRIPTION:Reminder: Taxing Wages 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24d05263-frd3e4604
+UID:10.1787/24d05263-frd3e4879
 SUMMARY:Les impôts sur les salaires 2021
 DESCRIPTION:*Les impôts sur les salaires 2021*\n\nDi
  rectorate: Centre for Tax Policy and Adm
@@ -303,8 +214,8 @@ DESCRIPTION:*Les impôts sur les salaires 2021*\n\nDi
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:5
- 6, it is updated each night; therefore a
+ was correct as of this afternoon at 20:3
+ 9, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -312,7 +223,7 @@ DESCRIPTION:*Les impôts sur les salaires 2021*\n\nDi
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=24d05263-fr.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210429T090000Z
 DTEND:20210429T091500Z
 TRANSP:TRANSPARENT
@@ -326,7 +237,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/62046220-frd3e4712
+UID:10.1787/62046220-frd3e5678
 SUMMARY:Examens environnementaux de l'OCDE: Irla
  nde 2021 (Version abrégée)
 DESCRIPTION:*Examens environnementaux de l'OCDE: Irl
@@ -344,7 +255,7 @@ DESCRIPTION:*Examens environnementaux de l'OCDE: Irl
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:56, it i
+ rect as of this afternoon at 20:39, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -353,7 +264,7 @@ DESCRIPTION:*Examens environnementaux de l'OCDE: Irl
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=62046220-fr.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210429T103000Z
 DTEND:20210429T104500Z
 TRANSP:TRANSPARENT
@@ -367,7 +278,7 @@ DESCRIPTION:Reminder: Examens environnementaux de l'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ef10b4f-end3e4768
+UID:10.1787/9ef10b4f-end3e5734
 SUMMARY:OECD Environmental Performance Reviews: 
  Ireland 2021
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -385,7 +296,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:56, it is updated each night;
+ noon at 20:39, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -394,7 +305,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=9ef10b4f-
  en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210429T103000Z
 DTEND:20210429T104500Z
 TRANSP:TRANSPARENT
@@ -408,7 +319,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79e92d88-end3e4824
+UID:10.1787/79e92d88-end3e5791
 SUMMARY:OECD Economic Surveys: Spain 2021
 DESCRIPTION:*OECD Economic Surveys: Spain 2021*\n\nD
  irectorate: Economics Department\nLangua
@@ -424,7 +335,7 @@ DESCRIPTION:*OECD Economic Surveys: Spain 2021*\n\nD
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:56, it is updated each night;
+ noon at 20:39, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -433,7 +344,7 @@ DESCRIPTION:*OECD Economic Surveys: Spain 2021*\n\nD
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=79e92d88-
  en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210430T090000Z
 DTEND:20210430T091500Z
 TRANSP:TRANSPARENT
@@ -447,7 +358,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Spain 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a83d84cb-end3e4932
+UID:10.1787/a83d84cb-end3e5898
 SUMMARY:21st-Century Readers - Developing Litera
  cy Skills in a Digital World
 DESCRIPTION:*21st-Century Readers - Developing Liter
@@ -465,7 +376,7 @@ DESCRIPTION:*21st-Century Readers - Developing Liter
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:56, it is updated each n
+ afternoon at 20:39, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -474,7 +385,7 @@ DESCRIPTION:*21st-Century Readers - Developing Liter
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=a83d
  84cb-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210504T070000Z
 DTEND:20210504T071500Z
 TRANSP:TRANSPARENT
@@ -488,7 +399,7 @@ DESCRIPTION:Reminder: 21st-Century Readers - Develop
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d615a513-ptd3e6133
+UID:10.1787/d615a513-ptd3e7100
 SUMMARY:Impulsionando o Desempenho da Entidade R
  eguladora dos Serviços Energéticos de Po
  rtugal
@@ -508,7 +419,7 @@ DESCRIPTION:*Impulsionando o Desempenho da Entidade
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:56, it is upda
+ s of this afternoon at 20:39, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -517,7 +428,7 @@ DESCRIPTION:*Impulsionando o Desempenho da Entidade
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=d615a513-pt.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210505T080000Z
 DTEND:20210505T081500Z
 TRANSP:TRANSPARENT
@@ -532,7 +443,7 @@ DESCRIPTION:Reminder: Impulsionando o Desempenho da
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/05fb2fae-end3e6354
+UID:10.1787/05fb2fae-end3e7320
 SUMMARY:Driving Performance at Portugal’s Energy
   Services Regulatory Authority
 DESCRIPTION:*Driving Performance at Portugal’s Energ
@@ -551,7 +462,7 @@ DESCRIPTION:*Driving Performance at Portugal’s Energ
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:56, it is updated e
+ this afternoon at 20:39, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -560,7 +471,7 @@ DESCRIPTION:*Driving Performance at Portugal’s Energ
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =05fb2fae-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210505T080000Z
 DTEND:20210505T081500Z
 TRANSP:TRANSPARENT
@@ -574,7 +485,7 @@ DESCRIPTION:Reminder: Driving Performance at Portuga
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0e8e24f5-end3e6902
+UID:10.1787/0e8e24f5-end3e7868
 SUMMARY:Effective Carbon Rates 2021 - Pricing Ca
  rbon Emissions through Taxes and Emissio
  ns Trading
@@ -594,7 +505,7 @@ DESCRIPTION:*Effective Carbon Rates 2021 - Pricing C
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:56, it is updated
+ f this afternoon at 20:39, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -603,7 +514,7 @@ DESCRIPTION:*Effective Carbon Rates 2021 - Pricing C
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=0e8e24f5-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210505T090000Z
 DTEND:20210505T091500Z
 TRANSP:TRANSPARENT
@@ -618,7 +529,7 @@ DESCRIPTION:Reminder: Effective Carbon Rates 2021 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e2879a7d-end3e7060
+UID:10.1787/e2879a7d-end3e8026
 SUMMARY:Inheritance Taxation in OECD Countries
 DESCRIPTION:*Inheritance Taxation in OECD Countries*
  \n\nDirectorate: Centre for Tax Policy a
@@ -633,7 +544,7 @@ DESCRIPTION:*Inheritance Taxation in OECD Countries*
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 20:56, it is updated each nigh
+ ernoon at 20:39, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -642,7 +553,7 @@ DESCRIPTION:*Inheritance Taxation in OECD Countries*
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=e2879a7
  d-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210511T090000Z
 DTEND:20210511T091500Z
 TRANSP:TRANSPARENT
@@ -656,7 +567,7 @@ DESCRIPTION:Reminder: Inheritance Taxation in OECD C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5b759e8a-frd3e7165
+UID:10.1787/5b759e8a-frd3e8131
 SUMMARY:L’impact de la croissance de l'économie 
  du partage et à la demande sur la politi
  que et l’administration de la TVA/TPS
@@ -675,7 +586,7 @@ DESCRIPTION:*L’impact de la croissance de l'économie
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:56, it is 
+ ct as of this afternoon at 20:39, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -684,7 +595,7 @@ DESCRIPTION:*L’impact de la croissance de l'économie
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=5b759e8a-fr.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210512T090000Z
 DTEND:20210512T091500Z
 TRANSP:TRANSPARENT
@@ -700,7 +611,7 @@ DESCRIPTION:Reminder: L’impact de la croissance de l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b1bf8bee-end3e7216
+UID:10.1787/b1bf8bee-end3e8182
 SUMMARY:The Impact of Regulation on Internationa
  l Investment in Finland
 DESCRIPTION:*The Impact of Regulation on Internation
@@ -717,7 +628,7 @@ DESCRIPTION:*The Impact of Regulation on Internation
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:56, it is updated each nig
+ ternoon at 20:39, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -726,7 +637,7 @@ DESCRIPTION:*The Impact of Regulation on Internation
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=b1bf8b
  ee-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210519T073000Z
 DTEND:20210519T074500Z
 TRANSP:TRANSPARENT
@@ -740,7 +651,7 @@ DESCRIPTION:Reminder: The Impact of Regulation on In
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48828791-end3e7267
+UID:10.1787/48828791-end3e8233
 SUMMARY:OECD Sovereign Borrowing Outlook 2021
 DESCRIPTION:*OECD Sovereign Borrowing Outlook 2021*\
  n\nDirectorate: Directorate for Financia
@@ -757,7 +668,7 @@ DESCRIPTION:*OECD Sovereign Borrowing Outlook 2021*\
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :56, it is updated each night; therefore
+ :39, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -765,7 +676,7 @@ DESCRIPTION:*OECD Sovereign Borrowing Outlook 2021*\
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=48828791-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210520T080000Z
 DTEND:20210520T081500Z
 TRANSP:TRANSPARENT
@@ -779,7 +690,7 @@ DESCRIPTION:Reminder: OECD Sovereign Borrowing Outlo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b1deca3-end3e7321
+UID:10.1787/8b1deca3-end3e8287
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Iceland (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -799,7 +710,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:56, it is updated ea
+ his afternoon at 20:39, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -808,7 +719,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  8b1deca3-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -824,7 +735,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a128f476-end3e7373
+UID:10.1787/a128f476-end3e8339
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Hungary (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -844,7 +755,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:56, it is updated ea
+ his afternoon at 20:39, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -853,7 +764,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  a128f476-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -869,7 +780,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3bb76f22-end3e7530
+UID:10.1787/3bb76f22-end3e8496
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Greece (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -889,7 +800,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:56, it is updated eac
+ is afternoon at 20:39, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -898,7 +809,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=3
  bb76f22-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -914,7 +825,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df4ca02e-end3e7634
+UID:10.1787/df4ca02e-end3e8600
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, The Slovak Re
  public (Stage 2) - Inclusive Framework o
@@ -934,7 +845,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:56, it i
+ rect as of this afternoon at 20:39, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -943,7 +854,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=df4ca02e-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -959,7 +870,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6dd47527-end3e7843
+UID:10.1787/6dd47527-end3e8809
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Turkey (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -979,7 +890,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:56, it is updated eac
+ is afternoon at 20:39, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -988,7 +899,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=6
  dd47527-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -1004,7 +915,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/27a608bc-end3e7895
+UID:10.1787/27a608bc-end3e8861
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Slovenia (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -1024,7 +935,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:56, it is updated e
+ this afternoon at 20:39, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1033,7 +944,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =27a608bc-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT
@@ -1049,7 +960,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/800bcae2-end3e7947
+UID:10.1787/800bcae2-end3e8913
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Romania (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1069,7 +980,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:56, it is updated ea
+ his afternoon at 20:39, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1078,7 +989,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  800bcae2-en.
-DTSTAMP:20210423T205701Z
+DTSTAMP:20210426T203945Z
 DTSTART:20210525T090000Z
 DTEND:20210525T091500Z
 TRANSP:TRANSPARENT

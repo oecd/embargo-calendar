@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 April 2021 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Revenue Statistics in Latin America and the Caribbean 2021 (en) | Estadísticas tributarias en América Latina y el Caribe 2021](https://doi.org/10.1787/96ce5287-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 April 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
-- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Continuing Education and Training in Germany](https://doi.org/10.1787/1f552468-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 April 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
-- [x] Exported to Keepeek Tuesday 13 April 2021 at 20:12
-- [x] Exported to OECD.org Thursday 22 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 26 April 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Framework to discuss corruption in OECD Economic Surveys](https://doi.org/10.1787/d1e523ef-en)
 
