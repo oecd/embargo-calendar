@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 April 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 27 April 2021 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Framework to discuss corruption in OECD Economic Surveys](https://doi.org/10.1787/d1e523ef-en)
 
@@ -15,7 +15,7 @@ Monday 26 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 26 April 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 April 2021 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
@@ -82,7 +82,7 @@ Wednesday 28 April 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -92,7 +92,7 @@ Wednesday 28 April 2021 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy response*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -104,16 +104,16 @@ Thursday 29 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -127,87 +127,18 @@ Thursday 29 April 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 April 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
-- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 21 April 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 April 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 April 2021 at 20:29
-- [x] Exported to Keepeek Friday 9 April 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 13 April 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 15 April 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 April 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -243,9 +174,9 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 April 2021 at 20:32
-- [x] Exported to Keepeek Monday 19 April 2021 at 20:16
-- [x] Exported to OECD.org Monday 19 April 2021 at 19:57
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
@@ -288,18 +219,64 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 1 April 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 April 2021 at 19:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 May 2021 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 May 2021 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to Keepeek Friday 9 April 2021 at 20:12
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -312,17 +289,40 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -358,15 +358,15 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
