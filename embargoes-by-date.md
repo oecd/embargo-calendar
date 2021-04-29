@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 April 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 April 2021 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 April 2021](#27-april-2021)
 * [28 April 2021](#28-april-2021)
 * [29 April 2021](#29-april-2021)
 * [4 May 2021](#4-may-2021)
@@ -15,33 +14,6 @@ Data generated on | |
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
 * [25 May 2021](#25-may-2021)
-
-------
-
-# 27 April 2021
-
-## [OECD Skills Strategy Kazakhstan  - Assessment and Recommendations](https://doi.org/10.1787/39629b47-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 April 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
-- [x] Exported to Keepeek Friday 23 April 2021 at 20:13
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -147,6 +119,29 @@ Thursday 29 April 2021 at 9:00 | no launch event
 
 # 4 May 2021
 
+## [Artificial intelligence companies, goods and services - A trademark-based analysis](https://doi.org/10.1787/2db2d7f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 April 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [21st-Century Readers - Developing Literacy Skills in a Digital World](https://doi.org/10.1787/a83d84cb-en)
 
 Embargo date | Launch date
@@ -167,6 +162,29 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Are 15-year-olds prepared to deal with fake news and misinformation?](https://doi.org/10.1787/6ad5395e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 May 2021 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 April 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
