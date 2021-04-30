@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 April 2021 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 30 April 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 April 2021](#28-april-2021)
 * [29 April 2021](#29-april-2021)
+* [3 May 2021](#3-may-2021)
 * [4 May 2021](#4-may-2021)
 * [5 May 2021](#5-may-2021)
 * [10 May 2021](#10-may-2021)
@@ -14,33 +14,6 @@ Data generated on | |
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
 * [25 May 2021](#25-may-2021)
-
-------
-
-# 28 April 2021
-
-## [Risks that matter 2020: The long reach of COVID-19](https://doi.org/10.1787/44932654-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 April 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -80,7 +53,7 @@ Thursday 29 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
+- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
 
 ### Additional Information
 
@@ -103,7 +76,7 @@ Thursday 29 April 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
+- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
 
 ### Additional Information
 
@@ -112,6 +85,33 @@ Thursday 29 April 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 3 May 2021
+
+## [Trade finance for SMEs in the digital era](https://doi.org/10.1787/e505fe39-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 April 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -130,11 +130,34 @@ Tuesday 4 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 April 2021 at 19:55
+- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Are 15-year-olds prepared to deal with fake news and misinformation?](https://doi.org/10.1787/6ad5395e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 May 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 April 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -162,29 +185,6 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Are 15-year-olds prepared to deal with fake news and misinformation?](https://doi.org/10.1787/6ad5395e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 May 2021 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 April 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
 
 ------
 
@@ -257,7 +257,7 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
