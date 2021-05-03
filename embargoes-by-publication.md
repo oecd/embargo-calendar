@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 April 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Scaling up policies that connect people with jobs in the recovery from COVID-19](https://doi.org/10.1787/a91d2087-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 April 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [Taxing Wages 2021](https://doi.org/10.1787/83a87978-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
-- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Les impôts sur les salaires 2021](https://doi.org/10.1787/24d05263-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 April 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
-- [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 3 May 2021 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trade finance for SMEs in the digital era](https://doi.org/10.1787/e505fe39-en)
 
@@ -130,7 +61,7 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 30 April 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
+- [x] Exported to OECD.org Monday 3 May 2021 at 19:57
 
 ### Additional Information
 
@@ -150,16 +81,16 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 April 2021 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 April 2021 at 19:57
+- [x] Exported to OECD.org Monday 3 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -303,6 +234,29 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 
 ------
 
+## [Adapting Curriculum to Bridge Equity Gaps - Towards an Inclusive Curriculum](https://doi.org/10.1787/6b49e118-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 May 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
 
 Embargo date | Launch date
@@ -345,6 +299,29 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Skills Strategy Tlaxcala (Mexico) - Assessment and Recommendations](https://doi.org/10.1787/13925818-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 May 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
