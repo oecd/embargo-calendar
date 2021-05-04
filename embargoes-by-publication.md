@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 May 2021 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 May 2021 at 20:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trade finance for SMEs in the digital era](https://doi.org/10.1787/e505fe39-en)
 
@@ -15,7 +15,7 @@ Monday 3 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 30 April 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -92,7 +92,7 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -107,7 +107,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
 - [x] Exported to Keepeek Monday 19 April 2021 at 20:16
-- [x] Exported to OECD.org Monday 19 April 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -162,6 +162,29 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Sticky floors or glass ceilings? The role of human capital, working time flexibility and discrimination in the gender wage gap](https://doi.org/10.1787/02ef3235-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -222,7 +245,7 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -245,13 +268,13 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -314,13 +337,13 @@ Wednesday 19 May 2021 at 6:00 | no launch event
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -337,7 +360,7 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
 ### Additional Information
 
@@ -345,6 +368,29 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Preventing Harmful Alcohol Use](https://doi.org/10.1787/6e4b4ffb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -526,6 +572,29 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Regional Integration in the Union for the Mediterranean - Progress Report](https://doi.org/10.1787/325884b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 May 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
