@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 May 2021 at 20:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Trade finance for SMEs in the digital era](https://doi.org/10.1787/e505fe39-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 April 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 5 May 2021 at 20:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Artificial intelligence companies, goods and services - A trademark-based analysis](https://doi.org/10.1787/2db2d7f4-en)
 
@@ -38,7 +15,7 @@ Tuesday 4 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 April 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 30 April 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 May 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
@@ -82,9 +59,9 @@ Tuesday 4 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 May 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 May 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
@@ -174,9 +151,9 @@ Friday 7 May 2021 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
@@ -243,7 +220,7 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -266,7 +243,7 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -280,7 +257,7 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -288,10 +265,33 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 May 2021 at 9:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 April 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
@@ -303,26 +303,26 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 
 ------
 
-## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
+## [Assessing the Economic Impacts of Environmental Policies - Evidence from a Decade of OECD Research](https://doi.org/10.1787/bf2fb156-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 12 May 2021 at 9:00 | no launch event
+Monday 17 May 2021 at 12:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
+* Directorate: *Environment Directorate*
+* Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -335,7 +335,7 @@ Wednesday 19 May 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -358,7 +358,7 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -380,8 +380,8 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -391,7 +391,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -595,6 +595,29 @@ Thursday 27 May 2021 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Scotland’s Curriculum for Excellence - Into the Future](https://doi.org/10.1787/bf624417-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 June 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
