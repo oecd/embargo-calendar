@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 May 2021 at 20:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 May 2021 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 May 2021](#4-may-2021)
 * [5 May 2021](#5-may-2021)
 * [7 May 2021](#7-may-2021)
 * [10 May 2021](#10-may-2021)
@@ -17,79 +16,6 @@ Data generated on | |
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
 * [21 June 2021](#21-june-2021)
-
-------
-
-# 4 May 2021
-
-## [Artificial intelligence companies, goods and services - A trademark-based analysis](https://doi.org/10.1787/2db2d7f4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 April 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Are 15-year-olds prepared to deal with fake news and misinformation?](https://doi.org/10.1787/6ad5395e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 May 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 April 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [21st-Century Readers - Developing Literacy Skills in a Digital World](https://doi.org/10.1787/a83d84cb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 May 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -106,7 +32,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -129,7 +55,7 @@ Wednesday 5 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 April 2021 at 20:23
 - [x] Exported to Keepeek Monday 19 April 2021 at 20:16
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -152,7 +78,7 @@ Wednesday 5 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
 - [x] Exported to Keepeek Tuesday 27 April 2021 at 20:17
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -195,18 +121,64 @@ Friday 7 May 2021 at 5:00 | no launch event
 
 # 10 May 2021
 
-## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
+## [The Impact of the African Swine Fever outbreak in China on global agricultural markets](https://doi.org/10.1787/96d0410d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 May 2021 at 9:30 | no launch event
+Monday 10 May 2021 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Design principles for agricultural risk management policies](https://doi.org/10.1787/1048819f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 May 2021 at 10:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -222,14 +194,14 @@ Monday 10 May 2021 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 May 2021 at 9:30 | no launch event
+Monday 10 May 2021 at 10:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [x] Exported to Keepeek Friday 9 April 2021 at 20:12
-- [x] Exported to OECD.org Wednesday 28 April 2021 at 19:55
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -253,16 +225,16 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -304,7 +276,7 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 April 2021 at 20:15
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
@@ -314,7 +286,7 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -331,7 +303,7 @@ Thursday 13 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 April 2021 at 20:35
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
@@ -339,6 +311,29 @@ Thursday 13 May 2021 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l’OCDE : Espagne 2021 (version abrégée)](https://doi.org/10.1787/79175037-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
@@ -358,7 +353,7 @@ Monday 17 May 2021 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
 
@@ -385,9 +380,9 @@ Wednesday 19 May 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
@@ -408,7 +403,7 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
 
@@ -431,15 +426,15 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
+- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
