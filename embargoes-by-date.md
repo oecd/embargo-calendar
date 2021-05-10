@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 May 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 10 May 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 May 2021](#7-may-2021)
 * [10 May 2021](#10-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
@@ -14,34 +13,8 @@ Data generated on | |
 * [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
+* [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
-
-------
-
-# 7 May 2021
-
-## [Sticky floors or glass ceilings? The role of human capital, working time flexibility and discrimination in the gender wage gap](https://doi.org/10.1787/02ef3235-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 10:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -154,7 +127,7 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 May 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
 
 ### Additional Information
 
@@ -177,7 +150,7 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 May 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
 
 ### Additional Information
 
@@ -189,9 +162,55 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 
 ------
 
+## [Teachers’ professional learning  study  - Diagnostic report for the Flemish Community of Belgium](https://doi.org/10.1787/7a6d6736-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 May 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 12 May 2021
+
+## [Improving the well-being of Canadians](https://doi.org/10.1787/6ab6b718-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
 
@@ -220,6 +239,52 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 
 # 17 May 2021
 
+## [Entrepreneurship Policies through a Gender Lens](https://doi.org/10.1787/71c8f9c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 May 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [ITF Transport Outlook 2021](https://doi.org/10.1787/16826a30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *International Transport Forum*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Assessing the Economic Impacts of Environmental Policies - Evidence from a Decade of OECD Research](https://doi.org/10.1787/bf2fb156-en)
 
 Embargo date | Launch date
@@ -228,18 +293,18 @@ Monday 17 May 2021 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -578,6 +643,33 @@ Thursday 27 May 2021 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 June 2021
+
+## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
