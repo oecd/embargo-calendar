@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 May 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 May 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 May 2021](#10-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
 * [17 May 2021](#17-may-2021)
+* [18 May 2021](#18-may-2021)
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
 * [21 May 2021](#21-may-2021)
@@ -15,6 +16,7 @@ Data generated on | |
 * [27 May 2021](#27-may-2021)
 * [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
+* [8 July 2021](#8-july-2021)
 
 ------
 
@@ -31,7 +33,7 @@ Monday 10 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -54,7 +56,7 @@ Monday 10 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -77,7 +79,7 @@ Monday 10 May 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -100,7 +102,7 @@ Monday 10 May 2021 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [x] Exported to Keepeek Friday 9 April 2021 at 20:12
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -125,7 +127,7 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 May 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 11:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 May 2021 at 19:56
 
@@ -223,7 +225,7 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -247,18 +249,18 @@ Monday 17 May 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -310,6 +312,33 @@ Monday 17 May 2021 at 12:00 | no launch event
 
 ------
 
+# 18 May 2021
+
+## [Investing in competences and skills and reforming the labour market to create better jobs in Indonesia](https://doi.org/10.1787/fd54e6be-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 19 May 2021
 
 ## [OECD Skills Strategy Tlaxcala (Mexico) - Assessment and Recommendations](https://doi.org/10.1787/13925818-en)
@@ -321,9 +350,9 @@ Wednesday 19 May 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
@@ -367,7 +396,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
@@ -393,18 +422,18 @@ Thursday 20 May 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 20 April 2021 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 April 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -503,6 +532,29 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Estonia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/332796fc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -663,15 +715,15 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -697,6 +749,33 @@ Monday 21 June 2021 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 July 2021
+
+## [OECD Employment Outlook 2021 - Navigating the COVID-19 Crisis and Recovery](https://doi.org/10.1787/5a700c4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
