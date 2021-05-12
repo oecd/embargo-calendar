@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 May 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 May 2021 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 May 2021](#10-may-2021)
 * [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
 * [17 May 2021](#17-may-2021)
@@ -14,105 +13,10 @@ Data generated on | |
 * [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
+* [13 June 2021](#13-june-2021)
 * [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 10 May 2021
-
-## [The Impact of the African Swine Fever outbreak in China on global agricultural markets](https://doi.org/10.1787/96d0410d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Design principles for agricultural risk management policies](https://doi.org/10.1787/1048819f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE: Irlande 2021 (Version abrégée)](https://doi.org/10.1787/62046220-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
-- [x] Exported to Keepeek Wednesday 21 April 2021 at 20:09
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Ireland 2021](https://doi.org/10.1787/9ef10b4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 May 2021 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
-- [x] Exported to Keepeek Friday 9 April 2021 at 20:12
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -129,7 +33,7 @@ Tuesday 11 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 May 2021 at 11:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
@@ -152,7 +56,7 @@ Tuesday 11 May 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 May 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
@@ -175,7 +79,7 @@ Tuesday 11 May 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
@@ -423,7 +327,7 @@ Thursday 20 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
 
@@ -433,7 +337,30 @@ Thursday 20 May 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Lobbying in the 21st Century - Transparency, Integrity and Access](https://doi.org/10.1787/c6d8eff8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -500,15 +427,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -523,15 +450,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -569,15 +496,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -592,15 +519,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -615,15 +542,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -638,15 +565,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -661,15 +588,15 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -704,6 +631,33 @@ Thursday 27 May 2021 at 8:00 | no launch event
 
 ------
 
+# 13 June 2021
+
+## [No Place Like Home - Policies for Better Housing](https://doi.org/10.1787/b453b043-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 13 June 2021 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 15 June 2021
 
 ## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
@@ -715,9 +669,9 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
 ### Additional Information
 
