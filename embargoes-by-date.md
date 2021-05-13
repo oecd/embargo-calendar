@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 May 2021 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 May 2021 at 20:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 May 2021](#11-may-2021)
 * [12 May 2021](#12-may-2021)
 * [17 May 2021](#17-may-2021)
 * [18 May 2021](#18-may-2021)
@@ -17,79 +16,6 @@ Data generated on | |
 * [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 11 May 2021
-
-## [Inheritance Taxation in OECD Countries](https://doi.org/10.1787/e2879a7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 11:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Adapting Curriculum to Bridge Equity Gaps - Towards an Inclusive Curriculum](https://doi.org/10.1787/6b49e118-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 May 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 May 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Teachers’ professional learning  study  - Diagnostic report for the Flemish Community of Belgium](https://doi.org/10.1787/7a6d6736-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 May 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -106,7 +32,7 @@ Wednesday 12 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Thursday 13 May 2021 at 19:55
 
 ### Additional Information
 
@@ -129,7 +55,7 @@ Wednesday 12 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+- [x] Exported to OECD.org Thursday 13 May 2021 at 19:55
 
 ### Additional Information
 
