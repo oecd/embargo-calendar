@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 May 2021 at 20:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 May 2021 at 20:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 May 2021](#12-may-2021)
 * [17 May 2021](#17-may-2021)
 * [18 May 2021](#18-may-2021)
 * [19 May 2021](#19-may-2021)
@@ -16,56 +15,6 @@ Data generated on | |
 * [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 12 May 2021
-
-## [Improving the well-being of Canadians](https://doi.org/10.1787/6ab6b718-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 May 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [L’impact de la croissance de l'économie du partage et à la demande sur la politique et l’administration de la TVA/TPS](https://doi.org/10.1787/5b759e8a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 May 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -82,7 +31,7 @@ Monday 17 May 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
 
 ### Additional Information
 
@@ -105,7 +54,7 @@ Monday 17 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
 
 ### Additional Information
 
@@ -128,7 +77,7 @@ Monday 17 May 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
 
 ### Additional Information
 
@@ -155,7 +104,7 @@ Tuesday 18 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
 
 ### Additional Information
 
