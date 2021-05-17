@@ -2,15 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 May 2021 at 20:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 May 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 May 2021](#17-may-2021)
 * [18 May 2021](#18-may-2021)
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
-* [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
+* [31 May 2021](#31-may-2021)
+* [8 June 2021](#8-june-2021)
 * [13 June 2021](#13-june-2021)
 * [15 June 2021](#15-june-2021)
 * [21 June 2021](#21-june-2021)
@@ -104,7 +105,7 @@ Tuesday 18 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
@@ -152,9 +153,9 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 6 May 2021 at 20:12
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
@@ -175,7 +176,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
 
@@ -186,6 +187,29 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [The effect of COVID-19 on alcohol consumption, and policy responses to prevent harmful alcohol consumption](https://doi.org/10.1787/53890024-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
 
 ------
 
@@ -225,9 +249,9 @@ Thursday 20 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
@@ -236,56 +260,6 @@ Thursday 20 May 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 21 May 2021
-
-## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 7 May 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Espagne 2021 (version abrégée)](https://doi.org/10.1787/79175037-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 7 May 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -301,18 +275,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -324,18 +298,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -347,18 +321,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 May 2021 at 19:56
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -370,18 +344,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -393,18 +367,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -416,18 +390,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -439,18 +413,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -462,18 +436,18 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -490,17 +464,117 @@ Thursday 27 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 May 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l’OCDE : Espagne 2021 (version abrégée)](https://doi.org/10.1787/79175037-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 May 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 May 2021
+
+## [OECD Economic Outlook, Volume 2021 Issue 1 - Preliminary version ](https://doi.org/10.1787/edfbca02-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *General Secretariat*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 June 2021
+
+## [A New Benchmark for Mental Health Systems - Tackling the Social and Economic Costs of Mental Ill-Health](https://doi.org/10.1787/4ed890f6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
