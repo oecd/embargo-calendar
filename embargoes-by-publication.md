@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 May 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 18 May 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Entrepreneurship Policies through a Gender Lens](https://doi.org/10.1787/71c8f9c9-en)
 
@@ -15,7 +15,7 @@ Monday 17 May 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 17 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 17 May 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
@@ -127,18 +127,18 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -153,7 +153,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
@@ -173,8 +173,8 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -182,7 +182,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
 * Format: *PDF*
 
@@ -219,18 +219,18 @@ Thursday 20 May 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -519,9 +519,9 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
 
 ### Additional Information
 
