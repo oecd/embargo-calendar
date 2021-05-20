@@ -2,47 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 May 2021 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 May 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 May 2021](#18-may-2021)
 * [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
+* [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
 * [31 May 2021](#31-may-2021)
 * [8 June 2021](#8-june-2021)
-* [13 June 2021](#13-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 18 May 2021
-
-## [Investing in competences and skills and reforming the labour market to create better jobs in Indonesia](https://doi.org/10.1787/fd54e6be-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 May 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -59,7 +31,7 @@ Wednesday 19 May 2021 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
@@ -82,7 +54,7 @@ Wednesday 19 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
@@ -169,7 +141,80 @@ Thursday 20 May 2021 at 9:00 | no launch event
 
 ------
 
+# 21 May 2021
+
+## [Biodiversity, natural capital and the economy - A policy guide for finance, economic and environment ministries](https://doi.org/10.1787/1a1ae114-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 May 2021 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Towards G7 action to combat ghost fishing gear - A background report prepared for the 2021 G7 Presidency of the United Kingdom](https://doi.org/10.1787/a4c86e42-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 May 2021 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 25 May 2021
+
+## [Trade in the time of parcels](https://doi.org/10.1787/0faac348-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 May 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Iceland (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8b1deca3-en)
 
@@ -368,21 +413,21 @@ Thursday 27 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [التكامل الإقليمي في الاتحاد من أجل المتوسط - التقرير المرحلي](https://doi.org/10.1787/dc416437-ar)
+## [التكامل الإقليمي في الاتحاد من أجل المتوسط - تقرير مرحلي](https://doi.org/10.1787/dc416437-ar)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -400,7 +445,7 @@ Thursday 27 May 2021 at 8:00 | no launch event
 * Directorate: *General Secretariat*
 * Language: *Arabic*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -437,9 +482,9 @@ Thursday 27 May 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
@@ -464,15 +509,15 @@ Monday 31 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
@@ -491,15 +536,15 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -525,33 +570,6 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-------
-
-# 13 June 2021
-
-## [Brick by Brick - Building Better Housing Policies](https://doi.org/10.1787/b453b043-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 13 June 2021 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -595,7 +613,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 May 2021 at 20:14
+- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
 
