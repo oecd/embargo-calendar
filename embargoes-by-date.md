@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 May 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 May 2021 at 20:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 May 2021](#19-may-2021)
 * [20 May 2021](#20-may-2021)
 * [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
@@ -15,79 +14,6 @@ Data generated on | |
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 19 May 2021
-
-## [The Impact of Regulation on International Investment in Finland](https://doi.org/10.1787/b1bf8bee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 May 2021 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Preventing Harmful Alcohol Use](https://doi.org/10.1787/6e4b4ffb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The effect of COVID-19 on alcohol consumption, and policy responses to prevent harmful alcohol consumption](https://doi.org/10.1787/53890024-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 May 2021 at 20:14
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -104,7 +30,7 @@ Thursday 20 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
@@ -127,7 +53,7 @@ Thursday 20 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
@@ -143,7 +69,7 @@ Thursday 20 May 2021 at 9:00 | no launch event
 
 # 21 May 2021
 
-## [Biodiversity, natural capital and the economy - A policy guide for finance, economic and environment ministries](https://doi.org/10.1787/1a1ae114-en)
+## [Biodiversity, natural capital and the economy - A policy guide for finance, economic and environment ministers](https://doi.org/10.1787/1a1ae114-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -152,9 +78,9 @@ Friday 21 May 2021 at 17:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [x] Exported to iLibrary Friday 21 May 2021 at 12:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
@@ -204,7 +130,7 @@ Tuesday 25 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
@@ -408,14 +334,14 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 May 2021 at 8:00 | no launch event
+Thursday 27 May 2021 at 7:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
 - [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
@@ -427,24 +353,47 @@ Thursday 27 May 2021 at 8:00 | no launch event
 
 ------
 
-## [التكامل الإقليمي في الاتحاد من أجل المتوسط - تقرير مرحلي](https://doi.org/10.1787/dc416437-ar)
+## [Intégration régionale dans l’Union pour la Méditerranée   - Rapport d'étape](https://doi.org/10.1787/3a41651e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 May 2021 at 8:00 | no launch event
+Thursday 27 May 2021 at 7:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [التكامل الإقليمي في الاتحاد من أجل المتوسط - تقرير مرحلي](https://doi.org/10.1787/dc416437-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 May 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *Arabic*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -458,39 +407,16 @@ Thursday 27 May 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Espagne 2021 (version abrégée)](https://doi.org/10.1787/79175037-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 May 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
