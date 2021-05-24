@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 May 2021 at 20:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 May 2021 at 20:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 May 2021](#20-may-2021)
-* [21 May 2021](#21-may-2021)
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
 * [31 May 2021](#31-may-2021)
@@ -14,106 +12,6 @@ Data generated on | |
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 20 May 2021
-
-## [OECD Sovereign Borrowing Outlook 2021](https://doi.org/10.1787/48828791-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 May 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Lobbying in the 21st Century - Transparency, Integrity and Access](https://doi.org/10.1787/c6d8eff8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 May 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 May 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-------
-
-# 21 May 2021
-
-## [Biodiversity, natural capital and the economy - A policy guide for finance, economic and environment ministers](https://doi.org/10.1787/1a1ae114-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 May 2021 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 May 2021 at 12:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Towards G7 action to combat ghost fishing gear - A background report prepared for the 2021 G7 Presidency of the United Kingdom](https://doi.org/10.1787/a4c86e42-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 May 2021 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -153,7 +51,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -176,7 +74,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -199,7 +97,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -222,7 +120,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -245,7 +143,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -268,7 +166,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -291,7 +189,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -314,7 +212,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
 
 ### Additional Information
 
@@ -339,7 +237,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
@@ -362,7 +260,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
@@ -385,7 +283,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
@@ -408,7 +306,7 @@ Thursday 27 May 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 May 2021 at 20:13
+- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 21 May 2021 at 19:56
 
