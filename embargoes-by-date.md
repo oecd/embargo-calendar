@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 May 2021 at 20:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 May 2021 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 May 2021](#25-may-2021)
 * [27 May 2021](#27-may-2021)
@@ -11,6 +11,8 @@ Data generated on | |
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
+* [24 June 2021](#24-june-2021)
+* [1 July 2021](#1-july-2021)
 * [8 July 2021](#8-july-2021)
 
 ------
@@ -74,7 +76,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -120,7 +122,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -143,7 +145,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -166,7 +168,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -212,7 +214,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -237,9 +239,9 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -260,9 +262,9 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -283,9 +285,9 @@ Thursday 27 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -301,14 +303,14 @@ Thursday 27 May 2021 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 May 2021 at 14:00 | no launch event
+Thursday 27 May 2021 at 12:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 May 2021 at 10:44
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
 
 ### Additional Information
 
@@ -333,7 +335,7 @@ Monday 31 May 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
 
@@ -437,7 +439,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
 
@@ -497,6 +499,106 @@ Monday 21 June 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 June 2021
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/385973ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/07213810-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d4c83b05-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 1 July 2021
+
+## [Measuring What Matters for Child Well-Being and Policies](https://doi.org/10.1787/e82fded1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
