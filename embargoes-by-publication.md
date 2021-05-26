@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 May 2021 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 26 May 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trade in the time of parcels](https://doi.org/10.1787/0faac348-en)
 
@@ -15,7 +15,7 @@ Tuesday 25 May 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 May 2021 at 19:53
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 25 May 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 May 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -219,18 +219,18 @@ Thursday 27 May 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -238,14 +238,14 @@ Thursday 27 May 2021 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 May 2021 at 7:00 | no launch event
+Thursday 27 May 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 26 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -253,7 +253,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -261,14 +261,14 @@ Thursday 27 May 2021 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 27 May 2021 at 7:00 | no launch event
+Thursday 27 May 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 26 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -276,7 +276,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 * Language: *Arabic*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -291,7 +291,7 @@ Thursday 27 May 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
@@ -307,20 +307,43 @@ Thursday 27 May 2021 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 31 May 2021 at 9:00 | no launch event
+Monday 31 May 2021 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 26 May 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2021 Numéro 1 - Version préliminaire](https://doi.org/10.1787/631c1b44-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 May 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
@@ -369,6 +392,29 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Digital Education Outlook - Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 June 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -457,6 +503,52 @@ Monday 21 June 2021 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/27e7f69f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fed716dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -553,6 +645,29 @@ Thursday 1 July 2021 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Competitiveness in South East Europe 2021 - A Policy Outlook](https://doi.org/10.1787/dcbc2ea9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
