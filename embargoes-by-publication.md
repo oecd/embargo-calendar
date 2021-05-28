@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 May 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 28 May 2021 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regional Integration in the Union for the Mediterranean - Progress Report](https://doi.org/10.1787/325884b3-en)
 
@@ -15,7 +15,7 @@ Thursday 27 May 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 12:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 27 May 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 May 2021 at 19:58
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -58,16 +58,16 @@ Monday 31 May 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Public Affairs and Communications Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -81,10 +81,10 @@ Monday 31 May 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -92,7 +92,7 @@ Monday 31 May 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -100,14 +100,14 @@ Monday 31 May 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 31 May 2021 at 9:00 | no launch event
+Monday 31 May 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -115,6 +115,52 @@ Monday 31 May 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Pierre par pierre - Bâtir de meilleures politiques du logement](https://doi.org/10.1787/78520651-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 May 2021 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Brick by Brick - Building Better Housing Policies](https://doi.org/10.1787/b453b043-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 May 2021 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -130,7 +176,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -153,7 +199,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -176,7 +222,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
@@ -199,7 +245,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
 
