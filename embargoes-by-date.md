@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 May 2021 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 31 May 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 May 2021](#27-may-2021)
 * [31 May 2021](#31-may-2021)
 * [1 June 2021](#1-june-2021)
 * [8 June 2021](#8-june-2021)
@@ -15,56 +14,7 @@ Data generated on | |
 * [24 June 2021](#24-june-2021)
 * [1 July 2021](#1-july-2021)
 * [8 July 2021](#8-july-2021)
-
-------
-
-# 27 May 2021
-
-## [Regional Integration in the Union for the Mediterranean - Progress Report](https://doi.org/10.1787/325884b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 May 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 May 2021 at 12:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Spain 2021](https://doi.org/10.1787/79e92d88-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 May 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+* [9 July 2021](#9-july-2021)
 
 ------
 
@@ -79,9 +29,9 @@ Monday 31 May 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
+- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
 
 ### Additional Information
 
@@ -102,8 +52,8 @@ Monday 31 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
-- [ ] Exported to Keepeek
+- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
+- [x] Exported to Keepeek Monday 31 May 2021 at 9:03
 - [x] Exported to OECD.org Friday 28 May 2021 at 19:55
 
 ### Additional Information
@@ -125,9 +75,9 @@ Monday 31 May 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
+- [x] Exported to Keepeek Monday 31 May 2021 at 9:03
+- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
 
 ### Additional Information
 
@@ -135,6 +85,29 @@ Monday 31 May 2021 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Issue*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD initiative for safe international mobility during the COVID-19 pandemic (including blueprint)](https://doi.org/10.1787/d0594162-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 May 2021 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
@@ -150,7 +123,7 @@ Monday 31 May 2021 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
 
 ### Additional Information
 
@@ -697,6 +670,33 @@ Thursday 8 July 2021 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 July 2021
+
+## [Government at a Glance 2021](https://doi.org/10.1787/1c258f55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
