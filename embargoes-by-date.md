@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 May 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 June 2021 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 May 2021](#31-may-2021)
 * [1 June 2021](#1-june-2021)
@@ -31,7 +31,7 @@ Monday 31 May 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 May 2021 at 20:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Monday 31 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 May 2021 at 20:09
 - [x] Exported to Keepeek Monday 31 May 2021 at 9:03
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -77,7 +77,7 @@ Monday 31 May 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 May 2021 at 20:09
 - [x] Exported to Keepeek Monday 31 May 2021 at 9:03
-- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -123,7 +123,7 @@ Monday 31 May 2021 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 May 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -146,7 +146,7 @@ Monday 31 May 2021 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 May 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -267,9 +267,9 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 20 May 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 1 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 May 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
@@ -381,7 +381,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 
 ------
 
-## [Driving Performance at Latvia’s Public Utilities Commission - Progress Report](https://doi.org/10.1787/6c2ee469-en)
+## [Progress Review of Latvia’s Public Utilities Commission - Driving Performance](https://doi.org/10.1787/6c2ee469-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -413,15 +413,15 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 1 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -475,6 +475,29 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Politiques agricoles : suivi et évaluation 2021 (version abrégée) - Répondre aux enjeux des systèmes alimentaires](https://doi.org/10.1787/333e76a0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 June 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
