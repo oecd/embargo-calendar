@@ -2,161 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 June 2021 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 June 2021 at 20:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 May 2021](#31-may-2021)
 * [1 June 2021](#1-june-2021)
+* [4 June 2021](#4-june-2021)
 * [8 June 2021](#8-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
 * [22 June 2021](#22-june-2021)
 * [24 June 2021](#24-june-2021)
+* [28 June 2021](#28-june-2021)
 * [1 July 2021](#1-july-2021)
 * [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
-
-------
-
-# 31 May 2021
-
-## [OECD Secretary-General's Report to Ministers 2021](https://doi.org/10.1787/8cd95b77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Public Affairs and Communications Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2021 Issue 1 - Preliminary version ](https://doi.org/10.1787/edfbca02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
-- [x] Exported to Keepeek Monday 31 May 2021 at 9:03
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2021 Numéro 1 - Version préliminaire](https://doi.org/10.1787/631c1b44-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
-- [x] Exported to Keepeek Monday 31 May 2021 at 9:03
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD initiative for safe international mobility during the COVID-19 pandemic (including blueprint)](https://doi.org/10.1787/d0594162-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 May 2021 at 20:09
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Format: *PDF*
-
-------
-
-## [Pierre par pierre - Bâtir de meilleures politiques du logement](https://doi.org/10.1787/78520651-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Brick by Brick - Building Better Housing Policies](https://doi.org/10.1787/b453b043-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 May 2021 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 May 2021 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -173,7 +32,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
@@ -196,7 +55,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
@@ -219,7 +78,7 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
@@ -242,11 +101,38 @@ Tuesday 1 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 May 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 June 2021
+
+## [Boosting employment in Finland](https://doi.org/10.1787/fe943c95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 June 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -266,18 +152,18 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -413,9 +299,9 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 1 June 2021 at 20:10
+- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 June 2021 at 19:54
+- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
 
 ### Additional Information
 
@@ -625,6 +511,33 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ------
 
+# 28 June 2021
+
+## [Starting Strong VI - Supporting Meaningful Interactions in Early Childhood Education and Care](https://doi.org/10.1787/f47a06ae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 1 July 2021
 
 ## [Measuring What Matters for Child Well-Being and Policies](https://doi.org/10.1787/e82fded1-en)
@@ -703,6 +616,29 @@ Thursday 8 July 2021 at 9:00 | no launch event
 ------
 
 # 9 July 2021
+
+## [Panorama des administrations publiques 2021](https://doi.org/10.1787/9556b25a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Government at a Glance 2021](https://doi.org/10.1787/1c258f55-en)
 
