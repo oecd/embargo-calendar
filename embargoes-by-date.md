@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 June 2021 at 20:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 3 June 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 June 2021](#1-june-2021)
 * [4 June 2021](#4-june-2021)
 * [8 June 2021](#8-june-2021)
+* [9 June 2021](#9-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [21 June 2021](#21-june-2021)
@@ -16,102 +16,7 @@ Data generated on | |
 * [1 July 2021](#1-july-2021)
 * [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
-
-------
-
-# 1 June 2021
-
-## [Building the resilience of Japan’s agricultural sector to typhoons and heavy rain](https://doi.org/10.1787/4ed1ee2c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building the resilience of New Zealand’s agricultural sector to floods](https://doi.org/10.1787/dd62d270-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building the resilience of the United States’ agricultural sector to extreme floods](https://doi.org/10.1787/edb6494b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building the resilience of Italy’s agricultural sector to drought](https://doi.org/10.1787/799f1ad3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 May 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [15 July 2021](#15-july-2021)
 
 ------
 
@@ -190,7 +95,7 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 
 ------
 
-## [Digital Education Outlook - Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en)
+## [OECD Digital Education Outlook 2021 - Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -199,17 +104,67 @@ Tuesday 8 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 June 2021
+
+## [OECD Development Co-operation Peer Reviews: Germany 2021](https://doi.org/10.1787/bb32a97d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 June 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [DAC-Prüfbericht über die Entwicklungszusammenarbeit: Deutschland 2021 (Kurzfassung) - Wichtigste Ergebnisse und Empfehlungen](https://doi.org/10.1787/83f90077-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 June 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -276,15 +231,15 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -403,15 +358,15 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -426,15 +381,15 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -449,15 +404,15 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -472,15 +427,15 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -495,15 +450,15 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -656,6 +611,194 @@ Friday 9 July 2021 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 July 2021
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cc6e7579-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ad982afd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/7a89e6e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5fb7733b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/692bef12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/01c36574-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/1c650976-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bdae3e57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
