@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 June 2021 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 4 June 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Boosting employment in Finland](https://doi.org/10.1787/fe943c95-en)
 
@@ -27,6 +27,29 @@ Friday 4 June 2021 at 5:00 | no launch event
 
 ------
 
+## [Data for Development Profiles - Official Development Assistance for Data and Statistical Systems](https://doi.org/10.1787/84baa8f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 June 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Building Agricultural Resilience to Natural Hazard-induced Disasters - Insights from Country Case Studies](https://doi.org/10.1787/49eefdd7-en)
 
 Embargo date | Launch date
@@ -38,7 +61,7 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
 
 ### Additional Information
 
@@ -58,18 +81,18 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 May 2021 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 May 2021 at 19:57
+- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -81,10 +104,10 @@ Tuesday 8 June 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
 
 ### Additional Information
 
@@ -174,7 +197,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 May 2021 at 20:14
+- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
 
@@ -230,6 +253,29 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Fighting Tax Crime - The Ten Global Principles (Second Edition)](https://doi.org/10.1787/006a6512-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -427,15 +473,15 @@ Monday 28 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-06-03T20:32:57.2931933+02:00">
+<report name="official-embargoes" generated="2021-06-04T20:35:09.3176889+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1233,7 +1233,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-02T18:12:25Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-02T17:54:48Z</cell>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1661,6 +1661,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7590607</cell>
   </row>
   <row index="83">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/84baa8f3-en</cell>
+    <cell name="title">Data for Development Profiles (en)</cell>
+    <cell name="subtitle">Official Development Assistance for Data and Statistical Systems (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-07</cell>
+    <cell name="embargo date">2021-06-07T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9bf90e3</cell>
+  </row>
+  <row index="84">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/092a96a1-en</cell>
     <cell name="title">The case for building agricultural resilience (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc7196c5</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/49eefdd7-en</cell>
     <cell name="title">Building Agricultural Resilience to Natural Hazard-induced Disasters (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a591b587</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/68b7e381-en</cell>
     <cell name="title">Building agricultural resilience to floods in New Zealand (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1a57f8a</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6cbfec49-en</cell>
     <cell name="title">Principles for effective disaster risk management for agricultural resilience (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ba17dfe</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a92646cd-en</cell>
     <cell name="title">Insights from country case studies for building agricultural resilience to natural hazard-induced disasters (en)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aaef3288</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6cbfec49-en</cell>
     <cell name="title">Principles for effective disaster risk management for agricultural resilience (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cd884c8</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/092a96a1-en</cell>
     <cell name="title">The case for building agricultural resilience (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ef5c0e5</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d515ef3d-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5c04678</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6853c083-en</cell>
     <cell name="title">Building agriculture resilience to climate risks in Chile (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b191025</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/022237a3-en</cell>
     <cell name="title">Building agricultural resilience to animal pests and diseases in Namibia (en)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33722c4e</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ad7da9ef-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53b9f39c</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bd6c9ca1-en</cell>
     <cell name="title">Building agricultural resilience to extreme floods in the United States (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/687444c5</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f8c60994-en</cell>
     <cell name="title">Building agricultural resilience to drought in Turkey (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f333802</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/022237a3-en</cell>
     <cell name="title">Building agricultural resilience to animal pests and diseases in Namibia (en)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0cea9eb</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9c601d79-en</cell>
     <cell name="title">Building agricultural resilience to typhoons and heavy rain in Japan (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/176f49a2</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4c1205b8-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/085310f3</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f8c60994-en</cell>
     <cell name="title">Building agricultural resilience to drought in Turkey (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5550a393</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/49eefdd7-en</cell>
     <cell name="title">Building Agricultural Resilience to Natural Hazard-induced Disasters (en)</cell>
@@ -2013,14 +2033,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-02T18:12:25Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-02T17:54:48Z</cell>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/982f129c</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c66a662d-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1f1fb0b</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d515ef3d-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea571812</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6853c083-en</cell>
     <cell name="title">Building agriculture resilience to climate risks in Chile (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77965aff</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ad7da9ef-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cefe155</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/68b7e381-en</cell>
     <cell name="title">Building agricultural resilience to floods in New Zealand (en)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8004e7b7</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bd6c9ca1-en</cell>
     <cell name="title">Building agricultural resilience to extreme floods in the United States (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00c40baa</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a92646cd-en</cell>
     <cell name="title">Insights from country case studies for building agricultural resilience to natural hazard-induced disasters (en)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73d4649d</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dfad8942-en</cell>
     <cell name="title">Building agricultural resilience to drought in Italy (en)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b109499</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c66a662d-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c88df40a</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/49eefdd7-en</cell>
     <cell name="title">Building Agricultural Resilience to Natural Hazard-induced Disasters (en)</cell>
@@ -2213,14 +2233,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-02T18:12:25Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-02T17:54:48Z</cell>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63323c0c</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9c601d79-en</cell>
     <cell name="title">Building agricultural resilience to typhoons and heavy rain in Japan (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8b19191</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4c1205b8-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/843605b5</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dfad8942-en</cell>
     <cell name="title">Building agricultural resilience to drought in Italy (en)</cell>
@@ -2280,27 +2300,1167 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e1fc374</cell>
   </row>
-  <row index="114">
+  <row index="115">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2f789af3-en</cell>
+    <cell name="title">Psychologists and mental health nurses per 1 000 population, 2018 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0103f8b</cell>
+  </row>
+  <row index="116">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fda52c19-en</cell>
+    <cell name="title">DALY rates and proportion of total research spending by health category in the United Kingdom, 2014 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c07b56b0</cell>
+  </row>
+  <row index="117">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/92131611-en</cell>
+    <cell name="title">Inpatient suicide among patients with a psychiatric disorder (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52bade7b</cell>
+  </row>
+  <row index="118">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f4382439-en</cell>
+    <cell name="title">People-centred mental health policies and services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8a84477</cell>
+  </row>
+  <row index="119">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e5266dda-en</cell>
+    <cell name="title">Admissions to inpatient care across OECD countries, 2019 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/956aa540</cell>
+  </row>
+  <row index="120">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/229f72a0-en</cell>
+    <cell name="title">Days a person can be held involuntarily under the Mental Health Act without review of a judge (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acaa7d62</cell>
+  </row>
+  <row index="121">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/cb01d515-en</cell>
+    <cell name="title">Estimated direct and indirect costs related to mental health problems across European countries (en)</cell>
+    <cell name="subtitle">As a percentage of GDP, 2015 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b912b26f</cell>
+  </row>
+  <row index="122">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/14a76b5f-en</cell>
+    <cell name="title">Change in rate of suicide 1998‑2018, or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ab2a637</cell>
+  </row>
+  <row index="123">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fbdf2cae-en</cell>
+    <cell name="title">Average length of inpatient stay, mental and behavioural disorders, 2018 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/432e408d</cell>
+  </row>
+  <row index="124">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4e38b761-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49988edc</cell>
+  </row>
+  <row index="125">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c85a9a14-en</cell>
+    <cell name="title">Accessible, high-quality mental health services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea62ca1d</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3327e0ed-en</cell>
+    <cell name="title">Suicide following hospitalisation for a psychiatric disorder, within 30 days and one year of discharge, 2017 or nearest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d72b854</cell>
+  </row>
+  <row index="127">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f4382439-en</cell>
+    <cell name="title">People-centred mental health policies and services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/466b1636</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3d60e517-en</cell>
+    <cell name="title">Share of people with unmet needs due to financial reasons, wait times or transport, 2016 or latest year (en)</cell>
+    <cell name="subtitle">Unmet needs for mental health care (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0024696</cell>
+  </row>
+  <row index="129">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4ed890f6-en</cell>
     <cell name="title">A New Benchmark for Mental Health Systems (en)</cell>
     <cell name="subtitle">Tackling the Social and Economic Costs of Mental Ill-Health (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-06-08</cell>
     <cell name="embargo date">2021-06-08T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-05-18T18:15:29Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-05-18T17:57:09Z</cell>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3258c402</cell>
   </row>
-  <row index="115">
+  <row index="130">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/01d2516a-en</cell>
+    <cell name="title">Excess mortality for persons with bipolar disorder or schizophrenia, 2015-17 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/247d2ed3</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2e840eda-en</cell>
+    <cell name="title">Service use in New Zealand of Mãori and general population, 2019 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/facc4200</cell>
+  </row>
+  <row index="132">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/dd2bb46f-en</cell>
+    <cell name="title">Building future-focused and innovative mental health systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eae8bad5</cell>
+  </row>
+  <row index="133">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/0013ec38-en</cell>
+    <cell name="title">Mental health that can be accessed directly, without referral (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33b220d2</cell>
+  </row>
+  <row index="134">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/741d6e61-en</cell>
+    <cell name="title">Share of children reporting feeling low more than once a week, by age, 2016 (en)</cell>
+    <cell name="subtitle">Children and adolescents who reported ‘feeling low’ more than once a week, HBSC survey 2016 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fede766</cell>
+  </row>
+  <row index="135">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/91ea0ed3-en</cell>
+    <cell name="title">Individuals attending mental health outpatient clinics, 2018 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46b9025b</cell>
+  </row>
+  <row index="136">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7486a219-en</cell>
+    <cell name="title">An integrated and multi-sectoral approach to mental health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b597dcd</cell>
+  </row>
+  <row index="137">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/24216bff-en</cell>
+    <cell name="title">Repeat emergency department visits, 2019 or latest year (en)</cell>
+    <cell name="subtitle">Percentage of people who attend the emergency department for mental health reasons, who attended at least four times in a year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d821e83b</cell>
+  </row>
+  <row index="138">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/b702bf69-en</cell>
+    <cell name="title">Persons with mental health conditions are less likely to complete a high-level education (en)</cell>
+    <cell name="subtitle">Share of working age individuals with an education at ISCED 5 or higher, by mental health status, mid‑2010s (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ad6c4d26</cell>
+  </row>
+  <row index="139">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/8faa44c5-en</cell>
+    <cell name="title">Deaths by suicide 2018, or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0429c720</cell>
+  </row>
+  <row index="140">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/772b03a6-en</cell>
+    <cell name="title">Prevalence of mental illness and mental health service use, amongst adults in the United States by race/ethnicity, 2008-12 (en)</cell>
+    <cell name="subtitle">Annual average percentage (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0739b9b7</cell>
+  </row>
+  <row index="141">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4ed890f6-en</cell>
+    <cell name="title">A New Benchmark for Mental Health Systems (en)</cell>
+    <cell name="subtitle">Tackling the Social and Economic Costs of Mental Ill-Health (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75c8e481</cell>
+  </row>
+  <row index="142">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4ed890f6-en</cell>
+    <cell name="title">A New Benchmark for Mental Health Systems (en)</cell>
+    <cell name="subtitle">Tackling the Social and Economic Costs of Mental Ill-Health (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e21327b0</cell>
+  </row>
+  <row index="143">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d0383874-en</cell>
+    <cell name="title">IAPT recovery rates (select therapies), 2018-19 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65613a54</cell>
+  </row>
+  <row index="144">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/eadb91be-en</cell>
+    <cell name="title">Preventing mental illness and promoting mental well-being (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e85940f</cell>
+  </row>
+  <row index="145">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/143252a2-en</cell>
+    <cell name="title">Levels of mental distress were higher in some countries than others in August 2020 (en)</cell>
+    <cell name="subtitle">Percent of adults who reported experiencing stress, anxiety, or great sadness that was difficult to cope with alone since the outbreak started (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbcb1fc5</cell>
+  </row>
+  <row index="146">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/480e2239-en</cell>
+    <cell name="title">Mental health services covered in full or in part by basic health coverage (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eda880d0</cell>
+  </row>
+  <row index="147">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5e864583-en</cell>
+    <cell name="title">Mental health plans or strategies for nationally defined priority population groups (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92dff9a1</cell>
+  </row>
+  <row index="148">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/69ab029c-en</cell>
+    <cell name="title">Mental health education or awareness programmes in schools (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4378fd3e</cell>
+  </row>
+  <row index="149">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e444732e-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9587c28</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7486a219-en</cell>
+    <cell name="title">An integrated and multi-sectoral approach to mental health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8d44e47</cell>
+  </row>
+  <row index="151">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/06034663-en</cell>
+    <cell name="title">The employment gap between persons with and without a mental health condition is large (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32b0d66c</cell>
+  </row>
+  <row index="152">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/969d4b2b-en</cell>
+    <cell name="title">Share of people who reported being treated with courtesy and respect by doctors and nurses during hospitalisation, 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/511dee70</cell>
+  </row>
+  <row index="153">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4e38b761-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c09375b4</cell>
+  </row>
+  <row index="154">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f994bad5-en</cell>
+    <cell name="title">Services specifically designed for key populations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69dd9039</cell>
+  </row>
+  <row index="155">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/045162d4-en</cell>
+    <cell name="title">Psychiatrists per 1 000 population, 2009 and 2019 or nearest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1b5839c</cell>
+  </row>
+  <row index="156">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c85a9a14-en</cell>
+    <cell name="title">Accessible, high-quality mental health services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a9d54a6</cell>
+  </row>
+  <row index="157">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e444732e-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/646db562</cell>
+  </row>
+  <row index="158">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fc0e3374-en</cell>
+    <cell name="title">Key findings and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dac6ed4f</cell>
+  </row>
+  <row index="159">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4e41dceb-en</cell>
+    <cell name="title">Psychiatric beds per 1 000 population, 2000 and 2018 or nearest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bed08591</cell>
+  </row>
+  <row index="160">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d74b5dd6-en</cell>
+    <cell name="title">Strong leadership and good governance (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2ae5de9</cell>
+  </row>
+  <row index="161">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/eadb91be-en</cell>
+    <cell name="title">Preventing mental illness and promoting mental well-being (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f86f547f</cell>
+  </row>
+  <row index="162">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e69b8c87-en</cell>
+    <cell name="title">Face-to-face and non face-to-face (video or phone-delivered services) in England (United Kingdom), 2019 and 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8017846</cell>
+  </row>
+  <row index="163">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d74b5dd6-en</cell>
+    <cell name="title">Strong leadership and good governance (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3ce3b43</cell>
+  </row>
+  <row index="164">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/cbedb1ad-en</cell>
+    <cell name="title">Repeat admissions to inpatient care, 2019 or latest year (en)</cell>
+    <cell name="subtitle">Percentage of people admitted to inpatient care at least three times in a year (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90887a2b</cell>
+  </row>
+  <row index="165">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/dd2bb46f-en</cell>
+    <cell name="title">Building future-focused and innovative mental health systems (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d4f337d</cell>
+  </row>
+  <row index="166">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e327a45d-en</cell>
+    <cell name="title">Countries reporting different annual rates of seclusion and restraint, 2019 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a082a455</cell>
+  </row>
+  <row index="167">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fc0e3374-en</cell>
+    <cell name="title">Key findings and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4dd6e4e</cell>
+  </row>
+  <row index="168">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/41efd167-en</cell>
+    <cell name="title">Percentage of persons seen within mental health waiting times target set in each country (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35c1f4d8</cell>
+  </row>
+  <row index="169">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d6874379-en</cell>
+    <cell name="title">Talking therapy provided by primary care providers, 2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/223df7d1</cell>
+  </row>
+  <row index="170">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5e9e62e0-en</cell>
+    <cell name="title">Death by suicide amongst young people age 15-25 in select countries, 2000-15 or nearest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c381ebdb</cell>
+  </row>
+  <row index="171">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/fd5b7523-en</cell>
+    <cell name="title">Required involvement of services user or representative of the service user in mental health care plans (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61a0bedd</cell>
+  </row>
+  <row index="172">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/674e16e6-en</cell>
+    <cell name="title">Individuals under mental health care in community teams, 2018 or latest year (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-08</cell>
+    <cell name="embargo date">2021-06-08T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16c70aae</cell>
+  </row>
+  <row index="173">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/589b283f-en</cell>
     <cell name="title">OECD Digital Education Outlook 2021 (en)</cell>
@@ -2320,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6370e21c</cell>
   </row>
-  <row index="116">
+  <row index="174">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/589b283f-en</cell>
     <cell name="title">OECD Digital Education Outlook 2021 (en)</cell>
@@ -2331,16 +3491,16 @@
     <cell name="date of publication">2021-06-08</cell>
     <cell name="embargo date">2021-06-08T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50fd0c93</cell>
   </row>
-  <row index="117">
+  <row index="175">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bb32a97d-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Germany 2021 (en)</cell>
@@ -2360,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2211f8df</cell>
   </row>
-  <row index="118">
+  <row index="176">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/83f90077-de</cell>
     <cell name="title">DAC-Prüfbericht über die Entwicklungszusammenarbeit: Deutschland 2021 (Kurzfassung) (de)</cell>
@@ -2380,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f183555b</cell>
   </row>
-  <row index="119">
+  <row index="177">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0ae365b4-en</cell>
     <cell name="title">OECD Skills Outlook 2021 (en)</cell>
@@ -2400,7 +3560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/343701d8</cell>
   </row>
-  <row index="120">
+  <row index="178">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0ae365b4-en</cell>
     <cell name="title">OECD Skills Outlook 2021 (en)</cell>
@@ -2420,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94d9b2cb</cell>
   </row>
-  <row index="121">
+  <row index="179">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/13925818-en</cell>
     <cell name="title">OECD Skills Strategy Tlaxcala (Mexico) (en)</cell>
@@ -2428,10 +3588,10 @@
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2021-06-16</cell>
+    <cell name="date of publication">2021-06-04</cell>
     <cell name="embargo date">2021-06-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-05-25T18:14:09Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2021-05-19T17:57:27Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -2440,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33bd11f6</cell>
   </row>
-  <row index="122">
+  <row index="180">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ad7d3f6a-en</cell>
     <cell name="title">Fostering greater participation in adult learning in Tlaxcala, Mexico (en)</cell>
@@ -2460,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5ff98ef</cell>
   </row>
-  <row index="123">
+  <row index="181">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/1a41c60a-en</cell>
     <cell name="title">Mexico’s trends in reading, mathematics and science performance in PISA (2003-2018) (en)</cell>
@@ -2480,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98d15d39</cell>
   </row>
-  <row index="124">
+  <row index="182">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f1f897ba-en</cell>
     <cell name="title">Proportion of adults participating in training programmes in Tlaxcala is below the national average (en)</cell>
@@ -2500,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/744e97f2</cell>
   </row>
-  <row index="125">
+  <row index="183">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/8cb5663f-en</cell>
     <cell name="title">Key insights and recommendations for Tlaxcala, Mexico (en)</cell>
@@ -2520,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fe409f7</cell>
   </row>
-  <row index="126">
+  <row index="184">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/4a622058-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2540,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6969f7a</cell>
   </row>
-  <row index="127">
+  <row index="185">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/23d1f377-en</cell>
     <cell name="title">Training participation of managers in Mexico lags behind OECD (en)</cell>
@@ -2560,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ff787ee</cell>
   </row>
-  <row index="128">
+  <row index="186">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/13925818-en</cell>
     <cell name="title">OECD Skills Strategy Tlaxcala (Mexico) (en)</cell>
@@ -2568,10 +3728,10 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2021-06-16</cell>
+    <cell name="date of publication">2021-06-04</cell>
     <cell name="embargo date">2021-06-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-05-25T18:14:09Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2021-05-19T17:57:27Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -2580,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2d5a370</cell>
   </row>
-  <row index="129">
+  <row index="187">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bedde141-en</cell>
     <cell name="title">Distribution of public expenditure on higher education across Mexican states, by source of funding (en)</cell>
@@ -2600,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0389ea25</cell>
   </row>
-  <row index="130">
+  <row index="188">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/c7c071cc-en</cell>
     <cell name="title">Enrolment rate in higher education in Tlaxcala is lower than the national average (en)</cell>
@@ -2620,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff096037</cell>
   </row>
-  <row index="131">
+  <row index="189">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/76a1e44b-en</cell>
     <cell name="title">Engagement (en)</cell>
@@ -2640,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c80921a</cell>
   </row>
-  <row index="132">
+  <row index="190">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/af683d75-en</cell>
     <cell name="title">Schools directors and zone supervisors need additional technological as well as socio-emotional support to perform their duties (en)</cell>
@@ -2660,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cadb76e</cell>
   </row>
-  <row index="133">
+  <row index="191">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/12a6e5b2-en</cell>
     <cell name="title">In Tlaxcala, unskilled adult workers face a high risk automation and more likely to work in the informal sector. (en)</cell>
@@ -2680,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5f37097</cell>
   </row>
-  <row index="134">
+  <row index="192">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/348b839b-en</cell>
     <cell name="title">Productivity in Mexico is lagging behind other OECD countries (en)</cell>
@@ -2700,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29283c78</cell>
   </row>
-  <row index="135">
+  <row index="193">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/5e50d013-en</cell>
     <cell name="title">Uptake of certain HPWP in Mexico is lower than the OECD average (en)</cell>
@@ -2720,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b30d7f2e</cell>
   </row>
-  <row index="136">
+  <row index="194">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0760f08f-en</cell>
     <cell name="title">Women’s skills could contribute more to Tlaxcala’s local economy and productivity: Female labour force participation rate, 2019 (en)</cell>
@@ -2740,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af4b3b1</cell>
   </row>
-  <row index="137">
+  <row index="195">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/2ea924c5-en</cell>
     <cell name="title">Females in Tlaxcala are spread across economic sectors (en)</cell>
@@ -2760,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/893833b0</cell>
   </row>
-  <row index="138">
+  <row index="196">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/08b9f611-en</cell>
     <cell name="title">Strengthening the governance of the skills system in Tlaxcala, Mexico (en)</cell>
@@ -2780,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ddf7fa1</cell>
   </row>
-  <row index="139">
+  <row index="197">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/5bc63232-en</cell>
     <cell name="title">Percentage of firms from strategic sectors offering training programmes to employees in Tlaxcala is one of the lowest in Mexico (en)</cell>
@@ -2800,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0396d7a</cell>
   </row>
-  <row index="140">
+  <row index="198">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/4c5fdcb6-en</cell>
     <cell name="title">Strengthening the skills of youth in Tlaxcala, Mexico (en)</cell>
@@ -2820,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/621efca4</cell>
   </row>
-  <row index="141">
+  <row index="199">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7f1fe264-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -2840,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61e9d127</cell>
   </row>
-  <row index="142">
+  <row index="200">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ee7ec03e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2860,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a93d2960</cell>
   </row>
-  <row index="143">
+  <row index="201">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/44bc59f6-en</cell>
     <cell name="title">Teacher perceived difficulty to carry out distance learning (en)</cell>
@@ -2880,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75273962</cell>
   </row>
-  <row index="144">
+  <row index="202">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/af8ffd42-en</cell>
     <cell name="title">Participation rate of Tlaxcalan adults in adult education is comparatively low at all levels of education (en)</cell>
@@ -2900,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49f00b4a</cell>
   </row>
-  <row index="145">
+  <row index="203">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/a2ecde66-en</cell>
     <cell name="title">While productivity in Mexico falls, firms continue expanding their capacity (en)</cell>
@@ -2920,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf09f163</cell>
   </row>
-  <row index="146">
+  <row index="204">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/704f3212-en</cell>
     <cell name="title">Women’s skills could contribute more to Tlaxcala’s local economy and productivity (en)</cell>
@@ -2940,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef18849a</cell>
   </row>
-  <row index="147">
+  <row index="205">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/22bf4c97-en</cell>
     <cell name="title">Informality is high in Mexico by international standards (en)</cell>
@@ -2960,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b80a162</cell>
   </row>
-  <row index="148">
+  <row index="206">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/3f7db89a-en</cell>
     <cell name="title">A significant share of teachers demonstrates unsatisfactory performance (en)</cell>
@@ -2980,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c522e6a0</cell>
   </row>
-  <row index="149">
+  <row index="207">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/2a30b023-en</cell>
     <cell name="title">Mexico’s performance in reading, mathematics and science, PISA 2018 (en)</cell>
@@ -3000,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4653ef4</cell>
   </row>
-  <row index="150">
+  <row index="208">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/641a9b82-en</cell>
     <cell name="title">Enrolment in higher education (aged 25-34) in Tlaxcala, by field of study (en)</cell>
@@ -3020,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2872a675</cell>
   </row>
-  <row index="151">
+  <row index="209">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/39f98641-en</cell>
     <cell name="title">Managers of large firms and SMEs in Mexico face different barriers to training participation (en)</cell>
@@ -3040,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b063234</cell>
   </row>
-  <row index="152">
+  <row index="210">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ad5426df-en</cell>
     <cell name="title">Managers in Mexico are not always adequately skilled and qualified (en)</cell>
@@ -3060,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2596cc9</cell>
   </row>
-  <row index="153">
+  <row index="211">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/6e1a4291-en</cell>
     <cell name="title">The old-age dependency ratio will increase fourfold by 2060 in Mexico (en)</cell>
@@ -3080,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00903e4b</cell>
   </row>
-  <row index="154">
+  <row index="212">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/27b62465-en</cell>
     <cell name="title">Gaps in enrolment and financial aid to attend higher education are large. (en)</cell>
@@ -3100,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16078718</cell>
   </row>
-  <row index="155">
+  <row index="213">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ad031142-en</cell>
     <cell name="title">Change in Tlaxcala’s performance in selected PAE components (2011 and 2019) (en)</cell>
@@ -3120,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/608eb9aa</cell>
   </row>
-  <row index="156">
+  <row index="214">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/214253b8-en</cell>
     <cell name="title">Non-governmental stakeholders involved in the discussion of SAA exercise findings and the development of a policy response, OECD countries (en)</cell>
@@ -3140,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cdf0096</cell>
   </row>
-  <row index="157">
+  <row index="215">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/89f89eed-en</cell>
     <cell name="title">Under- and over-qualification in Mexico and OECD countries (en)</cell>
@@ -3160,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92e722b3</cell>
   </row>
-  <row index="158">
+  <row index="216">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/270d962d-en</cell>
     <cell name="title">Training participation of formal and informal workers, Mexico and selected other Latin American countries (en)</cell>
@@ -3180,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/421922bd</cell>
   </row>
-  <row index="159">
+  <row index="217">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/08b9f611-en</cell>
     <cell name="title">Strengthening the governance of the skills system in Tlaxcala, Mexico (en)</cell>
@@ -3200,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89b74920</cell>
   </row>
-  <row index="160">
+  <row index="218">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/4a622058-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3220,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c64932e</cell>
   </row>
-  <row index="161">
+  <row index="219">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ff09b227-en</cell>
     <cell name="title">The proportion of low performers in literacy and numeracy, PIAAC countries (en)</cell>
@@ -3240,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab734ad5</cell>
   </row>
-  <row index="162">
+  <row index="220">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7f1fe264-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -3260,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d9cd15b</cell>
   </row>
-  <row index="163">
+  <row index="221">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/3391e5e1-en</cell>
     <cell name="title">Willingness to participate and participation in adult learning, Mexico and selected countries (en)</cell>
@@ -3280,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b24c2dd5</cell>
   </row>
-  <row index="164">
+  <row index="222">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/5ac9bb58-en</cell>
     <cell name="title">Using people’s skills more effectively to raise productivity in Tlaxcala, Mexico (en)</cell>
@@ -3300,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dbde97a</cell>
   </row>
-  <row index="165">
+  <row index="223">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f86eac7d-en</cell>
     <cell name="title">Enrolment in ICATLAX training programmes, by field of study (2019) (en)</cell>
@@ -3320,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c462f32c</cell>
   </row>
-  <row index="166">
+  <row index="224">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/76a1e44b-en</cell>
     <cell name="title">Engagement (en)</cell>
@@ -3340,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/842d4fb7</cell>
   </row>
-  <row index="167">
+  <row index="225">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/16906faf-en</cell>
     <cell name="title">Tlaxcala has one of the lowest productivity growth rates in all of Mexico (en)</cell>
@@ -3360,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90ab978f</cell>
   </row>
-  <row index="168">
+  <row index="226">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ad7d3f6a-en</cell>
     <cell name="title">Fostering greater participation in adult learning in Tlaxcala, Mexico (en)</cell>
@@ -3380,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/666166b9</cell>
   </row>
-  <row index="169">
+  <row index="227">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/9c4354a9-en</cell>
     <cell name="title">PLANEA language and communication scores for Tlaxcala and Mexico, 2015 (en)</cell>
@@ -3400,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e54e27bc</cell>
   </row>
-  <row index="170">
+  <row index="228">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/8cb5663f-en</cell>
     <cell name="title">Key insights and recommendations for Tlaxcala, Mexico (en)</cell>
@@ -3420,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/877be7f8</cell>
   </row>
-  <row index="171">
+  <row index="229">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/8a3cd01c-en</cell>
     <cell name="title">Percentage of adults with less than upper secondary education in Tlaxcala is higher than the national average and the OECD average (en)</cell>
@@ -3440,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c5b18a7</cell>
   </row>
-  <row index="172">
+  <row index="230">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/85ddf8ab-en</cell>
     <cell name="title">Job automation and percentage of jobs at risk of significant change (en)</cell>
@@ -3460,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1104e1c</cell>
   </row>
-  <row index="173">
+  <row index="231">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/13925818-en</cell>
     <cell name="title">OECD Skills Strategy Tlaxcala (Mexico) (en)</cell>
@@ -3468,10 +4628,10 @@
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Published</cell>
-    <cell name="date of publication">2021-06-16</cell>
+    <cell name="date of publication">2021-06-04</cell>
     <cell name="embargo date">2021-06-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-05-25T18:14:09Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3480,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/407ff2b4</cell>
   </row>
-  <row index="174">
+  <row index="232">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/32ca48a3-en</cell>
     <cell name="title">There is a positive correlation between skills use and productivity (en)</cell>
@@ -3500,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c0da83e</cell>
   </row>
-  <row index="175">
+  <row index="233">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/173e2641-en</cell>
     <cell name="title">Tlaxcala’s workers fail to add large value chains (en)</cell>
@@ -3520,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85cf79c9</cell>
   </row>
-  <row index="176">
+  <row index="234">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/647fad6b-en</cell>
     <cell name="title">There is a positive correlation between skills use and the adoption of HPWP (en)</cell>
@@ -3540,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e03cb28</cell>
   </row>
-  <row index="177">
+  <row index="235">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/95a3ec53-en</cell>
     <cell name="title">Key indicators for developing relevant skills, Mexico and OECD average (en)</cell>
@@ -3560,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/628d1f8a</cell>
   </row>
-  <row index="178">
+  <row index="236">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/40d3ad73-en</cell>
     <cell name="title">Large firms in Mexico perform better in HPWP adoption than SMEs (en)</cell>
@@ -3580,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13f53c76</cell>
   </row>
-  <row index="179">
+  <row index="237">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/83a9f87a-en</cell>
     <cell name="title">Female employment in Tlaxcala is concentrated in small firms (en)</cell>
@@ -3600,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95dde6e9</cell>
   </row>
-  <row index="180">
+  <row index="238">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/545a2d5c-en</cell>
     <cell name="title">Main reasons for firms not offering training programmes to employees, Tlaxcala and Mexico average (en)</cell>
@@ -3620,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de461b8f</cell>
   </row>
-  <row index="181">
+  <row index="239">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6c2ee469-en</cell>
     <cell name="title">Progress Review of Latvia’s Public Utilities Commission (en)</cell>
@@ -3640,7 +4800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/404a520c</cell>
   </row>
-  <row index="182">
+  <row index="240">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/1702e39f-en</cell>
     <cell name="title">Skills’ surpluses and shortages, Mexico and OECD average (en)</cell>
@@ -3660,7 +4820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c92b2d4</cell>
   </row>
-  <row index="183">
+  <row index="241">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/4c5fdcb6-en</cell>
     <cell name="title">Strengthening the skills of youth in Tlaxcala, Mexico (en)</cell>
@@ -3680,7 +4840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/467a356f</cell>
   </row>
-  <row index="184">
+  <row index="242">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/deadd628-en</cell>
     <cell name="title">Tlaxcala’s economy is concentrated in a handful of sectors (en)</cell>
@@ -3700,7 +4860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0db28f24</cell>
   </row>
-  <row index="185">
+  <row index="243">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/dbb19daa-en</cell>
     <cell name="title">Qualifications mismatch in Mexico, by state (en)</cell>
@@ -3720,18 +4880,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b73efb90</cell>
   </row>
-  <row index="186">
+  <row index="244">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/13925818-en</cell>
     <cell name="title">OECD Skills Strategy Tlaxcala (Mexico) (en)</cell>
     <cell name="subtitle">Assessment and Recommendations (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2021-06-16</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-04</cell>
     <cell name="embargo date">2021-06-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-05-25T18:14:09Z</cell>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3740,7 +4900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2809544</cell>
   </row>
-  <row index="187">
+  <row index="245">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bcef34bb-en</cell>
     <cell name="title">Participation in informal learning, Mexico and OECD member and partner economies (en)</cell>
@@ -3760,7 +4920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/339f0974</cell>
   </row>
-  <row index="188">
+  <row index="246">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f3ee3634-en</cell>
     <cell name="title">Feasibility of teleworking by level of literacy skills (en)</cell>
@@ -3780,7 +4940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebabbf01</cell>
   </row>
-  <row index="189">
+  <row index="247">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/5ac9bb58-en</cell>
     <cell name="title">Using people’s skills more effectively to raise productivity in Tlaxcala, Mexico (en)</cell>
@@ -3800,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a73767e</cell>
   </row>
-  <row index="190">
+  <row index="248">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/fc99d1e7-en</cell>
     <cell name="title">Low-qualified adults in Mexico are distributed across different groups. (en)</cell>
@@ -3820,7 +4980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59c39315</cell>
   </row>
-  <row index="191">
+  <row index="249">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ee7ec03e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3840,7 +5000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6b2d21e</cell>
   </row>
-  <row index="192">
+  <row index="250">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/bde2a314-en</cell>
     <cell name="title">Proportion of adults participating in remedial education in Tlaxcala is one of the lowest among all the state in Mexico (en)</cell>
@@ -3860,7 +5020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90981fd1</cell>
   </row>
-  <row index="193">
+  <row index="251">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/2cee6bb9-en</cell>
     <cell name="title">Teacher perceived support from the school director or other educational authority during the COVID-19 pandemic. (en)</cell>
@@ -3880,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9306f63e</cell>
   </row>
-  <row index="194">
+  <row index="252">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/5b76ddb6-en</cell>
     <cell name="title">Key indicators for using skills effectively, Mexico and OECD average (en)</cell>
@@ -3900,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62c43b33</cell>
   </row>
-  <row index="195">
+  <row index="253">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/c3ff408f-en</cell>
     <cell name="title">Reasons preventing participation in (more) adult learning, Mexico and PIAAC participating countries (en)</cell>
@@ -3920,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fae48303</cell>
   </row>
-  <row index="196">
+  <row index="254">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e32248e0-en</cell>
     <cell name="title">Tlaxcala’s GDP per capita is among the lowest in Mexico (en)</cell>
@@ -3940,7 +5100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1cee3ef3</cell>
   </row>
-  <row index="197">
+  <row index="255">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/dda9ead4-en</cell>
     <cell name="title">EXCALE achievement levels in language and communication, and mathematical thinking in 2011 (en)</cell>
@@ -3960,7 +5120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d5416d2</cell>
   </row>
-  <row index="198">
+  <row index="256">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/1f7df46d-en</cell>
     <cell name="title">Literacy skills outcomes of tertiary graduates, Mexico and the OECD average (en)</cell>
@@ -3980,7 +5140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebf45673</cell>
   </row>
-  <row index="199">
+  <row index="257">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/022757ba-en</cell>
     <cell name="title">PLANEA mathematics scores for Tlaxcala and Mexico, 2015 (en)</cell>
@@ -4000,7 +5160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4a21470</cell>
   </row>
-  <row index="200">
+  <row index="258">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dd476bd3-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2021 (en)</cell>
@@ -4020,7 +5180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3503aaf4</cell>
   </row>
-  <row index="201">
+  <row index="259">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dd476bd3-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2021 (en)</cell>
@@ -4040,7 +5200,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2159f433</cell>
   </row>
-  <row index="202">
+  <row index="260">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/006a6512-en</cell>
+    <cell name="title">Fighting Tax Crime - The Ten Global Principles (Second Edition) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-06-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8270896</cell>
+  </row>
+  <row index="261">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/006a6512-en</cell>
+    <cell name="title">Fighting Tax Crime - The Ten Global Principles (Second Edition) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2021-06-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/688d8f30</cell>
+  </row>
+  <row index="262">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bf624417-en</cell>
     <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
@@ -4060,7 +5260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd751c3b</cell>
   </row>
-  <row index="203">
+  <row index="263">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bf624417-en</cell>
     <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
@@ -4080,7 +5280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d85b334</cell>
   </row>
-  <row index="204">
+  <row index="264">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2d810e01-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2021 (en)</cell>
@@ -4100,7 +5300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9df9160</cell>
   </row>
-  <row index="205">
+  <row index="265">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/333e76a0-fr</cell>
     <cell name="title">Politiques agricoles : suivi et évaluation 2021 (version abrégée) (fr)</cell>
@@ -4120,7 +5320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fac30c7</cell>
   </row>
-  <row index="206">
+  <row index="266">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2d810e01-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2021 (en)</cell>
@@ -4140,7 +5340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/527475db</cell>
   </row>
-  <row index="207">
+  <row index="267">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/333e76a0-fr</cell>
     <cell name="title">Politiques agricoles : suivi et évaluation 2021 (version abrégée) (fr)</cell>
@@ -4160,7 +5360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5badd0c</cell>
   </row>
-  <row index="208">
+  <row index="268">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27e7f69f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) (en)</cell>
@@ -4180,7 +5380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/565c0245</cell>
   </row>
-  <row index="209">
+  <row index="269">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27e7f69f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) (en)</cell>
@@ -4200,7 +5400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a25d191f</cell>
   </row>
-  <row index="210">
+  <row index="270">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d4c83b05-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) (en)</cell>
@@ -4220,7 +5420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0db7582b</cell>
   </row>
-  <row index="211">
+  <row index="271">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fed716dd-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) (en)</cell>
@@ -4240,7 +5440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8917667b</cell>
   </row>
-  <row index="212">
+  <row index="272">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07213810-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) (en)</cell>
@@ -4260,7 +5460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/702219b2</cell>
   </row>
-  <row index="213">
+  <row index="273">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fed716dd-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) (en)</cell>
@@ -4280,7 +5480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19ddbf85</cell>
   </row>
-  <row index="214">
+  <row index="274">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/385973ef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) (en)</cell>
@@ -4300,7 +5500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c35a35b9</cell>
   </row>
-  <row index="215">
+  <row index="275">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/385973ef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) (en)</cell>
@@ -4320,7 +5520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a748c61</cell>
   </row>
-  <row index="216">
+  <row index="276">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07213810-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) (en)</cell>
@@ -4340,7 +5540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/913ecdf0</cell>
   </row>
-  <row index="217">
+  <row index="277">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d4c83b05-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) (en)</cell>
@@ -4360,27 +5560,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82ecfe60</cell>
   </row>
-  <row index="218">
+  <row index="278">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f47a06ae-en</cell>
     <cell name="title">Starting Strong VI (en)</cell>
     <cell name="subtitle">Supporting Meaningful Interactions in Early Childhood Education and Care (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2021-06-28</cell>
     <cell name="embargo date">2021-06-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-06-04T18:12:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-06-04T17:56:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96f41ec4</cell>
   </row>
-  <row index="219">
+  <row index="279">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f47a06ae-en</cell>
     <cell name="title">Starting Strong VI (en)</cell>
@@ -4400,7 +5600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7793f0e4</cell>
   </row>
-  <row index="220">
+  <row index="280">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e82fded1-en</cell>
     <cell name="title">Measuring What Matters for Child Well-Being and Policies (en)</cell>
@@ -4420,7 +5620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fdbb005</cell>
   </row>
-  <row index="221">
+  <row index="281">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e82fded1-en</cell>
     <cell name="title">Measuring What Matters for Child Well-Being and Policies (en)</cell>
@@ -4440,7 +5640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7051969e</cell>
   </row>
-  <row index="222">
+  <row index="282">
     <cell name="directorate">General Secretariat</cell>
     <cell name="doi">10.1787/dcbc2ea9-en</cell>
     <cell name="title">Competitiveness in South East Europe 2021 (en)</cell>
@@ -4460,7 +5660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d63cd859</cell>
   </row>
-  <row index="223">
+  <row index="283">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5a700c4b-en</cell>
     <cell name="title">OECD Employment Outlook 2021 (en)</cell>
@@ -4480,7 +5680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7386dbc8</cell>
   </row>
-  <row index="224">
+  <row index="284">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5a700c4b-en</cell>
     <cell name="title">OECD Employment Outlook 2021 (en)</cell>
@@ -4500,7 +5700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fd0b4a0</cell>
   </row>
-  <row index="225">
+  <row index="285">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9556b25a-fr</cell>
     <cell name="title">Panorama des administrations publiques 2021 (fr)</cell>
@@ -4520,7 +5720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33d6a18b</cell>
   </row>
-  <row index="226">
+  <row index="286">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9556b25a-fr</cell>
     <cell name="title">Panorama des administrations publiques 2021 (fr)</cell>
@@ -4540,7 +5740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0ba00a6</cell>
   </row>
-  <row index="227">
+  <row index="287">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1c258f55-en</cell>
     <cell name="title">Government at a Glance 2021 (en)</cell>
@@ -4560,7 +5760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/201e0263</cell>
   </row>
-  <row index="228">
+  <row index="288">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1c258f55-en</cell>
     <cell name="title">Government at a Glance 2021 (en)</cell>
@@ -4580,7 +5780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd3d6ee5</cell>
   </row>
-  <row index="229">
+  <row index="289">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc6e7579-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) (en)</cell>
@@ -4600,7 +5800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24cd1f1</cell>
   </row>
-  <row index="230">
+  <row index="290">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdae3e57-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 2) (en)</cell>
@@ -4620,7 +5820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4f899c3</cell>
   </row>
-  <row index="231">
+  <row index="291">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7a89e6e4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 2) (en)</cell>
@@ -4640,7 +5840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91383d3c</cell>
   </row>
-  <row index="232">
+  <row index="292">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad982afd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 2) (en)</cell>
@@ -4660,7 +5860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/926e01bf</cell>
   </row>
-  <row index="233">
+  <row index="293">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7a89e6e4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 2) (en)</cell>
@@ -4680,7 +5880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d476cde</cell>
   </row>
-  <row index="234">
+  <row index="294">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc6e7579-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) (en)</cell>
@@ -4700,7 +5900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64208e1c</cell>
   </row>
-  <row index="235">
+  <row index="295">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad982afd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 2) (en)</cell>
@@ -4720,7 +5920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b767ab4</cell>
   </row>
-  <row index="236">
+  <row index="296">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5fb7733b-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 2) (en)</cell>
@@ -4740,7 +5940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df5398a9</cell>
   </row>
-  <row index="237">
+  <row index="297">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/692bef12-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 2) (en)</cell>
@@ -4760,7 +5960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fdbd71e</cell>
   </row>
-  <row index="238">
+  <row index="298">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/01c36574-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 2) (en)</cell>
@@ -4780,7 +5980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1df227cd</cell>
   </row>
-  <row index="239">
+  <row index="299">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/01c36574-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 2) (en)</cell>
@@ -4800,7 +6000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55699577</cell>
   </row>
-  <row index="240">
+  <row index="300">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1c650976-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 2) (en)</cell>
@@ -4820,7 +6020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7497638e</cell>
   </row>
-  <row index="241">
+  <row index="301">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1c650976-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 2) (en)</cell>
@@ -4840,7 +6040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e680d296</cell>
   </row>
-  <row index="242">
+  <row index="302">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdae3e57-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 2) (en)</cell>
@@ -4860,7 +6060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87699f5b</cell>
   </row>
-  <row index="243">
+  <row index="303">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/692bef12-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 2) (en)</cell>
@@ -4880,7 +6080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5eeda66</cell>
   </row>
-  <row index="244">
+  <row index="304">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5fb7733b-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 2) (en)</cell>
