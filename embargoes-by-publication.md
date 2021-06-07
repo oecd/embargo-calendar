@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 June 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Boosting employment in Finland](https://doi.org/10.1787/fe943c95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 7 June 2021 at 20:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Data for Development Profiles - Official Development Assistance for Data and Statistical Systems](https://doi.org/10.1787/84baa8f3-en)
 
@@ -36,9 +13,9 @@ Monday 7 June 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
 
 ### Additional Information
 
@@ -59,7 +36,7 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
+- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 4 June 2021 at 19:56
 
@@ -82,9 +59,9 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
 
 ### Additional Information
 
@@ -105,15 +82,15 @@ Tuesday 8 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -128,7 +105,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
@@ -151,7 +128,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
@@ -165,6 +142,29 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Sweden 2021](https://doi.org/10.1787/f61d0a54-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 June 2021 at 15:55 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
 
 Embargo date | Launch date
@@ -174,7 +174,7 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 May 2021 at 20:13
+- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
 
@@ -257,7 +257,7 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 
 ------
 
-## [Fighting Tax Crime - The Ten Global Principles (Second Edition)](https://doi.org/10.1787/006a6512-en)
+## [Fighting Tax Crime – The Ten Global Principles (Second Edition)](https://doi.org/10.1787/006a6512-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -284,7 +284,7 @@ Thursday 17 June 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 21 June 2021 at 8:00 | no launch event
+Monday 21 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -537,7 +537,7 @@ Thursday 1 July 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 July 2021 at 9:00 | no launch event
+Wednesday 7 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
