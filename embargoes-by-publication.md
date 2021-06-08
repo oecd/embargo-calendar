@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 June 2021 at 20:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 June 2021 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Data for Development Profiles - Official Development Assistance for Data and Statistical Systems](https://doi.org/10.1787/84baa8f3-en)
 
@@ -15,7 +15,7 @@ Monday 7 June 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -82,7 +82,7 @@ Tuesday 8 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 7 June 2021 at 19:54
 
@@ -107,7 +107,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -142,26 +142,26 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Sweden 2021](https://doi.org/10.1787/f61d0a54-en)
+## [Multi-dimensional Review of the Western Balkans - Assessing Opportunities and Constraints](https://doi.org/10.1787/4d5cbc2a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 14 June 2021 at 15:55 | no launch event
+Thursday 10 June 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -173,16 +173,16 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 May 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -257,6 +257,29 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 
 ------
 
+## [Civic Space Scan of Finland](https://doi.org/10.1787/f9e971bd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 June 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Fighting Tax Crime – The Ten Global Principles (Second Edition)](https://doi.org/10.1787/006a6512-en)
 
 Embargo date | Launch date
@@ -266,15 +289,15 @@ Thursday 17 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -299,6 +322,29 @@ Monday 21 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Sweden 2021](https://doi.org/10.1787/f61d0a54-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 June 2021 at 15:55 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -312,15 +358,15 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -358,9 +404,9 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -381,9 +427,9 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -404,9 +450,9 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -427,9 +473,9 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -450,9 +496,9 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
@@ -496,15 +542,15 @@ Thursday 1 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -530,6 +576,29 @@ Thursday 1 July 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Iceland 2021](https://doi.org/10.1787/c4edf686-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -599,6 +668,29 @@ Friday 9 July 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Investment Policy Reviews: Uruguay](https://doi.org/10.1787/1135f88e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 

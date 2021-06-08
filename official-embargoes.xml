@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-06-07T20:27:33.5216393+02:00">
+<report name="official-embargoes" generated="2021-06-08T20:30:42.9604514+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,9 +33,9 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-07T18:11:39Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-07T17:54:57Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date">2021-06-07T18:50:44Z</cell>
+    <cell name="google last export date">2021-06-07T18:42:17Z</cell>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9bf90e3</cell>
@@ -1851,7 +1851,7 @@
     <cell name="date of publication">2021-06-08</cell>
     <cell name="embargo date">2021-06-08T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-07T18:11:39Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2021-06-07T17:54:57Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -1873,7 +1873,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-07T09:09:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1893,7 +1893,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-06-07T09:09:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1901,6 +1901,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f183555b</cell>
   </row>
   <row index="95">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/4d5cbc2a-en</cell>
+    <cell name="title">Multi-dimensional Review of the Western Balkans (en)</cell>
+    <cell name="subtitle">Assessing Opportunities and Constraints (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-10</cell>
+    <cell name="embargo date">2021-06-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2cf3d77</cell>
+  </row>
+  <row index="96">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f61d0a54-en</cell>
     <cell name="title">OECD Economic Surveys: Sweden 2021 (en)</cell>
@@ -1908,7 +1928,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-06-14</cell>
+    <cell name="date of publication">2021-06-21</cell>
     <cell name="embargo date">2021-06-14T15:55:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1919,26 +1939,6 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b286651</cell>
-  </row>
-  <row index="96">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/f61d0a54-en</cell>
-    <cell name="title">OECD Economic Surveys: Sweden 2021 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-06-14</cell>
-    <cell name="embargo date">2021-06-14T15:55:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3dafd52</cell>
   </row>
   <row index="97">
     <cell name="directorate">Centre for Skills</cell>
@@ -1967,17 +1967,17 @@
     <cell name="subtitle">Learning for Life (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2021-06-15</cell>
     <cell name="embargo date">2021-06-15T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-07T18:11:39Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-05-12T17:57:25Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94d9b2cb</cell>
   </row>
   <row index="99">
@@ -3601,6 +3601,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2159f433</cell>
   </row>
   <row index="180">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/f9e971bd-en</cell>
+    <cell name="title">Civic Space Scan of Finland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-06-16</cell>
+    <cell name="embargo date">2021-06-16T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5537d207</cell>
+  </row>
+  <row index="181">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/006a6512-en</cell>
     <cell name="title">Fighting Tax Crime – The Ten Global Principles (Second Edition) (en)</cell>
@@ -3608,7 +3628,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2021-06-17</cell>
     <cell name="embargo date">2021-06-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -3620,27 +3640,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8270896</cell>
   </row>
-  <row index="181">
+  <row index="182">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/006a6512-en</cell>
     <cell name="title">Fighting Tax Crime – The Ten Global Principles (Second Edition) (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-06-17</cell>
     <cell name="embargo date">2021-06-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/688d8f30</cell>
   </row>
-  <row index="182">
+  <row index="183">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bf624417-en</cell>
     <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
@@ -3660,7 +3680,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd751c3b</cell>
   </row>
-  <row index="183">
+  <row index="184">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/bf624417-en</cell>
+    <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
+    <cell name="subtitle">Into the Future (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-21</cell>
+    <cell name="embargo date">2021-06-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41b7b02f</cell>
+  </row>
+  <row index="185">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/bf624417-en</cell>
+    <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
+    <cell name="subtitle">Into the Future (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-06-21</cell>
+    <cell name="embargo date">2021-06-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca7f877f</cell>
+  </row>
+  <row index="186">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bf624417-en</cell>
     <cell name="title">Scotland’s Curriculum for Excellence (en)</cell>
@@ -3680,27 +3740,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d85b334</cell>
   </row>
-  <row index="184">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/2d810e01-en</cell>
-    <cell name="title">Agricultural Policy Monitoring and Evaluation 2021 (en)</cell>
-    <cell name="subtitle">Addressing the Challenges Facing Food Systems (en)</cell>
+  <row index="187">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/f61d0a54-en</cell>
+    <cell name="title">OECD Economic Surveys: Sweden 2021 (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-06-22</cell>
-    <cell name="embargo date">2021-06-22T06:00:00Z</cell>
+    <cell name="date of publication">2021-06-21</cell>
+    <cell name="embargo date">2021-06-21T15:55:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3dafd52</cell>
+  </row>
+  <row index="188">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/2d810e01-en</cell>
+    <cell name="title">Agricultural Policy Monitoring and Evaluation 2021 (en)</cell>
+    <cell name="subtitle">Addressing the Challenges Facing Food Systems (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-06-22</cell>
+    <cell name="embargo date">2021-06-22T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9df9160</cell>
   </row>
-  <row index="185">
+  <row index="189">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/333e76a0-fr</cell>
     <cell name="title">Politiques agricoles : suivi et évaluation 2021 (version abrégée) (fr)</cell>
@@ -3720,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fac30c7</cell>
   </row>
-  <row index="186">
+  <row index="190">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2d810e01-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2021 (en)</cell>
@@ -3740,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/527475db</cell>
   </row>
-  <row index="187">
+  <row index="191">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/333e76a0-fr</cell>
     <cell name="title">Politiques agricoles : suivi et évaluation 2021 (version abrégée) (fr)</cell>
@@ -3760,7 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5badd0c</cell>
   </row>
-  <row index="188">
+  <row index="192">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27e7f69f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) (en)</cell>
@@ -3771,16 +3851,16 @@
     <cell name="date of publication">2021-06-24</cell>
     <cell name="embargo date">2021-06-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/565c0245</cell>
   </row>
-  <row index="189">
+  <row index="193">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27e7f69f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) (en)</cell>
@@ -3800,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a25d191f</cell>
   </row>
-  <row index="190">
+  <row index="194">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d4c83b05-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) (en)</cell>
@@ -3820,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0db7582b</cell>
   </row>
-  <row index="191">
+  <row index="195">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fed716dd-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) (en)</cell>
@@ -3840,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8917667b</cell>
   </row>
-  <row index="192">
+  <row index="196">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07213810-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) (en)</cell>
@@ -3860,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/702219b2</cell>
   </row>
-  <row index="193">
+  <row index="197">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fed716dd-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) (en)</cell>
@@ -3871,16 +3951,16 @@
     <cell name="date of publication">2021-06-24</cell>
     <cell name="embargo date">2021-06-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19ddbf85</cell>
   </row>
-  <row index="194">
+  <row index="198">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/385973ef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) (en)</cell>
@@ -3891,16 +3971,16 @@
     <cell name="date of publication">2021-06-24</cell>
     <cell name="embargo date">2021-06-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c35a35b9</cell>
   </row>
-  <row index="195">
+  <row index="199">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/385973ef-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) (en)</cell>
@@ -3920,7 +4000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a748c61</cell>
   </row>
-  <row index="196">
+  <row index="200">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07213810-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) (en)</cell>
@@ -3931,16 +4011,16 @@
     <cell name="date of publication">2021-06-24</cell>
     <cell name="embargo date">2021-06-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/913ecdf0</cell>
   </row>
-  <row index="197">
+  <row index="201">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d4c83b05-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) (en)</cell>
@@ -3951,16 +4031,16 @@
     <cell name="date of publication">2021-06-24</cell>
     <cell name="embargo date">2021-06-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-06-03T18:13:03Z</cell>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-06-03T17:55:19Z</cell>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82ecfe60</cell>
   </row>
-  <row index="198">
+  <row index="202">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f47a06ae-en</cell>
     <cell name="title">Starting Strong VI (en)</cell>
@@ -3980,7 +4060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96f41ec4</cell>
   </row>
-  <row index="199">
+  <row index="203">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f47a06ae-en</cell>
     <cell name="title">Starting Strong VI (en)</cell>
@@ -4000,27 +4080,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7793f0e4</cell>
   </row>
-  <row index="200">
+  <row index="204">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e82fded1-en</cell>
     <cell name="title">Measuring What Matters for Child Well-Being and Policies (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-07-01</cell>
     <cell name="embargo date">2021-07-01T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fdbb005</cell>
   </row>
-  <row index="201">
+  <row index="205">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e82fded1-en</cell>
     <cell name="title">Measuring What Matters for Child Well-Being and Policies (en)</cell>
@@ -4028,7 +4108,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2021-07-01</cell>
     <cell name="embargo date">2021-07-01T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -4040,7 +4120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7051969e</cell>
   </row>
-  <row index="202">
+  <row index="206">
     <cell name="directorate">General Secretariat</cell>
     <cell name="doi">10.1787/dcbc2ea9-en</cell>
     <cell name="title">Competitiveness in South East Europe 2021 (en)</cell>
@@ -4060,7 +4140,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d63cd859</cell>
   </row>
-  <row index="203">
+  <row index="207">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c4edf686-en</cell>
+    <cell name="title">OECD Economic Surveys: Iceland 2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2021-07-07</cell>
+    <cell name="embargo date">2021-07-07T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d4c204f</cell>
+  </row>
+  <row index="208">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c4edf686-en</cell>
+    <cell name="title">OECD Economic Surveys: Iceland 2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2021-07-07</cell>
+    <cell name="embargo date">2021-07-07T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39b77eb2</cell>
+  </row>
+  <row index="209">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5a700c4b-en</cell>
     <cell name="title">OECD Employment Outlook 2021 (en)</cell>
@@ -4080,7 +4200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fd0b4a0</cell>
   </row>
-  <row index="204">
+  <row index="210">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5a700c4b-en</cell>
     <cell name="title">OECD Employment Outlook 2021 (en)</cell>
@@ -4100,7 +4220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7386dbc8</cell>
   </row>
-  <row index="205">
+  <row index="211">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9556b25a-fr</cell>
     <cell name="title">Panorama des administrations publiques 2021 (fr)</cell>
@@ -4120,7 +4240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33d6a18b</cell>
   </row>
-  <row index="206">
+  <row index="212">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9556b25a-fr</cell>
     <cell name="title">Panorama des administrations publiques 2021 (fr)</cell>
@@ -4140,7 +4260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0ba00a6</cell>
   </row>
-  <row index="207">
+  <row index="213">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1c258f55-en</cell>
     <cell name="title">Government at a Glance 2021 (en)</cell>
@@ -4160,7 +4280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/201e0263</cell>
   </row>
-  <row index="208">
+  <row index="214">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1c258f55-en</cell>
     <cell name="title">Government at a Glance 2021 (en)</cell>
@@ -4180,7 +4300,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd3d6ee5</cell>
   </row>
-  <row index="209">
+  <row index="215">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/1135f88e-en</cell>
+    <cell name="title">OECD Investment Policy Reviews: Uruguay (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-07-12</cell>
+    <cell name="embargo date">2021-07-12T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-06-08T18:13:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-06-08T17:56:31Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bfd61f98</cell>
+  </row>
+  <row index="216">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc6e7579-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) (en)</cell>
@@ -4200,7 +4340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24cd1f1</cell>
   </row>
-  <row index="210">
+  <row index="217">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdae3e57-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 2) (en)</cell>
@@ -4220,7 +4360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4f899c3</cell>
   </row>
-  <row index="211">
+  <row index="218">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7a89e6e4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 2) (en)</cell>
@@ -4240,7 +4380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91383d3c</cell>
   </row>
-  <row index="212">
+  <row index="219">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad982afd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 2) (en)</cell>
@@ -4260,7 +4400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/926e01bf</cell>
   </row>
-  <row index="213">
+  <row index="220">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7a89e6e4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Croatia (Stage 2) (en)</cell>
@@ -4280,7 +4420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d476cde</cell>
   </row>
-  <row index="214">
+  <row index="221">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc6e7579-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) (en)</cell>
@@ -4300,7 +4440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64208e1c</cell>
   </row>
-  <row index="215">
+  <row index="222">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad982afd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Argentina (Stage 2) (en)</cell>
@@ -4320,7 +4460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b767ab4</cell>
   </row>
-  <row index="216">
+  <row index="223">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5fb7733b-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 2) (en)</cell>
@@ -4340,7 +4480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df5398a9</cell>
   </row>
-  <row index="217">
+  <row index="224">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/692bef12-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 2) (en)</cell>
@@ -4360,7 +4500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fdbd71e</cell>
   </row>
-  <row index="218">
+  <row index="225">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/01c36574-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 2) (en)</cell>
@@ -4380,7 +4520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1df227cd</cell>
   </row>
-  <row index="219">
+  <row index="226">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/01c36574-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Colombia (Stage 2) (en)</cell>
@@ -4400,7 +4540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55699577</cell>
   </row>
-  <row index="220">
+  <row index="227">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1c650976-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 2) (en)</cell>
@@ -4420,7 +4560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7497638e</cell>
   </row>
-  <row index="221">
+  <row index="228">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1c650976-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Chile (Stage 2) (en)</cell>
@@ -4440,7 +4580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e680d296</cell>
   </row>
-  <row index="222">
+  <row index="229">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/bdae3e57-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, South Africa (Stage 2) (en)</cell>
@@ -4460,7 +4600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87699f5b</cell>
   </row>
-  <row index="223">
+  <row index="230">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/692bef12-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Lithuania (Stage 2) (en)</cell>
@@ -4480,7 +4620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5eeda66</cell>
   </row>
-  <row index="224">
+  <row index="231">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5fb7733b-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Latvia (Stage 2) (en)</cell>
