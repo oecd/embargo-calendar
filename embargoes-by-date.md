@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 June 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 9 June 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 June 2021](#7-june-2021)
 * [8 June 2021](#8-june-2021)
 * [9 June 2021](#9-june-2021)
 * [10 June 2021](#10-june-2021)
+* [11 June 2021](#11-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [17 June 2021](#17-june-2021)
@@ -20,33 +20,6 @@ Data generated on | |
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
 * [15 July 2021](#15-july-2021)
-
-------
-
-# 7 June 2021
-
-## [Data for Development Profiles - Official Development Assistance for Data and Statistical Systems](https://doi.org/10.1787/84baa8f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 June 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 20:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -63,7 +36,7 @@ Tuesday 8 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
@@ -86,7 +59,7 @@ Tuesday 8 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
@@ -109,7 +82,7 @@ Tuesday 8 June 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 June 2021 at 19:54
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
@@ -186,7 +159,7 @@ Thursday 10 June 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
@@ -194,6 +167,33 @@ Thursday 10 June 2021 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 11 June 2021
+
+## [The tortoise and the hare: The race between vaccine rollout and new COVID variants](https://doi.org/10.1787/4098409d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 June 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -220,6 +220,29 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 * Directorate: *Centre for Skills*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Renforcer l’autonomie et la confiance des jeunes au Maroc](https://doi.org/10.1787/588c5c07-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -261,7 +284,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 3 June 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
 
@@ -271,7 +294,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -307,7 +330,7 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
@@ -334,9 +357,9 @@ Thursday 17 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
@@ -379,20 +402,20 @@ Monday 21 June 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 21 June 2021 at 15:55 | no launch event
+Monday 21 June 2021 at 12:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -411,7 +434,7 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
@@ -580,9 +603,9 @@ Monday 28 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
 
 ### Additional Information
 
