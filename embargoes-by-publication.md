@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 June 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Building Agricultural Resilience to Natural Hazard-induced Disasters - Insights from Country Case Studies](https://doi.org/10.1787/49eefdd7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [A New Benchmark for Mental Health Systems - Tackling the Social and Economic Costs of Mental Ill-Health](https://doi.org/10.1787/4ed890f6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Digital Education Outlook 2021 - Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 June 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 10 June 2021 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co-operation Peer Reviews: Germany 2021](https://doi.org/10.1787/bb32a97d-en)
 
@@ -84,7 +15,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Wednesday 9 June 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 June 2021 at 11:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
@@ -242,18 +173,18 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 June 2021 at 19:55
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -289,9 +220,9 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
@@ -303,7 +234,7 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 
 ------
 
-## [Fighting Tax Crime – The Ten Global Principles (Second Edition)](https://doi.org/10.1787/006a6512-en)
+## [Fighting Tax Crime – The Ten Global Principles,  Second Edition](https://doi.org/10.1787/006a6512-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -311,18 +242,18 @@ Thursday 17 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -334,18 +265,18 @@ Monday 21 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -556,7 +487,30 @@ Monday 28 June 2021 at 9:00 | no launch event
 
 ------
 
-## [Measuring What Matters for Child Well-Being and Policies](https://doi.org/10.1787/e82fded1-en)
+## [The Future of Corporate Governance in Capital Markets Following the COVID-19 Crisis](https://doi.org/10.1787/efb2013c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Measuring What Matters for Child Well-being and Policies](https://doi.org/10.1787/e82fded1-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -565,9 +519,9 @@ Thursday 1 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
 
 ### Additional Information
 
@@ -721,7 +675,7 @@ Monday 12 July 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -744,7 +698,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -767,7 +721,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -790,7 +744,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -813,7 +767,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -836,7 +790,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -859,7 +813,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
@@ -882,7 +836,7 @@ Thursday 15 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 15 July 2021 at 9:00 | no launch event
+Wednesday 28 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
