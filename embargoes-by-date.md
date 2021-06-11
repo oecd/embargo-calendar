@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 June 2021 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 June 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 June 2021](#9-june-2021)
 * [10 June 2021](#10-june-2021)
 * [11 June 2021](#11-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [17 June 2021](#17-june-2021)
+* [18 June 2021](#18-june-2021)
 * [21 June 2021](#21-june-2021)
 * [22 June 2021](#22-june-2021)
 * [24 June 2021](#24-june-2021)
@@ -20,56 +20,6 @@ Data generated on | |
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
 * [28 July 2021](#28-july-2021)
-
-------
-
-# 9 June 2021
-
-## [OECD Development Co-operation Peer Reviews: Germany 2021](https://doi.org/10.1787/bb32a97d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 June 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [DAC-Prüfbericht über die Entwicklungszusammenarbeit: Deutschland 2021 (Kurzfassung) - Wichtigste Ergebnisse und Empfehlungen](https://doi.org/10.1787/83f90077-de)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 June 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 June 2021 at 11:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -86,7 +36,7 @@ Thursday 10 June 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
@@ -160,16 +110,16 @@ Tuesday 15 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -233,16 +183,16 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 June 2021 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -284,9 +234,9 @@ Thursday 17 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
@@ -294,6 +244,56 @@ Thursday 17 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 18 June 2021
+
+## [Integrity in the Peruvian Regions - Implementing the Integrity System](https://doi.org/10.1787/ceba1186-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 June 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Integridad en las regiones peruanas - Implementar el sistema de integridad](https://doi.org/10.1787/6e2434be-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 June 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -334,9 +334,9 @@ Monday 21 June 2021 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
@@ -360,18 +360,18 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -521,6 +521,29 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 # 28 June 2021
 
+## [Clean Energy Finance and Investment Policy Review of Indonesia ](https://doi.org/10.1787/0007dd9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Starting Strong VI - Supporting Meaningful Interactions in Early Childhood Education and Care](https://doi.org/10.1787/f47a06ae-en)
 
 Embargo date | Launch date
@@ -557,16 +580,16 @@ Wednesday 30 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -584,9 +607,9 @@ Thursday 1 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
+- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
 ### Additional Information
 
