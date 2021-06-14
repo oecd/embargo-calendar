@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 June 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 June 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 June 2021](#10-june-2021)
-* [11 June 2021](#11-june-2021)
 * [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [17 June 2021](#17-june-2021)
@@ -23,60 +21,6 @@ Data generated on | |
 
 ------
 
-# 10 June 2021
-
-## [Multi-dimensional Review of the Western Balkans - Assessing Opportunities and Constraints](https://doi.org/10.1787/4d5cbc2a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 June 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 11 June 2021
-
-## [The tortoise and the hare: The race between vaccine rollout and new COVID variants](https://doi.org/10.1787/4098409d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 15 June 2021
 
 ## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
@@ -88,9 +32,9 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
 ### Additional Information
 
@@ -113,7 +57,7 @@ Tuesday 15 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
 ### Additional Information
 
@@ -140,7 +84,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 May 2021 at 19:57
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
 ### Additional Information
 
@@ -163,7 +107,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
 ### Additional Information
 
@@ -225,6 +169,29 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 
 # 17 June 2021
 
+## [Towards a national strategic framework for the circular economy in the Czech Republic - Analysis and a proposed set of key elements](https://doi.org/10.1787/5d33734d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 June 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Fighting Tax Crime – The Ten Global Principles,  Second Edition](https://doi.org/10.1787/006a6512-en)
 
 Embargo date | Launch date
@@ -234,7 +201,7 @@ Thursday 17 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
@@ -361,9 +328,9 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
 ### Additional Information
 
@@ -371,7 +338,7 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -384,16 +351,39 @@ Tuesday 22 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 June 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
