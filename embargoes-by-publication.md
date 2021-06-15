@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 June 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 June 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
 
@@ -59,7 +59,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 June 2021 at 20:12
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 14 June 2021 at 19:58
 
@@ -107,7 +107,7 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
 
 ### Additional Information
 
@@ -127,18 +127,18 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -153,7 +153,7 @@ Thursday 17 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
 
 ### Additional Information
 
@@ -185,6 +185,75 @@ Thursday 17 June 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Implementation toolkit on legislative actions for consumer protection enforcement co-operation](https://doi.org/10.1787/eddcdc57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 June 2021 at 12:40 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Crisis on the Horizon: Ensuring Affordable, Accessible Housing for People with Disabilities](https://doi.org/10.1787/40e857a1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Une crise à l’horizon : Garantir des logements abordables et accessibles aux personnes handicapées](https://doi.org/10.1787/ad40d790-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -280,52 +349,6 @@ Monday 21 June 2021 at 12:00 | no launch event
 
 ------
 
-## [Agricultural Policy Monitoring and Evaluation 2021 - Addressing the Challenges Facing Food Systems](https://doi.org/10.1787/2d810e01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Politiques agricoles : suivi et évaluation 2021 (version abrégée) - Répondre aux enjeux des systèmes alimentaires](https://doi.org/10.1787/333e76a0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
 
 Embargo date | Launch date
@@ -345,6 +368,52 @@ Tuesday 22 June 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2021 - Addressing the Challenges Facing Food Systems](https://doi.org/10.1787/2d810e01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Politiques agricoles : suivi et évaluation 2021 (version abrégée) - Répondre aux enjeux des systèmes alimentaires](https://doi.org/10.1787/333e76a0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -464,6 +533,29 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ------
 
+## [Tinjauan Kebijakan Pembiayaan dan Investasi Energi Bersih Indonesia](https://doi.org/10.1787/97320cf7-id)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Indonesian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Clean Energy Finance and Investment Policy Review of Indonesia ](https://doi.org/10.1787/0007dd9d-en)
 
 Embargo date | Launch date
@@ -473,7 +565,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
@@ -519,9 +611,9 @@ Wednesday 30 June 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
 
 ### Additional Information
 
