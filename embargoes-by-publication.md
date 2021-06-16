@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 June 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 16 June 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
 
@@ -15,7 +15,7 @@ Tuesday 15 June 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 15 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
@@ -128,7 +128,7 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
 
@@ -176,7 +176,7 @@ Thursday 17 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 17 June 2021 at 12:40 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
@@ -228,7 +228,7 @@ Friday 18 June 2021 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -251,7 +251,7 @@ Friday 18 June 2021 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -266,7 +266,7 @@ Friday 18 June 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
@@ -289,7 +289,7 @@ Friday 18 June 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 11 June 2021 at 19:56
 
@@ -345,7 +345,7 @@ Monday 21 June 2021 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -403,18 +403,18 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -565,9 +565,9 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
@@ -629,14 +629,14 @@ Wednesday 30 June 2021 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 1 July 2021 at 8:00 | no launch event
+Thursday 1 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
 ### Additional Information
 
