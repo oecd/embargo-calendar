@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 June 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 June 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 June 2021](#15-june-2021)
 * [16 June 2021](#16-june-2021)
 * [17 June 2021](#17-june-2021)
 * [18 June 2021](#18-june-2021)
@@ -21,56 +20,6 @@ Data generated on | |
 
 ------
 
-# 15 June 2021
-
-## [OECD Skills Outlook 2021 - Learning for Life](https://doi.org/10.1787/0ae365b4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Renforcer l’autonomie et la confiance des jeunes au Maroc](https://doi.org/10.1787/588c5c07-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 16 June 2021
 
 ## [OECD Skills Strategy Tlaxcala (Mexico) - Assessment and Recommendations](https://doi.org/10.1787/13925818-en)
@@ -84,7 +33,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -107,7 +56,7 @@ Wednesday 16 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 June 2021 at 19:58
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -130,7 +79,7 @@ Wednesday 16 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -153,7 +102,7 @@ Wednesday 16 June 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -201,7 +150,7 @@ Thursday 17 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
 
@@ -242,6 +191,29 @@ Thursday 17 June 2021 at 12:40 | no launch event
 
 # 18 June 2021
 
+## [Réactions rapides à la corruption - Coordonner les réponses des donneurs](https://doi.org/10.1787/125dec0f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Crisis on the Horizon: Ensuring Affordable, Accessible Housing for People with Disabilities](https://doi.org/10.1787/40e857a1-en)
 
 Embargo date | Launch date
@@ -250,7 +222,7 @@ Friday 18 June 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -273,7 +245,7 @@ Friday 18 June 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -299,7 +271,7 @@ Friday 18 June 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -322,7 +294,7 @@ Friday 18 June 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -369,16 +341,16 @@ Monday 21 June 2021 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -493,7 +465,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
@@ -503,7 +475,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -539,7 +511,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
 
@@ -549,7 +521,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -589,15 +561,15 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *Indonesian*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -612,9 +584,9 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
@@ -635,9 +607,9 @@ Monday 28 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 June 2021 at 20:13
+- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
 
 ### Additional Information
 
