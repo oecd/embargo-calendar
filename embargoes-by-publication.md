@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 June 2021 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Skills Strategy Tlaxcala (Mexico) - Assessment and Recommendations](https://doi.org/10.1787/13925818-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Progress Review of Latvia’s Public Utilities Commission - Driving Performance](https://doi.org/10.1787/6c2ee469-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Netherlands 2021](https://doi.org/10.1787/dd476bd3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 June 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Civic Space Scan of Finland](https://doi.org/10.1787/f9e971bd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 June 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 18 June 2021 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards a national strategic framework for the circular economy in the Czech Republic - Analysis and a proposed set of key elements](https://doi.org/10.1787/5d33734d-en)
 
@@ -107,7 +15,7 @@ Thursday 17 June 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Thursday 17 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
 
 ### Additional Information
 
@@ -153,7 +61,7 @@ Thursday 17 June 2021 at 12:40 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
 
 ### Additional Information
 
@@ -280,6 +188,29 @@ Friday 18 June 2021 at 14:00 | no launch event
 
 ------
 
+## [Investing in Youth: Slovenia](https://doi.org/10.1787/c3df2833-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 June 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Scotland’s Curriculum for Excellence - Into the Future](https://doi.org/10.1787/bf624417-en)
 
 Embargo date | Launch date
@@ -291,7 +222,7 @@ Monday 21 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
 
 ### Additional Information
 
@@ -314,7 +245,7 @@ Monday 21 June 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
 
 ### Additional Information
 
@@ -625,11 +556,57 @@ Thursday 1 July 2021 at 9:00 | no launch event
 
 ------
 
+## [Perspectives agricoles de l’OCDE et de la FAO 2021-2030](https://doi.org/10.1787/e32fb104-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2021-2030](https://doi.org/10.1787/19428846-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Competitiveness in South East Europe 2021 - A Policy Outlook](https://doi.org/10.1787/dcbc2ea9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 1 July 2021 at 10:00 | no launch event
+Monday 5 July 2021 at 10:00 | no launch event
 
 ### Status Information
 
