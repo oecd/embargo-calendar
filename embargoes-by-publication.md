@@ -2,191 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 June 2021 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards a national strategic framework for the circular economy in the Czech Republic - Analysis and a proposed set of key elements](https://doi.org/10.1787/5d33734d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 June 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fighting Tax Crime – The Ten Global Principles,  Second Edition](https://doi.org/10.1787/006a6512-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Implementation toolkit on legislative actions for consumer protection enforcement co-operation](https://doi.org/10.1787/eddcdc57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 June 2021 at 12:40 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Réactions rapides à la corruption - Coordonner les réponses des donneurs](https://doi.org/10.1787/125dec0f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Crisis on the Horizon: Ensuring Affordable, Accessible Housing for People with Disabilities](https://doi.org/10.1787/40e857a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Une crise à l’horizon : Garantir des logements abordables et accessibles aux personnes handicapées](https://doi.org/10.1787/ad40d790-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Integrity in the Peruvian Regions - Implementing the Integrity System](https://doi.org/10.1787/ceba1186-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 June 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Integridad en las regiones peruanas - Implementar el sistema de integridad](https://doi.org/10.1787/6e2434be-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 June 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Monday 21 June 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Investing in Youth: Slovenia](https://doi.org/10.1787/c3df2833-en)
 
@@ -234,29 +50,6 @@ Monday 21 June 2021 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Sweden 2021](https://doi.org/10.1787/f61d0a54-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 June 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
 
 Embargo date | Launch date
@@ -291,7 +84,7 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
@@ -314,7 +107,7 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
@@ -334,18 +127,18 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -357,16 +150,16 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -380,18 +173,18 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -403,16 +196,16 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -426,18 +219,18 @@ Thursday 24 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -487,6 +280,29 @@ Monday 28 June 2021 at 4:00 | no launch event
 
 ------
 
+## [OECD SME and Entrepreneurship Outlook 2021](https://doi.org/10.1787/97a5bbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Starting Strong VI - Supporting Meaningful Interactions in Early Childhood Education and Care](https://doi.org/10.1787/f47a06ae-en)
 
 Embargo date | Launch date
@@ -495,18 +311,18 @@ Monday 28 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -529,6 +345,29 @@ Wednesday 30 June 2021 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Education in Brazil - An International Perspective](https://doi.org/10.1787/60a667f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 June 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -736,6 +575,52 @@ Monday 12 July 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Igualdad de género en Chile - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/c7105c4d-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 July 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Gender Equality in Chile - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/6cc8ea3e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 July 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
