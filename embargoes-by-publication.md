@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 June 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 22 June 2021 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Investing in Youth: Slovenia](https://doi.org/10.1787/c3df2833-en)
 
@@ -15,7 +15,7 @@ Monday 21 June 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 June 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 21 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
@@ -47,6 +47,29 @@ Monday 21 June 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -105,9 +128,9 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
@@ -312,7 +335,7 @@ Monday 28 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 21 June 2021 at 19:56
 
@@ -322,30 +345,7 @@ Monday 28 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [The Future of Corporate Governance in Capital Markets Following the COVID-19 Crisis](https://doi.org/10.1787/efb2013c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 June 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -358,9 +358,9 @@ Wednesday 30 June 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
@@ -368,6 +368,29 @@ Wednesday 30 June 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [The Future of Corporate Governance in Capital Markets Following the COVID-19 Crisis](https://doi.org/10.1787/efb2013c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 June 2021 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -380,18 +403,18 @@ Thursday 1 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 June 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 June 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -450,15 +473,15 @@ Monday 5 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -564,18 +587,18 @@ Monday 12 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
