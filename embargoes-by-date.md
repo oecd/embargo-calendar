@@ -2,93 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 June 2021 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 23 June 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 June 2021](#21-june-2021)
 * [22 June 2021](#22-june-2021)
 * [24 June 2021](#24-june-2021)
 * [28 June 2021](#28-june-2021)
+* [29 June 2021](#29-june-2021)
 * [30 June 2021](#30-june-2021)
 * [1 July 2021](#1-july-2021)
 * [5 July 2021](#5-july-2021)
 * [7 July 2021](#7-july-2021)
+* [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
 * [13 July 2021](#13-july-2021)
 * [28 July 2021](#28-july-2021)
-
-------
-
-# 21 June 2021
-
-## [Investing in Youth: Slovenia](https://doi.org/10.1787/c3df2833-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 June 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Scotland’s Curriculum for Excellence - Into the Future](https://doi.org/10.1787/bf624417-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -128,7 +56,7 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -151,7 +79,7 @@ Tuesday 22 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -178,7 +106,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -201,7 +129,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -224,7 +152,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -247,7 +175,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -270,7 +198,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -380,6 +308,33 @@ Monday 28 June 2021 at 9:00 | no launch event
 
 ------
 
+# 29 June 2021
+
+## [Strengthening Macroprudential Policies in Emerging Asia - Adapting to Green Goals and Fintech](https://doi.org/10.1787/6f1ed069-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 June 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
 # 30 June 2021
 
 ## [Education in Brazil - An International Perspective](https://doi.org/10.1787/60a667f7-en)
@@ -468,9 +423,9 @@ Monday 5 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -491,9 +446,9 @@ Monday 5 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 18 June 2021 at 20:12
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
@@ -580,6 +535,56 @@ Wednesday 7 July 2021 at 9:00 | no launch event
 
 ------
 
+# 8 July 2021
+
+## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 15:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] Exported to Keepeek Monday 4 January 2021 at 20:11
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 15:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 9 July 2021
 
 ## [Panorama des administrations publiques 2021](https://doi.org/10.1787/9556b25a-fr)
@@ -591,15 +596,15 @@ Friday 9 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -614,15 +619,15 @@ Friday 9 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -641,7 +646,7 @@ Monday 12 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
 
@@ -651,7 +656,7 @@ Monday 12 July 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
