@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 June 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 June 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Agricultural Policy Monitoring and Evaluation 2021 - Addressing the Challenges Facing Food Systems](https://doi.org/10.1787/2d810e01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 June 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Politiques agricoles : suivi et évaluation 2021 (version abrégée) - Répondre aux enjeux des systèmes alimentaires](https://doi.org/10.1787/333e76a0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 24 June 2021 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/27e7f69f-en)
 
@@ -184,6 +115,29 @@ Thursday 24 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global State of National Urban Policy 2021 - Achieving Sustainable Development Goals and Delivering Climate Action](https://doi.org/10.1787/96eee083-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 25 June 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -334,18 +288,18 @@ Wednesday 30 June 2021 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -426,17 +380,40 @@ Monday 5 July 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Bringing Household Services Out of the Shadows - Formalising Non-Care Work in and Around the House](https://doi.org/10.1787/fbea8f6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -487,6 +464,52 @@ Wednesday 7 July 2021 at 9:00 | no launch event
 
 ------
 
+## [A new approach to skills mismatch](https://doi.org/10.1787/e9563c2a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Employee training and firm performance - Evidence from ESF grant applications](https://doi.org/10.1787/dbbafcc4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
 
 Embargo date | Launch date
@@ -496,7 +519,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
 - [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
@@ -519,7 +542,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
