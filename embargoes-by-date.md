@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 June 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 June 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 June 2021](#24-june-2021)
 * [25 June 2021](#25-june-2021)
@@ -33,7 +33,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -102,7 +102,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -125,7 +125,7 @@ Thursday 24 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -150,7 +150,7 @@ Friday 25 June 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [x] Exported to iLibrary Friday 25 June 2021 at 10:43
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
 
@@ -176,18 +176,18 @@ Monday 28 June 2021 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *Indonesian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -199,41 +199,18 @@ Monday 28 June 2021 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 June 2021 at 20:10
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 June 2021 at 19:54
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD SME and Entrepreneurship Outlook 2021](https://doi.org/10.1787/97a5bbfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -248,7 +225,7 @@ Monday 28 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -256,6 +233,29 @@ Monday 28 June 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD SME and Entrepreneurship Outlook 2021](https://doi.org/10.1787/97a5bbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -275,7 +275,7 @@ Tuesday 29 June 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -291,41 +291,18 @@ Tuesday 29 June 2021 at 7:00 | no launch event
 
 # 30 June 2021
 
-## [Education in Brazil - An International Perspective](https://doi.org/10.1787/60a667f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 June 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [The Future of Corporate Governance in Capital Markets Following the COVID-19 Crisis](https://doi.org/10.1787/efb2013c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 June 2021 at 15:00 | no launch event
+Wednesday 30 June 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -334,6 +311,29 @@ Wednesday 30 June 2021 at 15:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Education in Brazil - An International Perspective](https://doi.org/10.1787/60a667f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 June 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -614,14 +614,14 @@ Thursday 8 July 2021 at 15:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 9 July 2021 at 10:00 | no launch event
+Friday 9 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
@@ -637,14 +637,14 @@ Friday 9 July 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 9 July 2021 at 10:00 | no launch event
+Friday 9 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
 ### Additional Information
 
