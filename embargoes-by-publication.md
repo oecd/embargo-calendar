@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 June 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ukraine 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/27e7f69f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fed716dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Russian Federation 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/385973ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/07213810-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d4c83b05-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global State of National Urban Policy 2021 - Achieving Sustainable Development Goals and Delivering Climate Action](https://doi.org/10.1787/96eee083-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 25 June 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 10:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Monday 28 June 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tinjauan Kebijakan Pembiayaan dan Investasi Energi Bersih Indonesia](https://doi.org/10.1787/97320cf7-id)
 
@@ -151,7 +13,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
@@ -161,7 +23,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 * Language: *Indonesian*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -174,7 +36,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
@@ -211,6 +73,29 @@ Monday 28 June 2021 at 9:00 | no launch event
 
 ------
 
+## [Implications of the COVID-19 Pandemic for Vocational Education and Training](https://doi.org/10.1787/55afea00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD SME and Entrepreneurship Outlook 2021](https://doi.org/10.1787/97a5bbfe-en)
 
 Embargo date | Launch date
@@ -220,7 +105,7 @@ Monday 28 June 2021 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 June 2021 at 19:55
 
@@ -245,7 +130,7 @@ Tuesday 29 June 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
 
 ### Additional Information
 
@@ -519,7 +404,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
 - [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
@@ -542,7 +427,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
 
@@ -634,15 +519,15 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -657,15 +542,15 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
