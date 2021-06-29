@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 June 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 29 June 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tinjauan Kebijakan Pembiayaan dan Investasi Energi Bersih Indonesia](https://doi.org/10.1787/97320cf7-id)
 
@@ -15,7 +15,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 28 June 2021 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 28 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -82,15 +82,15 @@ Monday 28 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -107,7 +107,7 @@ Monday 28 June 2021 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 30 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 30 June 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
@@ -211,6 +211,29 @@ Thursday 1 July 2021 at 9:00 | no launch event
 
 ------
 
+## [The state of higher education - One year in to the COVID-19 pandemic](https://doi.org/10.1787/83c41957-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 July 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Perspectives agricoles de l’OCDE et de la FAO 2021-2030](https://doi.org/10.1787/e32fb104-fr)
 
 Embargo date | Launch date
@@ -242,18 +265,18 @@ Monday 5 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -303,29 +326,6 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Iceland 2021](https://doi.org/10.1787/c4edf686-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Employment Outlook 2021 - Navigating the COVID-19 Crisis and Recovery](https://doi.org/10.1787/5a700c4b-en)
 
 Embargo date | Launch date
@@ -335,16 +335,39 @@ Wednesday 7 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Iceland 2021](https://doi.org/10.1787/c4edf686-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 July 2021 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
