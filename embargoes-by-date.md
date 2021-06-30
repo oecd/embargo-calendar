@@ -2,138 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 June 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 30 June 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 June 2021](#28-june-2021)
 * [29 June 2021](#29-june-2021)
 * [30 June 2021](#30-june-2021)
 * [1 July 2021](#1-july-2021)
 * [5 July 2021](#5-july-2021)
+* [6 July 2021](#6-july-2021)
 * [7 July 2021](#7-july-2021)
 * [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
 * [13 July 2021](#13-july-2021)
+* [21 July 2021](#21-july-2021)
 * [28 July 2021](#28-july-2021)
-
-------
-
-# 28 June 2021
-
-## [Tinjauan Kebijakan Pembiayaan dan Investasi Energi Bersih Indonesia](https://doi.org/10.1787/97320cf7-id)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *Indonesian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Clean Energy Finance and Investment Policy Review of Indonesia ](https://doi.org/10.1787/0007dd9d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Starting Strong VI - Supporting Meaningful Interactions in Early Childhood Education and Care](https://doi.org/10.1787/f47a06ae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Implications of the COVID-19 Pandemic for Vocational Education and Training](https://doi.org/10.1787/55afea00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD SME and Entrepreneurship Outlook 2021](https://doi.org/10.1787/97a5bbfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 June 2021 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -150,7 +32,7 @@ Tuesday 29 June 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
@@ -175,7 +57,7 @@ Wednesday 30 June 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
 
@@ -186,6 +68,29 @@ Wednesday 30 June 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Implications of the COVID-19 Pandemic for Vocational Education and Training](https://doi.org/10.1787/55afea00-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 June 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -227,7 +132,7 @@ Thursday 1 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
@@ -250,7 +155,7 @@ Thursday 1 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
@@ -274,18 +179,18 @@ Monday 5 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -321,7 +226,7 @@ Monday 5 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
 
@@ -331,6 +236,33 @@ Monday 5 July 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 6 July 2021
+
+## [Enhancing digital diffusion for higher productivity in Spain](https://doi.org/10.1787/ce12270a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -347,6 +279,29 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l’OCDE : Islande 2021 (version abrégée)](https://doi.org/10.1787/c674a068-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 July 2021 at 9:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -354,10 +309,10 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -394,9 +349,9 @@ Wednesday 7 July 2021 at 9:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
@@ -447,6 +402,29 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Productivity and human capital - The Italian case](https://doi.org/10.1787/01ca6be9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
 
 ### Additional Information
 
@@ -627,6 +605,33 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 21 July 2021
+
+## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
