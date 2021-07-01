@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 June 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 1 July 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 June 2021](#29-june-2021)
 * [30 June 2021](#30-june-2021)
 * [1 July 2021](#1-july-2021)
 * [5 July 2021](#5-july-2021)
@@ -16,33 +15,7 @@ Data generated on | |
 * [13 July 2021](#13-july-2021)
 * [21 July 2021](#21-july-2021)
 * [28 July 2021](#28-july-2021)
-
-------
-
-# 29 June 2021
-
-## [Strengthening Macroprudential Policies in Emerging Asia - Adapting to Green Goals and Fintech](https://doi.org/10.1787/6f1ed069-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 June 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+* [31 July 2021](#31-july-2021)
 
 ------
 
@@ -59,7 +32,7 @@ Wednesday 30 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
@@ -82,7 +55,7 @@ Wednesday 30 June 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
@@ -105,7 +78,7 @@ Wednesday 30 June 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
@@ -171,6 +144,29 @@ Thursday 1 July 2021 at 13:00 | no launch event
 
 # 5 July 2021
 
+## [Migration in Asia - What skills for the future?](https://doi.org/10.1787/38a9c133-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Perspectives agricoles de l’OCDE et de la FAO 2021-2030](https://doi.org/10.1787/e32fb104-fr)
 
 Embargo date | Launch date
@@ -228,7 +224,7 @@ Monday 5 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
@@ -294,6 +290,29 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 
 ------
 
+## [OECD Employment Outlook 2021 - Navigating the COVID-19 Crisis and Recovery](https://doi.org/10.1787/5a700c4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 July 2021 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Études économiques de l’OCDE : Islande 2021 (version abrégée)](https://doi.org/10.1787/c674a068-fr)
 
 Embargo date | Launch date
@@ -317,29 +336,6 @@ Wednesday 7 July 2021 at 9:00 | no launch event
 
 ------
 
-## [OECD Employment Outlook 2021 - Navigating the COVID-19 Crisis and Recovery](https://doi.org/10.1787/5a700c4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Iceland 2021](https://doi.org/10.1787/c4edf686-en)
 
 Embargo date | Launch date
@@ -348,16 +344,16 @@ Wednesday 7 July 2021 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -445,9 +441,9 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
+- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
 ### Additional Information
 
@@ -455,7 +451,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -817,6 +813,33 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 July 2021
+
+## [Education in Eastern Europe and Central Asia - Findings from PISA](https://doi.org/10.1787/ebeeb179-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 31 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
