@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 July 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 July 2021 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 June 2021](#30-june-2021)
 * [1 July 2021](#1-july-2021)
 * [5 July 2021](#5-july-2021)
 * [6 July 2021](#6-july-2021)
@@ -16,79 +15,6 @@ Data generated on | |
 * [21 July 2021](#21-july-2021)
 * [28 July 2021](#28-july-2021)
 * [31 July 2021](#31-july-2021)
-
-------
-
-# 30 June 2021
-
-## [The Future of Corporate Governance in Capital Markets Following the COVID-19 Crisis](https://doi.org/10.1787/efb2013c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Implications of the COVID-19 Pandemic for Vocational Education and Training](https://doi.org/10.1787/55afea00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 June 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Education in Brazil - An International Perspective](https://doi.org/10.1787/60a667f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 June 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -105,7 +31,7 @@ Thursday 1 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -128,7 +54,7 @@ Thursday 1 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -155,7 +81,7 @@ Monday 5 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -178,7 +104,7 @@ Monday 5 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -199,9 +125,9 @@ Monday 5 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
+- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -224,7 +150,7 @@ Monday 5 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -251,7 +177,7 @@ Tuesday 6 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -259,6 +185,52 @@ Tuesday 6 July 2021 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [What have countries done to support young people in the COVID-19 crisis?](https://doi.org/10.1787/ac9f056c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 July 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
+## [Young people’s concerns during COVID-19: Results from risks that matter 2020](https://doi.org/10.1787/64b51763-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 July 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
@@ -298,41 +270,18 @@ Wednesday 7 July 2021 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Islande 2021 (version abrégée)](https://doi.org/10.1787/c674a068-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -347,7 +296,7 @@ Wednesday 7 July 2021 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
@@ -441,7 +390,7 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
+- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
 - [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
 
@@ -568,9 +517,9 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
+- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
+- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
 ### Additional Information
 
