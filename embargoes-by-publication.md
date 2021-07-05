@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 July 2021 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring What Matters for Child Well-being and Policies](https://doi.org/10.1787/e82fded1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 June 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The state of higher education - One year in to the COVID-19 pandemic](https://doi.org/10.1787/83c41957-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 July 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Monday 5 July 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Migration in Asia - What skills for the future?](https://doi.org/10.1787/38a9c133-en)
 
@@ -82,7 +36,7 @@ Monday 5 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 2 July 2021 at 19:56
 
@@ -92,7 +46,7 @@ Monday 5 July 2021 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -196,8 +150,8 @@ Tuesday 6 July 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,9 +159,9 @@ Tuesday 6 July 2021 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -303,6 +257,29 @@ Thursday 8 July 2021 at 5:00 | no launch event
 
 ------
 
+## [Financial distress and the role of management in micro and small-sized firms](https://doi.org/10.1787/2014873c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Employee training and firm performance - Evidence from ESF grant applications](https://doi.org/10.1787/dbbafcc4-en)
 
 Embargo date | Launch date
@@ -381,17 +358,17 @@ Thursday 8 July 2021 at 15:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 June 2021 at 19:57
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -426,16 +403,16 @@ Friday 9 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -464,6 +441,52 @@ Monday 12 July 2021 at 8:00 | no launch event
 
 ------
 
+## [Implementing Regulatory Impact Assessment at Peru’s National Superintendence of Sanitation Services](https://doi.org/10.1787/c0cdc331-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Implementación del Análisis de Impacto Regulatorio en la Superintendencia Nacional de Servicios de Saneamiento del Perú](https://doi.org/10.1787/d27220ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Igualdad de género en Chile - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/c7105c4d-es)
 
 Embargo date | Launch date
@@ -472,18 +495,18 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -495,18 +518,18 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 June 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 June 2021 at 19:57
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -519,15 +542,15 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
