@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 July 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 July 2021](#5-july-2021)
 * [6 July 2021](#6-july-2021)
@@ -30,7 +30,7 @@ Monday 5 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -53,7 +53,7 @@ Monday 5 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -74,9 +74,9 @@ Monday 5 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -99,7 +99,7 @@ Monday 5 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -170,7 +170,7 @@ Tuesday 6 July 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -199,7 +199,7 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Wednesday 7 July 2021 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Wednesday 7 July 2021 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -272,7 +272,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -295,7 +295,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -318,7 +318,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 June 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -341,7 +341,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 June 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -353,18 +353,41 @@ Thursday 8 July 2021 at 5:00 | no launch event
 
 ------
 
+## [Production Transformation Policy Review of Egypt - Embracing Change, Achieving Prosperity](https://doi.org/10.1787/302fec4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 July 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 July 2021 at 15:30 | no launch event
+Thursday 8 July 2021 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Thursday 1 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -380,14 +403,14 @@ Thursday 8 July 2021 at 15:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 July 2021 at 15:30 | no launch event
+Thursday 8 July 2021 at 15:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
@@ -484,18 +507,18 @@ Monday 12 July 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -507,18 +530,18 @@ Monday 12 July 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
