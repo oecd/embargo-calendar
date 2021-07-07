@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 July 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 July 2021](#5-july-2021)
 * [6 July 2021](#6-july-2021)
 * [7 July 2021](#7-july-2021)
 * [8 July 2021](#8-july-2021)
@@ -14,102 +13,6 @@ Data generated on | |
 * [21 July 2021](#21-july-2021)
 * [28 July 2021](#28-july-2021)
 * [31 July 2021](#31-july-2021)
-
-------
-
-# 5 July 2021
-
-## [Migration in Asia - What skills for the future?](https://doi.org/10.1787/38a9c133-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2021-2030](https://doi.org/10.1787/e32fb104-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2021-2030](https://doi.org/10.1787/19428846-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Competitiveness in South East Europe 2021 - A Policy Outlook](https://doi.org/10.1787/dcbc2ea9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 July 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -126,7 +29,7 @@ Tuesday 6 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 July 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
@@ -220,7 +123,7 @@ Wednesday 7 July 2021 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
 
@@ -361,10 +264,10 @@ Thursday 8 July 2021 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
@@ -385,9 +288,9 @@ Thursday 8 July 2021 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
@@ -408,9 +311,9 @@ Thursday 8 July 2021 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
@@ -449,6 +352,29 @@ Friday 9 July 2021 at 9:00 | no launch event
 
 ------
 
+## [Teachers’ professional learning study: Diagnostic report for Wales](https://doi.org/10.1787/caf912c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Government at a Glance 2021](https://doi.org/10.1787/1c258f55-en)
 
 Embargo date | Launch date
@@ -472,9 +398,55 @@ Friday 9 July 2021 at 9:00 | no launch event
 
 ------
 
+## [Études économiques de l’OCDE : Suède 2021 (version abrégée)](https://doi.org/10.1787/c5e736db-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 July 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 12 July 2021
+
+## [Main Findings from the 2020 Risks that Matter Survey](https://doi.org/10.1787/b9e85cf5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 July 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [OECD Investment Policy Reviews: Uruguay](https://doi.org/10.1787/1135f88e-en)
 
@@ -533,7 +505,7 @@ Monday 12 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
@@ -608,9 +580,9 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
 ### Additional Information
 
