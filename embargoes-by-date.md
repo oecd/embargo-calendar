@@ -2,90 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 8 July 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 July 2021](#6-july-2021)
 * [7 July 2021](#7-july-2021)
 * [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
 * [13 July 2021](#13-july-2021)
+* [14 July 2021](#14-july-2021)
 * [21 July 2021](#21-july-2021)
-* [28 July 2021](#28-july-2021)
+* [26 July 2021](#26-july-2021)
 * [31 July 2021](#31-july-2021)
-
-------
-
-# 6 July 2021
-
-## [Enhancing digital diffusion for higher productivity in Spain](https://doi.org/10.1787/ce12270a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [What have countries done to support young people in the COVID-19 crisis?](https://doi.org/10.1787/ac9f056c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 July 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [Young people’s concerns during COVID-19: Results from risks that matter 2020](https://doi.org/10.1787/64b51763-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 July 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
 
 ------
 
@@ -102,7 +29,7 @@ Wednesday 7 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -125,7 +52,7 @@ Wednesday 7 July 2021 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -148,7 +75,7 @@ Wednesday 7 July 2021 at 9:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -265,17 +192,17 @@ Thursday 8 July 2021 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -290,7 +217,7 @@ Thursday 8 July 2021 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -337,16 +264,16 @@ Friday 9 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 June 2021 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 June 2021 at 19:55
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -363,7 +290,7 @@ Friday 9 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -384,9 +311,9 @@ Friday 9 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
@@ -394,7 +321,7 @@ Friday 9 July 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -434,7 +361,7 @@ Monday 12 July 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
 
@@ -468,52 +395,6 @@ Monday 12 July 2021 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Implementing Regulatory Impact Assessment at Peru’s National Superintendence of Sanitation Services](https://doi.org/10.1787/c0cdc331-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 July 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Implementación del Análisis de Impacto Regulatorio en la Superintendencia Nacional de Servicios de Saneamiento del Perú](https://doi.org/10.1787/d27220ab-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 July 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -553,7 +434,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 5 July 2021 at 19:57
 
@@ -564,6 +445,79 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 14 July 2021
+
+## [Implementing Regulatory Impact Assessment at Peru’s National Superintendence of Sanitation Services](https://doi.org/10.1787/c0cdc331-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Implementación del Análisis de Impacto Regulatorio en la Superintendencia Nacional de Servicios de Saneamiento del Perú](https://doi.org/10.1787/d27220ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 July 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [National assessment reform - Core considerations for Brazil](https://doi.org/10.1787/333a6e20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 July 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -596,26 +550,26 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 
 ------
 
-# 28 July 2021
+# 26 July 2021
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cc6e7579-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -625,20 +579,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -648,20 +602,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -671,20 +625,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -694,20 +648,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -717,20 +671,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -740,20 +694,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -763,20 +717,20 @@ Wednesday 28 July 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 28 July 2021 at 9:00 | no launch event
+Monday 26 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -795,15 +749,15 @@ Saturday 31 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
