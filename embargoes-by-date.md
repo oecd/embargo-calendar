@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 July 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 July 2021](#7-july-2021)
 * [8 July 2021](#8-july-2021)
 * [9 July 2021](#9-july-2021)
 * [12 July 2021](#12-july-2021)
@@ -13,79 +12,6 @@ Data generated on | |
 * [21 July 2021](#21-july-2021)
 * [26 July 2021](#26-july-2021)
 * [31 July 2021](#31-july-2021)
-
-------
-
-# 7 July 2021
-
-## [Bringing Household Services Out of the Shadows - Formalising Non-Care Work in and Around the House](https://doi.org/10.1787/fbea8f6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Employment Outlook 2021 - Navigating the COVID-19 Crisis and Recovery](https://doi.org/10.1787/5a700c4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Iceland 2021](https://doi.org/10.1787/c4edf686-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 July 2021 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 July 2021 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -102,7 +28,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -125,7 +51,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -148,7 +74,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -171,7 +97,7 @@ Thursday 8 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -194,7 +120,7 @@ Thursday 8 July 2021 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -217,7 +143,7 @@ Thursday 8 July 2021 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -240,7 +166,7 @@ Thursday 8 July 2021 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -363,7 +289,7 @@ Monday 12 July 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -386,7 +312,7 @@ Monday 12 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 June 2021 at 19:56
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
 
 ### Additional Information
 
@@ -401,6 +327,52 @@ Monday 12 July 2021 at 8:00 | no launch event
 ------
 
 # 13 July 2021
+
+## [A new firm-level model of corporate sector interactions and fragility: The Corporate Agent-Based (CAB) model](https://doi.org/10.1787/e9de0097-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 July 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The impact of COVID-19 on corporate fragility in the United Kingdom: Insights from a new calibrated firm-level Corporate Sector Agent-Based (CAB) Model](https://doi.org/10.1787/b6805eed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 July 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Igualdad de género en Chile - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/c7105c4d-es)
 
