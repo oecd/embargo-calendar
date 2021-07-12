@@ -2,260 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 July 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A new approach to skills mismatch](https://doi.org/10.1787/e9563c2a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Financial distress and the role of management in micro and small-sized firms](https://doi.org/10.1787/2014873c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Employee training and firm performance - Evidence from ESF grant applications](https://doi.org/10.1787/dbbafcc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 June 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Productivity and human capital - The Italian case](https://doi.org/10.1787/01ca6be9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 June 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Production Transformation Policy Review of Egypt - Embracing Change, Achieving Prosperity](https://doi.org/10.1787/302fec4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Public Procurement in the State of Mexico - Enhancing Efficiency and Competition](https://doi.org/10.1787/cc1da607-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
-- [x] Exported to Keepeek Monday 4 January 2021 at 20:11
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Contratación Pública en el Estado de México - Mejorando la Eficiencia y la Competencia](https://doi.org/10.1787/fb81b622-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 July 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Panorama des administrations publiques 2021](https://doi.org/10.1787/9556b25a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Teachers’ professional learning study: Diagnostic report for Wales](https://doi.org/10.1787/caf912c7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 July 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Government at a Glance 2021](https://doi.org/10.1787/1c258f55-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Suède 2021 (version abrégée)](https://doi.org/10.1787/c5e736db-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 July 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Monday 12 July 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Main Findings from the 2020 Risks that Matter Survey](https://doi.org/10.1787/b9e85cf5-en)
 
@@ -360,7 +107,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
 
 ### Additional Information
 
@@ -383,7 +130,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 July 2021 at 19:57
+- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
 
 ### Additional Information
 
@@ -441,18 +188,41 @@ Wednesday 14 July 2021 at 10:00 | no launch event
 
 ------
 
-## [National assessment reform - Core considerations for Brazil](https://doi.org/10.1787/333a6e20-en)
+## [Soutenir les élèves ayant des besoins spécifiques d'éducation - Une priorité stratégique pour l’enseignement primaire](https://doi.org/10.1787/2c72bb6d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 July 2021 at 13:00 | no launch event
+Thursday 15 July 2021 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
+- [x] Exported to iLibrary Monday 12 July 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [National assessment reform - Core considerations for Brazil](https://doi.org/10.1787/333a6e20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 July 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
 
 ### Additional Information
 
@@ -680,7 +450,7 @@ Saturday 31 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
+- [x] Exported to iLibrary Monday 12 July 2021 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
 
