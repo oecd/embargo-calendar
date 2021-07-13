@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 July 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 13 July 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Main Findings from the 2020 Risks that Matter Survey](https://doi.org/10.1787/b9e85cf5-en)
 
@@ -15,7 +15,7 @@ Monday 12 July 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 12 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 14 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 14 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 15 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 July 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
 
 ### Additional Information
 
@@ -208,6 +208,98 @@ Thursday 15 July 2021 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Does test-based school accountability have an impact on student achievement and equity in education? - A panel approach using PISA](https://doi.org/10.1787/0798600f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Transparency reporting on terrorist and violent extremist content online  - An update on the global top 50 content sharing services](https://doi.org/10.1787/8af4ab29-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Les régions dans la mondialisation - Une approche originale de l’internationalisation des régions et son application au cas français](https://doi.org/10.1787/5c76db6f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Designing active labour market policies for the recovery](https://doi.org/10.1787/79c833cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 July 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 July 2021 at 20:18
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
 
 ------
 
