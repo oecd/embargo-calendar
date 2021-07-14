@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 July 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Main Findings from the 2020 Risks that Matter Survey](https://doi.org/10.1787/b9e85cf5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 July 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Investment Policy Reviews: Uruguay](https://doi.org/10.1787/1135f88e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 June 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 14 July 2021 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A new firm-level model of corporate sector interactions and fragility: The Corporate Agent-Based (CAB) model](https://doi.org/10.1787/e9de0097-en)
 
@@ -61,7 +15,7 @@ Tuesday 13 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 July 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Tuesday 13 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 July 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Tuesday 13 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
 
 ### Additional Information
 
@@ -314,7 +268,7 @@ Thursday 15 July 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 July 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 July 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
 
 ### Additional Information
 
