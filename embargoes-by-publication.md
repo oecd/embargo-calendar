@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 July 2021 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A new firm-level model of corporate sector interactions and fragility: The Corporate Agent-Based (CAB) model](https://doi.org/10.1787/e9de0097-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 July 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of COVID-19 on corporate fragility in the United Kingdom: Insights from a new calibrated firm-level Corporate Sector Agent-Based (CAB) Model](https://doi.org/10.1787/b6805eed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 July 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Igualdad de género en Chile - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/c7105c4d-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 July 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Gender Equality in Chile - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/6cc8ea3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 July 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 15 July 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Implementing Regulatory Impact Assessment at Peru’s National Superintendence of Sanitation Services](https://doi.org/10.1787/c0cdc331-en)
 
@@ -107,7 +15,7 @@ Wednesday 14 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 15 July 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Wednesday 14 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 July 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 July 2021 at 19:57
+- [x] Exported to OECD.org Thursday 15 July 2021 at 19:57
 
 ### Additional Information
 
@@ -276,6 +184,75 @@ Thursday 15 July 2021 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Reforming the taxation of housing in Israel](https://doi.org/10.1787/83fd48ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Empowering the health workforce to make the most of the digital revolution](https://doi.org/10.1787/37ff0eaa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 July 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 July 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Tax administration:  Towards sustainable remote working in a post COVID-19 environment](https://doi.org/10.1787/fdc0844d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 July 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
@@ -505,6 +482,29 @@ Saturday 31 July 2021 at 10:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 August 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

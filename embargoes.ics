@@ -2,183 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/e9de0097-end3e63
-SUMMARY:A new firm-level model of corporate sect
- or interactions and fragility: The Corpo
- rate Agent-Based (CAB) model
-DESCRIPTION:*A new firm-level model of corporate sec
- tor interactions and fragility: The Corp
- orate Agent-Based (CAB) model*\n\nDirect
- orate: Economics Department\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/e9d
- e0097-en\nPublication type: Paper\nRelea
- sed as: PDF\n\nEmbargo date/time: Tuesda
- y, 13 July 2021, 5:00 (GMT)\n\n\niLibrar
- y export: Friday, 9 July 2021, 18:17 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: Wednesday, 14 July 2021, 17:55 (
- GMT)\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 20:28, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=e9de0097-en.
-DTSTAMP:20210714T202826Z
-DTSTART:20210713T050000Z
-DTEND:20210713T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: A new firm-level model of corp
- orate sector interactions and fragility:
-  The Corporate Agent-Based (CAB) model
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b6805eed-end3e119
-SUMMARY:The impact of COVID-19 on corporate frag
- ility in the United Kingdom: Insights fr
- om a new calibrated firm-level Corporate
-  Sector Agent-Based (CAB) Model
-DESCRIPTION:*The impact of COVID-19 on corporate fra
- gility in the United Kingdom: Insights f
- rom a new calibrated firm-level Corporat
- e Sector Agent-Based (CAB) Model*\n\nDir
- ectorate: Economics Department\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- b6805eed-en\nPublication type: Paper\nRe
- leased as: PDF\n\nEmbargo date/time: Tue
- sday, 13 July 2021, 5:00 (GMT)\n\n\niLib
- rary export: Friday, 9 July 2021, 18:17 
- (GMT)\nFreepreview export: never\nOECD.o
- rg export: Wednesday, 14 July 2021, 17:5
- 5 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:28, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=b6805eed-en.
-DTSTAMP:20210714T202826Z
-DTSTART:20210713T050000Z
-DTEND:20210713T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The impact of COVID-19 on corp
- orate fragility in the United Kingdom: I
- nsights from a new calibrated firm-level
-  Corporate Sector Agent-Based (CAB) Mode
- l
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c7105c4d-esd3e175
-SUMMARY:Igualdad de género en Chile - Hacia una 
- mejor distribución del trabajo remunerad
- o y no remunerado
-DESCRIPTION:*Igualdad de género en Chile - Hacia una
-  mejor distribución del trabajo remunera
- do y no remunerado*\n\nDirectorate: Gene
- ral Secretariat\nLanguage: Spanish\nDOI:
-  https://doi.org/10.1787/c7105c4d-es\nPu
- blication type: Stand-alone monograph\nR
- eleased as: ePub, HTML, PDF\n\nEmbargo d
- ate/time: Tuesday, 13 July 2021, 13:00 (
- GMT)\n\n\niLibrary export: Monday, 5 Jul
- y 2021, 18:19 (GMT)\nFreepreview export:
-  never\nOECD.org export: Wednesday, 14 J
- uly 2021, 17:55 (GMT)\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 20:28, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=c7105c4d-es
- .
-DTSTAMP:20210714T202826Z
-DTSTART:20210713T130000Z
-DTEND:20210713T131500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Igualdad de género en Chile - 
- Hacia una mejor distribución del trabajo
-  remunerado y no remunerado
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/6cc8ea3e-end3e562
-SUMMARY:Gender Equality in Chile - Towards a Bet
- ter Sharing of Paid and Unpaid Work
-DESCRIPTION:*Gender Equality in Chile - Towards a Be
- tter Sharing of Paid and Unpaid Work*\n\
- nDirectorate: General Secretariat\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/6cc8ea3e-en\nPublication type: Stand-
- alone monograph\nReleased as: ePub, HTML
- , PDF\n\nEmbargo date/time: Tuesday, 13 
- July 2021, 13:00 (GMT)\n\n\niLibrary exp
- ort: Thursday, 8 July 2021, 18:16 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Wednesday, 14 July 2021, 17:55 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 20:28, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=6cc8ea3e-en.
-DTSTAMP:20210714T202826Z
-DTSTART:20210713T130000Z
-DTEND:20210713T131500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Gender Equality in Chile - Tow
- ards a Better Sharing of Paid and Unpaid
-  Work
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c0cdc331-end3e2857
+UID:10.1787/c0cdc331-end3e1321
 SUMMARY:Implementing Regulatory Impact Assessmen
  t at Peru’s National Superintendence of 
  Sanitation Services
@@ -192,22 +16,22 @@ DESCRIPTION:*Implementing Regulatory Impact Assessme
  te/time: Wednesday, 14 July 2021, 10:00 
  (GMT)\n\n\niLibrary export: Thursday, 8 
  July 2021, 18:16 (GMT)\nFreepreview expo
- rt: never\nOECD.org export: Tuesday, 13 
- July 2021, 17:57 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://oecd.
- github.io/embargo-calendar/embargoes-by-
- publication.html.\n\nPlease note: This i
- nformation was correct as of this aftern
- oon at 20:28, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=c0cdc331-e
- n.
-DTSTAMP:20210714T202826Z
+ rt: never\nOECD.org export: Thursday, 15
+  July 2021, 17:57 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 20:36, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=c0cdc331-
+ en.
+DTSTAMP:20210715T203640Z
 DTSTART:20210714T100000Z
 DTEND:20210714T101500Z
 TRANSP:TRANSPARENT
@@ -222,7 +46,7 @@ DESCRIPTION:Reminder: Implementing Regulatory Impact
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d27220ab-esd3e2913
+UID:10.1787/d27220ab-esd3e1378
 SUMMARY:Implementación del Análisis de Impacto R
  egulatorio en la Superintendencia Nacion
  al de Servicios de Saneamiento del Perú
@@ -237,21 +61,21 @@ DESCRIPTION:*Implementación del Análisis de Impacto
  14 July 2021, 10:00 (GMT)\n\n\niLibrary 
  export: Thursday, 8 July 2021, 18:16 (GM
  T)\nFreepreview export: never\nOECD.org 
- export: Tuesday, 13 July 2021, 17:57 (GM
- T)\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:28, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=d27220ab-es.
-DTSTAMP:20210714T202826Z
+ export: Thursday, 15 July 2021, 17:57 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 20:36, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=d27220ab-es.
+DTSTAMP:20210715T203640Z
 DTSTART:20210714T100000Z
 DTEND:20210714T101500Z
 TRANSP:TRANSPARENT
@@ -267,7 +91,7 @@ DESCRIPTION:Reminder: Implementación del Análisis de
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2c72bb6d-frd3e3891
+UID:10.1787/2c72bb6d-frd3e2368
 SUMMARY:Soutenir les élèves ayant des besoins sp
  écifiques d'éducation - Une priorité str
  atégique pour l’enseignement primaire
@@ -287,7 +111,7 @@ DESCRIPTION:*Soutenir les élèves ayant des besoins s
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:28, it is updated each n
+ afternoon at 20:36, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -296,7 +120,7 @@ DESCRIPTION:*Soutenir les élèves ayant des besoins s
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=2c72
  bb6d-fr.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T050000Z
 DTEND:20210715T051500Z
 TRANSP:TRANSPARENT
@@ -312,7 +136,7 @@ DESCRIPTION:Reminder: Soutenir les élèves ayant des
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0798600f-end3e3947
+UID:10.1787/0798600f-end3e2424
 SUMMARY:Does test-based school accountability ha
  ve an impact on student achievement and 
  equity in education? - A panel approach 
@@ -333,7 +157,7 @@ DESCRIPTION:*Does test-based school accountability h
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:28, it is
+ ect as of this afternoon at 20:36, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -342,7 +166,7 @@ DESCRIPTION:*Does test-based school accountability h
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=0798600f-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T050000Z
 DTEND:20210715T051500Z
 TRANSP:TRANSPARENT
@@ -358,7 +182,7 @@ DESCRIPTION:Reminder: Does test-based school account
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8af4ab29-end3e4003
+UID:10.1787/8af4ab29-end3e2480
 SUMMARY:Transparency reporting on terrorist and 
  violent extremist content online  - An u
  pdate on the global top 50 content shari
@@ -380,7 +204,7 @@ DESCRIPTION:*Transparency reporting on terrorist and
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:28, it is updated each night; therefo
+ 20:36, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -388,7 +212,7 @@ DESCRIPTION:*Transparency reporting on terrorist and
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=8af4ab29-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T050000Z
 DTEND:20210715T051500Z
 TRANSP:TRANSPARENT
@@ -404,7 +228,7 @@ DESCRIPTION:Reminder: Transparency reporting on terr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5c76db6f-frd3e4059
+UID:10.1787/5c76db6f-frd3e2536
 SUMMARY:Les régions dans la mondialisation - Une
   approche originale de l’internationalis
  ation des régions et son application au 
@@ -426,7 +250,7 @@ DESCRIPTION:*Les régions dans la mondialisation - Un
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:28, it is updated each night; t
+ on at 20:36, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -435,7 +259,7 @@ DESCRIPTION:*Les régions dans la mondialisation - Un
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=5c76db6f-fr
  .
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T050000Z
 DTEND:20210715T051500Z
 TRANSP:TRANSPARENT
@@ -451,7 +275,7 @@ DESCRIPTION:Reminder: Les régions dans la mondialisa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79c833cf-end3e4115
+UID:10.1787/79c833cf-end3e2593
 SUMMARY:Designing active labour market policies 
  for the recovery
 DESCRIPTION:*Designing active labour market policies
@@ -469,7 +293,7 @@ DESCRIPTION:*Designing active labour market policies
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :28, it is updated each night; therefore
+ :36, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -477,7 +301,7 @@ DESCRIPTION:*Designing active labour market policies
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=79c833cf-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T070000Z
 DTEND:20210715T071500Z
 TRANSP:TRANSPARENT
@@ -491,7 +315,7 @@ DESCRIPTION:Reminder: Designing active labour market
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/333a6e20-end3e4224
+UID:10.1787/333a6e20-end3e2701
 SUMMARY:National assessment reform - Core consid
  erations for Brazil
 DESCRIPTION:*National assessment reform - Core consi
@@ -509,7 +333,7 @@ DESCRIPTION:*National assessment reform - Core consi
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:28, it is updated each night; therefor
+ 0:36, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -517,7 +341,7 @@ DESCRIPTION:*National assessment reform - Core consi
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=333a6e20-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210715T130000Z
 DTEND:20210715T131500Z
 TRANSP:TRANSPARENT
@@ -531,7 +355,131 @@ DESCRIPTION:Reminder: National assessment reform - C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ed374457-end3e4280
+UID:10.1787/83fd48ad-end3e2757
+SUMMARY:Reforming the taxation of housing in Isr
+ ael
+DESCRIPTION:*Reforming the taxation of housing in Is
+ rael*\n\nDirectorate: Centre for Tax Pol
+ icy and Administration\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/83fd48ad
+ -en\nPublication type: Paper\nReleased a
+ s: PDF\n\nEmbargo date/time: Friday, 16 
+ July 2021, 9:00 (GMT)\n\n\niLibrary expo
+ rt: Thursday, 15 July 2021, 18:19 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Thursday, 15 July 2021, 17:57 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:36, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=83fd48ad-en.
+DTSTAMP:20210715T203640Z
+DTSTART:20210716T090000Z
+DTEND:20210716T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Reforming the taxation of hous
+ ing in Israel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/37ff0eaa-end3e2812
+SUMMARY:Empowering the health workforce to make 
+ the most of the digital revolution
+DESCRIPTION:*Empowering the health workforce to make
+  the most of the digital revolution*\n\n
+ Directorate: Directorate for Employment,
+  Labour and Social Affairs\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/37ff
+ 0eaa-en\nPublication type: Paper\nReleas
+ ed as: PDF\n\nEmbargo date/time: Monday,
+  19 July 2021, 5:00 (GMT)\n\n\niLibrary 
+ export: Thursday, 15 July 2021, 18:19 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Thursday, 15 July 2021, 17:57 (
+ GMT)\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 20:36, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=37ff0eaa-en.
+DTSTAMP:20210715T203640Z
+DTSTART:20210719T050000Z
+DTEND:20210719T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Empowering the health workforc
+ e to make the most of the digital revolu
+ tion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fdc0844d-end3e2867
+SUMMARY:Tax administration:  Towards sustainable
+  remote working in a post COVID-19 envir
+ onment
+DESCRIPTION:*Tax administration: Towards sustainable
+  remote working in a post COVID-19 envir
+ onment*\n\nDirectorate: Centre for Tax P
+ olicy and Administration\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/fdc084
+ 4d-en\nPublication type: Policy response
+ \nReleased as: PDF\n\nEmbargo date/time:
+  Monday, 19 July 2021, 9:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 20:36, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ fdc0844d-en.
+DTSTAMP:20210715T203640Z
+DTSTART:20210719T090000Z
+DTEND:20210719T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Tax administration:  Towards s
+ ustainable remote working in a post COVI
+ D-19 environment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ed374457-end3e2920
 SUMMARY:Revenue Statistics in Asia and the Pacif
  ic 2021 - Emerging Challenges for the As
  ia-Pacific Region in the COVID-19 Era
@@ -551,7 +499,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:28, it is update
+ of this afternoon at 20:36, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -560,7 +508,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=ed374457-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210721T090000Z
 DTEND:20210721T091500Z
 TRANSP:TRANSPARENT
@@ -576,7 +524,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Asia and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc6e7579-end3e4335
+UID:10.1787/cc6e7579-end3e2975
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, India (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -597,7 +545,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:28, 
+  correct as of this afternoon at 20:36, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -606,7 +554,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=cc6e7579-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -622,7 +570,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ad982afd-end3e4390
+UID:10.1787/ad982afd-end3e3030
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Argentina (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -644,7 +592,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 28, it is updated each night; therefore 
+ 36, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -652,7 +600,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=ad982afd-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -668,7 +616,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7a89e6e4-end3e4445
+UID:10.1787/7a89e6e4-end3e3085
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Croatia (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -689,7 +637,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:28
+ as correct as of this afternoon at 20:36
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -698,7 +646,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=7a89e6e4-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -714,7 +662,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5fb7733b-end3e4500
+UID:10.1787/5fb7733b-end3e3140
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Latvia (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -735,7 +683,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:28,
+ s correct as of this afternoon at 20:36,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -744,7 +692,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=5fb7733b-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -760,7 +708,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/692bef12-end3e4556
+UID:10.1787/692bef12-end3e3195
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Lithuania (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -782,7 +730,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 28, it is updated each night; therefore 
+ 36, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -790,7 +738,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=692bef12-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -806,7 +754,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/01c36574-end3e4611
+UID:10.1787/01c36574-end3e3251
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Colombia (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -827,8 +775,8 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:2
- 8, it is updated each night; therefore a
+ was correct as of this afternoon at 20:3
+ 6, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -836,7 +784,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=01c36574-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -852,7 +800,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1c650976-end3e4666
+UID:10.1787/1c650976-end3e3306
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Chile (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -873,7 +821,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:28, 
+  correct as of this afternoon at 20:36, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -882,7 +830,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=1c650976-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -898,7 +846,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bdae3e57-end3e4721
+UID:10.1787/bdae3e57-end3e3361
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, South Africa 
  (Stage 2) - Inclusive Framework on BEPS:
@@ -920,7 +868,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:28, it is updated each night; therefo
+ 20:36, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -928,7 +876,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=bdae3e57-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210726T090000Z
 DTEND:20210726T091500Z
 TRANSP:TRANSPARENT
@@ -944,7 +892,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ebeeb179-end3e5202
+UID:10.1787/ebeeb179-end3e3841
 SUMMARY:Education in Eastern Europe and Central 
  Asia - Findings from PISA
 DESCRIPTION:*Education in Eastern Europe and Central
@@ -962,7 +910,7 @@ DESCRIPTION:*Education in Eastern Europe and Central
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:28, it is updated each n
+ afternoon at 20:36, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -971,7 +919,7 @@ DESCRIPTION:*Education in Eastern Europe and Central
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=ebee
  b179-en.
-DTSTAMP:20210714T202826Z
+DTSTAMP:20210715T203640Z
 DTSTART:20210731T100000Z
 DTEND:20210731T101500Z
 TRANSP:TRANSPARENT
@@ -982,6 +930,49 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Education in Eastern Europe an
  d Central Asia - Findings from PISA
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dfd5f806-end3e3950
+SUMMARY:OECD Public Governance Reviews: Haiti - 
+ Strengthening Public Administration for 
+ Resilient and Sustainable Governance
+DESCRIPTION:*OECD Public Governance Reviews: Haiti -
+  Strengthening Public Administration for
+  Resilient and Sustainable Governance*\n
+ \nDirectorate: Directorate for Public Go
+ vernance\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/dfd5f806-en\nPublicati
+ on type: Book\nReleased as: Paperback, P
+ DF\n\nEmbargo date/time: Tuesday, 31 Aug
+ ust 2021, 7:00 (GMT)\n\n\niLibrary expor
+ t: never\nFreepreview export: never\nOEC
+ D.org export: never\nFTI loaded: ✗\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 20:36, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=dfd5f806-en.
+DTSTAMP:20210715T203640Z
+DTSTART:20210831T070000Z
+DTEND:20210831T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Public Governance Reviews
+ : Haiti - Strengthening Public Administr
+ ation for Resilient and Sustainable Gove
+ rnance
 END:VALARM
 END:VEVENT
 END:VCALENDAR
