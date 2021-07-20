@@ -2,15 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 July 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 20 July 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 July 2021](#19-july-2021)
 * [21 July 2021](#21-july-2021)
 * [26 July 2021](#26-july-2021)
 * [29 July 2021](#29-july-2021)
 * [31 July 2021](#31-july-2021)
+* [11 August 2021](#11-august-2021)
 * [31 August 2021](#31-august-2021)
 * [1 September 2021](#1-september-2021)
+* [7 September 2021](#7-september-2021)
 
 ------
 
@@ -27,7 +29,7 @@ Monday 19 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 July 2021 at 19:56
 
 ### Additional Information
 
@@ -77,7 +79,7 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 20 July 2021 at 19:56
 
 ### Additional Information
 
@@ -125,7 +127,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -148,7 +150,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -194,7 +196,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -217,7 +219,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -240,7 +242,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -333,6 +335,33 @@ Saturday 31 July 2021 at 10:00 | no launch event
 
 ------
 
+# 11 August 2021
+
+## [OECD Economic Survey: Malaysia 2021](https://doi.org/10.1787/cc9499dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 August 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 31 August 2021
 
 ## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
@@ -382,5 +411,32 @@ Wednesday 1 September 2021 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 7 September 2021
+
+## [Beyond Academic Learning - First Results from the Survey of Social and Emotional Skills 2019](https://doi.org/10.1787/92a11084-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
