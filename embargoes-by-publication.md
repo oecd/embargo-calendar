@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 July 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Empowering the health workforce to make the most of the digital revolution](https://doi.org/10.1787/37ff0eaa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Tax administration:  Towards sustainable remote working in a post COVID-19 environment](https://doi.org/10.1787/fdc0844d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 July 2021 at 20:15
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
+| *Wednesday 21 July 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
 
@@ -61,7 +15,7 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 July 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
 
 ### Additional Information
 
@@ -70,6 +24,52 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [The COVID-19 Shock and Productivity-Enhancing Reallocation in Australia: Real-time evidence from Single Touch Payroll](https://doi.org/10.1787/2f6e7cb1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [COVID-19, Productivity and Reallocation: Timely evidence from three OECD countries](https://doi.org/10.1787/d2c4b89c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 July 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -82,7 +82,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -105,7 +105,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -128,7 +128,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -151,7 +151,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -174,7 +174,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -197,7 +197,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -220,7 +220,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 July 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -243,7 +243,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 19 July 2021 at 19:56
 
@@ -276,6 +276,52 @@ Thursday 29 July 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Hungary 2021](https://doi.org/10.1787/1d39d866-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l’OCDE : Hongrie 2021 (version abrégée)](https://doi.org/10.1787/42a2b571-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 July 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -391,6 +437,52 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Lithuania 2021](https://doi.org/10.1787/48d82b17-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 September 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
