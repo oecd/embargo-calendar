@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 July 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 22 July 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
 
@@ -15,7 +15,7 @@ Wednesday 21 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 July 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Thursday 22 July 2021 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [x] Exported to iLibrary Thursday 22 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
 
 ### Additional Information
 
@@ -335,9 +335,9 @@ Saturday 31 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 July 2021 at 20:21
+- [x] Exported to iLibrary Thursday 22 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 July 2021 at 19:56
+- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
 
 ### Additional Information
 
