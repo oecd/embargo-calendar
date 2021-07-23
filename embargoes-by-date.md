@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 July 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 23 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 July 2021](#21-july-2021)
 * [22 July 2021](#22-july-2021)
 * [26 July 2021](#26-july-2021)
 * [29 July 2021](#29-july-2021)
@@ -16,33 +15,6 @@ Data generated on | |
 * [7 September 2021](#7-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
-
-------
-
-# 21 July 2021
-
-## [Revenue Statistics in Asia and the Pacific 2021 - Emerging Challenges for the Asia-Pacific Region in the COVID-19 Era](https://doi.org/10.1787/ed374457-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 July 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -59,7 +31,7 @@ Thursday 22 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -82,7 +54,7 @@ Thursday 22 July 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 22 July 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -109,7 +81,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -132,7 +104,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -155,7 +127,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -178,7 +150,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -201,7 +173,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -224,7 +196,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -247,7 +219,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -270,7 +242,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 July 2021 at 19:56
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
@@ -345,9 +317,9 @@ Friday 30 July 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [x] Exported to iLibrary Friday 23 July 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
 
 ### Additional Information
 
