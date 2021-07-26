@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 July 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The COVID-19 Shock and Productivity-Enhancing Reallocation in Australia: Real-time evidence from Single Touch Payroll](https://doi.org/10.1787/2f6e7cb1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [COVID-19, Productivity and Reallocation: Timely evidence from three OECD countries](https://doi.org/10.1787/d2c4b89c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 July 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 July 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 26 July 2021 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, India (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/cc6e7579-en)
 
@@ -234,6 +188,29 @@ Monday 26 July 2021 at 9:00 | no launch event
 
 ------
 
+## [A strong start for every indigenous child](https://doi.org/10.1787/ebcc34a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 July 2021 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 July 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 26 July 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Corporate effective tax rates for R&D - The case of expenditure-based R&D tax incentives](https://doi.org/10.1787/ff9a104f-en)
 
 Embargo date | Launch date
@@ -307,22 +284,22 @@ Friday 30 July 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Saturday 31 July 2021 at 10:00 | no launch event
+Friday 30 July 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 22 July 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 July 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 July 2021 at 19:57
+- [x] Exported to OECD.org Monday 26 July 2021 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -330,20 +307,20 @@ Saturday 31 July 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 11 August 2021 at 8:00 | no launch event
+Thursday 12 August 2021 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 26 July 2021 at 20:27
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 26 July 2021 at 20:01
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -414,6 +391,29 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tax Administration 2021 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/cef472b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
