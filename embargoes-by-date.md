@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 July 2021 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 27 July 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 July 2021](#26-july-2021)
 * [27 July 2021](#27-july-2021)
@@ -31,7 +31,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -77,7 +77,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -100,7 +100,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -123,7 +123,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -146,7 +146,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -169,7 +169,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -192,7 +192,7 @@ Monday 26 July 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
@@ -243,16 +243,16 @@ Thursday 29 July 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -270,16 +270,16 @@ Friday 30 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 July 2021 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 July 2021 at 19:54
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -293,16 +293,16 @@ Friday 30 July 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 July 2021 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 July 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -317,7 +317,7 @@ Friday 30 July 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 July 2021 at 20:27
+- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 26 July 2021 at 20:01
 
