@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 July 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 July 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 July 2021](#27-july-2021)
 * [29 July 2021](#29-july-2021)
 * [30 July 2021](#30-july-2021)
 * [12 August 2021](#12-august-2021)
@@ -14,33 +13,6 @@ Data generated on | |
 * [15 September 2021](#15-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
-
-------
-
-# 27 July 2021
-
-## [A strong start for every Indigenous child](https://doi.org/10.1787/ebcc34a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 July 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 July 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 July 2021 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -84,7 +56,7 @@ Friday 30 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
+- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
 
 ### Additional Information
 
@@ -107,7 +79,7 @@ Friday 30 July 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 July 2021 at 20:02
+- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
 
 ### Additional Information
 
@@ -130,7 +102,7 @@ Friday 30 July 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 July 2021 at 20:03
+- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
 
 ### Additional Information
 
