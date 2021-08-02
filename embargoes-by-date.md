@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 July 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 August 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 July 2021](#29-july-2021)
-* [30 July 2021](#30-july-2021)
 * [12 August 2021](#12-august-2021)
 * [31 August 2021](#31-august-2021)
 * [1 September 2021](#1-september-2021)
@@ -13,106 +11,6 @@ Data generated on | |
 * [15 September 2021](#15-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
-
-------
-
-# 29 July 2021
-
-## [Corporate effective tax rates for R&D - The case of expenditure-based R&D tax incentives](https://doi.org/10.1787/ff9a104f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 July 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 July 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 30 July 2021
-
-## [OECD Economic Surveys: Hungary 2021](https://doi.org/10.1787/1d39d866-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Hongrie 2021 (version abrégée)](https://doi.org/10.1787/42a2b571-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 July 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Education in Eastern Europe and Central Asia - Findings from PISA](https://doi.org/10.1787/ebeeb179-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 July 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 July 2021 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 July 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
