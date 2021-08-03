@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 August 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 August 2021 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
 * [31 August 2021](#31-august-2021)
@@ -63,6 +63,29 @@ Tuesday 31 August 2021 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 August 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 

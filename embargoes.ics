@@ -18,7 +18,7 @@ DESCRIPTION:*OECD Economic Surveys: Malaysia 2021*\n
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:37, it is updated 
+  this afternoon at 21:02, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -27,7 +27,7 @@ DESCRIPTION:*OECD Economic Surveys: Malaysia 2021*\n
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=cc9499dd-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210812T080000Z
 DTEND:20210812T081500Z
 TRANSP:TRANSPARENT
@@ -60,7 +60,7 @@ DESCRIPTION:*OECD Public Governance Reviews: Haiti -
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:37, it is updated each night; the
+  at 21:02, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -68,7 +68,7 @@ DESCRIPTION:*OECD Public Governance Reviews: Haiti -
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=dfd5f806-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210831T070000Z
 DTEND:20210831T071500Z
 TRANSP:TRANSPARENT
@@ -84,7 +84,52 @@ DESCRIPTION:Reminder: OECD Public Governance Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0e499cf-end3e274
+UID:10.1787/f826ac45-frd3e276
+SUMMARY:Examens de l'OCDE sur la gouvernance pub
+ lique : Haïti - Renforcer l'administrati
+ on pour une gouvernance publique résilie
+ nte et durable
+DESCRIPTION:*Examens de l'OCDE sur la gouvernance pu
+ blique : Haïti - Renforcer l'administrat
+ ion pour une gouvernance publique résili
+ ente et durable*\n\nDirectorate: Directo
+ rate for Public Governance\nLanguage: Fr
+ ench\nDOI: https://doi.org/10.1787/f826a
+ c45-fr\nPublication type: Book\nReleased
+  as: PDF\n\nEmbargo date/time: Tuesday, 
+ 31 August 2021, 7:00 (GMT)\n\n\niLibrary
+  export: never\nFreepreview export: neve
+ r\nOECD.org export: never\nFTI loaded: ✗
+ \n\nFor more information see: https://oe
+ cd.github.io/embargo-calendar/embargoes-
+ by-publication.html.\n\nPlease note: Thi
+ s information was correct as of this aft
+ ernoon at 21:02, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=f826ac4
+ 5-fr.
+DTSTAMP:20210803T210222Z
+DTSTART:20210831T070000Z
+DTEND:20210831T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Examens de l'OCDE sur la gouve
+ rnance publique : Haïti - Renforcer l'ad
+ ministration pour une gouvernance publiq
+ ue résiliente et durable
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b0e499cf-end3e329
 SUMMARY:OECD Economic Surveys: China 2021
 DESCRIPTION:*OECD Economic Surveys: China 2021*\n\nD
  irectorate: Economics Department\nLangua
@@ -98,7 +143,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2021*\n\nD
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:37, i
+ correct as of this afternoon at 21:02, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -107,7 +152,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2021*\n\nD
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b0e499cf-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210901T080000Z
 DTEND:20210901T081500Z
 TRANSP:TRANSPARENT
@@ -121,7 +166,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: China 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92a11084-end3e325
+UID:10.1787/92a11084-end3e380
 SUMMARY:Beyond Academic Learning - First Results
   from the Survey of Social and Emotional
   Skills 2019
@@ -140,7 +185,7 @@ DESCRIPTION:*Beyond Academic Learning - First Result
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:37, it is updated each night; there
+ t 21:02, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -148,7 +193,7 @@ DESCRIPTION:*Beyond Academic Learning - First Result
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=92a11084-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210907T090000Z
 DTEND:20210907T091500Z
 TRANSP:TRANSPARENT
@@ -163,7 +208,7 @@ DESCRIPTION:Reminder: Beyond Academic Learning - Fir
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c12a071c-end3e429
+UID:10.1787/c12a071c-end3e486
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Saudi Arabia 
  (Stage 2) - Inclusive Framework on BEPS:
@@ -183,7 +228,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:37, it 
+ rrect as of this afternoon at 21:02, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -192,7 +237,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=c12a071c-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -208,7 +253,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e7b2363-end3e482
+UID:10.1787/8e7b2363-end3e539
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Bulgaria (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -228,7 +273,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:37, it is u
+ t as of this afternoon at 21:02, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -237,7 +282,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=8e7b2363-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -253,7 +298,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8bc6871-end3e589
+UID:10.1787/a8bc6871-end3e646
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Hong Kong, Ch
  ina (Stage 2) - Inclusive Framework on B
@@ -273,7 +318,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:37,
+ s correct as of this afternoon at 21:02,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -282,7 +327,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=a8bc6871-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -298,7 +343,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30e8a050-end3e695
+UID:10.1787/30e8a050-end3e752
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Brazil (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -318,7 +363,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:37, it is upd
+ as of this afternoon at 21:02, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -327,7 +372,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=30e8a050-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -343,7 +388,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8095f743-end3e1014
+UID:10.1787/8095f743-end3e1071
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Indonesia (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -363,7 +408,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:37, it is 
+ ct as of this afternoon at 21:02, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -372,7 +417,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=8095f743-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -388,7 +433,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cef472b9-end3e1067
+UID:10.1787/cef472b9-end3e1124
 SUMMARY:Tax Administration 2021 - Comparative In
  formation on OECD and other Advanced and
   Emerging Economies
@@ -407,7 +452,7 @@ DESCRIPTION:*Tax Administration 2021 - Comparative I
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:37, it is updated each night; therefor
+ 1:02, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -415,7 +460,7 @@ DESCRIPTION:*Tax Administration 2021 - Comparative I
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=cef472b9-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -430,7 +475,7 @@ DESCRIPTION:Reminder: Tax Administration 2021 - Comp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2819971c-end3e1171
+UID:10.1787/2819971c-end3e1231
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, People's Repu
  blic of China (Stage 2) - Inclusive Fram
@@ -451,7 +496,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:37, it is updated each night; the
+  at 21:02, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -459,7 +504,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=2819971c-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -475,7 +520,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fe683c93-end3e1225
+UID:10.1787/fe683c93-end3e1284
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Russian Feder
  ation (Stage 2) - Inclusive Framework on
@@ -495,8 +540,8 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:3
- 7, it is updated each night; therefore a
+ was correct as of this afternoon at 21:0
+ 2, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -504,7 +549,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=fe683c93-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -520,7 +565,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73dc97a6-end3e1330
+UID:10.1787/73dc97a6-end3e1390
 SUMMARY:Country-by-Country Reporting – Compilati
  on of 2021 Peer Review Reports - Inclusi
  ve Framework on BEPS: Action 13 
@@ -539,7 +584,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:37, it is updated each night
+ rnoon at 21:02, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -548,7 +593,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=73dc97a6
  -en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210920T090000Z
 DTEND:20210920T091500Z
 TRANSP:TRANSPARENT
@@ -564,7 +609,7 @@ DESCRIPTION:Reminder: Country-by-Country Reporting –
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48d82b17-end3e1433
+UID:10.1787/48d82b17-end3e1495
 SUMMARY:OECD Environmental Performance Reviews: 
  Lithuania 2021
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -580,7 +625,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:37, it is updated each 
+  afternoon at 21:02, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -589,7 +634,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=48d
  82b17-en.
-DTSTAMP:20210802T203759Z
+DTSTAMP:20210803T210222Z
 DTSTART:20210927T070000Z
 DTEND:20210927T071500Z
 TRANSP:TRANSPARENT
