@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 August 2021 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 4 August 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
 * [31 August 2021](#31-august-2021)
