@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 August 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 August 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
 * [31 August 2021](#31-august-2021)
@@ -11,6 +11,7 @@ Data generated on | |
 * [15 September 2021](#15-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
+* [28 September 2021](#28-september-2021)
 
 ------
 
@@ -24,16 +25,16 @@ Thursday 12 August 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 30 July 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 August 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 July 2021 at 19:57
+- [x] Exported to OECD.org Monday 9 August 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -378,6 +379,33 @@ Monday 27 September 2021 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 28 September 2021
+
+## [Teachers Getting the Best Out of Their Students from Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
