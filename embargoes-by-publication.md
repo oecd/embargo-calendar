@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 August 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 August 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2021](https://doi.org/10.1787/cc9499dd-en)
 
