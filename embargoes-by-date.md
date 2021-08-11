@@ -2,16 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 August 2021 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 11 August 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
+* [13 August 2021](#13-august-2021)
 * [31 August 2021](#31-august-2021)
-* [1 September 2021](#1-september-2021)
 * [7 September 2021](#7-september-2021)
 * [15 September 2021](#15-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
+* [29 October 2021](#29-october-2021)
 
 ------
 
@@ -28,7 +29,7 @@ Thursday 12 August 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 August 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 August 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
 
 ### Additional Information
 
@@ -37,6 +38,56 @@ Thursday 12 August 2021 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 August 2021
+
+## [The laws of attraction: Economic drivers of inter-regional migration, housing costs and the role of policies](https://doi.org/10.1787/da8e368a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 August 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 11 August 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The economic costs of restricting international mobility](https://doi.org/10.1787/dcad4c73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 August 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 11 August 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -86,33 +137,6 @@ Tuesday 31 August 2021 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 1 September 2021
-
-## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 September 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -410,5 +434,32 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 October 2021
+
+## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 October 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
