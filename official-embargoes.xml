@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-08-11T20:38:24.7506323+02:00">
+<report name="official-embargoes" generated="2021-08-12T20:46:33.2891993+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -106,26 +106,6 @@
     <cell name="title">OECD Public Governance Reviews: Haiti (en)</cell>
     <cell name="subtitle">Strengthening Public Administration for Resilient and Sustainable Governance (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-08-31</cell>
-    <cell name="embargo date">2021-08-31T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1386f71</cell>
-  </row>
-  <row index="6">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/dfd5f806-en</cell>
-    <cell name="title">OECD Public Governance Reviews: Haiti (en)</cell>
-    <cell name="subtitle">Strengthening Public Administration for Resilient and Sustainable Governance (en)</cell>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2021-08-31</cell>
@@ -140,27 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac5cb87c</cell>
   </row>
-  <row index="7">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/f826ac45-fr</cell>
-    <cell name="title">Examens de l'OCDE sur la gouvernance publique : Haïti (fr)</cell>
-    <cell name="subtitle">Renforcer l'administration pour une gouvernance publique résiliente et durable (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-08-31</cell>
-    <cell name="embargo date">2021-08-31T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/364bb53e</cell>
-  </row>
-  <row index="8">
+  <row index="6">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92a11084-en</cell>
     <cell name="title">Beyond Academic Learning (en)</cell>
@@ -180,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5aaf3d95</cell>
   </row>
-  <row index="9">
+  <row index="7">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92a11084-en</cell>
     <cell name="title">Beyond Academic Learning (en)</cell>
@@ -200,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53c91352</cell>
   </row>
-  <row index="10">
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c12a071c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) (en)</cell>
@@ -220,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9aa8325</cell>
   </row>
-  <row index="11">
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8e7b2363-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 2) (en)</cell>
@@ -240,7 +200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed814d5c</cell>
   </row>
-  <row index="12">
+  <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8e7b2363-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 2) (en)</cell>
@@ -260,7 +220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c9ca342</cell>
   </row>
-  <row index="13">
+  <row index="11">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a8bc6871-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 2) (en)</cell>
@@ -280,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0de4f53</cell>
   </row>
-  <row index="14">
+  <row index="12">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2819971c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, People's Republic of China (Stage 2) (en)</cell>
@@ -300,7 +260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cdde429e</cell>
   </row>
-  <row index="15">
+  <row index="13">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/30e8a050-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 2) (en)</cell>
@@ -320,7 +280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e7387a5</cell>
   </row>
-  <row index="16">
+  <row index="14">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8095f743-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 2) (en)</cell>
@@ -340,7 +300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3249a0d4</cell>
   </row>
-  <row index="17">
+  <row index="15">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c12a071c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) (en)</cell>
@@ -360,7 +320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4ee4d8a</cell>
   </row>
-  <row index="18">
+  <row index="16">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/30e8a050-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 2) (en)</cell>
@@ -380,7 +340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed5b456</cell>
   </row>
-  <row index="19">
+  <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fe683c93-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) (en)</cell>
@@ -400,7 +360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4813911</cell>
   </row>
-  <row index="20">
+  <row index="18">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a8bc6871-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 2) (en)</cell>
@@ -420,7 +380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e74ec15</cell>
   </row>
-  <row index="21">
+  <row index="19">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8095f743-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 2) (en)</cell>
@@ -440,7 +400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/911fa1b0</cell>
   </row>
-  <row index="22">
+  <row index="20">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cef472b9-en</cell>
     <cell name="title">Tax Administration 2021 (en)</cell>
@@ -460,7 +420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dff375f8</cell>
   </row>
-  <row index="23">
+  <row index="21">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cef472b9-en</cell>
     <cell name="title">Tax Administration 2021 (en)</cell>
@@ -480,7 +440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21b9748a</cell>
   </row>
-  <row index="24">
+  <row index="22">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2819971c-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, People's Republic of China (Stage 2) (en)</cell>
@@ -500,7 +460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/299a86ae</cell>
   </row>
-  <row index="25">
+  <row index="23">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fe683c93-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) (en)</cell>
@@ -519,6 +479,46 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b38ddfaf</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5077a968-fr</cell>
+    <cell name="title">Regards sur l’éducation 2021 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l’OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2021-09-16</cell>
+    <cell name="embargo date">2021-09-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c180a32</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5077a968-fr</cell>
+    <cell name="title">Regards sur l’éducation 2021 (fr)</cell>
+    <cell name="subtitle">Les indicateurs de l’OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-09-16</cell>
+    <cell name="embargo date">2021-09-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-08-12T18:24:59Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-08-12T18:00:33Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cf18e2b</cell>
   </row>
   <row index="26">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>

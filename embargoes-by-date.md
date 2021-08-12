@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 August 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 August 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
 * [13 August 2021](#13-august-2021)
-* [31 August 2021](#31-august-2021)
 * [7 September 2021](#7-september-2021)
 * [15 September 2021](#15-september-2021)
+* [16 September 2021](#16-september-2021)
 * [20 September 2021](#20-september-2021)
 * [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
@@ -87,56 +87,6 @@ Friday 13 August 2021 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 31 August 2021
-
-## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 August 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 August 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -351,6 +301,33 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 September 2021
+
+## [Regards sur l’éducation 2021 - Les indicateurs de l’OCDE](https://doi.org/10.1787/5077a968-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 12 August 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 August 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
