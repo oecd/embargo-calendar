@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-08-12T20:46:33.2891993+02:00">
+<report name="official-embargoes" generated="2021-08-13T20:45:05.5280959+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -26,26 +26,6 @@
     <cell name="title">OECD Economic Surveys: Malaysia 2021 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2021-08-12</cell>
-    <cell name="embargo date">2021-08-11T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5548f1e1</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/cc9499dd-en</cell>
-    <cell name="title">OECD Economic Surveys: Malaysia 2021 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Published</cell>
     <cell name="date of publication">2021-08-12</cell>
@@ -53,14 +33,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-08-09T18:21:17Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-08-11T17:57:52Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="oecd.org last export date">2021-08-13T18:00:35Z</cell>
+    <cell name="discoveryservice last export date">2021-08-12T19:11:08Z</cell>
+    <cell name="google last export date">2021-08-12T19:01:32Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf6c9082</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/da8e368a-en</cell>
     <cell name="title">The laws of attraction: Economic drivers of inter-regional migration, housing costs and the role of policies (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cc07060</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dcad4c73-en</cell>
     <cell name="title">The economic costs of restricting international mobility (en)</cell>
@@ -99,6 +79,26 @@
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cac7edc</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/5e5494ac-en</cell>
+    <cell name="title">Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2021-08-24</cell>
+    <cell name="embargo date">2021-08-24T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-08-13T18:20:53Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-08-13T18:00:35Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c273efbc</cell>
   </row>
   <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -603,7 +603,7 @@
   <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5bc5cd4e-en</cell>
-    <cell name="title">Teachers Getting the Best Out of Their Students from Primary to Upper Secondary Education (en)</cell>
+    <cell name="title">Teachers Getting the Best out of Their Students from Primary to Upper Secondary Education (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
@@ -623,7 +623,7 @@
   <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5bc5cd4e-en</cell>
-    <cell name="title">Teachers Getting the Best Out of Their Students from Primary to Upper Secondary Education (en)</cell>
+    <cell name="title">Teachers Getting the Best out of Their Students from Primary to Upper Secondary Education (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>

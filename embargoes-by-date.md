@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 August 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 August 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2021](#12-august-2021)
 * [13 August 2021](#13-august-2021)
+* [24 August 2021](#24-august-2021)
 * [7 September 2021](#7-september-2021)
 * [15 September 2021](#15-september-2021)
 * [16 September 2021](#16-september-2021)
@@ -29,7 +30,7 @@ Thursday 12 August 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 August 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
+- [x] Exported to OECD.org Friday 13 August 2021 at 20:00
 
 ### Additional Information
 
@@ -37,7 +38,7 @@ Thursday 12 August 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -84,6 +85,33 @@ Friday 13 August 2021 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 August 2021
+
+## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 August 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 13 August 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 13 August 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -391,7 +419,7 @@ Monday 27 September 2021 at 7:00 | no launch event
 
 # 28 September 2021
 
-## [Teachers Getting the Best Out of Their Students from Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
+## [Teachers Getting the Best out of Their Students from Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
 
 Embargo date | Launch date
 -------------|:------------:
