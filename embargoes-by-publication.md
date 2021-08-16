@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 August 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Malaysia 2021](https://doi.org/10.1787/cc9499dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 August 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 August 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 August 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [The laws of attraction: Economic drivers of inter-regional migration, housing costs and the role of policies](https://doi.org/10.1787/da8e368a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 August 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 August 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The economic costs of restricting international mobility](https://doi.org/10.1787/dcad4c73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 August 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 August 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 August 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 16 August 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -92,6 +23,52 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Studi economici dell'OCSE: Italia 2021](https://doi.org/10.1787/85d51ef5-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 September 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Italy 2021](https://doi.org/10.1787/07d8b9cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 September 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
