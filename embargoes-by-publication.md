@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 August 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 August 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
