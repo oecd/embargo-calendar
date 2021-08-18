@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 August 2021 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 18 August 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 August 2021](#24-august-2021)
 * [6 September 2021](#6-september-2021)
 * [7 September 2021](#7-september-2021)
+* [13 September 2021](#13-september-2021)
 * [15 September 2021](#15-september-2021)
 * [16 September 2021](#16-september-2021)
 * [20 September 2021](#20-september-2021)
@@ -114,6 +115,33 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 September 2021
+
+## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

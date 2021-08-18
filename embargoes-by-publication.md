@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 August 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 18 August 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -92,6 +92,29 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
