@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 August 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 19 August 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -303,6 +303,29 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 
 ------
 
+## [The State of Global Education - 18 Months into the Pandemic](https://doi.org/10.1787/1a23bb23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Regards sur l’éducation 2021 - Les indicateurs de l’OCDE](https://doi.org/10.1787/5077a968-fr)
 
 Embargo date | Launch date
@@ -390,6 +413,29 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Driving Performance at Brazil’s Electricity Regulatory Agency](https://doi.org/10.1787/11824ef6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 October 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 19 August 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 19 August 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
