@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 August 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 August 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -13,14 +13,37 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 August 2021 at 20:20
+- [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 August 2021 at 20:00
+- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Soutenir l’utilisation des TIC chez les enseignants du deuxième cycle du secondaire durant et après la pandémie de COVID-19](https://doi.org/10.1787/04467058-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 August 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 August 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
