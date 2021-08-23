@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 August 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 23 August 2021 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -15,7 +15,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
+- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
+- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
 
 ### Additional Information
 

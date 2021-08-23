@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 August 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 August 2021 at 21:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 August 2021](#24-august-2021)
 * [6 September 2021](#6-september-2021)
@@ -31,7 +31,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
+- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 August 2021 at 19:57
+- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
 
 ### Additional Information
 
