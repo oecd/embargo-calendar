@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-08-23T21:01:45.2416799+02:00">
+<report name="official-embargoes" generated="2021-08-24T20:35:47.4778121+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -711,9 +711,9 @@
     <cell name="date of publication">2021-10-04</cell>
     <cell name="embargo date">2021-10-04T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2021-08-19T18:23:22Z</cell>
+    <cell name="ilibrary last export date">2021-08-24T18:16:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-08-19T18:01:35Z</cell>
+    <cell name="oecd.org last export date">2021-08-24T17:57:09Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -721,6 +721,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f5b1c21</cell>
   </row>
   <row index="36">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/c544286a-pt</cell>
+    <cell name="title">Impulsionando o Desempenho da Agência Reguladora de Energia Elétrica do Brasil (pt)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2021-10-04</cell>
+    <cell name="embargo date">2021-10-04T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/216a3d37</cell>
+  </row>
+  <row index="37">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/11824ef6-en</cell>
     <cell name="title">Driving Performance at Brazil’s Electricity Regulatory Agency (en)</cell>
@@ -740,7 +760,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3039d6c</cell>
   </row>
-  <row index="37">
+  <row index="38">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/c544286a-pt</cell>
+    <cell name="title">Impulsionando o Desempenho da Agência Reguladora de Energia Elétrica do Brasil (pt)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Portuguese</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2021-10-04</cell>
+    <cell name="embargo date">2021-10-04T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2021-08-24T18:16:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2021-08-24T17:57:09Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a092f56</cell>
+  </row>
+  <row index="39">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b0e499cf-en</cell>
     <cell name="title">OECD Economic Surveys: China 2021 (en)</cell>

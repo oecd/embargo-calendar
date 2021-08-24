@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 August 2021 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 August 2021 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting teachers’ use of ICT in upper secondary classrooms during and after the COVID-19 pandemic](https://doi.org/10.1787/5e5494ac-en)
 
@@ -450,14 +450,37 @@ Monday 4 October 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 19 August 2021 at 20:23
+- [x] Exported to iLibrary Tuesday 24 August 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 August 2021 at 20:01
+- [x] Exported to OECD.org Tuesday 24 August 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Impulsionando o Desempenho da Agência Reguladora de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 October 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 24 August 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 24 August 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
