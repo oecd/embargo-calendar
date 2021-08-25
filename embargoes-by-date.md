@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 August 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 25 August 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 August 2021](#24-august-2021)
 * [6 September 2021](#6-september-2021)
@@ -31,7 +31,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 25 August 2021 at 19:58
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Tuesday 24 August 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 August 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 August 2021 at 20:02
+- [x] Exported to OECD.org Wednesday 25 August 2021 at 19:58
 
 ### Additional Information
 
@@ -516,7 +516,7 @@ Monday 4 October 2021 at 11:00 | no launch event
 
 ------
 
-## [Impulsionando o Desempenho da Agência Reguladora de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
+## [Impulsionando o Desempenho da Agência Nacional de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -525,9 +525,9 @@ Monday 4 October 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 August 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 25 August 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 August 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 25 August 2021 at 19:58
 
 ### Additional Information
 
