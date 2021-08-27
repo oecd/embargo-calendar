@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 August 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 August 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [31 August 2021](#31-august-2021)
 * [6 September 2021](#6-september-2021)
 * [7 September 2021](#7-september-2021)
 * [13 September 2021](#13-september-2021)
@@ -14,6 +15,33 @@ Data generated on | |
 * [28 September 2021](#28-september-2021)
 * [4 October 2021](#4-october-2021)
 * [29 October 2021](#29-october-2021)
+
+------
+
+# 31 August 2021
+
+## [Upper-secondary education student assessment in Scotland  - A comparative perspective](https://doi.org/10.1787/d8785ddf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 August 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 August 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 August 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ------
 

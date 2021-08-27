@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 August 2021 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 August 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Upper-secondary education student assessment in Scotland  - A comparative perspective](https://doi.org/10.1787/d8785ddf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 August 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 August 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 August 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Studi economici dell'OCSE: Italia 2021](https://doi.org/10.1787/85d51ef5-it)
 
