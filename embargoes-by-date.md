@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 August 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 30 August 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 August 2021](#31-august-2021)
 * [6 September 2021](#6-september-2021)
@@ -29,9 +29,9 @@ Tuesday 31 August 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 August 2021 at 20:16
+- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 August 2021 at 19:56
+- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
 ### Additional Information
 
@@ -56,15 +56,15 @@ Monday 6 September 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -79,15 +79,15 @@ Monday 6 September 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -123,6 +123,29 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 ------
 
 # 13 September 2021
+
+## [Compendium of International Organisations’ Practices - Working Towards More Effective International Instruments](https://doi.org/10.1787/846a5fa0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 September 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
 
@@ -339,6 +362,29 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 
 # 16 September 2021
 
+## [Bildung auf einen Blick 2021 - OECD-Indikatoren](https://doi.org/10.1787/626b1ac1-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [The State of Global Education - 18 Months into the Pandemic](https://doi.org/10.1787/1a23bb23-en)
 
 Embargo date | Launch date
@@ -371,9 +417,9 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 12 August 2021 at 20:24
+- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 August 2021 at 20:00
+- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
 ### Additional Information
 
