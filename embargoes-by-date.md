@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 August 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 31 August 2021 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 August 2021](#31-august-2021)
+* [3 September 2021](#3-september-2021)
 * [6 September 2021](#6-september-2021)
 * [7 September 2021](#7-september-2021)
 * [13 September 2021](#13-september-2021)
@@ -36,6 +37,33 @@ Tuesday 31 August 2021 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 3 September 2021
+
+## [A crisis on the horizon - Ensuring affordable, accessible housing for people with disabilities](https://doi.org/10.1787/306e6993-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 31 August 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -106,15 +134,15 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 31 August 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -143,29 +171,6 @@ Monday 13 September 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -371,7 +376,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
+- [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
@@ -382,6 +387,29 @@ Thursday 16 September 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Education at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/b35a14e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 31 August 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
