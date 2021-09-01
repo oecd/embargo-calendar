@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 31 August 2021 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 1 September 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Upper-secondary education student assessment in Scotland  - A comparative perspective](https://doi.org/10.1787/d8785ddf-en)
 
@@ -15,7 +15,7 @@ Tuesday 31 August 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 August 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 1 September 2021 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Friday 3 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 August 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 1 September 2021 at 19:55
 
 ### Additional Information
 
@@ -119,6 +119,29 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 
 ------
 
+## [The impact of digitalisation on productivity: Firm-level evidence from the Netherlands](https://doi.org/10.1787/e800ee1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 1 September 2021 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 1 September 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Compendium of International Organisations’ Practices - Working Towards More Effective International Instruments](https://doi.org/10.1787/846a5fa0-en)
 
 Embargo date | Launch date
@@ -139,6 +162,29 @@ Monday 13 September 2021 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 September 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
