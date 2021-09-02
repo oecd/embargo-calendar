@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/d8785ddf-end3e63
-SUMMARY:Upper-secondary education student assess
- ment in Scotland  - A comparative perspe
- ctive
-DESCRIPTION:*Upper-secondary education student asses
- sment in Scotland - A comparative perspe
- ctive*\n\nDirectorate: Directorate for E
- ducation and Skills\nLanguage: English\n
- DOI: https://doi.org/10.1787/d8785ddf-en
- \nPublication type: Paper\nReleased as: 
- PDF\n\nEmbargo date/time: Tuesday, 31 Au
- gust 2021, 7:00 (GMT)\n\n\niLibrary expo
- rt: Monday, 30 August 2021, 18:17 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Wednesday, 1 September 2021, 17:55 
- (GMT)\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 20:29, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=d8785ddf-en.
-DTSTAMP:20210901T202954Z
-DTSTART:20210831T070000Z
-DTEND:20210831T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Upper-secondary education stud
- ent assessment in Scotland  - A comparat
- ive perspective
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/306e6993-end3e173
+UID:10.1787/306e6993-end3e63
 SUMMARY:A crisis on the horizon - Ensuring affor
  dable, accessible housing for people wit
  h disabilities
@@ -74,7 +31,7 @@ DESCRIPTION:*A crisis on the horizon - Ensuring affo
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=306e6993-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210903T050000Z
 DTEND:20210903T051500Z
 TRANSP:TRANSPARENT
@@ -89,7 +46,7 @@ DESCRIPTION:Reminder: A crisis on the horizon - Ensu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/85d51ef5-itd3e229
+UID:10.1787/85d51ef5-itd3e119
 SUMMARY:Studi economici dell'OCSE: Italia 2021
 DESCRIPTION:*Studi economici dell'OCSE: Italia 2021*
  \n\nDirectorate: Economics Department\nL
@@ -114,7 +71,7 @@ DESCRIPTION:*Studi economici dell'OCSE: Italia 2021*
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=85
  d51ef5-it.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210906T130000Z
 DTEND:20210906T131500Z
 TRANSP:TRANSPARENT
@@ -128,7 +85,7 @@ DESCRIPTION:Reminder: Studi economici dell'OCSE: Ita
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/07d8b9cd-end3e284
+UID:10.1787/07d8b9cd-end3e173
 SUMMARY:OECD Economic Surveys: Italy 2021
 DESCRIPTION:*OECD Economic Surveys: Italy 2021*\n\nD
  irectorate: Economics Department\nLangua
@@ -136,24 +93,24 @@ DESCRIPTION:*OECD Economic Surveys: Italy 2021*\n\nD
  7/07d8b9cd-en\nPublication type: Economi
  c survey\nReleased as: PDF\n\nEmbargo da
  te/time: Monday, 6 September 2021, 13:00
-  (GMT)\n\n\niLibrary export: Monday, 30 
- August 2021, 18:17 (GMT)\nFreepreview ex
- port: never\nOECD.org export: Monday, 30
-  August 2021, 17:55 (GMT)\nFTI loaded: ✗
- \n\nFor more information see: https://oe
- cd.github.io/embargo-calendar/embargoes-
- by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 20:29, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=07d8b9c
- d-en.
-DTSTAMP:20210901T202954Z
+  (GMT)\n\n\niLibrary export: Thursday, 2
+  September 2021, 18:13 (GMT)\nFreeprevie
+ w export: never\nOECD.org export: Thursd
+ ay, 2 September 2021, 17:55 (GMT)\nFTI l
+ oaded: ✓\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 20:29, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =07d8b9cd-en.
+DTSTAMP:20210902T202915Z
 DTSTART:20210906T130000Z
 DTEND:20210906T131500Z
 TRANSP:TRANSPARENT
@@ -167,36 +124,36 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Italy 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92a11084-end3e338
+UID:10.1787/92a11084-end3e228
 SUMMARY:Beyond Academic Learning - First Results
   from the Survey of Social and Emotional
-  Skills 2019
+  Skills
 DESCRIPTION:*Beyond Academic Learning - First Result
  s from the Survey of Social and Emotiona
- l Skills 2019*\n\nDirectorate: Directora
- te for Education and Skills\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/92a
- 11084-en\nPublication type: Stand-alone 
- monograph\nReleased as: Paperback, PDF\n
- \nEmbargo date/time: Tuesday, 7 Septembe
- r 2021, 9:00 (GMT)\n\n\niLibrary export:
-  Tuesday, 31 August 2021, 18:16 (GMT)\nF
- reepreview export: never\nOECD.org expor
- t: Tuesday, 31 August 2021, 17:55 (GMT)\
- nFTI loaded: ✗\n\nFor more information s
- ee: https://oecd.github.io/embargo-calen
- dar/embargoes-by-publication.html.\n\nPl
- ease note: This information was correct 
- as of this afternoon at 20:29, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=92a11084-en.
-DTSTAMP:20210901T202954Z
+ l Skills*\n\nDirectorate: Directorate fo
+ r Education and Skills\nLanguage: Englis
+ h\nDOI: https://doi.org/10.1787/92a11084
+ -en\nPublication type: Stand-alone monog
+ raph\nReleased as: Paperback, PDF\n\nEmb
+ argo date/time: Tuesday, 7 September 202
+ 1, 9:00 (GMT)\n\n\niLibrary export: Thur
+ sday, 2 September 2021, 18:13 (GMT)\nFre
+ epreview export: never\nOECD.org export:
+  Thursday, 2 September 2021, 17:55 (GMT)
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:29, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=92a11084-en.
+DTSTAMP:20210902T202915Z
 DTSTART:20210907T090000Z
 DTEND:20210907T091500Z
 TRANSP:TRANSPARENT
@@ -207,11 +164,11 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Beyond Academic Learning - Fir
  st Results from the Survey of Social and
-  Emotional Skills 2019
+  Emotional Skills
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e800ee1d-end3e446
+UID:10.1787/e800ee1d-end3e337
 SUMMARY:The impact of digitalisation on producti
  vity: Firm-level evidence from the Nethe
  rlands
@@ -239,7 +196,7 @@ DESCRIPTION:*The impact of digitalisation on product
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=e800ee1d-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210908T050000Z
 DTEND:20210908T051500Z
 TRANSP:TRANSPARENT
@@ -254,7 +211,7 @@ DESCRIPTION:Reminder: The impact of digitalisation o
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/846a5fa0-end3e554
+UID:10.1787/846a5fa0-end3e445
 SUMMARY:Compendium of International Organisation
  s’ Practices - Working Towards More Effe
  ctive International Instruments
@@ -267,22 +224,24 @@ DESCRIPTION:*Compendium of International Organisatio
  pe: Stand-alone monograph\nReleased as: 
  Paperback, PDF\n\nEmbargo date/time: Mon
  day, 13 September 2021, 6:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 20:29, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =846a5fa0-en.
-DTSTAMP:20210901T202954Z
+ iLibrary export: Thursday, 2 September 2
+ 021, 18:13 (GMT)\nFreepreview export: ne
+ ver\nOECD.org export: Thursday, 2 Septem
+ ber 2021, 17:55 (GMT)\nFTI loaded: ✗\n\n
+ For more information see: https://oecd.g
+ ithub.io/embargo-calendar/embargoes-by-p
+ ublication.html.\n\nPlease note: This in
+ formation was correct as of this afterno
+ on at 20:29, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=846a5fa0-en
+ .
+DTSTAMP:20210902T202915Z
 DTSTART:20210913T060000Z
 DTEND:20210913T061500Z
 TRANSP:TRANSPARENT
@@ -298,7 +257,7 @@ DESCRIPTION:Reminder: Compendium of International Or
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce96b16a-end3e608
+UID:10.1787/ce96b16a-end3e500
 SUMMARY:OECD Economic Surveys: Australia 2021
 DESCRIPTION:*OECD Economic Surveys: Australia 2021*\
  n\nDirectorate: Economics Department\nLa
@@ -306,22 +265,24 @@ DESCRIPTION:*OECD Economic Surveys: Australia 2021*\
  .1787/ce96b16a-en\nPublication type: Eco
  nomic survey\nReleased as: PDF\n\nEmbarg
  o date/time: Tuesday, 14 September 2021,
-  12:00 (GMT)\n\n\niLibrary export: never
- \nFreepreview export: never\nOECD.org ex
- port: never\nFTI loaded: ✗\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:2
- 9, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=ce96b16a-en.
-DTSTAMP:20210901T202954Z
+  12:00 (GMT)\n\n\niLibrary export: Thurs
+ day, 2 September 2021, 18:13 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Thursday, 2 September 2021, 17:55 (GMT)\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:29, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=ce96b16a-en.
+DTSTAMP:20210902T202915Z
 DTSTART:20210914T120000Z
 DTEND:20210914T121500Z
 TRANSP:TRANSPARENT
@@ -335,7 +296,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Austral
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c12a071c-end3e660
+UID:10.1787/c12a071c-end3e554
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Saudi Arabia 
  (Stage 2) - Inclusive Framework on BEPS:
@@ -364,7 +325,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=c12a071c-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -380,7 +341,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e7b2363-end3e713
+UID:10.1787/8e7b2363-end3e608
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Bulgaria (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -409,7 +370,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=8e7b2363-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -425,7 +386,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8bc6871-end3e819
+UID:10.1787/a8bc6871-end3e714
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Hong Kong, Ch
  ina (Stage 2) - Inclusive Framework on B
@@ -454,7 +415,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=a8bc6871-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -470,7 +431,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30e8a050-end3e926
+UID:10.1787/30e8a050-end3e820
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Brazil (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -499,7 +460,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=30e8a050-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -515,7 +476,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8095f743-end3e1245
+UID:10.1787/8095f743-end3e1139
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Indonesia (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -544,7 +505,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=8095f743-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -560,7 +521,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cef472b9-end3e1298
+UID:10.1787/cef472b9-end3e1192
 SUMMARY:Tax Administration 2021 - Comparative In
  formation on OECD and other Advanced and
   Emerging Economies
@@ -572,22 +533,24 @@ DESCRIPTION:*Tax Administration 2021 - Comparative I
  10.1787/cef472b9-en\nPublication type: B
  ook\nReleased as: Paperback, PDF\n\nEmba
  rgo date/time: Wednesday, 15 September 2
- 021, 9:00 (GMT)\n\n\niLibrary export: ne
- ver\nFreepreview export: never\nOECD.org
-  export: never\nFTI loaded: ✗\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 0:29, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=cef472b9-en.
-DTSTAMP:20210901T202954Z
+ 021, 9:00 (GMT)\n\n\niLibrary export: Th
+ ursday, 2 September 2021, 18:13 (GMT)\nF
+ reepreview export: never\nOECD.org expor
+ t: Thursday, 2 September 2021, 17:55 (GM
+ T)\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:29, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=cef472b9-en.
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -602,7 +565,7 @@ DESCRIPTION:Reminder: Tax Administration 2021 - Comp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2819971c-end3e1404
+UID:10.1787/2819971c-end3e1301
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, People's Repu
  blic of China (Stage 2) - Inclusive Fram
@@ -631,7 +594,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=2819971c-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -647,7 +610,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fe683c93-end3e1457
+UID:10.1787/fe683c93-end3e1354
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Russian Feder
  ation (Stage 2) - Inclusive Framework on
@@ -676,7 +639,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=fe683c93-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210915T090000Z
 DTEND:20210915T091500Z
 TRANSP:TRANSPARENT
@@ -692,7 +655,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/626b1ac1-ded3e1564
+UID:10.1787/626b1ac1-ded3e1460
 SUMMARY:Bildung auf einen Blick 2021 - OECD-Indi
  katoren
 DESCRIPTION:*Bildung auf einen Blick 2021 - OECD-Ind
@@ -718,7 +681,7 @@ DESCRIPTION:*Bildung auf einen Blick 2021 - OECD-Ind
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=626b1ac1-de.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210916T090000Z
 DTEND:20210916T091500Z
 TRANSP:TRANSPARENT
@@ -732,7 +695,7 @@ DESCRIPTION:Reminder: Bildung auf einen Blick 2021 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b35a14e5-end3e1619
+UID:10.1787/b35a14e5-end3e1515
 SUMMARY:Education at a Glance 2021 - OECD Indica
  tors
 DESCRIPTION:*Education at a Glance 2021 - OECD Indic
@@ -758,7 +721,7 @@ DESCRIPTION:*Education at a Glance 2021 - OECD Indic
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=b35a14e5-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210916T090000Z
 DTEND:20210916T091500Z
 TRANSP:TRANSPARENT
@@ -772,7 +735,7 @@ DESCRIPTION:Reminder: Education at a Glance 2021 - O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1a23bb23-end3e1727
+UID:10.1787/1a23bb23-end3e1624
 SUMMARY:The State of Global Education - 18 Month
  s into the Pandemic
 DESCRIPTION:*The State of Global Education - 18 Mont
@@ -797,7 +760,7 @@ DESCRIPTION:*The State of Global Education - 18 Mont
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1a23bb23-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210916T090000Z
 DTEND:20210916T091500Z
 TRANSP:TRANSPARENT
@@ -811,7 +774,7 @@ DESCRIPTION:Reminder: The State of Global Education
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5077a968-frd3e1780
+UID:10.1787/5077a968-frd3e1677
 SUMMARY:Regards sur l’éducation 2021 - Les indic
  ateurs de l’OCDE
 DESCRIPTION:*Regards sur l’éducation 2021 - Les indi
@@ -838,7 +801,7 @@ DESCRIPTION:*Regards sur l’éducation 2021 - Les indi
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=5077a96
  8-fr.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210916T090000Z
 DTEND:20210916T091500Z
 TRANSP:TRANSPARENT
@@ -852,7 +815,7 @@ DESCRIPTION:Reminder: Regards sur l’éducation 2021 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73dc97a6-end3e1889
+UID:10.1787/73dc97a6-end3e1785
 SUMMARY:Country-by-Country Reporting – Compilati
  on of 2021 Peer Review Reports - Inclusi
  ve Framework on BEPS: Action 13 
@@ -880,7 +843,7 @@ DESCRIPTION:*Country-by-Country Reporting – Compilat
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=73dc97a6
  -en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210920T090000Z
 DTEND:20210920T091500Z
 TRANSP:TRANSPARENT
@@ -896,7 +859,7 @@ DESCRIPTION:Reminder: Country-by-Country Reporting –
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48d82b17-end3e1994
+UID:10.1787/48d82b17-end3e1891
 SUMMARY:OECD Environmental Performance Reviews: 
  Lithuania 2021
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -921,7 +884,7 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=48d
  82b17-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210927T070000Z
 DTEND:20210927T071500Z
 TRANSP:TRANSPARENT
@@ -935,7 +898,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bc5cd4e-end3e2098
+UID:10.1787/5bc5cd4e-end3e1995
 SUMMARY:Teachers Getting the Best out of Their S
  tudents from Primary to Upper Secondary 
  Education
@@ -962,7 +925,7 @@ DESCRIPTION:*Teachers Getting the Best out of Their
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=5bc5cd4e-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20210928T090000Z
 DTEND:20210928T091500Z
 TRANSP:TRANSPARENT
@@ -977,7 +940,7 @@ DESCRIPTION:Reminder: Teachers Getting the Best out
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/11824ef6-end3e2150
+UID:10.1787/11824ef6-end3e2047
 SUMMARY:Driving Performance at Brazil’s Electric
  ity Regulatory Agency
 DESCRIPTION:*Driving Performance at Brazil’s Electri
@@ -1004,7 +967,7 @@ DESCRIPTION:*Driving Performance at Brazil’s Electri
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=11824e
  f6-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20211004T110000Z
 DTEND:20211004T111500Z
 TRANSP:TRANSPARENT
@@ -1018,7 +981,7 @@ DESCRIPTION:Reminder: Driving Performance at Brazil’
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c544286a-ptd3e2309
+UID:10.1787/c544286a-ptd3e2206
 SUMMARY:Impulsionando o Desempenho da Agência Na
  cional de Energia Elétrica do Brasil
 DESCRIPTION:*Impulsionando o Desempenho da Agência N
@@ -1045,7 +1008,7 @@ DESCRIPTION:*Impulsionando o Desempenho da Agência N
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=c544286a-pt.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20211004T110000Z
 DTEND:20211004T111500Z
 TRANSP:TRANSPARENT
@@ -1060,7 +1023,7 @@ DESCRIPTION:Reminder: Impulsionando o Desempenho da
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0e499cf-end3e2363
+UID:10.1787/b0e499cf-end3e2260
 SUMMARY:OECD Economic Surveys: China 2021
 DESCRIPTION:*OECD Economic Surveys: China 2021*\n\nD
  irectorate: Economics Department\nLangua
@@ -1083,7 +1046,7 @@ DESCRIPTION:*OECD Economic Surveys: China 2021*\n\nD
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=b0e499cf-en.
-DTSTAMP:20210901T202954Z
+DTSTAMP:20210902T202915Z
 DTSTART:20211029T080000Z
 DTEND:20211029T081500Z
 TRANSP:TRANSPARENT
