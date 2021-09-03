@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 September 2021 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 September 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 September 2021](#3-september-2021)
 * [6 September 2021](#6-september-2021)
@@ -12,7 +12,7 @@ Data generated on | |
 * [14 September 2021](#14-september-2021)
 * [15 September 2021](#15-september-2021)
 * [16 September 2021](#16-september-2021)
-* [20 September 2021](#20-september-2021)
+* [21 September 2021](#21-september-2021)
 * [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
 * [4 October 2021](#4-october-2021)
@@ -49,6 +49,29 @@ Friday 3 September 2021 at 5:00 | no launch event
 
 # 6 September 2021
 
+## [Where did it hit harder? - The geography of excess mortality during the COVID-19 pandemic](https://doi.org/10.1787/ab4848a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 September 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Studi economici dell'OCSE: Italia 2021](https://doi.org/10.1787/85d51ef5-it)
 
 Embargo date | Launch date
@@ -57,16 +80,16 @@ Monday 6 September 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 September 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
+- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -83,7 +106,7 @@ Monday 6 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 September 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 September 2021 at 19:55
+- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
 
 ### Additional Information
 
@@ -489,26 +512,26 @@ Thursday 16 September 2021 at 9:00 | no launch event
 
 ------
 
-# 20 September 2021
+# 21 September 2021
 
 ## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 20 September 2021 at 9:00 | no launch event
+Tuesday 21 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 September 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
