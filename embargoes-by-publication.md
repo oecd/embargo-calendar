@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 September 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 September 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Where did it hit harder? - The geography of excess mortality during the COVID-19 pandemic](https://doi.org/10.1787/ab4848a4-en)
 
@@ -15,7 +15,7 @@ Monday 6 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 September 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 6 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 September 2021 at 9:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 6 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 September 2021 at 9:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
 
 ### Additional Information
 
@@ -146,14 +146,14 @@ Monday 13 September 2021 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 September 2021 at 12:00 | no launch event
+Tuesday 14 September 2021 at 14:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 September 2021 at 20:13
+- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 September 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
 
 ### Additional Information
 
@@ -473,15 +473,15 @@ Monday 27 September 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -510,52 +510,6 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 
 ------
 
-## [Driving Performance at Brazil’s Electricity Regulatory Agency](https://doi.org/10.1787/11824ef6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 October 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Impulsionando o Desempenho da Agência Nacional de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 October 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Portuguese*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Regulatory Policy Outlook 2021](https://doi.org/10.1787/38b0fdb1-en)
 
 Embargo date | Launch date
@@ -576,6 +530,52 @@ Friday 8 October 2021 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Driving Performance at Brazil’s Electricity Regulatory Agency](https://doi.org/10.1787/11824ef6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 October 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Impulsionando o Desempenho da Agência Nacional de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 October 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
