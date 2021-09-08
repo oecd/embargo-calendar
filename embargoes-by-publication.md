@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 September 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Where did it hit harder? - The geography of excess mortality during the COVID-19 pandemic](https://doi.org/10.1787/ab4848a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 September 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Studi economici dell'OCSE: Italia 2021](https://doi.org/10.1787/85d51ef5-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 September 2021 at 9:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Italy 2021](https://doi.org/10.1787/07d8b9cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 September 2021 at 9:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Wednesday 8 September 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Beyond Academic Learning - First Results from the Survey of Social and Emotional Skills](https://doi.org/10.1787/92a11084-en)
 
@@ -84,7 +15,7 @@ Tuesday 7 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
 
 ### Additional Information
 
@@ -112,6 +43,52 @@ Wednesday 8 September 2021 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Building local ecosystems for social innovation - A methodological framework](https://doi.org/10.1787/bef867cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Social impact measurement for the Social and Solidarity Economy - OECD Global Action Promoting Social & Solidarity Economy Ecosystems](https://doi.org/10.1787/d20a57ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -151,9 +128,9 @@ Tuesday 14 September 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
 
 ### Additional Information
 
@@ -174,9 +151,9 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 September 2021 at 20:13
+- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 September 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
 
 ### Additional Information
 
@@ -460,6 +437,29 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Disability, Work and Inclusion in Ireland - Engaging and Supporting Employers](https://doi.org/10.1787/74b45baa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 September 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
