@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 September 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The impact of digitalisation on productivity: Firm-level evidence from the Netherlands](https://doi.org/10.1787/e800ee1d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 September 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 10 September 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
 
@@ -107,7 +84,7 @@ Friday 10 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Friday 10 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Friday 10 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
@@ -176,7 +153,7 @@ Friday 10 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
@@ -196,16 +173,16 @@ Monday 13 September 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 September 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 September 2021 at 19:55
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -219,16 +196,16 @@ Tuesday 14 September 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -242,16 +219,16 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -289,7 +266,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
 
@@ -542,9 +519,9 @@ Monday 27 September 2021 at 6:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
 
 ### Additional Information
 
@@ -552,7 +529,7 @@ Monday 27 September 2021 at 6:30 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
