@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 September 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 September 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 September 2021](#9-september-2021)
-* [10 September 2021](#10-september-2021)
 * [13 September 2021](#13-september-2021)
 * [14 September 2021](#14-september-2021)
 * [15 September 2021](#15-september-2021)
@@ -20,175 +18,6 @@ Data generated on | |
 
 ------
 
-# 9 September 2021
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 10 September 2021
-
-## [Building local ecosystems for social innovation - A methodological framework](https://doi.org/10.1787/bef867cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Social impact measurement for the Social and Solidarity Economy - OECD Global Action Promoting Social & Solidarity Economy Ecosystems](https://doi.org/10.1787/d20a57ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Union européenne 2021](https://doi.org/10.1787/b1073a13-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: European Union 2021](https://doi.org/10.1787/a77ab220-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [ OECD Economic Surveys: Euro Area 2021](https://doi.org/10.1787/214e9f0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Zone euro 2021](https://doi.org/10.1787/c44ad06e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 September 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
 # 13 September 2021
 
 ## [Compendium of International Organisations’ Practices - Working Towards More Effective International Instruments](https://doi.org/10.1787/846a5fa0-en)
@@ -200,9 +29,9 @@ Monday 13 September 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
+- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
+- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
 
 ### Additional Information
 
@@ -210,7 +39,7 @@ Monday 13 September 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -229,7 +58,7 @@ Tuesday 14 September 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
+- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
 
 ### Additional Information
 
@@ -394,6 +223,29 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 ------
 
 # 23 September 2021
+
+## [Preparing for the Future of Work Across Australia](https://doi.org/10.1787/9e506cad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 September 2021 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c12a071c-en)
 
@@ -568,18 +420,18 @@ Monday 27 September 2021 at 6:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
+- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
