@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 September 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 September 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Compendium of International Organisations’ Practices - Working Towards More Effective International Instruments](https://doi.org/10.1787/846a5fa0-en)
 
@@ -15,7 +15,7 @@ Monday 13 September 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
 ### Additional Information
 
@@ -36,7 +36,7 @@ Tuesday 14 September 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 13 September 2021 at 19:58
 
@@ -61,7 +61,7 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 September 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
 ### Additional Information
 
@@ -73,7 +73,7 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 
 ------
 
-## [Bildung auf einen Blick 2021 - OECD-Indikatoren](https://doi.org/10.1787/626b1ac1-de)
+## [Bildung auf einen Blick 2021 - OECD-Indikatoren](https://doi.org/10.3278/6001821ow)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -81,16 +81,16 @@ Thursday 16 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 31 August 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -104,16 +104,16 @@ Thursday 16 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -151,7 +151,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 30 August 2021 at 20:17
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 30 August 2021 at 19:55
 
@@ -165,6 +165,29 @@ Thursday 16 September 2021 at 9:00 | no launch event
 
 ------
 
+## [How socio-economics plays into students learning on their own - Clues to COVID-19 learning losses](https://doi.org/10.1787/2417eaa1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Disability, Work and Inclusion in Ireland - Engaging and Supporting Employers](https://doi.org/10.1787/74b45baa-en)
 
 Embargo date | Launch date
@@ -174,9 +197,9 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 8 September 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
 ### Additional Information
 
@@ -184,30 +207,7 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Preparing for the Future of Work Across Australia](https://doi.org/10.1787/9e506cad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 4:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -372,6 +372,29 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ------
 
+## [Preparing for the Future of Work Across Australia](https://doi.org/10.1787/9e506cad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 September 2021 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Lithuania 2021](https://doi.org/10.1787/48d82b17-en)
 
 Embargo date | Launch date
@@ -412,6 +435,29 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OCDE‑FAO Perspectivas Agrícolas 2021‑2030](https://doi.org/10.1787/47a9fa44-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 September 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
