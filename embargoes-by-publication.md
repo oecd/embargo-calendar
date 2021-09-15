@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 September 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Compendium of International Organisations’ Practices - Working Towards More Effective International Instruments](https://doi.org/10.1787/846a5fa0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 September 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Wednesday 15 September 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
 
@@ -38,7 +15,7 @@ Tuesday 14 September 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
@@ -59,7 +36,7 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 September 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
 
@@ -84,7 +61,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
@@ -105,9 +82,9 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
@@ -127,41 +104,18 @@ Thursday 16 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
-
-------
-
-## [Regards sur l’éducation 2021 - Les indicateurs de l’OCDE](https://doi.org/10.1787/5077a968-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 August 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -196,18 +150,18 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -242,16 +196,16 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -265,16 +219,16 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -288,16 +242,16 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
