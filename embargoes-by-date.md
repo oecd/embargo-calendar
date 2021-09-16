@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 September 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 September 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 September 2021](#14-september-2021)
 * [15 September 2021](#15-september-2021)
 * [16 September 2021](#16-september-2021)
+* [17 September 2021](#17-september-2021)
 * [22 September 2021](#22-september-2021)
 * [23 September 2021](#23-september-2021)
 * [24 September 2021](#24-september-2021)
@@ -15,33 +15,6 @@ Data generated on | |
 * [8 October 2021](#8-october-2021)
 * [27 October 2021](#27-october-2021)
 * [29 October 2021](#29-october-2021)
-
-------
-
-# 14 September 2021
-
-## [OECD Economic Surveys: Australia 2021](https://doi.org/10.1787/ce96b16a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 September 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,7 +31,7 @@ Wednesday 15 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
@@ -83,9 +56,9 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
@@ -106,7 +79,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
+- [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
@@ -139,6 +112,79 @@ Thursday 16 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 17 September 2021
+
+## [Education Policy Outlook in Brazil - With a focus on national and subnational policies](https://doi.org/10.1787/5aa935d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Education Policy Outlook in Brazil - With a focus on international policies](https://doi.org/10.1787/e97e4f72-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Climate Finance Provided and Mobilised by Developed Countries: Aggregate Trends Updated with 2019 Data](https://doi.org/10.1787/03590fb7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -205,16 +251,16 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -229,7 +275,7 @@ Thursday 23 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
@@ -252,7 +298,7 @@ Thursday 23 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
@@ -275,7 +321,7 @@ Thursday 23 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
 
@@ -298,9 +344,9 @@ Thursday 23 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
@@ -320,16 +366,16 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -343,16 +389,39 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 9 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 September 2021 at 19:58
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -370,18 +439,41 @@ Friday 24 September 2021 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD Business and Finance Outlook 2021 - AI in Business and Finance](https://doi.org/10.1787/ba682899-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 September 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -416,7 +508,7 @@ Monday 27 September 2021 at 6:30 | no launch event
 
 # 28 September 2021
 
-## [Teachers Getting the Best out of Their Students from Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
+## [Teachers Getting the Best out of Their Students - From Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
 
 Embargo date | Launch date
 -------------|:------------:
