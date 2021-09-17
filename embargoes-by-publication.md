@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 September 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Administration 2021 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/cef472b9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 17 September 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Bildung auf einen Blick 2021 - OECD-Indikatoren](https://doi.org/10.3278/6001821ow)
 
@@ -38,7 +15,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 16 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
 ### Additional Information
 
@@ -151,7 +128,7 @@ Friday 17 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
 
@@ -161,6 +138,98 @@ Friday 17 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The impact of COVID-19 on directions and structure of international trade](https://doi.org/10.1787/0b8eaafe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2021 - Keeping the Recovery on Track](https://doi.org/10.1787/490d4832-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Who develops AI-related innovations, goods and services?  - A firm-level analysis](https://doi.org/10.1787/3e4aedd4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The human capital behind AI - Jobs and skills demand from online job postings](https://doi.org/10.1787/2e278150-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -311,18 +380,18 @@ Thursday 23 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -427,15 +496,15 @@ Friday 24 September 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
