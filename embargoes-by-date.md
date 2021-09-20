@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 September 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 September 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 September 2021](#16-september-2021)
-* [17 September 2021](#17-september-2021)
 * [20 September 2021](#20-september-2021)
 * [21 September 2021](#21-september-2021)
 * [22 September 2021](#22-september-2021)
@@ -13,155 +11,12 @@ Data generated on | |
 * [24 September 2021](#24-september-2021)
 * [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
+* [5 October 2021](#5-october-2021)
 * [8 October 2021](#8-october-2021)
+* [14 October 2021](#14-october-2021)
 * [27 October 2021](#27-october-2021)
+* [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
-
-------
-
-# 16 September 2021
-
-## [Bildung auf einen Blick 2021 - OECD-Indikatoren](https://doi.org/10.3278/6001821ow)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Education at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/b35a14e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 11:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [The State of Global Education - 18 Months into the Pandemic](https://doi.org/10.1787/1a23bb23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 17 September 2021
-
-## [Education Policy Outlook in Brazil - With a focus on national and subnational policies](https://doi.org/10.1787/5aa935d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Education Policy Outlook in Brazil - With a focus on international policies](https://doi.org/10.1787/e97e4f72-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Climate Finance Provided and Mobilised by Developed Countries: Aggregate Trends Updated with 2019 Data](https://doi.org/10.1787/03590fb7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -202,16 +57,39 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2021 - Reprise : Maintenir le cap](https://doi.org/10.1787/8d6a5589-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Format: *PDF*
 
@@ -232,7 +110,7 @@ Wednesday 22 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
@@ -255,7 +133,7 @@ Wednesday 22 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
@@ -418,7 +296,7 @@ Thursday 23 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 17 September 2021 at 19:58
 
@@ -537,9 +415,9 @@ Friday 24 September 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
@@ -591,38 +469,42 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
 
+------
+
+# 5 October 2021
+
 ## [OCDE‑FAO Perspectivas Agrícolas 2021‑2030](https://doi.org/10.1787/47a9fa44-es)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 September 2021 at 10:00 | no launch event
+Tuesday 5 October 2021 at 16:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -651,6 +533,33 @@ Friday 8 October 2021 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 October 2021
+
+## [Teaching as a Knowledge Profession - Studying Pedagogical Knowledge across Education Systems](https://doi.org/10.1787/e823ef6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -702,6 +611,33 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 28 October 2021
+
+## [How’s Life in Latin America? - Measuring Well-being for Policy Making](https://doi.org/10.1787/2965f4fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
