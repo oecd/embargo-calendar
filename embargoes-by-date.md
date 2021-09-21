@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 September 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 September 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 September 2021](#20-september-2021)
 * [21 September 2021](#21-september-2021)
@@ -33,7 +33,7 @@ Monday 20 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -58,9 +58,9 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -81,9 +81,9 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -156,7 +156,7 @@ Wednesday 22 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 September 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -179,7 +179,7 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -469,9 +469,9 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
 
 ### Additional Information
 
@@ -479,13 +479,36 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
 ------
 
 # 5 October 2021
+
+## [Using Digital Technologies for Early Education during COVID-19 - OECD Report for the G20 2020 Education Working Group](https://doi.org/10.1787/fe8d68ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 October 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OCDE‑FAO Perspectivas Agrícolas 2021‑2030](https://doi.org/10.1787/47a9fa44-es)
 
