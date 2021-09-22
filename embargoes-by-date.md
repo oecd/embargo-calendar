@@ -2,48 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 September 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 September 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 September 2021](#20-september-2021)
 * [21 September 2021](#21-september-2021)
 * [22 September 2021](#22-september-2021)
-* [23 September 2021](#23-september-2021)
 * [24 September 2021](#24-september-2021)
 * [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
 * [5 October 2021](#5-october-2021)
 * [8 October 2021](#8-october-2021)
 * [14 October 2021](#14-october-2021)
+* [18 October 2021](#18-october-2021)
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
-
-------
-
-# 20 September 2021
-
-## [The impact of COVID-19 on directions and structure of international trade](https://doi.org/10.1787/0b8eaafe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,9 +30,9 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
 ### Additional Information
 
@@ -81,9 +53,9 @@ Tuesday 21 September 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
 ### Additional Information
 
@@ -172,14 +144,14 @@ Wednesday 22 September 2021 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 22 September 2021 at 13:00 | no launch event
+Wednesday 22 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 September 2021 at 20:19
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
 ### Additional Information
 
@@ -188,194 +160,6 @@ Wednesday 22 September 2021 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
-
-------
-
-------
-
-# 23 September 2021
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c12a071c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8e7b2363-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a8bc6871-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/30e8a050-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8095f743-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, People's Republic of China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2819971c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -394,7 +178,7 @@ Friday 24 September 2021 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
 ### Additional Information
 
@@ -582,6 +366,194 @@ Thursday 14 October 2021 at 9:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 October 2021
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c12a071c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8e7b2363-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a8bc6871-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/30e8a050-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8095f743-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, People's Republic of China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2819971c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
