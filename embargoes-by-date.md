@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 September 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 September 2021 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 September 2021](#21-september-2021)
 * [22 September 2021](#22-september-2021)
 * [24 September 2021](#24-september-2021)
 * [27 September 2021](#27-september-2021)
@@ -16,56 +15,7 @@ Data generated on | |
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
-
-------
-
-# 21 September 2021
-
-## [OECD Economic Outlook, Interim Report September 2021 - Keeping the Recovery on Track](https://doi.org/10.1787/490d4832-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2021 - Reprise : Maintenir le cap](https://doi.org/10.1787/8d6a5589-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
+* [30 October 2021](#30-october-2021)
 
 ------
 
@@ -82,7 +32,7 @@ Wednesday 22 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -105,7 +55,7 @@ Wednesday 22 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 September 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -128,7 +78,7 @@ Wednesday 22 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -151,7 +101,7 @@ Wednesday 22 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -198,18 +148,18 @@ Friday 24 September 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -244,6 +194,29 @@ Monday 27 September 2021 at 6:30 | no launch event
 
 # 28 September 2021
 
+## [Mind the financing gap: Enhancing the contribution of intangible assets to productivity](https://doi.org/10.1787/7aefd0d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Teachers Getting the Best out of Their Students - From Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
 
 Embargo date | Launch date
@@ -252,16 +225,16 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 21 September 2021 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 September 2021 at 19:59
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -384,7 +357,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -407,7 +380,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -430,7 +403,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -453,7 +426,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -476,7 +449,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -499,9 +472,9 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -522,9 +495,9 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -545,9 +518,9 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
+- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
 
 ### Additional Information
 
@@ -660,5 +633,32 @@ Friday 29 October 2021 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 30 October 2021
+
+## [Comparative Study of Selected Constitutional Provisions in OECD Countries - Input for the Constitutional Reform Process in Chile](https://doi.org/10.1787/ccb3ca1b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 30 October 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
