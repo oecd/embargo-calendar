@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 September 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Who develops AI-related innovations, goods and services?  - A firm-level analysis](https://doi.org/10.1787/3e4aedd4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The human capital behind AI - Jobs and skills demand from online job postings](https://doi.org/10.1787/2e278150-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How socio-economics plays into students learning on their own - Clues to COVID-19 learning losses](https://doi.org/10.1787/2417eaa1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 September 2021 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Disability, Work and Inclusion in Ireland - Engaging and Supporting Employers](https://doi.org/10.1787/74b45baa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 September 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 24 September 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Preparing for the Future of Work Across Australia](https://doi.org/10.1787/9e506cad-en)
 
@@ -142,6 +50,29 @@ Friday 24 September 2021 at 8:00 | no launch event
 
 ------
 
+## [Building the resilience of Turkey’s agricultural sector to droughts](https://doi.org/10.1787/75430b86-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Lithuania 2021](https://doi.org/10.1787/48d82b17-en)
 
 Embargo date | Launch date
@@ -153,7 +84,7 @@ Monday 27 September 2021 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Tuesday 28 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
 
 ### Additional Information
 
@@ -261,7 +192,7 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 8 October 2021 at 7:00 | no launch event
+Monday 11 October 2021 at 7:00 | no launch event
 
 ### Status Information
 
@@ -579,7 +510,7 @@ Friday 29 October 2021 at 8:00 | no launch event
 
 ------
 
-## [Comparative Study of Selected Constitutional Provisions in OECD Countries - Input for the Constitutional Reform Process in Chile](https://doi.org/10.1787/ccb3ca1b-en)
+## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
 
 Embargo date | Launch date
 -------------|:------------:
