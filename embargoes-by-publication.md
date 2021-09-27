@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 September 2021 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Preparing for the Future of Work Across Australia](https://doi.org/10.1787/9e506cad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 September 2021 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 September 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Business and Finance Outlook 2021 - AI in Business and Finance](https://doi.org/10.1787/ba682899-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 September 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 27 September 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building the resilience of Turkey’s agricultural sector to droughts](https://doi.org/10.1787/75430b86-en)
 
@@ -130,7 +84,7 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
 
 ### Additional Information
 
@@ -139,6 +93,98 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Making digital transformation work for all in Chile](https://doi.org/10.1787/6b1a524c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [China’s outward direct investment and its impact on the domestic economy](https://doi.org/10.1787/1b1eaa9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Welcome to the (digital) jungle: Measuring online platform diffusion](https://doi.org/10.1787/b4e771d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Are online platforms killing the offline star? Platform diffusion and the productivity of traditional firms](https://doi.org/10.1787/1e2bbe10-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -160,8 +206,8 @@ Tuesday 5 October 2021 at 8:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -192,22 +238,22 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 11 October 2021 at 7:00 | no launch event
+Wednesday 6 October 2021 at 7:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
