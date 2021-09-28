@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 September 2021 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 September 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building the resilience of Turkey’s agricultural sector to droughts](https://doi.org/10.1787/75430b86-en)
 
@@ -15,7 +15,7 @@ Monday 27 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 27 September 2021 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
+- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
 
 ### Additional Information
 
@@ -242,18 +242,41 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 September 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Schooling During a Pandemic - The Experience and Outcomes of Schoolchildren During the First Round of COVID-19 Lockdowns](https://doi.org/10.1787/1c78681e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
