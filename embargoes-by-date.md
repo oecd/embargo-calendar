@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 September 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 September 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 September 2021](#27-september-2021)
 * [28 September 2021](#28-september-2021)
+* [30 September 2021](#30-september-2021)
 * [5 October 2021](#5-october-2021)
 * [6 October 2021](#6-october-2021)
 * [8 October 2021](#8-october-2021)
@@ -15,56 +15,6 @@ Data generated on | |
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
 * [30 October 2021](#30-october-2021)
-
-------
-
-# 27 September 2021
-
-## [Building the resilience of Turkey’s agricultural sector to droughts](https://doi.org/10.1787/75430b86-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Lithuania 2021](https://doi.org/10.1787/48d82b17-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 September 2021 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -81,7 +31,7 @@ Tuesday 28 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 September 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
 
 ### Additional Information
 
@@ -104,7 +54,7 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
 
 ### Additional Information
 
@@ -113,6 +63,79 @@ Tuesday 28 September 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 30 September 2021
+
+## [Venture capital investments in artificial intelligence  - Analysing trends in VC in AI companies from 2012 through 2020](https://doi.org/10.1787/f97beae7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 September 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 29 September 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Principaux constats issus de la mise à jour de la base de données de l’OCDE sur la relance verte](https://doi.org/10.1787/b3677ec9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
+
+------
+
+## [Key findings from the update of the OECD Green Recovery Database](https://doi.org/10.1787/55b8abba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 September 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
 
 ------
 
@@ -271,7 +294,7 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 September 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 29 September 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
 
@@ -377,7 +400,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
 
 ### Additional Information
 
@@ -400,7 +423,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
 
 ### Additional Information
 
@@ -423,7 +446,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
 
 ### Additional Information
 
