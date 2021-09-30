@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 September 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 September 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 September 2021](#28-september-2021)
 * [30 September 2021](#30-september-2021)
 * [5 October 2021](#5-october-2021)
 * [6 October 2021](#6-october-2021)
@@ -15,56 +14,6 @@ Data generated on | |
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
 * [30 October 2021](#30-october-2021)
-
-------
-
-# 28 September 2021
-
-## [Mind the financing gap: Enhancing the contribution of intangible assets to productivity](https://doi.org/10.1787/7aefd0d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Teachers Getting the Best out of Their Students - From Primary to Upper Secondary Education](https://doi.org/10.1787/5bc5cd4e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -89,52 +38,6 @@ Thursday 30 September 2021 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Principaux constats issus de la mise à jour de la base de données de l’OCDE sur la relance verte](https://doi.org/10.1787/b3677ec9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Policy response*
-* Format: *PDF*
-
-------
-
-## [Key findings from the update of the OECD Green Recovery Database](https://doi.org/10.1787/55b8abba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 September 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy response*
 * Format: *PDF*
 
 ------
@@ -266,18 +169,18 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 September 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 September 2021 at 19:56
+- [x] Exported to OECD.org Thursday 30 September 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -409,6 +312,29 @@ Monday 18 October 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Déclaration pays par pays – Recueil 2021 de rapports d’examen par les pairs (version abrégée) - Cadre Inclusif sur le BEPS : action 13 ](https://doi.org/10.1787/b3151d09-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -613,15 +539,15 @@ Thursday 28 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 30 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 30 September 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
