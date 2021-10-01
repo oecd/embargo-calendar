@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 September 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 October 2021 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 September 2021](#30-september-2021)
+* [4 October 2021](#4-october-2021)
 * [5 October 2021](#5-october-2021)
 * [6 October 2021](#6-october-2021)
 * [8 October 2021](#8-october-2021)
@@ -30,11 +31,38 @@ Thursday 30 September 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 October 2021
+
+## [Education-occupation mismatch in the context of informality and development](https://doi.org/10.1787/3291e65c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -57,7 +85,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
@@ -80,7 +108,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
@@ -103,7 +131,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
@@ -126,7 +154,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
@@ -146,16 +174,16 @@ Tuesday 5 October 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -253,13 +281,13 @@ Thursday 14 October 2021 at 9:00 | no launch event
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
