@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 October 2021 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 October 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 September 2021](#30-september-2021)
 * [4 October 2021](#4-october-2021)
 * [5 October 2021](#5-october-2021)
 * [6 October 2021](#6-october-2021)
@@ -15,33 +14,6 @@ Data generated on | |
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
 * [30 October 2021](#30-october-2021)
-
-------
-
-# 30 September 2021
-
-## [Venture capital investments in artificial intelligence  - Analysing trends in VC in AI companies from 2012 through 2020](https://doi.org/10.1787/f97beae7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 September 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 September 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -56,7 +28,7 @@ Monday 4 October 2021 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
@@ -175,9 +147,9 @@ Tuesday 5 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
 
 ### Additional Information
 
@@ -200,7 +172,7 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 September 2021 at 19:57
+- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
 
 ### Additional Information
 
@@ -225,9 +197,9 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 September 2021 at 20:18
+- [x] Exported to iLibrary Monday 4 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 September 2021 at 19:57
+- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
 
 ### Additional Information
 
@@ -279,7 +251,7 @@ Thursday 14 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 1 October 2021 at 19:55
 
