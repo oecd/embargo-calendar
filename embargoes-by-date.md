@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 October 2021 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 5 October 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 October 2021](#4-october-2021)
 * [5 October 2021](#5-october-2021)
@@ -30,7 +30,7 @@ Monday 4 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 October 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 5 October 2021 at 19:55
 
 ### Additional Information
 
@@ -170,7 +170,7 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 September 2021 at 20:20
+- [x] Exported to iLibrary Tuesday 5 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 4 October 2021 at 19:58
 
@@ -199,7 +199,7 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 5 October 2021 at 19:55
 
 ### Additional Information
 
@@ -234,7 +234,7 @@ Friday 8 October 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
