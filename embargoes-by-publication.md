@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 October 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Education-occupation mismatch in the context of informality and development](https://doi.org/10.1787/3291e65c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 6 October 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making digital transformation work for all in Chile](https://doi.org/10.1787/6b1a524c-en)
 
@@ -38,7 +15,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Tuesday 5 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 September 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Tuesday 5 October 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 October 2021 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Tuesday 5 October 2021 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 October 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
 ### Additional Information
 
@@ -183,29 +160,6 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Schooling During a Pandemic - The Experience and Outcomes of Schoolchildren During the First Round of COVID-19 Lockdowns](https://doi.org/10.1787/1c78681e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -349,6 +303,29 @@ Monday 18 October 2021 at 9:00 | no launch event
 
 ------
 
+## [Schooling During a Pandemic - The Experience and Outcomes of Schoolchildren During the First Round of COVID-19 Lockdowns](https://doi.org/10.1787/1c78681e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
 
 Embargo date | Launch date
@@ -438,6 +415,29 @@ Monday 18 October 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Learning from the Past, Looking to the Future - Excellence and Equity for all ](https://doi.org/10.1787/f43c1728-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
