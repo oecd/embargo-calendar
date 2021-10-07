@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 October 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Making digital transformation work for all in Chile](https://doi.org/10.1787/6b1a524c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [China’s outward direct investment and its impact on the domestic economy](https://doi.org/10.1787/1b1eaa9d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Welcome to the (digital) jungle: Measuring online platform diffusion](https://doi.org/10.1787/b4e771d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Are online platforms killing the offline star? Platform diffusion and the productivity of traditional firms](https://doi.org/10.1787/1e2bbe10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 September 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Using Digital Technologies for Early Education during COVID-19 - OECD Report for the G20 2020 Education Working Group](https://doi.org/10.1787/fe8d68ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OCDE‑FAO Perspectivas Agrícolas 2021‑2030](https://doi.org/10.1787/47a9fa44-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 October 2021 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 7 October 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Regulatory Policy Outlook 2021](https://doi.org/10.1787/38b0fdb1-en)
 
@@ -153,7 +15,7 @@ Wednesday 6 October 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 October 2021 at 19:55
+- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
 
 ### Additional Information
 
@@ -173,18 +35,18 @@ Thursday 14 October 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 October 2021 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 October 2021 at 19:55
+- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -242,16 +104,16 @@ Monday 18 October 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -312,7 +174,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 October 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
@@ -335,9 +197,9 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
 
 ### Additional Information
 
@@ -427,7 +289,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 October 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
