@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 October 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 8 October 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 October 2021](#6-october-2021)
 * [14 October 2021](#14-october-2021)
 * [18 October 2021](#18-october-2021)
 * [21 October 2021](#21-october-2021)
@@ -15,34 +14,30 @@ Data generated on | |
 
 ------
 
-# 6 October 2021
+# 14 October 2021
 
-## [OECD Regulatory Policy Outlook 2021](https://doi.org/10.1787/38b0fdb1-en)
+## [Regulatory Responses to the COVID-19 Pandemic in Southeast Asia](https://doi.org/10.1787/b9587458-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 6 October 2021 at 7:00 | no launch event
+Thursday 14 October 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 October 2021 at 20:20
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
+- [ ] Exported to OECD.org
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
 
 ------
-
-------
-
-# 14 October 2021
 
 ## [Teaching as a Knowledge Profession - Studying Pedagogical Knowledge across Education Systems](https://doi.org/10.1787/e823ef6e-en)
 
@@ -105,7 +100,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
@@ -151,7 +146,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
@@ -174,7 +169,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
@@ -243,7 +238,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
@@ -266,7 +261,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
@@ -289,7 +284,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 September 2021 at 19:58
+- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
 ### Additional Information
 
