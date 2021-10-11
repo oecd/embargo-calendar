@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 October 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 October 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 October 2021](#14-october-2021)
 * [18 October 2021](#18-october-2021)
@@ -11,6 +11,7 @@ Data generated on | |
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
 * [30 October 2021](#30-october-2021)
+* [22 November 2021](#22-november-2021)
 
 ------
 
@@ -381,14 +382,14 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 28 October 2021 at 9:00 | no launch event
+Thursday 28 October 2021 at 14:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 September 2021 at 20:20
+- [x] Exported to iLibrary Monday 11 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 September 2021 at 19:57
+- [x] Exported to OECD.org Monday 11 October 2021 at 19:56
 
 ### Additional Information
 
@@ -451,5 +452,32 @@ Saturday 30 October 2021 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 November 2021
+
+## [Achieving SDG Results in Development Co-operation - Summary for Policy Makers](https://doi.org/10.1787/5b2b0ee8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
