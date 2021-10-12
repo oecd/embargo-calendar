@@ -2,9 +2,55 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 October 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 12 October 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Regulatory Responses to the COVID-19 Pandemic in Southeast Asia](https://doi.org/10.1787/b9587458-en)
+## [World Energy Outlook 2021](https://doi.org/10.1787/14fcb638-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 October 2021 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 October 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 12 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Trade facilitation in perishable agro-food products - A feasibility study for addressing at-the-border challenges](https://doi.org/10.1787/a2995a7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 October 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 12 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Regulatory responses to the COVID-19 pandemic in Southeast Asia](https://doi.org/10.1787/b9587458-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -12,7 +58,7 @@ Thursday 14 October 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -23,7 +69,7 @@ Thursday 14 October 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy response*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
