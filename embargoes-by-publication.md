@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 October 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 13 October 2021 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [World Energy Outlook 2021](https://doi.org/10.1787/14fcb638-en)
 
@@ -13,7 +13,7 @@ Wednesday 13 October 2021 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 October 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 12 October 2021 at 19:57
 
@@ -50,6 +50,29 @@ Thursday 14 October 2021 at 5:00 | no launch event
 
 ------
 
+## [The impact of the COVID-19 pandemic on global and Asian seed supply chains](https://doi.org/10.1787/e7650fde-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Regulatory responses to the COVID-19 pandemic in Southeast Asia](https://doi.org/10.1787/b9587458-en)
 
 Embargo date | Launch date
@@ -59,7 +82,7 @@ Thursday 14 October 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -67,9 +90,32 @@ Thursday 14 October 2021 at 6:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
 * Formats: *HTML, PDF*
+
+------
+
+## [Developing indicators to support the implementation of education policies](https://doi.org/10.1787/b9f04dd0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 October 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -84,7 +130,7 @@ Thursday 14 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
 
 ### Additional Information
 
@@ -151,9 +197,9 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
 
 ### Additional Information
 
@@ -161,7 +207,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -220,7 +266,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 October 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
 
@@ -457,6 +503,52 @@ Saturday 30 October 2021 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Does Inequality Matter?  - How People Perceive Economic Disparities and Social Mobility](https://doi.org/10.1787/3023ed40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
