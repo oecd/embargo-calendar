@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 October 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 October 2021 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 October 2021](#13-october-2021)
 * [14 October 2021](#14-october-2021)
@@ -12,9 +12,11 @@ Data generated on | |
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
 * [30 October 2021](#30-october-2021)
+* [1 November 2021](#1-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
 * [22 November 2021](#22-november-2021)
+* [23 November 2021](#23-november-2021)
 
 ------
 
@@ -31,7 +33,7 @@ Wednesday 13 October 2021 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 October 2021 at 19:57
+- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
 
 ### Additional Information
 
@@ -175,7 +177,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
 
@@ -198,7 +200,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -221,7 +223,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
 
@@ -244,7 +246,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -267,7 +269,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -313,7 +315,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
 
@@ -336,7 +338,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -359,7 +361,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -382,7 +384,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 September 2021 at 20:22
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 October 2021 at 19:56
 
@@ -556,6 +558,33 @@ Saturday 30 October 2021 at 11:00 | no launch event
 
 ------
 
+# 1 November 2021
+
+## [Managing Climate Risks, Facing up to Losses and Damages - Understanding, Reducing and Managing Risks](https://doi.org/10.1787/55ea1cc9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 November 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 17 November 2021
 
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
@@ -567,15 +596,15 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -632,5 +661,124 @@ Monday 22 November 2021 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 23 November 2021
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/973822b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tanzania 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3cff19b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Moldova 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cbc82e22-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Kenya 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f88fceeb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d3fade82-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
