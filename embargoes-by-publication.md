@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 October 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
-
-## [World Energy Outlook 2021](https://doi.org/10.1787/14fcb638-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 October 2021 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 15 October 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trade facilitation in perishable agro-food products - A feasibility study for addressing at-the-border challenges](https://doi.org/10.1787/a2995a7a-en)
 
@@ -38,7 +15,7 @@ Thursday 14 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 14 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 14 October 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Thursday 14 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -139,6 +116,52 @@ Thursday 14 October 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Productivity-wage nexus at the firm-level in Portugal - Decoupling and divergences](https://doi.org/10.1787/749ac20c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Building capacity for inclusive teaching - Policies and practices to prepare all teachers for diversity and inclusion](https://doi.org/10.1787/57fe6a38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 October 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -153,7 +176,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 September 2021 at 20:00
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -176,7 +199,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -199,7 +222,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -222,7 +245,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -245,7 +268,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -268,7 +291,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -291,7 +314,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -314,7 +337,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -337,7 +360,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -360,7 +383,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
@@ -372,6 +395,52 @@ Monday 18 October 2021 at 9:00 | no launch event
 
 ------
 
+## [The long game: Fiscal outlooks to 2060 underline need for structural reform](https://doi.org/10.1787/a112307e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Preventing single-use plastic waste - Implications of different policy approaches](https://doi.org/10.1787/c62069e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 October 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Learning from the Past, Looking to the Future - Excellence and Equity for all ](https://doi.org/10.1787/f43c1728-en)
 
 Embargo date | Launch date
@@ -380,16 +449,16 @@ Thursday 21 October 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 October 2021 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
