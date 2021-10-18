@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 October 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Trade facilitation in perishable agro-food products - A feasibility study for addressing at-the-border challenges](https://doi.org/10.1787/a2995a7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of the COVID-19 pandemic on global and Asian seed supply chains](https://doi.org/10.1787/e7650fde-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Regulatory responses to the COVID-19 pandemic in Southeast Asia](https://doi.org/10.1787/b9587458-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 October 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [Developing indicators to support the implementation of education policies](https://doi.org/10.1787/b9f04dd0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 October 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Teaching as a Knowledge Profession - Studying Pedagogical Knowledge across Education Systems](https://doi.org/10.1787/e823ef6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Monday 18 October 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Productivity-wage nexus at the firm-level in Portugal - Decoupling and divergences](https://doi.org/10.1787/749ac20c-en)
 
@@ -199,7 +84,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -245,7 +130,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -289,7 +174,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 October 2021 at 20:20
+- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
@@ -337,7 +222,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -360,7 +245,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -383,7 +268,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -418,6 +303,29 @@ Tuesday 19 October 2021 at 5:00 | no launch event
 
 ------
 
+## [Policies to Reduce Microplastics Pollution in Water - Focus on Textiles and Tyres](https://doi.org/10.1787/7ec7e5ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 October 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Preventing single-use plastic waste - Implications of different policy approaches](https://doi.org/10.1787/c62069e7-en)
 
 Embargo date | Launch date
@@ -429,7 +337,7 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
@@ -450,7 +358,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
+- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
@@ -579,7 +487,7 @@ Saturday 30 October 2021 at 11:00 | no launch event
 
 ------
 
-## [Managing Climate Risks, Facing up to Losses and Damages - Understanding, Reducing and Managing Risks](https://doi.org/10.1787/55ea1cc9-en)
+## [Managing Climate Risks, Facing up to Losses and Damages](https://doi.org/10.1787/55ea1cc9-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -588,9 +496,9 @@ Monday 1 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
+- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
+- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
 
 ### Additional Information
 
