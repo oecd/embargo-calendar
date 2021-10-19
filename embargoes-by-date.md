@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 October 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 19 October 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 October 2021](#18-october-2021)
 * [19 October 2021](#19-october-2021)
@@ -17,6 +17,7 @@ Data generated on | |
 * [18 November 2021](#18-november-2021)
 * [22 November 2021](#22-november-2021)
 * [23 November 2021](#23-november-2021)
+* [25 November 2021](#25-november-2021)
 
 ------
 
@@ -33,7 +34,7 @@ Monday 18 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -56,7 +57,7 @@ Monday 18 October 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -79,7 +80,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -102,7 +103,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -125,7 +126,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -148,7 +149,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -171,7 +172,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -194,7 +195,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -217,7 +218,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -240,7 +241,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -263,7 +264,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -286,7 +287,7 @@ Monday 18 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
@@ -337,18 +338,18 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -375,6 +376,29 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 
 ------
 
+## [How much do 15-year-olds learn over one year of schooling?](https://doi.org/10.1787/b837fd6a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 October 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 21 October 2021
@@ -388,7 +412,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
+- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 15 October 2021 at 19:58
 
@@ -591,6 +615,29 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 
 # 18 November 2021
 
+## [Artificial Intelligence and the Future of Skills, Volume 1 - Capabilities and Assessments](https://doi.org/10.1787/5ee71f34-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Does Inequality Matter?  - How People Perceive Economic Disparities and Social Mobility](https://doi.org/10.1787/3023ed40-en)
 
 Embargo date | Launch date
@@ -662,6 +709,29 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Côte d'Ivoire 2021 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/307e9625-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -756,6 +826,33 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 November 2021
+
+## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 November 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
