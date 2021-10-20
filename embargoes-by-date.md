@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 October 2021 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 October 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 October 2021](#18-october-2021)
 * [19 October 2021](#19-october-2021)
 * [20 October 2021](#20-october-2021)
 * [21 October 2021](#21-october-2021)
+* [22 October 2021](#22-october-2021)
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
@@ -18,286 +18,6 @@ Data generated on | |
 * [22 November 2021](#22-november-2021)
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
-
-------
-
-# 18 October 2021
-
-## [Productivity-wage nexus at the firm-level in Portugal - Decoupling and divergences](https://doi.org/10.1787/749ac20c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Building capacity for inclusive teaching - Policies and practices to prepare all teachers for diversity and inclusion](https://doi.org/10.1787/57fe6a38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Saudi Arabia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c12a071c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Bulgaria (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8e7b2363-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Déclaration pays par pays – Recueil 2021 de rapports d’examen par les pairs (version abrégée) - Cadre Inclusif sur le BEPS : action 13 ](https://doi.org/10.1787/b3151d09-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Hong Kong, China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a8bc6871-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brazil (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/30e8a050-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Schooling During a Pandemic - The Experience and Outcomes of Schoolchildren During the First Round of COVID-19 Lockdowns](https://doi.org/10.1787/1c78681e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Country-by-Country Reporting – Compilation of 2021 Peer Review Reports - Inclusive Framework on BEPS: Action 13 ](https://doi.org/10.1787/73dc97a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Indonesia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8095f743-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, People's Republic of China (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2819971c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Russian Federation (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fe683c93-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -314,7 +34,7 @@ Tuesday 19 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
 
 ### Additional Information
 
@@ -339,9 +59,9 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
+- [x] Exported to iLibrary Wednesday 20 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
 
 ### Additional Information
 
@@ -414,7 +134,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 October 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
 
 ### Additional Information
 
@@ -422,6 +142,33 @@ Thursday 21 October 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 October 2021
+
+## [Organisation of public administration - Agency governance, autonomy and accountability](https://doi.org/10.1787/07316cc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
