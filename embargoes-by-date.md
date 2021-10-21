@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 October 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 October 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 October 2021](#19-october-2021)
 * [20 October 2021](#20-october-2021)
 * [21 October 2021](#21-october-2021)
 * [22 October 2021](#22-october-2021)
+* [25 October 2021](#25-october-2021)
+* [26 October 2021](#26-october-2021)
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
@@ -18,33 +19,6 @@ Data generated on | |
 * [22 November 2021](#22-november-2021)
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
-
-------
-
-# 19 October 2021
-
-## [The long game: Fiscal outlooks to 2060 underline need for structural reform](https://doi.org/10.1787/a112307e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -61,7 +35,7 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
 
 ### Additional Information
 
@@ -84,7 +58,7 @@ Wednesday 20 October 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
 
 ### Additional Information
 
@@ -107,7 +81,7 @@ Wednesday 20 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
 
 ### Additional Information
 
@@ -166,6 +140,60 @@ Friday 22 October 2021 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 25 October 2021
+
+## [Misuse of E-Commerce for Trade in Counterfeits](https://doi.org/10.1787/1c04a64e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 October 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 26 October 2021
+
+## [Towards equity in school funding policies](https://doi.org/10.1787/6a3d127a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -235,18 +263,18 @@ Thursday 28 October 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 October 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -362,7 +390,7 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 
 # 18 November 2021
 
-## [Artificial Intelligence and the Future of Skills, Volume 1 - Capabilities and Assessments](https://doi.org/10.1787/5ee71f34-en)
+## [AI and the Future of Skills, Volume 1 - Capabilities and Assessments](https://doi.org/10.1787/5ee71f34-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -382,6 +410,29 @@ Thursday 18 November 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Africa 2021 (en) | Statistiques des recettes publiques en Afrique 2021 - 1990-2019 (en) | 1990-2019](https://doi.org/10.1787/c511aa1e-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English | French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -411,6 +462,29 @@ Thursday 18 November 2021 at 15:00 | no launch event
 ------
 
 # 22 November 2021
+
+## [Promoting Education Decision Makers' Use of Evidence in Flanders](https://doi.org/10.1787/de604fde-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Achieving SDG Results in Development Co-operation - Summary for Policy Makers](https://doi.org/10.1787/5b2b0ee8-en)
 
