@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 October 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 October 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 October 2021](#20-october-2021)
 * [21 October 2021](#21-october-2021)
 * [22 October 2021](#22-october-2021)
 * [25 October 2021](#25-october-2021)
@@ -19,79 +18,7 @@ Data generated on | |
 * [22 November 2021](#22-november-2021)
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
-
-------
-
-# 20 October 2021
-
-## [Policies to Reduce Microplastics Pollution in Water - Focus on Textiles and Tyres](https://doi.org/10.1787/7ec7e5ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 October 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 October 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Preventing single-use plastic waste - Implications of different policy approaches](https://doi.org/10.1787/c62069e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 October 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 October 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How much do 15-year-olds learn over one year of schooling?](https://doi.org/10.1787/b837fd6a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [6 December 2021](#6-december-2021)
 
 ------
 
@@ -108,7 +35,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
 ### Additional Information
 
@@ -124,7 +51,7 @@ Thursday 21 October 2021 at 9:00 | no launch event
 
 # 22 October 2021
 
-## [Organisation of public administration - Agency governance, autonomy and accountability](https://doi.org/10.1787/07316cc3-en)
+## [Organisation of public administration: Agency governance, autonomy and accountability](https://doi.org/10.1787/07316cc3-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -133,9 +60,9 @@ Friday 22 October 2021 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 October 2021 at 20:16
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 October 2021 at 19:55
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
 ### Additional Information
 
@@ -159,16 +86,62 @@ Monday 25 October 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Forward-looking Scenarios of Climate Finance Provided and Mobilised by Developed Countries in 2021-2025 - Technical Note](https://doi.org/10.1787/a53aac3b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 October 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Scénarios prospectifs du financement climatique fourni et mobilisé par les pays développés en 2021-2025 - Note technique](https://doi.org/10.1787/a0655be2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 October 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -189,7 +162,7 @@ Tuesday 26 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
 ### Additional Information
 
@@ -254,6 +227,52 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 ------
 
 # 28 October 2021
+
+## [International Migration Outlook 2021](https://doi.org/10.1787/29f23e9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 October 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Perspectives des migrations internationales 2021](https://doi.org/10.1787/da2bbd99-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 October 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [How’s Life in Latin America? - Measuring Well-being for Policy Making](https://doi.org/10.1787/2965f4fe-en)
 
@@ -674,6 +693,194 @@ Thursday 25 November 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 December 2021
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fd56cc8d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6933c16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/37a6cb02-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/22b43680-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/83469e1b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2d772d4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/577cb1f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29b97fc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
