@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 October 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 25 October 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 October 2021](#21-october-2021)
-* [22 October 2021](#22-october-2021)
 * [25 October 2021](#25-october-2021)
 * [26 October 2021](#26-october-2021)
 * [27 October 2021](#27-october-2021)
@@ -19,60 +17,6 @@ Data generated on | |
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
 * [6 December 2021](#6-december-2021)
-
-------
-
-# 21 October 2021
-
-## [Learning from the Past, Looking to the Future - Excellence and Equity for all ](https://doi.org/10.1787/f43c1728-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 October 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 October 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 22 October 2021
-
-## [Organisation of public administration: Agency governance, autonomy and accountability](https://doi.org/10.1787/07316cc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -110,7 +54,7 @@ Monday 25 October 2021 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
@@ -133,7 +77,7 @@ Monday 25 October 2021 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 22 October 2021 at 19:55
 
@@ -177,6 +121,75 @@ Tuesday 26 October 2021 at 5:00 | no launch event
 ------
 
 # 27 October 2021
+
+## [Developing consumption-based emissions indicators from Agriculture, Forestry and Land-use (AFOLU) activities](https://doi.org/10.1787/b2b24307-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Global assessment of the carbon leakage implications of carbon taxes on agricultural emissions](https://doi.org/10.1787/fc304fad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Carbon leakage and agriculture - A literature review on emissions mitigation policies](https://doi.org/10.1787/9247f1e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 October 2021 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Driving Performance at Brazil’s Electricity Regulatory Agency](https://doi.org/10.1787/11824ef6-en)
 
@@ -237,9 +250,9 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
 
 ### Additional Information
 
@@ -247,7 +260,7 @@ Thursday 28 October 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -260,9 +273,9 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
 
 ### Additional Information
 
@@ -270,7 +283,7 @@ Thursday 28 October 2021 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -363,18 +376,18 @@ Monday 1 November 2021 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 18 October 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 October 2021 at 19:56
+- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -432,6 +445,29 @@ Thursday 18 November 2021 at 10:00 | no launch event
 
 ------
 
+## [Does Inequality Matter?  - How People Perceive Economic Disparities and Social Mobility](https://doi.org/10.1787/3023ed40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Revenue Statistics in Africa 2021 (en) | Statistiques des recettes publiques en Afrique 2021 - 1990-2019 (en) | 1990-2019](https://doi.org/10.1787/c511aa1e-en-fr)
 
 Embargo date | Launch date
@@ -452,29 +488,6 @@ Thursday 18 November 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [Does Inequality Matter?  - How People Perceive Economic Disparities and Social Mobility](https://doi.org/10.1787/3023ed40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
