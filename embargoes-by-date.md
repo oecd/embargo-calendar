@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 October 2021 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 October 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 October 2021](#25-october-2021)
 * [26 October 2021](#26-october-2021)
@@ -31,9 +31,9 @@ Monday 25 October 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 October 2021 at 20:16
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 25 October 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Monday 25 October 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -202,7 +202,7 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -225,7 +225,7 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 September 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -377,9 +377,9 @@ Monday 1 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
@@ -554,15 +554,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -577,15 +577,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -600,15 +600,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -623,15 +623,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -646,15 +646,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -669,15 +669,15 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
