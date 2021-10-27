@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 October 2021 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 27 October 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 October 2021](#25-october-2021)
 * [26 October 2021](#26-october-2021)
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
@@ -17,79 +16,7 @@ Data generated on | |
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
 * [6 December 2021](#6-december-2021)
-
-------
-
-# 25 October 2021
-
-## [Misuse of E-Commerce for Trade in Counterfeits](https://doi.org/10.1787/1c04a64e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 October 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Forward-looking Scenarios of Climate Finance Provided and Mobilised by Developed Countries in 2021-2025 - Technical Note](https://doi.org/10.1787/a53aac3b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 October 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Scénarios prospectifs du financement climatique fourni et mobilisé par les pays développés en 2021-2025 - Note technique](https://doi.org/10.1787/a0655be2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 October 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+* [9 December 2021](#9-december-2021)
 
 ------
 
@@ -106,7 +33,7 @@ Tuesday 26 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 October 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
 
 ### Additional Information
 
@@ -249,16 +176,16 @@ Thursday 28 October 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -272,18 +199,18 @@ Thursday 28 October 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Format: *PDF*
 
 ------
 
@@ -296,9 +223,9 @@ Thursday 28 October 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 27 October 2021 at 10:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 October 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
 
 ### Additional Information
 
@@ -377,7 +304,7 @@ Monday 1 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
@@ -894,6 +821,33 @@ Monday 6 December 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 December 2021
+
+## [The Role of Firms in Wage Inequality - Policy Lessons from a Large Scale Cross-Country Study](https://doi.org/10.1787/7d9b2208-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
