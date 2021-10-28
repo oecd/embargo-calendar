@@ -2,48 +2,22 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 October 2021 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 October 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 October 2021](#26-october-2021)
 * [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
 * [29 October 2021](#29-october-2021)
-* [30 October 2021](#30-october-2021)
 * [1 November 2021](#1-november-2021)
+* [2 November 2021](#2-november-2021)
+* [4 November 2021](#4-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
 * [22 November 2021](#22-november-2021)
 * [23 November 2021](#23-november-2021)
 * [25 November 2021](#25-november-2021)
+* [30 November 2021](#30-november-2021)
 * [6 December 2021](#6-december-2021)
 * [9 December 2021](#9-december-2021)
-
-------
-
-# 26 October 2021
-
-## [Towards equity in school funding policies](https://doi.org/10.1787/6a3d127a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 October 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -60,7 +34,7 @@ Wednesday 27 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -83,7 +57,7 @@ Wednesday 27 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -106,7 +80,7 @@ Wednesday 27 October 2021 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 25 October 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -129,7 +103,7 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -152,7 +126,7 @@ Wednesday 27 October 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -177,7 +151,7 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
 
@@ -200,9 +174,9 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
 ### Additional Information
 
@@ -210,7 +184,7 @@ Thursday 28 October 2021 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -266,33 +240,6 @@ Friday 29 October 2021 at 8:00 | no launch event
 
 ------
 
-# 30 October 2021
-
-## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 30 October 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 1 November 2021
 
 ## [Managing Climate Risks, Facing up to Losses and Damages](https://doi.org/10.1787/55ea1cc9-en)
@@ -304,7 +251,7 @@ Monday 1 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 October 2021 at 20:21
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
 
@@ -314,6 +261,106 @@ Monday 1 November 2021 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 2 November 2021
+
+## [The Annual Climate Action Monitor - Helping Countries Advance Towards Net-Zero](https://doi.org/10.1787/5bcb405c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 November 2021 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 November 2021
+
+## [Fostering innovation in Iceland for the digital era](https://doi.org/10.1787/39c1b3d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Labelling and Information Schemes for the Circular Economy](https://doi.org/10.1787/abb32a06-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fitter Minds, Fitter Jobs - From Awareness to Change in Integrated Mental Health, Skills and Work Policies](https://doi.org/10.1787/a0815d0f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -421,6 +468,29 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ------
 
 # 22 November 2021
+
+## [Education Policy Outlook 2021 - Shaping Responsive and Resilient Education in a Changing World](https://doi.org/10.1787/75e40a16-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Promoting Education Decision Makers' Use of Evidence in Flanders](https://doi.org/10.1787/de604fde-en)
 
@@ -633,6 +703,33 @@ Thursday 25 November 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 30 November 2021
+
+## [Statistiques des recettes publiques 2021 - L'impact initial du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/ed5596c6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
