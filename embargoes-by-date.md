@@ -2,13 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 October 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 October 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 October 2021](#27-october-2021)
 * [28 October 2021](#28-october-2021)
-* [29 October 2021](#29-october-2021)
 * [1 November 2021](#1-november-2021)
 * [2 November 2021](#2-november-2021)
+* [3 November 2021](#3-november-2021)
 * [4 November 2021](#4-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
@@ -18,125 +17,6 @@ Data generated on | |
 * [30 November 2021](#30-november-2021)
 * [6 December 2021](#6-december-2021)
 * [9 December 2021](#9-december-2021)
-
-------
-
-# 27 October 2021
-
-## [Developing consumption-based emissions indicators from Agriculture, Forestry and Land-use (AFOLU) activities](https://doi.org/10.1787/b2b24307-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Global assessment of the carbon leakage implications of carbon taxes on agricultural emissions](https://doi.org/10.1787/fc304fad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Carbon leakage and agriculture - A literature review on emissions mitigation policies](https://doi.org/10.1787/9247f1e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 October 2021 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 October 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Driving Performance at Brazil’s Electricity Regulatory Agency](https://doi.org/10.1787/11824ef6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 October 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Impulsionando o Desempenho da Agência Nacional de Energia Elétrica do Brasil](https://doi.org/10.1787/c544286a-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 October 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 September 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -151,9 +31,9 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
@@ -174,9 +54,9 @@ Thursday 28 October 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
@@ -199,7 +79,7 @@ Thursday 28 October 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 October 2021 at 10:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 October 2021 at 19:58
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
@@ -208,33 +88,6 @@ Thursday 28 October 2021 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
-
-------
-
-------
-
-# 29 October 2021
-
-## [OECD Economic Surveys: China 2021](https://doi.org/10.1787/b0e499cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 29 October 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -251,9 +104,9 @@ Monday 1 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
@@ -269,25 +122,121 @@ Monday 1 November 2021 at 7:00 | no launch event
 
 # 2 November 2021
 
+## [Improving Higher Education in the Slovak Republic](https://doi.org/10.1787/259e23ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 November 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Supporting the Digital Transformation of Higher Education in Hungary](https://doi.org/10.1787/d30ab43f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 November 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [The Annual Climate Action Monitor - Helping Countries Advance Towards Net-Zero](https://doi.org/10.1787/5bcb405c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 November 2021 at 14:30 | no launch event
+Tuesday 2 November 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *DOCX, HTML, PDF*
+
+------
+
+## [L’Observateur annuel de l’action climatique - Aider les pays à progresser vers le zéro net](https://doi.org/10.1787/959807d0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 November 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *DOCX, HTML, PDF*
+
+------
+
+------
+
+# 3 November 2021
+
+## [Sustainability impact assessments of free trade agreements - A critical review](https://doi.org/10.1787/65b1a07e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -312,6 +261,29 @@ Thursday 4 November 2021 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Modulated fees for Extended Producer Responsibility schemes (EPR)](https://doi.org/10.1787/2a42f54b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -351,7 +323,7 @@ Thursday 4 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
 
@@ -442,7 +414,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Africa 2021 (en) | Statistiques des recettes publiques en Afrique 2021 - 1990-2019 (en) | 1990-2019](https://doi.org/10.1787/c511aa1e-en-fr)
+## [Revenue Statistics in Africa 2021 (en) || Statistiques des recettes publiques en Afrique 2021 - 1990-2019 (en) || 1990-2019](https://doi.org/10.1787/c511aa1e-en-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -451,15 +423,15 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English | French*
-* Availability: *Not yet available*
+* Language: *English || French*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -731,6 +703,29 @@ Tuesday 30 November 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2021 - The Initial Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/6e87f932-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
