@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 October 2021 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [International Migration Outlook 2021](https://doi.org/10.1787/29f23e9d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 October 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Perspectives des migrations internationales 2021](https://doi.org/10.1787/da2bbd99-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 October 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [How’s Life in Latin America? - Measuring Well-being for Policy Making](https://doi.org/10.1787/2965f4fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 October 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 October 2021 at 10:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Monday 1 November 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Managing Climate Risks, Facing up to Losses and Damages](https://doi.org/10.1787/55ea1cc9-en)
 
@@ -107,7 +38,7 @@ Tuesday 2 November 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Tuesday 2 November 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
 
 ### Additional Information
 
@@ -199,7 +130,7 @@ Wednesday 3 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
 
 ### Additional Information
 
