@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 November 2021 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 November 2021 at 21:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Managing Climate Risks, Facing up to Losses and Damages](https://doi.org/10.1787/55ea1cc9-en)
 
@@ -15,7 +15,7 @@ Monday 1 November 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -73,7 +73,7 @@ Tuesday 2 November 2021 at 8:00 | no launch event
 
 ------
 
-## [The Annual Climate Action Monitor - Helping Countries Advance Towards Net-Zero](https://doi.org/10.1787/5bcb405c-en)
+## [The Annual Climate Action Monitor - Helping Countries Advance Towards Net Zero](https://doi.org/10.1787/5bcb405c-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -82,9 +82,9 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
 
 ### Additional Information
 
@@ -234,6 +234,29 @@ Thursday 4 November 2021 at 10:00 | no launch event
 
 ------
 
+## [Transport Strategies for Net-Zero Systems by Design](https://doi.org/10.1787/0a20f779-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 November 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
 
 Embargo date | Launch date
@@ -243,7 +266,7 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 14 October 2021 at 20:18
+- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
 
