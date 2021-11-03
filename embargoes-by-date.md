@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 November 2021 at 21:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 November 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 November 2021](#1-november-2021)
 * [2 November 2021](#2-november-2021)
 * [3 November 2021](#3-november-2021)
 * [4 November 2021](#4-november-2021)
+* [5 November 2021](#5-november-2021)
 * [8 November 2021](#8-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
@@ -17,33 +17,8 @@ Data generated on | |
 * [30 November 2021](#30-november-2021)
 * [6 December 2021](#6-december-2021)
 * [9 December 2021](#9-december-2021)
-
-------
-
-# 1 November 2021
-
-## [Managing Climate Risks, Facing up to Losses and Damages](https://doi.org/10.1787/55ea1cc9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 November 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+* [14 December 2021](#14-december-2021)
+* [15 December 2021](#15-december-2021)
 
 ------
 
@@ -60,7 +35,7 @@ Tuesday 2 November 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -83,7 +58,7 @@ Tuesday 2 November 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -106,7 +81,7 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -129,7 +104,7 @@ Tuesday 2 November 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -184,6 +159,29 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [From hibernation to reallocation: Loan guarantees and their implications for post-COVID-19 productivity](https://doi.org/10.1787/2f4a4c20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -250,9 +248,9 @@ Thursday 4 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
+- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 October 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -261,6 +259,33 @@ Thursday 4 November 2021 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 5 November 2021
+
+## [Clean Energy Finance and Investment Policy Review of Viet Nam](https://doi.org/10.1787/61c33f7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 November 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -277,9 +302,9 @@ Monday 8 November 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
+- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
 
 ### Additional Information
 
@@ -891,6 +916,60 @@ Thursday 9 December 2021 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 December 2021
+
+## [Harmful Tax Practices – 2020 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/f376127b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 December 2021
+
+## [OECD Energy Investment Policy Review of Ukraine](https://doi.org/10.1787/6e6e58c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
