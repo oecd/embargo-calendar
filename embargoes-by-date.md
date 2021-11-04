@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 November 2021 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 November 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 November 2021](#2-november-2021)
 * [3 November 2021](#3-november-2021)
 * [4 November 2021](#4-november-2021)
 * [5 November 2021](#5-november-2021)
@@ -22,102 +21,6 @@ Data generated on | |
 
 ------
 
-# 2 November 2021
-
-## [Improving Higher Education in the Slovak Republic](https://doi.org/10.1787/259e23ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 November 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Supporting the Digital Transformation of Higher Education in Hungary](https://doi.org/10.1787/d30ab43f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 November 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The Annual Climate Action Monitor - Helping Countries Advance Towards Net Zero](https://doi.org/10.1787/5bcb405c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 November 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *DOCX, HTML, PDF*
-
-------
-
-## [L’Observateur annuel de l’action climatique - Aider les pays à progresser vers le zéro net](https://doi.org/10.1787/959807d0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 November 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *DOCX, HTML, PDF*
-
-------
-
-------
-
 # 3 November 2021
 
 ## [Sustainability impact assessments of free trade agreements - A critical review](https://doi.org/10.1787/65b1a07e-en)
@@ -131,7 +34,7 @@ Wednesday 3 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 1 November 2021 at 19:55
+- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
 
 ### Additional Information
 
@@ -275,17 +178,17 @@ Friday 5 November 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
+- [x] Exported to iLibrary Thursday 4 November 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -301,18 +204,18 @@ Monday 8 November 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 November 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
