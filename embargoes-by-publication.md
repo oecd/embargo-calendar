@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 November 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Sustainability impact assessments of free trade agreements - A critical review](https://doi.org/10.1787/65b1a07e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 5 November 2021 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Fostering innovation in Iceland for the digital era](https://doi.org/10.1787/39c1b3d9-en)
 
@@ -38,7 +15,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 29 October 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 4 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 November 2021 at 20:00
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Thursday 4 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -165,6 +142,29 @@ Friday 5 November 2021 at 8:00 | no launch event
 
 ------
 
+## [Building Resilience - New strategies for strengthening infrastructure resilience and maintenance](https://doi.org/10.1787/354aa2aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 November 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Transport Strategies for Net-Zero Systems by Design](https://doi.org/10.1787/0a20f779-en)
 
 Embargo date | Launch date
@@ -174,9 +174,9 @@ Monday 8 November 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 November 2021 at 20:22
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -184,6 +184,29 @@ Monday 8 November 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Health at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/ae3016b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
 ------
@@ -312,15 +335,15 @@ Monday 22 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -349,18 +372,41 @@ Monday 22 November 2021 at 14:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/973822b0-en)
+## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
+Thursday 25 November 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/973822b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -376,14 +422,14 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
+Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -399,14 +445,14 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
+Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -422,14 +468,14 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
+Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -445,14 +491,14 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
+Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -460,52 +506,6 @@ Tuesday 23 November 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d3fade82-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 October 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 October 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -805,6 +805,29 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d3fade82-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 December 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

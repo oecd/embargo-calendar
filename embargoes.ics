@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/65b1a07e-end3e63
-SUMMARY:Sustainability impact assessments of fre
- e trade agreements - A critical review
-DESCRIPTION:*Sustainability impact assessments of fr
- ee trade agreements - A critical review*
- \n\nDirectorate: Trade and Agriculture D
- irectorate\nLanguage: English\nDOI: http
- s://doi.org/10.1787/65b1a07e-en\nPublica
- tion type: Paper\nReleased as: PDF\n\nEm
- bargo date/time: Wednesday, 3 November 2
- 021, 6:00 (GMT)\n\n\niLibrary export: Fr
- iday, 29 October 2021, 18:22 (GMT)\nFree
- preview export: never\nOECD.org export: 
- Thursday, 4 November 2021, 18:56 (GMT)\n
- FTI loaded: ✓\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this afternoon at 20:45, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=65b1a07e-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211103T060000Z
-DTEND:20211103T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Sustainability impact assessme
- nts of free trade agreements - A critica
- l review
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/39c1b3d9-end3e120
+UID:10.1787/39c1b3d9-end3e63
 SUMMARY:Fostering innovation in Iceland for the 
  digital era
 DESCRIPTION:*Fostering innovation in Iceland for the
@@ -56,21 +14,21 @@ DESCRIPTION:*Fostering innovation in Iceland for the
  21, 6:00 (GMT)\n\n\niLibrary export: Thu
  rsday, 28 October 2021, 18:27 (GMT)\nFre
  epreview export: never\nOECD.org export:
-  Tuesday, 2 November 2021, 19:00 (GMT)\n
- FTI loaded: ✓\n\nFor more information se
- e: https://oecd.github.io/embargo-calend
- ar/embargoes-by-publication.html.\n\nPle
- ase note: This information was correct a
- s of this afternoon at 20:45, it is upda
- ted each night; therefore any subsequent
-  updates may not yet be visible here. Al
- so, please be aware that the different r
- eleased media (PDF, HTML, etc.) are not 
- necessarily released at the same time. F
- or complete and up-to-date information s
- ee here: http://kappa.oecd.org/v3/search
- ?term=39c1b3d9-en.
-DTSTAMP:20211104T204536Z
+  Friday, 5 November 2021, 18:57 (GMT)\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://oecd.github.io/embargo-calenda
+ r/embargoes-by-publication.html.\n\nPlea
+ se note: This information was correct as
+  of this afternoon at 21:18, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=39c1b3d9-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211104T060000Z
 DTEND:20211104T061500Z
 TRANSP:TRANSPARENT
@@ -84,7 +42,7 @@ DESCRIPTION:Reminder: Fostering innovation in Icelan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2f4a4c20-end3e175
+UID:10.1787/2f4a4c20-end3e119
 SUMMARY:From hibernation to reallocation: Loan g
  uarantees and their implications for pos
  t-COVID-19 productivity
@@ -98,21 +56,21 @@ DESCRIPTION:*From hibernation to reallocation: Loan
   November 2021, 6:00 (GMT)\n\n\niLibrary
   export: Wednesday, 3 November 2021, 19:
  20 (GMT)\nFreepreview export: never\nOEC
- D.org export: Wednesday, 3 November 2021
- , 18:57 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 20
- :45, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=2f4a4c20-en.
-DTSTAMP:20211104T204536Z
+ D.org export: Friday, 5 November 2021, 1
+ 8:57 (GMT)\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 21:18
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=2f4a4c20-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211104T060000Z
 DTEND:20211104T061500Z
 TRANSP:TRANSPARENT
@@ -127,7 +85,7 @@ DESCRIPTION:Reminder: From hibernation to reallocati
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a42f54b-end3e230
+UID:10.1787/2a42f54b-end3e175
 SUMMARY:Modulated fees for Extended Producer Res
  ponsibility schemes (EPR)
 DESCRIPTION:*Modulated fees for Extended Producer Re
@@ -139,21 +97,21 @@ DESCRIPTION:*Modulated fees for Extended Producer Re
  ay, 4 November 2021, 6:00 (GMT)\n\n\niLi
  brary export: Friday, 29 October 2021, 1
  8:22 (GMT)\nFreepreview export: never\nO
- ECD.org export: Tuesday, 2 November 2021
- , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 20
- :45, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=2a42f54b-en.
-DTSTAMP:20211104T204536Z
+ ECD.org export: Friday, 5 November 2021,
+  18:57 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 21:
+ 18, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=2a42f54b-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211104T060000Z
 DTEND:20211104T061500Z
 TRANSP:TRANSPARENT
@@ -167,7 +125,7 @@ DESCRIPTION:Reminder: Modulated fees for Extended Pr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/abb32a06-end3e286
+UID:10.1787/abb32a06-end3e231
 SUMMARY:Labelling and Information Schemes for th
  e Circular Economy
 DESCRIPTION:*Labelling and Information Schemes for t
@@ -179,21 +137,21 @@ DESCRIPTION:*Labelling and Information Schemes for t
  ovember 2021, 6:00 (GMT)\n\n\niLibrary e
  xport: Thursday, 28 October 2021, 18:27 
  (GMT)\nFreepreview export: never\nOECD.o
- rg export: Tuesday, 2 November 2021, 19:
- 00 (GMT)\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:45, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=abb32a06-en.
-DTSTAMP:20211104T204536Z
+ rg export: Friday, 5 November 2021, 18:5
+ 7 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 21:18, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=abb32a06-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211104T060000Z
 DTEND:20211104T061500Z
 TRANSP:TRANSPARENT
@@ -207,7 +165,7 @@ DESCRIPTION:Reminder: Labelling and Information Sche
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a0815d0f-end3e2044
+UID:10.1787/a0815d0f-end3e1997
 SUMMARY:Fitter Minds, Fitter Jobs - From Awarene
  ss to Change in Integrated Mental Health
  , Skills and Work Policies
@@ -222,22 +180,21 @@ DESCRIPTION:*Fitter Minds, Fitter Jobs - From Awaren
  sday, 4 November 2021, 10:00 (GMT)\n\n\n
  iLibrary export: Wednesday, 3 November 2
  021, 19:20 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: Wednesday, 3 Novem
- ber 2021, 18:57 (GMT)\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 20:45, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=a0815d0f-en
- .
-DTSTAMP:20211104T204536Z
+ ver\nOECD.org export: Friday, 5 November
+  2021, 18:57 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 21:18, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=a0815d0f-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211104T100000Z
 DTEND:20211104T101500Z
 TRANSP:TRANSPARENT
@@ -252,7 +209,7 @@ DESCRIPTION:Reminder: Fitter Minds, Fitter Jobs - Fr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61c33f7f-end3e5468
+UID:10.1787/61c33f7f-end3e5425
 SUMMARY:Clean Energy Finance and Investment Poli
  cy Review of Viet Nam
 DESCRIPTION:*Clean Energy Finance and Investment Pol
@@ -270,7 +227,7 @@ DESCRIPTION:*Clean Energy Finance and Investment Pol
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:45, it is updated each night; t
+ on at 21:18, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -279,7 +236,7 @@ DESCRIPTION:*Clean Energy Finance and Investment Pol
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=61c33f7f-en
  .
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211105T080000Z
 DTEND:20211105T081500Z
 TRANSP:TRANSPARENT
@@ -293,7 +250,50 @@ DESCRIPTION:Reminder: Clean Energy Finance and Inves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0a20f779-end3e6337
+UID:10.1787/354aa2aa-end3e5914
+SUMMARY:Building Resilience - New strategies for
+  strengthening infrastructure resilience
+  and maintenance
+DESCRIPTION:*Building Resilience - New strategies fo
+ r strengthening infrastructure resilienc
+ e and maintenance*\n\nDirectorate: Direc
+ torate for Public Governance\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/35
+ 4aa2aa-en\nPublication type: Paper\nRele
+ ased as: PDF\n\nEmbargo date/time: Monda
+ y, 8 November 2021, 7:00 (GMT)\n\n\niLib
+ rary export: Friday, 5 November 2021, 19
+ :50 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 5 November 2021, 
+ 18:57 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 21:1
+ 8, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=354aa2aa-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211108T070000Z
+DTEND:20211108T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Building Resilience - New stra
+ tegies for strengthening infrastructure 
+ resilience and maintenance
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0a20f779-end3e6350
 SUMMARY:Transport Strategies for Net-Zero System
  s by Design
 DESCRIPTION:*Transport Strategies for Net-Zero Syste
@@ -303,24 +303,24 @@ DESCRIPTION:*Transport Strategies for Net-Zero Syste
  ication type: Stand-alone monograph\nRel
  eased as: ePub, HTML, PDF\n\nEmbargo dat
  e/time: Monday, 8 November 2021, 8:00 (G
- MT)\n\n\niLibrary export: Thursday, 4 No
- vember 2021, 19:22 (GMT)\nFreepreview ex
- port: never\nOECD.org export: Thursday, 
- 4 November 2021, 18:56 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 20:45, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=0a20
- f779-en.
-DTSTAMP:20211104T204536Z
+ MT)\n\n\niLibrary export: Friday, 5 Nove
+ mber 2021, 19:50 (GMT)\nFreepreview expo
+ rt: never\nOECD.org export: Friday, 5 No
+ vember 2021, 18:57 (GMT)\nFTI loaded: ✓\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 21:18, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=0a20f779
+ -en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211108T080000Z
 DTEND:20211108T081500Z
 TRANSP:TRANSPARENT
@@ -334,7 +334,48 @@ DESCRIPTION:Reminder: Transport Strategies for Net-Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/90bac5f5-end3e7365
+UID:10.1787/ae3016b9-end3e12255
+SUMMARY:Health at a Glance 2021 - OECD Indicator
+ s
+DESCRIPTION:*Health at a Glance 2021 - OECD Indicato
+ rs*\n\nDirectorate: Directorate for Empl
+ oyment, Labour and Social Affairs\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/ae3016b9-en\nPublication type: Book\n
+ Released as: ePub, HTML, PDF\n\nEmbargo 
+ date/time: Tuesday, 9 November 2021, 10:
+ 00 (GMT)\n\n\niLibrary export: Friday, 5
+  November 2021, 19:50 (GMT)\nFreepreview
+  export: never\nOECD.org export: Friday,
+  5 November 2021, 18:57 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 21:18, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=ae3
+ 016b9-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211109T100000Z
+DTEND:20211109T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Health at a Glance 2021 - OECD
+  Indicators
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/90bac5f5-end3e28077
 SUMMARY:Peer Review of the Automatic Exchange of
   Financial Account Information 2021
 DESCRIPTION:*Peer Review of the Automatic Exchange o
@@ -353,7 +394,7 @@ DESCRIPTION:*Peer Review of the Automatic Exchange o
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:45, it is updated ea
+ his afternoon at 21:18, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -362,7 +403,7 @@ DESCRIPTION:*Peer Review of the Automatic Exchange o
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  90bac5f5-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211117T110000Z
 DTEND:20211117T111500Z
 TRANSP:TRANSPARENT
@@ -377,7 +418,7 @@ DESCRIPTION:Reminder: Peer Review of the Automatic E
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5ee71f34-end3e7419
+UID:10.1787/5ee71f34-end3e28131
 SUMMARY:AI and the Future of Skills, Volume 1 - 
  Capabilities and Assessments
 DESCRIPTION:*AI and the Future of Skills, Volume 1 -
@@ -394,7 +435,7 @@ DESCRIPTION:*AI and the Future of Skills, Volume 1 -
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:45, it is updated
+ f this afternoon at 21:18, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -403,7 +444,7 @@ DESCRIPTION:*AI and the Future of Skills, Volume 1 -
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=5ee71f34-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211118T100000Z
 DTEND:20211118T101500Z
 TRANSP:TRANSPARENT
@@ -417,7 +458,7 @@ DESCRIPTION:Reminder: AI and the Future of Skills, V
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3023ed40-end3e7579
+UID:10.1787/3023ed40-end3e28291
 SUMMARY:Does Inequality Matter?  - How People Pe
  rceive Economic Disparities and Social M
  obility
@@ -436,7 +477,7 @@ DESCRIPTION:*Does Inequality Matter? - How People Pe
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:45, i
+ correct as of this afternoon at 21:18, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -445,7 +486,7 @@ DESCRIPTION:*Does Inequality Matter? - How People Pe
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=3023ed40-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211118T100000Z
 DTEND:20211118T101500Z
 TRANSP:TRANSPARENT
@@ -460,7 +501,7 @@ DESCRIPTION:Reminder: Does Inequality Matter?  - How
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c511aa1e-en-frd3e7632
+UID:10.1787/c511aa1e-en-frd3e28344
 SUMMARY:Revenue Statistics in Africa 2021 (en) |
  | Statistiques des recettes publiques en
   Afrique 2021 - 1990-2019 (en) || 1990-2
@@ -482,7 +523,7 @@ DESCRIPTION:*Revenue Statistics in Africa 2021 (en)
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:45, it is updated each night; t
+ on at 21:18, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -491,7 +532,7 @@ DESCRIPTION:*Revenue Statistics in Africa 2021 (en)
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=c511aa1e-en
  -fr.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211118T100000Z
 DTEND:20211118T101500Z
 TRANSP:TRANSPARENT
@@ -507,7 +548,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Africa 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75e40a16-end3e7740
+UID:10.1787/75e40a16-end3e28452
 SUMMARY:Education Policy Outlook 2021 - Shaping 
  Responsive and Resilient Education in a 
  Changing World
@@ -525,7 +566,7 @@ DESCRIPTION:*Education Policy Outlook 2021 - Shaping
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:45, it is u
+ t as of this afternoon at 21:18, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -534,7 +575,7 @@ DESCRIPTION:*Education Policy Outlook 2021 - Shaping
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=75e40a16-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211122T083000Z
 DTEND:20211122T084500Z
 TRANSP:TRANSPARENT
@@ -549,7 +590,7 @@ DESCRIPTION:Reminder: Education Policy Outlook 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/de604fde-end3e7846
+UID:10.1787/de604fde-end3e28557
 SUMMARY:Promoting Education Decision Makers' Use
   of Evidence in Flanders
 DESCRIPTION:*Promoting Education Decision Makers' Us
@@ -559,22 +600,24 @@ DESCRIPTION:*Promoting Education Decision Makers' Us
  /10.1787/de604fde-en\nPublication type: 
  Book\nReleased as: Paperback, PDF\n\nEmb
  argo date/time: Monday, 22 November 2021
- , 10:00 (GMT)\n\n\niLibrary export: neve
- r\nFreepreview export: never\nOECD.org e
- xport: never\nFTI loaded: ✗\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 20:
- 45, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=de604fde-en.
-DTSTAMP:20211104T204536Z
+ , 10:00 (GMT)\n\n\niLibrary export: Frid
+ ay, 5 November 2021, 19:50 (GMT)\nFreepr
+ eview export: never\nOECD.org export: Fr
+ iday, 5 November 2021, 18:57 (GMT)\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 21:18, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=de604fde-en.
+DTSTAMP:20211105T211827Z
 DTSTART:20211122T100000Z
 DTEND:20211122T101500Z
 TRANSP:TRANSPARENT
@@ -588,7 +631,7 @@ DESCRIPTION:Reminder: Promoting Education Decision M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5b2b0ee8-end3e7898
+UID:10.1787/5b2b0ee8-end3e28612
 SUMMARY:Achieving SDG Results in Development Co-
  operation - Summary for Policy Makers
 DESCRIPTION:*Achieving SDG Results in Development Co
@@ -605,7 +648,7 @@ DESCRIPTION:*Achieving SDG Results in Development Co
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:45, it is updated eac
+ is afternoon at 21:18, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -614,7 +657,7 @@ DESCRIPTION:*Achieving SDG Results in Development Co
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  b2b0ee8-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211122T140000Z
 DTEND:20211122T141500Z
 TRANSP:TRANSPARENT
@@ -629,7 +672,49 @@ DESCRIPTION:Reminder: Achieving SDG Results in Devel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/973822b0-end3e8057
+UID:10.1787/1e1ecb53-end3e29037
+SUMMARY:COVID-19 and Well-being - Life in the Pa
+ ndemic
+DESCRIPTION:*COVID-19 and Well-being - Life in the P
+ andemic*\n\nDirectorate: Centre for Well
+ -Being, Inclusion, Sustainability and Eq
+ ual Opportunity\nLanguage: English\nDOI:
+  https://doi.org/10.1787/1e1ecb53-en\nPu
+ blication type: Stand-alone monograph\nR
+ eleased as: Paperback, PDF\n\nEmbargo da
+ te/time: Thursday, 25 November 2021, 9:0
+ 0 (GMT)\n\n\niLibrary export: Friday, 5 
+ November 2021, 19:50 (GMT)\nFreepreview 
+ export: never\nOECD.org export: Friday, 
+ 5 November 2021, 18:57 (GMT)\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 21:18, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=1e1e
+ cb53-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T090000Z
+DTEND:20211125T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: COVID-19 and Well-being - Life
+  in the Pandemic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/973822b0-end3e29092
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Côte 
  d'Ivoire 2021 (Second Round, Phase 1) - 
@@ -644,30 +729,30 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  nLanguage: English\nDOI: https://doi.org
  /10.1787/973822b0-en\nPublication type: 
  Book\nReleased as: Paperback, PDF\n\nEmb
- argo date/time: Tuesday, 23 November 202
- 1, 11:00 (GMT)\n\n\niLibrary export: Tue
- sday, 26 October 2021, 18:20 (GMT)\nFree
+ argo date/time: Thursday, 25 November 20
+ 21, 11:00 (GMT)\n\n\niLibrary export: Fr
+ iday, 5 November 2021, 19:50 (GMT)\nFree
  preview export: never\nOECD.org export: 
- Tuesday, 26 October 2021, 17:56 (GMT)\nF
- TI loaded: ✗\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 20:45, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=973822b0-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
+ Friday, 5 November 2021, 18:57 (GMT)\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 21:18, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=973822b0-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T110000Z
+DTEND:20211125T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -679,7 +764,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/307e9625-frd3e8166
+UID:10.1787/307e9625-frd3e29147
 SUMMARY:Forum mondial sur la transparence et l’é
  change de renseignements à des fins fisc
  ales : Côte d'Ivoire 2021 (Deuxième cycl
@@ -696,30 +781,30 @@ DESCRIPTION:*Forum mondial sur la transparence et l’
  rench\nDOI: https://doi.org/10.1787/307e
  9625-fr\nPublication type: Book\nRelease
  d as: Paperback, PDF\n\nEmbargo date/tim
- e: Tuesday, 23 November 2021, 11:00 (GMT
- )\n\n\niLibrary export: Tuesday, 26 Octo
- ber 2021, 18:20 (GMT)\nFreepreview expor
- t: never\nOECD.org export: Tuesday, 26 O
- ctober 2021, 17:56 (GMT)\nFTI loaded: ✗\
- n\nFor more information see: https://oec
- d.github.io/embargo-calendar/embargoes-b
- y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 20:45, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=307e9625
- -fr.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
+ e: Thursday, 25 November 2021, 11:00 (GM
+ T)\n\n\niLibrary export: Friday, 5 Novem
+ ber 2021, 19:50 (GMT)\nFreepreview expor
+ t: never\nOECD.org export: Friday, 5 Nov
+ ember 2021, 18:57 (GMT)\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 21:18, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=307e9625-
+ fr.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T110000Z
+DTEND:20211125T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -732,7 +817,7 @@ DESCRIPTION:Reminder: Forum mondial sur la transpare
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3cff19b1-end3e8221
+UID:10.1787/3cff19b1-end3e29202
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Tanza
  nia 2021 (Second Round, Phase 1) - Peer 
@@ -747,30 +832,30 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  uage: English\nDOI: https://doi.org/10.1
  787/3cff19b1-en\nPublication type: Book\
  nReleased as: Paperback, PDF\n\nEmbargo 
- date/time: Tuesday, 23 November 2021, 11
- :00 (GMT)\n\n\niLibrary export: Tuesday,
-  26 October 2021, 18:20 (GMT)\nFreeprevi
- ew export: never\nOECD.org export: Tuesd
- ay, 26 October 2021, 17:56 (GMT)\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 20:45, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 3cff19b1-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
+ date/time: Thursday, 25 November 2021, 1
+ 1:00 (GMT)\n\n\niLibrary export: Friday,
+  5 November 2021, 19:50 (GMT)\nFreeprevi
+ ew export: never\nOECD.org export: Frida
+ y, 5 November 2021, 18:57 (GMT)\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 21:18, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=3
+ cff19b1-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T110000Z
+DTEND:20211125T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -782,7 +867,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbc82e22-end3e8329
+UID:10.1787/cbc82e22-end3e29258
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Moldo
  va 2021 (Second Round, Phase 1) - Peer R
@@ -797,30 +882,30 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  age: English\nDOI: https://doi.org/10.17
  87/cbc82e22-en\nPublication type: Book\n
  Released as: Paperback, PDF\n\nEmbargo d
- ate/time: Tuesday, 23 November 2021, 11:
- 00 (GMT)\n\n\niLibrary export: Tuesday, 
- 26 October 2021, 18:20 (GMT)\nFreeprevie
- w export: never\nOECD.org export: Tuesda
- y, 26 October 2021, 17:56 (GMT)\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 20:45, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=c
- bc82e22-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
+ ate/time: Thursday, 25 November 2021, 11
+ :00 (GMT)\n\n\niLibrary export: Friday, 
+ 5 November 2021, 19:50 (GMT)\nFreeprevie
+ w export: never\nOECD.org export: Friday
+ , 5 November 2021, 18:57 (GMT)\nFTI load
+ ed: ✗\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 21:18, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=cb
+ c82e22-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T110000Z
+DTEND:20211125T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -832,7 +917,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f88fceeb-end3e8384
+UID:10.1787/f88fceeb-end3e29313
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Kenya
   2021 (Second Round, Phase 1) - Peer Rev
@@ -847,30 +932,30 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  e: English\nDOI: https://doi.org/10.1787
  /f88fceeb-en\nPublication type: Book\nRe
  leased as: Paperback, PDF\n\nEmbargo dat
- e/time: Tuesday, 23 November 2021, 11:00
-  (GMT)\n\n\niLibrary export: Tuesday, 26
-  October 2021, 18:20 (GMT)\nFreepreview 
- export: never\nOECD.org export: Tuesday,
-  26 October 2021, 17:56 (GMT)\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 20:45, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=f88
- fceeb-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
+ e/time: Thursday, 25 November 2021, 11:0
+ 0 (GMT)\n\n\niLibrary export: Friday, 5 
+ November 2021, 19:50 (GMT)\nFreepreview 
+ export: never\nOECD.org export: Friday, 
+ 5 November 2021, 18:57 (GMT)\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 21:18, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=f88f
+ ceeb-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211125T110000Z
+DTEND:20211125T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -882,97 +967,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d3fade82-end3e8440
-SUMMARY:Global Forum on Transparency and Exchang
- e of Information for Tax Purposes: Briti
- sh Virgin Islands 2021 (Second Round, Ph
- ase 1) - Peer Review Report on the Excha
- nge of Information on Request
-DESCRIPTION:*Global Forum on Transparency and Exchan
- ge of Information for Tax Purposes: Brit
- ish Virgin Islands 2021 (Second Round, P
- hase 1) - Peer Review Report on the Exch
- ange of Information on Request*\n\nDirec
- torate: Centre for Tax Policy and Admini
- stration\nLanguage: English\nDOI: https:
- //doi.org/10.1787/d3fade82-en\nPublicati
- on type: Book\nReleased as: Paperback, P
- DF\n\nEmbargo date/time: Tuesday, 23 Nov
- ember 2021, 11:00 (GMT)\n\n\niLibrary ex
- port: Tuesday, 26 October 2021, 18:20 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Tuesday, 26 October 2021, 17:56
-  (GMT)\nFTI loaded: ✗\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:45, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=d3fade82-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211123T110000Z
-DTEND:20211123T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Global Forum on Transparency a
- nd Exchange of Information for Tax Purpo
- ses: British Virgin Islands 2021 (Second
-  Round, Phase 1) - Peer Review Report on
-  the Exchange of Information on Request
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1e1ecb53-end3e8654
-SUMMARY:COVID-19 and Well-being - Life in the Pa
- ndemic
-DESCRIPTION:*COVID-19 and Well-being - Life in the P
- andemic*\n\nDirectorate: Centre for Well
- -Being, Inclusion, Sustainability and Eq
- ual Opportunity\nLanguage: English\nDOI:
-  https://doi.org/10.1787/1e1ecb53-en\nPu
- blication type: Stand-alone monograph\nR
- eleased as: Paperback, PDF\n\nEmbargo da
- te/time: Thursday, 25 November 2021, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✗\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:45, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=1e1ecb53-en.
-DTSTAMP:20211104T204536Z
-DTSTART:20211125T090000Z
-DTEND:20211125T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: COVID-19 and Well-being - Life
-  in the Pandemic
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ed5596c6-frd3e8761
+UID:10.1787/ed5596c6-frd3e29421
 SUMMARY:Statistiques des recettes publiques 2021
   - L'impact initial du COVID-19 sur les 
  recettes fiscales de l'OCDE
@@ -991,7 +986,7 @@ DESCRIPTION:*Statistiques des recettes publiques 202
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:45, it is updated each night; the
+  at 21:18, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -999,7 +994,7 @@ DESCRIPTION:*Statistiques des recettes publiques 202
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=ed5596c6-fr.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211130T100000Z
 DTEND:20211130T101500Z
 TRANSP:TRANSPARENT
@@ -1014,7 +1009,7 @@ DESCRIPTION:Reminder: Statistiques des recettes publ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e87f932-end3e8814
+UID:10.1787/6e87f932-end3e29474
 SUMMARY:Revenue Statistics 2021 - The Initial Im
  pact of COVID-19 on OECD Tax Revenues
 DESCRIPTION:*Revenue Statistics 2021 - The Initial I
@@ -1031,7 +1026,7 @@ DESCRIPTION:*Revenue Statistics 2021 - The Initial I
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:45, it is updated each night; the
+  at 21:18, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1039,7 +1034,7 @@ DESCRIPTION:*Revenue Statistics 2021 - The Initial I
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=6e87f932-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211130T100000Z
 DTEND:20211130T101500Z
 TRANSP:TRANSPARENT
@@ -1054,7 +1049,7 @@ DESCRIPTION:Reminder: Revenue Statistics 2021 - The
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd56cc8d-end3e8867
+UID:10.1787/fd56cc8d-end3e29527
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Isle of Man (
  Stage 2) - Inclusive Framework on BEPS: 
@@ -1074,7 +1069,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:45, it is up
+  as of this afternoon at 21:18, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1083,7 +1078,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=fd56cc8d-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1099,7 +1094,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6933c16a-end3e8920
+UID:10.1787/6933c16a-end3e29581
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Guernsey (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -1119,7 +1114,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 20:45, it is updat
+  of this afternoon at 21:18, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1128,7 +1123,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=6933c16a-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1144,7 +1139,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/37a6cb02-end3e8973
+UID:10.1787/37a6cb02-end3e29634
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Jersey (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -1164,7 +1159,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:45, it is updated
+ f this afternoon at 21:18, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1173,7 +1168,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=37a6cb02-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1189,7 +1184,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22b43680-end3e9080
+UID:10.1787/22b43680-end3e29740
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, San Marino (S
  tage 2) - Inclusive Framework on BEPS: A
@@ -1209,7 +1204,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:45, it is upd
+ as of this afternoon at 21:18, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1218,7 +1213,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=22b43680-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1234,7 +1229,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83469e1b-end3e9345
+UID:10.1787/83469e1b-end3e30006
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Brunei Daruss
  alam (Stage 2) - Inclusive Framework on 
@@ -1254,7 +1249,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:45, it
+ orrect as of this afternoon at 21:18, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1263,7 +1258,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=83469e1b-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1279,7 +1274,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2d772d4f-end3e9452
+UID:10.1787/2d772d4f-end3e30112
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Monaco (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -1299,7 +1294,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:45, it is updated
+ f this afternoon at 21:18, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1308,7 +1303,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=2d772d4f-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1324,7 +1319,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/577cb1f7-end3e9505
+UID:10.1787/577cb1f7-end3e30165
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Serbia (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -1344,7 +1339,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:45, it is updated
+ f this afternoon at 21:18, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1353,7 +1348,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=577cb1f7-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1369,7 +1364,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/29b97fc3-end3e9664
+UID:10.1787/29b97fc3-end3e30325
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Curaçao (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1389,7 +1384,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:45, it is update
+ of this afternoon at 21:18, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -1398,7 +1393,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=29b97fc3-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211206T100000Z
 DTEND:20211206T101500Z
 TRANSP:TRANSPARENT
@@ -1414,7 +1409,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d9b2208-end3e9771
+UID:10.1787/7d9b2208-end3e30431
 SUMMARY:The Role of Firms in Wage Inequality - P
  olicy Lessons from a Large Scale Cross-C
  ountry Study
@@ -1432,7 +1427,7 @@ DESCRIPTION:*The Role of Firms in Wage Inequality -
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:45, it is u
+ t as of this afternoon at 21:18, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1441,7 +1436,7 @@ DESCRIPTION:*The Role of Firms in Wage Inequality -
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=7d9b2208-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211209T080000Z
 DTEND:20211209T081500Z
 TRANSP:TRANSPARENT
@@ -1456,7 +1451,7 @@ DESCRIPTION:Reminder: The Role of Firms in Wage Ineq
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f376127b-end3e9824
+UID:10.1787/f376127b-end3e30484
 SUMMARY:Harmful Tax Practices – 2020 Peer Review
   Reports on the Exchange of Information 
  on Tax Rulings - Inclusive Framework on 
@@ -1476,7 +1471,7 @@ DESCRIPTION:*Harmful Tax Practices – 2020 Peer Revie
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:45, 
+  correct as of this afternoon at 21:18, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1485,7 +1480,7 @@ DESCRIPTION:*Harmful Tax Practices – 2020 Peer Revie
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=f376127b-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211214T100000Z
 DTEND:20211214T101500Z
 TRANSP:TRANSPARENT
@@ -1501,7 +1496,7 @@ DESCRIPTION:Reminder: Harmful Tax Practices – 2020 P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e6e58c6-end3e9982
+UID:10.1787/6e6e58c6-end3e30643
 SUMMARY:OECD Energy Investment Policy Review of 
  Ukraine
 DESCRIPTION:*OECD Energy Investment Policy Review of
@@ -1518,7 +1513,7 @@ DESCRIPTION:*OECD Energy Investment Policy Review of
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:45, it is updated each nig
+ ternoon at 21:18, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -1527,7 +1522,7 @@ DESCRIPTION:*OECD Energy Investment Policy Review of
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=6e6e58
  c6-en.
-DTSTAMP:20211104T204536Z
+DTSTAMP:20211105T211827Z
 DTSTART:20211215T080000Z
 DTEND:20211215T081500Z
 TRANSP:TRANSPARENT
@@ -1538,6 +1533,56 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: OECD Energy Investment Policy 
  Review of Ukraine
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d3fade82-end3e30695
+SUMMARY:Global Forum on Transparency and Exchang
+ e of Information for Tax Purposes: Briti
+ sh Virgin Islands 2021 (Second Round, Ph
+ ase 1) - Peer Review Report on the Excha
+ nge of Information on Request
+DESCRIPTION:*Global Forum on Transparency and Exchan
+ ge of Information for Tax Purposes: Brit
+ ish Virgin Islands 2021 (Second Round, P
+ hase 1) - Peer Review Report on the Exch
+ ange of Information on Request*\n\nDirec
+ torate: Centre for Tax Policy and Admini
+ stration\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/d3fade82-en\nPublicati
+ on type: Book\nReleased as: Paperback, P
+ DF\n\nEmbargo date/time: Tuesday, 21 Dec
+ ember 2021, 11:00 (GMT)\n\n\niLibrary ex
+ port: Friday, 5 November 2021, 19:50 (GM
+ T)\nFreepreview export: never\nOECD.org 
+ export: Friday, 5 November 2021, 18:57 (
+ GMT)\nFTI loaded: ✗\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 21:18, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=d3fade82-en.
+DTSTAMP:20211105T211827Z
+DTSTART:20211221T110000Z
+DTEND:20211221T111500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Global Forum on Transparency a
+ nd Exchange of Information for Tax Purpo
+ ses: British Virgin Islands 2021 (Second
+  Round, Phase 1) - Peer Review Report on
+  the Exchange of Information on Request
 END:VALARM
 END:VEVENT
 END:VCALENDAR
