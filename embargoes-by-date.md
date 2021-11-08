@@ -2,174 +2,26 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 November 2021 at 21:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 8 November 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 November 2021](#4-november-2021)
-* [5 November 2021](#5-november-2021)
 * [8 November 2021](#8-november-2021)
 * [9 November 2021](#9-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
 * [22 November 2021](#22-november-2021)
 * [25 November 2021](#25-november-2021)
+* [29 November 2021](#29-november-2021)
 * [30 November 2021](#30-november-2021)
 * [6 December 2021](#6-december-2021)
 * [9 December 2021](#9-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
-* [21 December 2021](#21-december-2021)
-
-------
-
-# 4 November 2021
-
-## [Fostering innovation in Iceland for the digital era](https://doi.org/10.1787/39c1b3d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [From hibernation to reallocation: Loan guarantees and their implications for post-COVID-19 productivity](https://doi.org/10.1787/2f4a4c20-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Modulated fees for Extended Producer Responsibility schemes (EPR)](https://doi.org/10.1787/2a42f54b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Labelling and Information Schemes for the Circular Economy](https://doi.org/10.1787/abb32a06-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 October 2021 at 20:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fitter Minds, Fitter Jobs - From Awareness to Change in Integrated Mental Health, Skills and Work Policies](https://doi.org/10.1787/a0815d0f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-------
-
-# 5 November 2021
-
-## [Clean Energy Finance and Investment Policy Review of Viet Nam](https://doi.org/10.1787/61c33f7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 November 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 November 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
 # 8 November 2021
 
-## [Building Resilience - New strategies for strengthening infrastructure resilience and maintenance](https://doi.org/10.1787/354aa2aa-en)
+## [Building resilience - New strategies for strengthening infrastructure resilience and maintenance](https://doi.org/10.1787/354aa2aa-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -178,9 +30,9 @@ Monday 8 November 2021 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
 
 ### Additional Information
 
@@ -223,20 +75,20 @@ Monday 8 November 2021 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 9 November 2021 at 10:00 | no launch event
+Tuesday 9 November 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -245,6 +97,29 @@ Tuesday 9 November 2021 at 10:00 | no launch event
 ------
 
 # 17 November 2021
+
+## [World Trade Report 2021 - Economic resilience and trade](https://doi.org/10.30875/6c551ba0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 November 2021 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Non applicable*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
 
@@ -282,17 +157,40 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: France 2021](https://doi.org/10.1787/289a0a17-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -305,15 +203,15 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -451,7 +349,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
@@ -474,7 +372,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
@@ -497,7 +395,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
@@ -520,7 +418,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
@@ -543,7 +441,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
@@ -554,6 +452,33 @@ Thursday 25 November 2021 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 November 2021
+
+## [Mobilising Evidence at the Centre of Government in Lithuania - Strengthening Decision Making and Policy Evaluation for Long-term Development](https://doi.org/10.1787/323e3500-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -872,33 +797,6 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 21 December 2021
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d3fade82-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 December 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
