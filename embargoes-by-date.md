@@ -2,17 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 November 2021 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 9 November 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 November 2021](#8-november-2021)
 * [9 November 2021](#9-november-2021)
+* [12 November 2021](#12-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
 * [22 November 2021](#22-november-2021)
+* [24 November 2021](#24-november-2021)
 * [25 November 2021](#25-november-2021)
 * [29 November 2021](#29-november-2021)
 * [30 November 2021](#30-november-2021)
+* [3 December 2021](#3-december-2021)
 * [6 December 2021](#6-december-2021)
+* [7 December 2021](#7-december-2021)
 * [9 December 2021](#9-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
@@ -32,7 +36,7 @@ Monday 8 November 2021 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 November 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
@@ -55,7 +59,7 @@ Monday 8 November 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
@@ -80,9 +84,9 @@ Tuesday 9 November 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
@@ -91,6 +95,33 @@ Tuesday 9 November 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 12 November 2021
+
+## [Integrating Environmental and Climate Action into Development Co-operation - Reporting on DAC Members’ High-Level Meeting Commitments](https://doi.org/10.1787/285905b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -202,41 +233,18 @@ Thursday 18 November 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics in Africa 2021 (en) || Statistiques des recettes publiques en Afrique 2021 - 1990-2019 (en) || 1990-2019](https://doi.org/10.1787/c511aa1e-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 October 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 October 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -315,6 +323,33 @@ Monday 22 November 2021 at 14:00 | no launch event
 
 ------
 
+# 24 November 2021
+
+## [Building Tax Culture, Compliance and Citizenship, Second Edition - A Global Source Book on Taxpayer Education](https://doi.org/10.1787/18585eb1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 25 November 2021
 
 ## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
@@ -326,9 +361,9 @@ Thursday 25 November 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
@@ -495,15 +530,15 @@ Tuesday 30 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -518,17 +553,44 @@ Tuesday 30 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 3 December 2021
+
+## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 December 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -722,6 +784,33 @@ Monday 6 December 2021 at 10:00 | no launch event
 
 ------
 
+# 7 December 2021
+
+## [A Chemicals Perspective on Designing with Sustainable Plastics  - Goals, Considerations and Trade-offs](https://doi.org/10.1787/f2ba8ff3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 December 2021 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 9 December 2021
 
 ## [The Role of Firms in Wage Inequality - Policy Lessons from a Large Scale Cross-Country Study](https://doi.org/10.1787/7d9b2208-en)
@@ -744,6 +833,29 @@ Thursday 9 December 2021 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [ Le rôle des entreprises dans les inégalités salariales (version abrégée) - Enseignements d’une étude internationale à grande échelle](https://doi.org/10.1787/3086d334-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
