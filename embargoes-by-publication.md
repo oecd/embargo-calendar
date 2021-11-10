@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 November 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Building resilience - New strategies for strengthening infrastructure resilience and maintenance](https://doi.org/10.1787/354aa2aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 November 2021 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Transport Strategies for Net-Zero Systems by Design](https://doi.org/10.1787/0a20f779-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 November 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Wednesday 10 November 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Health at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/ae3016b9-en)
 
@@ -61,7 +15,7 @@ Tuesday 9 November 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
 
 ### Additional Information
 
@@ -96,16 +50,39 @@ Friday 12 November 2021 at 10:00 | no launch event
 
 ------
 
-## [World Trade Report 2021 - Economic resilience and trade](https://doi.org/10.30875/6c551ba0-en)
+## [Enhancing data informed strategic governance in education in Estonia](https://doi.org/10.1787/11495e02-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 17 November 2021 at 7:00 | no launch event
+Monday 15 November 2021 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [World Trade Report 2021 - Economic resilience and trade](https://doi.org/10.30875/6c551ba0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 November 2021 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -151,40 +128,17 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: France 2021](https://doi.org/10.1787/289a0a17-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -208,6 +162,52 @@ Thursday 18 November 2021 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Etudes économiques de l'OCDE : France 2021](https://doi.org/10.1787/80013359-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2021](https://doi.org/10.1787/289a0a17-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 November 2021 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -243,9 +243,9 @@ Monday 22 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
 
 ### Additional Information
 
@@ -450,15 +450,15 @@ Monday 29 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -783,6 +783,29 @@ Thursday 9 December 2021 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Private Philanthropy for Development – Second Edition - Data for Action](https://doi.org/10.1787/cdf37f1e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 December 2021 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
