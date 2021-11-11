@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 November 2021 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Health at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/ae3016b9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Thursday 11 November 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Integrating Environmental and Climate Action into Development Co-operation - Reporting on DAC Members’ High-Level Meeting Commitments](https://doi.org/10.1787/285905b2-en)
 

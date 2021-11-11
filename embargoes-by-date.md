@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 November 2021 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 November 2021 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 November 2021](#9-november-2021)
 * [12 November 2021](#12-november-2021)
 * [15 November 2021](#15-november-2021)
 * [16 November 2021](#16-november-2021)
@@ -21,33 +20,6 @@ Data generated on | |
 * [9 December 2021](#9-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
-
-------
-
-# 9 November 2021
-
-## [Health at a Glance 2021 - OECD Indicators](https://doi.org/10.1787/ae3016b9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
