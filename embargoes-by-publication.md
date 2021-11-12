@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 November 2021 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 12 November 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Integrating Environmental and Climate Action into Development Co-operation - Reporting on DAC Members’ High-Level Meeting Commitments](https://doi.org/10.1787/285905b2-en)
 
@@ -12,17 +12,40 @@ Friday 12 November 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Technological change and domestic outsourcing](https://doi.org/10.1787/e3b226da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -38,7 +61,7 @@ Monday 15 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
@@ -82,9 +105,9 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 November 2021 at 21:21
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 October 2021 at 19:56
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
@@ -105,9 +128,9 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
@@ -219,18 +242,18 @@ Monday 22 November 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -243,15 +266,15 @@ Monday 22 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
