@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 November 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 15 November 2021 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 November 2021](#12-november-2021)
 * [15 November 2021](#15-november-2021)
 * [16 November 2021](#16-november-2021)
 * [17 November 2021](#17-november-2021)
@@ -20,33 +19,6 @@ Data generated on | |
 * [9 December 2021](#9-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
-
-------
-
-# 12 November 2021
-
-## [Integrating Environmental and Climate Action into Development Co-operation - Reporting on DAC Members’ High-Level Meeting Commitments](https://doi.org/10.1787/285905b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -137,18 +109,18 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -188,7 +160,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
@@ -284,7 +256,7 @@ Monday 22 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 12 November 2021 at 19:57
 
@@ -307,9 +279,9 @@ Monday 22 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
 
 ### Additional Information
 
@@ -361,7 +333,7 @@ Thursday 25 November 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
@@ -525,14 +497,14 @@ Monday 29 November 2021 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 November 2021 at 10:00 | no launch event
+Tuesday 30 November 2021 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
 
 ### Additional Information
 
@@ -548,14 +520,14 @@ Tuesday 30 November 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 November 2021 at 10:00 | no launch event
+Tuesday 30 November 2021 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
 
 ### Additional Information
 
