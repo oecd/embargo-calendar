@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 November 2021 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 November 2021 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Technological change and domestic outsourcing](https://doi.org/10.1787/e3b226da-en)
 
@@ -15,7 +15,7 @@ Monday 15 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 15 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
+- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
@@ -104,18 +104,18 @@ Thursday 18 November 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -128,7 +128,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
+- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
 
@@ -197,15 +197,15 @@ Monday 22 November 2021 at 8:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -280,6 +280,29 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 
 ------
 
+## [Édifier une culture fiscale, du civisme et de la citoyenneté, seconde édition - Un document de référence global de l'éducation des contribuables](https://doi.org/10.1787/66dd237b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
 
 Embargo date | Launch date
@@ -288,18 +311,18 @@ Thursday 25 November 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -438,6 +461,29 @@ Monday 29 November 2021 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Making Property Tax Reform Happen in China - A Review of Property Tax Design and Reform Experiences in OECD Countries](https://doi.org/10.1787/bd0fbae3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -786,6 +832,29 @@ Thursday 9 December 2021 at 15:00 | no launch event
 
 ------
 
+## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Harmful Tax Practices – 2020 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/f376127b-en)
 
 Embargo date | Launch date
@@ -826,6 +895,29 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les inégalités comptent-elles ? - Comment les gens perçoivent les disparités économiques et la mobilité sociale](https://doi.org/10.1787/0fa43215-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
