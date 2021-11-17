@@ -2,74 +2,26 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 November 2021 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 November 2021 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 November 2021](#15-november-2021)
 * [16 November 2021](#16-november-2021)
 * [17 November 2021](#17-november-2021)
 * [18 November 2021](#18-november-2021)
+* [19 November 2021](#19-november-2021)
 * [22 November 2021](#22-november-2021)
 * [24 November 2021](#24-november-2021)
 * [25 November 2021](#25-november-2021)
 * [29 November 2021](#29-november-2021)
 * [30 November 2021](#30-november-2021)
+* [2 December 2021](#2-december-2021)
 * [3 December 2021](#3-december-2021)
 * [6 December 2021](#6-december-2021)
 * [7 December 2021](#7-december-2021)
 * [9 December 2021](#9-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
+* [17 January 2022](#17-january-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 15 November 2021
-
-## [Technological change and domestic outsourcing](https://doi.org/10.1787/e3b226da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing data informed strategic governance in education in Estonia](https://doi.org/10.1787/11495e02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -138,9 +90,9 @@ Thursday 18 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
 
 ### Additional Information
 
@@ -163,7 +115,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
 
 ### Additional Information
 
@@ -175,7 +127,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 
 ------
 
-## [Etudes économiques de l'OCDE : France 2021](https://doi.org/10.1787/80013359-fr)
+## [Études économiques de l'OCDE : France 2021](https://doi.org/10.1787/80013359-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -183,18 +135,18 @@ Thursday 18 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -206,17 +158,67 @@ Thursday 18 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Formats: *HTML, PDF*
+
+------
+
+------
+
+# 19 November 2021
+
+## [Regional differences in productivity in Sweden: Insights from OECD regions](https://doi.org/10.1787/68fb871e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Keeping regional inequality in check in Sweden](https://doi.org/10.1787/e4bec28f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -298,6 +300,29 @@ Monday 22 November 2021 at 14:00 | no launch event
 
 # 24 November 2021
 
+## [Fomentando la cultura tributaria, el cumplimiento fiscal y la ciudadanía, segunda edición - Guía sobre educación tributaria en el mundo](https://doi.org/10.1787/17a3eabd-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Building Tax Culture, Compliance and Citizenship, Second Edition - A Global Source Book on Taxpayer Education](https://doi.org/10.1787/18585eb1-en)
 
 Embargo date | Launch date
@@ -344,6 +369,29 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 
 ------
 
+## [The socio-economic gap in foreign-language learning](https://doi.org/10.1787/953199e1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 November 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 25 November 2021
@@ -357,7 +405,7 @@ Thursday 25 November 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
@@ -499,7 +547,7 @@ Monday 29 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
+- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
 
@@ -588,7 +636,57 @@ Tuesday 30 November 2021 at 13:00 | no launch event
 
 ------
 
+# 2 December 2021
+
+## [Strengthening Early Childhood Education and Care in Ireland - Review on Sector Quality](https://doi.org/10.1787/72fab7d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 3 December 2021
+
+## [OECD Economic Surveys: Japan 2021](https://doi.org/10.1787/6b749602-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
 
@@ -974,6 +1072,33 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 17 January 2022
+
+## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
