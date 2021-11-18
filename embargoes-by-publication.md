@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 November 2021 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [World Trade Report 2021 - Economic resilience and trade](https://doi.org/10.30875/6c551ba0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 November 2021 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 November 2021 at 20:24
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Non applicable*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 18 November 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
 
@@ -36,9 +13,9 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
+- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
 
 ### Additional Information
 
@@ -46,7 +23,7 @@ Wednesday 17 November 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -61,7 +38,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
 
 ### Additional Information
 
@@ -188,6 +165,52 @@ Friday 19 November 2021 at 6:00 | no launch event
 
 ------
 
+## [Design and implementation of a comprehensive monitoring system in Austria](https://doi.org/10.1787/956e3d9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Services trade in the United Kingdom and the global economy](https://doi.org/10.1787/b602b468-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Education Policy Outlook 2021 - Shaping Responsive and Resilient Education in a Changing World](https://doi.org/10.1787/75e40a16-en)
 
 Embargo date | Launch date
@@ -257,7 +280,7 @@ Monday 22 November 2021 at 14:00 | no launch event
 
 ------
 
-## [Fomentando la cultura tributaria, el cumplimiento fiscal y la ciudadanía, segunda edición - Guía sobre educación tributaria en el mundo](https://doi.org/10.1787/17a3eabd-es)
+## [Fomentando la cultura tributaria, el cumplimiento fiscal y la ciudadanía - Guía sobre educación tributaria en el mundo, segunda edición](https://doi.org/10.1787/17a3eabd-es)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -280,7 +303,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 
 ------
 
-## [Building Tax Culture, Compliance and Citizenship, Second Edition - A Global Source Book on Taxpayer Education](https://doi.org/10.1787/18585eb1-en)
+## [Building Tax Culture, Compliance and Citizenship - A Global Source Book on Taxpayer Education, Second Edition](https://doi.org/10.1787/18585eb1-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -289,9 +312,9 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 9 November 2021 at 20:25
+- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 November 2021 at 19:58
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
 
 ### Additional Information
 
@@ -303,7 +326,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 
 ------
 
-## [Édifier une culture fiscale, du civisme et de la citoyenneté, seconde édition - Un document de référence global de l'éducation des contribuables](https://doi.org/10.1787/66dd237b-fr)
+## [Édifier une culture fiscale, du civisme et de la citoyenneté - Un document de référence global de l'éducation des contribuables, seconde édition](https://doi.org/10.1787/66dd237b-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -389,7 +412,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Withdrawn*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -412,7 +435,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Withdrawn*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -611,15 +634,15 @@ Friday 3 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
