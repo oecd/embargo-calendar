@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 November 2021 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Peer Review of the Automatic Exchange of Financial Account Information 2021](https://doi.org/10.1787/90bac5f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 19 November 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [AI and the Future of Skills, Volume 1 - Capabilities and Assessments](https://doi.org/10.1787/5ee71f34-en)
 
@@ -38,7 +15,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 18 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 18 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 18 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -165,6 +142,29 @@ Friday 19 November 2021 at 6:00 | no launch event
 
 ------
 
+## [The future of remote work - Opportunities and policy options for Trentino](https://doi.org/10.1787/35f78ced-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Design and implementation of a comprehensive monitoring system in Austria](https://doi.org/10.1787/956e3d9d-en)
 
 Embargo date | Launch date
@@ -176,11 +176,34 @@ Monday 22 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Civil service capacities in the SDG era - An assessment framework](https://doi.org/10.1787/a20bad7c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -199,7 +222,7 @@ Monday 22 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -219,16 +242,16 @@ Monday 22 November 2021 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -245,7 +268,7 @@ Monday 22 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
@@ -265,41 +288,18 @@ Monday 22 November 2021 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Fomentando la cultura tributaria, el cumplimiento fiscal y la ciudadanía - Guía sobre educación tributaria en el mundo, segunda edición](https://doi.org/10.1787/17a3eabd-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -311,41 +311,18 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Édifier une culture fiscale, du civisme et de la citoyenneté - Un document de référence global de l'éducation des contribuables, seconde édition](https://doi.org/10.1787/66dd237b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -403,18 +380,18 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Withdrawn*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -426,18 +403,18 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Withdrawn*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -449,18 +426,18 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -472,18 +449,18 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -495,18 +472,18 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 November 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -518,16 +495,16 @@ Monday 29 November 2021 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 November 2021 at 19:59
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -625,6 +602,29 @@ Thursday 2 December 2021 at 10:00 | no launch event
 
 ------
 
+## [Latin American Economic Outlook 2021 - Working Together for a Better Recovery](https://doi.org/10.1787/5fedabe5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 December 2021 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Japan 2021](https://doi.org/10.1787/6b749602-en)
 
 Embargo date | Launch date
@@ -667,190 +667,6 @@ Friday 3 December 2021 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fd56cc8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6933c16a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/37a6cb02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/22b43680-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/83469e1b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2d772d4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/577cb1f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29b97fc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -1035,6 +851,190 @@ Monday 17 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fd56cc8d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6933c16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/37a6cb02-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/22b43680-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/83469e1b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2d772d4f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/577cb1f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29b97fc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
