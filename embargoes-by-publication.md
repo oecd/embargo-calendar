@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 November 2021 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [AI and the Future of Skills, Volume 1 - Capabilities and Assessments](https://doi.org/10.1787/5ee71f34-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Does Inequality Matter?  - How People Perceive Economic Disparities and Social Mobility](https://doi.org/10.1787/3023ed40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Études économiques de l'OCDE : France 2021](https://doi.org/10.1787/80013359-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: France 2021](https://doi.org/10.1787/289a0a17-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, PDF*
-
-------
-
-## [Regional differences in productivity in Sweden: Insights from OECD regions](https://doi.org/10.1787/68fb871e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Keeping regional inequality in check in Sweden](https://doi.org/10.1787/e4bec28f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 22 November 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The future of remote work - Opportunities and policy options for Trentino](https://doi.org/10.1787/35f78ced-en)
 
@@ -473,7 +335,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
@@ -487,6 +349,29 @@ Thursday 25 November 2021 at 11:00 | no launch event
 
 ------
 
+## [Spurring growth and closing gaps through digitalisation in a post-COVID world: Policies to LIFT all boats](https://doi.org/10.1787/b9622a7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Mobilising Evidence at the Centre of Government in Lithuania - Strengthening Decision Making and Policy Evaluation for Long-term Development](https://doi.org/10.1787/323e3500-en)
 
 Embargo date | Launch date
@@ -496,7 +381,7 @@ Monday 29 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
@@ -507,6 +392,52 @@ Monday 29 November 2021 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Public Integrity in Ecuador - Towards a National Integrity System](https://doi.org/10.1787/9623672c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 November 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [La Integridad Pública en el Ecuador - Hacia un Sistema Nacional de Integridad](https://doi.org/10.1787/1f00de5c-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 November 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -530,52 +461,6 @@ Tuesday 30 November 2021 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2021 - L'impact initial du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/ed5596c6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Revenue Statistics 2021 - The Initial Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/6e87f932-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -671,24 +556,70 @@ Friday 3 December 2021 at 14:00 | no launch event
 
 ------
 
-## [A Chemicals Perspective on Designing with Sustainable Plastics  - Goals, Considerations and Trade-offs](https://doi.org/10.1787/f2ba8ff3-en)
+## [Statistiques des recettes publiques 2021 - L'impact initial du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/ed5596c6-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 7 December 2021 at 12:00 | no launch event
+Monday 6 December 2021 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2021 - The Initial Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/6e87f932-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [A Chemicals Perspective on Designing with Sustainable Plastics  - Goals, Considerations and Trade-offs](https://doi.org/10.1787/f2ba8ff3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 December 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -763,6 +694,52 @@ Thursday 9 December 2021 at 15:00 | no launch event
 
 ------
 
+## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
 
 Embargo date | Launch date
@@ -828,6 +805,29 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Trends Shaping Education 2022](https://doi.org/10.1787/6ae8771a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
