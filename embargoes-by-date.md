@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 November 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 November 2021 at 21:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 November 2021](#22-november-2021)
 * [24 November 2021](#24-november-2021)
@@ -14,10 +14,12 @@ Data generated on | |
 * [3 December 2021](#3-december-2021)
 * [6 December 2021](#6-december-2021)
 * [7 December 2021](#7-december-2021)
+* [8 December 2021](#8-december-2021)
 * [9 December 2021](#9-december-2021)
 * [13 December 2021](#13-december-2021)
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
+* [16 December 2021](#16-december-2021)
 * [17 January 2022](#17-january-2022)
 * [24 January 2022](#24-january-2022)
 * [1 March 2022](#1-march-2022)
@@ -37,7 +39,7 @@ Monday 22 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -60,7 +62,7 @@ Monday 22 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -106,7 +108,7 @@ Monday 22 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -129,7 +131,7 @@ Monday 22 November 2021 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -152,7 +154,7 @@ Monday 22 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -175,7 +177,7 @@ Monday 22 November 2021 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -202,7 +204,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -225,7 +227,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -419,7 +421,7 @@ Monday 29 November 2021 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 November 2021 at 19:56
 
@@ -442,7 +444,7 @@ Monday 29 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -465,7 +467,7 @@ Monday 29 November 2021 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -583,29 +585,6 @@ Friday 3 December 2021 at 8:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 December 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 6 December 2021
@@ -614,14 +593,14 @@ Friday 3 December 2021 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 6 December 2021 at 13:00 | no launch event
+Monday 6 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -637,14 +616,14 @@ Monday 6 December 2021 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 6 December 2021 at 13:00 | no launch event
+Monday 6 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
@@ -680,6 +659,33 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 December 2021
+
+## [Pensions at a Glance 2021 - OECD and G20 Indicators](https://doi.org/10.1787/ca401ebd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -742,15 +748,15 @@ Thursday 9 December 2021 at 15:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -769,7 +775,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -792,7 +798,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -806,15 +812,34 @@ Monday 13 December 2021 at 8:00 | no launch event
 
 ------
 
-------
+## [Examens environnementaux de l'OCDE : Finlande 2021 (version abrégée)](https://doi.org/10.1787/686f2832-fr)
 
-# 14 December 2021
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 December 2021 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 December 2021 at 8:00 | no launch event
+Monday 13 December 2021 at 14:00 | no launch event
 
 ### Status Information
 
@@ -832,6 +857,10 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 * Formats: *Paperback, PDF*
 
 ------
+
+------
+
+# 14 December 2021
 
 ## [Harmful Tax Practices – 2020 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/f376127b-en)
 
@@ -879,6 +908,33 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 December 2021
+
+## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
