@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 November 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 25 November 2021 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 November 2021](#24-november-2021)
 * [25 November 2021](#25-november-2021)
@@ -39,7 +39,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
 
 ### Additional Information
 
@@ -62,7 +62,7 @@ Wednesday 24 November 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
 
 ### Additional Information
 
@@ -243,6 +243,52 @@ Friday 26 November 2021 at 6:00 | no launch event
 
 ------
 
+## [Public Integrity in Ecuador - Towards a National Integrity System](https://doi.org/10.1787/9623672c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 November 2021 at 21:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [La Integridad Pública en el Ecuador - Hacia un Sistema Nacional de Integridad](https://doi.org/10.1787/1f00de5c-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 November 2021 at 21:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ------
 
 # 29 November 2021
@@ -293,52 +339,6 @@ Monday 29 November 2021 at 11:00 | no launch event
 
 ------
 
-## [Public Integrity in Ecuador - Towards a National Integrity System](https://doi.org/10.1787/9623672c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 November 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [La Integridad Pública en el Ecuador - Hacia un Sistema Nacional de Integridad](https://doi.org/10.1787/1f00de5c-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 November 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ------
 
 # 30 November 2021
@@ -351,16 +351,16 @@ Tuesday 30 November 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
