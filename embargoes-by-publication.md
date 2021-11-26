@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 November 2021 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Building Tax Culture, Compliance and Citizenship - A Global Source Book on Taxpayer Education, Second Edition](https://doi.org/10.1787/18585eb1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [The socio-economic gap in foreign-language learning](https://doi.org/10.1787/953199e1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 November 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 26 November 2021 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
 
@@ -61,7 +15,7 @@ Thursday 25 November 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -153,7 +107,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 November 2021 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -176,7 +130,7 @@ Thursday 25 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 November 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -265,16 +219,16 @@ Monday 29 November 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 November 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -291,7 +245,7 @@ Monday 29 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
@@ -299,6 +253,75 @@ Monday 29 November 2021 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [A global analysis of the cost-efficiency of forest carbon sequestration](https://doi.org/10.1787/e4d45973-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Think green - Education and climate change](https://doi.org/10.1787/2a9a1cdd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Internationalisation of the next Smart Specialisation Strategy - Opportunities and barriers in the Friuli Venezia Giulia region](https://doi.org/10.1787/067c3a60-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 November 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -326,6 +349,29 @@ Tuesday 30 November 2021 at 9:00 | no launch event
 
 ------
 
+## [Conducting economic valuation surveys during extreme events](https://doi.org/10.1787/85477cd9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2021 Issue 2 - Preliminary version](https://doi.org/10.1787/66c5ac2c-en)
 
 Embargo date | Launch date
@@ -346,6 +392,29 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Climate mitigation co-benefits from sustainable nutrient management in agriculture - Incentives and opportunities](https://doi.org/10.1787/a2960c54-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -588,7 +657,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -1048,7 +1117,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 22 November 2021 at 19:57
 
@@ -1324,15 +1393,15 @@ Monday 13 December 2021 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
