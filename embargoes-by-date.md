@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 November 2021 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 29 November 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 November 2021](#25-november-2021)
-* [26 November 2021](#26-november-2021)
 * [29 November 2021](#29-november-2021)
 * [30 November 2021](#30-november-2021)
 * [1 December 2021](#1-december-2021)
@@ -22,221 +20,6 @@ Data generated on | |
 * [17 January 2022](#17-january-2022)
 * [24 January 2022](#24-january-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 25 November 2021
-
-## [COVID-19 and Well-being - Life in the Pandemic](https://doi.org/10.1787/1e1ecb53-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 November 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/973822b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Côte d'Ivoire 2021 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/307e9625-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Tanzania 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3cff19b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Moldova 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cbc82e22-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Kenya 2021 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f88fceeb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 November 2021
-
-## [Spurring growth and closing gaps through digitalisation in a post-COVID world: Policies to LIFT all boats](https://doi.org/10.1787/b9622a7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 November 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Public Integrity in Ecuador - Towards a National Integrity System](https://doi.org/10.1787/9623672c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 November 2021 at 21:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [La Integridad Pública en el Ecuador - Hacia un Sistema Nacional de Integridad](https://doi.org/10.1787/1f00de5c-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 November 2021 at 21:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -372,7 +155,7 @@ Tuesday 30 November 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 November 2021 at 19:55
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
 
 ### Additional Information
 
@@ -399,7 +182,7 @@ Wednesday 1 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
 
 ### Additional Information
 
@@ -411,7 +194,7 @@ Wednesday 1 December 2021 at 6:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Volume 2021 Issue 2 - Preliminary version](https://doi.org/10.1787/66c5ac2c-en)
+## [Perspectives économiques de l'OCDE, Volume 2021 Numéro 2 - Version préliminaire](https://doi.org/10.1787/09bf9e01-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -427,8 +210,31 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *English*
+* Language: *French*
 * Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2021 Issue 2 - Preliminary version](https://doi.org/10.1787/66c5ac2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
@@ -492,16 +298,16 @@ Thursday 2 December 2021 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 November 2021 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 November 2021 at 19:56
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -537,6 +343,29 @@ Friday 3 December 2021 at 8:00 | no launch event
 ------
 
 # 6 December 2021
+
+## [Resourcing Higher Education in the Flemish Community of Belgium](https://doi.org/10.1787/3f0248ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
 
 ## [Statistiques des recettes publiques 2021 - L'impact initial du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/ed5596c6-fr)
 
@@ -697,9 +526,9 @@ Thursday 9 December 2021 at 15:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
 
 ### Additional Information
 
@@ -707,7 +536,7 @@ Thursday 9 December 2021 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
