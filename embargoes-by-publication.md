@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 November 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 30 November 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Missing Entrepreneurs 2021 - Policies for Inclusive Entrepreneurship and Self-Employment](https://doi.org/10.1787/71b7a9bb-en)
 
@@ -15,7 +15,7 @@ Monday 29 November 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 29 November 2021 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
@@ -173,18 +173,18 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -196,18 +196,18 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -222,7 +222,7 @@ Thursday 2 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
@@ -381,9 +381,9 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 24 November 2021 at 20:20
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
@@ -427,15 +427,15 @@ Thursday 9 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -450,15 +450,15 @@ Thursday 9 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -472,18 +472,18 @@ Thursday 9 December 2021 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
