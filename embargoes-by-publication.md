@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 November 2021 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Missing Entrepreneurs 2021 - Policies for Inclusive Entrepreneurship and Self-Employment](https://doi.org/10.1787/71b7a9bb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Mobilising Evidence at the Centre of Government in Lithuania - Strengthening Decision Making and Policy Evaluation for Long-term Development](https://doi.org/10.1787/323e3500-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 November 2021 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Wednesday 1 December 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A global analysis of the cost-efficiency of forest carbon sequestration](https://doi.org/10.1787/e4d45973-en)
 
@@ -61,7 +15,7 @@ Tuesday 30 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Tuesday 30 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Tuesday 30 November 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Tuesday 30 November 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -174,9 +128,9 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -197,7 +151,7 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
@@ -245,7 +199,7 @@ Thursday 2 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -268,7 +222,7 @@ Thursday 2 December 2021 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 November 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
@@ -288,16 +242,16 @@ Friday 3 December 2021 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 November 2021 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 November 2021 at 19:55
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -380,18 +334,18 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -413,6 +367,29 @@ Wednesday 8 December 2021 at 10:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Panorama des pensions 2021 (version abrégée) - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/878b2235-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
