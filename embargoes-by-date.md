@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 December 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 2 December 2021 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 November 2021](#30-november-2021)
 * [1 December 2021](#1-december-2021)
 * [2 December 2021](#2-december-2021)
 * [3 December 2021](#3-december-2021)
@@ -22,102 +21,6 @@ Data generated on | |
 
 ------
 
-# 30 November 2021
-
-## [A global analysis of the cost-efficiency of forest carbon sequestration](https://doi.org/10.1787/e4d45973-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Think green - Education and climate change](https://doi.org/10.1787/2a9a1cdd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Internationalisation of the next Smart Specialisation Strategy - Opportunities and barriers in the Friuli Venezia Giulia region](https://doi.org/10.1787/067c3a60-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Making Property Tax Reform Happen in China - A Review of Property Tax Design and Reform Experiences in OECD Countries](https://doi.org/10.1787/bd0fbae3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 November 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 1 December 2021
 
 ## [Conducting economic valuation surveys during extreme events](https://doi.org/10.1787/85477cd9-en)
@@ -131,7 +34,7 @@ Wednesday 1 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
@@ -154,7 +57,7 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
@@ -177,7 +80,7 @@ Wednesday 1 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
@@ -277,7 +180,7 @@ Friday 3 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
@@ -292,6 +195,52 @@ Friday 3 December 2021 at 8:00 | no launch event
 ------
 
 # 6 December 2021
+
+## [The human side of productivity - Uncovering the role of skills and diversity for firm productivity](https://doi.org/10.1787/5f391ba9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The Economic and Social Impact of Open Government - Policy Recommendations for the Arab Countries](https://doi.org/10.1787/6b3e2469-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
 
 ## [Resourcing Higher Education in the Flemish Community of Belgium](https://doi.org/10.1787/3f0248ad-en)
 
@@ -324,18 +273,18 @@ Monday 6 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -347,18 +296,18 @@ Monday 6 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -375,7 +324,7 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
+- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
 
