@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 December 2021 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 December 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 December 2021](#1-december-2021)
 * [2 December 2021](#2-december-2021)
 * [3 December 2021](#3-december-2021)
 * [6 December 2021](#6-december-2021)
@@ -21,79 +20,6 @@ Data generated on | |
 
 ------
 
-# 1 December 2021
-
-## [Conducting economic valuation surveys during extreme events](https://doi.org/10.1787/85477cd9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2021 Numéro 2 - Version préliminaire](https://doi.org/10.1787/09bf9e01-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2021 Issue 2 - Preliminary version](https://doi.org/10.1787/66c5ac2c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-------
-
 # 2 December 2021
 
 ## [Climate mitigation co-benefits from sustainable nutrient management in agriculture - Incentives and opportunities](https://doi.org/10.1787/a2960c54-en)
@@ -107,7 +33,7 @@ Thursday 2 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 November 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +56,7 @@ Thursday 2 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 November 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -153,7 +79,7 @@ Thursday 2 December 2021 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 November 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -207,11 +133,57 @@ Monday 6 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Strengthening value for money in the public procurement system of the Slovak Republic - Towards a strategy to use adequate award criteria](https://doi.org/10.1787/9b4deebd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Promoting gender equality through public procurement - Challenges and good practices](https://doi.org/10.1787/5d8f6f76-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -228,9 +200,9 @@ Monday 6 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -253,7 +225,7 @@ Monday 6 December 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 November 2021 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 November 2021 at 19:56
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -274,9 +246,9 @@ Monday 6 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -299,7 +271,7 @@ Monday 6 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -335,6 +307,29 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Building teachers’ well-being from primary to upper secondary education](https://doi.org/10.1787/722fe5cb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -447,7 +442,7 @@ Thursday 9 December 2021 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
 
@@ -474,9 +469,9 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
@@ -925,29 +920,6 @@ Monday 13 December 2021 at 8:00 | no launch event
 
 ------
 
-## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Czech Republic: Country Health Profile 2021](https://doi.org/10.1787/8b341a5e-en)
 
 Embargo date | Launch date
@@ -1178,6 +1150,29 @@ Monday 13 December 2021 at 8:00 | no launch event
 
 ------
 
+## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 December 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Examens environnementaux de l'OCDE : Finlande 2021 (version abrégée)](https://doi.org/10.1787/686f2832-fr)
 
 Embargo date | Launch date
@@ -1201,32 +1196,32 @@ Monday 13 December 2021 at 14:00 | no launch event
 
 ------
 
-## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
+------
+
+# 14 December 2021
+
+## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 13 December 2021 at 14:00 | no launch event
+Tuesday 14 December 2021 at 8:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 November 2021 at 19:57
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
-* Language: *English*
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
-
-------
-
-# 14 December 2021
 
 ## [Harmful Tax Practices – 2020 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/f376127b-en)
 
@@ -1237,15 +1232,15 @@ Tuesday 14 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1264,17 +1259,40 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Africa 2021 (en) || Statistiques des recettes publiques en Afrique 2021](https://doi.org/10.1787/c511aa1e-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
