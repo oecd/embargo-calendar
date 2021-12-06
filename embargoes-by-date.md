@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 December 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 December 2021 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 December 2021](#2-december-2021)
-* [3 December 2021](#3-december-2021)
 * [6 December 2021](#6-december-2021)
 * [7 December 2021](#7-december-2021)
 * [8 December 2021](#8-december-2021)
@@ -14,109 +12,10 @@ Data generated on | |
 * [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
 * [16 December 2021](#16-december-2021)
+* [20 December 2021](#20-december-2021)
 * [17 January 2022](#17-january-2022)
 * [24 January 2022](#24-january-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 2 December 2021
-
-## [Climate mitigation co-benefits from sustainable nutrient management in agriculture - Incentives and opportunities](https://doi.org/10.1787/a2960c54-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 November 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening Early Childhood Education and Care in Ireland - Review on Sector Quality](https://doi.org/10.1787/72fab7d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 November 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Latin American Economic Outlook 2021 - Working Together for a Better Recovery](https://doi.org/10.1787/5fedabe5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 December 2021 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 3 December 2021
-
-## [OECD Economic Surveys: Japan 2021](https://doi.org/10.1787/6b749602-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 1 December 2021 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 December 2021 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -298,7 +197,7 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 December 2021 at 19:57
+- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
 
 ### Additional Information
 
@@ -321,7 +220,7 @@ Tuesday 7 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
 
 ### Additional Information
 
@@ -345,18 +244,18 @@ Wednesday 8 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 23 November 2021 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 November 2021 at 19:57
+- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -368,18 +267,18 @@ Wednesday 8 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -1209,7 +1108,7 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [x] Exported to iLibrary Monday 6 December 2021 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 3 December 2021 at 19:57
 
@@ -1319,6 +1218,33 @@ Thursday 16 December 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 20 December 2021
+
+## [Fiscal Federalism 2022 - Making Decentralisation Work](https://doi.org/10.1787/201c75b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
