@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 December 2021 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The human side of productivity - Uncovering the role of skills and diversity for firm productivity](https://doi.org/10.1787/5f391ba9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening value for money in the public procurement system of the Slovak Republic - Towards a strategy to use adequate award criteria](https://doi.org/10.1787/9b4deebd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Promoting gender equality through public procurement - Challenges and good practices](https://doi.org/10.1787/5d8f6f76-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Economic and Social Impact of Open Government - Policy Recommendations for the Arab Countries](https://doi.org/10.1787/6b3e2469-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Resourcing Higher Education in the Flemish Community of Belgium](https://doi.org/10.1787/3f0248ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 November 2021 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2021 - L'impact initial du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/ed5596c6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Revenue Statistics 2021 - The Initial Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/6e87f932-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Wednesday 8 December 2021 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Chemicals Perspective on Designing with Sustainable Plastics  - Goals, Considerations and Trade-offs](https://doi.org/10.1787/f2ba8ff3-en)
 
@@ -176,7 +15,7 @@ Tuesday 7 December 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 December 2021 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -199,7 +38,7 @@ Tuesday 7 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -220,9 +59,9 @@ Wednesday 8 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 December 2021 at 20:21
+- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -261,14 +100,14 @@ Wednesday 8 December 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 9 December 2021 at 8:00 | no launch event
+Thursday 9 December 2021 at 12:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
+- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -277,29 +116,6 @@ Thursday 9 December 2021 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [ Le rôle des entreprises dans les inégalités salariales (version abrégée) - Enseignements d’une étude internationale à grande échelle](https://doi.org/10.1787/3086d334-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 30 November 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
 
 ------
 
@@ -314,7 +130,7 @@ Thursday 9 December 2021 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 November 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1591,6 +1407,29 @@ Monday 13 December 2021 at 8:00 | no launch event
 
 ------
 
+## [Examens environnementaux de l'OCDE : Finlande 2021 (version abrégée)](https://doi.org/10.1787/686f2832-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 December 2021 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
 
 Embargo date | Launch date
@@ -1600,9 +1439,9 @@ Monday 13 December 2021 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
+- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1611,29 +1450,6 @@ Monday 13 December 2021 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Finlande 2021 (version abrégée)](https://doi.org/10.1787/686f2832-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -1737,16 +1553,16 @@ Wednesday 15 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English || French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1863,7 +1679,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1886,7 +1702,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1909,7 +1725,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1932,7 +1748,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1955,7 +1771,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1978,7 +1794,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -2001,7 +1817,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -2024,7 +1840,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
