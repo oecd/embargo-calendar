@@ -2,92 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/ca401ebd-end3e2303
-SUMMARY:Pensions at a Glance 2021 - OECD and G20
-  Indicators
-DESCRIPTION:*Pensions at a Glance 2021 - OECD and G2
- 0 Indicators*\n\nDirectorate: Directorat
- e for Employment, Labour and Social Affa
- irs\nLanguage: English\nDOI: https://doi
- .org/10.1787/ca401ebd-en\nPublication ty
- pe: Book\nReleased as: ePub, HTML, PDF\n
- \nEmbargo date/time: Wednesday, 8 Decemb
- er 2021, 10:00 (GMT)\n\n\niLibrary expor
- t: Wednesday, 8 December 2021, 19:24 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: Thursday, 9 December 2021, 19:03
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:15, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=ca401ebd-en.
-DTSTAMP:20211209T211521Z
-DTSTART:20211208T100000Z
-DTEND:20211208T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Pensions at a Glance 2021 - OE
- CD and G20 Indicators
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/878b2235-frd3e11555
-SUMMARY:Panorama des pensions 2021 (version abré
- gée) - Les indicateurs de l'OCDE et du G
- 20
-DESCRIPTION:*Panorama des pensions 2021 (version abr
- égée) - Les indicateurs de l'OCDE et du 
- G20*\n\nDirectorate: Directorate for Emp
- loyment, Labour and Social Affairs\nLang
- uage: French\nDOI: https://doi.org/10.17
- 87/878b2235-fr\nPublication type: Book\n
- Released as: ePub, HTML, PDF\n\nEmbargo 
- date/time: Wednesday, 8 December 2021, 1
- 0:00 (GMT)\n\n\niLibrary export: Thursda
- y, 9 December 2021, 19:36 (GMT)\nFreepre
- view export: never\nOECD.org export: Thu
- rsday, 9 December 2021, 19:03 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 21:15, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=878b2235-fr.
-DTSTAMP:20211209T211521Z
-DTSTART:20211208T100000Z
-DTEND:20211208T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Panorama des pensions 2021 (ve
- rsion abrégée) - Les indicateurs de l'OC
- DE et du G20
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7d9b2208-end3e14730
+UID:10.1787/7d9b2208-end3e3027
 SUMMARY:The Role of Firms in Wage Inequality - P
  olicy Lessons from a Large Scale Cross-C
  ountry Study
@@ -102,21 +17,21 @@ DESCRIPTION:*The Role of Firms in Wage Inequality -
  21, 12:00 (GMT)\n\n\niLibrary export: Th
  ursday, 9 December 2021, 19:36 (GMT)\nFr
  eepreview export: never\nOECD.org export
- : Thursday, 9 December 2021, 19:03 (GMT)
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 21:15, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=7d9b2208-en.
-DTSTAMP:20211209T211521Z
+ : Friday, 10 December 2021, 19:00 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:52, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=7d9b2208-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211209T120000Z
 DTEND:20211209T121500Z
 TRANSP:TRANSPARENT
@@ -131,7 +46,7 @@ DESCRIPTION:Reminder: The Role of Firms in Wage Ineq
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cdf37f1e-end3e18538
+UID:10.1787/cdf37f1e-end3e6849
 SUMMARY:Private Philanthropy for Development – S
  econd Edition - Data for Action
 DESCRIPTION:*Private Philanthropy for Development – 
@@ -143,22 +58,22 @@ DESCRIPTION:*Private Philanthropy for Development –
  time: Thursday, 9 December 2021, 15:00 (
  GMT)\n\n\niLibrary export: Friday, 3 Dec
  ember 2021, 19:21 (GMT)\nFreepreview exp
- ort: never\nOECD.org export: Wednesday, 
- 8 December 2021, 18:57 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=cdf3
- 7f1e-en.
-DTSTAMP:20211209T211521Z
+ ort: never\nOECD.org export: Friday, 10 
+ December 2021, 19:00 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 20:52, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=cdf37f
+ 1e-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211209T150000Z
 DTEND:20211209T151500Z
 TRANSP:TRANSPARENT
@@ -173,7 +88,131 @@ DESCRIPTION:Reminder: Private Philanthropy for Devel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2dce8636-end3e20113
+UID:10.1787/13b842d6-end3e8429
+SUMMARY:OECD Economic Surveys: Portugal 2021
+DESCRIPTION:*OECD Economic Surveys: Portugal 2021*\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/13b842d6-en\nPublication type: Econ
+ omic survey\nReleased as: PDF\n\nEmbargo
+  date/time: Friday, 10 December 2021, 14
+ :00 (GMT)\n\n\niLibrary export: Friday, 
+ 10 December 2021, 19:24 (GMT)\nFreeprevi
+ ew export: never\nOECD.org export: Frida
+ y, 10 December 2021, 19:00 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 20:52, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 13b842d6-en.
+DTSTAMP:20211210T205233Z
+DTSTART:20211210T140000Z
+DTEND:20211210T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Portuga
+ l 2021
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/22729bd6-end3e8485
+SUMMARY:Opportunities and drawbacks of using art
+ ificial intelligence for training
+DESCRIPTION:*Opportunities and drawbacks of using ar
+ tificial intelligence for training*\n\nD
+ irectorate: Directorate for Employment, 
+ Labour and Social Affairs\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/22729
+ bd6-en\nPublication type: Paper\nRelease
+ d as: PDF\n\nEmbargo date/time: Monday, 
+ 13 December 2021, 6:00 (GMT)\n\n\niLibra
+ ry export: Friday, 10 December 2021, 19:
+ 24 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Friday, 10 December 2021, 
+ 19:00 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:5
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=22729bd6-en.
+DTSTAMP:20211210T205233Z
+DTSTART:20211213T060000Z
+DTEND:20211213T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Opportunities and drawbacks of
+  using artificial intelligence for train
+ ing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/361126bd-end3e8540
+SUMMARY:Managing the distributional effects of e
+ nvironmental and climate policies - The 
+ narrow path for a triple dividend
+DESCRIPTION:*Managing the distributional effects of 
+ environmental and climate policies - The
+  narrow path for a triple dividend*\n\nD
+ irectorate: Environment Directorate\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/361126bd-en\nPublication type: Pape
+ r\nReleased as: PDF\n\nEmbargo date/time
+ : Monday, 13 December 2021, 6:00 (GMT)\n
+ \n\niLibrary export: never\nFreepreview 
+ export: never\nOECD.org export: never\nF
+ TI loaded: ✓\n\nFor more information see
+ : https://oecd.github.io/embargo-calenda
+ r/embargoes-by-publication.html.\n\nPlea
+ se note: This information was correct as
+  of this afternoon at 20:52, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=361126bd-en.
+DTSTAMP:20211210T205233Z
+DTSTART:20211213T060000Z
+DTEND:20211213T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Managing the distributional ef
+ fects of environmental and climate polic
+ ies - The narrow path for a triple divid
+ end
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2dce8636-end3e8594
 SUMMARY:Denmark: Country Health Profile 2021
 DESCRIPTION:*Denmark: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -182,22 +221,23 @@ DESCRIPTION:*Denmark: Country Health Profile 2021*\n
  ce8636-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=2dc
- e8636-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=2dce8636-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -211,7 +251,7 @@ DESCRIPTION:Reminder: Denmark: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6208e2b6-frd3e20165
+UID:10.1787/6208e2b6-frd3e8649
 SUMMARY:Luxembourg : Profils de santé par pays 2
  021
 DESCRIPTION:*Luxembourg : Profils de santé par pays 
@@ -227,7 +267,7 @@ DESCRIPTION:*Luxembourg : Profils de santé par pays
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 21:15, it is updated
+ f this afternoon at 20:52, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -236,7 +276,7 @@ DESCRIPTION:*Luxembourg : Profils de santé par pays
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=6208e2b6-fr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -250,7 +290,7 @@ DESCRIPTION:Reminder: Luxembourg : Profils de santé
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7ed63dd4-end3e20216
+UID:10.1787/7ed63dd4-end3e8700
 SUMMARY:Spain: Country Health Profile 2021
 DESCRIPTION:*Spain: Country Health Profile 2021*\n\n
  Directorate: Directorate for Employment,
@@ -259,22 +299,23 @@ DESCRIPTION:*Spain: Country Health Profile 2021*\n\n
  3dd4-en\nPublication type: Book\nRelease
  d as: PDF\n\nEmbargo date/time: Monday, 
  13 December 2021, 8:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:15, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=7ed63
- dd4-en.
-DTSTAMP:20211209T211521Z
+ ry export: Friday, 10 December 2021, 19:
+ 24 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Friday, 10 December 2021, 
+ 19:00 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:5
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=7ed63dd4-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -288,7 +329,7 @@ DESCRIPTION:Reminder: Spain: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4349682-end3e20269
+UID:10.1787/d4349682-end3e8755
 SUMMARY:Austria: Country Health Profile 2021
 DESCRIPTION:*Austria: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -297,22 +338,23 @@ DESCRIPTION:*Austria: Country Health Profile 2021*\n
  349682-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=d43
- 49682-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=d4349682-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -326,7 +368,7 @@ DESCRIPTION:Reminder: Austria: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cefcf5d8-nld3e20321
+UID:10.1787/cefcf5d8-nld3e8811
 SUMMARY:Nederland: Landenprofiel Gezondheid 2021
 DESCRIPTION:*Nederland: Landenprofiel Gezondheid 202
  1*\n\nDirectorate: Directorate for Emplo
@@ -341,7 +383,7 @@ DESCRIPTION:*Nederland: Landenprofiel Gezondheid 202
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 21:15, it is updated eac
+ is afternoon at 20:52, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -350,7 +392,7 @@ DESCRIPTION:*Nederland: Landenprofiel Gezondheid 202
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=c
  efcf5d8-nl.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -364,7 +406,7 @@ DESCRIPTION:Reminder: Nederland: Landenprofiel Gezon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/766c3111-ptd3e20372
+UID:10.1787/766c3111-ptd3e8862
 SUMMARY:Portugal: Perfil de Saúde do País 2021
 DESCRIPTION:*Portugal: Perfil de Saúde do País 2021*
  \n\nDirectorate: Directorate for Employm
@@ -373,22 +415,23 @@ DESCRIPTION:*Portugal: Perfil de Saúde do País 2021*
  87/766c3111-pt\nPublication type: Book\n
  Released as: PDF\n\nEmbargo date/time: M
  onday, 13 December 2021, 8:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 21:15, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=766c3111-pt.
-DTSTAMP:20211209T211521Z
+ niLibrary export: Friday, 10 December 20
+ 21, 19:24 (GMT)\nFreepreview export: nev
+ er\nOECD.org export: Friday, 10 December
+  2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 20:52, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=766c3111-pt.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -402,7 +445,7 @@ DESCRIPTION:Reminder: Portugal: Perfil de Saúde do P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e836525a-end3e20423
+UID:10.1787/e836525a-end3e8917
 SUMMARY:Poland: Country Health Profile 2021
 DESCRIPTION:*Poland: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -411,22 +454,23 @@ DESCRIPTION:*Poland: Country Health Profile 2021*\n\
  6525a-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=e836
- 525a-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=e836525a-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -440,7 +484,7 @@ DESCRIPTION:Reminder: Poland: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/17c34ec7-frd3e20475
+UID:10.1787/17c34ec7-frd3e8972
 SUMMARY:Belgique : Profils de santé par pays 202
  1
 DESCRIPTION:*Belgique : Profils de santé par pays 20
@@ -456,7 +500,7 @@ DESCRIPTION:*Belgique : Profils de santé par pays 20
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 21:15, it is updated e
+ this afternoon at 20:52, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -465,7 +509,7 @@ DESCRIPTION:*Belgique : Profils de santé par pays 20
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =17c34ec7-fr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -479,7 +523,7 @@ DESCRIPTION:Reminder: Belgique : Profils de santé pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e4c56532-end3e20526
+UID:10.1787/e4c56532-end3e9023
 SUMMARY:Germany: Country Health Profile 2021
 DESCRIPTION:*Germany: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -488,22 +532,23 @@ DESCRIPTION:*Germany: Country Health Profile 2021*\n
  c56532-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=e4c
- 56532-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=e4c56532-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -517,7 +562,7 @@ DESCRIPTION:Reminder: Germany: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/57e3abb5-end3e20579
+UID:10.1787/57e3abb5-end3e9078
 SUMMARY:Belgium: Country Health Profile 2021
 DESCRIPTION:*Belgium: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -526,22 +571,23 @@ DESCRIPTION:*Belgium: Country Health Profile 2021*\n
  e3abb5-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=57e
- 3abb5-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=57e3abb5-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -555,7 +601,7 @@ DESCRIPTION:Reminder: Belgium: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/11bb880a-lvd3e20631
+UID:10.1787/11bb880a-lvd3e9134
 SUMMARY:Latvija: Valsts veselības pārskats 2021
 DESCRIPTION:*Latvija: Valsts veselības pārskats 2021
  *\n\nDirectorate: Directorate for Employ
@@ -570,7 +616,7 @@ DESCRIPTION:*Latvija: Valsts veselības pārskats 2021
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 21:15, it is updated ea
+ his afternoon at 20:52, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -579,7 +625,7 @@ DESCRIPTION:*Latvija: Valsts veselības pārskats 2021
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  11bb880a-lv.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -593,7 +639,7 @@ DESCRIPTION:Reminder: Latvija: Valsts veselības pārs
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b9027e42-end3e20682
+UID:10.1787/b9027e42-end3e9185
 SUMMARY:Sweden: Country Health Profile 2021
 DESCRIPTION:*Sweden: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -602,22 +648,23 @@ DESCRIPTION:*Sweden: Country Health Profile 2021*\n\
  27e42-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=b902
- 7e42-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=b9027e42-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -631,7 +678,7 @@ DESCRIPTION:Reminder: Sweden: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f3b0171-end3e20734
+UID:10.1787/8f3b0171-end3e9240
 SUMMARY:Portugal: Country Health Profile 2021
 DESCRIPTION:*Portugal: Country Health Profile 2021*\
  n\nDirectorate: Directorate for Employme
@@ -640,22 +687,23 @@ DESCRIPTION:*Portugal: Country Health Profile 2021*\
  f3b0171-en\nPublication type: Book\nRele
  ased as: PDF\n\nEmbargo date/time: Monda
  y, 13 December 2021, 8:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:15, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=8f
- 3b0171-en.
-DTSTAMP:20211209T211521Z
+ brary export: Friday, 10 December 2021, 
+ 19:24 (GMT)\nFreepreview export: never\n
+ OECD.org export: Friday, 10 December 202
+ 1, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:52, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=8f3b0171-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -669,7 +717,7 @@ DESCRIPTION:Reminder: Portugal: Country Health Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6871e6c4-end3e20786
+UID:10.1787/6871e6c4-end3e9295
 SUMMARY:Norway: Country Health Profile 2021
 DESCRIPTION:*Norway: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -678,22 +726,23 @@ DESCRIPTION:*Norway: Country Health Profile 2021*\n\
  1e6c4-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=6871
- e6c4-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=6871e6c4-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -707,7 +756,7 @@ DESCRIPTION:Reminder: Norway: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fa634f4f-sld3e20838
+UID:10.1787/fa634f4f-sld3e9350
 SUMMARY:Slovenija: Zdravstveni profil leta 2021
 DESCRIPTION:*Slovenija: Zdravstveni profil leta 2021
  *\n\nDirectorate: Directorate for Employ
@@ -722,7 +771,7 @@ DESCRIPTION:*Slovenija: Zdravstveni profil leta 2021
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 21:15, it is updated 
+  this afternoon at 20:52, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -731,7 +780,7 @@ DESCRIPTION:*Slovenija: Zdravstveni profil leta 2021
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=fa634f4f-sl.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -745,7 +794,7 @@ DESCRIPTION:Reminder: Slovenija: Zdravstveni profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d1c2ed2-esd3e20890
+UID:10.1787/3d1c2ed2-esd3e9401
 SUMMARY:España: Perfil Sanitario del país 2021
 DESCRIPTION:*España: Perfil Sanitario del país 2021*
  \n\nDirectorate: Directorate for Employm
@@ -754,22 +803,23 @@ DESCRIPTION:*España: Perfil Sanitario del país 2021*
  3d1c2ed2-es\nPublication type: Book\nRel
  eased as: PDF\n\nEmbargo date/time: Mond
  ay, 13 December 2021, 8:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 21:15, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=3
- d1c2ed2-es.
-DTSTAMP:20211209T211521Z
+ ibrary export: Friday, 10 December 2021,
+  19:24 (GMT)\nFreepreview export: never\
+ nOECD.org export: Friday, 10 December 20
+ 21, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:52, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=3d1c2ed2-es.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -783,7 +833,7 @@ DESCRIPTION:Reminder: España: Perfil Sanitario del p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8c733d09-frd3e20941
+UID:10.1787/8c733d09-frd3e9457
 SUMMARY:France : Profils de santé par pays 2021
 DESCRIPTION:*France : Profils de santé par pays 2021
  *\n\nDirectorate: Directorate for Employ
@@ -792,22 +842,23 @@ DESCRIPTION:*France : Profils de santé par pays 2021
  8c733d09-fr\nPublication type: Book\nRel
  eased as: PDF\n\nEmbargo date/time: Mond
  ay, 13 December 2021, 8:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 21:15, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=8
- c733d09-fr.
-DTSTAMP:20211209T211521Z
+ ibrary export: Friday, 10 December 2021,
+  19:24 (GMT)\nFreepreview export: never\
+ nOECD.org export: Friday, 10 December 20
+ 21, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:52, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=8c733d09-fr.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -821,7 +872,7 @@ DESCRIPTION:Reminder: France : Profils de santé par
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/717e5510-end3e20992
+UID:10.1787/717e5510-end3e9512
 SUMMARY:Croatia: Country Health Profile 2021
 DESCRIPTION:*Croatia: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -830,22 +881,23 @@ DESCRIPTION:*Croatia: Country Health Profile 2021*\n
  7e5510-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=717
- e5510-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=717e5510-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -859,7 +911,7 @@ DESCRIPTION:Reminder: Croatia: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3017bfb-csd3e21044
+UID:10.1787/a3017bfb-csd3e9567
 SUMMARY:Česká republika: zdravotní profil země 2
  021
 DESCRIPTION:*Česká republika: zdravotní profil země 
@@ -869,22 +921,23 @@ DESCRIPTION:*Česká republika: zdravotní profil země
  87/a3017bfb-cs\nPublication type: Book\n
  Released as: PDF\n\nEmbargo date/time: M
  onday, 13 December 2021, 8:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 21:15, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=a3017bfb-cs.
-DTSTAMP:20211209T211521Z
+ niLibrary export: Friday, 10 December 20
+ 21, 19:24 (GMT)\nFreepreview export: nev
+ er\nOECD.org export: Friday, 10 December
+  2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor
+  more information see: https://oecd.gith
+ ub.io/embargo-calendar/embargoes-by-publ
+ ication.html.\n\nPlease note: This infor
+ mation was correct as of this afternoon 
+ at 20:52, it is updated each night; ther
+ efore any subsequent updates may not yet
+  be visible here. Also, please be aware 
+ that the different released media (PDF, 
+ HTML, etc.) are not necessarily released
+  at the same time. For complete and up-t
+ o-date information see here: http://kapp
+ a.oecd.org/v3/search?term=a3017bfb-cs.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -898,7 +951,7 @@ DESCRIPTION:Reminder: Česká republika: zdravotní pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d8ab884d-skd3e21095
+UID:10.1787/d8ab884d-skd3e9622
 SUMMARY:Slovensko: Zdravotný Profil Krajiny 2021
 DESCRIPTION:*Slovensko: Zdravotný Profil Krajiny 202
  1*\n\nDirectorate: Directorate for Emplo
@@ -913,7 +966,7 @@ DESCRIPTION:*Slovensko: Zdravotný Profil Krajiny 202
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 21:15, it is updated ea
+ his afternoon at 20:52, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -922,7 +975,7 @@ DESCRIPTION:*Slovensko: Zdravotný Profil Krajiny 202
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  d8ab884d-sk.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -936,7 +989,7 @@ DESCRIPTION:Reminder: Slovensko: Zdravotný Profil Kr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/33663583-ded3e21146
+UID:10.1787/33663583-ded3e9673
 SUMMARY:Deutschland: Länderprofil Gesundheit 202
  1
 DESCRIPTION:*Deutschland: Länderprofil Gesundheit 20
@@ -946,22 +999,23 @@ DESCRIPTION:*Deutschland: Länderprofil Gesundheit 20
  7/33663583-de\nPublication type: Book\nR
  eleased as: PDF\n\nEmbargo date/time: Mo
  nday, 13 December 2021, 8:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 21:15, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =33663583-de.
-DTSTAMP:20211209T211521Z
+ iLibrary export: Friday, 10 December 202
+ 1, 19:24 (GMT)\nFreepreview export: neve
+ r\nOECD.org export: Friday, 10 December 
+ 2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:52, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=33663583-de.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -975,7 +1029,7 @@ DESCRIPTION:Reminder: Deutschland: Länderprofil Gesu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50209875-etd3e21198
+UID:10.1787/50209875-etd3e9728
 SUMMARY:Eesti: riigi terviseprofiil 2021
 DESCRIPTION:*Eesti: riigi terviseprofiil 2021*\n\nDi
  rectorate: Directorate for Employment, L
@@ -990,7 +1044,7 @@ DESCRIPTION:*Eesti: riigi terviseprofiil 2021*\n\nDi
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:15, it is updated each nig
+ ternoon at 20:52, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -999,7 +1053,7 @@ DESCRIPTION:*Eesti: riigi terviseprofiil 2021*\n\nDi
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=502098
  75-et.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1013,7 +1067,7 @@ DESCRIPTION:Reminder: Eesti: riigi terviseprofiil 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c1a721b0-end3e21249
+UID:10.1787/c1a721b0-end3e9780
 SUMMARY:Bulgaria: Country Health Profile 2021
 DESCRIPTION:*Bulgaria: Country Health Profile 2021*\
  n\nDirectorate: Directorate for Employme
@@ -1022,22 +1076,23 @@ DESCRIPTION:*Bulgaria: Country Health Profile 2021*\
  1a721b0-en\nPublication type: Book\nRele
  ased as: PDF\n\nEmbargo date/time: Monda
  y, 13 December 2021, 8:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:15, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=c1
- a721b0-en.
-DTSTAMP:20211209T211521Z
+ brary export: Friday, 10 December 2021, 
+ 19:24 (GMT)\nFreepreview export: never\n
+ OECD.org export: Friday, 10 December 202
+ 1, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:52, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=c1a721b0-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1051,7 +1106,7 @@ DESCRIPTION:Reminder: Bulgaria: Country Health Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd18ea00-end3e21301
+UID:10.1787/fd18ea00-end3e9835
 SUMMARY:Netherlands: Country Health Profile 2021
 DESCRIPTION:*Netherlands: Country Health Profile 202
  1*\n\nDirectorate: Directorate for Emplo
@@ -1060,22 +1115,23 @@ DESCRIPTION:*Netherlands: Country Health Profile 202
  7/fd18ea00-en\nPublication type: Book\nR
  eleased as: PDF\n\nEmbargo date/time: Mo
  nday, 13 December 2021, 8:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 21:15, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =fd18ea00-en.
-DTSTAMP:20211209T211521Z
+ iLibrary export: Friday, 10 December 202
+ 1, 19:24 (GMT)\nFreepreview export: neve
+ r\nOECD.org export: Friday, 10 December 
+ 2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:52, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=fd18ea00-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1089,7 +1145,7 @@ DESCRIPTION:Reminder: Netherlands: Country Health Pr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4ab8ea73-end3e21353
+UID:10.1787/4ab8ea73-end3e9890
 SUMMARY:Greece: Country Health Profile 2021
 DESCRIPTION:*Greece: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -1098,22 +1154,23 @@ DESCRIPTION:*Greece: Country Health Profile 2021*\n\
  8ea73-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=4ab8
- ea73-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=4ab8ea73-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1127,7 +1184,7 @@ DESCRIPTION:Reminder: Greece: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f7fb3b8-end3e21405
+UID:10.1787/4f7fb3b8-end3e9945
 SUMMARY:Ireland: Country Health Profile 2021
 DESCRIPTION:*Ireland: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -1136,22 +1193,23 @@ DESCRIPTION:*Ireland: Country Health Profile 2021*\n
  7fb3b8-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=4f7
- fb3b8-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=4f7fb3b8-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1165,7 +1223,7 @@ DESCRIPTION:Reminder: Ireland: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c2fe9d30-end3e21457
+UID:10.1787/c2fe9d30-end3e10000
 SUMMARY:Cyprus: Country Health Profile 2021
 DESCRIPTION:*Cyprus: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -1174,22 +1232,23 @@ DESCRIPTION:*Cyprus: Country Health Profile 2021*\n\
  e9d30-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=c2fe
- 9d30-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=c2fe9d30-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1203,7 +1262,7 @@ DESCRIPTION:Reminder: Cyprus: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f154e482-eld3e21510
+UID:10.1787/f154e482-eld3e10055
 SUMMARY:Ελλάδα: Προφίλ Υγείας 2021
 DESCRIPTION:*Ελλάδα: Προφίλ Υγείας 2021*\n\nDirector
  ate: Directorate for Employment, Labour 
@@ -1218,7 +1277,7 @@ DESCRIPTION:*Ελλάδα: Προφίλ Υγείας 2021*\n\nDirector
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:15, it is updated each night; there
+ t 20:52, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1226,7 +1285,7 @@ DESCRIPTION:*Ελλάδα: Προφίλ Υγείας 2021*\n\nDirector
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=f154e482-el.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1239,7 +1298,7 @@ DESCRIPTION:Reminder: Ελλάδα: Προφίλ Υγείας 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92056604-itd3e21561
+UID:10.1787/92056604-itd3e10107
 SUMMARY:Italia: Profilo della sanità 2021
 DESCRIPTION:*Italia: Profilo della sanità 2021*\n\nD
  irectorate: Directorate for Employment, 
@@ -1248,22 +1307,23 @@ DESCRIPTION:*Italia: Profilo della sanità 2021*\n\nD
  604-it\nPublication type: Book\nReleased
   as: PDF\n\nEmbargo date/time: Monday, 1
  3 December 2021, 8:00 (GMT)\n\n\niLibrar
- y export: never\nFreepreview export: nev
- er\nOECD.org export: never\nFTI loaded: 
- ✗\n\nFor more information see: https://o
- ecd.github.io/embargo-calendar/embargoes
- -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 21:15, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=920566
- 04-it.
-DTSTAMP:20211209T211521Z
+ y export: Friday, 10 December 2021, 19:2
+ 4 (GMT)\nFreepreview export: never\nOECD
+ .org export: Friday, 10 December 2021, 1
+ 9:00 (GMT)\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:52
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=92056604-it.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1277,7 +1337,7 @@ DESCRIPTION:Reminder: Italia: Profilo della sanità 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3ca4a7a5-isd3e21612
+UID:10.1787/3ca4a7a5-isd3e10162
 SUMMARY:Ísland: Heilbrigðismál Landsyfirlit Árið
   2021
 DESCRIPTION:*Ísland: Heilbrigðismál Landsyfirlit Ári
@@ -1293,7 +1353,7 @@ DESCRIPTION:*Ísland: Heilbrigðismál Landsyfirlit Ári
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 21:15, it is up
+  as of this afternoon at 20:52, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1302,7 +1362,7 @@ DESCRIPTION:*Ísland: Heilbrigðismál Landsyfirlit Ári
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=3ca4a7a5-is.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1316,7 +1376,7 @@ DESCRIPTION:Reminder: Ísland: Heilbrigðismál Landsyf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5341c87c-end3e21663
+UID:10.1787/5341c87c-end3e10213
 SUMMARY:Iceland: Country Health Profile 2021
 DESCRIPTION:*Iceland: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -1325,22 +1385,23 @@ DESCRIPTION:*Iceland: Country Health Profile 2021*\n
  41c87c-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=534
- 1c87c-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=5341c87c-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1354,7 +1415,7 @@ DESCRIPTION:Reminder: Iceland: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/482f3633-end3e21715
+UID:10.1787/482f3633-end3e10268
 SUMMARY:Hungary: Country Health Profile 2021
 DESCRIPTION:*Hungary: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -1363,22 +1424,23 @@ DESCRIPTION:*Hungary: Country Health Profile 2021*\n
  2f3633-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=482
- f3633-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=482f3633-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1392,7 +1454,7 @@ DESCRIPTION:Reminder: Hungary: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b006ca17-svd3e21766
+UID:10.1787/b006ca17-svd3e10323
 SUMMARY:Sverige: Landprofil hälsa 2021
 DESCRIPTION:*Sverige: Landprofil hälsa 2021*\n\nDire
  ctorate: Directorate for Employment, Lab
@@ -1401,22 +1463,23 @@ DESCRIPTION:*Sverige: Landprofil hälsa 2021*\n\nDire
  -sv\nPublication type: Book\nReleased as
  : PDF\n\nEmbargo date/time: Monday, 13 D
  ecember 2021, 8:00 (GMT)\n\n\niLibrary e
- xport: never\nFreepreview export: never\
- nOECD.org export: never\nFTI loaded: ✗\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 21:15, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=b006ca17-
- sv.
-DTSTAMP:20211209T211521Z
+ xport: Friday, 10 December 2021, 19:24 (
+ GMT)\nFreepreview export: never\nOECD.or
+ g export: Friday, 10 December 2021, 19:0
+ 0 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 20:52, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=b006ca17-sv.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1429,7 +1492,7 @@ DESCRIPTION:Reminder: Sverige: Landprofil hälsa 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/74ad9999-end3e21818
+UID:10.1787/74ad9999-end3e10378
 SUMMARY:Romania: Country Health Profile 2021
 DESCRIPTION:*Romania: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -1438,22 +1501,23 @@ DESCRIPTION:*Romania: Country Health Profile 2021*\n
  ad9999-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=74a
- d9999-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=74ad9999-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1467,7 +1531,7 @@ DESCRIPTION:Reminder: Romania: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d668926-end3e21870
+UID:10.1787/7d668926-end3e10434
 SUMMARY:France: Country Health Profile 2021
 DESCRIPTION:*France: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -1476,22 +1540,23 @@ DESCRIPTION:*France: Country Health Profile 2021*\n\
  68926-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=7d66
- 8926-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=7d668926-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1505,7 +1570,7 @@ DESCRIPTION:Reminder: France: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8b341a5e-end3e21922
+UID:10.1787/8b341a5e-end3e10489
 SUMMARY:Czech Republic: Country Health Profile 2
  021
 DESCRIPTION:*Czech Republic: Country Health Profile 
@@ -1515,22 +1580,23 @@ DESCRIPTION:*Czech Republic: Country Health Profile
  1787/8b341a5e-en\nPublication type: Book
  \nReleased as: PDF\n\nEmbargo date/time:
   Monday, 13 December 2021, 8:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 21:15, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=8b341a5e-en.
-DTSTAMP:20211209T211521Z
+ n\niLibrary export: Friday, 10 December 
+ 2021, 19:24 (GMT)\nFreepreview export: n
+ ever\nOECD.org export: Friday, 10 Decemb
+ er 2021, 19:00 (GMT)\nFTI loaded: ✓\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 20:52, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=8b341a5e-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1544,7 +1610,7 @@ DESCRIPTION:Reminder: Czech Republic: Country Health
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc081ccc-lvd3e21974
+UID:10.1787/bc081ccc-lvd3e10544
 SUMMARY:Lietuva: šalies sveikatos profilis 2021
 DESCRIPTION:*Lietuva: šalies sveikatos profilis 2021
  *\n\nDirectorate: Directorate for Employ
@@ -1553,22 +1619,23 @@ DESCRIPTION:*Lietuva: šalies sveikatos profilis 2021
  787/bc081ccc-lv\nPublication type: Book\
  nReleased as: PDF\n\nEmbargo date/time: 
  Monday, 13 December 2021, 8:00 (GMT)\n\n
- \niLibrary export: never\nFreepreview ex
- port: never\nOECD.org export: never\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 21:15, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=bc081ccc-lv.
-DTSTAMP:20211209T211521Z
+ \niLibrary export: Friday, 10 December 2
+ 021, 19:24 (GMT)\nFreepreview export: ne
+ ver\nOECD.org export: Friday, 10 Decembe
+ r 2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 20:52, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=bc081ccc-lv.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1582,7 +1649,7 @@ DESCRIPTION:Reminder: Lietuva: šalies sveikatos prof
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b1c792f4-rod3e22025
+UID:10.1787/b1c792f4-rod3e10599
 SUMMARY:Romania: Profilul Sănătății în 2021
 DESCRIPTION:*Romania: Profilul Sănătății în 2021*\n\
  nDirectorate: Directorate for Employment
@@ -1597,7 +1664,7 @@ DESCRIPTION:*Romania: Profilul Sănătății în 2021*\n\
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:15, it is updated each 
+  afternoon at 20:52, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -1606,7 +1673,7 @@ DESCRIPTION:*Romania: Profilul Sănătății în 2021*\n\
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=b1c
  792f4-ro.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1620,7 +1687,7 @@ DESCRIPTION:Reminder: Romania: Profilul Sănătății în
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e74e317-end3e22076
+UID:10.1787/2e74e317-end3e10650
 SUMMARY:Finland: Country Health Profile 2021
 DESCRIPTION:*Finland: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -1629,22 +1696,23 @@ DESCRIPTION:*Finland: Country Health Profile 2021*\n
  74e317-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=2e7
- 4e317-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=2e74e317-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1658,7 +1726,7 @@ DESCRIPTION:Reminder: Finland: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bdde3767-ded3e22129
+UID:10.1787/bdde3767-ded3e10705
 SUMMARY:Österreich: Länderprofil Gesundheit 2021
 DESCRIPTION:*Österreich: Länderprofil Gesundheit 202
  1*\n\nDirectorate: Directorate for Emplo
@@ -1673,7 +1741,7 @@ DESCRIPTION:*Österreich: Länderprofil Gesundheit 202
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 21:15, it is updated ea
+ his afternoon at 20:52, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1682,7 +1750,7 @@ DESCRIPTION:*Österreich: Länderprofil Gesundheit 202
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  bdde3767-de.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1696,7 +1764,7 @@ DESCRIPTION:Reminder: Österreich: Länderprofil Gesun
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df3f45dd-bgd3e22180
+UID:10.1787/df3f45dd-bgd3e10757
 SUMMARY:България: Здравен профил за страната 202
  1
 DESCRIPTION:*България: Здравен профил за страната 20
@@ -1712,7 +1780,7 @@ DESCRIPTION:*България: Здравен профил за страната
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 21:15, it is update
+ of this afternoon at 20:52, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -1721,7 +1789,7 @@ DESCRIPTION:*България: Здравен профил за страната
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=df3f45dd-bg.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1735,7 +1803,7 @@ DESCRIPTION:Reminder: България: Здравен профил за ст
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6fefbbc-nod3e22231
+UID:10.1787/e6fefbbc-nod3e10808
 SUMMARY:Norge: Landprofil 2021
 DESCRIPTION:*Norge: Landprofil 2021*\n\nDirectorate:
   Directorate for Employment, Labour and 
@@ -1750,7 +1818,7 @@ DESCRIPTION:*Norge: Landprofil 2021*\n\nDirectorate:
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:15, it is updated each night; there
+ t 20:52, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1758,7 +1826,7 @@ DESCRIPTION:*Norge: Landprofil 2021*\n\nDirectorate:
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=e6fefbbc-no.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1771,7 +1839,7 @@ DESCRIPTION:Reminder: Norge: Landprofil 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1313047c-end3e22282
+UID:10.1787/1313047c-end3e10859
 SUMMARY:Slovenia: Country Health Profile 2021
 DESCRIPTION:*Slovenia: Country Health Profile 2021*\
  n\nDirectorate: Directorate for Employme
@@ -1780,22 +1848,23 @@ DESCRIPTION:*Slovenia: Country Health Profile 2021*\
  313047c-en\nPublication type: Book\nRele
  ased as: PDF\n\nEmbargo date/time: Monda
  y, 13 December 2021, 8:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 21:15, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=13
- 13047c-en.
-DTSTAMP:20211209T211521Z
+ brary export: Friday, 10 December 2021, 
+ 19:24 (GMT)\nFreepreview export: never\n
+ OECD.org export: Friday, 10 December 202
+ 1, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:52, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=1313047c-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1809,7 +1878,7 @@ DESCRIPTION:Reminder: Slovenia: Country Health Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/919f55f0-end3e22334
+UID:10.1787/919f55f0-end3e10914
 SUMMARY:Latvia: Country Health Profile 2021
 DESCRIPTION:*Latvia: Country Health Profile 2021*\n\
  nDirectorate: Directorate for Employment
@@ -1818,22 +1887,23 @@ DESCRIPTION:*Latvia: Country Health Profile 2021*\n\
  f55f0-en\nPublication type: Book\nReleas
  ed as: PDF\n\nEmbargo date/time: Monday,
   13 December 2021, 8:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 21:15, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=919f
- 55f0-en.
-DTSTAMP:20211209T211521Z
+ ary export: Friday, 10 December 2021, 19
+ :24 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Friday, 10 December 2021,
+  19:00 (GMT)\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 20:
+ 52, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=919f55f0-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1847,7 +1917,7 @@ DESCRIPTION:Reminder: Latvia: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24be62c0-hrd3e22386
+UID:10.1787/24be62c0-hrd3e10969
 SUMMARY:Hrvatska: pregled stanja zdravlja i zdra
  vstvene zaštite 2021
 DESCRIPTION:*Hrvatska: pregled stanja zdravlja i zdr
@@ -1864,7 +1934,7 @@ DESCRIPTION:*Hrvatska: pregled stanja zdravlja i zdr
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 1:15, it is updated each night; therefor
+ 0:52, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -1872,7 +1942,7 @@ DESCRIPTION:*Hrvatska: pregled stanja zdravlja i zdr
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=24be62c0-hr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1886,7 +1956,7 @@ DESCRIPTION:Reminder: Hrvatska: pregled stanja zdrav
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bb1946e-end3e22438
+UID:10.1787/5bb1946e-end3e11020
 SUMMARY:Italy: Country Health Profile 2021
 DESCRIPTION:*Italy: Country Health Profile 2021*\n\n
  Directorate: Directorate for Employment,
@@ -1895,22 +1965,23 @@ DESCRIPTION:*Italy: Country Health Profile 2021*\n\n
  946e-en\nPublication type: Book\nRelease
  d as: PDF\n\nEmbargo date/time: Monday, 
  13 December 2021, 8:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:15, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=5bb19
- 46e-en.
-DTSTAMP:20211209T211521Z
+ ry export: Friday, 10 December 2021, 19:
+ 24 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Friday, 10 December 2021, 
+ 19:00 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:5
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=5bb1946e-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1924,7 +1995,7 @@ DESCRIPTION:Reminder: Italy: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9c7129fc-eld3e22490
+UID:10.1787/9c7129fc-eld3e11076
 SUMMARY:Κύπρος: Προφίλ Υγείας 2021
 DESCRIPTION:*Κύπρος: Προφίλ Υγείας 2021*\n\nDirector
  ate: Directorate for Employment, Labour 
@@ -1933,21 +2004,23 @@ DESCRIPTION:*Κύπρος: Προφίλ Υγείας 2021*\n\nDirector
  ublication type: Book\nReleased as: PDF\
  n\nEmbargo date/time: Monday, 13 Decembe
  r 2021, 8:00 (GMT)\n\n\niLibrary export:
-  never\nFreepreview export: never\nOECD.
- org export: never\nFTI loaded: ✗\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 21:15, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=9c7129fc-el.
-DTSTAMP:20211209T211521Z
+  Friday, 10 December 2021, 19:24 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: Friday, 10 December 2021, 19:00 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:52, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=9c7129fc-el.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1960,7 +2033,7 @@ DESCRIPTION:Reminder: Κύπρος: Προφίλ Υγείας 2021
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4ba546fe-end3e22541
+UID:10.1787/4ba546fe-end3e11131
 SUMMARY:Slovak Republic: Country Health Profile 
  2021
 DESCRIPTION:*Slovak Republic: Country Health Profile
@@ -1970,22 +2043,24 @@ DESCRIPTION:*Slovak Republic: Country Health Profile
  .1787/4ba546fe-en\nPublication type: Boo
  k\nReleased as: PDF\n\nEmbargo date/time
  : Monday, 13 December 2021, 8:00 (GMT)\n
- \n\niLibrary export: never\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✗\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 21:15, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=4ba546fe-en.
-DTSTAMP:20211209T211521Z
+ \n\niLibrary export: Friday, 10 December
+  2021, 19:24 (GMT)\nFreepreview export: 
+ never\nOECD.org export: Friday, 10 Decem
+ ber 2021, 19:00 (GMT)\nFTI loaded: ✓\n\n
+ For more information see: https://oecd.g
+ ithub.io/embargo-calendar/embargoes-by-p
+ ublication.html.\n\nPlease note: This in
+ formation was correct as of this afterno
+ on at 20:52, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=4ba546fe-en
+ .
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -1999,7 +2074,7 @@ DESCRIPTION:Reminder: Slovak Republic: Country Healt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a6c1caa5-end3e22593
+UID:10.1787/a6c1caa5-end3e11186
 SUMMARY:Estonia: Country Health Profile 2021
 DESCRIPTION:*Estonia: Country Health Profile 2021*\n
  \nDirectorate: Directorate for Employmen
@@ -2008,22 +2083,23 @@ DESCRIPTION:*Estonia: Country Health Profile 2021*\n
  c1caa5-en\nPublication type: Book\nRelea
  sed as: PDF\n\nEmbargo date/time: Monday
  , 13 December 2021, 8:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 21:15, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=a6c
- 1caa5-en.
-DTSTAMP:20211209T211521Z
+ rary export: Friday, 10 December 2021, 1
+ 9:24 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=a6c1caa5-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2037,7 +2113,7 @@ DESCRIPTION:Reminder: Estonia: Country Health Profil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b562ffe2-pld3e22644
+UID:10.1787/b562ffe2-pld3e11241
 SUMMARY:Polska: Profil systemu ochrony zdrowia 2
  021
 DESCRIPTION:*Polska: Profil systemu ochrony zdrowia 
@@ -2053,7 +2129,7 @@ DESCRIPTION:*Polska: Profil systemu ochrony zdrowia
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 21:15, it is updated
+ f this afternoon at 20:52, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -2062,7 +2138,7 @@ DESCRIPTION:*Polska: Profil systemu ochrony zdrowia
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=b562ffe2-pl.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2076,7 +2152,7 @@ DESCRIPTION:Reminder: Polska: Profil systemu ochrony
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3c147ce7-end3e22695
+UID:10.1787/3c147ce7-end3e11292
 SUMMARY:Luxembourg: Country Health Profile 2021
 DESCRIPTION:*Luxembourg: Country Health Profile 2021
  *\n\nDirectorate: Directorate for Employ
@@ -2085,22 +2161,23 @@ DESCRIPTION:*Luxembourg: Country Health Profile 2021
  /3c147ce7-en\nPublication type: Book\nRe
  leased as: PDF\n\nEmbargo date/time: Mon
  day, 13 December 2021, 8:00 (GMT)\n\n\ni
- Library export: never\nFreepreview expor
- t: never\nOECD.org export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 21:15, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 3c147ce7-en.
-DTSTAMP:20211209T211521Z
+ Library export: Friday, 10 December 2021
+ , 19:24 (GMT)\nFreepreview export: never
+ \nOECD.org export: Friday, 10 December 2
+ 021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  20:52, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=3c147ce7-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2114,7 +2191,7 @@ DESCRIPTION:Reminder: Luxembourg: Country Health Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8c5e55a7-nld3e22748
+UID:10.1787/8c5e55a7-nld3e11347
 SUMMARY:België: Landenprofiel Gezondheid 2021
 DESCRIPTION:*België: Landenprofiel Gezondheid 2021*\
  n\nDirectorate: Directorate for Employme
@@ -2129,7 +2206,7 @@ DESCRIPTION:*België: Landenprofiel Gezondheid 2021*\
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:15, it is updated each n
+ afternoon at 20:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2138,7 +2215,7 @@ DESCRIPTION:*België: Landenprofiel Gezondheid 2021*\
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8c5e
  55a7-nl.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2152,7 +2229,7 @@ DESCRIPTION:Reminder: België: Landenprofiel Gezondhe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd4b1ed7-end3e22799
+UID:10.1787/cd4b1ed7-end3e11399
 SUMMARY:Malta: Country Health Profile 2021
 DESCRIPTION:*Malta: Country Health Profile 2021*\n\n
  Directorate: Directorate for Employment,
@@ -2161,22 +2238,23 @@ DESCRIPTION:*Malta: Country Health Profile 2021*\n\n
  1ed7-en\nPublication type: Book\nRelease
  d as: PDF\n\nEmbargo date/time: Monday, 
  13 December 2021, 8:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 21:15, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=cd4b1
- ed7-en.
-DTSTAMP:20211209T211521Z
+ ry export: Friday, 10 December 2021, 19:
+ 24 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Friday, 10 December 2021, 
+ 19:00 (GMT)\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:5
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=cd4b1ed7-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2190,7 +2268,7 @@ DESCRIPTION:Reminder: Malta: Country Health Profile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30edbf45-dad3e22851
+UID:10.1787/30edbf45-dad3e11454
 SUMMARY:Danmark: National sundhedsprofil 2021
 DESCRIPTION:*Danmark: National sundhedsprofil 2021*\
  n\nDirectorate: Directorate for Employme
@@ -2205,7 +2283,7 @@ DESCRIPTION:*Danmark: National sundhedsprofil 2021*\
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:15, it is updated each 
+  afternoon at 20:52, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -2214,7 +2292,7 @@ DESCRIPTION:*Danmark: National sundhedsprofil 2021*\
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=30e
  dbf45-da.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2228,7 +2306,7 @@ DESCRIPTION:Reminder: Danmark: National sundhedsprof
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/20b64b36-end3e22902
+UID:10.1787/20b64b36-end3e11505
 SUMMARY:Lithuania: Country Health Profile 2021
 DESCRIPTION:*Lithuania: Country Health Profile 2021*
  \n\nDirectorate: Directorate for Employm
@@ -2237,22 +2315,23 @@ DESCRIPTION:*Lithuania: Country Health Profile 2021*
  20b64b36-en\nPublication type: Book\nRel
  eased as: PDF\n\nEmbargo date/time: Mond
  ay, 13 December 2021, 8:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 21:15, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=2
- 0b64b36-en.
-DTSTAMP:20211209T211521Z
+ ibrary export: Friday, 10 December 2021,
+  19:24 (GMT)\nFreepreview export: never\
+ nOECD.org export: Friday, 10 December 20
+ 21, 19:00 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 20:52, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=20b64b36-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2266,7 +2345,7 @@ DESCRIPTION:Reminder: Lithuania: Country Health Prof
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bac593d6-hud3e22954
+UID:10.1787/bac593d6-hud3e11560
 SUMMARY:Magyarország: Egészségügyi országprofil 
  2021
 DESCRIPTION:*Magyarország: Egészségügyi országprofil
@@ -2282,7 +2361,7 @@ DESCRIPTION:*Magyarország: Egészségügyi országprofil
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 21:15, it is upd
+ as of this afternoon at 20:52, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -2291,7 +2370,7 @@ DESCRIPTION:*Magyarország: Egészségügyi országprofil
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=bac593d6-hu.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2305,7 +2384,7 @@ DESCRIPTION:Reminder: Magyarország: Egészségügyi ors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8bbe2ecb-fid3e23005
+UID:10.1787/8bbe2ecb-fid3e11611
 SUMMARY:Suomi: Maan terveysprofiili 2021
 DESCRIPTION:*Suomi: Maan terveysprofiili 2021*\n\nDi
  rectorate: Directorate for Employment, L
@@ -2314,22 +2393,23 @@ DESCRIPTION:*Suomi: Maan terveysprofiili 2021*\n\nDi
  cb-fi\nPublication type: Book\nReleased 
  as: PDF\n\nEmbargo date/time: Monday, 13
   December 2021, 8:00 (GMT)\n\n\niLibrary
-  export: never\nFreepreview export: neve
- r\nOECD.org export: never\nFTI loaded: ✗
- \n\nFor more information see: https://oe
- cd.github.io/embargo-calendar/embargoes-
- by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 21:15, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=8bbe2ec
- b-fi.
-DTSTAMP:20211209T211521Z
+  export: Friday, 10 December 2021, 19:24
+  (GMT)\nFreepreview export: never\nOECD.
+ org export: Friday, 10 December 2021, 19
+ :00 (GMT)\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 20:52,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=8bbe2ecb-fi.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T080000Z
 DTEND:20211213T081500Z
 TRANSP:TRANSPARENT
@@ -2343,7 +2423,7 @@ DESCRIPTION:Reminder: Suomi: Maan terveysprofiili 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/686f2832-frd3e23057
+UID:10.1787/686f2832-frd3e11666
 SUMMARY:Examens environnementaux de l'OCDE : Fin
  lande 2021 (version abrégée)
 DESCRIPTION:*Examens environnementaux de l'OCDE : Fi
@@ -2355,21 +2435,21 @@ DESCRIPTION:*Examens environnementaux de l'OCDE : Fi
  y, 13 December 2021, 13:00 (GMT)\n\n\niL
  ibrary export: Wednesday, 8 December 202
  1, 19:24 (GMT)\nFreepreview export: neve
- r\nOECD.org export: Wednesday, 8 Decembe
- r 2021, 18:57 (GMT)\nFTI loaded: ✓\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 21:15, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=686f2832-fr.
-DTSTAMP:20211209T211521Z
+ r\nOECD.org export: Friday, 10 December 
+ 2021, 19:00 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:52, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=686f2832-fr.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T130000Z
 DTEND:20211213T131500Z
 TRANSP:TRANSPARENT
@@ -2383,7 +2463,7 @@ DESCRIPTION:Reminder: Examens environnementaux de l'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d73547b7-end3e23112
+UID:10.1787/d73547b7-end3e11722
 SUMMARY:OECD Environmental Performance Reviews: 
  Finland 2021
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -2395,21 +2475,21 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  3 December 2021, 13:00 (GMT)\n\n\niLibra
  ry export: Wednesday, 8 December 2021, 1
  9:24 (GMT)\nFreepreview export: never\nO
- ECD.org export: Wednesday, 8 December 20
- 21, 18:57 (GMT)\nFTI loaded: ✓\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 21:15, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=d73547b7-en.
-DTSTAMP:20211209T211521Z
+ ECD.org export: Friday, 10 December 2021
+ , 19:00 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :52, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=d73547b7-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211213T130000Z
 DTEND:20211213T131500Z
 TRANSP:TRANSPARENT
@@ -2423,7 +2503,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dfd5f806-end3e23167
+UID:10.1787/dfd5f806-end3e11777
 SUMMARY:OECD Public Governance Reviews: Haiti - 
  Strengthening Public Administration for 
  Resilient and Sustainable Governance
@@ -2443,7 +2523,7 @@ DESCRIPTION:*OECD Public Governance Reviews: Haiti -
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:15, it
+ orrect as of this afternoon at 20:52, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -2452,7 +2532,7 @@ DESCRIPTION:*OECD Public Governance Reviews: Haiti -
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=dfd5f806-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211214T080000Z
 DTEND:20211214T081500Z
 TRANSP:TRANSPARENT
@@ -2468,7 +2548,7 @@ DESCRIPTION:Reminder: OECD Public Governance Reviews
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f826ac45-frd3e24690
+UID:10.1787/f826ac45-frd3e13299
 SUMMARY:Examens de l'OCDE sur la gouvernance pub
  lique : Haïti - Renforcer l'administrati
  on pour une gouvernance publique résilie
@@ -2490,7 +2570,7 @@ DESCRIPTION:*Examens de l'OCDE sur la gouvernance pu
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 21:15, it is updated each night;
+ noon at 20:52, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -2499,7 +2579,7 @@ DESCRIPTION:*Examens de l'OCDE sur la gouvernance pu
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=f826ac45-
  fr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211214T080000Z
 DTEND:20211214T081500Z
 TRANSP:TRANSPARENT
@@ -2515,7 +2595,7 @@ DESCRIPTION:Reminder: Examens de l'OCDE sur la gouve
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f376127b-end3e26425
+UID:10.1787/f376127b-end3e15035
 SUMMARY:Harmful Tax Practices – 2020 Peer Review
   Reports on the Exchange of Information 
  on Tax Rulings - Inclusive Framework on 
@@ -2530,23 +2610,23 @@ DESCRIPTION:*Harmful Tax Practices – 2020 Peer Revie
  nReleased as: ePub, HTML, Paperback, PDF
  \n\nEmbargo date/time: Tuesday, 14 Decem
  ber 2021, 10:00 (GMT)\n\n\niLibrary expo
- rt: Thursday, 9 December 2021, 19:36 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: Thursday, 9 December 2021, 19:03
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 21:15, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=f376127b-en.
-DTSTAMP:20211209T211521Z
+ rt: Friday, 10 December 2021, 19:24 (GMT
+ )\nFreepreview export: never\nOECD.org e
+ xport: Thursday, 9 December 2021, 19:03 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:52, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=f376127b-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211214T100000Z
 DTEND:20211214T101500Z
 TRANSP:TRANSPARENT
@@ -2562,7 +2642,7 @@ DESCRIPTION:Reminder: Harmful Tax Practices – 2020 P
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f1b9809c-frd3e29189
+UID:10.1787/f1b9809c-frd3e17799
 SUMMARY:Pratiques fiscales dommageables – Rappor
  ts d’examen par les pairs relatifs à l’é
  change de renseignements sur les décisio
@@ -2579,23 +2659,23 @@ DESCRIPTION:*Pratiques fiscales dommageables – Rappo
  blication type: Book\nReleased as: PDF\n
  \nEmbargo date/time: Tuesday, 14 Decembe
  r 2021, 10:00 (GMT)\n\n\niLibrary export
- : Thursday, 9 December 2021, 19:36 (GMT)
- \nFreepreview export: never\nOECD.org ex
- port: Thursday, 9 December 2021, 19:03 (
- GMT)\nFTI loaded: ✗\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 21:15, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=f1b9809c-fr.
-DTSTAMP:20211209T211521Z
+ : Friday, 10 December 2021, 19:24 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Friday, 10 December 2021, 19:00 (GM
+ T)\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:52, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=f1b9809c-fr.
+DTSTAMP:20211210T205233Z
 DTSTART:20211214T100000Z
 DTEND:20211214T101500Z
 TRANSP:TRANSPARENT
@@ -2613,7 +2693,48 @@ DESCRIPTION:Reminder: Pratiques fiscales dommageable
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e6e58c6-end3e38022
+UID:10.1787/c2c1d276-end3e25874
+SUMMARY:Artificial intelligence and employment  
+ - New cross-country evidence
+DESCRIPTION:*Artificial intelligence and employment 
+ - New cross-country evidence*\n\nDirecto
+ rate: Directorate for Employment, Labour
+  and Social Affairs\nLanguage: English\n
+ DOI: https://doi.org/10.1787/c2c1d276-en
+ \nPublication type: Paper\nReleased as: 
+ PDF\n\nEmbargo date/time: Wednesday, 15 
+ December 2021, 6:00 (GMT)\n\n\niLibrary 
+ export: Friday, 10 December 2021, 19:24 
+ (GMT)\nFreepreview export: never\nOECD.o
+ rg export: Friday, 10 December 2021, 19:
+ 00 (GMT)\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 20:52, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=c2c1d276-en.
+DTSTAMP:20211210T205233Z
+DTSTART:20211215T060000Z
+DTEND:20211215T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Artificial intelligence and em
+ ployment  - New cross-country evidence
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6e6e58c6-end3e26688
 SUMMARY:OECD Energy Investment Policy Review of 
  Ukraine
 DESCRIPTION:*OECD Energy Investment Policy Review of
@@ -2624,24 +2745,24 @@ DESCRIPTION:*OECD Energy Investment Policy Review of
  -alone monograph\nReleased as: ePub, HTM
  L, Paperback, PDF\n\nEmbargo date/time: 
  Wednesday, 15 December 2021, 8:00 (GMT)\
- n\n\niLibrary export: Thursday, 9 Decemb
- er 2021, 19:36 (GMT)\nFreepreview export
- : never\nOECD.org export: Thursday, 9 De
- cember 2021, 19:03 (GMT)\nFTI loaded: ✓\
- n\nFor more information see: https://oec
- d.github.io/embargo-calendar/embargoes-b
- y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 21:15, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=6e6e58c6
- -en.
-DTSTAMP:20211209T211521Z
+ n\n\niLibrary export: Friday, 10 Decembe
+ r 2021, 19:24 (GMT)\nFreepreview export:
+  never\nOECD.org export: Thursday, 9 Dec
+ ember 2021, 19:03 (GMT)\nFTI loaded: ✓\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 20:52, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=6e6e58c6-
+ en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211215T080000Z
 DTEND:20211215T081500Z
 TRANSP:TRANSPARENT
@@ -2655,7 +2776,7 @@ DESCRIPTION:Reminder: OECD Energy Investment Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c511aa1e-en-frd3e39161
+UID:10.1787/c511aa1e-en-frd3e27827
 SUMMARY:Revenue Statistics in Africa 2021 (en) |
  | Statistiques des recettes publiques en
   Afrique 2021
@@ -2675,7 +2796,7 @@ DESCRIPTION:*Revenue Statistics in Africa 2021 (en)
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 21:15, it is upda
+ s of this afternoon at 20:52, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -2684,7 +2805,7 @@ DESCRIPTION:*Revenue Statistics in Africa 2021 (en)
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c511aa1e-en-fr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211215T100000Z
 DTEND:20211215T101500Z
 TRANSP:TRANSPARENT
@@ -2699,7 +2820,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Africa 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/86f7b2d9-end3e39270
+UID:10.1787/86f7b2d9-end3e27936
 SUMMARY:OECD Economic Surveys: Denmark 2021
 DESCRIPTION:*OECD Economic Surveys: Denmark 2021*\n\
  nDirectorate: Economics Department\nLang
@@ -2707,24 +2828,24 @@ DESCRIPTION:*OECD Economic Surveys: Denmark 2021*\n\
  787/86f7b2d9-en\nPublication type: Econo
  mic survey\nReleased as: PDF\n\nEmbargo 
  date/time: Thursday, 16 December 2021, 1
- 0:00 (GMT)\n\n\niLibrary export: Tuesday
- , 23 November 2021, 19:20 (GMT)\nFreepre
- view export: never\nOECD.org export: Tue
- sday, 23 November 2021, 18:57 (GMT)\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 21:15, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=86f7b2d9-en.
-DTSTAMP:20211209T211521Z
+ 0:00 (GMT)\n\n\niLibrary export: Friday,
+  10 December 2021, 19:24 (GMT)\nFreeprev
+ iew export: never\nOECD.org export: Frid
+ ay, 10 December 2021, 19:00 (GMT)\nFTI l
+ oaded: ✓\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 20:52, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =86f7b2d9-en.
+DTSTAMP:20211210T205233Z
 DTSTART:20211216T100000Z
 DTEND:20211216T101500Z
 TRANSP:TRANSPARENT
@@ -2738,7 +2859,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Denmark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/201c75b6-end3e39378
+UID:10.1787/201c75b6-end3e28045
 SUMMARY:Fiscal Federalism 2022 - Making Decentra
  lisation Work
 DESCRIPTION:*Fiscal Federalism 2022 - Making Decentr
@@ -2755,7 +2876,7 @@ DESCRIPTION:*Fiscal Federalism 2022 - Making Decentr
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 21:15, it is updated each night; 
+ oon at 20:52, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -2764,7 +2885,7 @@ DESCRIPTION:*Fiscal Federalism 2022 - Making Decentr
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=201c75b6-e
  n.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20211220T100000Z
 DTEND:20211220T101500Z
 TRANSP:TRANSPARENT
@@ -2778,7 +2899,7 @@ DESCRIPTION:Reminder: Fiscal Federalism 2022 - Makin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ae8771a-end3e39534
+UID:10.1787/6ae8771a-end3e28202
 SUMMARY:Trends Shaping Education 2022
 DESCRIPTION:*Trends Shaping Education 2022*\n\nDirec
  torate: Directorate for Education and Sk
@@ -2793,7 +2914,7 @@ DESCRIPTION:*Trends Shaping Education 2022*\n\nDirec
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  21:15, it is updated each night; theref
+  20:52, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -2801,7 +2922,7 @@ DESCRIPTION:*Trends Shaping Education 2022*\n\nDirec
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=6ae8771a-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220117T100000Z
 DTEND:20220117T101500Z
 TRANSP:TRANSPARENT
@@ -2814,7 +2935,7 @@ DESCRIPTION:Reminder: Trends Shaping Education 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f9459cf-end3e39585
+UID:10.1787/7f9459cf-end3e28254
 SUMMARY:OECD Economic Surveys: Tunisia 2022
 DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  nDirectorate: Economics Department\nLang
@@ -2829,7 +2950,7 @@ DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 21:15, it is updated each night; there
+ t 20:52, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -2837,7 +2958,7 @@ DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=7f9459cf-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220117T100000Z
 DTEND:20220117T101500Z
 TRANSP:TRANSPARENT
@@ -2851,7 +2972,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Tunisia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd56cc8d-end3e39638
+UID:10.1787/fd56cc8d-end3e28307
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Isle of Man (
  Stage 2) - Inclusive Framework on BEPS: 
@@ -2871,7 +2992,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 21:15, it is updated each 
+  afternoon at 20:52, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -2880,7 +3001,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=fd5
  6cc8d-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -2896,7 +3017,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6933c16a-end3e39691
+UID:10.1787/6933c16a-end3e28360
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Guernsey (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -2916,7 +3037,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:15, it is updated each nig
+ ternoon at 20:52, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -2925,7 +3046,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=6933c1
  6a-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -2941,7 +3062,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/37a6cb02-end3e39744
+UID:10.1787/37a6cb02-end3e28413
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Jersey (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -2961,7 +3082,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:15, it is updated each night
+ rnoon at 20:52, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -2970,7 +3091,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=37a6cb02
  -en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -2986,7 +3107,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22b43680-end3e39797
+UID:10.1787/22b43680-end3e28466
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, San Marino (S
  tage 2) - Inclusive Framework on BEPS: A
@@ -3006,7 +3127,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 21:15, it is updated each n
+ afternoon at 20:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -3015,7 +3136,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=22b4
  3680-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -3031,7 +3152,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83469e1b-end3e39850
+UID:10.1787/83469e1b-end3e28519
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Brunei Daruss
  alam (Stage 2) - Inclusive Framework on 
@@ -3051,7 +3172,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 21:15, it is updated
+ f this afternoon at 20:52, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -3060,7 +3181,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=83469e1b-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -3076,7 +3197,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2d772d4f-end3e39903
+UID:10.1787/2d772d4f-end3e28572
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Monaco (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -3096,7 +3217,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:15, it is updated each night
+ rnoon at 20:52, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -3105,7 +3226,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=2d772d4f
  -en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -3121,7 +3242,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/577cb1f7-end3e39957
+UID:10.1787/577cb1f7-end3e28626
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Serbia (Stage
   2) - Inclusive Framework on BEPS: Actio
@@ -3141,7 +3262,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 21:15, it is updated each night
+ rnoon at 20:52, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -3150,7 +3271,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=577cb1f7
  -en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -3166,7 +3287,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/29b97fc3-end3e40010
+UID:10.1787/29b97fc3-end3e28679
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Curaçao (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -3186,7 +3307,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 21:15, it is updated each nigh
+ ernoon at 20:52, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -3195,7 +3316,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=29b97fc
  3-en.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220124T100000Z
 DTEND:20220124T101500Z
 TRANSP:TRANSPARENT
@@ -3211,7 +3332,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0fa43215-frd3e40115
+UID:10.1787/0fa43215-frd3e28784
 SUMMARY:Les inégalités comptent-elles ? - Commen
  t les gens perçoivent les disparités éco
  nomiques et la mobilité sociale
@@ -3231,7 +3352,7 @@ DESCRIPTION:*Les inégalités comptent-elles ? - Comme
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 21:15, it is updated each nig
+ ternoon at 20:52, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -3240,7 +3361,7 @@ DESCRIPTION:*Les inégalités comptent-elles ? - Comme
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=0fa432
  15-fr.
-DTSTAMP:20211209T211521Z
+DTSTAMP:20211210T205233Z
 DTSTART:20220301T100000Z
 DTEND:20220301T101500Z
 TRANSP:TRANSPARENT
