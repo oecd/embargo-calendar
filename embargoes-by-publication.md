@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 December 2021 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Role of Firms in Wage Inequality - Policy Lessons from a Large Scale Cross-Country Study](https://doi.org/10.1787/7d9b2208-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 December 2021 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 December 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Private Philanthropy for Development – Second Edition - Data for Action](https://doi.org/10.1787/cdf37f1e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 December 2021 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Surveys: Portugal 2021](https://doi.org/10.1787/13b842d6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 December 2021 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Monday 13 December 2021 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Opportunities and drawbacks of using artificial intelligence for training](https://doi.org/10.1787/22729bd6-en)
 
@@ -772,7 +703,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 10 December 2021 at 20:00
 
@@ -1476,6 +1407,52 @@ Monday 13 December 2021 at 13:00 | no launch event
 
 ------
 
+## [Mortgage finance across OECD countries](https://doi.org/10.1787/f97d7fe0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Constraints and demands on public finances: Considerations of resilient fiscal policy](https://doi.org/10.1787/602500be-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
 
 Embargo date | Launch date
@@ -1487,7 +1464,7 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1510,7 +1487,7 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 December 2021 at 19:56
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1533,7 +1510,7 @@ Tuesday 14 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 December 2021 at 20:03
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1553,18 +1530,18 @@ Tuesday 14 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -1579,7 +1556,7 @@ Wednesday 15 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
@@ -1637,6 +1614,29 @@ Wednesday 15 December 2021 at 10:00 | no launch event
 
 ------
 
+## [Renforcer le bien-être du corps enseignant du primaire au deuxième cycle du secondaire](https://doi.org/10.1787/080105a2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
 
 Embargo date | Launch date
@@ -1660,6 +1660,29 @@ Thursday 16 December 2021 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Austria 2021](https://doi.org/10.1787/eaf9ec79-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Fiscal Federalism 2022 - Making Decentralisation Work](https://doi.org/10.1787/201c75b6-en)
 
 Embargo date | Launch date
@@ -1669,15 +1692,15 @@ Monday 20 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
