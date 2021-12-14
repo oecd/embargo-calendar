@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 December 2021 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 December 2021 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 December 2021](#13-december-2021)
 * [14 December 2021](#14-december-2021)
@@ -28,36 +28,13 @@ Monday 13 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Managing the distributional effects of environmental and climate policies - The narrow path for a triple dividend](https://doi.org/10.1787/361126bd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -74,7 +51,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -120,7 +97,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -143,7 +120,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -189,7 +166,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -212,7 +189,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -258,7 +235,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -281,7 +258,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -327,7 +304,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -350,7 +327,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -373,7 +350,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -419,7 +396,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -442,7 +419,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -465,7 +442,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -488,7 +465,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -534,7 +511,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -580,7 +557,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -603,7 +580,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -626,7 +603,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -649,7 +626,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -672,7 +649,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -718,7 +695,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -764,7 +741,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -787,7 +764,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -810,7 +787,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -833,7 +810,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -856,7 +833,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -879,7 +856,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -902,7 +879,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -948,7 +925,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1040,7 +1017,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1063,7 +1040,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1109,7 +1086,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1132,7 +1109,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1155,7 +1132,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1178,7 +1155,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1224,7 +1201,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1270,7 +1247,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1316,7 +1293,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1362,7 +1339,7 @@ Monday 13 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1385,7 +1362,7 @@ Monday 13 December 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1408,7 +1385,7 @@ Monday 13 December 2021 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1433,7 +1410,7 @@ Tuesday 14 December 2021 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 13 December 2021 at 19:57
 
@@ -1600,7 +1577,7 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 December 2021 at 20:03
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1621,9 +1598,9 @@ Wednesday 15 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
@@ -1650,12 +1627,58 @@ Thursday 16 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The role of telework for productivity during and post-COVID-19 - Results from an OECD survey among managers and workers](https://doi.org/10.1787/7fe47de2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Will it stay or will it go? Analysing developments in telework during COVID-19 using online job postings data](https://doi.org/10.1787/aed3816e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 December 2021 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
@@ -1721,9 +1744,9 @@ Monday 20 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
 
 ### Additional Information
 
