@@ -2,1387 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 December 2021 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Opportunities and drawbacks of using artificial intelligence for training](https://doi.org/10.1787/22729bd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Denmark: Country Health Profile 2021](https://doi.org/10.1787/2dce8636-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Luxembourg : Profils de santé par pays 2021](https://doi.org/10.1787/6208e2b6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Spain: Country Health Profile 2021](https://doi.org/10.1787/7ed63dd4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Austria: Country Health Profile 2021](https://doi.org/10.1787/d4349682-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Nederland: Landenprofiel Gezondheid 2021](https://doi.org/10.1787/cefcf5d8-nl)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Dutch*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Portugal: Perfil de Saúde do País 2021](https://doi.org/10.1787/766c3111-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Poland: Country Health Profile 2021](https://doi.org/10.1787/e836525a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Belgique : Profils de santé par pays 2021](https://doi.org/10.1787/17c34ec7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Germany: Country Health Profile 2021](https://doi.org/10.1787/e4c56532-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Belgium: Country Health Profile 2021](https://doi.org/10.1787/57e3abb5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Latvija: Valsts veselības pārskats 2021](https://doi.org/10.1787/11bb880a-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Latvian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Sweden: Country Health Profile 2021](https://doi.org/10.1787/b9027e42-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Portugal: Country Health Profile 2021](https://doi.org/10.1787/8f3b0171-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Norway: Country Health Profile 2021](https://doi.org/10.1787/6871e6c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovenija: Zdravstveni profil leta 2021](https://doi.org/10.1787/fa634f4f-sl)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Slovenian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [España: Perfil Sanitario del país 2021](https://doi.org/10.1787/3d1c2ed2-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [France : Profils de santé par pays 2021](https://doi.org/10.1787/8c733d09-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Croatia: Country Health Profile 2021](https://doi.org/10.1787/717e5510-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Česká republika: zdravotní profil země 2021](https://doi.org/10.1787/a3017bfb-cs)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovensko: Zdravotný Profil Krajiny 2021](https://doi.org/10.1787/d8ab884d-sk)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Slovak*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Deutschland: Länderprofil Gesundheit 2021](https://doi.org/10.1787/33663583-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Eesti: riigi terviseprofiil 2021](https://doi.org/10.1787/50209875-et)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Estonian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Bulgaria: Country Health Profile 2021](https://doi.org/10.1787/c1a721b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Netherlands: Country Health Profile 2021](https://doi.org/10.1787/fd18ea00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Greece: Country Health Profile 2021](https://doi.org/10.1787/4ab8ea73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Ireland: Country Health Profile 2021](https://doi.org/10.1787/4f7fb3b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Cyprus: Country Health Profile 2021](https://doi.org/10.1787/c2fe9d30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Ελλάδα: Προφίλ Υγείας 2021](https://doi.org/10.1787/f154e482-el)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Greek*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Italia: Profilo della sanità 2021](https://doi.org/10.1787/92056604-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Ísland: Heilbrigðismál Landsyfirlit Árið 2021](https://doi.org/10.1787/3ca4a7a5-is)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Icelandic*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Iceland: Country Health Profile 2021](https://doi.org/10.1787/5341c87c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Hungary: Country Health Profile 2021](https://doi.org/10.1787/482f3633-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Sverige: Landprofil hälsa 2021](https://doi.org/10.1787/b006ca17-sv)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Swedish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Romania: Country Health Profile 2021](https://doi.org/10.1787/74ad9999-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [France: Country Health Profile 2021](https://doi.org/10.1787/7d668926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Czech Republic: Country Health Profile 2021](https://doi.org/10.1787/8b341a5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Lietuva: šalies sveikatos profilis 2021](https://doi.org/10.1787/bc081ccc-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Lithuanian*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Romania: Profilul Sănătății în 2021](https://doi.org/10.1787/b1c792f4-ro)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Romanian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Finland: Country Health Profile 2021](https://doi.org/10.1787/2e74e317-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Österreich: Länderprofil Gesundheit 2021](https://doi.org/10.1787/bdde3767-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [България: Здравен профил за страната 2021](https://doi.org/10.1787/df3f45dd-bg)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Bulgarian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Norge: Landprofil 2021](https://doi.org/10.1787/e6fefbbc-no)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Norwegian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovenia: Country Health Profile 2021](https://doi.org/10.1787/1313047c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Latvia: Country Health Profile 2021](https://doi.org/10.1787/919f55f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Hrvatska: pregled stanja zdravlja i zdravstvene zaštite 2021](https://doi.org/10.1787/24be62c0-hr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Croatian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Italy: Country Health Profile 2021](https://doi.org/10.1787/5bb1946e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Κύπρος: Προφίλ Υγείας 2021](https://doi.org/10.1787/9c7129fc-el)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Slovak Republic: Country Health Profile 2021](https://doi.org/10.1787/4ba546fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Estonia: Country Health Profile 2021](https://doi.org/10.1787/a6c1caa5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Polska: Profil systemu ochrony zdrowia 2021](https://doi.org/10.1787/b562ffe2-pl)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Polish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Luxembourg: Country Health Profile 2021](https://doi.org/10.1787/3c147ce7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [België: Landenprofiel Gezondheid 2021](https://doi.org/10.1787/8c5e55a7-nl)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Dutch*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Malta: Country Health Profile 2021](https://doi.org/10.1787/cd4b1ed7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Danmark: National sundhedsprofil 2021](https://doi.org/10.1787/30edbf45-da)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Danish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Lithuania: Country Health Profile 2021](https://doi.org/10.1787/20b64b36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Magyarország: Egészségügyi országprofil 2021](https://doi.org/10.1787/bac593d6-hu)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Hungarian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Suomi: Maan terveysprofiili 2021](https://doi.org/10.1787/8bbe2ecb-fi)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Finnish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Finlande 2021 (version abrégée)](https://doi.org/10.1787/686f2832-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Finland 2021](https://doi.org/10.1787/d73547b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 December 2021 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 15 December 2021 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Mortgage finance across OECD countries](https://doi.org/10.1787/f97d7fe0-en)
 
@@ -1395,7 +15,7 @@ Tuesday 14 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1418,7 +38,7 @@ Tuesday 14 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1441,7 +61,7 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1464,7 +84,7 @@ Tuesday 14 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1487,7 +107,7 @@ Tuesday 14 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1510,7 +130,7 @@ Tuesday 14 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1648,7 +268,7 @@ Thursday 16 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1660,25 +280,71 @@ Thursday 16 December 2021 at 8:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
+## [Examining the impact of debt on investment for Austrian non-financial sectors and firms](https://doi.org/10.1787/f9b69c90-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 16 December 2021 at 10:00 | no launch event
+Friday 17 December 2021 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
+- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 December 2021 at 20:00
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fostering cyclical convergence in the Euro Area](https://doi.org/10.1787/30cecd5a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing regional convergence in the European Union](https://doi.org/10.1787/253dd6ee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -1687,14 +353,14 @@ Thursday 16 December 2021 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 20 December 2021 at 10:00 | no launch event
+Monday 20 December 2021 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
+- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1715,9 +381,9 @@ Monday 20 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
+- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
 
 ### Additional Information
 
@@ -1772,6 +438,29 @@ Monday 17 January 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
