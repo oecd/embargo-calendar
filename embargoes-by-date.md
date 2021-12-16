@@ -2,158 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 December 2021 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 December 2021 at 21:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 December 2021](#14-december-2021)
 * [15 December 2021](#15-december-2021)
 * [16 December 2021](#16-december-2021)
 * [17 December 2021](#17-december-2021)
 * [20 December 2021](#20-december-2021)
+* [22 December 2021](#22-december-2021)
 * [17 January 2022](#17-january-2022)
 * [24 January 2022](#24-january-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 14 December 2021
-
-## [Mortgage finance across OECD countries](https://doi.org/10.1787/f97d7fe0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Constraints and demands on public finances: Considerations of resilient fiscal policy](https://doi.org/10.1787/602500be-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Public Governance Reviews: Haiti - Strengthening Public Administration for Resilient and Sustainable Governance](https://doi.org/10.1787/dfd5f806-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Examens de l'OCDE sur la gouvernance publique : Haïti - Renforcer l'administration pour une gouvernance publique résiliente et durable](https://doi.org/10.1787/f826ac45-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 December 2021 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Harmful Tax Practices – 2020 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5 ](https://doi.org/10.1787/f376127b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2020 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/f1b9809c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -170,7 +28,7 @@ Wednesday 15 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
 
 ### Additional Information
 
@@ -193,7 +51,7 @@ Wednesday 15 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
 
 ### Additional Information
 
@@ -216,7 +74,7 @@ Wednesday 15 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
 
 ### Additional Information
 
@@ -301,6 +159,29 @@ Thursday 16 December 2021 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 December 2021 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 17 December 2021
@@ -378,6 +259,29 @@ Friday 17 December 2021 at 6:00 | no launch event
 
 # 20 December 2021
 
+## [The resilience of students with an immigrant background - An update with PISA 2018](https://doi.org/10.1787/e119e91a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Austria 2021](https://doi.org/10.1787/eaf9ec79-en)
 
 Embargo date | Launch date
@@ -421,6 +325,33 @@ Monday 20 December 2021 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 December 2021
+
+## [An updated OECD framework on drivers of trust in public institutions to meet current and future challenges](https://doi.org/10.1787/b6c5478c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
