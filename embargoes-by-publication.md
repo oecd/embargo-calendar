@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 December 2021 at 21:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Artificial intelligence and employment  - New cross-country evidence](https://doi.org/10.1787/c2c1d276-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Energy Investment Policy Review of Ukraine](https://doi.org/10.1787/6e6e58c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Revenue Statistics in Africa 2021 (en) || Statistiques des recettes publiques en Afrique 2021](https://doi.org/10.1787/c511aa1e-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 17 December 2021 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Renforcer le bien-être du corps enseignant du primaire au deuxième cycle du secondaire](https://doi.org/10.1787/080105a2-fr)
 
@@ -84,7 +15,7 @@ Thursday 16 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 December 2021 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Thursday 16 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 December 2021 at 19:59
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Thursday 16 December 2021 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Thursday 16 December 2021 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -161,7 +92,7 @@ Thursday 16 December 2021 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -234,6 +165,75 @@ Friday 17 December 2021 at 6:00 | no launch event
 
 ------
 
+## [The fiscal implications of strategic investment funds](https://doi.org/10.1787/e7e43a82-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The middle class in Emerging Asia - Champions for more inclusive societies?](https://doi.org/10.1787/93af380b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Firms going digital - Tapping into the potential of data for innovation](https://doi.org/10.1787/ee8340c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [The resilience of students with an immigrant background - An update with PISA 2018](https://doi.org/10.1787/e119e91a-en)
 
 Embargo date | Launch date
@@ -245,7 +245,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -253,6 +253,98 @@ Monday 20 December 2021 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Promoting high-quality broadband networks in G20 countries](https://doi.org/10.1787/cf0093dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Mapping data portability initiatives, opportunities and challenges](https://doi.org/10.1787/a6edfab2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Bridging digital divides in G20 countries](https://doi.org/10.1787/35c1d850-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Unlocking infrastructure investment - Innovative funding and financing in regions and cities](https://doi.org/10.1787/9152902b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -268,7 +360,7 @@ Monday 20 December 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
@@ -276,7 +368,7 @@ Monday 20 December 2021 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -288,18 +380,41 @@ Monday 20 December 2021 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Trade impacts of the Trade and Cooperation Agreement between the European Union and the United Kingdom](https://doi.org/10.1787/eeeea3ec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 December 2021 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -391,7 +506,7 @@ Monday 17 January 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
