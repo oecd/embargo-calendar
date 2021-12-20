@@ -2,184 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 December 2021 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 December 2021 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 December 2021](#16-december-2021)
-* [17 December 2021](#17-december-2021)
 * [20 December 2021](#20-december-2021)
 * [22 December 2021](#22-december-2021)
+* [23 December 2021](#23-december-2021)
+* [12 January 2022](#12-january-2022)
 * [17 January 2022](#17-january-2022)
+* [18 January 2022](#18-january-2022)
+* [20 January 2022](#20-january-2022)
 * [24 January 2022](#24-january-2022)
+* [17 February 2022](#17-february-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 16 December 2021
-
-## [Renforcer le bien-être du corps enseignant du primaire au deuxième cycle du secondaire](https://doi.org/10.1787/080105a2-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 December 2021 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The role of telework for productivity during and post-COVID-19 - Results from an OECD survey among managers and workers](https://doi.org/10.1787/7fe47de2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Will it stay or will it go? Analysing developments in telework during COVID-19 using online job postings data](https://doi.org/10.1787/aed3816e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 December 2021 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 December 2021 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Denmark 2021](https://doi.org/10.1787/86f7b2d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 17 December 2021
-
-## [Examining the impact of debt on investment for Austrian non-financial sectors and firms](https://doi.org/10.1787/f9b69c90-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fostering cyclical convergence in the Euro Area](https://doi.org/10.1787/30cecd5a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing regional convergence in the European Union](https://doi.org/10.1787/253dd6ee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 December 2021 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -378,7 +212,7 @@ Monday 20 December 2021 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 December 2021 at 20:26
+- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
@@ -401,7 +235,7 @@ Monday 20 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
+- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 17 December 2021 at 19:57
 
@@ -430,7 +264,7 @@ Wednesday 22 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
 
 ### Additional Information
 
@@ -442,22 +276,26 @@ Wednesday 22 December 2021 at 6:00 | no launch event
 
 ------
 
-## [An updated OECD framework on drivers of trust in public institutions to meet current and future challenges](https://doi.org/10.1787/b6c5478c-en)
+------
+
+# 23 December 2021
+
+## [The role of the Australian financial sector in supporting a sustainable and inclusive recovery](https://doi.org/10.1787/b262744b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 22 December 2021 at 6:00 | no launch event
+Thursday 23 December 2021 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
+- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 December 2021 at 20:04
+- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -467,13 +305,13 @@ Wednesday 22 December 2021 at 6:00 | no launch event
 
 ------
 
-# 17 January 2022
+# 12 January 2022
 
-## [Trends Shaping Education 2022](https://doi.org/10.1787/6ae8771a-en)
+## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 January 2022 at 10:00 | no launch event
+Wednesday 12 January 2022 at 11:00 | no launch event
 
 ### Status Information
 
@@ -484,13 +322,17 @@ Monday 17 January 2022 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
+
+------
+
+# 17 January 2022
 
 ## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
 
@@ -534,6 +376,60 @@ Monday 17 January 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 January 2022
+
+## [Trends Shaping Education 2022](https://doi.org/10.1787/6ae8771a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 January 2022
+
+## [تعزيز استقلالية الشباب في تونس وثقتهم](https://doi.org/10.1787/ac7fb475-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 January 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Arabic*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -723,6 +619,56 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Governança regulatória no setor de mineração no Brasil](https://doi.org/10.1787/df9252dc-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 17 February 2022
+
+## [Driving Performance at Peru’s Water and Sanitation Services Regulator](https://doi.org/10.1787/89f3ccee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 February 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
