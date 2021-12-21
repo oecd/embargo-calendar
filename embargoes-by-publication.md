@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 December 2021 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 December 2021 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The fiscal implications of strategic investment funds](https://doi.org/10.1787/e7e43a82-en)
 
@@ -15,7 +15,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Monday 20 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Monday 20 December 2021 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -220,9 +220,9 @@ Monday 20 December 2021 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
+- [x] Exported to iLibrary Tuesday 21 December 2021 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Thursday 23 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
+- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
 
 ### Additional Information
 
@@ -619,6 +619,29 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Impulsar el rendimiento del regulador de los servicios de agua y saneamiento de Perú](https://doi.org/10.1787/228ea50e-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 February 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
