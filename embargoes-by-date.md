@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 December 2021 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 December 2021 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 December 2021](#20-december-2021)
 * [22 December 2021](#22-december-2021)
 * [23 December 2021](#23-december-2021)
 * [12 January 2022](#12-january-2022)
@@ -14,240 +13,6 @@ Data generated on | |
 * [24 January 2022](#24-january-2022)
 * [17 February 2022](#17-february-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 20 December 2021
-
-## [The fiscal implications of strategic investment funds](https://doi.org/10.1787/e7e43a82-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The middle class in Emerging Asia - Champions for more inclusive societies?](https://doi.org/10.1787/93af380b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Firms going digital - Tapping into the potential of data for innovation](https://doi.org/10.1787/ee8340c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The resilience of students with an immigrant background - An update with PISA 2018](https://doi.org/10.1787/e119e91a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 December 2021 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Promoting high-quality broadband networks in G20 countries](https://doi.org/10.1787/cf0093dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Mapping data portability initiatives, opportunities and challenges](https://doi.org/10.1787/a6edfab2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Bridging digital divides in G20 countries](https://doi.org/10.1787/35c1d850-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Unlocking infrastructure investment - Innovative funding and financing in regions and cities](https://doi.org/10.1787/9152902b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Austria 2021](https://doi.org/10.1787/eaf9ec79-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Fiscal Federalism 2022 - Making Decentralisation Work](https://doi.org/10.1787/201c75b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 December 2021 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 December 2021 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -434,6 +199,29 @@ Thursday 20 January 2022 at 8:00 | no launch event
 
 ------
 
+## [OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2022 ](https://doi.org/10.1787/0e655865-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 24 January 2022
@@ -527,6 +315,29 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales  - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
