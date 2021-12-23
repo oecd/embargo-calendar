@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2021-12-22T20:33:53.1416641+01:00">
+<report name="official-embargoes" generated="2021-12-23T20:27:34.3531467+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,8 +33,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2021-12-17T19:21:55Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2021-12-20T18:57:48Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2021-12-23T18:53:15Z</cell>
+    <cell name="discoveryservice last export date">2021-12-22T19:56:45Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -228,7 +228,7 @@
     <cell name="language">Arabic</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-01-20</cell>
     <cell name="embargo date">2022-01-20T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -248,7 +248,7 @@
     <cell name="language">Arabic</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-01-20</cell>
     <cell name="embargo date">2022-01-20T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -508,8 +508,8 @@
     <cell name="language">Portuguese</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2022-01-24T14:00:00Z</cell>
+    <cell name="date of publication">2022-01-30</cell>
+    <cell name="embargo date">2022-01-30T14:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -521,26 +521,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1261ead4</cell>
   </row>
   <row index="26">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/df9252dc-pt</cell>
-    <cell name="title">Governança regulatória no setor de mineração no Brasil (pt)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Portuguese</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2022-01-24T14:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dc54044</cell>
-  </row>
-  <row index="27">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/228ea50e-es</cell>
     <cell name="title">Impulsar el rendimiento del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06c32ec7</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/89f3ccee-en</cell>
     <cell name="title">Driving Performance at Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa1573a5</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/89f3ccee-en</cell>
     <cell name="title">Driving Performance at Peru’s Water and Sanitation Services Regulator (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17412e94</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/228ea50e-es</cell>
     <cell name="title">Impulsar el rendimiento del regulador de los servicios de agua y saneamiento de Perú (es)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/206c73ed</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0fa43215-fr</cell>
     <cell name="title">Les inégalités comptent-elles ? (fr)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85472fef</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0fa43215-fr</cell>
     <cell name="title">Les inégalités comptent-elles ? (fr)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 December 2021 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 December 2021 at 20:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Trade impacts of the Trade and Cooperation Agreement between the European Union and the United Kingdom](https://doi.org/10.1787/eeeea3ec-en)
 
@@ -15,7 +15,7 @@ Wednesday 22 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 23 December 2021 at 19:53
 
 ### Additional Information
 
@@ -399,7 +399,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 January 2022 at 14:00 | no launch event
+Sunday 30 January 2022 at 14:00 | no launch event
 
 ### Status Information
 
@@ -414,7 +414,7 @@ Monday 24 January 2022 at 14:00 | no launch event
 * Language: *Portuguese*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 

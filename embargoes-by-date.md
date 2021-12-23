@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 December 2021 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 December 2021 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 December 2021](#22-december-2021)
 * [23 December 2021](#23-december-2021)
@@ -11,6 +11,7 @@ Data generated on | |
 * [18 January 2022](#18-january-2022)
 * [20 January 2022](#20-january-2022)
 * [24 January 2022](#24-january-2022)
+* [30 January 2022](#30-january-2022)
 * [17 February 2022](#17-february-2022)
 * [1 March 2022](#1-march-2022)
 
@@ -29,7 +30,7 @@ Wednesday 22 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 December 2021 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 23 December 2021 at 19:53
 
 ### Additional Information
 
@@ -433,11 +434,15 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ------
 
+------
+
+# 30 January 2022
+
 ## [Governança regulatória no setor de mineração no Brasil](https://doi.org/10.1787/df9252dc-pt)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 January 2022 at 14:00 | no launch event
+Sunday 30 January 2022 at 14:00 | no launch event
 
 ### Status Information
 
@@ -452,7 +457,7 @@ Monday 24 January 2022 at 14:00 | no launch event
 * Language: *Portuguese*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
