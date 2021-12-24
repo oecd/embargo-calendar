@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 December 2021 at 20:27* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Trade impacts of the Trade and Cooperation Agreement between the European Union and the United Kingdom](https://doi.org/10.1787/eeeea3ec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 December 2021 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 December 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 24 December 2021 at 20:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The role of the Australian financial sector in supporting a sustainable and inclusive recovery](https://doi.org/10.1787/b262744b-en)
 
@@ -38,7 +15,7 @@ Thursday 23 December 2021 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 December 2021 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 December 2021 at 19:55
+- [x] Exported to OECD.org Friday 24 December 2021 at 19:53
 
 ### Additional Information
 
