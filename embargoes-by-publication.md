@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 December 2021 at 20:24* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The role of the Australian financial sector in supporting a sustainable and inclusive recovery](https://doi.org/10.1787/b262744b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 December 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Monday 27 December 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 

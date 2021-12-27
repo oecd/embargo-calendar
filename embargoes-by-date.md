@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 December 2021 at 20:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 27 December 2021 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 December 2021](#23-december-2021)
 * [12 January 2022](#12-january-2022)
 * [17 January 2022](#17-january-2022)
 * [18 January 2022](#18-january-2022)
@@ -13,33 +12,6 @@ Data generated on | |
 * [30 January 2022](#30-january-2022)
 * [17 February 2022](#17-february-2022)
 * [1 March 2022](#1-march-2022)
-
-------
-
-# 23 December 2021
-
-## [The role of the Australian financial sector in supporting a sustainable and inclusive recovery](https://doi.org/10.1787/b262744b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 December 2021 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 December 2021 at 19:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
