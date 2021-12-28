@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 December 2021 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 December 2021 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
