@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 December 2021 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 3 January 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
@@ -13,15 +13,15 @@ Wednesday 12 January 2022 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -412,6 +412,29 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Quality and Equity of Schooling in the German-speaking Community of Belgium](https://doi.org/10.1787/9a6b6f3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 February 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
