@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 January 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 January 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
@@ -24,6 +24,29 @@ Wednesday 12 January 2022 at 11:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Slovak Republic 2022](https://doi.org/10.1787/78ef10f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 4 January 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 4 January 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -369,6 +392,29 @@ Sunday 30 January 2022 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 January 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
