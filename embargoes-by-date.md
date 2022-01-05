@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 January 2022 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 January 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 January 2022](#12-january-2022)
 * [13 January 2022](#13-january-2022)
@@ -24,22 +24,22 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 12 January 2022 at 11:00 | no launch event
+Wednesday 12 January 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 3 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 January 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 5 January 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -133,7 +133,7 @@ Tuesday 18 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 December 2021 at 20:24
+- [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 20 December 2021 at 19:57
 
