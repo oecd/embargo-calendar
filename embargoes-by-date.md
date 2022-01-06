@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 January 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 January 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 January 2022](#12-january-2022)
 * [13 January 2022](#13-january-2022)
@@ -132,18 +132,18 @@ Tuesday 18 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 December 2021 at 19:57
+- [x] Exported to OECD.org Thursday 6 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -174,7 +174,7 @@ Thursday 20 January 2022 at 8:00 | no launch event
 
 ------
 
-## [OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2022 ](https://doi.org/10.1787/0e655865-en)
+## [OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2022](https://doi.org/10.1787/0e655865-en)
 
 Embargo date | Launch date
 -------------|:------------:
