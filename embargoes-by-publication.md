@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 January 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 10 January 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
@@ -35,18 +35,18 @@ Thursday 13 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 4 January 2022 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 January 2022 at 19:55
+- [x] Exported to OECD.org Monday 10 January 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -136,6 +136,29 @@ Thursday 20 January 2022 at 8:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Arabic*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Principes de l'OCDE applicables en matière de prix de transfert à l'intention des entreprises multinationales et des administrations fiscales 2022](https://doi.org/10.1787/5357f003-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -391,7 +414,7 @@ Sunday 30 January 2022 at 14:00 | no launch event
 * Language: *Portuguese*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
