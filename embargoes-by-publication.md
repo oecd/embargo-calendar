@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 January 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 January 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
@@ -15,7 +15,7 @@ Wednesday 12 January 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 January 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
 
 ### Additional Information
 
@@ -24,6 +24,29 @@ Wednesday 12 January 2022 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Measuring Effective Taxation of Housing - Building the foundations for policy reform](https://doi.org/10.1787/0a7e36f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -45,52 +68,6 @@ Thursday 13 January 2022 at 10:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -159,7 +136,7 @@ Thursday 20 January 2022 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -174,16 +151,62 @@ Thursday 20 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 January 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -395,29 +418,6 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ------
 
-## [Governança regulatória no setor de mineração no Brasil](https://doi.org/10.1787/df9252dc-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 January 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Portuguese*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
 
 Embargo date | Launch date
@@ -438,6 +438,75 @@ Monday 31 January 2022 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Mexico 2022](https://doi.org/10.1787/2e1de26c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 February 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Governança regulatória no setor de mineração no Brasil](https://doi.org/10.1787/df9252dc-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 February 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Regulatory Governance in the Mining Sector in Brazil](https://doi.org/10.1787/63d60aa8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 February 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -464,7 +533,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 ------
 
-## [Impulsar el rendimiento del regulador de los servicios de agua y saneamiento de Perú](https://doi.org/10.1787/228ea50e-es)
+## [Impulsando el desempeño del Regulador de los servicios de agua y saneamiento de Perú](https://doi.org/10.1787/228ea50e-es)
 
 Embargo date | Launch date
 -------------|:------------:
