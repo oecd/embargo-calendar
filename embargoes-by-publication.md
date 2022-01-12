@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 January 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 12 January 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
 
@@ -61,7 +61,7 @@ Thursday 13 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 January 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
 
 ### Additional Information
 
@@ -70,6 +70,29 @@ Thursday 13 January 2022 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Labour-saving technologies and employment levels - Are robots really making workers redundant?](https://doi.org/10.1787/9ce86ca5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 14 January 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 January 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -128,9 +151,9 @@ Thursday 20 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
 
 ### Additional Information
 
@@ -151,9 +174,9 @@ Thursday 20 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [x] Exported to iLibrary Wednesday 12 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
 
 ### Additional Information
 
@@ -598,6 +621,29 @@ Tuesday 1 March 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
