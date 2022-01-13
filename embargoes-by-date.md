@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 January 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 January 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 January 2022](#12-january-2022)
 * [13 January 2022](#13-january-2022)
@@ -15,6 +15,7 @@ Data generated on | |
 * [1 February 2022](#1-february-2022)
 * [2 February 2022](#2-february-2022)
 * [17 February 2022](#17-february-2022)
+* [24 February 2022](#24-february-2022)
 * [28 February 2022](#28-february-2022)
 * [1 March 2022](#1-march-2022)
 * [10 March 2022](#10-march-2022)
@@ -34,7 +35,7 @@ Wednesday 12 January 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+- [x] Exported to OECD.org Thursday 13 January 2022 at 19:56
 
 ### Additional Information
 
@@ -46,7 +47,7 @@ Wednesday 12 January 2022 at 8:00 | no launch event
 
 ------
 
-## [Measuring Effective Taxation of Housing - Building the foundations for policy reform](https://doi.org/10.1787/0a7e36f2-en)
+## [Measuring effective taxation of housing - Building the foundations for policy reform](https://doi.org/10.1787/0a7e36f2-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -55,9 +56,9 @@ Wednesday 12 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+- [x] Exported to OECD.org Thursday 13 January 2022 at 19:56
 
 ### Additional Information
 
@@ -127,6 +128,29 @@ Friday 14 January 2022 at 6:00 | no launch event
 
 # 18 January 2022
 
+## [Paying for results -  Contracting out employment services through outcome-based  payment schemes in OECD countries](https://doi.org/10.1787/c6392a59-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 January 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 13 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Trends Shaping Education 2022](https://doi.org/10.1787/6ae8771a-en)
 
 Embargo date | Launch date
@@ -136,7 +160,7 @@ Tuesday 18 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 January 2022 at 20:13
+- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 6 January 2022 at 19:54
 
@@ -365,29 +389,6 @@ Monday 24 January 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales  - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -634,6 +635,33 @@ Thursday 17 February 2022 at 14:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 February 2022
+
+## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
