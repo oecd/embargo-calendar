@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 January 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 January 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 January 2022](#12-january-2022)
 * [13 January 2022](#13-january-2022)
 * [14 January 2022](#14-january-2022)
 * [18 January 2022](#18-january-2022)
@@ -22,56 +21,6 @@ Data generated on | |
 
 ------
 
-# 12 January 2022
-
-## [Strengthening FDI and SME Linkages in Portugal](https://doi.org/10.1787/d718823d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 January 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Measuring effective taxation of housing - Building the foundations for policy reform](https://doi.org/10.1787/0a7e36f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 13 January 2022
 
 ## [OECD Economic Surveys: Slovak Republic 2022](https://doi.org/10.1787/78ef10f8-en)
@@ -85,7 +34,7 @@ Thursday 13 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 14 January 2022 at 19:57
 
 ### Additional Information
 
@@ -551,18 +500,18 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+- [x] Exported to OECD.org Friday 14 January 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Portuguese*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -575,15 +524,15 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 January 2022 at 20:17
+- [x] Exported to iLibrary Friday 14 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 January 2022 at 19:57
+- [x] Exported to OECD.org Friday 14 January 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
