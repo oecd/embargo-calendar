@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 January 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 18 January 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Paying for results -  Contracting out employment services through outcome-based  payment schemes in OECD countries](https://doi.org/10.1787/c6392a59-en)
 
@@ -59,9 +59,9 @@ Thursday 20 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 January 2022 at 20:13
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Thursday 20 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 January 2022 at 20:13
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 January 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
@@ -142,6 +142,29 @@ Thursday 20 January 2022 at 10:30 | no launch event
 
 ------
 
+## [The impact of the COVID-19 crisis across different socio-economic groups and the role of job retention schemes - The case of Switzerland](https://doi.org/10.1787/38fc6bad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 January 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
 
 Embargo date | Launch date
@@ -196,22 +219,22 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Monaco (Phase 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/88f778b0-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Monaco (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/88f778b0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -220,15 +243,15 @@ Monday 24 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -242,16 +265,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -265,16 +288,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -288,16 +311,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -311,16 +334,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -334,16 +357,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -357,16 +380,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,18 +403,41 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Reviews of Pension Systems: Slovenia](https://doi.org/10.1787/f629a09a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 January 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -487,6 +533,29 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 
 ------
 
+## [Career Guidance for Low-Qualified Workers in Germany](https://doi.org/10.1787/5e6af8da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 February 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [تعزيز استقلالية الشباب في تونس وثقتهم](https://doi.org/10.1787/ac7fb475-ar)
 
 Embargo date | Launch date
@@ -552,6 +621,29 @@ Thursday 17 February 2022 at 14:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
