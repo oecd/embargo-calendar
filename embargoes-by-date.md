@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 January 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 19 January 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 January 2022](#18-january-2022)
 * [20 January 2022](#20-january-2022)
@@ -35,7 +35,7 @@ Tuesday 18 January 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Tuesday 18 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
@@ -82,16 +82,16 @@ Thursday 20 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -105,16 +105,16 @@ Thursday 20 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -131,7 +131,7 @@ Thursday 20 January 2022 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
@@ -154,7 +154,7 @@ Thursday 20 January 2022 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 January 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
@@ -177,7 +177,7 @@ Thursday 20 January 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
 
 ### Additional Information
 
@@ -252,7 +252,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
@@ -463,7 +463,7 @@ Thursday 27 January 2022 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
 
@@ -544,7 +544,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
+- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 14 January 2022 at 19:57
 
@@ -709,6 +709,29 @@ Thursday 24 February 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Supporting Tunisia in Implementing Tax Policy Measures (Abridged version) - Towards the Formalisation of Businesses, Self-employed Workers and Employees](https://doi.org/10.1787/c07912da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
