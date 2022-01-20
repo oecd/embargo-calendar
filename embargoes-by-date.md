@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 January 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 January 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 January 2022](#18-january-2022)
 * [20 January 2022](#20-january-2022)
 * [21 January 2022](#21-january-2022)
 * [24 January 2022](#24-january-2022)
@@ -19,56 +18,6 @@ Data generated on | |
 * [28 February 2022](#28-february-2022)
 * [1 March 2022](#1-march-2022)
 * [10 March 2022](#10-march-2022)
-
-------
-
-# 18 January 2022
-
-## [Paying for results -  Contracting out employment services through outcome-based  payment schemes in OECD countries](https://doi.org/10.1787/c6392a59-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 January 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Trends Shaping Education 2022](https://doi.org/10.1787/6ae8771a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -473,7 +422,7 @@ Thursday 27 January 2022 at 8:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -544,7 +493,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
+- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 14 January 2022 at 19:57
 
@@ -647,18 +596,18 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -670,18 +619,18 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
