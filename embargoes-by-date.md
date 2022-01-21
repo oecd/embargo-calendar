@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 January 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 January 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 January 2022](#20-january-2022)
 * [21 January 2022](#21-january-2022)
@@ -11,7 +11,6 @@ Data generated on | |
 * [31 January 2022](#31-january-2022)
 * [1 February 2022](#1-february-2022)
 * [2 February 2022](#2-february-2022)
-* [14 February 2022](#14-february-2022)
 * [15 February 2022](#15-february-2022)
 * [17 February 2022](#17-february-2022)
 * [24 February 2022](#24-february-2022)
@@ -34,7 +33,7 @@ Thursday 20 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -57,7 +56,7 @@ Thursday 20 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -80,7 +79,7 @@ Thursday 20 January 2022 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -103,7 +102,7 @@ Thursday 20 January 2022 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -126,7 +125,7 @@ Thursday 20 January 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -192,6 +191,52 @@ Friday 21 January 2022 at 10:00 | no launch event
 
 # 24 January 2022
 
+## [Soil carbon sequestration by agriculture - Policy options](https://doi.org/10.1787/63ef3841-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [How Learning Continued during the COVID-19 Pandemic - Global Lessons from Initiatives to Support Learners and Teachers](https://doi.org/10.1787/bbeca162-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 January 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fd56cc8d-en)
 
 Embargo date | Launch date
@@ -203,7 +248,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -223,16 +268,16 @@ Monday 24 January 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -249,7 +294,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -272,7 +317,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -295,7 +340,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -318,7 +363,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -341,7 +386,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -364,7 +409,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -387,7 +432,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
 
 ### Additional Information
 
@@ -532,33 +577,6 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 
 ------
 
-# 14 February 2022
-
-## [Career Guidance for Low-Qualified Workers in Germany](https://doi.org/10.1787/5e6af8da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 February 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 15 February 2022
 
 ## [تعزيز استقلالية الشباب في تونس وثقتهم](https://doi.org/10.1787/ac7fb475-ar)
@@ -597,7 +615,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
+- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 20 January 2022 at 19:56
 
@@ -657,6 +675,29 @@ Thursday 24 February 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Career Guidance for Low-Qualified Workers in Germany](https://doi.org/10.1787/5e6af8da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
