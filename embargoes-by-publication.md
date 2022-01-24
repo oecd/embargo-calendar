@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 January 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Principes de l'OCDE applicables en matière de prix de transfert à l'intention des entreprises multinationales et des administrations fiscales 2022](https://doi.org/10.1787/5357f003-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2022](https://doi.org/10.1787/0e655865-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Switzerland 2022](https://doi.org/10.1787/1fde6924-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 January 2022 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l'OCDE : Suisse 2022](https://doi.org/10.1787/19b666e6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 January 2022 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The impact of the COVID-19 crisis across different socio-economic groups and the role of job retention schemes - The case of Switzerland](https://doi.org/10.1787/38fc6bad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 January 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 24 January 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Soil carbon sequestration by agriculture - Policy options](https://doi.org/10.1787/63ef3841-en)
 
@@ -197,9 +36,9 @@ Monday 24 January 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
+- [x] Exported to iLibrary Monday 24 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Monday 24 January 2022 at 19:55
 
 ### Additional Information
 
@@ -207,7 +46,7 @@ Monday 24 January 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -464,6 +303,29 @@ Monday 31 January 2022 at 5:00 | no launch event
 
 ------
 
+## [Estudios Económicos de la OCDE: México 2022](https://doi.org/10.1787/8b913f19-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 1 February 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Mexico 2022](https://doi.org/10.1787/2e1de26c-en)
 
 Embargo date | Launch date
@@ -602,6 +464,52 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 ------
 
+## [Tax Policy and Gender Equality - A Stocktake of Country Approaches](https://doi.org/10.1787/b8177aea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [¿Cómo va la vida en América Latina? - Medición del bienestar para la formulación de políticas públicas](https://doi.org/10.1787/7f6a948f-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 February 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
 
 Embargo date | Launch date
@@ -713,29 +621,6 @@ Monday 28 February 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Les inégalités comptent-elles ? - Comment les gens perçoivent les disparités économiques et la mobilité sociale](https://doi.org/10.1787/0fa43215-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
