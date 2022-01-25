@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 January 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 January 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 January 2022](#24-january-2022)
 * [27 January 2022](#27-january-2022)
+* [28 January 2022](#28-january-2022)
 * [31 January 2022](#31-january-2022)
 * [1 February 2022](#1-february-2022)
 * [2 February 2022](#2-february-2022)
@@ -32,7 +33,7 @@ Monday 24 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -55,7 +56,7 @@ Monday 24 January 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 January 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -78,7 +79,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -101,7 +102,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -124,7 +125,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -147,7 +148,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -170,7 +171,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -193,7 +194,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -216,7 +217,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -239,7 +240,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -262,7 +263,7 @@ Monday 24 January 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
@@ -277,6 +278,29 @@ Monday 24 January 2022 at 10:00 | no launch event
 ------
 
 # 27 January 2022
+
+## [Measuring the non-financial performance of firms through the lens of the OECD Well-being Framework - A common measurement framework for “Scope 1” Social performance](https://doi.org/10.1787/28850c7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 January 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Reviews of Pension Systems: Slovenia](https://doi.org/10.1787/f629a09a-en)
 
@@ -303,6 +327,33 @@ Thursday 27 January 2022 at 8:30 | no launch event
 
 ------
 
+# 28 January 2022
+
+## [OECD Economic Surveys: Romania 2022](https://doi.org/10.1787/e2174606-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 January 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 31 January 2022
 
 ## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
@@ -314,15 +365,15 @@ Monday 31 January 2022 at 5:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
