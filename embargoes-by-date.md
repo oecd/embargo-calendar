@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 January 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 26 January 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 January 2022](#24-january-2022)
 * [27 January 2022](#27-january-2022)
 * [28 January 2022](#28-january-2022)
 * [31 January 2022](#31-january-2022)
@@ -16,264 +15,7 @@ Data generated on | |
 * [21 February 2022](#21-february-2022)
 * [24 February 2022](#24-february-2022)
 * [28 February 2022](#28-february-2022)
-* [10 March 2022](#10-march-2022)
-
-------
-
-# 24 January 2022
-
-## [Soil carbon sequestration by agriculture - Policy options](https://doi.org/10.1787/63ef3841-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How Learning Continued during the COVID-19 Pandemic - Global Lessons from Initiatives to Support Learners and Teachers](https://doi.org/10.1787/bbeca162-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Isle of Man (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/fd56cc8d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Monaco (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/88f778b0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Guernsey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/6933c16a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Jersey (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/37a6cb02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, San Marino (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/22b43680-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Brunei Darussalam (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/83469e1b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Monaco (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2d772d4f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Serbia (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/577cb1f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – MAP Peer Review Report, Curaçao (Stage 2) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29b97fc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 January 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 January 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+* [14 March 2022](#14-march-2022)
 
 ------
 
@@ -313,7 +55,7 @@ Thursday 27 January 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 January 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
 
 ### Additional Information
 
@@ -337,16 +79,16 @@ Friday 28 January 2022 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -376,6 +118,29 @@ Monday 31 January 2022 at 5:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The relationship between quality of the working environment, workers’ health and well-being  - Evidence from 28 OECD countries](https://doi.org/10.1787/c3be1162-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 January 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -735,13 +500,13 @@ Monday 28 February 2022 at 7:00 | no launch event
 
 ------
 
-# 10 March 2022
+# 14 March 2022
 
 ## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 10 March 2022 at 10:00 | no launch event
+Monday 14 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
