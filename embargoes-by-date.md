@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 January 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 January 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 January 2022](#27-january-2022)
 * [28 January 2022](#28-january-2022)
@@ -82,7 +82,7 @@ Friday 28 January 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
+- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
 
 ### Additional Information
 
@@ -148,49 +148,26 @@ Monday 31 January 2022 at 6:00 | no launch event
 
 # 1 February 2022
 
-## [Estudios Económicos de la OCDE: México 2022](https://doi.org/10.1787/8b913f19-es)
+## [OECD Economic Surveys: China 2022](https://doi.org/10.1787/b0e499cf-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 1 February 2022 at 16:00 | no launch event
+Tuesday 1 February 2022 at 11:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 27 January 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Mexico 2022](https://doi.org/10.1787/2e1de26c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 1 February 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -448,6 +425,29 @@ Thursday 24 February 2022 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
 
 Embargo date | Launch date
@@ -468,6 +468,29 @@ Thursday 24 February 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
