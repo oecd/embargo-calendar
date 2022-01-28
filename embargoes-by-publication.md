@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 January 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 28 January 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring the non-financial performance of firms through the lens of the OECD Well-being Framework - A common measurement framework for “Scope 1” Social performance](https://doi.org/10.1787/28850c7f-en)
 
@@ -15,7 +15,7 @@ Thursday 27 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 27 January 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
 
 ### Additional Information
 
@@ -73,26 +73,26 @@ Friday 28 January 2022 at 8:30 | no launch event
 
 ------
 
-## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
+## [Multi-stakeholder approach for better integration of refugee students - Stakeholder engagement in the practice-research-policy transfer in refugee education policy](https://doi.org/10.1787/82b390fb-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 31 January 2022 at 5:00 | no launch event
+Monday 31 January 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -107,7 +107,7 @@ Monday 31 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 January 2022 at 19:55
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
 
 ### Additional Information
 
@@ -116,6 +116,52 @@ Monday 31 January 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Social and emotional learning (SEL) of newcomer and refugee students - Beliefs, practices and implications for policies across OECD countries](https://doi.org/10.1787/a4a0f635-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 January 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 January 2022 at 19:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -136,9 +182,9 @@ Tuesday 1 February 2022 at 11:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
