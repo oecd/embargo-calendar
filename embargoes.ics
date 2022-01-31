@@ -2,137 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/28850c7f-end3e63
-SUMMARY:Measuring the non-financial performance 
- of firms through the lens of the OECD We
- ll-being Framework - A common measuremen
- t framework for “Scope 1” Social perform
- ance
-DESCRIPTION:*Measuring the non-financial performance
-  of firms through the lens of the OECD W
- ell-being Framework - A common measureme
- nt framework for “Scope 1” Social perfor
- mance*\n\nDirectorate: Centre for Well-B
- eing, Inclusion, Sustainability and Equa
- l Opportunity\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/28850c7f-en\nPubl
- ication type: Paper\nReleased as: PDF\n\
- nEmbargo date/time: Thursday, 27 January
-  2022, 6:00 (GMT)\n\n\niLibrary export: 
- Tuesday, 25 January 2022, 19:19 (GMT)\nF
- reepreview export: never\nOECD.org expor
- t: Friday, 28 January 2022, 18:56 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://oecd.github.io/embargo-calen
- dar/embargoes-by-publication.html.\n\nPl
- ease note: This information was correct 
- as of this afternoon at 20:34, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=28850c7f-en.
-DTSTAMP:20220128T203427Z
-DTSTART:20220127T060000Z
-DTEND:20220127T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Measuring the non-financial pe
- rformance of firms through the lens of t
- he OECD Well-being Framework - A common 
- measurement framework for “Scope 1” Soci
- al performance
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f629a09a-end3e997
-SUMMARY:OECD Reviews of Pension Systems: Sloveni
- a
-DESCRIPTION:*OECD Reviews of Pension Systems: Sloven
- ia*\n\nDirectorate: Directorate for Empl
- oyment, Labour and Social Affairs\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/f629a09a-en\nPublication type: Book\n
- Released as: ePub, HTML, Paperback, PDF\
- n\nEmbargo date/time: Thursday, 27 Janua
- ry 2022, 8:30 (GMT)\n\n\niLibrary export
- : Wednesday, 19 January 2022, 19:18 (GMT
- )\nFreepreview export: never\nOECD.org e
- xport: Friday, 28 January 2022, 18:56 (G
- MT)\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 20:34, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=f629a09a-en.
-DTSTAMP:20220128T203427Z
-DTSTART:20220127T083000Z
-DTEND:20220127T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Reviews of Pension System
- s: Slovenia
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e2174606-end3e6996
-SUMMARY:OECD Economic Surveys: Romania 2022
-DESCRIPTION:*OECD Economic Surveys: Romania 2022*\n\
- nDirectorate: Economics Department\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/e2174606-en\nPublication type: Econo
- mic survey\nReleased as: Paperback, PDF\
- n\nEmbargo date/time: Friday, 28 January
-  2022, 8:30 (GMT)\n\n\niLibrary export: 
- Wednesday, 26 January 2022, 19:13 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Thursday, 27 January 2022, 18:55 (G
- MT)\nFTI loaded: ✓\n\nFor more informati
- on see: https://oecd.github.io/embargo-c
- alendar/embargoes-by-publication.html.\n
- \nPlease note: This information was corr
- ect as of this afternoon at 20:34, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=e2174606-en.
-DTSTAMP:20220128T203427Z
-DTSTART:20220128T083000Z
-DTEND:20220128T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Romania
-  2022
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/82b390fb-end3e7051
+UID:10.1787/82b390fb-end3e63
 SUMMARY:Multi-stakeholder approach for better in
  tegration of refugee students - Stakehol
  der engagement in the practice-research-
@@ -155,7 +25,7 @@ DESCRIPTION:*Multi-stakeholder approach for better i
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:34, it is u
+ t as of this afternoon at 20:40, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -164,7 +34,7 @@ DESCRIPTION:*Multi-stakeholder approach for better i
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=82b390fb-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220131T060000Z
 DTEND:20220131T061500Z
 TRANSP:TRANSPARENT
@@ -181,7 +51,7 @@ DESCRIPTION:Reminder: Multi-stakeholder approach for
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3be1162-end3e7107
+UID:10.1787/c3be1162-end3e119
 SUMMARY:The relationship between quality of the 
  working environment, workers’ health and
   well-being  - Evidence from 28 OECD cou
@@ -203,7 +73,7 @@ DESCRIPTION:*The relationship between quality of the
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:34, it is up
+  as of this afternoon at 20:40, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -212,7 +82,7 @@ DESCRIPTION:*The relationship between quality of the
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=c3be1162-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220131T060000Z
 DTEND:20220131T061500Z
 TRANSP:TRANSPARENT
@@ -228,7 +98,7 @@ DESCRIPTION:Reminder: The relationship between quali
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4a0f635-end3e7163
+UID:10.1787/a4a0f635-end3e175
 SUMMARY:Social and emotional learning (SEL) of n
  ewcomer and refugee students - Beliefs, 
  practices and implications for policies 
@@ -250,7 +120,7 @@ DESCRIPTION:*Social and emotional learning (SEL) of
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:34, it is updated each night; the
+  at 20:40, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -258,7 +128,7 @@ DESCRIPTION:*Social and emotional learning (SEL) of
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=a4a0f635-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220131T060000Z
 DTEND:20220131T061500Z
 TRANSP:TRANSPARENT
@@ -274,7 +144,7 @@ DESCRIPTION:Reminder: Social and emotional learning
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4fd214c-end3e7220
+UID:10.1787/a4fd214c-end3e231
 SUMMARY:OECD Economic Surveys: New Zealand 2022
 DESCRIPTION:*OECD Economic Surveys: New Zealand 2022
  *\n\nDirectorate: Economics Department\n
@@ -290,7 +160,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2022
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:34, it is
+ ect as of this afternoon at 20:40, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -299,7 +169,7 @@ DESCRIPTION:*OECD Economic Surveys: New Zealand 2022
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=a4fd214c-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220131T190000Z
 DTEND:20220131T191500Z
 TRANSP:TRANSPARENT
@@ -313,46 +183,96 @@ DESCRIPTION:Reminder: OECD Economic Surveys: New Zea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b0e499cf-end3e7379
-SUMMARY:OECD Economic Surveys: China 2022
-DESCRIPTION:*OECD Economic Surveys: China 2022*\n\nD
- irectorate: Economics Department\nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/b0e499cf-en\nPublication type: Economi
- c survey\nReleased as: Paperback, PDF\n\
- nEmbargo date/time: Tuesday, 1 February 
- 2022, 11:00 (GMT)\n\n\niLibrary export: 
- Thursday, 27 January 2022, 19:14 (GMT)\n
- Freepreview export: never\nOECD.org expo
- rt: Thursday, 27 January 2022, 18:55 (GM
- T)\nFTI loaded: ✗\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:34, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=b0e499cf-en.
-DTSTAMP:20220128T203427Z
-DTSTART:20220201T110000Z
-DTEND:20220201T111500Z
+UID:10.1787/efeeda9d-end3e441
+SUMMARY:Multi-level governance for migrant integ
+ ration - Policy instruments from Austria
+ , Canada, France, Germany and Italy
+DESCRIPTION:*Multi-level governance for migrant inte
+ gration - Policy instruments from Austri
+ a, Canada, France, Germany and Italy*\n\
+ nDirectorate: Centre for Entrepreneurshi
+ p, SMEs, Regions and Cities\nLanguage: E
+ nglish\nDOI: https://doi.org/10.1787/efe
+ eda9d-en\nPublication type: Paper\nRelea
+ sed as: PDF\n\nEmbargo date/time: Wednes
+ day, 2 February 2022, 6:00 (GMT)\n\n\niL
+ ibrary export: Monday, 31 January 2022, 
+ 19:17 (GMT)\nFreepreview export: never\n
+ OECD.org export: Monday, 31 January 2022
+ , 18:56 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :40, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=efeeda9d-en.
+DTSTAMP:20220131T204026Z
+DTSTART:20220202T060000Z
+DTEND:20220202T061500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: China 2
- 022
+DESCRIPTION:Reminder: Multi-level governance for mig
+ rant integration - Policy instruments fr
+ om Austria, Canada, France, Germany and 
+ Italy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df9252dc-ptd3e8458
+UID:10.1787/dc4a71c5-end3e497
+SUMMARY:Allocation of competences in policy sect
+ ors key to migrant integration - In a sa
+ mple of ten OECD countries 
+DESCRIPTION:*Allocation of competences in policy sec
+ tors key to migrant integration - In a s
+ ample of ten OECD countries *\n\nDirecto
+ rate: Centre for Entrepreneurship, SMEs,
+  Regions and Cities\nLanguage: English\n
+ DOI: https://doi.org/10.1787/dc4a71c5-en
+ \nPublication type: Paper\nReleased as: 
+ PDF\n\nEmbargo date/time: Wednesday, 2 F
+ ebruary 2022, 6:00 (GMT)\n\n\niLibrary e
+ xport: Monday, 31 January 2022, 19:17 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Monday, 31 January 2022, 18:56 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:40, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=dc4a71c5-en.
+DTSTAMP:20220131T204026Z
+DTSTART:20220202T060000Z
+DTEND:20220202T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Allocation of competences in p
+ olicy sectors key to migrant integration
+  - In a sample of ten OECD countries 
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/df9252dc-ptd3e1474
 SUMMARY:Governança regulatória no setor de miner
  ação no Brasil
 DESCRIPTION:*Governança regulatória no setor de mine
@@ -371,7 +291,7 @@ DESCRIPTION:*Governança regulatória no setor de mine
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:34, it is updated each night; there
+ t 20:40, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -379,7 +299,7 @@ DESCRIPTION:*Governança regulatória no setor de mine
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=df9252dc-pt.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220202T110000Z
 DTEND:20220202T111500Z
 TRANSP:TRANSPARENT
@@ -393,7 +313,7 @@ DESCRIPTION:Reminder: Governança regulatória no seto
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/63d60aa8-end3e8675
+UID:10.1787/63d60aa8-end3e1691
 SUMMARY:Regulatory Governance in the Mining Sect
  or in Brazil
 DESCRIPTION:*Regulatory Governance in the Mining Sec
@@ -411,7 +331,7 @@ DESCRIPTION:*Regulatory Governance in the Mining Sec
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:34
+ as correct as of this afternoon at 20:40
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -420,7 +340,7 @@ DESCRIPTION:*Regulatory Governance in the Mining Sec
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=63d60aa8-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220202T110000Z
 DTEND:20220202T111500Z
 TRANSP:TRANSPARENT
@@ -434,7 +354,44 @@ DESCRIPTION:Reminder: Regulatory Governance in the M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ac7fb475-ard3e9758
+UID:10.1787/04bf9377-end3e2722
+SUMMARY:OECD Economic Surveys: Colombia 2022
+DESCRIPTION:*OECD Economic Surveys: Colombia 2022*\n
+ \nDirectorate: Economics Department\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/04bf9377-en\nPublication type: Econ
+ omic survey\nReleased as: PDF\n\nEmbargo
+  date/time: Thursday, 10 February 2022, 
+ 15:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✗\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:40
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=04bf9377-en.
+DTSTAMP:20220131T204026Z
+DTSTART:20220210T150000Z
+DTEND:20220210T151500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: Colombi
+ a 2022
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ac7fb475-ard3e2826
 SUMMARY:تعزيز استقلالية الشباب في تونس وثقتهم
 DESCRIPTION:*تعزيز استقلالية الشباب في تونس وثقتهم*\
  n\nDirectorate: Directorate for Public G
@@ -449,7 +406,7 @@ DESCRIPTION:*تعزيز استقلالية الشباب في تونس وثقته
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:34, it is updated each night; t
+ on at 20:40, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -458,7 +415,7 @@ DESCRIPTION:*تعزيز استقلالية الشباب في تونس وثقته
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=ac7fb475-ar
  .
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220215T080000Z
 DTEND:20220215T081500Z
 TRANSP:TRANSPARENT
@@ -472,7 +429,7 @@ DESCRIPTION:Reminder: تعزيز استقلالية الشباب في تونس
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89f3ccee-end3e10352
+UID:10.1787/89f3ccee-end3e3420
 SUMMARY:Driving Performance at Peru’s Water and 
  Sanitation Services Regulator
 DESCRIPTION:*Driving Performance at Peru’s Water and
@@ -491,7 +448,7 @@ DESCRIPTION:*Driving Performance at Peru’s Water and
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 34, it is updated each night; therefore 
+ 40, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -499,7 +456,7 @@ DESCRIPTION:*Driving Performance at Peru’s Water and
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=89f3ccee-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220217T140000Z
 DTEND:20220217T141500Z
 TRANSP:TRANSPARENT
@@ -513,7 +470,7 @@ DESCRIPTION:Reminder: Driving Performance at Peru’s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/228ea50e-esd3e11166
+UID:10.1787/228ea50e-esd3e4234
 SUMMARY:Impulsando el desempeño del Regulador de
   los servicios de agua y saneamiento de 
  Perú
@@ -533,7 +490,7 @@ DESCRIPTION:*Impulsando el desempeño del Regulador d
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:34, it is updated each 
+  afternoon at 20:40, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -542,7 +499,7 @@ DESCRIPTION:*Impulsando el desempeño del Regulador d
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=228
  ea50e-es.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220217T140000Z
 DTEND:20220217T141500Z
 TRANSP:TRANSPARENT
@@ -557,7 +514,7 @@ DESCRIPTION:Reminder: Impulsando el desempeño del Re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b8177aea-end3e11763
+UID:10.1787/b8177aea-end3e4831
 SUMMARY:Tax Policy and Gender Equality - A Stock
  take of Country Approaches
 DESCRIPTION:*Tax Policy and Gender Equality - A Stoc
@@ -574,7 +531,7 @@ DESCRIPTION:*Tax Policy and Gender Equality - A Stoc
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:34, it is updated
+ f this afternoon at 20:40, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -583,7 +540,7 @@ DESCRIPTION:*Tax Policy and Gender Equality - A Stoc
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=b8177aea-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220218T100000Z
 DTEND:20220218T101500Z
 TRANSP:TRANSPARENT
@@ -597,7 +554,46 @@ DESCRIPTION:Reminder: Tax Policy and Gender Equality
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f6a948f-esd3e11867
+UID:10.1787/e1593a0c-end3e4987
+SUMMARY:Open and Connected Government Review of 
+ Thailand
+DESCRIPTION:*Open and Connected Government Review of
+  Thailand*\n\nDirectorate: Directorate f
+ or Public Governance\nLanguage: English\
+ nDOI: https://doi.org/10.1787/e1593a0c-e
+ n\nPublication type: Book\nReleased as: 
+ Paperback, PDF\n\nEmbargo date/time: Sun
+ day, 20 February 2022, 23:00 (GMT)\n\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nOECD.org export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 20:40, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =e1593a0c-en.
+DTSTAMP:20220131T204026Z
+DTSTART:20220220T230000Z
+DTEND:20220220T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Open and Connected Government 
+ Review of Thailand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7f6a948f-esd3e5039
 SUMMARY:¿Cómo va la vida en América Latina? - Me
  dición del bienestar para la formulación
   de políticas públicas
@@ -617,7 +613,7 @@ DESCRIPTION:*¿Cómo va la vida en América Latina? - M
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:34, it is updated each night; t
+ on at 20:40, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -626,7 +622,7 @@ DESCRIPTION:*¿Cómo va la vida en América Latina? - M
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=7f6a948f-es
  .
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220221T150000Z
 DTEND:20220221T151500Z
 TRANSP:TRANSPARENT
@@ -641,7 +637,7 @@ DESCRIPTION:Reminder: ¿Cómo va la vida en América La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/04780b15-end3e12023
+UID:10.1787/04780b15-end3e5196
 SUMMARY:Strengthening Early Childhood Education 
  and Care in Luxembourg - A Focus on Non-
  formal Education
@@ -660,7 +656,7 @@ DESCRIPTION:*Strengthening Early Childhood Education
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:34, it is updated each night; 
+ oon at 20:40, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -669,7 +665,7 @@ DESCRIPTION:*Strengthening Early Childhood Education
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=04780b15-e
  n.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T080000Z
 DTEND:20220224T081500Z
 TRANSP:TRANSPARENT
@@ -684,7 +680,7 @@ DESCRIPTION:Reminder: Strengthening Early Childhood
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5e6af8da-end3e12076
+UID:10.1787/5e6af8da-end3e5248
 SUMMARY:Career Guidance for Low-Qualified Worker
  s in Germany
 DESCRIPTION:*Career Guidance for Low-Qualified Worke
@@ -701,7 +697,7 @@ DESCRIPTION:*Career Guidance for Low-Qualified Worke
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:34, it is updated each night; ther
+ at 20:40, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -709,7 +705,7 @@ DESCRIPTION:*Career Guidance for Low-Qualified Worke
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=5e6af8da-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T090000Z
 DTEND:20220224T091500Z
 TRANSP:TRANSPARENT
@@ -723,7 +719,7 @@ DESCRIPTION:Reminder: Career Guidance for Low-Qualif
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c07912da-end3e12233
+UID:10.1787/c07912da-end3e5405
 SUMMARY:Supporting Tunisia in Implementing Tax P
  olicy Measures (Abridged version) - Towa
  rds the Formalisation of Businesses, Sel
@@ -744,7 +740,7 @@ DESCRIPTION:*Supporting Tunisia in Implementing Tax
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:34, it is updated ea
+ his afternoon at 20:40, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -753,7 +749,7 @@ DESCRIPTION:*Supporting Tunisia in Implementing Tax
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  c07912da-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T100000Z
 DTEND:20220224T101500Z
 TRANSP:TRANSPARENT
@@ -770,7 +766,7 @@ DESCRIPTION:Reminder: Supporting Tunisia in Implemen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f9459cf-end3e12285
+UID:10.1787/7f9459cf-end3e5458
 SUMMARY:OECD Economic Surveys: Tunisia 2022
 DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  nDirectorate: Economics Department\nLang
@@ -784,7 +780,7 @@ DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:34,
+ s correct as of this afternoon at 20:40,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -793,7 +789,7 @@ DESCRIPTION:*OECD Economic Surveys: Tunisia 2022*\n\
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=7f9459cf-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T100000Z
 DTEND:20220224T101500Z
 TRANSP:TRANSPARENT
@@ -807,7 +803,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Tunisia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96c84e93-frd3e12337
+UID:10.1787/96c84e93-frd3e5510
 SUMMARY:Soutenir la Tunisie dans la mise en œuvr
  e de mesures fiscales - Encourager la fo
  rmalisation des entreprises, des travail
@@ -828,7 +824,7 @@ DESCRIPTION:*Soutenir la Tunisie dans la mise en œuv
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:34, it i
+ rect as of this afternoon at 20:40, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -837,7 +833,7 @@ DESCRIPTION:*Soutenir la Tunisie dans la mise en œuv
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=96c84e93-fr.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T100000Z
 DTEND:20220224T101500Z
 TRANSP:TRANSPARENT
@@ -854,7 +850,7 @@ DESCRIPTION:Reminder: Soutenir la Tunisie dans la mi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69ef3240-frd3e12391
+UID:10.1787/69ef3240-frd3e5563
 SUMMARY:Études économiques de l’OCDE : Tunisie 2
  022
 DESCRIPTION:*Études économiques de l’OCDE : Tunisie 
@@ -870,7 +866,7 @@ DESCRIPTION:*Études économiques de l’OCDE : Tunisie
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:34, it is updated each night; theref
+  20:40, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -878,7 +874,7 @@ DESCRIPTION:*Études économiques de l’OCDE : Tunisie
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=69ef3240-fr.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220224T100000Z
 DTEND:20220224T101500Z
 TRANSP:TRANSPARENT
@@ -892,7 +888,7 @@ DESCRIPTION:Reminder: Études économiques de l’OCDE :
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a6b6f3a-end3e12494
+UID:10.1787/9a6b6f3a-end3e5666
 SUMMARY:Quality and Equity of Schooling in the G
  erman-speaking Community of Belgium
 DESCRIPTION:*Quality and Equity of Schooling in the 
@@ -909,7 +905,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:34, it is updated each night; 
+ oon at 20:40, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -918,7 +914,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=9a6b6f3a-e
  n.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220228T070000Z
 DTEND:20220228T071500Z
 TRANSP:TRANSPARENT
@@ -933,7 +929,48 @@ DESCRIPTION:Reminder: Quality and Equity of Schoolin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b75874-end3e12651
+UID:10.1787/c2ca4314-frd3e5770
+SUMMARY:Politique fiscale et égalité femmes-homm
+ es  - Un bilan des approches nationales
+DESCRIPTION:*Politique fiscale et égalité femmes-hom
+ mes - Un bilan des approches nationales*
+ \n\nDirectorate: Centre for Tax Policy a
+ nd Administration\nLanguage: French\nDOI
+ : https://doi.org/10.1787/c2ca4314-fr\nP
+ ublication type: Stand-alone monograph\n
+ Released as: Paperback, PDF\n\nEmbargo d
+ ate/time: Monday, 28 February 2022, 10:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✗\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 20:40, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=c2ca4314-fr.
+DTSTAMP:20220131T204026Z
+DTSTART:20220228T100000Z
+DTEND:20220228T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Politique fiscale et égalité f
+ emmes-hommes  - Un bilan des approches n
+ ationales
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/92b75874-end3e5928
 SUMMARY:Mending the Education Divide - Getting S
  trong Teachers to the Schools That Need 
  Them Most
@@ -951,7 +988,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:34, it is updated 
+  this afternoon at 20:40, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -960,7 +997,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=92b75874-en.
-DTSTAMP:20220128T203427Z
+DTSTAMP:20220131T204026Z
 DTSTART:20220314T100000Z
 DTEND:20220314T101500Z
 TRANSP:TRANSPARENT

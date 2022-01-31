@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 January 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring the non-financial performance of firms through the lens of the OECD Well-being Framework - A common measurement framework for “Scope 1” Social performance](https://doi.org/10.1787/28850c7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 January 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 January 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Reviews of Pension Systems: Slovenia](https://doi.org/10.1787/f629a09a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 January 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 January 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Romania 2022](https://doi.org/10.1787/e2174606-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 January 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 31 January 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multi-stakeholder approach for better integration of refugee students - Stakeholder engagement in the practice-research-policy transfer in refugee education policy](https://doi.org/10.1787/82b390fb-en)
 
@@ -165,26 +96,49 @@ Monday 31 January 2022 at 19:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: China 2022](https://doi.org/10.1787/b0e499cf-en)
+## [Multi-level governance for migrant integration - Policy instruments from Austria, Canada, France, Germany and Italy](https://doi.org/10.1787/efeeda9d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 1 February 2022 at 11:00 | no launch event
+Wednesday 2 February 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 31 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
+- [x] Exported to OECD.org Monday 31 January 2022 at 19:56
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Allocation of competences in policy sectors key to migrant integration - In a sample of ten OECD countries ](https://doi.org/10.1787/dc4a71c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 31 January 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 31 January 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -231,6 +185,29 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Colombia 2022](https://doi.org/10.1787/04bf9377-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 February 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -322,6 +299,29 @@ Friday 18 February 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Open and Connected Government Review of Thailand](https://doi.org/10.1787/e1593a0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 February 2022 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -506,6 +506,29 @@ Monday 28 February 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Politique fiscale et égalité femmes-hommes  - Un bilan des approches nationales](https://doi.org/10.1787/c2ca4314-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
