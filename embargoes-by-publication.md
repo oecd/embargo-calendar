@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 January 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 February 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multi-stakeholder approach for better integration of refugee students - Stakeholder engagement in the practice-research-policy transfer in refugee education policy](https://doi.org/10.1787/82b390fb-en)
 
@@ -15,7 +15,7 @@ Monday 31 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 31 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 31 January 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 31 January 2022 at 19:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 January 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 January 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
 
 ### Additional Information
 
@@ -185,6 +185,52 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [A framework to decarbonise the economy](https://doi.org/10.1787/4e4d973d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [How has educational attainment influenced the labour market outcomes of native- and foreign-born adults?](https://doi.org/10.1787/338053c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -207,7 +253,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -437,7 +483,7 @@ Thursday 24 February 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -483,7 +529,7 @@ Thursday 24 February 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
