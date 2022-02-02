@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 February 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multi-stakeholder approach for better integration of refugee students - Stakeholder engagement in the practice-research-policy transfer in refugee education policy](https://doi.org/10.1787/82b390fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 January 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The relationship between quality of the working environment, workers’ health and well-being  - Evidence from 28 OECD countries](https://doi.org/10.1787/c3be1162-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 January 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 January 2022 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Social and emotional learning (SEL) of newcomer and refugee students - Beliefs, practices and implications for policies across OECD countries](https://doi.org/10.1787/a4a0f635-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 January 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: New Zealand 2022](https://doi.org/10.1787/a4fd214c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 January 2022 at 19:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 2 February 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Multi-level governance for migrant integration - Policy instruments from Austria, Canada, France, Germany and Italy](https://doi.org/10.1787/efeeda9d-en)
 
@@ -199,7 +107,7 @@ Friday 4 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 2 February 2022 at 19:56
 
 ### Additional Information
 
@@ -251,6 +159,29 @@ Thursday 10 February 2022 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: Colombia 2022](https://doi.org/10.1787/991f37df-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 February 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
