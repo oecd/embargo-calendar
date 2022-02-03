@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 February 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 3 February 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 February 2022](#2-february-2022)
 * [4 February 2022](#4-february-2022)
@@ -32,7 +32,7 @@ Wednesday 2 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 January 2022 at 19:56
+- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
 
 ### Additional Information
 
@@ -55,7 +55,7 @@ Wednesday 2 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 31 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 January 2022 at 19:56
+- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
 
 ### Additional Information
 
@@ -78,7 +78,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
 
 ### Additional Information
 
@@ -101,7 +101,7 @@ Wednesday 2 February 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 January 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
 
 ### Additional Information
 
@@ -448,29 +448,6 @@ Thursday 24 February 2022 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
 
 Embargo date | Launch date
@@ -490,29 +467,6 @@ Thursday 24 February 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
