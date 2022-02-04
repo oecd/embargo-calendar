@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 February 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multi-level governance for migrant integration - Policy instruments from Austria, Canada, France, Germany and Italy](https://doi.org/10.1787/efeeda9d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 January 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Allocation of competences in policy sectors key to migrant integration - In a sample of ten OECD countries ](https://doi.org/10.1787/dc4a71c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 31 January 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Governança regulatória no setor de mineração no Brasil](https://doi.org/10.1787/df9252dc-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 February 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Regulatory Governance in the Mining Sector in Brazil](https://doi.org/10.1787/63d60aa8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 February 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 January 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 4 February 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A framework to decarbonise the economy](https://doi.org/10.1787/4e4d973d-en)
 
@@ -107,7 +15,7 @@ Friday 4 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 February 2022 at 19:56
+- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
 
 ### Additional Information
 
@@ -130,11 +38,34 @@ Monday 7 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 February 2022 at 19:56
+- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Boosting social entrepreneurship and social enterprise development in Slovenia - In-depth policy review](https://doi.org/10.1787/8ea2b761-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 February 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -222,7 +153,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
 
 ### Additional Information
 
@@ -245,7 +176,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 January 2022 at 19:56
+- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
 
 ### Additional Information
 
@@ -320,6 +251,29 @@ Monday 21 February 2022 at 15:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Plastics Outlook - Economic Drivers, Environmental Impacts and Policy Options](https://doi.org/10.1787/de747aef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 February 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
