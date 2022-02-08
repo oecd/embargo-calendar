@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-02-07T20:34:46.4911207+01:00">
+<report name="official-embargoes" generated="2022-02-08T20:34:07.3612973+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,8 +33,8 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-02-01T19:17:10Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-07T18:56:49Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
+    <cell name="discoveryservice last export date">2022-02-07T19:58:21Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-02-04T19:15:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-04T18:55:48Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-02-07T19:13:55Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-07T18:56:49Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -97,7 +97,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d75f78b</cell>
   </row>
   <row index="5">
@@ -117,7 +117,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a60c2ee</cell>
   </row>
   <row index="6">
@@ -313,7 +313,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-01-21T19:16:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-04T18:55:48Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -393,7 +393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-01-21T19:16:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-04T18:55:48Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -533,7 +533,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-01-20T19:15:38Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-04T18:55:48Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -693,7 +693,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-01-20T19:15:38Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-02-04T18:55:48Z</cell>
+    <cell name="oecd.org last export date">2022-02-08T18:55:38Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1281,6 +1281,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85472fef</cell>
   </row>
   <row index="64">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/45bd4657-en</cell>
+    <cell name="title">OECD Integrity Review of the Slovak Republic (en)</cell>
+    <cell name="subtitle">Delivering Effective Public Integrity Policies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-03-03T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa53561d</cell>
+  </row>
+  <row index="65">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/45bd4657-en</cell>
+    <cell name="title">OECD Integrity Review of the Slovak Republic (en)</cell>
+    <cell name="subtitle">Delivering Effective Public Integrity Policies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-03-03T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61d2e2a5</cell>
+  </row>
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -1300,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/442d1caf</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -1319,5 +1359,45 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae20a662</cell>
+  </row>
+  <row index="68">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/81b01318-en</cell>
+    <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-03-15T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58a08012</cell>
+  </row>
+  <row index="69">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/81b01318-en</cell>
+    <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-03-15T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acf21ca8</cell>
   </row>
 </report>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 February 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 February 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 February 2022](#7-february-2022)
 * [8 February 2022](#8-february-2022)
@@ -14,7 +14,9 @@ Data generated on | |
 * [22 February 2022](#22-february-2022)
 * [24 February 2022](#24-february-2022)
 * [28 February 2022](#28-february-2022)
+* [3 March 2022](#3-march-2022)
 * [14 March 2022](#14-march-2022)
+* [15 March 2022](#15-march-2022)
 
 ------
 
@@ -31,7 +33,7 @@ Monday 7 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
 
 ### Additional Information
 
@@ -58,7 +60,7 @@ Tuesday 8 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 February 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
 
 ### Additional Information
 
@@ -85,7 +87,7 @@ Wednesday 9 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
 
 ### Additional Information
 
@@ -109,7 +111,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -132,7 +134,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -162,7 +164,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
 
 ### Additional Information
 
@@ -185,7 +187,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 February 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
 
 ### Additional Information
 
@@ -426,6 +428,33 @@ Monday 28 February 2022 at 10:00 | no launch event
 
 ------
 
+# 3 March 2022
+
+## [OECD Integrity Review of the Slovak Republic - Delivering Effective Public Integrity Policies](https://doi.org/10.1787/45bd4657-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 14 March 2022
 
 ## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
@@ -447,6 +476,33 @@ Monday 14 March 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 March 2022
+
+## [Drivers of Trust in Public Institutions in Norway](https://doi.org/10.1787/81b01318-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
