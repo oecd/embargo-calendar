@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 February 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
-
-## [How has educational attainment influenced the labour market outcomes of native- and foreign-born adults?](https://doi.org/10.1787/338053c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 February 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 9 February 2022 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Boosting social entrepreneurship and social enterprise development in Slovenia - In-depth policy review](https://doi.org/10.1787/8ea2b761-en)
 
@@ -38,7 +15,7 @@ Tuesday 8 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 February 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Wednesday 9 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 February 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
 
 ### Additional Information
 
@@ -82,15 +59,15 @@ Thursday 10 February 2022 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -105,7 +82,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,7 +90,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -165,6 +142,29 @@ Thursday 17 February 2022 at 14:00 | no launch event
 
 ------
 
+## [Open and Connected Government Review of Thailand](https://doi.org/10.1787/e1593a0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 February 2022 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Tax Policy and Gender Equality - A Stocktake of Country Approaches](https://doi.org/10.1787/b8177aea-en)
 
 Embargo date | Launch date
@@ -184,29 +184,6 @@ Friday 18 February 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Open and Connected Government Review of Thailand](https://doi.org/10.1787/e1593a0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 20 February 2022 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
