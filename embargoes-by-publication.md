@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 February 2022 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Boosting social entrepreneurship and social enterprise development in Slovenia - In-depth policy review](https://doi.org/10.1787/8ea2b761-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 February 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 10 February 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lessons learnt and good practice from APEC-economy fossil-fuel subsidy peer reviews](https://doi.org/10.1787/63ba96a5-en)
 
@@ -38,7 +15,7 @@ Wednesday 9 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
 
 ### Additional Information
 

@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 February 2022 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 February 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 February 2022](#8-february-2022)
 * [9 February 2022](#9-february-2022)
 * [10 February 2022](#10-february-2022)
 * [17 February 2022](#17-february-2022)
@@ -15,33 +14,6 @@ Data generated on | |
 * [3 March 2022](#3-march-2022)
 * [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
-
-------
-
-# 8 February 2022
-
-## [Boosting social entrepreneurship and social enterprise development in Slovenia - In-depth policy review](https://doi.org/10.1787/8ea2b761-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 February 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,7 +30,7 @@ Wednesday 9 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
 
 ### Additional Information
 
@@ -85,7 +57,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
 
 ### Additional Information
 
