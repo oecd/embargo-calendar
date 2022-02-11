@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 February 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Lessons learnt and good practice from APEC-economy fossil-fuel subsidy peer reviews](https://doi.org/10.1787/63ba96a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 February 2022 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 11 February 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Colombia 2022](https://doi.org/10.1787/04bf9377-en)
 
@@ -38,7 +15,7 @@ Thursday 10 February 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 February 2022 at 19:57
+- [x] Exported to OECD.org Friday 11 February 2022 at 19:57
 
 ### Additional Information
 
@@ -127,7 +104,7 @@ Thursday 17 February 2022 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,7 +115,7 @@ Thursday 17 February 2022 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -150,7 +127,7 @@ Friday 18 February 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -161,7 +138,7 @@ Friday 18 February 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -207,7 +184,7 @@ Thursday 24 February 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
