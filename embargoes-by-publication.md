@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 February 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Colombia 2022](https://doi.org/10.1787/04bf9377-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 February 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 February 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: Colombia 2022](https://doi.org/10.1787/991f37df-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 February 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 14 February 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Driving Performance at Peru’s Water and Sanitation Services Regulator](https://doi.org/10.1787/89f3ccee-en)
 
@@ -128,15 +82,15 @@ Friday 18 February 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 14 February 2022 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 14 February 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -165,6 +119,29 @@ Tuesday 22 February 2022 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Norway 2022](https://doi.org/10.1787/df7b87ab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
 
 Embargo date | Launch date
@@ -173,7 +150,7 @@ Thursday 24 February 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -289,15 +266,15 @@ Monday 28 February 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 14 February 2022 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 14 February 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
