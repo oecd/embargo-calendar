@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 February 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 15 February 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 February 2022](#17-february-2022)
 * [18 February 2022](#18-february-2022)
@@ -12,6 +12,8 @@ Data generated on | |
 * [3 March 2022](#3-march-2022)
 * [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
+* [21 March 2022](#21-march-2022)
+* [22 March 2022](#22-march-2022)
 
 ------
 
@@ -386,6 +388,83 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 March 2022
+
+## [Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/3dc05e6a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6](https://doi.org/10.1787/3fc9415b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 March 2022
+
+## [Review of Inclusive Education in Portugal](https://doi.org/10.1787/a9c95902-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

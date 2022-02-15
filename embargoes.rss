@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 14 Feb 2022 20:40:49 GMT</pubDate>
+      <pubDate>Tue, 15 Feb 2022 20:46:54 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -252,6 +252,54 @@
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3dc05e6a-en-d3e4934</guid>
+         <pubDate>Mon, 21 Mar 2022 11:00:00 GMT</pubDate>
+         <title>Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6</title>
+         <link>https://doi.org/10.1787/3dc05e6a-en</link>
+         <description>Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6 by Centre for Tax Policy and Administration has an embargo on Monday 21 March 2022 at 11:00.</description>
+         <oe:embargoTime>Mon, 21 Mar 2022 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/3fc9415b-fr-d3e5038</guid>
+         <pubDate>Mon, 21 Mar 2022 11:00:00 GMT</pubDate>
+         <title>Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6</title>
+         <link>https://doi.org/10.1787/3fc9415b-fr</link>
+         <description>Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6 by Centre for Tax Policy and Administration has an embargo on Monday 21 March 2022 at 11:00.</description>
+         <oe:embargoTime>Mon, 21 Mar 2022 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a9c95902-en-d3e5142</guid>
+         <pubDate>Tue, 22 Mar 2022 11:00:00 GMT</pubDate>
+         <title>Review of Inclusive Education in Portugal</title>
+         <link>https://doi.org/10.1787/a9c95902-en</link>
+         <description>Review of Inclusive Education in Portugal by Directorate for Education and Skills has an embargo on Tuesday 22 March 2022 at 11:00.</description>
+         <oe:embargoTime>Tue, 22 Mar 2022 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
       </item>
    </channel>
 </rss>
