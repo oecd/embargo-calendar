@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 February 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 February 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 February 2022](#17-february-2022)
 * [18 February 2022](#18-february-2022)
+* [21 February 2022](#21-february-2022)
 * [22 February 2022](#22-february-2022)
 * [24 February 2022](#24-february-2022)
 * [28 February 2022](#28-february-2022)
@@ -30,7 +31,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 January 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 February 2022 at 19:54
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
 
 ### Additional Information
 
@@ -53,7 +54,7 @@ Thursday 17 February 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 February 2022 at 19:54
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
 
 ### Additional Information
 
@@ -74,15 +75,15 @@ Thursday 17 February 2022 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -103,7 +104,7 @@ Friday 18 February 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 February 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 February 2022 at 19:57
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
 
 ### Additional Information
 
@@ -117,7 +118,103 @@ Friday 18 February 2022 at 10:00 | no launch event
 
 ------
 
+# 21 February 2022
+
+## [Études économiques de l’OCDE : Mexique 2022 (version abrégée)](https://doi.org/10.1787/3b414808-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 February 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: México 2022](https://doi.org/10.1787/8b913f19-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 February 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Mexico 2022](https://doi.org/10.1787/2e1de26c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 February 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
 # 22 February 2022
+
+## [Tackling the challenges of population ageing in the Slovak Republic](https://doi.org/10.1787/03edcf77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Global Plastics Outlook - Economic Drivers, Environmental Impacts and Policy Options](https://doi.org/10.1787/de747aef-en)
 
@@ -127,18 +224,18 @@ Tuesday 22 February 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 February 2022 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 February 2022 at 19:54
+- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -189,29 +286,6 @@ Thursday 24 February 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Career Guidance for Low-Qualified Workers in Germany](https://doi.org/10.1787/5e6af8da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
