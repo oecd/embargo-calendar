@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 February 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 February 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 February 2022](#17-february-2022)
 * [18 February 2022](#18-february-2022)
@@ -77,7 +77,7 @@ Thursday 17 February 2022 at 23:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
 
 ### Additional Information
 
@@ -104,7 +104,7 @@ Friday 18 February 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 February 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
 
 ### Additional Information
 
@@ -120,25 +120,25 @@ Friday 18 February 2022 at 10:00 | no launch event
 
 # 21 February 2022
 
-## [Études économiques de l’OCDE : Mexique 2022 (version abrégée)](https://doi.org/10.1787/3b414808-fr)
+## [International comparisons of the measurement of non-market output during the COVID-19 pandemic](https://doi.org/10.1787/301f1306-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 21 February 2022 at 16:00 | no launch event
+Monday 21 February 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -151,8 +151,8 @@ Monday 21 February 2022 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -160,7 +160,7 @@ Monday 21 February 2022 at 16:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -174,16 +174,16 @@ Monday 21 February 2022 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -192,6 +192,29 @@ Monday 21 February 2022 at 16:00 | no launch event
 ------
 
 # 22 February 2022
+
+## [OECD Framework for the Classification of AI systems](https://doi.org/10.1787/cb6d9eca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Tackling the challenges of population ageing in the Slovak Republic](https://doi.org/10.1787/03edcf77-en)
 
@@ -216,29 +239,6 @@ Tuesday 22 February 2022 at 6:00 | no launch event
 
 ------
 
-## [Global Plastics Outlook - Economic Drivers, Environmental Impacts and Policy Options](https://doi.org/10.1787/de747aef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 February 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Norway 2022](https://doi.org/10.1787/df7b87ab-en)
 
 Embargo date | Launch date
@@ -247,7 +247,7 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -262,9 +262,55 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 
 ------
 
+## [Global Plastics Outlook - Economic Drivers, Environmental Impacts and Policy Options](https://doi.org/10.1787/de747aef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 February 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ------
 
 # 24 February 2022
+
+## [Building an Investment Tax Incentives database - Methodology and initial findings for 36 developing countries](https://doi.org/10.1787/62e075a9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 February 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
 
