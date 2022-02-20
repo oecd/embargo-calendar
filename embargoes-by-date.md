@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 February 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 20 February 2022 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 February 2022](#17-february-2022)
-* [18 February 2022](#18-february-2022)
 * [21 February 2022](#21-february-2022)
 * [22 February 2022](#22-february-2022)
 * [24 February 2022](#24-february-2022)
@@ -15,106 +13,6 @@ Data generated on | |
 * [15 March 2022](#15-march-2022)
 * [21 March 2022](#21-march-2022)
 * [22 March 2022](#22-march-2022)
-
-------
-
-# 17 February 2022
-
-## [Driving Performance at Peru’s Water and Sanitation Services Regulator](https://doi.org/10.1787/89f3ccee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 February 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 January 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Impulsando el desempeño del Regulador de los servicios de agua y saneamiento de Perú](https://doi.org/10.1787/228ea50e-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 February 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 January 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Open and Connected Government Review of Thailand](https://doi.org/10.1787/e1593a0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 February 2022 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 18 February 2022
-
-## [Tax Policy and Gender Equality - A Stocktake of Country Approaches](https://doi.org/10.1787/b8177aea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 February 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -131,7 +29,7 @@ Monday 21 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+- [x] Exported to OECD.org Sunday 20 February 2022 at 19:55
 
 ### Additional Information
 
@@ -177,7 +75,7 @@ Monday 21 February 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+- [x] Exported to OECD.org Sunday 20 February 2022 at 19:55
 
 ### Additional Information
 
