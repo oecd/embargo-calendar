@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 February 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 21 February 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [International comparisons of the measurement of non-market output during the COVID-19 pandemic](https://doi.org/10.1787/301f1306-en)
 
@@ -15,7 +15,7 @@ Monday 21 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 February 2022 at 19:55
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -46,7 +46,7 @@ Monday 21 February 2022 at 16:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -61,7 +61,7 @@ Monday 21 February 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 February 2022 at 19:55
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -69,7 +69,7 @@ Monday 21 February 2022 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -84,7 +84,7 @@ Tuesday 22 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 22 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 February 2022 at 19:55
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -128,15 +128,15 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 21 February 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -153,7 +153,7 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Thursday 24 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 February 2022 at 19:54
+- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
 
 ### Additional Information
 
@@ -208,75 +208,6 @@ Thursday 24 February 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Supporting Tunisia in Implementing Tax Policy Measures (Abridged version) - Towards the Formalisation of Businesses, Self-employed Workers and Employees](https://doi.org/10.1787/c07912da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Soutenir la Tunisie dans la mise en œuvre de mesures fiscales - Encourager la formalisation des entreprises, des travailleurs indépendants et des salariés](https://doi.org/10.1787/96c84e93-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Quality and Equity of Schooling in the German-speaking Community of Belgium](https://doi.org/10.1787/9a6b6f3a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 February 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
