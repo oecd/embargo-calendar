@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 February 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 22 February 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [International comparisons of the measurement of non-market output during the COVID-19 pandemic](https://doi.org/10.1787/301f1306-en)
 
@@ -84,7 +84,7 @@ Tuesday 22 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 22 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 February 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
 
 ### Additional Information
 
@@ -151,9 +151,9 @@ Tuesday 22 February 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
+- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
 
 ### Additional Information
 
@@ -211,29 +211,6 @@ Thursday 24 February 2022 at 8:00 | no launch event
 
 ------
 
-## [Politique fiscale et égalité femmes-hommes  - Un bilan des approches nationales](https://doi.org/10.1787/c2ca4314-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 16 February 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Integrity Review of the Slovak Republic - Delivering Effective Public Integrity Policies](https://doi.org/10.1787/45bd4657-en)
 
 Embargo date | Launch date
@@ -242,18 +219,18 @@ Thursday 3 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -277,6 +254,29 @@ Monday 14 March 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Quality and Equity of Schooling in the German-speaking Community of Belgium](https://doi.org/10.1787/9a6b6f3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
