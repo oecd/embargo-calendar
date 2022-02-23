@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 February 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [International comparisons of the measurement of non-market output during the COVID-19 pandemic](https://doi.org/10.1787/301f1306-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: México 2022](https://doi.org/10.1787/8b913f19-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 February 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Mexico 2022](https://doi.org/10.1787/2e1de26c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 February 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 23 February 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Framework for the Classification of AI systems](https://doi.org/10.1787/cb6d9eca-en)
 
@@ -176,7 +107,7 @@ Thursday 24 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 February 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 23 February 2022 at 19:55
 
 ### Additional Information
 
@@ -266,9 +197,9 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
+- [x] Exported to iLibrary Wednesday 23 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 23 February 2022 at 19:55
 
 ### Additional Information
 
@@ -368,6 +299,52 @@ Tuesday 22 March 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 1 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
