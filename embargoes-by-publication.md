@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 February 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Framework for the Classification of AI systems](https://doi.org/10.1787/cb6d9eca-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Tackling the challenges of population ageing in the Slovak Republic](https://doi.org/10.1787/03edcf77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Norway 2022](https://doi.org/10.1787/df7b87ab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 February 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Plastics Outlook - Economic Drivers, Environmental Impacts and Policy Options](https://doi.org/10.1787/de747aef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 February 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 24 February 2022 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building an Investment Tax Incentives database - Methodology and initial findings for 36 developing countries](https://doi.org/10.1787/62e075a9-en)
 
@@ -128,7 +36,7 @@ Thursday 24 February 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,7 +44,7 @@ Thursday 24 February 2022 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -174,7 +82,7 @@ Monday 14 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -182,7 +90,7 @@ Monday 14 March 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
