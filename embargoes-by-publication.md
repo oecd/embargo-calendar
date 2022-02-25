@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 February 2022 at 20:29* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 25 February 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building an Investment Tax Incentives database - Methodology and initial findings for 36 developing countries](https://doi.org/10.1787/62e075a9-en)
 
@@ -15,7 +15,7 @@ Thursday 24 February 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 February 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 
 ### Additional Information
 
@@ -38,12 +38,58 @@ Thursday 24 February 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 February 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Constituciones en países de la OCDE: Un estudio comparado - Informe en el contexto del proceso constitucional en Chile](https://doi.org/10.1787/f88b3115-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 February 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
@@ -81,18 +127,18 @@ Monday 14 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -107,7 +153,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 23 February 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 February 2022 at 19:55
+- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 
 ### Additional Information
 
@@ -138,6 +184,29 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Reaching Out and Activating Inactive and Unemployed Persons in Bulgaria](https://doi.org/10.1787/7b91154a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
