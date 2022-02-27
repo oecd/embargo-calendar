@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 February 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Building an Investment Tax Incentives database - Methodology and initial findings for 36 developing countries](https://doi.org/10.1787/62e075a9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 27 February 2022 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
 
@@ -61,7 +15,7 @@ Monday 28 February 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+- [x] Exported to OECD.org Sunday 27 February 2022 at 19:53
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Monday 28 February 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+- [x] Exported to OECD.org Sunday 27 February 2022 at 19:53
 
 ### Additional Information
 

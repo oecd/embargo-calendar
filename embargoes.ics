@@ -2,96 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/62e075a9-end3e63
-SUMMARY:Building an Investment Tax Incentives da
- tabase - Methodology and initial finding
- s for 36 developing countries
-DESCRIPTION:*Building an Investment Tax Incentives d
- atabase - Methodology and initial findin
- gs for 36 developing countries*\n\nDirec
- torate: Directorate for Financial and En
- terprise Affairs\nLanguage: English\nDOI
- : https://doi.org/10.1787/62e075a9-en\nP
- ublication type: Paper\nReleased as: PDF
- \n\nEmbargo date/time: Thursday, 24 Febr
- uary 2022, 6:00 (GMT)\n\n\niLibrary expo
- rt: Friday, 18 February 2022, 19:14 (GMT
- )\nFreepreview export: never\nOECD.org e
- xport: Thursday, 24 February 2022, 18:54
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:40, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=62e075a9-en.
-DTSTAMP:20220225T204032Z
-DTSTART:20220224T060000Z
-DTEND:20220224T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Building an Investment Tax Inc
- entives database - Methodology and initi
- al findings for 36 developing countries
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/04780b15-end3e1053
-SUMMARY:Strengthening Early Childhood Education 
- and Care in Luxembourg - A Focus on Non-
- formal Education
-DESCRIPTION:*Strengthening Early Childhood Education
-  and Care in Luxembourg - A Focus on Non
- -formal Education*\n\nDirectorate: Direc
- torate for Education and Skills\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /04780b15-en\nPublication type: Stand-al
- one monograph\nReleased as: ePub, HTML, 
- Paperback, PDF\n\nEmbargo date/time: Thu
- rsday, 24 February 2022, 8:00 (GMT)\n\n\
- niLibrary export: Thursday, 24 February 
- 2022, 19:11 (GMT)\nFreepreview export: n
- ever\nOECD.org export: Thursday, 24 Febr
- uary 2022, 18:54 (GMT)\nFTI loaded: ✓\n\
- nFor more information see: https://oecd.
- github.io/embargo-calendar/embargoes-by-
- publication.html.\n\nPlease note: This i
- nformation was correct as of this aftern
- oon at 20:40, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=04780b15-e
- n.
-DTSTAMP:20220225T204032Z
-DTSTART:20220224T080000Z
-DTEND:20220224T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Strengthening Early Childhood 
- Education and Care in Luxembourg - A Foc
- us on Non-formal Education
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ccb3ca1b-end3e1275
+UID:10.1787/ccb3ca1b-end3e117
 SUMMARY:Constitutions in OECD Countries: A Compa
  rative Study - Background Report in the 
  Context of Chile’s Constitutional Proces
@@ -108,12 +19,12 @@ DESCRIPTION:*Constitutions in OECD Countries: A Comp
  022, 7:00 (GMT)\n\n\niLibrary export: Fr
  iday, 25 February 2022, 19:16 (GMT)\nFre
  epreview export: never\nOECD.org export:
-  Friday, 25 February 2022, 18:56 (GMT)\n
+  Sunday, 27 February 2022, 18:53 (GMT)\n
  FTI loaded: ✓\n\nFor more information se
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:40, it is upda
+ s of this afternoon at 20:28, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -122,7 +33,7 @@ DESCRIPTION:*Constitutions in OECD Countries: A Comp
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=ccb3ca1b-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220228T070000Z
 DTEND:20220228T071500Z
 TRANSP:TRANSPARENT
@@ -138,7 +49,7 @@ DESCRIPTION:Reminder: Constitutions in OECD Countrie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f88b3115-esd3e2793
+UID:10.1787/f88b3115-esd3e1636
 SUMMARY:Constituciones en países de la OCDE: Un 
  estudio comparado - Informe en el contex
  to del proceso constitucional en Chile
@@ -153,13 +64,13 @@ DESCRIPTION:*Constituciones en países de la OCDE: Un
  argo date/time: Monday, 28 February 2022
  , 7:00 (GMT)\n\n\niLibrary export: Frida
  y, 25 February 2022, 19:16 (GMT)\nFreepr
- eview export: never\nOECD.org export: Fr
- iday, 25 February 2022, 18:56 (GMT)\nFTI
+ eview export: never\nOECD.org export: Su
+ nday, 27 February 2022, 18:53 (GMT)\nFTI
   loaded: ✓\n\nFor more information see: 
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:40, it is updated
+ f this afternoon at 20:28, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -168,7 +79,7 @@ DESCRIPTION:*Constituciones en países de la OCDE: Un
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=f88b3115-es.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220228T070000Z
 DTEND:20220228T071500Z
 TRANSP:TRANSPARENT
@@ -184,7 +95,7 @@ DESCRIPTION:Reminder: Constituciones en países de la
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45bd4657-end3e5515
+UID:10.1787/45bd4657-end3e4357
 SUMMARY:OECD Integrity Review of the Slovak Repu
  blic - Delivering Effective Public Integ
  rity Policies
@@ -204,7 +115,7 @@ DESCRIPTION:*OECD Integrity Review of the Slovak Rep
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:40, it is updated e
+ this afternoon at 20:28, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -213,7 +124,7 @@ DESCRIPTION:*OECD Integrity Review of the Slovak Rep
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =45bd4657-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220303T080000Z
 DTEND:20220303T081500Z
 TRANSP:TRANSPARENT
@@ -228,7 +139,7 @@ DESCRIPTION:Reminder: OECD Integrity Review of the S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b75874-end3e7538
+UID:10.1787/92b75874-end3e6380
 SUMMARY:Mending the Education Divide - Getting S
  trong Teachers to the Schools That Need 
  Them Most
@@ -248,7 +159,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:40, it is updated each
+ s afternoon at 20:28, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -257,7 +168,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=92
  b75874-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220314T100000Z
 DTEND:20220314T101500Z
 TRANSP:TRANSPARENT
@@ -272,7 +183,7 @@ DESCRIPTION:Reminder: Mending the Education Divide -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a6b6f3a-end3e10596
+UID:10.1787/9a6b6f3a-end3e9439
 SUMMARY:Quality and Equity of Schooling in the G
  erman-speaking Community of Belgium
 DESCRIPTION:*Quality and Equity of Schooling in the 
@@ -291,7 +202,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:40, it is updated each night; t
+ on at 20:28, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -300,7 +211,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=9a6b6f3a-en
  .
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220315T070000Z
 DTEND:20220315T071500Z
 TRANSP:TRANSPARENT
@@ -315,7 +226,7 @@ DESCRIPTION:Reminder: Quality and Equity of Schoolin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81b01318-end3e11957
+UID:10.1787/81b01318-end3e10800
 SUMMARY:Drivers of Trust in Public Institutions 
  in Norway
 DESCRIPTION:*Drivers of Trust in Public Institutions
@@ -331,7 +242,7 @@ DESCRIPTION:*Drivers of Trust in Public Institutions
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:40, 
+  correct as of this afternoon at 20:28, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -340,7 +251,7 @@ DESCRIPTION:*Drivers of Trust in Public Institutions
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=81b01318-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220315T080000Z
 DTEND:20220315T081500Z
 TRANSP:TRANSPARENT
@@ -354,7 +265,7 @@ DESCRIPTION:Reminder: Drivers of Trust in Public Ins
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b91154a-end3e12009
+UID:10.1787/7b91154a-end3e10852
 SUMMARY:Reaching Out and Activating Inactive and
   Unemployed Persons in Bulgaria
 DESCRIPTION:*Reaching Out and Activating Inactive an
@@ -371,7 +282,7 @@ DESCRIPTION:*Reaching Out and Activating Inactive an
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:40, it is updated e
+ this afternoon at 20:28, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -380,7 +291,7 @@ DESCRIPTION:*Reaching Out and Activating Inactive an
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7b91154a-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220315T080000Z
 DTEND:20220315T081500Z
 TRANSP:TRANSPARENT
@@ -395,7 +306,7 @@ DESCRIPTION:Reminder: Reaching Out and Activating In
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3dc05e6a-end3e12115
+UID:10.1787/3dc05e6a-end3e10957
 SUMMARY:Prevention of Tax Treaty Abuse – Fourth 
  Peer Review Report on Treaty Shopping  -
   Inclusive Framework on BEPS: Action 6
@@ -414,7 +325,7 @@ DESCRIPTION:*Prevention of Tax Treaty Abuse – Fourth
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:40, it is updated each nig
+ ternoon at 20:28, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -423,7 +334,7 @@ DESCRIPTION:*Prevention of Tax Treaty Abuse – Fourth
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=3dc05e
  6a-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220321T100000Z
 DTEND:20220321T101500Z
 TRANSP:TRANSPARENT
@@ -439,7 +350,7 @@ DESCRIPTION:Reminder: Prevention of Tax Treaty Abuse
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3fc9415b-frd3e12221
+UID:10.1787/3fc9415b-frd3e11064
 SUMMARY:Prévention de l’utilisation abusive des 
  conventions fiscales – Quatrième rapport
   d’examen par les pairs sur le chalandag
@@ -461,7 +372,7 @@ DESCRIPTION:*Prévention de l’utilisation abusive des
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:40, it is update
+ of this afternoon at 20:28, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -470,7 +381,7 @@ DESCRIPTION:*Prévention de l’utilisation abusive des
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=3fc9415b-fr.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220321T100000Z
 DTEND:20220321T101500Z
 TRANSP:TRANSPARENT
@@ -487,7 +398,7 @@ DESCRIPTION:Reminder: Prévention de l’utilisation ab
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9c95902-end3e12325
+UID:10.1787/a9c95902-end3e11168
 SUMMARY:Review of Inclusive Education in Portuga
  l
 DESCRIPTION:*Review of Inclusive Education in Portug
@@ -503,7 +414,7 @@ DESCRIPTION:*Review of Inclusive Education in Portug
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:40, it is updated each ni
+ fternoon at 20:28, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -512,7 +423,7 @@ DESCRIPTION:*Review of Inclusive Education in Portug
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=a9c95
  902-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220322T100000Z
 DTEND:20220322T101500Z
 TRANSP:TRANSPARENT
@@ -526,7 +437,7 @@ DESCRIPTION:Reminder: Review of Inclusive Education
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8c9ff5b-end3e12428
+UID:10.1787/e8c9ff5b-end3e11270
 SUMMARY:Assessing Tax Compliance and Illicit Fin
  ancial Flows in South Africa
 DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
@@ -543,7 +454,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:40, it is updated ea
+ his afternoon at 20:28, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -552,7 +463,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e8c9ff5b-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220401T090000Z
 DTEND:20220401T091500Z
 TRANSP:TRANSPARENT
@@ -566,7 +477,7 @@ DESCRIPTION:Reminder: Assessing Tax Compliance and I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af4b630d-end3e12479
+UID:10.1787/af4b630d-end3e11321
 SUMMARY:The Short and Winding Road to 2030 - Mea
  suring Distance to the SDG Targets
 DESCRIPTION:*The Short and Winding Road to 2030 - Me
@@ -584,7 +495,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:40, it is updated e
+ this afternoon at 20:28, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -593,7 +504,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =af4b630d-en.
-DTSTAMP:20220225T204032Z
+DTSTAMP:20220227T202826Z
 DTSTART:20220427T130000Z
 DTEND:20220427T131500Z
 TRANSP:TRANSPARENT

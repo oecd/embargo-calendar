@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 February 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 27 February 2022 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 February 2022](#24-february-2022)
 * [28 February 2022](#28-february-2022)
 * [3 March 2022](#3-march-2022)
 * [14 March 2022](#14-march-2022)
@@ -13,56 +12,6 @@ Data generated on | |
 * [22 March 2022](#22-march-2022)
 * [1 April 2022](#1-april-2022)
 * [27 April 2022](#27-april-2022)
-
-------
-
-# 24 February 2022
-
-## [Building an Investment Tax Incentives database - Methodology and initial findings for 36 developing countries](https://doi.org/10.1787/62e075a9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 February 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening Early Childhood Education and Care in Luxembourg - A Focus on Non-formal Education](https://doi.org/10.1787/04780b15-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 24 February 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 February 2022 at 20:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -79,7 +28,7 @@ Monday 28 February 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+- [x] Exported to OECD.org Sunday 27 February 2022 at 19:53
 
 ### Additional Information
 
@@ -102,7 +51,7 @@ Monday 28 February 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+- [x] Exported to OECD.org Sunday 27 February 2022 at 19:53
 
 ### Additional Information
 
