@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 February 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 March 2022 at 20:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
 
@@ -70,6 +70,52 @@ Thursday 3 March 2022 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [SIGI Country Report for Tanzania](https://doi.org/10.1787/06621e57-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 March 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Restoring the dynamism of Malaysia’s business sector](https://doi.org/10.1787/21a5c60c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 8 March 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 March 2022 at 20:11
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 1 March 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -165,6 +211,29 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 ------
 
+## [Dangerous Counterfeit Goods - Raising Awareness of Health, Safety and Environmental Risks](https://doi.org/10.1787/117e352b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/3dc05e6a-en)
 
 Embargo date | Launch date
@@ -228,6 +297,75 @@ Tuesday 22 March 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0abc01c0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/44648523-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2022 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/ceb17521-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
