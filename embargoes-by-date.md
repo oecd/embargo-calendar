@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 March 2022 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 2 March 2022 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 February 2022](#28-february-2022)
 * [3 March 2022](#3-march-2022)
 * [7 March 2022](#7-march-2022)
 * [8 March 2022](#8-march-2022)
@@ -17,56 +16,6 @@ Data generated on | |
 * [1 April 2022](#1-april-2022)
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
-
-------
-
-# 28 February 2022
-
-## [Constitutions in OECD Countries: A Comparative Study - Background Report in the Context of Chile’s Constitutional Process](https://doi.org/10.1787/ccb3ca1b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 February 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Constituciones en países de la OCDE: Un estudio comparado - Informe en el contexto del proceso constitucional en Chile](https://doi.org/10.1787/f88b3115-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 February 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 February 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -83,7 +32,7 @@ Thursday 3 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 February 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 2 March 2022 at 19:53
 
 ### Additional Information
 
@@ -108,15 +57,15 @@ Monday 7 March 2022 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 2 March 2022 at 20:09
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 2 March 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
