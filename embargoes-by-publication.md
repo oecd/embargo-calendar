@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 March 2022 at 20:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 3 March 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Integrity Review of the Slovak Republic - Delivering Effective Public Integrity Policies](https://doi.org/10.1787/45bd4657-en)
 
@@ -15,7 +15,7 @@ Thursday 3 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 March 2022 at 19:53
+- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
 
 ### Additional Information
 
@@ -35,18 +35,18 @@ Monday 7 March 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 2 March 2022 at 20:09
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 March 2022 at 19:53
+- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -127,18 +127,18 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -182,6 +182,52 @@ Thursday 17 March 2022 at 8:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Regulation of Lobbying in Quebec, Canada - Strengthening a Culture of Transparency and Integrity](https://doi.org/10.1787/ec0cfef3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 March 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [L'encadrement du lobbying au Québec, Canada - Poursuivre le développement d’une culture de transparence et d’intégrité](https://doi.org/10.1787/dbbc360d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 March 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
