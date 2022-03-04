@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 March 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 4 March 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Integrity Review of the Slovak Republic - Delivering Effective Public Integrity Policies](https://doi.org/10.1787/45bd4657-en)
 
@@ -73,6 +73,29 @@ Tuesday 8 March 2022 at 6:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Latvia 2022](https://doi.org/10.1787/c0113448-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 March 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
 
 Embargo date | Launch date
@@ -105,7 +128,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 February 2022 at 20:13
+- [x] Exported to iLibrary Friday 4 March 2022 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 

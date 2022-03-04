@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-03-03T20:39:30.7485126+01:00">
+<report name="official-embargoes" generated="2022-03-04T20:33:50.6397841+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -74,7 +74,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -134,7 +134,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -294,7 +294,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -315,7 +315,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-03-03T18:54:43Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-03-03T19:54:07Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c70a89dd</cell>
@@ -335,7 +335,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-03-03T19:54:07Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f99027c9</cell>
@@ -354,7 +354,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -374,7 +374,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -394,7 +394,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -434,7 +434,7 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -474,8 +474,8 @@
     <cell name="ilibrary last export date">2022-02-22T19:23:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-03-03T18:54:43Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2022-03-03T20:02:07Z</cell>
+    <cell name="google last export date">2022-03-03T19:54:07Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61d2e2a5</cell>
@@ -722,6 +722,26 @@
   </row>
   <row index="36">
     <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/7540b9a5-en</cell>
+    <cell name="title">Half of women feel unsafe walking alone at night and discriminatory attitudes against women’s freedom of movement are very high (en)</cell>
+    <cell name="subtitle">Share of men and women who do not feel safe walking alone at night in the neighbourhood where they live (Panel A); and share of the population agreeing that a woman needs her husband’s or partner’s permission to go to a selection of public places (Panel B) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-03-07</cell>
+    <cell name="embargo date">2022-03-07T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b91697e9</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/d22c2a95-en</cell>
     <cell name="title">Gendered views and stereotypes regarding jobs and occupations lead to horizontal segregation (en)</cell>
     <cell name="subtitle"/>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4188e8a5</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/29428a8b-en</cell>
     <cell name="title">Child marriage negatively affects girls’ educational attainment (en)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9253781a</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5048fc36-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07073c81</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/933e1d88-en</cell>
     <cell name="title">Discrimination in social institutions vary across Tanzania's regions (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48d984fa</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/69d53469-en</cell>
     <cell name="title">Girl child marriage and adolescent pregnancies are closely intertwined (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979ce6f8</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5d0c4bbd-en</cell>
     <cell name="title">Discriminatory attitudes restricting women’s rights to inheritance of agricultural land vary greatly across regions (en)</cell>
@@ -840,7 +860,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3fc7de2</cell>
   </row>
-  <row index="42">
+  <row index="43">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/0d5746ca-en</cell>
+    <cell name="title">Discriminatory attitudes that support the continuation of FGM/C have a bearing on the share of women who have been cut (en)</cell>
+    <cell name="subtitle">Correlation between the share of the population opposing the abandonment of excision and the share of women aged 15 years and above who have experienced FGM/C (Panel A); and correlation between the share of the population supporting the excision of their daughter and the share of women aged 15 years and above who have experienced FGM/C (Panel B) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-03-07</cell>
+    <cell name="embargo date">2022-03-07T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3ccc93e</cell>
+  </row>
+  <row index="44">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7b6d939f-en</cell>
     <cell name="title">Women’s unmet family planning needs vary across regions (en)</cell>
@@ -860,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a39b106</cell>
   </row>
-  <row index="43">
+  <row index="45">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7f8f4ba4-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -880,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/112414f6</cell>
   </row>
-  <row index="44">
+  <row index="46">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/800ceeb5-en</cell>
     <cell name="title">A large number of routine household tasks are considered to be the exclusive responsibility of women (en)</cell>
@@ -900,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eecd71a2</cell>
   </row>
-  <row index="45">
+  <row index="47">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/cb886beb-en</cell>
     <cell name="title">Women’s economic empowerment (en)</cell>
@@ -920,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53ff0a2f</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/6546b59d-en</cell>
     <cell name="title">More than one-third of Tanzania women have unmet needs for family planning (en)</cell>
@@ -940,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d58f2afb</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3ad85dc0-en</cell>
     <cell name="title">Women’s unpaid work burden is particularly concentrated in basic and routine household tasks (en)</cell>
@@ -960,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e58e7ed1</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/cb886beb-en</cell>
     <cell name="title">Women’s economic empowerment (en)</cell>
@@ -980,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/189907d7</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b081a750-en</cell>
     <cell name="title">Methodology of the SIGI Tanzania (en)</cell>
@@ -1000,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e215ae79</cell>
   </row>
-  <row index="50">
+  <row index="52">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/ae1b81e2-en</cell>
     <cell name="title">Discrimination in social institutions vary across Tanzania's regions: Scores for SIGI Tanzania at regional levels (en)</cell>
@@ -1020,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5710be12</cell>
   </row>
-  <row index="51">
+  <row index="53">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/bed0ba1d-en</cell>
     <cell name="title">Rates of adolescent pregnancy in Tanzania are high and worsening (en)</cell>
@@ -1040,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7754479</cell>
   </row>
-  <row index="52">
+  <row index="54">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4a094246-en</cell>
     <cell name="title">Discrimination in the family (en)</cell>
@@ -1060,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4791eb8a</cell>
   </row>
-  <row index="53">
+  <row index="55">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/21b01f3e-en</cell>
     <cell name="title">Tanzanian women primarily fear physical violence (en)</cell>
@@ -1080,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/731c5cf3</cell>
   </row>
-  <row index="54">
+  <row index="56">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/748de8da-en</cell>
     <cell name="title">A large proportion of the population supports women’s full and unhindered access to agricultural land ownership (en)</cell>
@@ -1100,7 +1140,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/045a3a16</cell>
   </row>
-  <row index="55">
+  <row index="57">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/7446ad54-en</cell>
+    <cell name="title">Intimate partner violence against women is pervasive in Tanzania (en)</cell>
+    <cell name="subtitle">Share of ever-partnered women who have survived IPV over the last 12 months and over their lifetime, by type of violence (Panel A); and share of ever-partnered women who have survived IPV over the last 12 months, by region (Panel B) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-03-07</cell>
+    <cell name="embargo date">2022-03-07T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90d6885d</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4bf2941e-en</cell>
     <cell name="title">Determinants of discriminatory attitudes encouraging the practice of girl child marriage (en)</cell>
@@ -1120,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09e91996</cell>
   </row>
-  <row index="56">
+  <row index="59">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/0eafca22-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1140,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2dba34a5</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/0a110e69-en</cell>
     <cell name="title">Decision-making power in the household is skewed towards men (en)</cell>
@@ -1160,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f884f8d</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/40577278-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1180,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62e0a77a</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/14207352-en</cell>
     <cell name="title">Half of Tanzanian women feel unsafe (en)</cell>
@@ -1200,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40f2c34a</cell>
   </row>
-  <row index="60">
+  <row index="63">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/2b6a3e0b-en</cell>
     <cell name="title">Women’s control over the use of land remains limited (en)</cell>
@@ -1220,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb84f243</cell>
   </row>
-  <row index="61">
+  <row index="64">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5048fc36-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1240,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa7644ff</cell>
   </row>
-  <row index="62">
+  <row index="65">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/06621e57-en</cell>
     <cell name="title">SIGI Country Report for Tanzania (en)</cell>
@@ -1260,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44227893</cell>
   </row>
-  <row index="63">
+  <row index="66">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/ab1028ea-en</cell>
     <cell name="title">Many women have experienced multiple forms of abuse (en)</cell>
@@ -1280,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/468dee2d</cell>
   </row>
-  <row index="64">
+  <row index="67">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/fe187ffe-en</cell>
     <cell name="title">Most Tanzanians believe that men should be responsible for important decisions in the home (en)</cell>
@@ -1300,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3c5073d</cell>
   </row>
-  <row index="65">
+  <row index="68">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/06621e57-en</cell>
     <cell name="title">SIGI Country Report for Tanzania (en)</cell>
@@ -1320,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a70c17c</cell>
   </row>
-  <row index="66">
+  <row index="69">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/422b5d18-en</cell>
     <cell name="title">Social norms place men in charge of important decisions at home, while married women should obey their husband (en)</cell>
@@ -1340,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2be181c3</cell>
   </row>
-  <row index="67">
+  <row index="70">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/78d59620-en</cell>
     <cell name="title">Women’s and girls’ physical autonomy (en)</cell>
@@ -1360,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4f05a59</cell>
   </row>
-  <row index="68">
+  <row index="71">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/1e8ac835-en</cell>
     <cell name="title">Women’s participation in the labour market is significantly lower than that of men (en)</cell>
@@ -1380,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21fcffbd</cell>
   </row>
-  <row index="69">
+  <row index="72">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4a094246-en</cell>
     <cell name="title">Discrimination in the family (en)</cell>
@@ -1400,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28b45b52</cell>
   </row>
-  <row index="70">
+  <row index="73">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/91b3f501-en</cell>
     <cell name="title">Women face a double burden of paid and unpaid work (en)</cell>
@@ -1420,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2cdd08f</cell>
   </row>
-  <row index="71">
+  <row index="74">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/285a0c8c-en</cell>
     <cell name="title">Results of the SIGI Tanzania (en)</cell>
@@ -1440,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a93adf1</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7f8f4ba4-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1460,7 +1520,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75d224ed</cell>
   </row>
-  <row index="73">
+  <row index="76">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/69fec8a4-en</cell>
+    <cell name="title">Determinants of attitudes justifying intimate-partner violence against women (en)</cell>
+    <cell name="subtitle">Marginal effects and significance of key characteristics on discriminatory attitudes (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-03-07</cell>
+    <cell name="embargo date">2022-03-07T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e8ba265</cell>
+  </row>
+  <row index="77">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9661a54a-en</cell>
     <cell name="title">Determinants of discriminatory attitudes curtailing women’s labour participation (en)</cell>
@@ -1480,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27315fb9</cell>
   </row>
-  <row index="74">
+  <row index="78">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/89122281-en</cell>
     <cell name="title">Women face a double burden of paid and unpaid work: Average daily hours spent on paid work and unpaid care and domestic work by sex (en)</cell>
@@ -1500,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47ee761b</cell>
   </row>
-  <row index="75">
+  <row index="79">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/0eafca22-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1520,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e26b8b4</cell>
   </row>
-  <row index="76">
+  <row index="80">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/1871d635-en</cell>
     <cell name="title">Results of the SIGI Tanzania: Scores for SIGI Tanzania’s indicators at national, Mainland/Zanzibar, rural/urban and regional levels (en)</cell>
@@ -1540,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a8585d7</cell>
   </row>
-  <row index="77">
+  <row index="81">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b081a750-en</cell>
     <cell name="title">Methodology of the SIGI Tanzania (en)</cell>
@@ -1560,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e0a55d6</cell>
   </row>
-  <row index="78">
+  <row index="82">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/68ceda86-en</cell>
     <cell name="title">Conceptual framework of the SIGI Tanzania (en)</cell>
@@ -1580,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d07b8036</cell>
   </row>
-  <row index="79">
+  <row index="83">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c0851345-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1600,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffca746e</cell>
   </row>
-  <row index="80">
+  <row index="84">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/d30a7b1b-en</cell>
     <cell name="title">Discrimination in social institutions in Tanzania is more acute in the family sphere (en)</cell>
@@ -1620,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b13c5894</cell>
   </row>
-  <row index="81">
+  <row index="85">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a0503fe5-en</cell>
     <cell name="title">Girl child marriage is perpetuated by social acceptance of the practice (en)</cell>
@@ -1640,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/926ae1ed</cell>
   </row>
-  <row index="82">
+  <row index="86">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/78d59620-en</cell>
     <cell name="title">Women’s and girls’ physical autonomy (en)</cell>
@@ -1660,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c03eade</cell>
   </row>
-  <row index="83">
+  <row index="87">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c3fd6029-en</cell>
     <cell name="title">Marital status strongly influences the level and type of women's ownership of agricultural land (en)</cell>
@@ -1680,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5315fb56</cell>
   </row>
-  <row index="84">
+  <row index="88">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/06621e57-en</cell>
     <cell name="title">SIGI Country Report for Tanzania (en)</cell>
@@ -1700,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/196ee02f</cell>
   </row>
-  <row index="85">
+  <row index="89">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c8587cd9-en</cell>
     <cell name="title">More than half of Tanzanian women have experienced violence (en)</cell>
@@ -1720,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2f89bcf</cell>
   </row>
-  <row index="86">
+  <row index="90">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/68ceda86-en</cell>
     <cell name="title">Conceptual framework of the SIGI Tanzania (en)</cell>
@@ -1740,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/124d9c71</cell>
   </row>
-  <row index="87">
+  <row index="91">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c8090055-en</cell>
     <cell name="title">Discriminatory social norms undermine women’s inheritance rights and limit their ownership of agricultural land (en)</cell>
@@ -1760,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b939fc03</cell>
   </row>
-  <row index="88">
+  <row index="92">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/e9d7468a-en</cell>
     <cell name="title">Discrimination in social institutions in Tanzania are more acute in the family sphere (en)</cell>
@@ -1780,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49ac599a</cell>
   </row>
-  <row index="89">
+  <row index="93">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/fbf25837-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1800,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aab7801e</cell>
   </row>
-  <row index="90">
+  <row index="94">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/f4a90090-en</cell>
     <cell name="title">Girl child marriage is perpetuated by social acceptance of the practice (graph) (en)</cell>
@@ -1820,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70ddde64</cell>
   </row>
-  <row index="91">
+  <row index="95">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9905682a-en</cell>
     <cell name="title">Social acceptance of violence against women is very high in Tanzania (en)</cell>
@@ -1840,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28e39049</cell>
   </row>
-  <row index="92">
+  <row index="96">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/285a0c8c-en</cell>
     <cell name="title">Results of the SIGI Tanzania (en)</cell>
@@ -1860,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/baa83aaf</cell>
   </row>
-  <row index="93">
+  <row index="97">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/889a03de-en</cell>
     <cell name="title">Women’s ability and willingness to resort to courts and the police are limited (en)</cell>
@@ -1880,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed98e1f1</cell>
   </row>
-  <row index="94">
+  <row index="98">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/750041e8-en</cell>
     <cell name="title">The age profile of women who have suffered from FGM/C indicates a decline in the practice (en)</cell>
@@ -1900,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc0a50b8</cell>
   </row>
-  <row index="95">
+  <row index="99">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a0de3c07-en</cell>
     <cell name="title">Determinants of discriminatory attitudes curtailing women’s ownership of agricultural land (en)</cell>
@@ -1920,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b68d3eae</cell>
   </row>
-  <row index="96">
+  <row index="100">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/fc3fb74c-en</cell>
     <cell name="title">Women's sexual education may delay first pregnancies (en)</cell>
@@ -1940,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c956162a</cell>
   </row>
-  <row index="97">
+  <row index="101">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/381791c5-en</cell>
     <cell name="title">Fathers dominate important parental decisions related to children's education and health (en)</cell>
@@ -1960,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c95ba23</cell>
   </row>
-  <row index="98">
+  <row index="102">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/9c1509f7-en</cell>
     <cell name="title">Attitudes justifying IPV are closely related to higher rates of violence against women (en)</cell>
@@ -1980,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44d187b6</cell>
   </row>
-  <row index="99">
+  <row index="103">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/fa7a643a-en</cell>
     <cell name="title">Many routine household tasks are considered the exclusive responsibility of women (en)</cell>
@@ -2000,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee09c35b</cell>
   </row>
-  <row index="100">
+  <row index="104">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/06621e57-en</cell>
     <cell name="title">SIGI Country Report for Tanzania (en)</cell>
@@ -2020,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56b14281</cell>
   </row>
-  <row index="101">
+  <row index="105">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/8e13e1f6-en</cell>
     <cell name="title">Child marriage rates vary significantly across regions and between urban and rural areas (en)</cell>
@@ -2040,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24da060d</cell>
   </row>
-  <row index="102">
+  <row index="106">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/5d68d399-en</cell>
     <cell name="title">Bride price is a largely supported practice in Tanzania (en)</cell>
@@ -2060,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f45d127</cell>
   </row>
-  <row index="103">
+  <row index="107">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a6ed71e1-en</cell>
     <cell name="title">Girls are granted limited decision-making power over their own marriage (en)</cell>
@@ -2080,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40a94f3a</cell>
   </row>
-  <row index="104">
+  <row index="108">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/cbe510b9-en</cell>
     <cell name="title">Women’s employment is characterised by lower forms of employment such as unpaid family worker or own-account worker (en)</cell>
@@ -2100,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/489f0dd6</cell>
   </row>
-  <row index="105">
+  <row index="109">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/18a701fa-en</cell>
     <cell name="title">Indicators scores from the SIGI Tanzania highlight specific areas where discriminatory social institutions are more acute (en)</cell>
@@ -2120,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69129176</cell>
   </row>
-  <row index="106">
+  <row index="110">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a981db5a-en</cell>
     <cell name="title">Social norms support women’s labour force participation but dictate that women should ask permission (en)</cell>
@@ -2140,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae19140e</cell>
   </row>
-  <row index="107">
+  <row index="111">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/778546b4-en</cell>
     <cell name="title">Social acceptance of violence against women in Tanzania remains very high (en)</cell>
@@ -2160,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2075642e</cell>
   </row>
-  <row index="108">
+  <row index="112">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/55c14359-en</cell>
     <cell name="title">Discriminatory attitudes constrain women’s representation in the justice system and restrict their ability to access justice (en)</cell>
@@ -2180,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c6f249a</cell>
   </row>
-  <row index="109">
+  <row index="113">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/fbf25837-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2200,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cbf7fcc</cell>
   </row>
-  <row index="110">
+  <row index="114">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/1752172a-en</cell>
     <cell name="title">Support for legal abortion varies depending on the circumstances (en)</cell>
@@ -2220,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfcd936b</cell>
   </row>
-  <row index="111">
+  <row index="115">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/782fe6e5-en</cell>
     <cell name="title">Fewer women than men own agricultural land across all Tanzanian regions (en)</cell>
@@ -2240,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b17ae673</cell>
   </row>
-  <row index="112">
+  <row index="116">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/755d2b41-en</cell>
     <cell name="title">Women's ownership of agricultural land is significantly lower than that of men (en)</cell>
@@ -2260,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51168110</cell>
   </row>
-  <row index="113">
+  <row index="117">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/dd92f3d9-en</cell>
     <cell name="title">Women perform the bulk of unpaid care and domestic work (en)</cell>
@@ -2280,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/200e4470</cell>
   </row>
-  <row index="114">
+  <row index="118">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/40577278-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -2300,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f68150ad</cell>
   </row>
-  <row index="115">
+  <row index="119">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/21a5c60c-en</cell>
     <cell name="title">Restoring the dynamism of Malaysia’s business sector (en)</cell>
@@ -2320,7 +2400,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75674c0a</cell>
   </row>
-  <row index="116">
+  <row index="120">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c0113448-en</cell>
+    <cell name="title">OECD Economic Surveys: Latvia 2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-03-09</cell>
+    <cell name="embargo date">2022-03-09T08:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49b2384e</cell>
+  </row>
+  <row index="121">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/06ef567a-en</cell>
     <cell name="title">Allocation of teachers with high self‑efficacy in the use of ICT for teaching (en)</cell>
@@ -2340,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98e84c4d</cell>
   </row>
-  <row index="117">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/55884ef6-en</cell>
     <cell name="title">Teachers’ self‑efficacy in the use of ICT and school competition for students (en)</cell>
@@ -2360,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9b07f65</cell>
   </row>
-  <row index="118">
+  <row index="123">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/54489ace-en</cell>
     <cell name="title">Allocation of comprehensively trained teachers (en)</cell>
@@ -2380,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd7061b5</cell>
   </row>
-  <row index="119">
+  <row index="124">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d4d234ab-en</cell>
     <cell name="title">Allocation of experienced teachers (en)</cell>
@@ -2400,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc72a588</cell>
   </row>
-  <row index="120">
+  <row index="125">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/eddc967d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2420,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0712dd76</cell>
   </row>
-  <row index="121">
+  <row index="126">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be02819a-en</cell>
     <cell name="title">Overview: What TALIS insights about teacher allocation imply for policy (en)</cell>
@@ -2440,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96d4d2c5</cell>
   </row>
-  <row index="122">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -2460,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/442d1caf</cell>
   </row>
-  <row index="123">
+  <row index="128">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/953b831e-en</cell>
     <cell name="title">Insufficient Internet access, by school location (en)</cell>
@@ -2480,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffa2a9c3</cell>
   </row>
-  <row index="124">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be02819a-en</cell>
     <cell name="title">Overview: What TALIS insights about teacher allocation imply for policy (en)</cell>
@@ -2500,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ad7429b</cell>
   </row>
-  <row index="125">
+  <row index="130">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/723b50b9-en</cell>
     <cell name="title">Time spent on actual teaching and students’ reading performance in PISA in the national bottom quarter of socio‑economic status (en)</cell>
@@ -2520,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d47570e</cell>
   </row>
-  <row index="126">
+  <row index="131">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4ab1d000-en</cell>
     <cell name="title">Allocation of teachers who often rely on clarity of instruction (en)</cell>
@@ -2540,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52c54dd3</cell>
   </row>
-  <row index="127">
+  <row index="132">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d8a3978a-en</cell>
     <cell name="title">Do students have equitable access to digital learning in school? (en)</cell>
@@ -2560,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26d3d980</cell>
   </row>
-  <row index="128">
+  <row index="133">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/200a9614-en</cell>
     <cell name="title">Table A C.3. Online tables for Annex B – Technical notes on analyses in this report (en)</cell>
@@ -2580,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93a23178</cell>
   </row>
-  <row index="129">
+  <row index="134">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6a7fb2a-en</cell>
     <cell name="title">Principals' instructional leadership, by school characteristics (en)</cell>
@@ -2600,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f5496ec</cell>
   </row>
-  <row index="130">
+  <row index="135">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6b78e560-en</cell>
     <cell name="title">Table A C.2. Online tables for Chapter 3 – Do students have equitable access to digital learning in school? (en)</cell>
@@ -2620,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b0977be</cell>
   </row>
-  <row index="131">
+  <row index="136">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b76c7f-en</cell>
     <cell name="title">Allocation of teachers who had formal training in the use of ICT for teaching (en)</cell>
@@ -2640,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f71537e4</cell>
   </row>
-  <row index="132">
+  <row index="137">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/be3de9f9-en</cell>
     <cell name="title">Shortage or inadequacy of digital technology, by school type (en)</cell>
@@ -2660,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26375ac9</cell>
   </row>
-  <row index="133">
+  <row index="138">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ad4b8e4e-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -2680,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0817231</cell>
   </row>
-  <row index="134">
+  <row index="139">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a9970d0b-en</cell>
     <cell name="title">Allocation of teachers who spend a high share of class time on actual teaching (en)</cell>
@@ -2700,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d5684c7</cell>
   </row>
-  <row index="135">
+  <row index="140">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2834ebb3-en</cell>
     <cell name="title">Allocation of teachers with high self‑efficacy (en)</cell>
@@ -2720,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df45c54a</cell>
   </row>
-  <row index="136">
+  <row index="141">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e97dc6d8-en</cell>
     <cell name="title">Table A C.1. Online tables for Chapter 2 – Do students have equitable access to effective teachers and learning environments? (en)</cell>
@@ -2740,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2797c2f5</cell>
   </row>
-  <row index="137">
+  <row index="142">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/eddc967d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2760,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f6d1a06</cell>
   </row>
-  <row index="138">
+  <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1a02af6b-en</cell>
     <cell name="title">Teacher allocation and learning divides (en)</cell>
@@ -2780,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2ecec43</cell>
   </row>
-  <row index="139">
+  <row index="144">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7f888753-en</cell>
     <cell name="title">List of tables available on line (en)</cell>
@@ -2800,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6be1d6b2</cell>
   </row>
-  <row index="140">
+  <row index="145">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/22378651-en</cell>
     <cell name="title">Teachers’ formal training in the use of ICT for teaching, by school characteristics (en)</cell>
@@ -2820,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae407211</cell>
   </row>
-  <row index="141">
+  <row index="146">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/965a37f3-en</cell>
     <cell name="title">Relationship between the use of cognitive activation practices and teacher characteristics, by concentration of students from socio‑economically disadvantaged homes (en)</cell>
@@ -2840,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15c5ad93</cell>
   </row>
-  <row index="142">
+  <row index="147">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -2860,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/294f144d</cell>
   </row>
-  <row index="143">
+  <row index="148">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/15b1d9f9-en</cell>
     <cell name="title">Allocation of teachers who participated in professional development in ICT skills (en)</cell>
@@ -2880,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ded7780e</cell>
   </row>
-  <row index="144">
+  <row index="149">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e2b94c4a-en</cell>
     <cell name="title">Teachers with high self‑efficacy in the use of ICT for teaching, by school characteristics (en)</cell>
@@ -2900,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d99e5f6</cell>
   </row>
-  <row index="145">
+  <row index="150">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d8a3978a-en</cell>
     <cell name="title">Do students have equitable access to digital learning in school? (en)</cell>
@@ -2920,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e58c98be</cell>
   </row>
-  <row index="146">
+  <row index="151">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2e1f6b23-en</cell>
     <cell name="title">Do students have equitable access to effective teachers and learning environments? (en)</cell>
@@ -2940,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/200cdc85</cell>
   </row>
-  <row index="147">
+  <row index="152">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d33e08f4-en</cell>
     <cell name="title">Teachers with a comprehensive formal education and students’ reading performance in the national bottom quarter of socio‑economic status (en)</cell>
@@ -2960,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a8b3a8e</cell>
   </row>
-  <row index="148">
+  <row index="153">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/97b272a7-en</cell>
     <cell name="title">Technical notes on analyses in this report (en)</cell>
@@ -2980,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2b86972</cell>
   </row>
-  <row index="149">
+  <row index="154">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/83d49720-en</cell>
     <cell name="title">Technical notes on TALIS 2018 (en)</cell>
@@ -3000,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bffcdc27</cell>
   </row>
-  <row index="150">
+  <row index="155">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/771440f9-en</cell>
     <cell name="title">Teachers’ participation in professional development in ICT skills, by school characteristics (en)</cell>
@@ -3020,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/280b40e6</cell>
   </row>
-  <row index="151">
+  <row index="156">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0426c562-en</cell>
     <cell name="title">Variation in teachers’ regular use of ICT for teaching (en)</cell>
@@ -3040,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12d25610</cell>
   </row>
-  <row index="152">
+  <row index="157">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -3060,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae20a662</cell>
   </row>
-  <row index="153">
+  <row index="158">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f92cac5c-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3080,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d252151f</cell>
   </row>
-  <row index="154">
+  <row index="159">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ad4b8e4e-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -3100,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b93f077a</cell>
   </row>
-  <row index="155">
+  <row index="160">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/187a786a-en</cell>
     <cell name="title">Experienced teachers and school autonomy in appointing or hiring teachers (en)</cell>
@@ -3120,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f053bc7b</cell>
   </row>
-  <row index="156">
+  <row index="161">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7f888753-en</cell>
     <cell name="title">List of tables available on line (en)</cell>
@@ -3140,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9fa77a6f</cell>
   </row>
-  <row index="157">
+  <row index="162">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3de4fc16-en</cell>
     <cell name="title">Relationship between time spent on actual teaching and teacher characteristics, by concentration of students from socio‑economically disadvantaged homes (en)</cell>
@@ -3160,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fd1aa29</cell>
   </row>
-  <row index="158">
+  <row index="163">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2e1f6b23-en</cell>
     <cell name="title">Do students have equitable access to effective teachers and learning environments? (en)</cell>
@@ -3180,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41f283a0</cell>
   </row>
-  <row index="159">
+  <row index="164">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/97b272a7-en</cell>
     <cell name="title">Technical notes on analyses in this report (en)</cell>
@@ -3200,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f26627f</cell>
   </row>
-  <row index="160">
+  <row index="165">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1b663cfa-en</cell>
     <cell name="title">Experienced teachers and students’ reading performance in PISA in the national bottom quarter of socio‑economic status (en)</cell>
@@ -3220,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9c5f4af</cell>
   </row>
-  <row index="161">
+  <row index="166">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/92b75874-en</cell>
     <cell name="title">Mending the Education Divide (en)</cell>
@@ -3240,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13edce3f</cell>
   </row>
-  <row index="162">
+  <row index="167">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e1518802-en</cell>
     <cell name="title">Teachers’ access to mentoring, by school characteristics (en)</cell>
@@ -3260,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02366723</cell>
   </row>
-  <row index="163">
+  <row index="168">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/30e1f998-en</cell>
     <cell name="title">Experienced teachers, by school characteristics (en)</cell>
@@ -3280,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd689aed</cell>
   </row>
-  <row index="164">
+  <row index="169">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/58923ee9-en</cell>
     <cell name="title">Comprehensively trained teachers, by school characteristics (en)</cell>
@@ -3300,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02820d59</cell>
   </row>
-  <row index="165">
+  <row index="170">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/83d49720-en</cell>
     <cell name="title">Technical notes on TALIS 2018 (en)</cell>
@@ -3320,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2205a16</cell>
   </row>
-  <row index="166">
+  <row index="171">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c0bbe94d-en</cell>
     <cell name="title">Allocation of teachers who use ICT for teaching on a regular basis (en)</cell>
@@ -3340,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41adf849</cell>
   </row>
-  <row index="167">
+  <row index="172">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dea55c77-en</cell>
     <cell name="title">Allocation of teachers who often use cognitive activation practices (en)</cell>
@@ -3360,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ff2dc99</cell>
   </row>
-  <row index="168">
+  <row index="173">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b57855fe-en</cell>
     <cell name="title">Teachers’ regular use of ICT for teaching, by school characteristics (en)</cell>
@@ -3380,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0836dc7d</cell>
   </row>
-  <row index="169">
+  <row index="174">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1a02af6b-en</cell>
     <cell name="title">Teacher allocation and learning divides (en)</cell>
@@ -3400,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3536545a</cell>
   </row>
-  <row index="170">
+  <row index="175">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f92cac5c-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3420,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5f86241</cell>
   </row>
-  <row index="171">
+  <row index="176">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cd430b9b-en</cell>
     <cell name="title">Teachers’ self‑efficacy in the use of ICT and students’ opportunity to learn digital literacy skills at school (en)</cell>
@@ -3440,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bada2c1</cell>
   </row>
-  <row index="172">
+  <row index="177">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/99e15d00-en</cell>
     <cell name="title">Average class size and student teacher ratios, 2018 (en)</cell>
@@ -3460,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6aac1a</cell>
   </row>
-  <row index="173">
+  <row index="178">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9e224c74-en</cell>
     <cell name="title">Recording student outcomes and other quality assurance data in schools, 2018 (en)</cell>
@@ -3480,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08577923</cell>
   </row>
-  <row index="174">
+  <row index="179">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ee923f85-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -3500,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51ace242</cell>
   </row>
-  <row index="175">
+  <row index="180">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7c08012b-en</cell>
     <cell name="title">Translations of key terms (en)</cell>
@@ -3520,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ebe1b08</cell>
   </row>
-  <row index="176">
+  <row index="181">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ee806f4f-en</cell>
     <cell name="title">Share of teachers below the age of 30, 2018 (en)</cell>
@@ -3540,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a66dde5</cell>
   </row>
-  <row index="177">
+  <row index="182">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/20e2135d-en</cell>
     <cell name="title">Strengthening the quality of teaching, school leadership and learning environments (en)</cell>
@@ -3560,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7f34fd1</cell>
   </row>
-  <row index="178">
+  <row index="183">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d81d6814-en</cell>
     <cell name="title">The OECD review team (en)</cell>
@@ -3580,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c2dabd8</cell>
   </row>
-  <row index="179">
+  <row index="184">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/135ed10c-en</cell>
     <cell name="title">School climate and students' sense of belonging at school, 2018 (en)</cell>
@@ -3600,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef1ab1cb</cell>
   </row>
-  <row index="180">
+  <row index="185">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e98cac8b-en</cell>
     <cell name="title">School-based career guidance in selected OECD education systems, 2018 (en)</cell>
@@ -3620,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1d497fe</cell>
   </row>
-  <row index="181">
+  <row index="186">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a21088d3-en</cell>
     <cell name="title">Trends in grade repetition, 2012-2018 (en)</cell>
@@ -3640,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc4d976a</cell>
   </row>
-  <row index="182">
+  <row index="187">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d4625141-en</cell>
     <cell name="title">Perceived shortages of teaching staff, 2018 (en)</cell>
@@ -3660,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7fd191f</cell>
   </row>
-  <row index="183">
+  <row index="188">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d02ce26e-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3680,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58ad1ccd</cell>
   </row>
-  <row index="184">
+  <row index="189">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9a6b6f3a-en</cell>
     <cell name="title">Quality and Equity of Schooling in the German-speaking Community of Belgium (en)</cell>
@@ -3691,7 +3791,7 @@
     <cell name="date of publication">2022-03-15</cell>
     <cell name="embargo date">2022-03-15T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-02-23T19:13:17Z</cell>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3700,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c08c2d3</cell>
   </row>
-  <row index="185">
+  <row index="190">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8d0b0c92-en</cell>
     <cell name="title">Nationality of mainstream secondary school students (en)</cell>
@@ -3720,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cff04d08</cell>
   </row>
-  <row index="186">
+  <row index="191">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b2770a01-en</cell>
     <cell name="title">Minimum and maximum statutory salaries for teachers and school heads, 2020 (en)</cell>
@@ -3740,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15072233</cell>
   </row>
-  <row index="187">
+  <row index="192">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7c23e4e-en</cell>
     <cell name="title">Governing and funding the education system (en)</cell>
@@ -3760,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/221d5759</cell>
   </row>
-  <row index="188">
+  <row index="193">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d02ce26e-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3780,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6668c8f4</cell>
   </row>
-  <row index="189">
+  <row index="194">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/34a598c5-en</cell>
     <cell name="title">Teachers' educational attainment, primary and lower secondary education, 2018 (en)</cell>
@@ -3800,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9286601</cell>
   </row>
-  <row index="190">
+  <row index="195">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4cc53b51-en</cell>
     <cell name="title">Using achievement data for accountability purposes, 2018 (en)</cell>
@@ -3820,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f3cae0e</cell>
   </row>
-  <row index="191">
+  <row index="196">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/87bd5017-en</cell>
     <cell name="title">Agenda of the OECD review visit (en)</cell>
@@ -3840,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e323b31</cell>
   </row>
-  <row index="192">
+  <row index="197">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3192061c-en</cell>
     <cell name="title">Percentage of fully certified teachers in secondary education, 2018 (en)</cell>
@@ -3860,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a60824ba</cell>
   </row>
-  <row index="193">
+  <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/407a3aa3-en</cell>
     <cell name="title">Figure 3.2.Nationality of pre‑primary and primary school students (en)</cell>
@@ -3880,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7357a604</cell>
   </row>
-  <row index="194">
+  <row index="199">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f5122bdf-en</cell>
     <cell name="title">Percentage of immigrant students, 2018 (en)</cell>
@@ -3900,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89934f82</cell>
   </row>
-  <row index="195">
+  <row index="200">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9a6b6f3a-en</cell>
     <cell name="title">Quality and Equity of Schooling in the German-speaking Community of Belgium (en)</cell>
@@ -3911,7 +4011,7 @@
     <cell name="date of publication">2022-03-15</cell>
     <cell name="embargo date">2022-03-15T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-02-23T19:13:17Z</cell>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-02-24T18:54:38Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -3920,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16cc76dd</cell>
   </row>
-  <row index="196">
+  <row index="201">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/18780d0a-en</cell>
     <cell name="title">Trends in student enrolment in the German‑speaking Community, 2008-2020 (en)</cell>
@@ -3940,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59f62dcb</cell>
   </row>
-  <row index="197">
+  <row index="202">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/16dfbe3c-en</cell>
     <cell name="title">Distribution of students with special education needs among different schools, 2020 (en)</cell>
@@ -3960,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f491bb0c</cell>
   </row>
-  <row index="198">
+  <row index="203">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/760778cf-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3980,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee8e4da7</cell>
   </row>
-  <row index="199">
+  <row index="204">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/977e46bc-en</cell>
     <cell name="title">Distribution of students across pathways in mainstream secondary education, 2020 (en)</cell>
@@ -4000,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ab954e6</cell>
   </row>
-  <row index="200">
+  <row index="205">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a2ea446d-en</cell>
     <cell name="title">The education system of the German‑speaking Community of Belgium in comparison (en)</cell>
@@ -4020,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8670d3d</cell>
   </row>
-  <row index="201">
+  <row index="206">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ee923f85-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -4040,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cba67568</cell>
   </row>
-  <row index="202">
+  <row index="207">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cff5cd05-en</cell>
     <cell name="title">Level of educational attainment in the German‑speaking Community and the Belgian Regions, 2020 (en)</cell>
@@ -4060,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb4c201f</cell>
   </row>
-  <row index="203">
+  <row index="208">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/293f20cc-en</cell>
     <cell name="title">Trend in the number of students in special schools in the German‑speaking Community, 2004-2020 (en)</cell>
@@ -4080,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb2e4b9</cell>
   </row>
-  <row index="204">
+  <row index="209">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7f353e98-en</cell>
     <cell name="title">School capacity to enhance teaching and learning using digital devices, 2018 (en)</cell>
@@ -4100,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d459caf2</cell>
   </row>
-  <row index="205">
+  <row index="210">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bc4a243d-en</cell>
     <cell name="title">Childcare services in the German‑speaking Community, 1995-2017 (en)</cell>
@@ -4120,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae2e5e64</cell>
   </row>
-  <row index="206">
+  <row index="211">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/760778cf-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4140,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54c808dc</cell>
   </row>
-  <row index="207">
+  <row index="212">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d81d6814-en</cell>
     <cell name="title">The OECD review team (en)</cell>
@@ -4160,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c28a1439</cell>
   </row>
-  <row index="208">
+  <row index="213">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9a6b6f3a-en</cell>
     <cell name="title">Quality and Equity of Schooling in the German-speaking Community of Belgium (en)</cell>
@@ -4171,7 +4271,7 @@
     <cell name="date of publication">2022-03-15</cell>
     <cell name="embargo date">2022-03-15T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-02-23T19:13:17Z</cell>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-02-24T18:54:38Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -4180,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87fa5314</cell>
   </row>
-  <row index="209">
+  <row index="214">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b613a296-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4200,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f959d03</cell>
   </row>
-  <row index="210">
+  <row index="215">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3946fca9-en</cell>
     <cell name="title">Teachers' salary progression (ISCED 2, general programmes), 2020 (en)</cell>
@@ -4220,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d182a3c</cell>
   </row>
-  <row index="211">
+  <row index="216">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e7c23e4e-en</cell>
     <cell name="title">Governing and funding the education system (en)</cell>
@@ -4240,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/083ecda8</cell>
   </row>
-  <row index="212">
+  <row index="217">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a5f67dd5-en</cell>
     <cell name="title">Share of total funding allocated by central and state governments to primary and lower secondary educational institutions by equity criteria, 2019 (en)</cell>
@@ -4260,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9f01e5e</cell>
   </row>
-  <row index="213">
+  <row index="218">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/20e2135d-en</cell>
     <cell name="title">Strengthening the quality of teaching, school leadership and learning environments (en)</cell>
@@ -4280,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5809057c</cell>
   </row>
-  <row index="214">
+  <row index="219">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0981f1fa-en</cell>
     <cell name="title">Teachers’ attitudes on the best setting for students with special education needs, 2016 (en)</cell>
@@ -4300,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17a74c7b</cell>
   </row>
-  <row index="215">
+  <row index="220">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/35e2dd43-en</cell>
     <cell name="title">Part-time and full-time work among lower secondary teachers, 2018 (en)</cell>
@@ -4320,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbf6c932</cell>
   </row>
-  <row index="216">
+  <row index="221">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/04450040-en</cell>
     <cell name="title">Annex Figure 1.A.2. Students’ proficiency in science, 2018 (en)</cell>
@@ -4340,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a759f02</cell>
   </row>
-  <row index="217">
+  <row index="222">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/11c61be0-en</cell>
     <cell name="title">Total expenditure on secondary institutions per full-time equivalent student, 2018 (en)</cell>
@@ -4360,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1567cead</cell>
   </row>
-  <row index="218">
+  <row index="223">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5922caaf-en</cell>
     <cell name="title">Promoting equity and inclusion (en)</cell>
@@ -4380,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebca010c</cell>
   </row>
-  <row index="219">
+  <row index="224">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bc59e740-en</cell>
     <cell name="title">Trend in expenditure on pre‑primary to upper secondary education in the German‑speaking Community, 2016-2020 (en)</cell>
@@ -4400,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e12f9d8</cell>
   </row>
-  <row index="220">
+  <row index="225">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a2ea446d-en</cell>
     <cell name="title">The education system of the German‑speaking Community of Belgium in comparison (en)</cell>
@@ -4420,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a44307e9</cell>
   </row>
-  <row index="221">
+  <row index="226">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ebaa4332-en</cell>
     <cell name="title">Annex Figure 1.A.1. Students’ proficiency in reading, 2018 (en)</cell>
@@ -4440,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6b57cb2</cell>
   </row>
-  <row index="222">
+  <row index="227">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5922caaf-en</cell>
     <cell name="title">Promoting equity and inclusion (en)</cell>
@@ -4460,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6bae4d9</cell>
   </row>
-  <row index="223">
+  <row index="228">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9a6b6f3a-en</cell>
     <cell name="title">Quality and Equity of Schooling in the German-speaking Community of Belgium (en)</cell>
@@ -4471,7 +4571,7 @@
     <cell name="date of publication">2022-03-15</cell>
     <cell name="embargo date">2022-03-15T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-02-23T19:13:17Z</cell>
+    <cell name="ilibrary last export date">2022-03-04T19:13:08Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4480,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4cca22a</cell>
   </row>
-  <row index="224">
+  <row index="229">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/36627495-en</cell>
     <cell name="title">Teachers' participation in professional development activities, 2018 (en)</cell>
@@ -4500,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/809cb712</cell>
   </row>
-  <row index="225">
+  <row index="230">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/aba24575-en</cell>
     <cell name="title">Students’ proficiency in mathematics, 2018 (en)</cell>
@@ -4520,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75ec2ceb</cell>
   </row>
-  <row index="226">
+  <row index="231">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7c08012b-en</cell>
     <cell name="title">Translations of key terms (en)</cell>
@@ -4540,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4147838</cell>
   </row>
-  <row index="227">
+  <row index="232">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8e8a57d4-en</cell>
     <cell name="title">Contract status of teachers and leaders in the German‑speaking Community, 2021 (en)</cell>
@@ -4560,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3427b9d8</cell>
   </row>
-  <row index="228">
+  <row index="233">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/13b95a68-en</cell>
     <cell name="title">Total expenditure on primary institutions per full-time equivalent student, 2018 (en)</cell>
@@ -4580,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d110f23</cell>
   </row>
-  <row index="229">
+  <row index="234">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/87bd5017-en</cell>
     <cell name="title">Agenda of the OECD review visit (en)</cell>
@@ -4600,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/073a1355</cell>
   </row>
-  <row index="230">
+  <row index="235">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b613a296-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4620,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6625ef39</cell>
   </row>
-  <row index="231">
+  <row index="236">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c4743450-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4640,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b330fb5</cell>
   </row>
-  <row index="232">
+  <row index="237">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8dcdb634-en</cell>
     <cell name="title">Trust in politicians and satisfaction with democracy over time (en)</cell>
@@ -4660,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98a0cd8b</cell>
   </row>
-  <row index="233">
+  <row index="238">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/57e8a8ed-en</cell>
     <cell name="title">Housing prices are high and getting higher (en)</cell>
@@ -4680,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6505be02</cell>
   </row>
-  <row index="234">
+  <row index="239">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2a71e500-en</cell>
     <cell name="title">Public expenditure on social protection as a % of GDP, Norway in a comparative perspective (en)</cell>
@@ -4700,7 +4800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6078cac3</cell>
   </row>
-  <row index="235">
+  <row index="240">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81b01318-en</cell>
     <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
@@ -4720,7 +4820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58a08012</cell>
   </row>
-  <row index="236">
+  <row index="241">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6c3ae26b-en</cell>
     <cell name="title">Average satisfaction with municipal levels by direct experience (en)</cell>
@@ -4740,7 +4840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/607b2ae0</cell>
   </row>
-  <row index="237">
+  <row index="242">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cf704588-en</cell>
     <cell name="title">Share of municipalities with only small primary schools vs. median municipality size ranking, EU27+UK (en)</cell>
@@ -4760,7 +4860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f98c9718</cell>
   </row>
-  <row index="238">
+  <row index="243">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/11bdf1ce-en</cell>
     <cell name="title">Institutional trust and its determinants in Norway (en)</cell>
@@ -4780,7 +4880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf50aba1</cell>
   </row>
-  <row index="239">
+  <row index="244">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bf700175-en</cell>
     <cell name="title">Percentage of the population satisfied with education services, 2010-21 (en)</cell>
@@ -4800,7 +4900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8584575d</cell>
   </row>
-  <row index="240">
+  <row index="245">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d369e44e-en</cell>
     <cell name="title">Average levels of satisfaction at the state level (en)</cell>
@@ -4820,7 +4920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd354bdb</cell>
   </row>
-  <row index="241">
+  <row index="246">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fb813bf6-en</cell>
     <cell name="title">OECD Digital Government Index, 2019 (en)</cell>
@@ -4840,7 +4940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87542b5a</cell>
   </row>
-  <row index="242">
+  <row index="247">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/864f5673-en</cell>
     <cell name="title">Competences and trust in Norway (en)</cell>
@@ -4860,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c4d1724</cell>
   </row>
-  <row index="243">
+  <row index="248">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ca3fef15-en</cell>
     <cell name="title">Average trust levels in OECD countries with available information (en)</cell>
@@ -4880,7 +4980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d17269</cell>
   </row>
-  <row index="244">
+  <row index="249">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3df9d205-en</cell>
     <cell name="title">Percentage of the population answering positively, neutrally or negatively to the following questions (en)</cell>
@@ -4900,7 +5000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac6e3687</cell>
   </row>
-  <row index="245">
+  <row index="250">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ccf8785f-en</cell>
     <cell name="title">The determinants of trust in the civil service in Norway (en)</cell>
@@ -4920,7 +5020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e86b92f2</cell>
   </row>
-  <row index="246">
+  <row index="251">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f2c1bbb2-en</cell>
     <cell name="title">Average levels of institutional trust, per household income (en)</cell>
@@ -4940,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6718a70a</cell>
   </row>
-  <row index="247">
+  <row index="252">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/96113e38-en</cell>
     <cell name="title">Citizens’ expectations of their ability to access information and voice their concerns on a decision affecting them (en)</cell>
@@ -4960,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b72f6c9</cell>
   </row>
-  <row index="248">
+  <row index="253">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5472d529-en</cell>
     <cell name="title">Percentage of the population who are positive, neutral or negative about the following (en)</cell>
@@ -4980,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d4e7bca</cell>
   </row>
-  <row index="249">
+  <row index="254">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c4743450-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5000,7 +5100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02453567</cell>
   </row>
-  <row index="250">
+  <row index="255">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d553be97-en</cell>
     <cell name="title">Percentage of the population satisfied with education services by size of municipality, 2021 (en)</cell>
@@ -5020,7 +5120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0100506</cell>
   </row>
-  <row index="251">
+  <row index="256">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e27f1735-en</cell>
     <cell name="title">Unemployment rate in Norway 2020-21 (en)</cell>
@@ -5040,7 +5140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1426baaa</cell>
   </row>
-  <row index="252">
+  <row index="257">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9a0c5050-en</cell>
     <cell name="title">Procedural fairness evaluations in Norway, do citizens feel that citizens’ voices matter in decision making (en)</cell>
@@ -5060,7 +5160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c18764a</cell>
   </row>
-  <row index="253">
+  <row index="258">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f3044069-en</cell>
     <cell name="title">Average levels of trust in public institutions (en)</cell>
@@ -5080,7 +5180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50184592</cell>
   </row>
-  <row index="254">
+  <row index="259">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/11f78bf0-en</cell>
     <cell name="title">Average satisfaction by experience, state level services (en)</cell>
@@ -5100,7 +5200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ba54654</cell>
   </row>
-  <row index="255">
+  <row index="260">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/29551284-en</cell>
     <cell name="title">Average levels of institutional trust, per level of education (en)</cell>
@@ -5120,7 +5220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cc3e38a</cell>
   </row>
-  <row index="256">
+  <row index="261">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9dd989fc-en</cell>
     <cell name="title">Percentage of the population who finds difficult each of the following by education level (en)</cell>
@@ -5140,7 +5240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/381b256f</cell>
   </row>
-  <row index="257">
+  <row index="262">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2907b270-en</cell>
     <cell name="title">Having a say in what the government does, 2016 and 2018 (or nearest available year) (en)</cell>
@@ -5160,7 +5260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/384358e1</cell>
   </row>
-  <row index="258">
+  <row index="263">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4a113c88-en</cell>
     <cell name="title">Values and trust in Norway (en)</cell>
@@ -5180,7 +5280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fc8f0f8</cell>
   </row>
-  <row index="259">
+  <row index="264">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7b91154a-en</cell>
     <cell name="title">Reaching Out and Activating Inactive and Unemployed Persons in Bulgaria (en)</cell>
@@ -5200,7 +5300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a316e0</cell>
   </row>
-  <row index="260">
+  <row index="265">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81b01318-en</cell>
     <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
@@ -5220,7 +5320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/acf21ca8</cell>
   </row>
-  <row index="261">
+  <row index="266">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2317f309-en</cell>
     <cell name="title">Percentage of the population satisfied with health services by size of municipality, 2021 (en)</cell>
@@ -5240,7 +5340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44eac78a</cell>
   </row>
-  <row index="262">
+  <row index="267">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/796c2eca-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -5260,7 +5360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03ad645e</cell>
   </row>
-  <row index="263">
+  <row index="268">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81b01318-en</cell>
     <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
@@ -5280,7 +5380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e750a6c8</cell>
   </row>
-  <row index="264">
+  <row index="269">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ec731cca-en</cell>
     <cell name="title">Trust in information from government, health authorities, municipality and national media in Norway, 2020-21 (en)</cell>
@@ -5300,7 +5400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceb53a69</cell>
   </row>
-  <row index="265">
+  <row index="270">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f2972055-en</cell>
     <cell name="title">Average levels of institutional trust, by foreign origin (en)</cell>
@@ -5320,7 +5420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e385d6a6</cell>
   </row>
-  <row index="266">
+  <row index="271">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/02e149e9-en</cell>
     <cell name="title">Percentage of the population that believes their government is responsive, reliable, open and fair and demonstrates integrity (en)</cell>
@@ -5340,7 +5440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf56640f</cell>
   </row>
-  <row index="267">
+  <row index="272">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6b85770-en</cell>
     <cell name="title">Citizens’ perception that everyone has a fair chance to participate in politics in Norway, as a percentage (en)</cell>
@@ -5360,7 +5460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47743780</cell>
   </row>
-  <row index="268">
+  <row index="273">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/864f5673-en</cell>
     <cell name="title">Competences and trust in Norway (en)</cell>
@@ -5380,7 +5480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59c22688</cell>
   </row>
-  <row index="269">
+  <row index="274">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/28a754ef-en</cell>
     <cell name="title">Citizens’ perceptions of openness by age (en)</cell>
@@ -5400,7 +5500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87579713</cell>
   </row>
-  <row index="270">
+  <row index="275">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ef7d957f-en</cell>
     <cell name="title">Average levels of institutional trust, by region (en)</cell>
@@ -5420,7 +5520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/049a908d</cell>
   </row>
-  <row index="271">
+  <row index="276">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7132aad6-en</cell>
     <cell name="title">Trust in Government in Scandinavia and the OECD in general (en)</cell>
@@ -5440,7 +5540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ac67f99</cell>
   </row>
-  <row index="272">
+  <row index="277">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/fcbed2cb-en</cell>
     <cell name="title">The determinants of trust in government in Norway (en)</cell>
@@ -5460,7 +5560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c42714c6</cell>
   </row>
-  <row index="273">
+  <row index="278">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/885d0bb9-en</cell>
     <cell name="title">Percentage of population with confidence that public authorities are “doing enough” to address key societal challenges in Norway and Finland (en)</cell>
@@ -5480,7 +5580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cc46ce9</cell>
   </row>
-  <row index="274">
+  <row index="279">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c9b8f6ea-en</cell>
     <cell name="title">Detailed results econometric analyses (en)</cell>
@@ -5500,7 +5600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b788020</cell>
   </row>
-  <row index="275">
+  <row index="280">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ebf574b6-en</cell>
     <cell name="title">Percentage of the population reporting to participate in political life in Norway and Europe, 2018 (en)</cell>
@@ -5520,7 +5620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b44b0a2</cell>
   </row>
-  <row index="276">
+  <row index="281">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4b1996e6-en</cell>
     <cell name="title">Turnout in Norway: Trends (en)</cell>
@@ -5540,7 +5640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68779471</cell>
   </row>
-  <row index="277">
+  <row index="282">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6c6b69a-en</cell>
     <cell name="title">Drivers of institutional trust in Norway (en)</cell>
@@ -5560,7 +5660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/725766cf</cell>
   </row>
-  <row index="278">
+  <row index="283">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cf92d5ea-en</cell>
     <cell name="title">People’s confidence to participate in politics, 2016 and 2018 (en)</cell>
@@ -5580,7 +5680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45b82258</cell>
   </row>
-  <row index="279">
+  <row index="284">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/648a5c4a-en</cell>
     <cell name="title">Trust and public governance in Norway (en)</cell>
@@ -5600,7 +5700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31194680</cell>
   </row>
-  <row index="280">
+  <row index="285">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dae0c97a-en</cell>
     <cell name="title">People’s perception that the government takes into account the interests of all citizens, 2019 (en)</cell>
@@ -5620,7 +5720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b22e6d7e</cell>
   </row>
-  <row index="281">
+  <row index="286">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4a113c88-en</cell>
     <cell name="title">Values and trust in Norway (en)</cell>
@@ -5640,7 +5740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a254d3e9</cell>
   </row>
-  <row index="282">
+  <row index="287">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/796c2eca-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -5660,7 +5760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7d78d12</cell>
   </row>
-  <row index="283">
+  <row index="288">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ded0bc30-en</cell>
     <cell name="title">Confidence in economic measures and perceived preparedness for COVID-19 in Norway, 2020-21 (en)</cell>
@@ -5680,7 +5780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9225a1f7</cell>
   </row>
-  <row index="284">
+  <row index="289">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a46dd860-en</cell>
     <cell name="title">Percentage of the population that considers that public institutions observe certain characteristics, 2021 (en)</cell>
@@ -5700,7 +5800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efc616eb</cell>
   </row>
-  <row index="285">
+  <row index="290">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c885b46e-en</cell>
     <cell name="title">Percentage of Norwegians considering public institutions are fair, by social status (en)</cell>
@@ -5720,7 +5820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ce44106</cell>
   </row>
-  <row index="286">
+  <row index="291">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/026727aa-en</cell>
     <cell name="title">Confidence in public institutions and COVID-19 measures in Norway by place of residence, 2020-21 (en)</cell>
@@ -5740,7 +5840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0637bf0</cell>
   </row>
-  <row index="287">
+  <row index="292">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/793b684e-en</cell>
     <cell name="title">Migration concerns and institutional trust in Norway (en)</cell>
@@ -5760,7 +5860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5df9651f</cell>
   </row>
-  <row index="288">
+  <row index="293">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81b01318-en</cell>
     <cell name="title">Drivers of Trust in Public Institutions in Norway (en)</cell>
@@ -5780,7 +5880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88be4ee6</cell>
   </row>
-  <row index="289">
+  <row index="294">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ffec87ad-en</cell>
     <cell name="title">Average levels of institutional trust, by gender (en)</cell>
@@ -5800,7 +5900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04e7c62d</cell>
   </row>
-  <row index="290">
+  <row index="295">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/621b8f1c-en</cell>
     <cell name="title">Average levels of satisfaction with municipal services, 2021 (en)</cell>
@@ -5820,7 +5920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/652272d7</cell>
   </row>
-  <row index="291">
+  <row index="296">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7b20eb9b-en</cell>
     <cell name="title">Economic risk perceptions for COVID-19 in Norway, by level of education, 2020-21 (en)</cell>
@@ -5840,7 +5940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e8ce142</cell>
   </row>
-  <row index="292">
+  <row index="297">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8595b15a-en</cell>
     <cell name="title">Citizen perception of government preparedness and reliability (en)</cell>
@@ -5860,7 +5960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b36c3ea</cell>
   </row>
-  <row index="293">
+  <row index="298">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8035a93e-en</cell>
     <cell name="title">Percentage of respondents agreeing with “Government authorities’ have little consideration for non-urban and rural Norway” (en)</cell>
@@ -5880,7 +5980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fe84aab</cell>
   </row>
-  <row index="294">
+  <row index="299">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/648a5c4a-en</cell>
     <cell name="title">Trust and public governance in Norway (en)</cell>
@@ -5900,7 +6000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e667576c</cell>
   </row>
-  <row index="295">
+  <row index="300">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/32606333-en</cell>
     <cell name="title">Confidence in public institutions and COVID-19 measures in Norway, 2020-21 (en)</cell>
@@ -5920,7 +6020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79d67fcf</cell>
   </row>
-  <row index="296">
+  <row index="301">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1e523aec-en</cell>
     <cell name="title">Citizens’ perceptions of being able to influence politics, by region of residence (en)</cell>
@@ -5940,7 +6040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75661ed8</cell>
   </row>
-  <row index="297">
+  <row index="302">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5ea54ae2-en</cell>
     <cell name="title">The determinants of trust in the local government in Norway (en)</cell>
@@ -5960,7 +6060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c53b632</cell>
   </row>
-  <row index="298">
+  <row index="303">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ec4d3206-en</cell>
     <cell name="title">GDP per capita, Norway in a comparative perspective, 2020 (en)</cell>
@@ -5980,7 +6080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cf31287</cell>
   </row>
-  <row index="299">
+  <row index="304">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8346cc00-en</cell>
     <cell name="title">Figure 4.15.Citizens’ perception that everyone has a fair opportunity to achieve the level of education they want, expressed in percentages (en)</cell>
@@ -6000,7 +6100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/594c411f</cell>
   </row>
-  <row index="300">
+  <row index="305">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7b2e496c-en</cell>
     <cell name="title">Percentage of Norwegians considering public institutions are fair, by origin, gender and place of residence (en)</cell>
@@ -6020,7 +6120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6772f37b</cell>
   </row>
-  <row index="301">
+  <row index="306">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a25dfdbd-en</cell>
     <cell name="title">Difficulties getting information from municipal employees by age group (en)</cell>
@@ -6040,7 +6140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c395b858</cell>
   </row>
-  <row index="302">
+  <row index="307">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1408efb1-en</cell>
     <cell name="title">Percentage of the population reporting that each of the following are difficult (en)</cell>
@@ -6060,7 +6160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f9c065e</cell>
   </row>
-  <row index="303">
+  <row index="308">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/56ebd669-en</cell>
     <cell name="title">Percentage of the population considering that undue behaviour is likely to occur (en)</cell>
@@ -6080,7 +6180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a74a7609</cell>
   </row>
-  <row index="304">
+  <row index="309">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/21260721-en</cell>
     <cell name="title">The determinants of self-reported trust in public institutions in Norway… (en)</cell>
@@ -6100,7 +6200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70dbd236</cell>
   </row>
-  <row index="305">
+  <row index="310">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7b91154a-en</cell>
     <cell name="title">Reaching Out and Activating Inactive and Unemployed Persons in Bulgaria (en)</cell>
@@ -6120,7 +6220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bd76065</cell>
   </row>
-  <row index="306">
+  <row index="311">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e104f62b-en</cell>
     <cell name="title">Percentage of the population satisfied with health services, 2010-21 (en)</cell>
@@ -6140,7 +6240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e2fcb83</cell>
   </row>
-  <row index="307">
+  <row index="312">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c9b8f6ea-en</cell>
     <cell name="title">Detailed results econometric analyses (en)</cell>
@@ -6160,7 +6260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc1ed1ca</cell>
   </row>
-  <row index="308">
+  <row index="313">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e0cc666a-en</cell>
     <cell name="title">Differences in household income inequality pre-and post-tax and government transfers (en)</cell>
@@ -6180,7 +6280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5da9b26</cell>
   </row>
-  <row index="309">
+  <row index="314">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4885c0e9-en</cell>
     <cell name="title">Citizens’ perception of openness by place of birth (en)</cell>
@@ -6200,7 +6300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfed1979</cell>
   </row>
-  <row index="310">
+  <row index="315">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ecd41edd-en</cell>
     <cell name="title">Percentage of population with confidence that public authorities are “doing enough” to address key societal challenges, by age groups (en)</cell>
@@ -6220,7 +6320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37d6a1dc</cell>
   </row>
-  <row index="311">
+  <row index="316">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/11bdf1ce-en</cell>
     <cell name="title">Institutional trust and its determinants in Norway (en)</cell>
@@ -6240,7 +6340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3dfc92f</cell>
   </row>
-  <row index="312">
+  <row index="317">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6a78122e-en</cell>
     <cell name="title">Percentage of the population that is satisfied with the police, 2010-21 (en)</cell>
@@ -6260,7 +6360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b754cd</cell>
   </row>
-  <row index="313">
+  <row index="318">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8c2985d1-en</cell>
     <cell name="title">Trust in Public Institutions in Norway (en)</cell>
@@ -6280,7 +6380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/628ae97d</cell>
   </row>
-  <row index="314">
+  <row index="319">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/117e352b-en</cell>
     <cell name="title">Dangerous Counterfeit Goods (en)</cell>
@@ -6288,7 +6388,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-03-17</cell>
     <cell name="embargo date">2022-03-17T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -6300,7 +6400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39aa3f7d</cell>
   </row>
-  <row index="315">
+  <row index="320">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/117e352b-en</cell>
     <cell name="title">Dangerous Counterfeit Goods (en)</cell>
@@ -6308,7 +6408,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-03-17</cell>
     <cell name="embargo date">2022-03-17T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -6320,7 +6420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20b4757a</cell>
   </row>
-  <row index="316">
+  <row index="321">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ec0cfef3-en</cell>
     <cell name="title">The Regulation of Lobbying in Quebec, Canada (en)</cell>
@@ -6340,7 +6440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99307fa1</cell>
   </row>
-  <row index="317">
+  <row index="322">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ec0cfef3-en</cell>
     <cell name="title">The Regulation of Lobbying in Quebec, Canada (en)</cell>
@@ -6360,7 +6460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/396fb3e1</cell>
   </row>
-  <row index="318">
+  <row index="323">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dbbc360d-fr</cell>
     <cell name="title">L'encadrement du lobbying au Québec, Canada (fr)</cell>
@@ -6380,7 +6480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a882f7b</cell>
   </row>
-  <row index="319">
+  <row index="324">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dbbc360d-fr</cell>
     <cell name="title">L'encadrement du lobbying au Québec, Canada (fr)</cell>
@@ -6400,7 +6500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f880528</cell>
   </row>
-  <row index="320">
+  <row index="325">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3dc05e6a-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  (en)</cell>
@@ -6420,7 +6520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7084c3b6</cell>
   </row>
-  <row index="321">
+  <row index="326">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3dc05e6a-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  (en)</cell>
@@ -6440,7 +6540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0245599e</cell>
   </row>
-  <row index="322">
+  <row index="327">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3fc9415b-fr</cell>
     <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
@@ -6460,7 +6560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56eab3ab</cell>
   </row>
-  <row index="323">
+  <row index="328">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3fc9415b-fr</cell>
     <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
@@ -6480,7 +6580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c31d8f8a</cell>
   </row>
-  <row index="324">
+  <row index="329">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a9c95902-en</cell>
     <cell name="title">Review of Inclusive Education in Portugal (en)</cell>
@@ -6488,7 +6588,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-03-22</cell>
     <cell name="embargo date">2022-03-22T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -6500,7 +6600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8abcc92</cell>
   </row>
-  <row index="325">
+  <row index="330">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a9c95902-en</cell>
     <cell name="title">Review of Inclusive Education in Portugal (en)</cell>
@@ -6508,7 +6608,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-03-22</cell>
     <cell name="embargo date">2022-03-22T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -6520,7 +6620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/698fa961</cell>
   </row>
-  <row index="326">
+  <row index="331">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0abc01c0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) (en)</cell>
@@ -6540,7 +6640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8dcca23b</cell>
   </row>
-  <row index="327">
+  <row index="332">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0abc01c0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) (en)</cell>
@@ -6560,7 +6660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/362785d2</cell>
   </row>
-  <row index="328">
+  <row index="333">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/44648523-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2022 (Second Round, Phase 1) (en)</cell>
@@ -6580,7 +6680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a63a31f0</cell>
   </row>
-  <row index="329">
+  <row index="334">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/44648523-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2022 (Second Round, Phase 1) (en)</cell>
@@ -6600,7 +6700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4aed4a9f</cell>
   </row>
-  <row index="330">
+  <row index="335">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ceb17521-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2022 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -6620,7 +6720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82be393e</cell>
   </row>
-  <row index="331">
+  <row index="336">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ceb17521-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2022 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -6640,7 +6740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d5f50d9</cell>
   </row>
-  <row index="332">
+  <row index="337">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8c9ff5b-en</cell>
     <cell name="title">Assessing Tax Compliance and Illicit Financial Flows in South Africa (en)</cell>
@@ -6660,7 +6760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8866b77</cell>
   </row>
-  <row index="333">
+  <row index="338">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8c9ff5b-en</cell>
     <cell name="title">Assessing Tax Compliance and Illicit Financial Flows in South Africa (en)</cell>
@@ -6680,7 +6780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2015377</cell>
   </row>
-  <row index="334">
+  <row index="339">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/45f1b476-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bermuda (Stage 2) (en)</cell>
@@ -6700,7 +6800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/715407e3</cell>
   </row>
-  <row index="335">
+  <row index="340">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/45f1b476-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Bermuda (Stage 2) (en)</cell>
@@ -6720,7 +6820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bbeb1ef</cell>
   </row>
-  <row index="336">
+  <row index="341">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df263845-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Macau, China (Stage 2) (en)</cell>
@@ -6740,7 +6840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3524c6f2</cell>
   </row>
-  <row index="337">
+  <row index="342">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d91d70b1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Faroe Islands (Stage 2) (en)</cell>
@@ -6760,7 +6860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e51a873</cell>
   </row>
-  <row index="338">
+  <row index="343">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5e8a9cac-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Tunisia (Stage 2) (en)</cell>
@@ -6780,7 +6880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/399c0ecc</cell>
   </row>
-  <row index="339">
+  <row index="344">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3e3d34d5-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, The Bahamas (Stage 2) (en)</cell>
@@ -6800,7 +6900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c95e8d34</cell>
   </row>
-  <row index="340">
+  <row index="345">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3e3d34d5-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, The Bahamas (Stage 2) (en)</cell>
@@ -6820,7 +6920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66a2b655</cell>
   </row>
-  <row index="341">
+  <row index="346">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/36402208-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, British Virgin Islands (Stage 2) (en)</cell>
@@ -6840,7 +6940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dd70534</cell>
   </row>
-  <row index="342">
+  <row index="347">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d91d70b1-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Faroe Islands (Stage 2) (en)</cell>
@@ -6860,7 +6960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f664382c</cell>
   </row>
-  <row index="343">
+  <row index="348">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6ef52ae4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Cayman Islands (Stage 2) (en)</cell>
@@ -6880,7 +6980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2fbef55</cell>
   </row>
-  <row index="344">
+  <row index="349">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dc816eb2-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Andorra (Stage 2) (en)</cell>
@@ -6900,7 +7000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/666c2bca</cell>
   </row>
-  <row index="345">
+  <row index="350">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/36402208-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, British Virgin Islands (Stage 2) (en)</cell>
@@ -6920,7 +7020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e94a098a</cell>
   </row>
-  <row index="346">
+  <row index="351">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5e8a9cac-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Tunisia (Stage 2) (en)</cell>
@@ -6940,7 +7040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8d5fe45</cell>
   </row>
-  <row index="347">
+  <row index="352">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dc816eb2-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Andorra (Stage 2) (en)</cell>
@@ -6960,7 +7060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c071b337</cell>
   </row>
-  <row index="348">
+  <row index="353">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6ef52ae4-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Cayman Islands (Stage 2) (en)</cell>
@@ -6980,7 +7080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d49ab8dd</cell>
   </row>
-  <row index="349">
+  <row index="354">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df263845-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Macau, China (Stage 2) (en)</cell>
@@ -7000,7 +7100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74b99c33</cell>
   </row>
-  <row index="350">
+  <row index="355">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f14495d7-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Morocco (Stage 2) (en)</cell>
@@ -7020,7 +7120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be0692f7</cell>
   </row>
-  <row index="351">
+  <row index="356">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f14495d7-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – MAP Peer Review Report, Morocco (Stage 2) (en)</cell>
@@ -7040,7 +7140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/319bf7a8</cell>
   </row>
-  <row index="352">
+  <row index="357">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>
@@ -7060,7 +7160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e91a47c</cell>
   </row>
-  <row index="353">
+  <row index="358">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>

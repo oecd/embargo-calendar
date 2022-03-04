@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 March 2022 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 4 March 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 March 2022](#3-march-2022)
 * [7 March 2022](#7-march-2022)
 * [8 March 2022](#8-march-2022)
+* [9 March 2022](#9-march-2022)
 * [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
 * [17 March 2022](#17-march-2022)
@@ -100,6 +101,33 @@ Tuesday 8 March 2022 at 6:00 | no launch event
 
 ------
 
+# 9 March 2022
+
+## [OECD Economic Surveys: Latvia 2022](https://doi.org/10.1787/c0113448-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 March 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
 # 14 March 2022
 
 ## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
@@ -138,7 +166,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 February 2022 at 20:13
+- [x] Exported to iLibrary Friday 4 March 2022 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 
