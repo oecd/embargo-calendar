@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 March 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Integrity Review of the Slovak Republic - Delivering Effective Public Integrity Policies](https://doi.org/10.1787/45bd4657-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 February 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 6 March 2022 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SIGI Country Report for Tanzania](https://doi.org/10.1787/06621e57-en)
 
@@ -38,7 +15,7 @@ Monday 7 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
+- [x] Exported to OECD.org Sunday 6 March 2022 at 19:53
 
 ### Additional Information
 
