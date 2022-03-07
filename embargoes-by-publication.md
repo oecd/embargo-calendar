@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 March 2022 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 7 March 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SIGI Country Report for Tanzania](https://doi.org/10.1787/06621e57-en)
 
@@ -15,7 +15,7 @@ Monday 7 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 March 2022 at 19:53
+- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 8 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 March 2022 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 March 2022 at 19:53
+- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
 
 ### Additional Information
 
@@ -59,17 +59,17 @@ Wednesday 9 March 2022 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -105,7 +105,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 March 2022 at 20:13
+- [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
 
@@ -297,75 +297,6 @@ Tuesday 22 March 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0abc01c0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/44648523-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2022 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/ceb17521-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
