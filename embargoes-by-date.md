@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 March 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 March 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 March 2022](#7-march-2022)
 * [8 March 2022](#8-march-2022)
 * [9 March 2022](#9-march-2022)
+* [10 March 2022](#10-march-2022)
 * [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
 * [17 March 2022](#17-march-2022)
@@ -58,7 +59,7 @@ Tuesday 8 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 March 2022 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 8 March 2022 at 19:57
 
 ### Additional Information
 
@@ -85,7 +86,7 @@ Wednesday 9 March 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 8 March 2022 at 19:57
 
 ### Additional Information
 
@@ -94,6 +95,79 @@ Wednesday 9 March 2022 at 8:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 March 2022
+
+## [International trade during the COVID-19 pandemic: Big shifts and uncertainty](https://doi.org/10.1787/d1131663-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
+## [ Towards a sustainable recovery? Carbon pricing policy changes during COVID-19](https://doi.org/10.1787/92464d20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
+
+------
+
+## [Se remettre durablement du COVID-19 grâce à la tarification du carbone](https://doi.org/10.1787/5f04da77-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Policy response*
+* Format: *PDF*
 
 ------
 
@@ -160,7 +234,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
+- [x] Exported to iLibrary Tuesday 8 March 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
 
