@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 March 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [SIGI Country Report for Tanzania](https://doi.org/10.1787/06621e57-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 March 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 March 2022 at 20:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 March 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 9 March 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Restoring the dynamism of Malaysia’s business sector](https://doi.org/10.1787/21a5c60c-en)
 
@@ -61,7 +38,7 @@ Wednesday 9 March 2022 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 March 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
 
 ### Additional Information
 
@@ -73,29 +50,6 @@ Wednesday 9 March 2022 at 8:30 | no launch event
 
 ------
 
-## [International trade during the COVID-19 pandemic: Big shifts and uncertainty](https://doi.org/10.1787/d1131663-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
 ## [ Towards a sustainable recovery? Carbon pricing policy changes during COVID-19](https://doi.org/10.1787/92464d20-en)
 
 Embargo date | Launch date
@@ -104,8 +58,8 @@ Thursday 10 March 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,9 +67,55 @@ Thursday 10 March 2022 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
+## [Carbon pricing and COVID-19 -  Policy changes, challenges and design options in OECD and G20 countries](https://doi.org/10.1787/8f030bcc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [International trade during the COVID-19 pandemic: Big shifts and uncertainty](https://doi.org/10.1787/d1131663-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -127,8 +127,8 @@ Thursday 10 March 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,9 +136,9 @@ Thursday 10 March 2022 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy response*
-* Format: *PDF*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -220,15 +220,15 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -345,6 +345,29 @@ Monday 21 March 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Economic Outlook for Southeast Asia, China and India 2022 - Financing Sustainable Recovery from COVID-19](https://doi.org/10.1787/e712f278-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 March 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
 ------
@@ -606,7 +629,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 April 2022 at 13:00 | no launch event
+Wednesday 27 April 2022 at 14:00 | no launch event
 
 ### Status Information
 
