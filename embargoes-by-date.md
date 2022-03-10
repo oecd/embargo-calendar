@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 March 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 March 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 March 2022](#8-march-2022)
 * [9 March 2022](#9-march-2022)
 * [10 March 2022](#10-march-2022)
 * [14 March 2022](#14-march-2022)
@@ -15,33 +14,6 @@ Data generated on | |
 * [1 April 2022](#1-april-2022)
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
-
-------
-
-# 8 March 2022
-
-## [Restoring the dynamism of Malaysia’s business sector](https://doi.org/10.1787/21a5c60c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 March 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 March 2022 at 20:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 March 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -108,7 +80,7 @@ Thursday 10 March 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
+- [x] Exported to OECD.org Thursday 10 March 2022 at 19:55
 
 ### Additional Information
 
@@ -220,6 +192,29 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 
 ------
 
+## [Връзка между хората и работните места: достигане до неактивните и безработните лица в България и активирането им на пазара на труда (Съкратен вариант) ](https://doi.org/10.1787/79b4d96b-bg)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Bulgarian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Drivers of Trust in Public Institutions in Norway](https://doi.org/10.1787/81b01318-en)
 
 Embargo date | Launch date
@@ -251,8 +246,8 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 March 2022 at 20:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
 
@@ -270,7 +265,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 # 17 March 2022
 
-## [Dangerous Counterfeit Goods - Raising Awareness of Health, Safety and Environmental Risks](https://doi.org/10.1787/117e352b-en)
+## [Dangerous Fakes - Trade in Counterfeit Goods that Pose Health, Safety and Environmental Risks](https://doi.org/10.1787/117e352b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -352,15 +347,15 @@ Monday 21 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 10 March 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 10 March 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
