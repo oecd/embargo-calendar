@@ -2,46 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/c0113448-end3e115
-SUMMARY:OECD Economic Surveys: Latvia 2022
-DESCRIPTION:*OECD Economic Surveys: Latvia 2022*\n\n
- Directorate: Economics Department\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/c0113448-en\nPublication type: Econom
- ic survey\nReleased as: Paperback, PDF\n
- \nEmbargo date/time: Wednesday, 9 March 
- 2022, 8:30 (GMT)\n\n\niLibrary export: M
- onday, 7 March 2022, 19:25 (GMT)\nFreepr
- eview export: never\nOECD.org export: We
- dnesday, 9 March 2022, 18:56 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:32, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=c0113448-en.
-DTSTAMP:20220310T203230Z
-DTSTART:20220309T083000Z
-DTEND:20220309T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD Economic Surveys: Latvia 
- 2022
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/92464d20-end3e172
+UID:10.1787/92464d20-end3e63
 SUMMARY: Towards a sustainable recovery? Carbon 
  pricing policy changes during COVID-19
 DESCRIPTION:* Towards a sustainable recovery? Carbon
@@ -58,7 +19,7 @@ DESCRIPTION:* Towards a sustainable recovery? Carbon
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:32, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -67,7 +28,7 @@ DESCRIPTION:* Towards a sustainable recovery? Carbon
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=92464d20-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220310T090000Z
 DTEND:20220310T091500Z
 TRANSP:TRANSPARENT
@@ -82,7 +43,7 @@ DESCRIPTION:Reminder:  Towards a sustainable recover
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f030bcc-end3e281
+UID:10.1787/8f030bcc-end3e172
 SUMMARY:Carbon pricing and COVID-19 -  Policy ch
  anges, challenges and design options in 
  OECD and G20 countries
@@ -101,7 +62,7 @@ DESCRIPTION:*Carbon pricing and COVID-19 - Policy ch
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:32, it
+ orrect as of this afternoon at 20:42, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -110,7 +71,7 @@ DESCRIPTION:*Carbon pricing and COVID-19 - Policy ch
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=8f030bcc-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220310T090000Z
 DTEND:20220310T091500Z
 TRANSP:TRANSPARENT
@@ -125,7 +86,7 @@ DESCRIPTION:Reminder: Carbon pricing and COVID-19 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d1131663-end3e337
+UID:10.1787/d1131663-end3e229
 SUMMARY:International trade during the COVID-19 
  pandemic: Big shifts and uncertainty
 DESCRIPTION:*International trade during the COVID-19
@@ -143,7 +104,7 @@ DESCRIPTION:*International trade during the COVID-19
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:32, it is updated each night; theref
+  20:42, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -151,7 +112,7 @@ DESCRIPTION:*International trade during the COVID-19
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=d1131663-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220310T090000Z
 DTEND:20220310T091500Z
 TRANSP:TRANSPARENT
@@ -166,7 +127,7 @@ DESCRIPTION:Reminder: International trade during the
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f04da77-frd3e445
+UID:10.1787/5f04da77-frd3e339
 SUMMARY:Se remettre durablement du COVID-19 grâc
  e à la tarification du carbone
 DESCRIPTION:*Se remettre durablement du COVID-19 grâ
@@ -183,7 +144,7 @@ DESCRIPTION:*Se remettre durablement du COVID-19 grâ
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:32, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -192,7 +153,7 @@ DESCRIPTION:*Se remettre durablement du COVID-19 grâ
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=5f04da77-fr.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220310T090000Z
 DTEND:20220310T091500Z
 TRANSP:TRANSPARENT
@@ -206,7 +167,173 @@ DESCRIPTION:Reminder: Se remettre durablement du COV
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/92b75874-end3e2575
+UID:10.1787/90ab82e8-end3e448
+SUMMARY:Measuring environmental policy stringenc
+ y in OECD countries - An update of the O
+ ECD composite EPS indicator
+DESCRIPTION:*Measuring environmental policy stringen
+ cy in OECD countries - An update of the 
+ OECD composite EPS indicator*\n\nDirecto
+ rate: Economics Department\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/90ab
+ 82e8-en\nPublication type: Paper\nReleas
+ ed as: PDF\n\nEmbargo date/time: Monday,
+  14 March 2022, 6:00 (GMT)\n\n\niLibrary
+  export: Friday, 11 March 2022, 19:20 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Friday, 11 March 2022, 18:57 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 20:42, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=90ab82e8-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220314T060000Z
+DTEND:20220314T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Measuring environmental policy
+  stringency in OECD countries - An updat
+ e of the OECD composite EPS indicator
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/67dd76e0-end3e504
+SUMMARY:Resourcing higher education in Ireland -
+  Funding higher education institutions
+DESCRIPTION:*Resourcing higher education in Ireland 
+ - Funding higher education institutions*
+ \n\nDirectorate: Directorate for Educati
+ on and Skills\nLanguage: English\nDOI: h
+ ttps://doi.org/10.1787/67dd76e0-en\nPubl
+ ication type: Paper\nReleased as: PDF\n\
+ nEmbargo date/time: Monday, 14 March 202
+ 2, 8:00 (GMT)\n\n\niLibrary export: Frid
+ ay, 11 March 2022, 19:20 (GMT)\nFreeprev
+ iew export: never\nOECD.org export: Frid
+ ay, 11 March 2022, 18:57 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 20:42, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=67
+ dd76e0-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220314T080000Z
+DTEND:20220314T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Resourcing higher education in
+  Ireland - Funding higher education inst
+ itutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8dd310c0-end3e560
+SUMMARY:Mixed-worded scales and acquiescence in 
+ educational large-scale assessments
+DESCRIPTION:*Mixed-worded scales and acquiescence in
+  educational large-scale assessments*\n\
+ nDirectorate: Directorate for Education 
+ and Skills\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/8dd310c0-en\nPublica
+ tion type: Paper\nReleased as: PDF\n\nEm
+ bargo date/time: Monday, 14 March 2022, 
+ 8:00 (GMT)\n\n\niLibrary export: Friday,
+  11 March 2022, 19:20 (GMT)\nFreepreview
+  export: never\nOECD.org export: Friday,
+  11 March 2022, 18:57 (GMT)\nFTI loaded:
+  ✓\n\nFor more information see: https://
+ oecd.github.io/embargo-calendar/embargoe
+ s-by-publication.html.\n\nPlease note: T
+ his information was correct as of this a
+ fternoon at 20:42, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=8dd31
+ 0c0-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220314T080000Z
+DTEND:20220314T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Mixed-worded scales and acquie
+ scence in educational large-scale assess
+ ments
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/572b72d3-end3e616
+SUMMARY:Taxation of part-time work in the OECD
+DESCRIPTION:*Taxation of part-time work in the OECD*
+ \n\nDirectorate: Centre for Tax Policy a
+ nd Administration\nLanguage: English\nDO
+ I: https://doi.org/10.1787/572b72d3-en\n
+ Publication type: Paper\nReleased as: PD
+ F\n\nEmbargo date/time: Monday, 14 March
+  2022, 9:00 (GMT)\n\n\niLibrary export: 
+ Friday, 11 March 2022, 19:20 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Friday, 11 March 2022, 18:57 (GMT)\nFTI 
+ loaded: ✓\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 20:42, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=572b72d3-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220314T090000Z
+DTEND:20220314T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Taxation of part-time work in 
+ the OECD
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/92b75874-end3e2692
 SUMMARY:Mending the Education Divide - Getting S
  trong Teachers to the Schools That Need 
  Them Most
@@ -226,7 +353,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:32, it is updated each
+ s afternoon at 20:42, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -235,7 +362,7 @@ DESCRIPTION:*Mending the Education Divide - Getting
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=92
  b75874-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220314T100000Z
 DTEND:20220314T101500Z
 TRANSP:TRANSPARENT
@@ -250,7 +377,49 @@ DESCRIPTION:Reminder: Mending the Education Divide -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a6b6f3a-end3e5633
+UID:10.1787/e33c281e-end3e3786
+SUMMARY:Closing the Italian digital gap - The ro
+ le of skills, intangibles and policies
+DESCRIPTION:*Closing the Italian digital gap - The r
+ ole of skills, intangibles and policies*
+ \n\nDirectorate: Directorate for Science
+ , Technology and Industry\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/e33c2
+ 81e-en\nPublication type: Paper\nRelease
+ d as: PDF\n\nEmbargo date/time: Tuesday,
+  15 March 2022, 6:00 (GMT)\n\n\niLibrary
+  export: Friday, 11 March 2022, 19:20 (G
+ MT)\nFreepreview export: never\nOECD.org
+  export: Friday, 11 March 2022, 18:57 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 20:42, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=e33c281e-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220315T060000Z
+DTEND:20220315T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Closing the Italian digital ga
+ p - The role of skills, intangibles and 
+ policies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9a6b6f3a-end3e5806
 SUMMARY:Quality and Equity of Schooling in the G
  erman-speaking Community of Belgium
 DESCRIPTION:*Quality and Equity of Schooling in the 
@@ -269,7 +438,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:32, it is updated each night; therefor
+ 0:42, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -277,7 +446,7 @@ DESCRIPTION:*Quality and Equity of Schooling in the
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=9a6b6f3a-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220315T070000Z
 DTEND:20220315T071500Z
 TRANSP:TRANSPARENT
@@ -292,37 +461,34 @@ DESCRIPTION:Reminder: Quality and Equity of Schoolin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/79b4d96b-bgd3e7597
-SUMMARY:Връзка между хората и работните места: д
- остигане до неактивните и безработните л
- ица в България и активирането им на паза
- ра на труда (Съкратен вариант) 
-DESCRIPTION:*Връзка между хората и работните места: 
- достигане до неактивните и безработните 
- лица в България и активирането им на паз
- ара на труда (Съкратен вариант) *\n\nDir
- ectorate: Directorate for Employment, La
- bour and Social Affairs\nLanguage: Bulga
- rian\nDOI: https://doi.org/10.1787/79b4d
- 96b-bg\nPublication type: Book\nReleased
-  as: PDF\n\nEmbargo date/time: Tuesday, 
- 15 March 2022, 8:00 (GMT)\n\n\niLibrary 
- export: never\nFreepreview export: never
- \nOECD.org export: never\nFTI loaded: ✗\
- n\nFor more information see: https://oec
- d.github.io/embargo-calendar/embargoes-b
- y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 20:32, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=79b4d96b
- -bg.
-DTSTAMP:20220310T203230Z
+UID:10.1787/79b4d96b-bgd3e7770
+SUMMARY:достигане до неактивните и безработните 
+ лица в България и активирането им (Съкра
+ тен вариант)
+DESCRIPTION:*достигане до неактивните и безработните
+  лица в България и активирането им (Съкр
+ атен вариант)*\n\nDirectorate: Directora
+ te for Employment, Labour and Social Aff
+ airs\nLanguage: Bulgarian\nDOI: https://
+ doi.org/10.1787/79b4d96b-bg\nPublication
+  type: Book\nReleased as: PDF\n\nEmbargo
+  date/time: Tuesday, 15 March 2022, 8:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:42, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=79b4d96b-bg.
+DTSTAMP:20220311T204255Z
 DTSTART:20220315T080000Z
 DTEND:20220315T081500Z
 TRANSP:TRANSPARENT
@@ -331,15 +497,13 @@ TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Връзка между хората и работнит
- е места: достигане до неактивните и безр
- аботните лица в България и активирането 
- им на пазара на труда (Съкратен вариант)
-  
+DESCRIPTION:Reminder: достигане до неактивните и без
+ работните лица в България и активирането
+  им (Съкратен вариант)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81b01318-end3e8520
+UID:10.1787/81b01318-end3e8693
 SUMMARY:Drivers of Trust in Public Institutions 
  in Norway
 DESCRIPTION:*Drivers of Trust in Public Institutions
@@ -357,7 +521,7 @@ DESCRIPTION:*Drivers of Trust in Public Institutions
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:32, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -366,7 +530,7 @@ DESCRIPTION:*Drivers of Trust in Public Institutions
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=81b01318-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220315T080000Z
 DTEND:20220315T081500Z
 TRANSP:TRANSPARENT
@@ -380,7 +544,7 @@ DESCRIPTION:Reminder: Drivers of Trust in Public Ins
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b91154a-end3e10971
+UID:10.1787/7b91154a-end3e11145
 SUMMARY:Reaching Out and Activating Inactive and
   Unemployed Persons in Bulgaria
 DESCRIPTION:*Reaching Out and Activating Inactive an
@@ -391,23 +555,23 @@ DESCRIPTION:*Reaching Out and Activating Inactive an
  a-en\nPublication type: Book\nReleased a
  s: Paperback, PDF\n\nEmbargo date/time: 
  Tuesday, 15 March 2022, 8:00 (GMT)\n\n\n
- iLibrary export: Thursday, 10 March 2022
- , 19:13 (GMT)\nFreepreview export: never
- \nOECD.org export: Wednesday, 9 March 20
- 22, 18:56 (GMT)\nFTI loaded: ✓\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 20:32, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=7b91154a-en.
-DTSTAMP:20220310T203230Z
+ iLibrary export: Friday, 11 March 2022, 
+ 19:20 (GMT)\nFreepreview export: never\n
+ OECD.org export: Wednesday, 9 March 2022
+ , 18:56 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :42, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=7b91154a-en.
+DTSTAMP:20220311T204255Z
 DTSTART:20220315T080000Z
 DTEND:20220315T081500Z
 TRANSP:TRANSPARENT
@@ -422,7 +586,7 @@ DESCRIPTION:Reminder: Reaching Out and Activating In
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/117e352b-end3e11461
+UID:10.1787/117e352b-end3e11634
 SUMMARY:Dangerous Fakes - Trade in Counterfeit G
  oods that Pose Health, Safety and Enviro
  nmental Risks
@@ -434,22 +598,23 @@ DESCRIPTION:*Dangerous Fakes - Trade in Counterfeit
  52b-en\nPublication type: Book\nReleased
   as: Paperback, PDF\n\nEmbargo date/time
  : Thursday, 17 March 2022, 8:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 20:32, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=117e352b-en.
-DTSTAMP:20220310T203230Z
+ n\niLibrary export: Friday, 11 March 202
+ 2, 19:20 (GMT)\nFreepreview export: neve
+ r\nOECD.org export: Friday, 11 March 202
+ 2, 18:57 (GMT)\nFTI loaded: ✗\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:42, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=117e352b-en.
+DTSTAMP:20220311T204255Z
 DTSTART:20220317T080000Z
 DTEND:20220317T081500Z
 TRANSP:TRANSPARENT
@@ -464,7 +629,7 @@ DESCRIPTION:Reminder: Dangerous Fakes - Trade in Cou
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec0cfef3-end3e11567
+UID:10.1787/ec0cfef3-end3e11743
 SUMMARY:The Regulation of Lobbying in Quebec, Ca
  nada - Strengthening a Culture of Transp
  arency and Integrity
@@ -482,7 +647,7 @@ DESCRIPTION:*The Regulation of Lobbying in Quebec, C
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:32, it i
+ rect as of this afternoon at 20:42, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -491,7 +656,7 @@ DESCRIPTION:*The Regulation of Lobbying in Quebec, C
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=ec0cfef3-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220317T150000Z
 DTEND:20220317T151500Z
 TRANSP:TRANSPARENT
@@ -506,7 +671,7 @@ DESCRIPTION:Reminder: The Regulation of Lobbying in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dbbc360d-frd3e11727
+UID:10.1787/dbbc360d-frd3e11902
 SUMMARY:L'encadrement du lobbying au Québec, Can
  ada - Poursuivre le développement d’une 
  culture de transparence et d’intégrité
@@ -525,7 +690,7 @@ DESCRIPTION:*L'encadrement du lobbying au Québec, Ca
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:32, it is updated each night; t
+ on at 20:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -534,7 +699,7 @@ DESCRIPTION:*L'encadrement du lobbying au Québec, Ca
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=dbbc360d-fr
  .
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220317T150000Z
 DTEND:20220317T151500Z
 TRANSP:TRANSPARENT
@@ -550,7 +715,7 @@ DESCRIPTION:Reminder: L'encadrement du lobbying au Q
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3dc05e6a-end3e11833
+UID:10.1787/3dc05e6a-end3e15584
 SUMMARY:Prevention of Tax Treaty Abuse – Fourth 
  Peer Review Report on Treaty Shopping  -
   Inclusive Framework on BEPS: Action 6
@@ -560,26 +725,26 @@ DESCRIPTION:*Prevention of Tax Treaty Abuse – Fourth
  n\nDirectorate: Centre for Tax Policy an
  d Administration\nLanguage: English\nDOI
  : https://doi.org/10.1787/3dc05e6a-en\nP
- ublication type: Book\nReleased as: Pape
- rback, PDF\n\nEmbargo date/time: Monday,
-  21 March 2022, 10:00 (GMT)\n\n\niLibrar
- y export: Thursday, 10 March 2022, 19:13
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Thursday, 10 March 2022, 18:
- 55 (GMT)\nFTI loaded: ✗\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:32, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=3dc05e6a-en.
-DTSTAMP:20220310T203230Z
+ ublication type: Book\nReleased as: ePub
+ , HTML, Paperback, PDF\n\nEmbargo date/t
+ ime: Monday, 21 March 2022, 10:00 (GMT)\
+ n\n\niLibrary export: Friday, 11 March 2
+ 022, 19:20 (GMT)\nFreepreview export: ne
+ ver\nOECD.org export: Friday, 11 March 2
+ 022, 18:57 (GMT)\nFTI loaded: ✓\n\nFor m
+ ore information see: https://oecd.github
+ .io/embargo-calendar/embargoes-by-public
+ ation.html.\n\nPlease note: This informa
+ tion was correct as of this afternoon at
+  20:42, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=3dc05e6a-en.
+DTSTAMP:20220311T204255Z
 DTSTART:20220321T100000Z
 DTEND:20220321T101500Z
 TRANSP:TRANSPARENT
@@ -595,7 +760,7 @@ DESCRIPTION:Reminder: Prevention of Tax Treaty Abuse
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3fc9415b-frd3e11941
+UID:10.1787/3fc9415b-frd3e23603
 SUMMARY:Prévention de l’utilisation abusive des 
  conventions fiscales – Quatrième rapport
   d’examen par les pairs sur le chalandag
@@ -611,22 +776,23 @@ DESCRIPTION:*Prévention de l’utilisation abusive des
  415b-fr\nPublication type: Book\nRelease
  d as: Paperback, PDF\n\nEmbargo date/tim
  e: Monday, 21 March 2022, 10:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 20:32, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=3fc9415b-fr.
-DTSTAMP:20220310T203230Z
+ n\niLibrary export: Friday, 11 March 202
+ 2, 19:20 (GMT)\nFreepreview export: neve
+ r\nOECD.org export: Friday, 11 March 202
+ 2, 18:57 (GMT)\nFTI loaded: ✗\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:42, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=3fc9415b-fr.
+DTSTAMP:20220311T204255Z
 DTSTART:20220321T100000Z
 DTEND:20220321T101500Z
 TRANSP:TRANSPARENT
@@ -643,7 +809,7 @@ DESCRIPTION:Reminder: Prévention de l’utilisation ab
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e712f278-end3e11994
+UID:10.1787/e712f278-end3e28427
 SUMMARY:Economic Outlook for Southeast Asia, Chi
  na and India 2022 - Financing Sustainabl
  e Recovery from COVID-19
@@ -661,7 +827,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:32, it is updated ea
+ his afternoon at 20:42, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -670,7 +836,7 @@ DESCRIPTION:*Economic Outlook for Southeast Asia, Ch
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e712f278-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220322T070000Z
 DTEND:20220322T071500Z
 TRANSP:TRANSPARENT
@@ -685,7 +851,7 @@ DESCRIPTION:Reminder: Economic Outlook for Southeast
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9c95902-end3e12153
+UID:10.1787/a9c95902-end3e28585
 SUMMARY:Review of Inclusive Education in Portuga
  l
 DESCRIPTION:*Review of Inclusive Education in Portug
@@ -693,29 +859,29 @@ DESCRIPTION:*Review of Inclusive Education in Portug
  ation and Skills\nLanguage: English\nDOI
  : https://doi.org/10.1787/a9c95902-en\nP
  ublication type: Book\nReleased as: Pape
- rback, PDF\n\nEmbargo date/time: Tuesday
- , 22 March 2022, 10:00 (GMT)\n\n\niLibra
- ry export: never\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 20:32, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=a9c95
- 902-en.
-DTSTAMP:20220310T203230Z
-DTSTART:20220322T100000Z
-DTEND:20220322T101500Z
+ rback, PDF\n\nEmbargo date/time: Wednesd
+ ay, 23 March 2022, 10:00 (GMT)\n\n\niLib
+ rary export: never\nFreepreview export: 
+ never\nOECD.org export: never\nFTI loade
+ d: ✗\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 20:42, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=a9c
+ 95902-en.
+DTSTAMP:20220311T204255Z
+DTSTART:20220323T100000Z
+DTEND:20220323T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -724,7 +890,7 @@ DESCRIPTION:Reminder: Review of Inclusive Education
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8c9ff5b-end3e12416
+UID:10.1787/e8c9ff5b-end3e28848
 SUMMARY:Assessing Tax Compliance and Illicit Fin
  ancial Flows in South Africa
 DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
@@ -741,7 +907,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:32, it is updated ea
+ his afternoon at 20:42, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -750,7 +916,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e8c9ff5b-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220401T090000Z
 DTEND:20220401T091500Z
 TRANSP:TRANSPARENT
@@ -764,7 +930,7 @@ DESCRIPTION:Reminder: Assessing Tax Compliance and I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45f1b476-end3e12520
+UID:10.1787/45f1b476-end3e28953
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Bermuda (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -784,7 +950,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:32, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -793,7 +959,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=45f1b476-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -809,7 +975,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df263845-end3e12573
+UID:10.1787/df263845-end3e29006
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Macau, China 
  (Stage 2) - Inclusive Framework on BEPS:
@@ -829,7 +995,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:32, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -838,7 +1004,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=df263845-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -854,7 +1020,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3e3d34d5-end3e12733
+UID:10.1787/3e3d34d5-end3e29165
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, The Bahamas (
  Stage 2) - Inclusive Framework on BEPS: 
@@ -874,7 +1040,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:32, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -883,7 +1049,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=3e3d34d5-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -899,7 +1065,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36402208-end3e12839
+UID:10.1787/36402208-end3e29272
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, British Virgi
  n Islands (Stage 2) - Inclusive Framewor
@@ -919,7 +1085,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:32
+ as correct as of this afternoon at 20:42
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -928,7 +1094,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=36402208-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -944,7 +1110,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d91d70b1-end3e12892
+UID:10.1787/d91d70b1-end3e29325
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Faroe Islands
   (Stage 2) - Inclusive Framework on BEPS
@@ -964,7 +1130,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:32, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -973,7 +1139,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=d91d70b1-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -989,7 +1155,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ef52ae4-end3e12945
+UID:10.1787/6ef52ae4-end3e29378
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Cayman Island
  s (Stage 2) - Inclusive Framework on BEP
@@ -1009,7 +1175,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:32, it is 
+ ct as of this afternoon at 20:42, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1018,7 +1184,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=6ef52ae4-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -1034,7 +1200,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5e8a9cac-end3e13105
+UID:10.1787/5e8a9cac-end3e29537
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Tunisia (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1054,7 +1220,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:32, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1063,7 +1229,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=5e8a9cac-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -1079,7 +1245,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dc816eb2-end3e13158
+UID:10.1787/dc816eb2-end3e29591
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Andorra (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1099,7 +1265,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:32, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1108,7 +1274,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=dc816eb2-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -1124,7 +1290,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f14495d7-end3e13318
+UID:10.1787/f14495d7-end3e29750
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Morocco (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -1144,7 +1310,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:32, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1153,7 +1319,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=f14495d7-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220414T090000Z
 DTEND:20220414T091500Z
 TRANSP:TRANSPARENT
@@ -1169,7 +1335,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af4b630d-end3e13424
+UID:10.1787/af4b630d-end3e29856
 SUMMARY:The Short and Winding Road to 2030 - Mea
  suring Distance to the SDG Targets
 DESCRIPTION:*The Short and Winding Road to 2030 - Me
@@ -1187,7 +1353,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:32, it is updated e
+ this afternoon at 20:42, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1196,7 +1362,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =af4b630d-en.
-DTSTAMP:20220310T203230Z
+DTSTAMP:20220311T204255Z
 DTSTART:20220427T140000Z
 DTEND:20220427T141500Z
 TRANSP:TRANSPARENT

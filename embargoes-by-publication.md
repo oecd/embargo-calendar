@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 March 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Latvia 2022](https://doi.org/10.1787/c0113448-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 March 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 March 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 11 March 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [ Towards a sustainable recovery? Carbon pricing policy changes during COVID-19](https://doi.org/10.1787/92464d20-en)
 
@@ -119,6 +96,98 @@ Thursday 10 March 2022 at 9:00 | no launch event
 
 ------
 
+## [Measuring environmental policy stringency in OECD countries - An update of the OECD composite EPS indicator](https://doi.org/10.1787/90ab82e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 March 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Resourcing higher education in Ireland - Funding higher education institutions](https://doi.org/10.1787/67dd76e0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Mixed-worded scales and acquiescence in educational large-scale assessments](https://doi.org/10.1787/8dd310c0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 March 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Taxation of part-time work in the OECD](https://doi.org/10.1787/572b72d3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 March 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
 
 Embargo date | Launch date
@@ -139,6 +208,29 @@ Monday 14 March 2022 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Closing the Italian digital gap - The role of skills, intangibles and policies](https://doi.org/10.1787/e33c281e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -165,7 +257,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 
 ------
 
-## [Връзка между хората и работните места: достигане до неактивните и безработните лица в България и активирането им на пазара на труда (Съкратен вариант) ](https://doi.org/10.1787/79b4d96b-bg)
+## [достигане до неактивните и безработните лица в България и активирането им (Съкратен вариант)](https://doi.org/10.1787/79b4d96b-bg)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -220,7 +312,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 March 2022 at 20:13
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
 
@@ -228,7 +320,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -243,15 +335,15 @@ Thursday 17 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -311,18 +403,18 @@ Monday 21 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 10 March 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 March 2022 at 19:55
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -335,15 +427,15 @@ Monday 21 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -376,7 +468,7 @@ Tuesday 22 March 2022 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 22 March 2022 at 10:00 | no launch event
+Wednesday 23 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
