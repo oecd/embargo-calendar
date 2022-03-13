@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 March 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [ Towards a sustainable recovery? Carbon pricing policy changes during COVID-19](https://doi.org/10.1787/92464d20-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [Carbon pricing and COVID-19 -  Policy changes, challenges and design options in OECD and G20 countries](https://doi.org/10.1787/8f030bcc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 March 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [International trade during the COVID-19 pandemic: Big shifts and uncertainty](https://doi.org/10.1787/d1131663-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [Se remettre durablement du COVID-19 grâce à la tarification du carbone](https://doi.org/10.1787/5f04da77-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
+| *Sunday 13 March 2022 at 20:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring environmental policy stringency in OECD countries - An update of the OECD composite EPS indicator](https://doi.org/10.1787/90ab82e8-en)
 
@@ -107,7 +15,7 @@ Monday 14 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Monday 14 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
 
 ### Additional Information
 
@@ -153,7 +61,7 @@ Monday 14 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
 
 ### Additional Information
 
@@ -176,7 +84,7 @@ Monday 14 March 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
 
 ### Additional Information
 
@@ -199,7 +107,7 @@ Monday 14 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 February 2022 at 19:56
+- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
 
 ### Additional Information
 
