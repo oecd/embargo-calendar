@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 March 2022 at 20:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 March 2022 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
@@ -10,6 +10,7 @@ Data generated on | |
 * [21 March 2022](#21-march-2022)
 * [22 March 2022](#22-march-2022)
 * [23 March 2022](#23-march-2022)
+* [31 March 2022](#31-march-2022)
 * [1 April 2022](#1-april-2022)
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
@@ -29,7 +30,7 @@ Monday 14 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -52,7 +53,7 @@ Monday 14 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -75,7 +76,7 @@ Monday 14 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -98,7 +99,7 @@ Monday 14 March 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -121,7 +122,7 @@ Monday 14 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 February 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -148,7 +149,7 @@ Tuesday 15 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -171,7 +172,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 February 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -183,6 +184,29 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 
 ------
 
+## [Riding the waves: Adjusting job retention schemes through the COVID-19 crisis](https://doi.org/10.1787/ae8f892f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 March 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
 ## [достигане до неактивните и безработните лица в България и активирането им (Съкратен вариант)](https://doi.org/10.1787/79b4d96b-bg)
 
 Embargo date | Launch date
@@ -191,16 +215,16 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Bulgarian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -215,9 +239,9 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 March 2022 at 20:19
+- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -238,9 +262,9 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 March 2022 at 19:56
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -329,6 +353,29 @@ Thursday 17 March 2022 at 15:00 | no launch event
 
 # 21 March 2022
 
+## [¿Cómo va la vida en América Latina? - Medición del bienestar para la formulación de políticas públicas](https://doi.org/10.1787/7f6a948f-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 March 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/3dc05e6a-en)
 
 Embargo date | Launch date
@@ -360,10 +407,10 @@ Monday 21 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
 
 ### Additional Information
 
@@ -371,7 +418,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -411,6 +458,33 @@ Tuesday 22 March 2022 at 7:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 23 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 March 2022
+
+## [OECD Reviews of Evaluation and Assessment in Education: Bosnia and Herzegovina](https://doi.org/10.1787/a669e5f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 31 March 2022 at 9:00 | no launch event
 
 ### Status Information
 
