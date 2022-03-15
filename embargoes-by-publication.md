@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 March 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 March 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring environmental policy stringency in OECD countries - An update of the OECD composite EPS indicator](https://doi.org/10.1787/90ab82e8-en)
 
@@ -130,7 +130,7 @@ Tuesday 15 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 11 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 15 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 March 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Tuesday 15 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -265,18 +265,41 @@ Thursday 17 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2022 - Impacts and Policy Implications of the War in Ukraine](https://doi.org/10.1787/4181d61b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -358,9 +381,9 @@ Monday 21 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
+- [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 11 March 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
 
 ### Additional Information
 
@@ -483,6 +506,29 @@ Friday 1 April 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Maroc (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/dac0192c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -694,6 +740,29 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ------
 
+## [Accroître l'efficacité des mécanismes de règlement des différends – Rapport par les pairs de PA, Tunisie (Phase 2) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/542b0cd4-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
 
 Embargo date | Launch date
@@ -713,6 +782,52 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Un chemin court et sinueux jusqu’à 2030 (version abrégée) - Mesurer la distance à parcourir pour atteindre les cibles des ODD](https://doi.org/10.1787/2fa2183f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Africa’s Urbanisation Dynamics 2022 - The Economic Power of Africa’s Cities](https://doi.org/10.1787/3834ed5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 April 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
