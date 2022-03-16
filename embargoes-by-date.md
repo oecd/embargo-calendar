@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 March 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 March 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 March 2022](#14-march-2022)
 * [15 March 2022](#15-march-2022)
 * [17 March 2022](#17-march-2022)
+* [18 March 2022](#18-march-2022)
 * [21 March 2022](#21-march-2022)
 * [22 March 2022](#22-march-2022)
 * [23 March 2022](#23-march-2022)
@@ -15,125 +15,6 @@ Data generated on | |
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
 * [28 April 2022](#28-april-2022)
-
-------
-
-# 14 March 2022
-
-## [Measuring environmental policy stringency in OECD countries - An update of the OECD composite EPS indicator](https://doi.org/10.1787/90ab82e8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 March 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Resourcing higher education in Ireland - Funding higher education institutions](https://doi.org/10.1787/67dd76e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Mixed-worded scales and acquiescence in educational large-scale assessments](https://doi.org/10.1787/8dd310c0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Taxation of part-time work in the OECD](https://doi.org/10.1787/572b72d3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Mending the Education Divide - Getting Strong Teachers to the Schools That Need Them Most](https://doi.org/10.1787/92b75874-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 February 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -292,7 +173,7 @@ Thursday 17 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
 
 ### Additional Information
 
@@ -301,6 +182,29 @@ Thursday 17 March 2022 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD‑Wirtschaftsausblick, Zwischenausgabe März 2022 - Auswirkungen und Politikimplikationen des Kriegs in der Ukraine](https://doi.org/10.1787/3ecef821-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -323,7 +227,7 @@ Thursday 17 March 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -335,16 +239,16 @@ Thursday 17 March 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -358,18 +262,68 @@ Thursday 17 March 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 18 March 2022
+
+## [What makes students' access to digital learning more equitable?](https://doi.org/10.1787/e8107345-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: China 2022](https://doi.org/10.1787/b0e499cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 18 March 2022 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 27 January 2022 at 20:14
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -396,7 +350,7 @@ Monday 21 March 2022 at 7:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -432,9 +386,9 @@ Monday 21 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 March 2022 at 20:24
+- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 March 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
 
 ### Additional Information
 
