@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 March 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Saturday 19 March 2022 at 0:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Dangerous Fakes - Trade in Counterfeit Goods that Pose Health, Safety and Environmental Risks](https://doi.org/10.1787/117e352b-en)
 
@@ -36,9 +36,9 @@ Thursday 17 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
+- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
@@ -46,7 +46,7 @@ Thursday 17 March 2022 at 10:00 | no launch event
 * Language: *German*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
+* Format: *PDF*
 
 ------
 
@@ -59,9 +59,9 @@ Thursday 17 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
+- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Thursday 17 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
+- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Friday 18 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
@@ -173,16 +173,16 @@ Friday 18 March 2022 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 27 January 2022 at 20:14
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 March 2022 at 21:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 January 2022 at 19:55
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -261,7 +261,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 22 March 2022 at 7:00 | no launch event
+Tuesday 22 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
@@ -288,18 +288,18 @@ Wednesday 23 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -311,18 +311,18 @@ Monday 28 March 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -368,7 +368,7 @@ Friday 1 April 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
