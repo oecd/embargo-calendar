@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 19 March 2022 at 0:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 20 March 2022 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 March 2022](#17-march-2022)
 * [18 March 2022](#18-march-2022)
 * [21 March 2022](#21-march-2022)
 * [22 March 2022](#22-march-2022)
@@ -18,172 +17,7 @@ Data generated on | |
 
 ------
 
-# 17 March 2022
-
-## [Dangerous Fakes - Trade in Counterfeit Goods that Pose Health, Safety and Environmental Risks](https://doi.org/10.1787/117e352b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD‑Wirtschaftsausblick, Zwischenausgabe März 2022 - Wirtschaftliche und soziale Auswirkungen und Politikimplikationen des Kriegs in der Ukraine](https://doi.org/10.1787/3ecef821-de)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2022 - Guerre en Ukraine : Conséquences économiques et sociales et implications pour les politiques publiques](https://doi.org/10.1787/f111a540-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Economic Outlook, Interim Report March 2022 - Economic and Social Impacts and Policy Implications of the War in Ukraine](https://doi.org/10.1787/4181d61b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [The Regulation of Lobbying in Quebec, Canada - Strengthening a Culture of Transparency and Integrity](https://doi.org/10.1787/ec0cfef3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [L'encadrement du lobbying au Québec, Canada - Poursuivre le développement d’une culture de transparence et d’intégrité](https://doi.org/10.1787/dbbc360d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 March 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 18 March 2022
-
-## [What makes students' access to digital learning more equitable?](https://doi.org/10.1787/e8107345-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ## [OECD Economic Surveys: China 2022](https://doi.org/10.1787/b0e499cf-en)
 
@@ -194,7 +28,7 @@ Friday 18 March 2022 at 21:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 21:15
+- [x] Exported to iLibrary Saturday 19 March 2022 at 3:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 18 March 2022 at 23:47
 
@@ -223,7 +57,7 @@ Monday 21 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 March 2022 at 19:56
+- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
 
 ### Additional Information
 
@@ -246,7 +80,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 March 2022 at 19:55
+- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
 
 ### Additional Information
 
@@ -269,7 +103,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 March 2022 at 19:57
+- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
 
 ### Additional Information
 
