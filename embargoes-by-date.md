@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 March 2022 at 20:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 21 March 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 March 2022](#18-march-2022)
 * [21 March 2022](#21-march-2022)
 * [22 March 2022](#22-march-2022)
 * [23 March 2022](#23-march-2022)
@@ -14,33 +13,6 @@ Data generated on | |
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
 * [28 April 2022](#28-april-2022)
-
-------
-
-# 18 March 2022
-
-## [OECD Economic Surveys: China 2022](https://doi.org/10.1787/b0e499cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 18 March 2022 at 21:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 19 March 2022 at 3:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -57,7 +29,7 @@ Monday 21 March 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
+- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
 
 ### Additional Information
 
@@ -80,7 +52,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
+- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
 
 ### Additional Information
 
@@ -103,7 +75,7 @@ Monday 21 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 March 2022 at 19:53
+- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
 
 ### Additional Information
 
@@ -127,8 +99,8 @@ Tuesday 22 March 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 March 2022 at 20:12
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,7 +108,7 @@ Tuesday 22 March 2022 at 8:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
