@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 March 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 22 March 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [¿Cómo va la vida en América Latina? - Medición del bienestar para la formulación de políticas públicas](https://doi.org/10.1787/7f6a948f-es)
 
@@ -84,7 +84,7 @@ Tuesday 22 March 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 21 March 2022 at 20:12
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Wednesday 23 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
+- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
 
 ### Additional Information
 
@@ -174,15 +174,15 @@ Friday 1 April 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 March 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
