@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 March 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
-
-## [¿Cómo va la vida en América Latina? - Medición del bienestar para la formulación de políticas públicas](https://doi.org/10.1787/7f6a948f-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 March 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 March 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Prevention of Tax Treaty Abuse – Fourth Peer Review Report on Treaty Shopping  - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/3dc05e6a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 March 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Prévention de l’utilisation abusive des conventions fiscales – Quatrième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6](https://doi.org/10.1787/3fc9415b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 March 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 March 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 23 March 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Outlook for Southeast Asia, China and India 2022 - Financing Sustainable Recovery from COVID-19](https://doi.org/10.1787/e712f278-en)
 
@@ -107,7 +38,7 @@ Wednesday 23 March 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 23 March 2022 at 19:54
 
 ### Additional Information
 
@@ -139,6 +70,29 @@ Monday 28 March 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Financing SMEs and Entrepreneurs 2022 - An OECD Scoreboard](https://doi.org/10.1787/e9073a0f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 March 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 23 March 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 23 March 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
