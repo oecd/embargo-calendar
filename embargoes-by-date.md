@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 March 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 24 March 2022 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 March 2022](#22-march-2022)
 * [23 March 2022](#23-march-2022)
 * [28 March 2022](#28-march-2022)
 * [29 March 2022](#29-march-2022)
@@ -13,33 +12,6 @@ Data generated on | |
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
 * [28 April 2022](#28-april-2022)
-
-------
-
-# 22 March 2022
-
-## [Economic Outlook for Southeast Asia, China and India 2022 - Financing Sustainable Recovery from COVID-19](https://doi.org/10.1787/e712f278-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 March 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 March 2022 at 20:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -118,7 +90,7 @@ Tuesday 29 March 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -157,14 +129,14 @@ Thursday 31 March 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 1 April 2022 at 9:00 | no launch event
+Friday 1 April 2022 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 March 2022 at 20:15
+- [x] Exported to iLibrary Thursday 24 March 2022 at 20:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 March 2022 at 19:56
+- [x] Exported to OECD.org Thursday 24 March 2022 at 19:54
 
 ### Additional Information
 
