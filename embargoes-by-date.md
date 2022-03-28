@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 March 2022 at 11:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 28 March 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 March 2022](#28-march-2022)
 * [29 March 2022](#29-march-2022)
@@ -27,7 +27,7 @@ Monday 28 March 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
+- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
 
 ### Additional Information
 
@@ -48,9 +48,9 @@ Monday 28 March 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
+- [x] Exported to iLibrary Monday 28 March 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
+- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
 
 ### Additional Information
 
@@ -75,17 +75,17 @@ Tuesday 29 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
+- [x] Exported to iLibrary Monday 28 March 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 March 2022 at 19:54
+- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -403,6 +403,29 @@ Thursday 14 April 2022 at 9:00 | no launch event
 ------
 
 # 27 April 2022
+
+## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
 
