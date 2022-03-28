@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 March 2022 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 28 March 2022 at 11:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 March 2022](#23-march-2022)
 * [28 March 2022](#28-march-2022)
 * [29 March 2022](#29-march-2022)
 * [31 March 2022](#31-march-2022)
@@ -15,34 +14,30 @@ Data generated on | |
 
 ------
 
-# 23 March 2022
+# 28 March 2022
 
-## [Review of Inclusive Education in Portugal](https://doi.org/10.1787/a9c95902-en)
+## [Digitalisation for the transition to a resource efficient and circular economy](https://doi.org/10.1787/6f6d18e7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 23 March 2022 at 10:00 | no launch event
+Monday 28 March 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 March 2022 at 18:16
+- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 March 2022 at 19:54
+- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
-
-------
-
-# 28 March 2022
 
 ## [Decarbonising Buildings in Cities and Regions](https://doi.org/10.1787/a48ce566-en)
 
@@ -55,7 +50,7 @@ Monday 28 March 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 March 2022 at 18:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 March 2022 at 23:47
+- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
 
 ### Additional Information
 
@@ -79,8 +74,8 @@ Tuesday 29 March 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 March 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 March 2022 at 19:54
 
@@ -117,7 +112,7 @@ Thursday 31 March 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -133,16 +128,16 @@ Friday 1 April 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 March 2022 at 20:11
+- [x] FTI loaded 
+- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 March 2022 at 19:54
+- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -451,7 +446,7 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
