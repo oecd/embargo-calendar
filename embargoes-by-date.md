@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 March 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 29 March 2022 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 March 2022](#28-march-2022)
 * [29 March 2022](#29-march-2022)
 * [31 March 2022](#31-march-2022)
 * [1 April 2022](#1-april-2022)
+* [4 April 2022](#4-april-2022)
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
 * [28 April 2022](#28-april-2022)
@@ -75,9 +76,9 @@ Tuesday 29 March 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 March 2022 at 20:19
+- [x] Exported to iLibrary Tuesday 29 March 2022 at 11:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 29 March 2022 at 19:55
 
 ### Additional Information
 
@@ -101,16 +102,16 @@ Thursday 31 March 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 March 2022 at 11:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 29 March 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -139,6 +140,56 @@ Friday 1 April 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 4 April 2022
+
+## [OECD Economic Surveys: Tunisia 2022](https://doi.org/10.1787/7f9459cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Tunisie 2022](https://doi.org/10.1787/69ef3240-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
@@ -423,7 +474,7 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Language: *English || Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
