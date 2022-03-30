@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 March 2022 at 20:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Digitalisation for the transition to a resource efficient and circular economy](https://doi.org/10.1787/6f6d18e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 March 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Decarbonising Buildings in Cities and Regions](https://doi.org/10.1787/a48ce566-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 March 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 March 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 March 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 30 March 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing SMEs and Entrepreneurs 2022 - An OECD Scoreboard](https://doi.org/10.1787/e9073a0f-en)
 
@@ -82,9 +36,9 @@ Thursday 31 March 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 March 2022 at 11:56
+- [x] Exported to iLibrary Wednesday 30 March 2022 at 20:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 March 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 30 March 2022 at 19:56
 
 ### Additional Information
 
