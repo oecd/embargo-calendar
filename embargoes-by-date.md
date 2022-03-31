@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 March 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 31 March 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 March 2022](#29-march-2022)
 * [31 March 2022](#31-march-2022)
 * [1 April 2022](#1-april-2022)
 * [4 April 2022](#4-april-2022)
 * [14 April 2022](#14-april-2022)
 * [27 April 2022](#27-april-2022)
 * [28 April 2022](#28-april-2022)
-
-------
-
-# 29 March 2022
-
-## [Financing SMEs and Entrepreneurs 2022 - An OECD Scoreboard](https://doi.org/10.1787/e9073a0f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 29 March 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 March 2022 at 11:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 March 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -52,9 +24,9 @@ Thursday 31 March 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 March 2022 at 20:14
+- [x] Exported to iLibrary Thursday 31 March 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 March 2022 at 19:56
+- [x] Exported to OECD.org Thursday 31 March 2022 at 19:57
 
 ### Additional Information
 
@@ -81,7 +53,7 @@ Friday 1 April 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Saturday 26 March 2022 at 12:02
+- [x] Exported to OECD.org Thursday 31 March 2022 at 19:57
 
 ### Additional Information
 
