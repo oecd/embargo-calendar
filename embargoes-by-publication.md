@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 March 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 1 April 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Evaluation and Assessment in Education: Bosnia and Herzegovina](https://doi.org/10.1787/a669e5f3-en)
 
@@ -27,26 +27,72 @@ Thursday 31 March 2022 at 9:00 | no launch event
 
 ------
 
-## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
+## [Understanding differences in vaccination uptake among OECD countries](https://doi.org/10.1787/76482043-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 1 April 2022 at 10:00 | no launch event
+Monday 4 April 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 March 2022 at 12:22
+- [x] Exported to iLibrary Friday 1 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 31 March 2022 at 19:57
+- [x] Exported to OECD.org Friday 1 April 2022 at 19:57
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Towards net zero emissions in Denmark](https://doi.org/10.1787/5b40df8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 April 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 April 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 1 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Global supply chains at work - A tale of three products to fight COVID-19](https://doi.org/10.1787/07647bc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 April 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 April 2022 at 20:17
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
 
 ------
 
@@ -58,7 +104,7 @@ Monday 4 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -81,7 +127,7 @@ Monday 4 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -349,6 +395,29 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ------
 
+## [Africa’s Urbanisation Dynamics 2022 - The Economic Power of Africa’s Cities](https://doi.org/10.1787/3834ed5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 April 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
 
 Embargo date | Launch date
@@ -415,28 +484,5 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
-
-------
-
-## [Africa’s Urbanisation Dynamics 2022 - The Economic Power of Africa’s Cities](https://doi.org/10.1787/3834ed5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 April 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
