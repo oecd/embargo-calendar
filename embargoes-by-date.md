@@ -2,40 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 April 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 3 April 2022 at 20:30* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 March 2022](#31-march-2022)
 * [4 April 2022](#4-april-2022)
 * [14 April 2022](#14-april-2022)
 * [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
-
-------
-
-# 31 March 2022
-
-## [OECD Reviews of Evaluation and Assessment in Education: Bosnia and Herzegovina](https://doi.org/10.1787/a669e5f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 31 March 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 March 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 31 March 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -52,7 +24,7 @@ Monday 4 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 April 2022 at 19:57
+- [x] Exported to OECD.org Sunday 3 April 2022 at 19:54
 
 ### Additional Information
 
@@ -75,7 +47,7 @@ Monday 4 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 April 2022 at 19:57
+- [x] Exported to OECD.org Sunday 3 April 2022 at 19:54
 
 ### Additional Information
 
