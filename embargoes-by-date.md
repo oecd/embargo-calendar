@@ -2,13 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 April 2022 at 20:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 7 April 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 April 2022](#6-april-2022)
 * [8 April 2022](#8-april-2022)
 * [12 April 2022](#12-april-2022)
 * [14 April 2022](#14-april-2022)
-* [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
 
 ------
@@ -53,7 +52,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -76,7 +75,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -99,7 +98,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -126,7 +125,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -149,7 +148,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 April 2022 at 19:56
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -172,7 +171,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -196,16 +195,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -219,16 +218,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -242,16 +241,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -265,16 +264,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -288,16 +287,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -312,9 +311,9 @@ Thursday 14 April 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
@@ -334,16 +333,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -357,16 +356,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,16 +379,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -403,16 +402,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -426,43 +425,16 @@ Thursday 14 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 April 2022 at 20:12
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
+- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 26 April 2022
-
-## [Africa’s Urbanisation Dynamics 2022 - The Economic Power of Africa’s Cities](https://doi.org/10.1787/3834ed5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 April 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

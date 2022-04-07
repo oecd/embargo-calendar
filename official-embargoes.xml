@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-04-06T20:29:25.1403913+02:00">
+<report name="official-embargoes" generated="2022-04-07T20:37:49.3025739+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-04-06T18:49:49Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-05T18:15:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-05T17:55:50Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-05T18:15:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-05T17:55:50Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-05T18:15:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-05T17:55:50Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -113,7 +113,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -173,7 +173,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-04T17:56:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -213,7 +213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -227,11 +227,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -247,17 +247,17 @@
     <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95433de8</cell>
   </row>
   <row index="13">
@@ -267,17 +267,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bbeb1ef</cell>
   </row>
   <row index="14">
@@ -287,17 +287,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3524c6f2</cell>
   </row>
   <row index="15">
@@ -307,11 +307,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -327,11 +327,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -347,17 +347,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c95e8d34</cell>
   </row>
   <row index="18">
@@ -367,11 +367,11 @@
     <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -387,11 +387,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -407,17 +407,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dd70534</cell>
   </row>
   <row index="21">
@@ -431,9 +431,9 @@
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -447,17 +447,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2fbef55</cell>
   </row>
   <row index="23">
@@ -467,11 +467,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -487,11 +487,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -507,17 +507,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8d5fe45</cell>
   </row>
   <row index="26">
@@ -527,17 +527,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c071b337</cell>
   </row>
   <row index="27">
@@ -547,11 +547,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -567,11 +567,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -587,17 +587,17 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be0692f7</cell>
   </row>
   <row index="30">
@@ -607,11 +607,11 @@
     <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -627,17 +627,17 @@
     <cell name="subtitle">Cadre inclusif sur le BEPS : Action 14 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-04-06T18:12:57Z</cell>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-06T17:55:47Z</cell>
+    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7865ed0a</cell>
   </row>
   <row index="32">
@@ -647,11 +647,11 @@
     <cell name="subtitle">Inclusive Framework on BEPS: Action 14 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-04-14</cell>
     <cell name="embargo date">2022-04-14T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-07T18:19:15Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -661,46 +661,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/319bf7a8</cell>
   </row>
   <row index="33">
-    <cell name="directorate">Sahel and West Africa Club</cell>
-    <cell name="doi">10.1787/3834ed5b-en</cell>
-    <cell name="title">Africa’s Urbanisation Dynamics 2022 (en)</cell>
-    <cell name="subtitle">The Economic Power of Africa’s Cities (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-04-26</cell>
-    <cell name="embargo date">2022-04-26T12:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65f2ebce</cell>
-  </row>
-  <row index="34">
-    <cell name="directorate">Sahel and West Africa Club</cell>
-    <cell name="doi">10.1787/3834ed5b-en</cell>
-    <cell name="title">Africa’s Urbanisation Dynamics 2022 (en)</cell>
-    <cell name="subtitle">The Economic Power of Africa’s Cities (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-04-26</cell>
-    <cell name="embargo date">2022-04-26T12:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38dc34ab</cell>
-  </row>
-  <row index="35">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/58a2dc35-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022 (es)</cell>
@@ -720,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de1d6b4e</cell>
   </row>
-  <row index="36">
+  <row index="34">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
@@ -740,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40a7ed29</cell>
   </row>
-  <row index="37">
+  <row index="35">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
@@ -760,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53034b45</cell>
   </row>
-  <row index="38">
+  <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/58a2dc35-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022 (es)</cell>
@@ -780,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5827dffd</cell>
   </row>
-  <row index="39">
+  <row index="37">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>
@@ -800,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e91a47c</cell>
   </row>
-  <row index="40">
+  <row index="38">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>
@@ -820,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/757304b9</cell>
   </row>
-  <row index="41">
+  <row index="39">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
