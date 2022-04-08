@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 April 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Helping the Austrian business sector to cope with new opportunities and challenges in Austria](https://doi.org/10.1787/b5cd3c24-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 April 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 April 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 8 April 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A new macroeconomic measure of human capital exploiting PISA and PIAAC: Linking education policies to productivity](https://doi.org/10.1787/a1046e2e-en)
 
@@ -38,7 +15,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
+- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
+- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Friday 8 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 April 2022 at 19:57
+- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
 
 ### Additional Information
 
@@ -413,6 +390,29 @@ Thursday 14 April 2022 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Norway 2022](https://doi.org/10.1787/59e71c13-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 April 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
