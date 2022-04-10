@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 April 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A new macroeconomic measure of human capital exploiting PISA and PIAAC: Linking education policies to productivity](https://doi.org/10.1787/a1046e2e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Boosting productivity in New Zealand by unleashing digitalisation](https://doi.org/10.1787/05cc1b5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The effect of a carbon tax rise on Iceland’s economy](https://doi.org/10.1787/76a7eaed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 April 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 April 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 10 April 2022 at 20:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0abc01c0-en)
 
