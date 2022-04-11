@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-04-10T20:26:29.3241357+02:00">
+<report name="official-embargoes" generated="2022-04-11T20:33:52.9159804+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
+    <cell name="oecd.org last export date">2022-04-11T17:54:45Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
+    <cell name="oecd.org last export date">2022-04-11T17:54:45Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -133,7 +133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-04-04T18:16:31Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-04-07T17:57:01Z</cell>
+    <cell name="oecd.org last export date">2022-04-11T17:54:45Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -581,24 +581,24 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/319bf7a8</cell>
   </row>
   <row index="29">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/59e71c13-en</cell>
-    <cell name="title">OECD Environmental Performance Reviews: Norway 2022 (en)</cell>
-    <cell name="subtitle"/>
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2d9fb06a-en</cell>
+    <cell name="title">The recognition of prior learning (en)</cell>
+    <cell name="subtitle">Validating general competences (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2022-04-22T08:00:00Z</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-04-15</cell>
+    <cell name="embargo date">2022-04-15T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-04-11T18:15:18Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-04-11T17:54:45Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6faca196</cell>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfe5c68b</cell>
   </row>
   <row index="30">
     <cell name="directorate">Environment Directorate</cell>
@@ -606,9 +606,29 @@
     <cell name="title">OECD Environmental Performance Reviews: Norway 2022 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-04-22</cell>
+    <cell name="embargo date">2022-04-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-04-11T18:15:18Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-04-11T17:54:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6faca196</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/59e71c13-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Norway 2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-04-22</cell>
     <cell name="embargo date">2022-04-22T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -620,7 +640,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16553e31</cell>
   </row>
-  <row index="31">
+  <row index="32">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/59e71c13-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Norway 2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-04-22</cell>
+    <cell name="embargo date">2022-04-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7bf22e4</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/59e71c13-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Norway 2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-04-22</cell>
+    <cell name="embargo date">2022-04-22T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c051c040</cell>
+  </row>
+  <row index="34">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/58a2dc35-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022 (es)</cell>
@@ -640,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de1d6b4e</cell>
   </row>
-  <row index="32">
+  <row index="35">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
@@ -660,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40a7ed29</cell>
   </row>
-  <row index="33">
+  <row index="36">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
@@ -680,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53034b45</cell>
   </row>
-  <row index="34">
+  <row index="37">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/58a2dc35-en-es</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022 (es)</cell>
@@ -700,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5827dffd</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>
@@ -720,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e91a47c</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/af4b630d-en</cell>
     <cell name="title">The Short and Winding Road to 2030 (en)</cell>
@@ -740,7 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/757304b9</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2fa2183f-fr</cell>
     <cell name="title">Un chemin court et sinueux jusqu’à 2030 (version abrégée) (fr)</cell>
@@ -759,5 +819,45 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29f86c55</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/50b32331-en</cell>
+    <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
+    <cell name="subtitle">Building Agility for Successful Transitions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-06</cell>
+    <cell name="embargo date">2022-06-05T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/50b32331-en</cell>
+    <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
+    <cell name="subtitle">Building Agility for Successful Transitions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-06</cell>
+    <cell name="embargo date">2022-06-05T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/291d6f25</cell>
   </row>
 </report>
