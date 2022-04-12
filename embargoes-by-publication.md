@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 April 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 12 April 2022 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0abc01c0-en)
 
@@ -15,7 +15,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 April 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 April 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 12 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 April 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 April 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
 
 ### Additional Information
 
@@ -349,6 +349,29 @@ Friday 15 April 2022 at 5:00 | no launch event
 
 ------
 
+## [Multi-dimensional Review of the Western Balkans - From Analysis to Action](https://doi.org/10.1787/8824c5db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 April 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 12 April 2022 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Norway 2022](https://doi.org/10.1787/59e71c13-en)
 
 Embargo date | Launch date
@@ -438,6 +461,52 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 May 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Taxing Wages 2022 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/f7f1e68a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 May 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
