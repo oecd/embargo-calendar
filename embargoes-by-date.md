@@ -2,90 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 April 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 April 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 April 2022](#12-april-2022)
 * [14 April 2022](#14-april-2022)
 * [15 April 2022](#15-april-2022)
+* [19 April 2022](#19-april-2022)
 * [20 April 2022](#20-april-2022)
 * [22 April 2022](#22-april-2022)
 * [27 April 2022](#27-april-2022)
-* [11 May 2022](#11-may-2022)
+* [10 May 2022](#10-may-2022)
 * [19 May 2022](#19-may-2022)
 * [5 June 2022](#5-june-2022)
-
-------
-
-# 12 April 2022
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Gabon 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0abc01c0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 April 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: El Salvador 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/44648523-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 April 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Gabon 2022 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/ceb17521-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 April 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 April 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -102,7 +29,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -125,7 +52,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -148,7 +75,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -171,7 +98,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -194,7 +121,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -217,7 +144,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -240,7 +167,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -263,7 +190,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -286,7 +213,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -309,7 +236,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -332,7 +259,7 @@ Thursday 14 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
@@ -359,11 +286,61 @@ Friday 15 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 April 2022 at 19:54
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 April 2022
+
+## [Making Norway’s housing more affordable and sustainable](https://doi.org/10.1787/c740833e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 April 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Getting on the job ladder: The policy drivers of hiring transitions](https://doi.org/10.1787/0304c673-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 April 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -500,13 +477,13 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 
 ------
 
-# 11 May 2022
+# 10 May 2022
 
 ## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 11 May 2022 at 8:00 | no launch event
+Tuesday 10 May 2022 at 6:00 | no launch event
 
 ### Status Information
 
