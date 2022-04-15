@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 April 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 April 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 April 2022](#14-april-2022)
 * [15 April 2022](#15-april-2022)
@@ -286,7 +286,7 @@ Friday 15 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 April 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
+- [x] Exported to OECD.org Friday 15 April 2022 at 19:59
 
 ### Additional Information
 
