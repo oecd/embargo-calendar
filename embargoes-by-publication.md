@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 April 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 18 April 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Norway’s housing more affordable and sustainable](https://doi.org/10.1787/c740833e-en)
 
@@ -15,7 +15,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
 
 ### Additional Information
 
