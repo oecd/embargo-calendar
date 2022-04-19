@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 April 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 April 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Norway’s housing more affordable and sustainable](https://doi.org/10.1787/c740833e-en)
 
@@ -15,7 +15,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
@@ -58,16 +58,16 @@ Wednesday 20 April 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -96,26 +96,26 @@ Friday 22 April 2022 at 8:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
+## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
+Monday 25 April 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -123,20 +123,20 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
+Wednesday 27 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -146,22 +146,45 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
+Wednesday 27 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -184,6 +207,29 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 May 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

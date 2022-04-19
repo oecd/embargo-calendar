@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 April 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 19 April 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 April 2022](#19-april-2022)
 * [20 April 2022](#20-april-2022)
 * [22 April 2022](#22-april-2022)
+* [25 April 2022](#25-april-2022)
 * [27 April 2022](#27-april-2022)
 * [10 May 2022](#10-may-2022)
 * [19 May 2022](#19-may-2022)
@@ -27,7 +28,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
@@ -50,7 +51,7 @@ Tuesday 19 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 April 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
@@ -74,16 +75,16 @@ Wednesday 20 April 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -118,7 +119,80 @@ Friday 22 April 2022 at 8:00 | no launch event
 
 ------
 
+# 25 April 2022
+
+## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 April 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
 # 27 April 2022
+
+## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Un chemin court et sinueux jusqu’à 2030 (version abrégée) - Mesurer la distance à parcourir pour atteindre les cibles des ODD](https://doi.org/10.1787/2fa2183f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF*
+
+------
 
 ## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
 
@@ -129,63 +203,17 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English || Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Un chemin court et sinueux jusqu’à 2030 (version abrégée) - Mesurer la distance à parcourir pour atteindre les cibles des ODD](https://doi.org/10.1787/2fa2183f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -219,6 +247,29 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 ------
 
 # 19 May 2022
+
+## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 May 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Taxing Wages 2022 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/f7f1e68a-en)
 
