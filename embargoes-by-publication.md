@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 April 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 20 April 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Norway’s housing more affordable and sustainable](https://doi.org/10.1787/c740833e-en)
 
@@ -61,7 +61,7 @@ Wednesday 20 April 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
 
 ### Additional Information
 
@@ -70,6 +70,52 @@ Wednesday 20 April 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Assessing environmental impact of measures in the OECD Green Recovery Database](https://doi.org/10.1787/3f7e2670-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 April 2022 at 7:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy response*
+* Formats: *HTML, PDF*
+
+------
+
+## [The survival of Latvian products and firms in export markets](https://doi.org/10.1787/c304c19c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 April 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -105,7 +151,7 @@ Monday 25 April 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
 
@@ -113,9 +159,101 @@ Monday 25 April 2022 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Wissenschaftliche Weiterbildung und der EU-Rahmen für staatliche Beihilfen - Auswirkungen auf den öffentlichen Hochschulsektor in Brandenburg](https://doi.org/10.1787/5d8eeb73-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 April 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Continuing Education and Training and the EU Framework on State Aid - Implications for the Public Higher Education Sector in Brandenburg](https://doi.org/10.1787/9ec6cb98-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 April 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Zugang zu Hochschulbildung im Bundesland Brandenburg](https://doi.org/10.1787/bc20edb6-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 April 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Accessing Higher Education in the German State of Brandenburg](https://doi.org/10.1787/233e4ad2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 April 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -127,18 +265,18 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -150,16 +288,16 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF*
 
@@ -173,16 +311,16 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English || Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
