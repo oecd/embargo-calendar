@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 April 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 April 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 April 2022](#19-april-2022)
 * [20 April 2022](#20-april-2022)
 * [21 April 2022](#21-april-2022)
 * [22 April 2022](#22-april-2022)
@@ -13,56 +12,6 @@ Data generated on | |
 * [10 May 2022](#10-may-2022)
 * [19 May 2022](#19-may-2022)
 * [5 June 2022](#5-june-2022)
-
-------
-
-# 19 April 2022
-
-## [Making Norway’s housing more affordable and sustainable](https://doi.org/10.1787/c740833e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Getting on the job ladder: The policy drivers of hiring transitions](https://doi.org/10.1787/0304c673-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 April 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -133,7 +82,7 @@ Friday 22 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
 
 ### Additional Information
 
@@ -156,7 +105,7 @@ Friday 22 April 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 April 2022 at 19:58
+- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
 
 ### Additional Information
 
@@ -203,18 +152,18 @@ Monday 25 April 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -227,9 +176,9 @@ Monday 25 April 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
 
 ### Additional Information
 
@@ -237,7 +186,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -260,7 +209,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 * Language: *German*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -272,18 +221,18 @@ Monday 25 April 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -346,7 +295,7 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
 

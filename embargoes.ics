@@ -2,87 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/c740833e-end3e63
-SUMMARY:Making Norway’s housing more affordable 
- and sustainable
-DESCRIPTION:*Making Norway’s housing more affordable
-  and sustainable*\n\nDirectorate: Econom
- ics Department\nLanguage: English\nDOI: 
- https://doi.org/10.1787/c740833e-en\nPub
- lication type: Paper\nReleased as: PDF\n
- \nEmbargo date/time: Tuesday, 19 April 2
- 022, 5:00 (GMT)\n\n\niLibrary export: Th
- ursday, 14 April 2022, 18:19 (GMT)\nFree
- preview export: never\nOECD.org export: 
- Tuesday, 19 April 2022, 17:54 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 20:45, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=c740833e-en.
-DTSTAMP:20220420T204527Z
-DTSTART:20220419T050000Z
-DTEND:20220419T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Making Norway’s housing more a
- ffordable and sustainable
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/0304c673-end3e119
-SUMMARY:Getting on the job ladder: The policy dr
- ivers of hiring transitions
-DESCRIPTION:*Getting on the job ladder: The policy d
- rivers of hiring transitions*\n\nDirecto
- rate: Economics Department\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/0304
- c673-en\nPublication type: Paper\nReleas
- ed as: PDF\n\nEmbargo date/time: Tuesday
- , 19 April 2022, 5:00 (GMT)\n\n\niLibrar
- y export: Thursday, 14 April 2022, 18:19
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Tuesday, 19 April 2022, 17:5
- 4 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:45, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=0304c673-en.
-DTSTAMP:20220420T204527Z
-DTSTART:20220419T050000Z
-DTEND:20220419T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Getting on the job ladder: The
-  policy drivers of hiring transitions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8824c5db-end3e801
+UID:10.1787/8824c5db-end3e689
 SUMMARY:Multi-dimensional Review of the Western 
  Balkans - From Analysis to Action
 DESCRIPTION:*Multi-dimensional Review of the Western
@@ -100,7 +20,7 @@ DESCRIPTION:*Multi-dimensional Review of the Western
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:45, it is updated each night
+ rnoon at 20:37, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -109,7 +29,7 @@ DESCRIPTION:*Multi-dimensional Review of the Western
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=8824c5db
  -en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220420T060000Z
 DTEND:20220420T061500Z
 TRANSP:TRANSPARENT
@@ -124,7 +44,7 @@ DESCRIPTION:Reminder: Multi-dimensional Review of th
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f7e2670-end3e1484
+UID:10.1787/3f7e2670-end3e1374
 SUMMARY:Assessing environmental impact of measur
  es in the OECD Green Recovery Database
 DESCRIPTION:*Assessing environmental impact of measu
@@ -141,7 +61,7 @@ DESCRIPTION:*Assessing environmental impact of measu
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:45,
+ s correct as of this afternoon at 20:37,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -150,7 +70,7 @@ DESCRIPTION:*Assessing environmental impact of measu
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=3f7e2670-en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220421T071500Z
 DTEND:20220421T073000Z
 TRANSP:TRANSPARENT
@@ -165,7 +85,7 @@ DESCRIPTION:Reminder: Assessing environmental impact
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c304c19c-end3e1593
+UID:10.1787/c304c19c-end3e1482
 SUMMARY:The survival of Latvian products and fir
  ms in export markets
 DESCRIPTION:*The survival of Latvian products and fi
@@ -177,21 +97,21 @@ DESCRIPTION:*The survival of Latvian products and fi
  il 2022, 5:00 (GMT)\n\n\niLibrary export
  : Wednesday, 20 April 2022, 18:21 (GMT)\
  nFreepreview export: never\nOECD.org exp
- ort: Wednesday, 20 April 2022, 17:57 (GM
- T)\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:45, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=c304c19c-en.
-DTSTAMP:20220420T204527Z
+ ort: Thursday, 21 April 2022, 17:58 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:37, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=c304c19c-en.
+DTSTAMP:20220421T203748Z
 DTSTART:20220422T050000Z
 DTEND:20220422T051500Z
 TRANSP:TRANSPARENT
@@ -205,7 +125,7 @@ DESCRIPTION:Reminder: The survival of Latvian produc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/59e71c13-end3e2740
+UID:10.1787/59e71c13-end3e2630
 SUMMARY:OECD Environmental Performance Reviews: 
  Norway 2022
 DESCRIPTION:*OECD Environmental Performance Reviews:
@@ -217,21 +137,21 @@ DESCRIPTION:*OECD Environmental Performance Reviews:
  : Friday, 22 April 2022, 8:00 (GMT)\n\n\
  niLibrary export: Wednesday, 13 April 20
  22, 18:21 (GMT)\nFreepreview export: nev
- er\nOECD.org export: Wednesday, 13 April
-  2022, 17:58 (GMT)\nFTI loaded: ✓\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 20:45, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=59e71c13-en.
-DTSTAMP:20220420T204527Z
+ er\nOECD.org export: Thursday, 21 April 
+ 2022, 17:58 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:37, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=59e71c13-en.
+DTSTAMP:20220421T203748Z
 DTSTART:20220422T080000Z
 DTEND:20220422T081500Z
 TRANSP:TRANSPARENT
@@ -245,7 +165,7 @@ DESCRIPTION:Reminder: OECD Environmental Performance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8c9ff5b-end3e7267
+UID:10.1787/e8c9ff5b-end3e7157
 SUMMARY:Assessing Tax Compliance and Illicit Fin
  ancial Flows in South Africa
 DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
@@ -264,7 +184,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:45, it is updated each ni
+ fternoon at 20:37, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -273,7 +193,7 @@ DESCRIPTION:*Assessing Tax Compliance and Illicit Fi
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=e8c9f
  f5b-en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220425T060000Z
 DTEND:20220425T061500Z
 TRANSP:TRANSPARENT
@@ -287,7 +207,7 @@ DESCRIPTION:Reminder: Assessing Tax Compliance and I
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5d8eeb73-ded3e8415
+UID:10.1787/5d8eeb73-ded3e8304
 SUMMARY:Wissenschaftliche Weiterbildung und der 
  EU-Rahmen für staatliche Beihilfen - Aus
  wirkungen auf den öffentlichen Hochschul
@@ -299,24 +219,26 @@ DESCRIPTION:*Wissenschaftliche Weiterbildung und der
  Directorate for Education and Skills\nLa
  nguage: German\nDOI: https://doi.org/10.
  1787/5d8eeb73-de\nPublication type: Book
- \nReleased as: PDF\n\nEmbargo date/time:
-  Monday, 25 April 2022, 13:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:45, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=5d8eeb73-de.
-DTSTAMP:20220420T204527Z
+ \nReleased as: ePub, HTML, Paperback, PD
+ F\n\nEmbargo date/time: Monday, 25 April
+  2022, 13:00 (GMT)\n\n\niLibrary export:
+  Thursday, 21 April 2022, 18:19 (GMT)\nF
+ reepreview export: never\nOECD.org expor
+ t: Thursday, 21 April 2022, 17:58 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:37, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=5d8eeb73-de.
+DTSTAMP:20220421T203748Z
 DTSTART:20220425T130000Z
 DTEND:20220425T131500Z
 TRANSP:TRANSPARENT
@@ -332,7 +254,7 @@ DESCRIPTION:Reminder: Wissenschaftliche Weiterbildun
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9ec6cb98-end3e8685
+UID:10.1787/9ec6cb98-end3e9612
 SUMMARY:Continuing Education and Training and th
  e EU Framework on State Aid - Implicatio
  ns for the Public Higher Education Secto
@@ -344,26 +266,26 @@ DESCRIPTION:*Continuing Education and Training and t
  torate for Education and Skills\nLanguag
  e: English\nDOI: https://doi.org/10.1787
  /9ec6cb98-en\nPublication type: Book\nRe
- leased as: ePub, HTML, PDF\n\nEmbargo da
- te/time: Monday, 25 April 2022, 13:00 (G
- MT)\n\n\niLibrary export: Wednesday, 20 
- April 2022, 18:21 (GMT)\nFreepreview exp
- ort: never\nOECD.org export: Wednesday, 
- 20 April 2022, 17:57 (GMT)\nFTI loaded: 
- ✓\n\nFor more information see: https://o
- ecd.github.io/embargo-calendar/embargoes
- -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 20:45, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=9ec6cb
- 98-en.
-DTSTAMP:20220420T204527Z
+ leased as: ePub, HTML, Paperback, PDF\n\
+ nEmbargo date/time: Monday, 25 April 202
+ 2, 13:00 (GMT)\n\n\niLibrary export: Thu
+ rsday, 21 April 2022, 18:19 (GMT)\nFreep
+ review export: never\nOECD.org export: T
+ hursday, 21 April 2022, 17:58 (GMT)\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 20:37, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9ec6cb98-en.
+DTSTAMP:20220421T203748Z
 DTSTART:20220425T130000Z
 DTEND:20220425T131500Z
 TRANSP:TRANSPARENT
@@ -379,7 +301,7 @@ DESCRIPTION:Reminder: Continuing Education and Train
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc20edb6-ded3e9231
+UID:10.1787/bc20edb6-ded3e12335
 SUMMARY:Zugang zu Hochschulbildung im Bundesland
   Brandenburg
 DESCRIPTION:*Zugang zu Hochschulbildung im Bundeslan
@@ -387,25 +309,25 @@ DESCRIPTION:*Zugang zu Hochschulbildung im Bundeslan
  te for Education and Skills\nLanguage: G
  erman\nDOI: https://doi.org/10.1787/bc20
  edb6-de\nPublication type: Book\nRelease
- d as: PDF\n\nEmbargo date/time: Monday, 
- 25 April 2022, 13:00 (GMT)\n\n\niLibrary
-  export: Wednesday, 20 April 2022, 18:21
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Wednesday, 20 April 2022, 17
- :57 (GMT)\nFTI loaded: ✗\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:45,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=bc20edb6-de.
-DTSTAMP:20220420T204527Z
+ d as: Paperback, PDF\n\nEmbargo date/tim
+ e: Monday, 25 April 2022, 13:00 (GMT)\n\
+ n\niLibrary export: Wednesday, 20 April 
+ 2022, 18:21 (GMT)\nFreepreview export: n
+ ever\nOECD.org export: Wednesday, 20 Apr
+ il 2022, 17:57 (GMT)\nFTI loaded: ✗\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 20:37, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=bc20edb6-de.
+DTSTAMP:20220421T203748Z
 DTSTART:20220425T130000Z
 DTEND:20220425T131500Z
 TRANSP:TRANSPARENT
@@ -419,7 +341,7 @@ DESCRIPTION:Reminder: Zugang zu Hochschulbildung im
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/233e4ad2-end3e9339
+UID:10.1787/233e4ad2-end3e12716
 SUMMARY:Accessing Higher Education in the German
   State of Brandenburg
 DESCRIPTION:*Accessing Higher Education in the Germa
@@ -427,25 +349,26 @@ DESCRIPTION:*Accessing Higher Education in the Germa
  Directorate for Education and Skills\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/233e4ad2-en\nPublication type: Boo
- k\nReleased as: PDF\n\nEmbargo date/time
- : Monday, 25 April 2022, 13:00 (GMT)\n\n
- \niLibrary export: Wednesday, 20 April 2
- 022, 18:21 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: Wednesday, 20 Apri
- l 2022, 17:57 (GMT)\nFTI loaded: ✗\n\nFo
- r more information see: https://oecd.git
- hub.io/embargo-calendar/embargoes-by-pub
- lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 20:45, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=233e4ad2-en.
-DTSTAMP:20220420T204527Z
+ k\nReleased as: ePub, HTML, Paperback, P
+ DF\n\nEmbargo date/time: Monday, 25 Apri
+ l 2022, 13:00 (GMT)\n\n\niLibrary export
+ : Thursday, 21 April 2022, 18:19 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: Thursday, 21 April 2022, 17:58 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:37, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=233e4ad2-en.
+DTSTAMP:20220421T203748Z
 DTSTART:20220425T130000Z
 DTEND:20220425T131500Z
 TRANSP:TRANSPARENT
@@ -459,7 +382,7 @@ DESCRIPTION:Reminder: Accessing Higher Education in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af4b630d-end3e14277
+UID:10.1787/af4b630d-end3e18413
 SUMMARY:The Short and Winding Road to 2030 - Mea
  suring Distance to the SDG Targets
 DESCRIPTION:*The Short and Winding Road to 2030 - Me
@@ -479,7 +402,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:45, it is updated each n
+ afternoon at 20:37, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -488,7 +411,7 @@ DESCRIPTION:*The Short and Winding Road to 2030 - Me
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=af4b
  630d-en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220427T090000Z
 DTEND:20220427T091500Z
 TRANSP:TRANSPARENT
@@ -503,7 +426,7 @@ DESCRIPTION:Reminder: The Short and Winding Road to
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2fa2183f-frd3e16829
+UID:10.1787/2fa2183f-frd3e20966
 SUMMARY:Un chemin court et sinueux jusqu’à 2030 
  (version abrégée) - Mesurer la distance 
  à parcourir pour atteindre les cibles de
@@ -526,7 +449,7 @@ DESCRIPTION:*Un chemin court et sinueux jusqu’à 2030
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:45, it is updated each ni
+ fternoon at 20:37, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -535,7 +458,7 @@ DESCRIPTION:*Un chemin court et sinueux jusqu’à 2030
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=2fa21
  83f-fr.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220427T090000Z
 DTEND:20220427T091500Z
 TRANSP:TRANSPARENT
@@ -551,7 +474,7 @@ DESCRIPTION:Reminder: Un chemin court et sinueux jus
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/58a2dc35-en-esd3e17751
+UID:10.1787/58a2dc35-en-esd3e21889
 SUMMARY:Revenue Statistics in Latin America and 
  the Caribbean 2022 (en) || Estadísticas 
  tributarias en América Latina y el Carib
@@ -565,24 +488,24 @@ DESCRIPTION:*Revenue Statistics in Latin America and
  .1787/58a2dc35-en-es\nPublication type: 
  Book\nReleased as: Paperback, PDF\n\nEmb
  argo date/time: Wednesday, 27 April 2022
- , 14:00 (GMT)\n\n\niLibrary export: Wedn
- esday, 20 April 2022, 18:21 (GMT)\nFreep
- review export: never\nOECD.org export: W
- ednesday, 20 April 2022, 17:57 (GMT)\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 20:45, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=58a2dc35-en-es.
-DTSTAMP:20220420T204527Z
+ , 14:00 (GMT)\n\n\niLibrary export: Thur
+ sday, 21 April 2022, 18:19 (GMT)\nFreepr
+ eview export: never\nOECD.org export: We
+ dnesday, 20 April 2022, 17:57 (GMT)\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 20:37, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=58a2dc35-en-es.
+DTSTAMP:20220421T203748Z
 DTSTART:20220427T140000Z
 DTEND:20220427T141500Z
 TRANSP:TRANSPARENT
@@ -598,7 +521,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Latin Am
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3854026c-end3e17806
+UID:10.1787/3854026c-end3e21944
 SUMMARY:Management of Pharmaceutical Household W
  aste - Limiting Environmental Impacts of
   Unused or Expired Medicine
@@ -617,7 +540,7 @@ DESCRIPTION:*Management of Pharmaceutical Household
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:45, it is updated each night; therefor
+ 0:37, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -625,7 +548,7 @@ DESCRIPTION:*Management of Pharmaceutical Household
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=3854026c-en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220510T060000Z
 DTEND:20220510T061500Z
 TRANSP:TRANSPARENT
@@ -640,7 +563,7 @@ DESCRIPTION:Reminder: Management of Pharmaceutical H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd7faa8e-frd3e17966
+UID:10.1787/cd7faa8e-frd3e22104
 SUMMARY:Les impôts sur les salaires 2022 - L'imp
  act du COVID-19 sur le coin fiscal dans 
  les pays de l’OCDE 
@@ -658,7 +581,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:45, it
+ orrect as of this afternoon at 20:37, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -667,7 +590,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=cd7faa8e-fr.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220519T090000Z
 DTEND:20220519T091500Z
 TRANSP:TRANSPARENT
@@ -682,7 +605,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f7f1e68a-end3e18019
+UID:10.1787/f7f1e68a-end3e22157
 SUMMARY:Taxing Wages 2022 - Impact of COVID-19 o
  n the Tax Wedge in OECD Countries
 DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19 
@@ -699,7 +622,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:45, it is updated each night; t
+ on at 20:37, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -708,7 +631,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=f7f1e68a-en
  .
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220519T090000Z
 DTEND:20220519T091500Z
 TRANSP:TRANSPARENT
@@ -723,7 +646,7 @@ DESCRIPTION:Reminder: Taxing Wages 2022 - Impact of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e18179
+UID:10.1787/50b32331-end3e22316
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -741,7 +664,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:45, it is
+ ect as of this afternoon at 20:37, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -750,7 +673,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=50b32331-en.
-DTSTAMP:20220420T204527Z
+DTSTAMP:20220421T203748Z
 DTSTART:20220605T220000Z
 DTEND:20220605T221500Z
 TRANSP:TRANSPARENT
