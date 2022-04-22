@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 April 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multi-dimensional Review of the Western Balkans - From Analysis to Action](https://doi.org/10.1787/8824c5db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 April 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 April 2022 at 20:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 22 April 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing environmental impact of measures in the OECD Green Recovery Database](https://doi.org/10.1787/3f7e2670-en)
 
@@ -36,7 +13,7 @@ Thursday 21 April 2022 at 7:15 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -61,7 +38,7 @@ Friday 22 April 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Friday 22 April 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
 
 ### Additional Information
 
@@ -173,18 +150,18 @@ Monday 25 April 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -208,6 +185,29 @@ Monday 25 April 2022 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [What can we do to ensure a level playing field for all students?](https://doi.org/10.1787/e297c355-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 April 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
