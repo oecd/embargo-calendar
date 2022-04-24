@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 April 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Assessing environmental impact of measures in the OECD Green Recovery Database](https://doi.org/10.1787/3f7e2670-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 April 2022 at 7:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-## [The survival of Latvian products and firms in export markets](https://doi.org/10.1787/c304c19c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Norway 2022](https://doi.org/10.1787/59e71c13-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 April 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 24 April 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
 
@@ -84,7 +15,7 @@ Monday 25 April 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 

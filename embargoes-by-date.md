@@ -2,93 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 April 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 24 April 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 April 2022](#21-april-2022)
-* [22 April 2022](#22-april-2022)
 * [25 April 2022](#25-april-2022)
 * [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
 * [10 May 2022](#10-may-2022)
 * [19 May 2022](#19-may-2022)
 * [5 June 2022](#5-june-2022)
-
-------
-
-# 21 April 2022
-
-## [Assessing environmental impact of measures in the OECD Green Recovery Database](https://doi.org/10.1787/3f7e2670-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 April 2022 at 7:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy response*
-* Formats: *HTML, PDF*
-
-------
-
-------
-
-# 22 April 2022
-
-## [The survival of Latvian products and firms in export markets](https://doi.org/10.1787/c304c19c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Norway 2022](https://doi.org/10.1787/59e71c13-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 April 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -105,7 +26,7 @@ Monday 25 April 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 April 2022 at 19:54
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -128,7 +49,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -151,7 +72,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -174,7 +95,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
@@ -197,7 +118,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 April 2022 at 19:58
+- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
 
 ### Additional Information
 
