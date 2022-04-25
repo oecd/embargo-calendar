@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 April 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 25 April 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 April 2022](#25-april-2022)
 * [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
+* [28 April 2022](#28-april-2022)
 * [10 May 2022](#10-may-2022)
-* [19 May 2022](#19-may-2022)
+* [24 May 2022](#24-may-2022)
 * [5 June 2022](#5-june-2022)
 
 ------
@@ -26,7 +27,7 @@ Monday 25 April 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -47,9 +48,9 @@ Monday 25 April 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
+- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -72,7 +73,7 @@ Monday 25 April 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -93,9 +94,9 @@ Monday 25 April 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
+- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -116,9 +117,9 @@ Monday 25 April 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
+- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -145,7 +146,7 @@ Tuesday 26 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 April 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
 
 ### Additional Information
 
@@ -232,6 +233,33 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 
 ------
 
+# 28 April 2022
+
+## [Informal employment and the social contract - An individual-level perspective](https://doi.org/10.1787/75381956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 April 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 10 May 2022
 
 ## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
@@ -259,13 +287,13 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 
 ------
 
-# 19 May 2022
+# 24 May 2022
 
 ## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 19 May 2022 at 9:00 | no launch event
+Tuesday 24 May 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -288,7 +316,7 @@ Thursday 19 May 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 19 May 2022 at 9:00 | no launch event
+Tuesday 24 May 2022 at 9:00 | no launch event
 
 ### Status Information
 
