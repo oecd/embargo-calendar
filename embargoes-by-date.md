@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 April 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 April 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 April 2022](#25-april-2022)
 * [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
-* [28 April 2022](#28-april-2022)
 * [10 May 2022](#10-may-2022)
 * [24 May 2022](#24-may-2022)
 * [5 June 2022](#5-june-2022)
+* [15 June 2022](#15-june-2022)
 
 ------
 
@@ -146,7 +146,7 @@ Tuesday 26 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 April 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
 
 ### Additional Information
 
@@ -173,7 +173,7 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
 
 ### Additional Information
 
@@ -196,7 +196,7 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
 
 ### Additional Information
 
@@ -219,7 +219,7 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 April 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
 
 ### Additional Information
 
@@ -228,33 +228,6 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 28 April 2022
-
-## [Informal employment and the social contract - An individual-level perspective](https://doi.org/10.1787/75381956-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 April 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
 
 ------
 
@@ -355,6 +328,33 @@ Sunday 5 June 2022 at 22:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 June 2022
+
+## [Tax Administration 2022 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/1e797131-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
