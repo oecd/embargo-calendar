@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 April 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Assessing Tax Compliance and Illicit Financial Flows in South Africa](https://doi.org/10.1787/e8c9ff5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 April 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Wissenschaftliche Weiterbildung und der EU-Rahmen für staatliche Beihilfen - Auswirkungen auf den öffentlichen Hochschulsektor in Brandenburg](https://doi.org/10.1787/5d8eeb73-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 April 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Continuing Education and Training and the EU Framework on State Aid - Implications for the Public Higher Education Sector in Brandenburg](https://doi.org/10.1787/9ec6cb98-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 April 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Zugang zu Hochschulbildung im Bundesland Brandenburg](https://doi.org/10.1787/bc20edb6-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 April 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Accessing Higher Education in the German State of Brandenburg](https://doi.org/10.1787/233e4ad2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 April 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 April 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 27 April 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [What can we do to ensure a level playing field for all students?](https://doi.org/10.1787/e297c355-en)
 
@@ -153,7 +38,7 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
 
 ### Additional Information
 
@@ -176,7 +61,7 @@ Wednesday 27 April 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
 
 ### Additional Information
 
@@ -199,7 +84,7 @@ Wednesday 27 April 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
 
 ### Additional Information
 
@@ -230,6 +115,29 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Building on COVID-19's Innovation Momentum for Digital, Inclusive Education](https://doi.org/10.1787/24202496-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 May 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -299,6 +207,29 @@ Sunday 5 June 2022 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
