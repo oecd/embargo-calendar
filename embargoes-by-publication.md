@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 April 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [What can we do to ensure a level playing field for all students?](https://doi.org/10.1787/e297c355-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 28 April 2022 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
 
@@ -254,5 +231,28 @@ Wednesday 15 June 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 June 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------

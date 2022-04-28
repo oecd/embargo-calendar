@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 April 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 April 2022 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 April 2022](#26-april-2022)
 * [27 April 2022](#27-april-2022)
 * [10 May 2022](#10-may-2022)
 * [11 May 2022](#11-may-2022)
@@ -12,33 +11,7 @@ Data generated on | |
 * [5 June 2022](#5-june-2022)
 * [10 June 2022](#10-june-2022)
 * [15 June 2022](#15-june-2022)
-
-------
-
-# 26 April 2022
-
-## [What can we do to ensure a level playing field for all students?](https://doi.org/10.1787/e297c355-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 April 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 April 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [24 June 2022](#24-june-2022)
 
 ------
 
@@ -295,5 +268,32 @@ Wednesday 15 June 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 June 2022
+
+## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 June 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
