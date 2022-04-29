@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 April 2022 at 20:48* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 April 2022 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 April 2022](#27-april-2022)
 * [10 May 2022](#10-may-2022)
 * [11 May 2022](#11-may-2022)
 * [24 May 2022](#24-may-2022)
@@ -12,79 +11,6 @@ Data generated on | |
 * [10 June 2022](#10-june-2022)
 * [15 June 2022](#15-june-2022)
 * [24 June 2022](#24-june-2022)
-
-------
-
-# 27 April 2022
-
-## [The Short and Winding Road to 2030 - Measuring Distance to the SDG Targets](https://doi.org/10.1787/af4b630d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Un chemin court et sinueux jusqu’à 2030 (version abrégée) - Mesurer la distance à parcourir pour atteindre les cibles des ODD](https://doi.org/10.1787/2fa2183f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 April 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 April 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2022 (en) || Estadísticas tributarias en América Latina y el Caribe 2022](https://doi.org/10.1787/58a2dc35-en-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 April 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 April 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 April 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -136,7 +62,7 @@ Wednesday 11 May 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

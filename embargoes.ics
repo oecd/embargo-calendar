@@ -2,146 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/af4b630d-end3e5248
-SUMMARY:The Short and Winding Road to 2030 - Mea
- suring Distance to the SDG Targets
-DESCRIPTION:*The Short and Winding Road to 2030 - Me
- asuring Distance to the SDG Targets*\n\n
- Directorate: Centre for Well-Being, Incl
- usion, Sustainability and Equal Opportun
- ity\nLanguage: English\nDOI: https://doi
- .org/10.1787/af4b630d-en\nPublication ty
- pe: Stand-alone monograph\nReleased as: 
- ePub, HTML, Paperback, PDF\n\nEmbargo da
- te/time: Wednesday, 27 April 2022, 9:00 
- (GMT)\n\n\niLibrary export: Wednesday, 2
- 0 April 2022, 18:21 (GMT)\nFreepreview e
- xport: never\nOECD.org export: Wednesday
- , 27 April 2022, 17:58 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 20:48, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=af4b
- 630d-en.
-DTSTAMP:20220428T204825Z
-DTSTART:20220427T090000Z
-DTEND:20220427T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: The Short and Winding Road to 
- 2030 - Measuring Distance to the SDG Tar
- gets
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/2fa2183f-frd3e7983
-SUMMARY:Un chemin court et sinueux jusqu’à 2030 
- (version abrégée) - Mesurer la distance 
- à parcourir pour atteindre les cibles de
- s ODD
-DESCRIPTION:*Un chemin court et sinueux jusqu’à 2030
-  (version abrégée) - Mesurer la distance
-  à parcourir pour atteindre les cibles d
- es ODD*\n\nDirectorate: Centre for Well-
- Being, Inclusion, Sustainability and Equ
- al Opportunity\nLanguage: French\nDOI: h
- ttps://doi.org/10.1787/2fa2183f-fr\nPubl
- ication type: Stand-alone monograph\nRel
- eased as: ePub, HTML, PDF\n\nEmbargo dat
- e/time: Wednesday, 27 April 2022, 9:00 (
- GMT)\n\n\niLibrary export: Wednesday, 20
-  April 2022, 18:21 (GMT)\nFreepreview ex
- port: never\nOECD.org export: Wednesday,
-  27 April 2022, 17:58 (GMT)\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 20:48, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=2fa21
- 83f-fr.
-DTSTAMP:20220428T204825Z
-DTSTART:20220427T090000Z
-DTEND:20220427T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Un chemin court et sinueux jus
- qu’à 2030 (version abrégée) - Mesurer la
-  distance à parcourir pour atteindre les
-  cibles des ODD
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/58a2dc35-en-esd3e8968
-SUMMARY:Revenue Statistics in Latin America and 
- the Caribbean 2022 (en) || Estadísticas 
- tributarias en América Latina y el Carib
- e 2022
-DESCRIPTION:*Revenue Statistics in Latin America and
-  the Caribbean 2022 (en) || Estadísticas
-  tributarias en América Latina y el Cari
- be 2022*\n\nDirectorate: Centre for Tax 
- Policy and Administration\nLanguage: Eng
- lish || Spanish\nDOI: https://doi.org/10
- .1787/58a2dc35-en-es\nPublication type: 
- Book\nReleased as: Paperback, PDF\n\nEmb
- argo date/time: Wednesday, 27 April 2022
- , 14:00 (GMT)\n\n\niLibrary export: Thur
- sday, 21 April 2022, 18:19 (GMT)\nFreepr
- eview export: never\nOECD.org export: We
- dnesday, 27 April 2022, 17:58 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 20:48, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=58a2dc35-en-es.
-DTSTAMP:20220428T204825Z
-DTSTART:20220427T140000Z
-DTEND:20220427T141500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Revenue Statistics in Latin Am
- erica and the Caribbean 2022 (en) || Est
- adísticas tributarias en América Latina 
- y el Caribe 2022
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/3854026c-end3e9025
+UID:10.1787/3854026c-end3e63
 SUMMARY:Management of Pharmaceutical Household W
  aste - Limiting Environmental Impacts of
   Unused or Expired Medicine
@@ -160,7 +21,7 @@ DESCRIPTION:*Management of Pharmaceutical Household
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:48, it is updated each night; therefor
+ 0:36, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -168,7 +29,7 @@ DESCRIPTION:*Management of Pharmaceutical Household
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=3854026c-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220510T060000Z
 DTEND:20220510T061500Z
 TRANSP:TRANSPARENT
@@ -183,7 +44,7 @@ DESCRIPTION:Reminder: Management of Pharmaceutical H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/24202496-end3e9132
+UID:10.1787/24202496-end3e169
 SUMMARY:Building on COVID-19's Innovation Moment
  um for Digital, Inclusive Education
 DESCRIPTION:*Building on COVID-19's Innovation Momen
@@ -191,24 +52,25 @@ DESCRIPTION:*Building on COVID-19's Innovation Momen
  nDirectorate: Directorate for Education 
  and Skills\nLanguage: English\nDOI: http
  s://doi.org/10.1787/24202496-en\nPublica
- tion type: Book\nReleased as: Paperback,
-  PDF\n\nEmbargo date/time: Wednesday, 11
-  May 2022, 7:00 (GMT)\n\n\niLibrary expo
- rt: never\nFreepreview export: never\nOE
- CD.org export: never\nFTI loaded: ✗\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 20:48, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=24202496-en.
-DTSTAMP:20220428T204825Z
+ tion type: Book\nReleased as: ePub, HTML
+ , Paperback, PDF\n\nEmbargo date/time: W
+ ednesday, 11 May 2022, 7:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 20:36, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 24202496-en.
+DTSTAMP:20220429T203649Z
 DTSTART:20220511T070000Z
 DTEND:20220511T071500Z
 TRANSP:TRANSPARENT
@@ -223,7 +85,7 @@ DESCRIPTION:Reminder: Building on COVID-19's Innovat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd7faa8e-frd3e9289
+UID:10.1787/cd7faa8e-frd3e431
 SUMMARY:Les impôts sur les salaires 2022 - L'imp
  act du COVID-19 sur le coin fiscal dans 
  les pays de l’OCDE 
@@ -241,7 +103,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:48, it 
+ rrect as of this afternoon at 20:36, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -250,7 +112,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=cd7faa8e-fr.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220524T090000Z
 DTEND:20220524T091500Z
 TRANSP:TRANSPARENT
@@ -265,7 +127,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f7f1e68a-end3e9342
+UID:10.1787/f7f1e68a-end3e484
 SUMMARY:Taxing Wages 2022 - Impact of COVID-19 o
  n the Tax Wedge in OECD Countries
 DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19 
@@ -282,7 +144,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:48, it is updated each night; th
+ n at 20:36, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -290,7 +152,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=f7f1e68a-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220524T090000Z
 DTEND:20220524T091500Z
 TRANSP:TRANSPARENT
@@ -305,7 +167,7 @@ DESCRIPTION:Reminder: Taxing Wages 2022 - Impact of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e9502
+UID:10.1787/50b32331-end3e644
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -323,7 +185,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:48, it is
+ ect as of this afternoon at 20:36, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -332,7 +194,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=50b32331-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220605T220000Z
 DTEND:20220605T221500Z
 TRANSP:TRANSPARENT
@@ -347,7 +209,7 @@ DESCRIPTION:Reminder: OECD Reviews of Innovation Pol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b046dfe-end3e9607
+UID:10.1787/0b046dfe-end3e749
 SUMMARY:Digital Trade Review of Brazil
 DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ctorate: Trade and Agriculture Directora
@@ -362,7 +224,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:48, it is updated each ni
+ fternoon at 20:36, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -371,7 +233,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=0b046
  dfe-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220610T060000Z
 DTEND:20220610T061500Z
 TRANSP:TRANSPARENT
@@ -384,7 +246,7 @@ DESCRIPTION:Reminder: Digital Trade Review of Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1e797131-end3e9659
+UID:10.1787/1e797131-end3e801
 SUMMARY:Tax Administration 2022 - Comparative In
  formation on OECD and other Advanced and
   Emerging Economies
@@ -402,7 +264,7 @@ DESCRIPTION:*Tax Administration 2022 - Comparative I
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:48,
+ s correct as of this afternoon at 20:36,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -411,7 +273,7 @@ DESCRIPTION:*Tax Administration 2022 - Comparative I
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=1e797131-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220615T090000Z
 DTEND:20220615T091500Z
 TRANSP:TRANSPARENT
@@ -426,7 +288,7 @@ DESCRIPTION:Reminder: Tax Administration 2022 - Comp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e53901b5-end3e9766
+UID:10.1787/e53901b5-end3e908
 SUMMARY:Gender Equality in Peru - Towards a Bett
  er Sharing of Paid and Unpaid Work
 DESCRIPTION:*Gender Equality in Peru - Towards a Bet
@@ -443,7 +305,7 @@ DESCRIPTION:*Gender Equality in Peru - Towards a Bet
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:48, it is u
+ t as of this afternoon at 20:36, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -452,7 +314,7 @@ DESCRIPTION:*Gender Equality in Peru - Towards a Bet
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=e53901b5-en.
-DTSTAMP:20220428T204825Z
+DTSTAMP:20220429T203649Z
 DTSTART:20220624T100000Z
 DTEND:20220624T101500Z
 TRANSP:TRANSPARENT
