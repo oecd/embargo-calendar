@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 April 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 1 May 2022 at 20:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
 
