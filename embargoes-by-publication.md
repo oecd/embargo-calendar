@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 May 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 3 May 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Changes in the geography housing demand after the onset of COVID-19: First results from large metropolitan areas in 13 OECD countries](https://doi.org/10.1787/9a99131f-en)
 
@@ -15,7 +15,7 @@ Tuesday 3 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 2 May 2022 at 20:10
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 3 May 2022 at 20:00
 
 ### Additional Information
 
@@ -35,18 +35,18 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 May 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 3 May 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -54,11 +54,11 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 11 May 2022 at 7:00 | no launch event
+Thursday 12 May 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -69,7 +69,7 @@ Wednesday 11 May 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -188,6 +188,29 @@ Wednesday 15 June 2022 at 9:00 | no launch event
 
 ------
 
+## [Open Government Review of Brazil  - Towards an Integrated Open Government Agenda](https://doi.org/10.1787/3f9009d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
 
 Embargo date | Launch date
@@ -205,6 +228,29 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Igualdad de género en el Perú - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/34a988b3-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 June 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
