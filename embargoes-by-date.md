@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 May 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 4 May 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 May 2022](#3-may-2022)
 * [10 May 2022](#10-may-2022)
@@ -54,7 +54,7 @@ Tuesday 10 May 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 May 2022 at 20:25
+- [x] Exported to iLibrary Wednesday 4 May 2022 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 3 May 2022 at 20:00
 
