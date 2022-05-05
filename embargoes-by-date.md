@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 May 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 5 May 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 May 2022](#3-may-2022)
 * [10 May 2022](#10-may-2022)
 * [12 May 2022](#12-may-2022)
 * [24 May 2022](#24-may-2022)
@@ -13,33 +12,6 @@ Data generated on | |
 * [15 June 2022](#15-june-2022)
 * [22 June 2022](#22-june-2022)
 * [24 June 2022](#24-june-2022)
-
-------
-
-# 3 May 2022
-
-## [Changes in the geography housing demand after the onset of COVID-19: First results from large metropolitan areas in 13 OECD countries](https://doi.org/10.1787/9a99131f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 May 2022 at 20:10
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 May 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
