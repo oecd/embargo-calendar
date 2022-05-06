@@ -2,10 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 May 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 May 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [9 May 2022](#9-may-2022)
 * [10 May 2022](#10-may-2022)
 * [12 May 2022](#12-may-2022)
+* [18 May 2022](#18-may-2022)
 * [24 May 2022](#24-may-2022)
 * [5 June 2022](#5-june-2022)
 * [10 June 2022](#10-june-2022)
@@ -15,20 +17,70 @@ Data generated on | |
 
 ------
 
+# 9 May 2022
+
+## [Early childhood education and care workforce development - A foundation for process quality](https://doi.org/10.1787/e012efc0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Quality assurance and improvement in the early education and care sector](https://doi.org/10.1787/774688bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 10 May 2022
 
 ## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 May 2022 at 6:00 | no launch event
+Tuesday 10 May 2022 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 May 2022 at 20:22
+- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 May 2022 at 20:00
+- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
 
 ### Additional Information
 
@@ -53,17 +105,44 @@ Thursday 12 May 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 May 2022
+
+## [Financing transportation infrastructure through Land Value Capture - Concepts, tools, and case studies](https://doi.org/10.1787/8015065d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
