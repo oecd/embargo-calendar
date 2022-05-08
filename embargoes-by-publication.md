@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 May 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 8 May 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Early childhood education and care workforce development - A foundation for process quality](https://doi.org/10.1787/e012efc0-en)
 
@@ -15,7 +15,7 @@ Monday 9 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+- [x] Exported to OECD.org Sunday 8 May 2022 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 9 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+- [x] Exported to OECD.org Sunday 8 May 2022 at 19:57
 
 ### Additional Information
 
