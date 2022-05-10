@@ -2,16 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 May 2022 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 May 2022 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 May 2022](#9-may-2022)
 * [10 May 2022](#10-may-2022)
 * [12 May 2022](#12-may-2022)
+* [16 May 2022](#16-may-2022)
 * [18 May 2022](#18-may-2022)
 * [24 May 2022](#24-may-2022)
 * [5 June 2022](#5-june-2022)
 * [10 June 2022](#10-june-2022)
 * [15 June 2022](#15-june-2022)
+* [20 June 2022](#20-june-2022)
 * [22 June 2022](#22-june-2022)
 * [24 June 2022](#24-june-2022)
 
@@ -78,9 +80,9 @@ Tuesday 10 May 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
+- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 May 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 10 May 2022 at 20:01
 
 ### Additional Information
 
@@ -105,7 +107,7 @@ Thursday 12 May 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
+- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 6 May 2022 at 20:00
 
@@ -116,6 +118,33 @@ Thursday 12 May 2022 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 May 2022
+
+## [OECD Skills Strategy Implementation Guidance for Flanders, Belgium - The Faces of Learners in Flanders](https://doi.org/10.1787/7887a565-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 May 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 10 May 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -273,6 +302,33 @@ Wednesday 15 June 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 June 2022
+
+## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
