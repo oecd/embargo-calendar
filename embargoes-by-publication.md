@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 May 2022 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Early childhood education and care workforce development - A foundation for process quality](https://doi.org/10.1787/e012efc0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 May 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Quality assurance and improvement in the early education and care sector](https://doi.org/10.1787/774688bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 May 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Management of Pharmaceutical Household Waste - Limiting Environmental Impacts of Unused or Expired Medicine](https://doi.org/10.1787/3854026c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 May 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 May 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 12 May 2022 at 10:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building on COVID-19's Innovation Momentum for Digital, Inclusive Education](https://doi.org/10.1787/24202496-en)
 
@@ -84,7 +15,7 @@ Thursday 12 May 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+- [x] Exported to OECD.org Thursday 12 May 2022 at 9:36
 
 ### Additional Information
 
@@ -93,6 +24,29 @@ Thursday 12 May 2022 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Enhancing the Oversight Impact of Chile’s Supreme Audit Institution - Applying Behavioural Insights for Public Integrity](https://doi.org/10.1787/1afdc85e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 May 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 May 2022 at 10:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 May 2022 at 9:36
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -113,9 +67,9 @@ Monday 16 May 2022 at 6:00 | no launch event
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -234,6 +188,29 @@ Friday 10 June 2022 at 6:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Belgium 2022](https://doi.org/10.1787/01c0a8f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 June 2022 at 13:10 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Tax Administration 2022 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/1e797131-en)
 
 Embargo date | Launch date
@@ -250,6 +227,29 @@ Wednesday 15 June 2022 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Illicit Trade in High-Risk Sectors - Implications of Illicit Alcohol for Public Health and Criminal Networks](https://doi.org/10.1787/1334c634-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -343,6 +343,29 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Better Regulation Practices across the European Union 2022](https://doi.org/10.1787/6e4b095d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 June 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
