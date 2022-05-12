@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-05-12T10:26:29.1733304+02:00">
+<report name="official-embargoes" generated="2022-05-12T21:04:28.9582506+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,8 +34,8 @@
     <cell name="ilibrary last export date">2022-05-10T18:32:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-05-12T07:36:52Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2022-05-12T08:58:45Z</cell>
+    <cell name="google last export date">2022-05-12T08:47:30Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d161e19a</cell>
@@ -588,7 +588,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-14</cell>
     <cell name="embargo date">2022-06-14T13:10:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -608,7 +608,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-14</cell>
     <cell name="embargo date">2022-06-14T13:10:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>

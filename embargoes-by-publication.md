@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 May 2022 at 10:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 12 May 2022 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building on COVID-19's Innovation Momentum for Digital, Inclusive Education](https://doi.org/10.1787/24202496-en)
 
