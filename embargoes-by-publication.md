@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 May 2022 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 13 May 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Building on COVID-19's Innovation Momentum for Digital, Inclusive Education](https://doi.org/10.1787/24202496-en)
 
@@ -36,7 +36,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 May 2022 at 10:03
+- [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 12 May 2022 at 9:36
 
@@ -46,7 +46,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -59,17 +59,17 @@ Monday 16 May 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
+- [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 May 2022 at 20:01
+- [x] Exported to OECD.org Friday 13 May 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -257,29 +257,6 @@ Thursday 16 June 2022 at 7:00 | no launch event
 
 ------
 
-## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Open Government Review of Brazil  - Towards an Integrated Open Government Agenda](https://doi.org/10.1787/3f9009d4-en)
 
 Embargo date | Launch date
@@ -343,6 +320,29 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
