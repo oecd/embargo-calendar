@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/24202496-end3e63
-SUMMARY:Building on COVID-19's Innovation Moment
- um for Digital, Inclusive Education
-DESCRIPTION:*Building on COVID-19's Innovation Momen
- tum for Digital, Inclusive Education*\n\
- nDirectorate: Directorate for Education 
- and Skills\nLanguage: English\nDOI: http
- s://doi.org/10.1787/24202496-en\nPublica
- tion type: Book\nReleased as: Paperback,
-  PDF\n\nEmbargo date/time: Thursday, 12 
- May 2022, 7:00 (GMT)\n\n\niLibrary expor
- t: Tuesday, 10 May 2022, 18:32 (GMT)\nFr
- eepreview export: never\nOECD.org export
- : Thursday, 12 May 2022, 7:36 (GMT)\nFTI
-  loaded: ✓\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 20:56, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=24202496-en.
-DTSTAMP:20220513T205637Z
-DTSTART:20220512T070000Z
-DTEND:20220512T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Building on COVID-19's Innovat
- ion Momentum for Digital, Inclusive Educ
- ation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1afdc85e-end3e659
+UID:10.1787/1afdc85e-end3e548
 SUMMARY:Enhancing the Oversight Impact of Chile’
  s Supreme Audit Institution - Applying B
  ehavioural Insights for Public Integrity
@@ -59,21 +17,21 @@ DESCRIPTION:*Enhancing the Oversight Impact of Chile
   Monday, 16 May 2022, 6:00 (GMT)\n\n\niL
  ibrary export: Friday, 13 May 2022, 18:2
  6 (GMT)\nFreepreview export: never\nOECD
- .org export: Thursday, 12 May 2022, 7:36
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:56, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=1afdc85e-en.
-DTSTAMP:20220513T205637Z
+ .org export: Sunday, 15 May 2022, 17:57 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:35, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=1afdc85e-en.
+DTSTAMP:20220515T203549Z
 DTSTART:20220516T060000Z
 DTEND:20220516T061500Z
 TRANSP:TRANSPARENT
@@ -89,7 +47,7 @@ DESCRIPTION:Reminder: Enhancing the Oversight Impact
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7887a565-end3e715
+UID:10.1787/7887a565-end3e605
 SUMMARY:OECD Skills Strategy Implementation Guid
  ance for Flanders, Belgium - The Faces o
  f Learners in Flanders
@@ -103,13 +61,13 @@ DESCRIPTION:*OECD Skills Strategy Implementation Gui
  /time: Monday, 16 May 2022, 6:00 (GMT)\n
  \n\niLibrary export: Friday, 13 May 2022
  , 18:26 (GMT)\nFreepreview export: never
- \nOECD.org export: Friday, 13 May 2022, 
- 18:03 (GMT)\nFTI loaded: ✓\n\nFor more i
+ \nOECD.org export: Sunday, 15 May 2022, 
+ 17:57 (GMT)\nFTI loaded: ✓\n\nFor more i
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 20:5
- 6, it is updated each night; therefore a
+ was correct as of this afternoon at 20:3
+ 5, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -117,7 +75,7 @@ DESCRIPTION:*OECD Skills Strategy Implementation Gui
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=7887a565-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220516T060000Z
 DTEND:20220516T061500Z
 TRANSP:TRANSPARENT
@@ -132,7 +90,7 @@ DESCRIPTION:Reminder: OECD Skills Strategy Implement
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8015065d-end3e1261
+UID:10.1787/8015065d-end3e1150
 SUMMARY:Financing transportation infrastructure 
  through Land Value Capture - Concepts, t
  ools, and case studies
@@ -152,7 +110,7 @@ DESCRIPTION:*Financing transportation infrastructure
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:56, it is updated each nig
+ ternoon at 20:35, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -161,7 +119,7 @@ DESCRIPTION:*Financing transportation infrastructure
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=801506
  5d-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220518T050000Z
 DTEND:20220518T051500Z
 TRANSP:TRANSPARENT
@@ -176,7 +134,7 @@ DESCRIPTION:Reminder: Financing transportation infra
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd7faa8e-frd3e1370
+UID:10.1787/cd7faa8e-frd3e1260
 SUMMARY:Les impôts sur les salaires 2022 - L'imp
  act du COVID-19 sur le coin fiscal dans 
  les pays de l’OCDE 
@@ -194,7 +152,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:56, it 
+ rrect as of this afternoon at 20:35, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -203,7 +161,7 @@ DESCRIPTION:*Les impôts sur les salaires 2022 - L'im
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=cd7faa8e-fr.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220524T090000Z
 DTEND:20220524T091500Z
 TRANSP:TRANSPARENT
@@ -218,7 +176,7 @@ DESCRIPTION:Reminder: Les impôts sur les salaires 20
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f7f1e68a-end3e1423
+UID:10.1787/f7f1e68a-end3e1313
 SUMMARY:Taxing Wages 2022 - Impact of COVID-19 o
  n the Tax Wedge in OECD Countries
 DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19 
@@ -235,7 +193,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:56, it is updated each night; th
+ n at 20:35, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -243,7 +201,7 @@ DESCRIPTION:*Taxing Wages 2022 - Impact of COVID-19
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=f7f1e68a-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220524T090000Z
 DTEND:20220524T091500Z
 TRANSP:TRANSPARENT
@@ -258,7 +216,7 @@ DESCRIPTION:Reminder: Taxing Wages 2022 - Impact of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e1583
+UID:10.1787/50b32331-end3e1472
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -276,7 +234,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:56, it is
+ ect as of this afternoon at 20:35, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -285,7 +243,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=50b32331-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220605T220000Z
 DTEND:20220605T221500Z
 TRANSP:TRANSPARENT
@@ -300,7 +258,7 @@ DESCRIPTION:Reminder: OECD Reviews of Innovation Pol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b046dfe-end3e1688
+UID:10.1787/0b046dfe-end3e1578
 SUMMARY:Digital Trade Review of Brazil
 DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ctorate: Trade and Agriculture Directora
@@ -315,7 +273,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:56, it is updated each ni
+ fternoon at 20:35, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -324,7 +282,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=0b046
  dfe-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220610T060000Z
 DTEND:20220610T061500Z
 TRANSP:TRANSPARENT
@@ -337,7 +295,7 @@ DESCRIPTION:Reminder: Digital Trade Review of Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/01c0a8f0-end3e1740
+UID:10.1787/01c0a8f0-end3e1630
 SUMMARY:OECD Economic Surveys: Belgium 2022
 DESCRIPTION:*OECD Economic Surveys: Belgium 2022*\n\
  nDirectorate: Economics Department\nLang
@@ -352,7 +310,7 @@ DESCRIPTION:*OECD Economic Surveys: Belgium 2022*\n\
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:56, it is updated each night; therefo
+ 20:35, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -360,7 +318,7 @@ DESCRIPTION:*OECD Economic Surveys: Belgium 2022*\n\
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=01c0a8f0-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220614T131000Z
 DTEND:20220614T132500Z
 TRANSP:TRANSPARENT
@@ -374,7 +332,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Belgium
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1e797131-end3e1844
+UID:10.1787/1e797131-end3e1734
 SUMMARY:Tax Administration 2022 - Comparative In
  formation on OECD and other Advanced and
   Emerging Economies
@@ -392,7 +350,7 @@ DESCRIPTION:*Tax Administration 2022 - Comparative I
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:56,
+ s correct as of this afternoon at 20:35,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -401,7 +359,7 @@ DESCRIPTION:*Tax Administration 2022 - Comparative I
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=1e797131-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220615T090000Z
 DTEND:20220615T091500Z
 TRANSP:TRANSPARENT
@@ -416,7 +374,7 @@ DESCRIPTION:Reminder: Tax Administration 2022 - Comp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1334c634-end3e2003
+UID:10.1787/1334c634-end3e1893
 SUMMARY:Illicit Trade in High-Risk Sectors - Imp
  lications of Illicit Alcohol for Public 
  Health and Criminal Networks
@@ -434,7 +392,7 @@ DESCRIPTION:*Illicit Trade in High-Risk Sectors - Im
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:56
+ as correct as of this afternoon at 20:35
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -443,7 +401,7 @@ DESCRIPTION:*Illicit Trade in High-Risk Sectors - Im
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=1334c634-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220616T070000Z
 DTEND:20220616T071500Z
 TRANSP:TRANSPARENT
@@ -458,7 +416,7 @@ DESCRIPTION:Reminder: Illicit Trade in High-Risk Sec
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3f9009d4-end3e2108
+UID:10.1787/3f9009d4-end3e1998
 SUMMARY:Open Government Review of Brazil  - Towa
  rds an Integrated Open Government Agenda
 DESCRIPTION:*Open Government Review of Brazil - Towa
@@ -475,7 +433,7 @@ DESCRIPTION:*Open Government Review of Brazil - Towa
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:56, it is updated each night; 
+ oon at 20:35, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -484,7 +442,7 @@ DESCRIPTION:*Open Government Review of Brazil - Towa
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=3f9009d4-e
  n.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220622T090000Z
 DTEND:20220622T091500Z
 TRANSP:TRANSPARENT
@@ -499,7 +457,7 @@ DESCRIPTION:Reminder: Open Government Review of Braz
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e53901b5-end3e2213
+UID:10.1787/e53901b5-end3e2102
 SUMMARY:Gender Equality in Peru - Towards a Bett
  er Sharing of Paid and Unpaid Work
 DESCRIPTION:*Gender Equality in Peru - Towards a Bet
@@ -517,7 +475,7 @@ DESCRIPTION:*Gender Equality in Peru - Towards a Bet
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 56, it is updated each night; therefore 
+ 35, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -525,7 +483,7 @@ DESCRIPTION:*Gender Equality in Peru - Towards a Bet
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=e53901b5-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220624T100000Z
 DTEND:20220624T101500Z
 TRANSP:TRANSPARENT
@@ -540,7 +498,7 @@ DESCRIPTION:Reminder: Gender Equality in Peru - Towa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/34a988b3-esd3e2319
+UID:10.1787/34a988b3-esd3e2209
 SUMMARY:Igualdad de género en el Perú - Hacia un
  a mejor distribución del trabajo remuner
  ado y no remunerado
@@ -559,7 +517,7 @@ DESCRIPTION:*Igualdad de género en el Perú - Hacia u
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 20:56, it is updat
+  of this afternoon at 20:35, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -568,7 +526,7 @@ DESCRIPTION:*Igualdad de género en el Perú - Hacia u
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=34a988b3-es.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220624T100000Z
 DTEND:20220624T101500Z
 TRANSP:TRANSPARENT
@@ -583,7 +541,7 @@ DESCRIPTION:Reminder: Igualdad de género en el Perú
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b407f99c-end3e2425
+UID:10.1787/b407f99c-end3e2315
 SUMMARY:Building Trust to Reinforce Democracy - 
  Main Findings from the OECD Survey on Dr
  ivers of Trust in Public Institutions
@@ -602,7 +560,7 @@ DESCRIPTION:*Building Trust to Reinforce Democracy -
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:56, it is updated 
+  this afternoon at 20:35, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -611,7 +569,7 @@ DESCRIPTION:*Building Trust to Reinforce Democracy -
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=b407f99c-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220627T070000Z
 DTEND:20220627T071500Z
 TRANSP:TRANSPARENT
@@ -627,7 +585,7 @@ DESCRIPTION:Reminder: Building Trust to Reinforce De
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6e4b095d-end3e2530
+UID:10.1787/6e4b095d-end3e2419
 SUMMARY:Better Regulation Practices across the E
  uropean Union 2022
 DESCRIPTION:*Better Regulation Practices across the 
@@ -644,7 +602,7 @@ DESCRIPTION:*Better Regulation Practices across the
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:56, it is updated each night; there
+ t 20:35, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -652,7 +610,7 @@ DESCRIPTION:*Better Regulation Practices across the
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=6e4b095d-en.
-DTSTAMP:20220513T205637Z
+DTSTAMP:20220515T203549Z
 DTSTART:20220628T113000Z
 DTEND:20220628T114500Z
 TRANSP:TRANSPARENT

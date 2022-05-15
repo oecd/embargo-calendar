@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 May 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 May 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 May 2022](#12-may-2022)
 * [16 May 2022](#16-may-2022)
 * [18 May 2022](#18-may-2022)
 * [24 May 2022](#24-may-2022)
@@ -17,33 +16,6 @@ Data generated on | |
 * [24 June 2022](#24-june-2022)
 * [27 June 2022](#27-june-2022)
 * [28 June 2022](#28-june-2022)
-
-------
-
-# 12 May 2022
-
-## [Building on COVID-19's Innovation Momentum for Digital, Inclusive Education](https://doi.org/10.1787/24202496-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 May 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 May 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 May 2022 at 9:36
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -60,7 +32,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 May 2022 at 9:36
+- [x] Exported to OECD.org Sunday 15 May 2022 at 19:57
 
 ### Additional Information
 
@@ -83,7 +55,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 13 May 2022 at 20:03
+- [x] Exported to OECD.org Sunday 15 May 2022 at 19:57
 
 ### Additional Information
 
