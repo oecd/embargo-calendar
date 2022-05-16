@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 May 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 16 May 2022 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 May 2022](#16-may-2022)
 * [18 May 2022](#18-may-2022)
 * [24 May 2022](#24-may-2022)
+* [1 June 2022](#1-june-2022)
 * [5 June 2022](#5-june-2022)
 * [10 June 2022](#10-june-2022)
 * [14 June 2022](#14-june-2022)
@@ -32,7 +33,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 15 May 2022 at 19:57
+- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
 
 ### Additional Information
 
@@ -55,7 +56,7 @@ Monday 16 May 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 13 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 15 May 2022 at 19:57
+- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
 
 ### Additional Information
 
@@ -130,16 +131,43 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Monday 16 May 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 1 June 2022
+
+## [Trade and Gender Review of New Zealand](https://doi.org/10.1787/923576ea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -194,7 +222,7 @@ Friday 10 June 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

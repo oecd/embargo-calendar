@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-05-15T20:35:46.0038299+02:00">
+<report name="official-embargoes" generated="2022-05-16T20:39:28.2117993+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -131,7 +131,7 @@
     <cell name="date of publication">2022-05-16</cell>
     <cell name="embargo date">2022-05-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-05-12T08:03:00Z</cell>
+    <cell name="ilibrary last export date">2022-05-16T14:23:53Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -213,7 +213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-13T18:26:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-15T17:57:04Z</cell>
+    <cell name="oecd.org last export date">2022-05-16T17:58:02Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -233,7 +233,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-13T18:26:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-15T17:57:04Z</cell>
+    <cell name="oecd.org last export date">2022-05-16T17:58:02Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -273,7 +273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-13T18:26:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-15T17:57:04Z</cell>
+    <cell name="oecd.org last export date">2022-05-16T17:58:02Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -371,7 +371,7 @@
     <cell name="date of publication">2022-05-16</cell>
     <cell name="embargo date">2022-05-16T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-05-12T08:03:00Z</cell>
+    <cell name="ilibrary last export date">2022-05-16T14:23:53Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -487,13 +487,13 @@
     <cell name="subtitle">Impact of COVID-19 on the Tax Wedge in OECD Countries (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-05-24</cell>
     <cell name="embargo date">2022-05-24T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-05-16T18:17:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-05-16T17:58:02Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -521,6 +521,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d997d880</cell>
   </row>
   <row index="26">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/923576ea-en</cell>
+    <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-01</cell>
+    <cell name="embargo date">2022-06-01T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c38b333</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/923576ea-en</cell>
+    <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-01</cell>
+    <cell name="embargo date">2022-06-01T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4f865ff</cell>
+  </row>
+  <row index="28">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -540,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="27">
+  <row index="29">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -560,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/291d6f25</cell>
   </row>
-  <row index="28">
+  <row index="30">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -580,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="29">
+  <row index="31">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -600,7 +640,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="30">
+  <row index="32">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/0b046dfe-en</cell>
+    <cell name="title">Digital Trade Review of Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-10</cell>
+    <cell name="embargo date">2022-06-10T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/0b046dfe-en</cell>
+    <cell name="title">Digital Trade Review of Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-10</cell>
+    <cell name="embargo date">2022-06-10T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
+  </row>
+  <row index="34">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/01c0a8f0-en</cell>
     <cell name="title">OECD Economic Surveys: Belgium 2022 (en)</cell>
@@ -620,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27f33a6e</cell>
   </row>
-  <row index="31">
+  <row index="35">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/01c0a8f0-en</cell>
     <cell name="title">OECD Economic Surveys: Belgium 2022 (en)</cell>
@@ -640,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/440a7650</cell>
   </row>
-  <row index="32">
+  <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -660,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46707ec3</cell>
   </row>
-  <row index="33">
+  <row index="37">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -680,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e998f704</cell>
   </row>
-  <row index="34">
+  <row index="38">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1334c634-en</cell>
     <cell name="title">Illicit Trade in High-Risk Sectors (en)</cell>
@@ -700,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/113a0c02</cell>
   </row>
-  <row index="35">
+  <row index="39">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1334c634-en</cell>
     <cell name="title">Illicit Trade in High-Risk Sectors (en)</cell>
@@ -720,27 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0575355a</cell>
   </row>
-  <row index="36">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/b407f99c-en</cell>
-    <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
-    <cell name="subtitle">Main Findings from the OECD Survey on Drivers of Trust in Public Institutions (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-27</cell>
-    <cell name="embargo date">2022-06-20T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08e7eb9f</cell>
-  </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3f9009d4-en</cell>
     <cell name="title">Open Government Review of Brazil  (en)</cell>
@@ -760,7 +820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85afbef0</cell>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3f9009d4-en</cell>
     <cell name="title">Open Government Review of Brazil  (en)</cell>
@@ -780,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb01fcb1</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -800,7 +860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ce22834</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -820,7 +880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43256fb7</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34a988b3-es</cell>
     <cell name="title">Igualdad de género en el Perú (es)</cell>
@@ -840,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59372c27</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34a988b3-es</cell>
     <cell name="title">Igualdad de género en el Perú (es)</cell>
@@ -860,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25437dea</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b407f99c-en</cell>
     <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
@@ -880,7 +940,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dda21511</cell>
   </row>
-  <row index="44">
+  <row index="47">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/b407f99c-en</cell>
+    <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
+    <cell name="subtitle">Main Findings from the OECD Survey on Drivers of Trust in Public Institutions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-27</cell>
+    <cell name="embargo date">2022-06-27T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08e7eb9f</cell>
+  </row>
+  <row index="48">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -900,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e5bdf71</cell>
   </row>
-  <row index="45">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
