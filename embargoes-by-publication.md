@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 May 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 May 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Enhancing the Oversight Impact of Chile’s Supreme Audit Institution - Applying Behavioural Insights for Public Integrity](https://doi.org/10.1787/1afdc85e-en)
 
@@ -61,11 +61,57 @@ Wednesday 18 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 May 2022 at 20:00
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Reaping efficiency gains through product market reforms in China](https://doi.org/10.1787/4cf4056d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Filling in the gaps: Expanding social protection in Colombia](https://doi.org/10.1787/a55224c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -82,15 +128,15 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -105,9 +151,9 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 May 2022 at 20:17
+- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
 
 ### Additional Information
 
@@ -119,6 +165,29 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 
 ------
 
+## [Benefits of regional co-operation on the energy-water-land use nexus transformation in Central Asia](https://doi.org/10.1787/7fcec36c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Trade and Gender Review of New Zealand](https://doi.org/10.1787/923576ea-en)
 
 Embargo date | Launch date
@@ -127,7 +196,7 @@ Wednesday 1 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,7 +207,7 @@ Wednesday 1 June 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -173,7 +242,7 @@ Friday 10 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -185,6 +254,29 @@ Friday 10 June 2022 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Belgique 2022](https://doi.org/10.1787/702dd253-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 June 2022 at 13:10 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -257,6 +349,52 @@ Thursday 16 June 2022 at 7:00 | no launch event
 
 ------
 
+## [OECD Environmental Performance Reviews: United Kingdom 2022](https://doi.org/10.1787/b6a2be87-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 June 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Open Government Review of Brazil  - Towards an Integrated Open Government Agenda](https://doi.org/10.1787/3f9009d4-en)
 
 Embargo date | Launch date
@@ -320,6 +458,29 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Bâtir la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
