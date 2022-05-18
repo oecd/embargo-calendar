@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 May 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 18 May 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 May 2022](#16-may-2022)
 * [18 May 2022](#18-may-2022)
 * [19 May 2022](#19-may-2022)
 * [24 May 2022](#24-may-2022)
@@ -24,56 +23,6 @@ Data generated on | |
 
 ------
 
-# 16 May 2022
-
-## [Enhancing the Oversight Impact of Chile’s Supreme Audit Institution - Applying Behavioural Insights for Public Integrity](https://doi.org/10.1787/1afdc85e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 May 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 May 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Skills Strategy Implementation Guidance for Flanders, Belgium - The Faces of Learners in Flanders](https://doi.org/10.1787/7887a565-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 May 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 May 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 May 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 18 May 2022
 
 ## [Financing transportation infrastructure through Land Value Capture - Concepts, tools, and case studies](https://doi.org/10.1787/8015065d-en)
@@ -87,7 +36,7 @@ Wednesday 18 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 May 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
 
 ### Additional Information
 
@@ -114,7 +63,7 @@ Thursday 19 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
 
 ### Additional Information
 
@@ -137,7 +86,7 @@ Thursday 19 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
 
 ### Additional Information
 
@@ -162,7 +111,7 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [x] Exported to iLibrary Wednesday 18 May 2022 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
 
