@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 May 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 19 May 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing transportation infrastructure through Land Value Capture - Concepts, tools, and case studies](https://doi.org/10.1787/8015065d-en)
 
@@ -38,7 +38,7 @@ Thursday 19 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
+- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 19 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
+- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
 
 ### Additional Information
 
@@ -104,18 +104,18 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 19 May 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
