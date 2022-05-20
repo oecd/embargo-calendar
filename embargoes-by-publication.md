@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 May 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financing transportation infrastructure through Land Value Capture - Concepts, tools, and case studies](https://doi.org/10.1787/8015065d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 May 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 May 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 20 May 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Reaping efficiency gains through product market reforms in China](https://doi.org/10.1787/4cf4056d-en)
 
@@ -73,6 +50,29 @@ Thursday 19 May 2022 at 5:00 | no launch event
 
 ------
 
+## [Marketplace and FinTech lending for SMEs in the COVID-19 crisis](https://doi.org/10.1787/ff11697f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 May 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
 
 Embargo date | Launch date
@@ -81,18 +81,18 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 18 May 2022 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Friday 20 May 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -105,7 +105,7 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 May 2022 at 20:21
+- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
 
@@ -418,7 +418,7 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 ------
 
-## [Bâtir la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
+## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
 
 Embargo date | Launch date
 -------------|:------------:
