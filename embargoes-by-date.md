@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 May 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 22 May 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 May 2022](#19-may-2022)
 * [23 May 2022](#23-may-2022)
 * [24 May 2022](#24-may-2022)
 * [27 May 2022](#27-may-2022)
@@ -23,56 +22,6 @@ Data generated on | |
 
 ------
 
-# 19 May 2022
-
-## [Reaping efficiency gains through product market reforms in China](https://doi.org/10.1787/4cf4056d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Filling in the gaps: Expanding social protection in Colombia](https://doi.org/10.1787/a55224c7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 23 May 2022
 
 ## [Marketplace and FinTech lending for SMEs in the COVID-19 crisis](https://doi.org/10.1787/ff11697f-en)
@@ -86,7 +35,7 @@ Monday 23 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 May 2022 at 19:58
+- [x] Exported to OECD.org Sunday 22 May 2022 at 19:57
 
 ### Additional Information
 
