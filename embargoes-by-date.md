@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 May 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 May 2022 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 May 2022](#23-may-2022)
 * [24 May 2022](#24-may-2022)
@@ -11,11 +11,11 @@ Data generated on | |
 * [5 June 2022](#5-june-2022)
 * [10 June 2022](#10-june-2022)
 * [14 June 2022](#14-june-2022)
-* [15 June 2022](#15-june-2022)
 * [16 June 2022](#16-june-2022)
 * [20 June 2022](#20-june-2022)
 * [21 June 2022](#21-june-2022)
 * [22 June 2022](#22-june-2022)
+* [23 June 2022](#23-june-2022)
 * [24 June 2022](#24-june-2022)
 * [27 June 2022](#27-june-2022)
 * [28 June 2022](#28-june-2022)
@@ -35,7 +35,7 @@ Monday 23 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 May 2022 at 19:57
+- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
 
 ### Additional Information
 
@@ -60,9 +60,9 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
+- [x] Exported to iLibrary Monday 23 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 May 2022 at 19:58
+- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
 
 ### Additional Information
 
@@ -85,7 +85,7 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 May 2022 at 19:57
+- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
 
 ### Additional Information
 
@@ -257,33 +257,6 @@ Tuesday 14 June 2022 at 13:10 | no launch event
 
 ------
 
-# 15 June 2022
-
-## [Tax Administration 2022 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/1e797131-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 16 June 2022
 
 ## [Illicit Trade in High-Risk Sectors - Implications of Illicit Alcohol for Public Health and Criminal Networks](https://doi.org/10.1787/1334c634-en)
@@ -383,6 +356,33 @@ Wednesday 22 June 2022 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 June 2022
+
+## [Tax Administration 2022 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/1e797131-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
