@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 May 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 May 2022 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Marketplace and FinTech lending for SMEs in the COVID-19 crisis](https://doi.org/10.1787/ff11697f-en)
 
@@ -38,7 +38,7 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 May 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
+- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 24 May 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
+- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
 
 ### Additional Information
 
@@ -82,13 +82,59 @@ Friday 27 May 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 May 2022 at 20:24
+- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 May 2022 at 20:00
+- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [National Urban Policy Review of Colombia](https://doi.org/10.1787/9ca1caae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 May 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Agricultural Total Factor Productivity and the environment - A guide to emerging best practices in measurement](https://doi.org/10.1787/6fe2f9e0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -280,11 +326,80 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 
 ------
 
+## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Open Government Review of Brazil  - Towards an Integrated Open Government Agenda](https://doi.org/10.1787/3f9009d4-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 22 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Youth at the Centre of Government Action - A Review of the Middle East and North Africa](https://doi.org/10.1787/bcc2dd08-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 7:00 | no launch event
 
 ### Status Information
 

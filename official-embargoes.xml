@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-05-23T20:50:50.9586338+02:00">
+<report name="official-embargoes" generated="2022-05-24T21:00:30.8289042+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2022-05-20T18:19:11Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-05-23T19:17:55Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -633,7 +633,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-23T18:26:40Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3013,7 +3013,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-23T18:26:40Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3793,7 +3793,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-23T18:26:40Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3813,7 +3813,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-20T18:19:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -4393,7 +4393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-20T18:19:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -11313,7 +11313,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-05-20T18:19:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-23T18:00:18Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -12731,9 +12731,9 @@
     <cell name="date of publication">2022-05-27</cell>
     <cell name="embargo date">2022-05-27T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-05-17T18:24:26Z</cell>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-05-17T18:00:34Z</cell>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -12741,6 +12741,506 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4c9310b</cell>
   </row>
   <row index="637">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/0363ea87-en</cell>
+    <cell name="title">Colombia’s urbanisation trends and challenges (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc73d705</cell>
+  </row>
+  <row index="638">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/bf001627-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4250544</cell>
+  </row>
+  <row index="639">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/10367354-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36377d6c</cell>
+  </row>
+  <row index="640">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/68d4f6bb-es</cell>
+    <cell name="title">Resumen ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b35edd22</cell>
+  </row>
+  <row index="641">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/87967ff5-en</cell>
+    <cell name="title">Policies for sustainable cities in Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/337bcbb1</cell>
+  </row>
+  <row index="642">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/1b19eaf9-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7bd78c2</cell>
+  </row>
+  <row index="643">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/5edef5fd-en</cell>
+    <cell name="title">Strengthening Colombia’s urban governance framework (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42805349</cell>
+  </row>
+  <row index="644">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/2f702d07-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fa89a98</cell>
+  </row>
+  <row index="645">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/0363ea87-en</cell>
+    <cell name="title">Colombia’s urbanisation trends and challenges (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42520e3b</cell>
+  </row>
+  <row index="646">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f09c6cb7-en</cell>
+    <cell name="title">Policies for housing and habitat in Colombian cities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06cf3efe</cell>
+  </row>
+  <row index="647">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/5edef5fd-en</cell>
+    <cell name="title">Strengthening Colombia’s urban governance framework (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ebe66fb</cell>
+  </row>
+  <row index="648">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/87967ff5-en</cell>
+    <cell name="title">Policies for sustainable cities in Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2ae2975</cell>
+  </row>
+  <row index="649">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/bf001627-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b304c367</cell>
+  </row>
+  <row index="650">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/9ca1caae-en</cell>
+    <cell name="title">National Urban Policy Review of Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68dde251</cell>
+  </row>
+  <row index="651">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/156dbbe0-en</cell>
+    <cell name="title">Toward a renewed national urban policy in Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2e6dd71</cell>
+  </row>
+  <row index="652">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/156dbbe0-en</cell>
+    <cell name="title">Toward a renewed national urban policy in Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28a97d92</cell>
+  </row>
+  <row index="653">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/9ca1caae-en</cell>
+    <cell name="title">National Urban Policy Review of Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b529900e</cell>
+  </row>
+  <row index="654">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/2f702d07-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b71292c</cell>
+  </row>
+  <row index="655">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/1b19eaf9-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ca10bcb</cell>
+  </row>
+  <row index="656">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/dce431e3-es</cell>
+    <cell name="title">Evaluación y recomendaciones (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84a6e081</cell>
+  </row>
+  <row index="657">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f09c6cb7-en</cell>
+    <cell name="title">Policies for housing and habitat in Colombian cities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3729502a</cell>
+  </row>
+  <row index="658">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/9ca1caae-en</cell>
+    <cell name="title">National Urban Policy Review of Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84d82d10</cell>
+  </row>
+  <row index="659">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/9ca1caae-en</cell>
+    <cell name="title">National Urban Policy Review of Colombia (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97e3003a</cell>
+  </row>
+  <row index="660">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/10367354-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-27</cell>
+    <cell name="embargo date">2022-05-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee175a0c</cell>
+  </row>
+  <row index="661">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/6fe2f9e0-en</cell>
+    <cell name="title">Agricultural Total Factor Productivity and the environment (en)</cell>
+    <cell name="subtitle">A guide to emerging best practices in measurement (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-05-30</cell>
+    <cell name="embargo date">2022-05-30T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-05-24T18:32:14Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-05-24T18:02:22Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d476a9dd</cell>
+  </row>
+  <row index="662">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c73abe81-en</cell>
     <cell name="title">Women workers, business leaders and consumers in New Zealand (en)</cell>
@@ -12760,7 +13260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d037ee31</cell>
   </row>
-  <row index="638">
+  <row index="663">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/747b2666-en</cell>
     <cell name="title">New Zealand’s trade policy settings (en)</cell>
@@ -12780,7 +13280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bcb6118</cell>
   </row>
-  <row index="639">
+  <row index="664">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/28f4f271-en</cell>
     <cell name="title">Forward policy actions for consideration (en)</cell>
@@ -12800,7 +13300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cb17c98</cell>
   </row>
-  <row index="640">
+  <row index="665">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4ee8b2ce-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -12820,7 +13320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3590313e</cell>
   </row>
-  <row index="641">
+  <row index="666">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/923576ea-en</cell>
     <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
@@ -12840,7 +13340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c38b333</cell>
   </row>
-  <row index="642">
+  <row index="667">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/747b2666-en</cell>
     <cell name="title">New Zealand’s trade policy settings (en)</cell>
@@ -12860,7 +13360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa330fbf</cell>
   </row>
-  <row index="643">
+  <row index="668">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/923576ea-en</cell>
     <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
@@ -12880,7 +13380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94c19f46</cell>
   </row>
-  <row index="644">
+  <row index="669">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/923576ea-en</cell>
     <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
@@ -12900,7 +13400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4f865ff</cell>
   </row>
-  <row index="645">
+  <row index="670">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e85f7d90-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -12920,7 +13420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93a7868e</cell>
   </row>
-  <row index="646">
+  <row index="671">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4ee8b2ce-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -12940,7 +13440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/faf90472</cell>
   </row>
-  <row index="647">
+  <row index="672">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/923576ea-en</cell>
     <cell name="title">Trade and Gender Review of New Zealand (en)</cell>
@@ -12960,7 +13460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca33ed89</cell>
   </row>
-  <row index="648">
+  <row index="673">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/28f4f271-en</cell>
     <cell name="title">Forward policy actions for consideration (en)</cell>
@@ -12980,7 +13480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b205a988</cell>
   </row>
-  <row index="649">
+  <row index="674">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c73abe81-en</cell>
     <cell name="title">Women workers, business leaders and consumers in New Zealand (en)</cell>
@@ -13000,7 +13500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b788eb3</cell>
   </row>
-  <row index="650">
+  <row index="675">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e85f7d90-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -13020,7 +13520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0976d71</cell>
   </row>
-  <row index="651">
+  <row index="676">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -13040,7 +13540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="652">
+  <row index="677">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -13060,7 +13560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/291d6f25</cell>
   </row>
-  <row index="653">
+  <row index="678">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -13080,7 +13580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2d6ba0</cell>
   </row>
-  <row index="654">
+  <row index="679">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -13100,7 +13600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="655">
+  <row index="680">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -13120,7 +13620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="656">
+  <row index="681">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -13140,7 +13640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7b4f876</cell>
   </row>
-  <row index="657">
+  <row index="682">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -13160,7 +13660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff397ebb</cell>
   </row>
-  <row index="658">
+  <row index="683">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -13180,7 +13680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2f4f52</cell>
   </row>
-  <row index="659">
+  <row index="684">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -13200,7 +13700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcf8ef9</cell>
   </row>
-  <row index="660">
+  <row index="685">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -13220,7 +13720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
   </row>
-  <row index="661">
+  <row index="686">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -13240,7 +13740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/817cb88e</cell>
   </row>
-  <row index="662">
+  <row index="687">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -13260,7 +13760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
   </row>
-  <row index="663">
+  <row index="688">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -13280,7 +13780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5138f9</cell>
   </row>
-  <row index="664">
+  <row index="689">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/702dd253-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Belgique 2022 (fr)</cell>
@@ -13300,7 +13800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e311c46</cell>
   </row>
-  <row index="665">
+  <row index="690">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/702dd253-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Belgique 2022 (fr)</cell>
@@ -13320,7 +13820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e9e8d56</cell>
   </row>
-  <row index="666">
+  <row index="691">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/01c0a8f0-en</cell>
     <cell name="title">OECD Economic Surveys: Belgium 2022 (en)</cell>
@@ -13340,7 +13840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27f33a6e</cell>
   </row>
-  <row index="667">
+  <row index="692">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/01c0a8f0-en</cell>
     <cell name="title">OECD Economic Surveys: Belgium 2022 (en)</cell>
@@ -13360,27 +13860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/440a7650</cell>
   </row>
-  <row index="668">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/1e797131-en</cell>
-    <cell name="title">Tax Administration 2022 (en)</cell>
-    <cell name="subtitle">Comparative Information on OECD and other Advanced and Emerging Economies (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-23</cell>
-    <cell name="embargo date">2022-06-15T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e998f704</cell>
-  </row>
-  <row index="669">
+  <row index="693">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1334c634-en</cell>
     <cell name="title">Illicit Trade in High-Risk Sectors (en)</cell>
@@ -13388,7 +13868,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-16</cell>
     <cell name="embargo date">2022-06-16T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13400,7 +13880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/113a0c02</cell>
   </row>
-  <row index="670">
+  <row index="694">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1334c634-en</cell>
     <cell name="title">Illicit Trade in High-Risk Sectors (en)</cell>
@@ -13408,7 +13888,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-16</cell>
     <cell name="embargo date">2022-06-16T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13420,7 +13900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0575355a</cell>
   </row>
-  <row index="671">
+  <row index="695">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b6a2be87-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United Kingdom 2022 (en)</cell>
@@ -13428,7 +13908,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-20</cell>
     <cell name="embargo date">2022-06-20T11:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13440,7 +13920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eec89296</cell>
   </row>
-  <row index="672">
+  <row index="696">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b6a2be87-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United Kingdom 2022 (en)</cell>
@@ -13448,7 +13928,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-20</cell>
     <cell name="embargo date">2022-06-20T11:30:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13460,7 +13940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b759a351</cell>
   </row>
-  <row index="673">
+  <row index="697">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -13468,7 +13948,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-21</cell>
     <cell name="embargo date">2022-06-21T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13480,7 +13960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
   </row>
-  <row index="674">
+  <row index="698">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -13488,7 +13968,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2022-06-21</cell>
     <cell name="embargo date">2022-06-21T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -13500,16 +13980,16 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
   </row>
-  <row index="675">
+  <row index="699">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/3f9009d4-en</cell>
-    <cell name="title">Open Government Review of Brazil  (en)</cell>
-    <cell name="subtitle">Towards an Integrated Open Government Agenda (en)</cell>
+    <cell name="doi">10.1787/33d996b2-en</cell>
+    <cell name="title">Centre of Government Review of Brazil (en)</cell>
+    <cell name="subtitle">Toward an Integrated and Structured Centre of Government (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication"/>
-    <cell name="embargo date">2022-06-22T09:00:00Z</cell>
+    <cell name="embargo date">2022-06-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -13518,13 +13998,33 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85afbef0</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f172886</cell>
   </row>
-  <row index="676">
+  <row index="700">
     <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/3f9009d4-en</cell>
-    <cell name="title">Open Government Review of Brazil  (en)</cell>
-    <cell name="subtitle">Towards an Integrated Open Government Agenda (en)</cell>
+    <cell name="doi">10.1787/33d996b2-en</cell>
+    <cell name="title">Centre of Government Review of Brazil (en)</cell>
+    <cell name="subtitle">Toward an Integrated and Structured Centre of Government (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-06-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b695fc</cell>
+  </row>
+  <row index="701">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/aa1edf33-en</cell>
+    <cell name="title">Global Plastics Outlook (en)</cell>
+    <cell name="subtitle">Policy Scenarios to 2060 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -13536,11 +14036,111 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c64644a</cell>
+  </row>
+  <row index="702">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/3f9009d4-en</cell>
+    <cell name="title">Open Government Review of Brazil  (en)</cell>
+    <cell name="subtitle">Towards an Integrated Open Government Agenda (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-22</cell>
+    <cell name="embargo date">2022-06-22T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85afbef0</cell>
+  </row>
+  <row index="703">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/aa1edf33-en</cell>
+    <cell name="title">Global Plastics Outlook (en)</cell>
+    <cell name="subtitle">Policy Scenarios to 2060 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-06-22T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4114e2d2</cell>
+  </row>
+  <row index="704">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/3f9009d4-en</cell>
+    <cell name="title">Open Government Review of Brazil  (en)</cell>
+    <cell name="subtitle">Towards an Integrated Open Government Agenda (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-22</cell>
+    <cell name="embargo date">2022-06-22T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb01fcb1</cell>
   </row>
-  <row index="677">
+  <row index="705">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/bcc2dd08-en</cell>
+    <cell name="title">Youth at the Centre of Government Action (en)</cell>
+    <cell name="subtitle">A Review of the Middle East and North Africa (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-06-23T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9712cb7</cell>
+  </row>
+  <row index="706">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/bcc2dd08-en</cell>
+    <cell name="title">Youth at the Centre of Government Action (en)</cell>
+    <cell name="subtitle">A Review of the Middle East and North Africa (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-06-23T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5983ffc8</cell>
+  </row>
+  <row index="707">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -13560,7 +14160,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46707ec3</cell>
   </row>
-  <row index="678">
+  <row index="708">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1e797131-en</cell>
+    <cell name="title">Tax Administration 2022 (en)</cell>
+    <cell name="subtitle">Comparative Information on OECD and other Advanced and Emerging Economies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-23</cell>
+    <cell name="embargo date">2022-06-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e998f704</cell>
+  </row>
+  <row index="709">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -13580,7 +14200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ce22834</cell>
   </row>
-  <row index="679">
+  <row index="710">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -13600,7 +14220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43256fb7</cell>
   </row>
-  <row index="680">
+  <row index="711">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34a988b3-es</cell>
     <cell name="title">Igualdad de género en el Perú (es)</cell>
@@ -13620,7 +14240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59372c27</cell>
   </row>
-  <row index="681">
+  <row index="712">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34a988b3-es</cell>
     <cell name="title">Igualdad de género en el Perú (es)</cell>
@@ -13640,7 +14260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25437dea</cell>
   </row>
-  <row index="682">
+  <row index="713">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f6a31728-fr</cell>
     <cell name="title">Instaurer la confiance pour renforcer la démocratie (fr)</cell>
@@ -13660,7 +14280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0152609</cell>
   </row>
-  <row index="683">
+  <row index="714">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b407f99c-en</cell>
     <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
@@ -13680,7 +14300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dda21511</cell>
   </row>
-  <row index="684">
+  <row index="715">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b407f99c-en</cell>
     <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
@@ -13700,7 +14320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08e7eb9f</cell>
   </row>
-  <row index="685">
+  <row index="716">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f6a31728-fr</cell>
     <cell name="title">Instaurer la confiance pour renforcer la démocratie (fr)</cell>
@@ -13720,7 +14340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b90c6ecc</cell>
   </row>
-  <row index="686">
+  <row index="717">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -13740,7 +14360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e5bdf71</cell>
   </row>
-  <row index="687">
+  <row index="718">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
