@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 May 2022 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Marketplace and FinTech lending for SMEs in the COVID-19 crisis](https://doi.org/10.1787/ff11697f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 May 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 25 May 2022 at 20:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
 
@@ -128,7 +105,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
+- [x] Exported to iLibrary Wednesday 25 May 2022 at 20:30
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
 
@@ -162,29 +139,6 @@ Wednesday 1 June 2022 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Reviews of Innovation Policy: Germany  - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 5 June 2022 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -552,6 +506,29 @@ Tuesday 28 June 2022 at 11:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Reviews of Innovation Policy: Germany  - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 October 2022 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
