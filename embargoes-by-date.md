@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 May 2022 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 26 May 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 May 2022](#24-may-2022)
 * [27 May 2022](#27-may-2022)
 * [30 May 2022](#30-may-2022)
 * [1 June 2022](#1-june-2022)
@@ -22,56 +21,6 @@ Data generated on | |
 
 ------
 
-# 24 May 2022
-
-## [Les impôts sur les salaires 2022 - L'impact du COVID-19 sur le coin fiscal dans les pays de l’OCDE ](https://doi.org/10.1787/cd7faa8e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 May 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 May 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Taxing Wages 2022 - Impact of COVID-19 on the Tax Wedge in OECD Countries](https://doi.org/10.1787/f7f1e68a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 May 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 May 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 27 May 2022
 
 ## [Benefits of regional co-operation on the energy-water-land use nexus transformation in Central Asia](https://doi.org/10.1787/7fcec36c-en)
@@ -85,7 +34,7 @@ Friday 27 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
+- [x] Exported to OECD.org Thursday 26 May 2022 at 19:57
 
 ### Additional Information
 
@@ -108,7 +57,7 @@ Friday 27 May 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
+- [x] Exported to OECD.org Thursday 26 May 2022 at 19:57
 
 ### Additional Information
 
