@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 May 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 May 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Benefits of regional co-operation on the energy-water-land use nexus transformation in Central Asia](https://doi.org/10.1787/7fcec36c-en)
 
@@ -15,7 +15,7 @@ Friday 27 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 May 2022 at 19:57
+- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Friday 27 May 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 May 2022 at 19:57
+- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
 
 ### Additional Information
 
@@ -47,6 +47,29 @@ Friday 27 May 2022 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Cluster analysis to assess the transferability of public health interventions](https://doi.org/10.1787/a5b1dcc1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 May 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -66,6 +89,29 @@ Monday 30 May 2022 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Serving citizens - Measuring the performance of services for a better user experience](https://doi.org/10.1787/65223af7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 May 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 May 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
