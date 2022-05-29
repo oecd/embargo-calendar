@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 May 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Benefits of regional co-operation on the energy-water-land use nexus transformation in Central Asia](https://doi.org/10.1787/7fcec36c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [National Urban Policy Review of Colombia](https://doi.org/10.1787/9ca1caae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 May 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 May 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 29 May 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cluster analysis to assess the transferability of public health interventions](https://doi.org/10.1787/a5b1dcc1-en)
 
@@ -61,7 +15,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 May 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
+- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 25 May 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 May 2022 at 20:02
+- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 May 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 May 2022 at 19:58
+- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
 
 ### Additional Information
 
