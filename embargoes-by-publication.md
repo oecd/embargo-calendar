@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 May 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 30 May 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cluster analysis to assess the transferability of public health interventions](https://doi.org/10.1787/a5b1dcc1-en)
 
@@ -15,7 +15,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 May 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
+- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 25 May 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
+- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 30 May 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 May 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 May 2022 at 19:54
+- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
 
 ### Additional Information
 
@@ -211,29 +211,6 @@ Monday 20 June 2022 at 11:30 | no launch event
 
 ------
 
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
 
 Embargo date | Launch date
@@ -319,6 +296,29 @@ Thursday 23 June 2022 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Agricultural Policy Monitoring and Evaluation 2022 - Reforming Agricultural Policies for Climate Change Mitigation](https://doi.org/10.1787/7f4542bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 7:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -446,6 +446,75 @@ Monday 27 June 2022 at 7:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 28 June 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Assessing Canada’s System of Impact Evaluation of Active Labour Market Policies](https://doi.org/10.1787/27dfbd5f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 June 2022 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2022-2031](https://doi.org/10.1787/f1b0b29c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 June 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 July 2022 at 7:00 | no launch event
 
 ### Status Information
 
