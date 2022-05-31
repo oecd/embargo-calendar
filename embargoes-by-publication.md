@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 May 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 31 May 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cluster analysis to assess the transferability of public health interventions](https://doi.org/10.1787/a5b1dcc1-en)
 
@@ -82,17 +82,40 @@ Wednesday 1 June 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 31 May 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Expanding access to finance to boost growth and reduce inequalities in Mexico](https://doi.org/10.1787/2de3cd7d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 31 May 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
