@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 31 May 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 June 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 May 2022](#30-may-2022)
 * [1 June 2022](#1-june-2022)
 * [3 June 2022](#3-june-2022)
+* [8 June 2022](#8-june-2022)
 * [10 June 2022](#10-june-2022)
 * [14 June 2022](#14-june-2022)
 * [16 June 2022](#16-june-2022)
@@ -19,79 +19,6 @@ Data generated on | |
 * [29 June 2022](#29-june-2022)
 * [15 July 2022](#15-july-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 30 May 2022
-
-## [Cluster analysis to assess the transferability of public health interventions](https://doi.org/10.1787/a5b1dcc1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 May 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Agricultural Total Factor Productivity and the environment - A guide to emerging best practices in measurement](https://doi.org/10.1787/6fe2f9e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 May 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Serving citizens - Measuring the performance of services for a better user experience](https://doi.org/10.1787/65223af7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 May 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 May 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 May 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -108,7 +35,7 @@ Wednesday 1 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 May 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 1 June 2022 at 19:56
 
 ### Additional Information
 
@@ -144,6 +71,33 @@ Friday 3 June 2022 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 8 June 2022
+
+## [OECD Economic Outlook, Volume 2022 Issue 1 - Preliminary version](https://doi.org/10.1787/62d0ca31-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
