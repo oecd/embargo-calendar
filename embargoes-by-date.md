@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 June 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 2 June 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [1 June 2022](#1-june-2022)
 * [3 June 2022](#3-june-2022)
@@ -62,7 +62,7 @@ Friday 3 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 May 2022 at 19:56
+- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
 
 ### Additional Information
 
@@ -77,6 +77,29 @@ Friday 3 June 2022 at 5:00 | no launch event
 ------
 
 # 8 June 2022
+
+## [Climate change and low-carbon transition policies in state-owned enterprises](https://doi.org/10.1787/e3f7346c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Outlook, Volume 2022 Issue 1 - Preliminary version](https://doi.org/10.1787/62d0ca31-en)
 
@@ -291,15 +314,15 @@ Wednesday 22 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
