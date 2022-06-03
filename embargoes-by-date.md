@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 2 June 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 3 June 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 June 2022](#1-june-2022)
 * [3 June 2022](#3-june-2022)
 * [8 June 2022](#8-june-2022)
 * [10 June 2022](#10-june-2022)
@@ -22,33 +21,6 @@ Data generated on | |
 
 ------
 
-# 1 June 2022
-
-## [Trade and Gender Review of New Zealand](https://doi.org/10.1787/923576ea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 3 June 2022
 
 ## [Expanding access to finance to boost growth and reduce inequalities in Mexico](https://doi.org/10.1787/2de3cd7d-en)
@@ -62,7 +34,7 @@ Friday 3 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
 
 ### Additional Information
 
@@ -77,6 +49,52 @@ Friday 3 June 2022 at 5:00 | no launch event
 ------
 
 # 8 June 2022
+
+## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Eliminating government support to illegal, unreported and unregulated fishing](https://doi.org/10.1787/f09ab3a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Climate change and low-carbon transition policies in state-owned enterprises](https://doi.org/10.1787/e3f7346c-en)
 
@@ -101,7 +119,30 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Volume 2022 Issue 1 - Preliminary version](https://doi.org/10.1787/62d0ca31-en)
+## [Perspectives économiques de l'OCDE, Volume 2022 Numéro 1 - Version préliminaire](https://doi.org/10.1787/ede49c4e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Prospettive economiche dell'OCSE, Volume 2022 Numero 1 - Versione Preliminare](https://doi.org/10.1787/50afd3a1-it)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -117,8 +158,31 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *English*
+* Language: *Italian*
 * Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2022 Issue 1 - Preliminary version](https://doi.org/10.1787/62d0ca31-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -137,15 +201,15 @@ Friday 10 June 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -174,7 +238,7 @@ Tuesday 14 June 2022 at 13:10 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
