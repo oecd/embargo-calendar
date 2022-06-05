@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 June 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 5 June 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 June 2022](#3-june-2022)
 * [8 June 2022](#8-june-2022)
 * [10 June 2022](#10-june-2022)
 * [14 June 2022](#14-june-2022)
@@ -18,33 +17,6 @@ Data generated on | |
 * [29 June 2022](#29-june-2022)
 * [15 July 2022](#15-july-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 3 June 2022
-
-## [Expanding access to finance to boost growth and reduce inequalities in Mexico](https://doi.org/10.1787/2de3cd7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 

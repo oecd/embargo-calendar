@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 June 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Expanding access to finance to boost growth and reduce inequalities in Mexico](https://doi.org/10.1787/2de3cd7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 May 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 5 June 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
 
