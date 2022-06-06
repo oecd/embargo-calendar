@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 June 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 6 June 2022 at 20:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
 
