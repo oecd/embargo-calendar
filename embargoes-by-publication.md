@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 June 2022 at 20:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 June 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
 
@@ -15,7 +15,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
@@ -82,15 +82,15 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -104,8 +104,8 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,9 +113,9 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -127,37 +127,37 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
+## [Assisting Care Leavers - Time for Action](https://doi.org/10.1787/1939a9ec-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 10 June 2022 at 6:00 | no launch event
+Monday 13 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
@@ -257,6 +257,29 @@ Monday 20 June 2022 at 11:30 | no launch event
 
 ------
 
+## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
 
 Embargo date | Launch date
@@ -299,29 +322,6 @@ Wednesday 22 June 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -496,17 +496,17 @@ Tuesday 28 June 2022 at 11:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -576,6 +576,29 @@ Friday 15 July 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 July 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
