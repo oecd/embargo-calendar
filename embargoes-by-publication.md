@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 June 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 8 June 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
 
@@ -15,7 +15,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 8 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
@@ -81,10 +81,10 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
@@ -105,7 +105,7 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [x] Exported to iLibrary Wednesday 8 June 2022 at 9:26
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -128,9 +128,9 @@ Wednesday 8 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
@@ -169,7 +169,7 @@ Monday 13 June 2022 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 June 2022 at 13:10 | no launch event
+Tuesday 14 June 2022 at 8:30 | no launch event
 
 ### Status Information
 
@@ -192,11 +192,11 @@ Tuesday 14 June 2022 at 13:10 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 June 2022 at 13:10 | no launch event
+Tuesday 14 June 2022 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -207,7 +207,7 @@ Tuesday 14 June 2022 at 13:10 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -219,7 +219,7 @@ Thursday 16 June 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -243,15 +243,15 @@ Monday 20 June 2022 at 11:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -345,7 +345,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -487,6 +487,29 @@ Monday 27 June 2022 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: United States 2022](https://doi.org/10.1787/eeb7cbe9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Better Regulation Practices across the European Union 2022](https://doi.org/10.1787/6e4b095d-en)
 
 Embargo date | Launch date
@@ -553,6 +576,52 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives agricoles de l’OCDE et de la FAO 2022-2031](https://doi.org/10.1787/63c6c63f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 June 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 July 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
