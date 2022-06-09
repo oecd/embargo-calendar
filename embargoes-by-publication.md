@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 June 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 9 June 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
 
@@ -169,11 +169,11 @@ Monday 13 June 2022 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 June 2022 at 8:30 | no launch event
+Tuesday 14 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -192,7 +192,7 @@ Tuesday 14 June 2022 at 8:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 June 2022 at 8:30 | no launch event
+Tuesday 14 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -326,6 +326,29 @@ Wednesday 22 June 2022 at 9:00 | no launch event
 
 ------
 
+## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Youth at the Centre of Government Action - A Review of the Middle East and North Africa](https://doi.org/10.1787/bcc2dd08-en)
 
 Embargo date | Launch date
@@ -346,29 +369,6 @@ Thursday 23 June 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Agricultural Policy Monitoring and Evaluation 2022 - Reforming Agricultural Policies for Climate Change Mitigation](https://doi.org/10.1787/7f4542bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 7:01 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -395,11 +395,11 @@ Thursday 23 June 2022 at 9:00 | no launch event
 
 ------
 
-## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
+## [Agricultural Policy Monitoring and Evaluation 2022 - Reforming Agricultural Policies for Climate Change Mitigation](https://doi.org/10.1787/7f4542bf-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 24 June 2022 at 10:00 | no launch event
+Thursday 23 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -410,10 +410,33 @@ Friday 24 June 2022 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Politiques agricoles : Suivi et évaluation 2022 (version abrégée) - Réformer les politiques agricoles pour atténuer le changement climatique](https://doi.org/10.1787/247b9928-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -518,16 +541,16 @@ Tuesday 28 June 2022 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Thursday 9 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -621,7 +644,7 @@ Tuesday 5 July 2022 at 10:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
