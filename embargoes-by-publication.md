@@ -2,143 +2,28 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 June 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 10 June 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Legal frameworks for the social and solidarity economy - OECD Global Action “Promoting Social and Solidarity Economy Ecosystems”](https://doi.org/10.1787/480a47fd-en)
+## [Policies to Support Green Entrepreneurship - Building a Hub for Green Entrepreneurship in Denmark](https://doi.org/10.1787/e92b1946-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 8 June 2022 at 5:00 | no launch event
+Monday 13 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
+- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
+- [x] Exported to OECD.org Friday 10 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Eliminating government support to illegal, unreported and unregulated fishing](https://doi.org/10.1787/f09ab3a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Climate change and low-carbon transition policies in state-owned enterprises](https://doi.org/10.1787/e3f7346c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2022 Numéro 1 - Version préliminaire](https://doi.org/10.1787/ede49c4e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Prospettive economiche dell'OCSE, Volume 2022 Numero 1 - Versione Preliminare](https://doi.org/10.1787/50afd3a1-it)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 June 2022 at 9:26
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2022 Issue 1 - Preliminary version](https://doi.org/10.1787/62d0ca31-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -162,6 +47,52 @@ Monday 13 June 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [A Preliminary Mapping of Data Localisation Measures](https://doi.org/10.1787/c5ca3fed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 June 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Monitoring land use in cities using satellite imagery and deep learning](https://doi.org/10.1787/dc8e85d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 June 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -231,6 +162,52 @@ Thursday 16 June 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Tackling air pollution in dense urban areas - The case of Santiago, Chile](https://doi.org/10.1787/4c8a4f94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 June 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Strengthening Career Guidance for Mid-Career Adults in Australia](https://doi.org/10.1787/e08803ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 June 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -391,7 +368,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -437,7 +414,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -542,7 +519,7 @@ Tuesday 28 June 2022 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 June 2022 at 20:17
+- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 9 June 2022 at 19:57
 
