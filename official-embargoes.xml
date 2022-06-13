@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-06-12T20:31:30.0293297+02:00">
+<report name="official-embargoes" generated="2022-06-13T20:50:07.0303171+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -133,7 +133,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-10T18:19:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -233,7 +233,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-10T18:19:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -273,7 +273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-07T18:17:53Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -373,7 +373,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-10T18:19:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -493,7 +493,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-07T18:17:53Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -593,7 +593,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-06-10T18:19:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-06-12T17:52:44Z</cell>
+    <cell name="oecd.org last export date">2022-06-13T17:58:53Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -1381,6 +1381,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b759a351</cell>
   </row>
   <row index="69">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d81c15d7-en</cell>
+    <cell name="title">Regulatory Reform in Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-21</cell>
+    <cell name="embargo date">2022-06-21T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aabe9bf7</cell>
+  </row>
+  <row index="70">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/aa1edf33-en</cell>
     <cell name="title">Global Plastics Outlook (en)</cell>
@@ -1400,7 +1420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c64644a</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/aa1edf33-en</cell>
     <cell name="title">Global Plastics Outlook (en)</cell>
@@ -1420,7 +1440,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4114e2d2</cell>
   </row>
-  <row index="71">
+  <row index="72">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d81c15d7-en</cell>
+    <cell name="title">Regulatory Reform in Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-21</cell>
+    <cell name="embargo date">2022-06-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef2e9d73</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d81c15d7-en</cell>
+    <cell name="title">Regulatory Reform in Brazil (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-21</cell>
+    <cell name="embargo date">2022-06-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41bd6131</cell>
+  </row>
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/33d996b2-en</cell>
     <cell name="title">Centre of Government Review of Brazil (en)</cell>
@@ -1440,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f172886</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/33d996b2-en</cell>
     <cell name="title">Centre of Government Review of Brazil (en)</cell>
@@ -1460,27 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b695fc</cell>
   </row>
-  <row index="73">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/3f9009d4-en</cell>
-    <cell name="title">Open Government Review of Brazil  (en)</cell>
-    <cell name="subtitle">Towards an Integrated Open Government Agenda (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-22</cell>
-    <cell name="embargo date">2022-06-22T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85afbef0</cell>
-  </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3f9009d4-en</cell>
     <cell name="title">Open Government Review of Brazil  (en)</cell>
@@ -1488,7 +1528,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-22</cell>
+    <cell name="date of publication">2022-06-21</cell>
     <cell name="embargo date">2022-06-22T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb01fcb1</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -1520,7 +1560,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ce22834</cell>
   </row>
-  <row index="76">
+  <row index="78">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/34a988b3-es</cell>
+    <cell name="title">Igualdad de género en el Perú (es)</cell>
+    <cell name="subtitle">Hacia una mejor distribución del trabajo remunerado y no remunerado (es)</cell>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-23</cell>
+    <cell name="embargo date">2022-06-23T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59372c27</cell>
+  </row>
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bcc2dd08-en</cell>
     <cell name="title">Youth at the Centre of Government Action (en)</cell>
@@ -1540,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab1b4820</cell>
   </row>
-  <row index="77">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bcc2dd08-en</cell>
     <cell name="title">Youth at the Centre of Government Action (en)</cell>
@@ -1560,7 +1620,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9712cb7</cell>
   </row>
-  <row index="78">
+  <row index="81">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/c798990a-fr</cell>
+    <cell name="title">Institutions sociales et égalité femmes-hommes en Côte d’Ivoire (fr)</cell>
+    <cell name="subtitle">Rapport pays SIGI (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-23</cell>
+    <cell name="embargo date">2022-06-23T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29b8c759</cell>
+  </row>
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bcc2dd08-en</cell>
     <cell name="title">Youth at the Centre of Government Action (en)</cell>
@@ -1580,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df78d5dd</cell>
   </row>
-  <row index="79">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/bcc2dd08-en</cell>
     <cell name="title">Youth at the Centre of Government Action (en)</cell>
@@ -1600,7 +1680,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5983ffc8</cell>
   </row>
-  <row index="80">
+  <row index="84">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/c798990a-fr</cell>
+    <cell name="title">Institutions sociales et égalité femmes-hommes en Côte d’Ivoire (fr)</cell>
+    <cell name="subtitle">Rapport pays SIGI (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-06-23</cell>
+    <cell name="embargo date">2022-06-23T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9dd7bf2</cell>
+  </row>
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7f4542bf-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2022 (en)</cell>
@@ -1620,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5efd9f7d</cell>
   </row>
-  <row index="81">
+  <row index="86">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -1640,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46707ec3</cell>
   </row>
-  <row index="82">
+  <row index="87">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -1660,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a98049bd</cell>
   </row>
-  <row index="83">
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -1680,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e998f704</cell>
   </row>
-  <row index="84">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7f4542bf-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2022 (en)</cell>
@@ -1700,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f3d620a</cell>
   </row>
-  <row index="85">
+  <row index="90">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/247b9928-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2022 (version abrégée) (fr)</cell>
@@ -1720,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/862028fe</cell>
   </row>
-  <row index="86">
+  <row index="91">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/247b9928-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2022 (version abrégée) (fr)</cell>
@@ -1740,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54459aa3</cell>
   </row>
-  <row index="87">
+  <row index="92">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/247b9928-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2022 (version abrégée) (fr)</cell>
@@ -1760,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/483728d2</cell>
   </row>
-  <row index="88">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1e797131-en</cell>
     <cell name="title">Tax Administration 2022 (en)</cell>
@@ -1780,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2df9a698</cell>
   </row>
-  <row index="89">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/247b9928-fr</cell>
     <cell name="title">Politiques agricoles : Suivi et évaluation 2022 (version abrégée) (fr)</cell>
@@ -1800,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4bd0d79</cell>
   </row>
-  <row index="90">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e53901b5-en</cell>
     <cell name="title">Gender Equality in Peru (en)</cell>
@@ -1820,27 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43256fb7</cell>
   </row>
-  <row index="91">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/34a988b3-es</cell>
-    <cell name="title">Igualdad de género en el Perú (es)</cell>
-    <cell name="subtitle">Hacia una mejor distribución del trabajo remunerado y no remunerado (es)</cell>
-    <cell name="language">Spanish</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-24</cell>
-    <cell name="embargo date">2022-06-24T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59372c27</cell>
-  </row>
-  <row index="92">
+  <row index="96">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34a988b3-es</cell>
     <cell name="title">Igualdad de género en el Perú (es)</cell>
@@ -1848,7 +1928,7 @@
     <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-24</cell>
+    <cell name="date of publication">2022-06-23</cell>
     <cell name="embargo date">2022-06-24T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1860,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25437dea</cell>
   </row>
-  <row index="93">
+  <row index="97">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f6a31728-fr</cell>
     <cell name="title">Instaurer la confiance pour renforcer la démocratie (fr)</cell>
@@ -1880,27 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0152609</cell>
   </row>
-  <row index="94">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/b407f99c-en</cell>
-    <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
-    <cell name="subtitle">Main Findings from the OECD Survey on Drivers of Trust in Public Institutions (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-27</cell>
-    <cell name="embargo date">2022-06-27T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dda21511</cell>
-  </row>
-  <row index="95">
+  <row index="98">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b407f99c-en</cell>
     <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
@@ -1908,7 +1968,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-06-27</cell>
+    <cell name="date of publication">2022-07-13</cell>
     <cell name="embargo date">2022-06-27T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1920,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08e7eb9f</cell>
   </row>
-  <row index="96">
+  <row index="99">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f6a31728-fr</cell>
     <cell name="title">Instaurer la confiance pour renforcer la démocratie (fr)</cell>
@@ -1940,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b90c6ecc</cell>
   </row>
-  <row index="97">
+  <row index="100">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eeb7cbe9-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2022 (en)</cell>
@@ -1960,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae8637a8</cell>
   </row>
-  <row index="98">
+  <row index="101">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/eeb7cbe9-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2022 (en)</cell>
@@ -1980,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0fbcab4</cell>
   </row>
-  <row index="99">
+  <row index="102">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/067524da-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -2000,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92f9bf6a</cell>
   </row>
-  <row index="100">
+  <row index="103">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0714732c-en</cell>
     <cell name="title">France (en)</cell>
@@ -2020,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47464e44</cell>
   </row>
-  <row index="101">
+  <row index="104">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/69f692e6-en</cell>
     <cell name="title">Cyprus (en)</cell>
@@ -2040,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2004d9e</cell>
   </row>
-  <row index="102">
+  <row index="105">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/13dbadb3-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -2060,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffc2123f</cell>
   </row>
-  <row index="103">
+  <row index="106">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e83e84ff-en</cell>
     <cell name="title">General trends and institutional settings (en)</cell>
@@ -2080,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ddfcad8</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dfe69534-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -2100,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ba0f185</cell>
   </row>
-  <row index="105">
+  <row index="108">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6461243f-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -2120,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c15fec0</cell>
   </row>
-  <row index="106">
+  <row index="109">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9a288a0b-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -2140,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ce21cb6</cell>
   </row>
-  <row index="107">
+  <row index="110">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/000a6f80-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -2160,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0802d0e</cell>
   </row>
-  <row index="108">
+  <row index="111">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36e7cf85-en</cell>
     <cell name="title">European Union (en)</cell>
@@ -2180,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbca691c</cell>
   </row>
-  <row index="109">
+  <row index="112">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3b46f4aa-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -2200,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb86c0b1</cell>
   </row>
-  <row index="110">
+  <row index="113">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1d20a157-en</cell>
     <cell name="title">Malta (en)</cell>
@@ -2220,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e9378f1</cell>
   </row>
-  <row index="111">
+  <row index="114">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dc403ac7-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -2240,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92b03e30</cell>
   </row>
-  <row index="112">
+  <row index="115">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/016e358a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2260,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0e0a032</cell>
   </row>
-  <row index="113">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/805048d8-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -2280,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ebf8f97</cell>
   </row>
-  <row index="114">
+  <row index="117">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/13d9b769-en</cell>
     <cell name="title">Bulgaria (en)</cell>
@@ -2300,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9176353</cell>
   </row>
-  <row index="115">
+  <row index="118">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/067524da-en</cell>
     <cell name="title">Latvia (en)</cell>
@@ -2320,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/302fe34a</cell>
   </row>
-  <row index="116">
+  <row index="119">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0714732c-en</cell>
     <cell name="title">France (en)</cell>
@@ -2340,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f83a7174</cell>
   </row>
-  <row index="117">
+  <row index="120">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e83e84ff-en</cell>
     <cell name="title">General trends and institutional settings (en)</cell>
@@ -2360,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82285729</cell>
   </row>
-  <row index="118">
+  <row index="121">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/49ec2162-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -2380,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6756882</cell>
   </row>
-  <row index="119">
+  <row index="122">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87f31ae2-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -2400,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cff42840</cell>
   </row>
-  <row index="120">
+  <row index="123">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/079640f3-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -2420,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41078ff1</cell>
   </row>
-  <row index="121">
+  <row index="124">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a683c421-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -2440,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f782c7b</cell>
   </row>
-  <row index="122">
+  <row index="125">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/000a6f80-en</cell>
     <cell name="title">Slovenia (en)</cell>
@@ -2460,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51cdf07a</cell>
   </row>
-  <row index="123">
+  <row index="126">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0981c3a7-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -2480,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e9e3d48</cell>
   </row>
-  <row index="124">
+  <row index="127">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3b46f4aa-en</cell>
     <cell name="title">Estonia (en)</cell>
@@ -2500,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f54e6c9c</cell>
   </row>
-  <row index="125">
+  <row index="128">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4dc835f8-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -2520,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e0f437a</cell>
   </row>
-  <row index="126">
+  <row index="129">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/02ff7088-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -2540,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb863e48</cell>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/14e46d27-en</cell>
     <cell name="title">Ex post evaluation (en)</cell>
@@ -2560,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/558794a9</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/016e358a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2580,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54fa7a96</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/89d0300b-en</cell>
     <cell name="title">Stakeholder engagement across the European Union (en)</cell>
@@ -2600,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e9e25320</cell>
   </row>
-  <row index="130">
+  <row index="133">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f155d9bd-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -2620,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9865883a</cell>
   </row>
-  <row index="131">
+  <row index="134">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/101d0676-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -2640,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04a7a37e</cell>
   </row>
-  <row index="132">
+  <row index="135">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dc403ac7-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -2660,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f662ef6</cell>
   </row>
-  <row index="133">
+  <row index="136">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0bc30379-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -2680,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/85adb136</cell>
   </row>
-  <row index="134">
+  <row index="137">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dfe69534-en</cell>
     <cell name="title">Poland (en)</cell>
@@ -2700,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f4e7eb3</cell>
   </row>
-  <row index="135">
+  <row index="138">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6461243f-en</cell>
     <cell name="title">Croatia (en)</cell>
@@ -2720,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7c27c6d</cell>
   </row>
-  <row index="136">
+  <row index="139">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -2740,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9eefc11e</cell>
   </row>
-  <row index="137">
+  <row index="140">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36e7cf85-en</cell>
     <cell name="title">European Union (en)</cell>
@@ -2760,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9865552</cell>
   </row>
-  <row index="138">
+  <row index="141">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/13dbadb3-en</cell>
     <cell name="title">Portugal (en)</cell>
@@ -2780,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd818e84</cell>
   </row>
-  <row index="139">
+  <row index="142">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ff3e13f1-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -2800,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79583fe</cell>
   </row>
-  <row index="140">
+  <row index="143">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/13d9b769-en</cell>
     <cell name="title">Bulgaria (en)</cell>
@@ -2820,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d28a66ae</cell>
   </row>
-  <row index="141">
+  <row index="144">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9a288a0b-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -2840,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac13aaf0</cell>
   </row>
-  <row index="142">
+  <row index="145">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ff1e076-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -2860,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c0683dd</cell>
   </row>
-  <row index="143">
+  <row index="146">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/70c2cc89-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2880,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4e2913f</cell>
   </row>
-  <row index="144">
+  <row index="147">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -2900,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a3eacc2</cell>
   </row>
-  <row index="145">
+  <row index="148">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/02ff7088-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -2920,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/684d6177</cell>
   </row>
-  <row index="146">
+  <row index="149">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0981c3a7-en</cell>
     <cell name="title">Belgium (en)</cell>
@@ -2940,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cde7120c</cell>
   </row>
-  <row index="147">
+  <row index="150">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -2960,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e5bdf71</cell>
   </row>
-  <row index="148">
+  <row index="151">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/805048d8-en</cell>
     <cell name="title">Finland (en)</cell>
@@ -2980,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec133945</cell>
   </row>
-  <row index="149">
+  <row index="152">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/93059542-en</cell>
     <cell name="title">The use of regulatory impact assessment across the European Union (en)</cell>
@@ -3000,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37fd15ce</cell>
   </row>
-  <row index="150">
+  <row index="153">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/49ec2162-en</cell>
     <cell name="title">Lithuania (en)</cell>
@@ -3020,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40038475</cell>
   </row>
-  <row index="151">
+  <row index="154">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2a51b77-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -3040,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe299882</cell>
   </row>
-  <row index="152">
+  <row index="155">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2a51b77-en</cell>
     <cell name="title">Hungary (en)</cell>
@@ -3060,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24a8060b</cell>
   </row>
-  <row index="153">
+  <row index="156">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6ff1e076-en</cell>
     <cell name="title">Slovak Republic (en)</cell>
@@ -3080,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eca4bb3</cell>
   </row>
-  <row index="154">
+  <row index="157">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cdc8743a-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -3100,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/258a09b8</cell>
   </row>
-  <row index="155">
+  <row index="158">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4dc835f8-en</cell>
     <cell name="title">Sweden (en)</cell>
@@ -3120,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/938fe016</cell>
   </row>
-  <row index="156">
+  <row index="159">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36caece8-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -3140,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c51e625d</cell>
   </row>
-  <row index="157">
+  <row index="160">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1d20a157-en</cell>
     <cell name="title">Malta (en)</cell>
@@ -3160,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa061d29</cell>
   </row>
-  <row index="158">
+  <row index="161">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/70c2cc89-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3180,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffa840ef</cell>
   </row>
-  <row index="159">
+  <row index="162">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/101d0676-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -3200,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/485eda08</cell>
   </row>
-  <row index="160">
+  <row index="163">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/36caece8-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -3220,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a83ef9b</cell>
   </row>
-  <row index="161">
+  <row index="164">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2f420434-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -3240,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c5cf1df</cell>
   </row>
-  <row index="162">
+  <row index="165">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0bc30379-en</cell>
     <cell name="title">Austria (en)</cell>
@@ -3260,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea1156ca</cell>
   </row>
-  <row index="163">
+  <row index="166">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/60c8d351-en</cell>
     <cell name="title">Czech Republic (en)</cell>
@@ -3280,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d688b481</cell>
   </row>
-  <row index="164">
+  <row index="167">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/93059542-en</cell>
     <cell name="title">The use of regulatory impact assessment across the European Union (en)</cell>
@@ -3300,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c637248</cell>
   </row>
-  <row index="165">
+  <row index="168">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cdc8743a-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -3320,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e0b2efa</cell>
   </row>
-  <row index="166">
+  <row index="169">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/079640f3-en</cell>
     <cell name="title">Ireland (en)</cell>
@@ -3340,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25ef440b</cell>
   </row>
-  <row index="167">
+  <row index="170">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/89d0300b-en</cell>
     <cell name="title">Stakeholder engagement across the European Union (en)</cell>
@@ -3360,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5a1b4c0</cell>
   </row>
-  <row index="168">
+  <row index="171">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87f31ae2-en</cell>
     <cell name="title">Luxembourg (en)</cell>
@@ -3380,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/141433b7</cell>
   </row>
-  <row index="169">
+  <row index="172">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ff3e13f1-en</cell>
     <cell name="title">Greece (en)</cell>
@@ -3400,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02953a86</cell>
   </row>
-  <row index="170">
+  <row index="173">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a683c421-en</cell>
     <cell name="title">Denmark (en)</cell>
@@ -3420,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28e92c80</cell>
   </row>
-  <row index="171">
+  <row index="174">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6e4b095d-en</cell>
     <cell name="title">Better Regulation Practices across the European Union 2022 (en)</cell>
@@ -3440,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c280fad</cell>
   </row>
-  <row index="172">
+  <row index="175">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/69f692e6-en</cell>
     <cell name="title">Cyprus (en)</cell>
@@ -3460,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfbf5e4f</cell>
   </row>
-  <row index="173">
+  <row index="176">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2f420434-en</cell>
     <cell name="title">Romania (en)</cell>
@@ -3480,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc17c7b3</cell>
   </row>
-  <row index="174">
+  <row index="177">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/14e46d27-en</cell>
     <cell name="title">Ex post evaluation (en)</cell>
@@ -3500,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f36189e</cell>
   </row>
-  <row index="175">
+  <row index="178">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/60c8d351-en</cell>
     <cell name="title">Czech Republic (en)</cell>
@@ -3520,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/660fcdb0</cell>
   </row>
-  <row index="176">
+  <row index="179">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f155d9bd-en</cell>
     <cell name="title">Netherlands (en)</cell>
@@ -3540,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c95e09a0</cell>
   </row>
-  <row index="177">
+  <row index="180">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/27dfbd5f-en</cell>
     <cell name="title">Assessing Canada’s System of Impact Evaluation of Active Labour Market Policies (en)</cell>
@@ -3560,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45170cf9</cell>
   </row>
-  <row index="178">
+  <row index="181">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/27dfbd5f-en</cell>
     <cell name="title">Assessing Canada’s System of Impact Evaluation of Active Labour Market Policies (en)</cell>
@@ -3580,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddc815e</cell>
   </row>
-  <row index="179">
+  <row index="182">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0b29c-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2022-2031 (en)</cell>
@@ -3600,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/333e4ba9</cell>
   </row>
-  <row index="180">
+  <row index="183">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0b29c-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2022-2031 (en)</cell>
@@ -3620,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52b6ee84</cell>
   </row>
-  <row index="181">
+  <row index="184">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/63c6c63f-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2022-2031 (fr)</cell>
@@ -3640,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c48bc322</cell>
   </row>
-  <row index="182">
+  <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/63c6c63f-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2022-2031 (fr)</cell>
@@ -3660,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7e56734</cell>
   </row>
-  <row index="183">
+  <row index="186">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3680,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf0d53f7</cell>
   </row>
-  <row index="184">
+  <row index="187">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3700,7 +3760,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6bc2607</cell>
   </row>
-  <row index="185">
+  <row index="188">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/b407f99c-en</cell>
+    <cell name="title">Building Trust to Reinforce Democracy (en)</cell>
+    <cell name="subtitle">Main Findings from the OECD Survey on Drivers of Trust in Public Institutions (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-07-13</cell>
+    <cell name="embargo date">2022-07-13T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dda21511</cell>
+  </row>
+  <row index="189">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -3720,7 +3800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
   </row>
-  <row index="186">
+  <row index="190">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -3740,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
   </row>
-  <row index="187">
+  <row index="191">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -3760,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2d6ba0</cell>
   </row>
-  <row index="188">
+  <row index="192">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -3780,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9f39821</cell>
   </row>
-  <row index="189">
+  <row index="193">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3800,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f23f3ee0</cell>
   </row>
-  <row index="190">
+  <row index="194">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -3820,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="191">
+  <row index="195">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -3840,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="192">
+  <row index="196">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -3860,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7b4f876</cell>
   </row>
-  <row index="193">
+  <row index="197">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -3880,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff397ebb</cell>
   </row>
-  <row index="194">
+  <row index="198">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -3900,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8a074de</cell>
   </row>
-  <row index="195">
+  <row index="199">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -3920,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0420cddf</cell>
   </row>
-  <row index="196">
+  <row index="200">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3940,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38094870</cell>
   </row>
-  <row index="197">
+  <row index="201">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -3960,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2f4f52</cell>
   </row>
-  <row index="198">
+  <row index="202">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3980,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcf8ef9</cell>
   </row>
-  <row index="199">
+  <row index="203">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4000,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
   </row>
-  <row index="200">
+  <row index="204">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -4020,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/817cb88e</cell>
   </row>
-  <row index="201">
+  <row index="205">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4040,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
   </row>
-  <row index="202">
+  <row index="206">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -4060,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb486151</cell>
   </row>
-  <row index="203">
+  <row index="207">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4080,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5138f9</cell>
   </row>
-  <row index="204">
+  <row index="208">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -4100,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc269ca7</cell>
   </row>
-  <row index="205">
+  <row index="209">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -4120,7 +4200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="206">
+  <row index="210">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>

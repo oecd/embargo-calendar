@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 June 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 June 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies to Support Green Entrepreneurship - Building a Hub for Green Entrepreneurship in Denmark](https://doi.org/10.1787/e92b1946-en)
 
@@ -15,7 +15,7 @@ Monday 13 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 June 2022 at 19:52
+- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 13 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 June 2022 at 19:52
+- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 13 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 June 2022 at 19:52
+- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 13 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 June 2022 at 19:52
+- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
 
 ### Additional Information
 
@@ -234,6 +234,29 @@ Monday 20 June 2022 at 11:30 | no launch event
 
 ------
 
+## [Regulatory Reform in Brazil](https://doi.org/10.1787/d81c15d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
 
 Embargo date | Launch date
@@ -280,29 +303,6 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 
 ------
 
-## [Open Government Review of Brazil  - Towards an Integrated Open Government Agenda](https://doi.org/10.1787/3f9009d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
 
 Embargo date | Launch date
@@ -320,6 +320,29 @@ Thursday 23 June 2022 at 5:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Igualdad de género en el Perú - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/34a988b3-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
@@ -346,6 +369,29 @@ Thursday 23 June 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Institutions sociales et égalité femmes-hommes en Côte d’Ivoire - Rapport pays SIGI](https://doi.org/10.1787/c798990a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -418,29 +464,6 @@ Thursday 23 June 2022 at 9:00 | no launch event
 
 ------
 
-## [Igualdad de género en el Perú - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/34a988b3-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 June 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
 
 Embargo date | Launch date
@@ -458,29 +481,6 @@ Monday 27 June 2022 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
@@ -619,6 +619,29 @@ Tuesday 5 July 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 July 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
