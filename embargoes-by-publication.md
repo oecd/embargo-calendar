@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 June 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 June 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies to Support Green Entrepreneurship - Building a Hub for Green Entrepreneurship in Denmark](https://doi.org/10.1787/e92b1946-en)
 
@@ -105,15 +105,15 @@ Tuesday 14 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -128,15 +128,15 @@ Tuesday 14 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -211,6 +211,29 @@ Monday 20 June 2022 at 6:00 | no launch event
 
 ------
 
+## [Examens environnementaux de l'OCDE : Royaume-Uni 2022 (version abrégée)](https://doi.org/10.1787/9137588d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 June 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: United Kingdom 2022](https://doi.org/10.1787/b6a2be87-en)
 
 Embargo date | Launch date
@@ -220,9 +243,9 @@ Monday 20 June 2022 at 11:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 8 June 2022 at 20:18
+- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 June 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
 
 ### Additional Information
 
@@ -242,7 +265,7 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -404,15 +427,15 @@ Thursday 23 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -464,11 +487,11 @@ Thursday 23 June 2022 at 9:00 | no launch event
 
 ------
 
-## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
+## [OECD Economic Surveys: United States 2022](https://doi.org/10.1787/eeb7cbe9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 June 2022 at 7:00 | no launch event
+Monday 27 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
@@ -479,19 +502,19 @@ Monday 27 June 2022 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [OECD Economic Surveys: United States 2022](https://doi.org/10.1787/eeb7cbe9-en)
+## [OECD Economic Surveys: Estonia 2022](https://doi.org/10.1787/21ef46e4-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 June 2022 at 8:00 | no launch event
+Tuesday 28 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
@@ -619,6 +642,29 @@ Tuesday 5 July 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 July 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
