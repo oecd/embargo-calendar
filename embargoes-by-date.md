@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 June 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 15 June 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 June 2022](#13-june-2022)
 * [14 June 2022](#14-june-2022)
 * [16 June 2022](#16-june-2022)
 * [20 June 2022](#20-june-2022)
@@ -19,102 +18,6 @@ Data generated on | |
 * [15 July 2022](#15-july-2022)
 * [26 July 2022](#26-july-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 13 June 2022
-
-## [Policies to Support Green Entrepreneurship - Building a Hub for Green Entrepreneurship in Denmark](https://doi.org/10.1787/e92b1946-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Assisting Care Leavers - Time for Action](https://doi.org/10.1787/1939a9ec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [A Preliminary Mapping of Data Localisation Measures](https://doi.org/10.1787/c5ca3fed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Monitoring land use in cities using satellite imagery and deep learning](https://doi.org/10.1787/dc8e85d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -202,15 +105,15 @@ Thursday 16 June 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -252,9 +155,9 @@ Monday 20 June 2022 at 11:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
+- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
 
 ### Additional Information
 
@@ -262,7 +165,7 @@ Monday 20 June 2022 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -458,7 +361,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -470,16 +373,16 @@ Thursday 23 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
+- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
