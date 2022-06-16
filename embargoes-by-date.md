@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 June 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 June 2022 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 June 2022](#14-june-2022)
 * [16 June 2022](#16-june-2022)
 * [20 June 2022](#20-june-2022)
 * [21 June 2022](#21-june-2022)
@@ -21,80 +20,7 @@ Data generated on | |
 
 ------
 
-# 14 June 2022
-
-## [Études économiques de l'OCDE : Belgique 2022](https://doi.org/10.1787/702dd253-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Belgium 2022](https://doi.org/10.1787/01c0a8f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 16 June 2022
-
-## [Illicit Trade in High-Risk Sectors - Implications of Illicit Alcohol for Public Health and Criminal Networks](https://doi.org/10.1787/1334c634-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Tackling air pollution in dense urban areas - The case of Santiago, Chile](https://doi.org/10.1787/4c8a4f94-en)
 
@@ -105,9 +31,9 @@ Thursday 16 June 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
+- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
 ### Additional Information
 
@@ -246,6 +172,29 @@ Tuesday 21 June 2022 at 9:00 | no launch event
 
 # 22 June 2022
 
+## [The effect of structural reforms - Do they differ between GDP and adjusted household disposable income?](https://doi.org/10.1787/def775b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
 
 Embargo date | Launch date
@@ -254,18 +203,18 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -327,16 +276,16 @@ Thursday 23 June 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -396,7 +345,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -407,7 +356,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
