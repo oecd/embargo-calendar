@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 June 2022 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 17 June 2022 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tackling air pollution in dense urban areas - The case of Santiago, Chile](https://doi.org/10.1787/4c8a4f94-en)
 
@@ -50,52 +50,6 @@ Monday 20 June 2022 at 6:00 | no launch event
 
 ------
 
-## [Examens environnementaux de l'OCDE : Royaume-Uni 2022 (version abrégée)](https://doi.org/10.1787/9137588d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 June 2022 at 11:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: United Kingdom 2022](https://doi.org/10.1787/b6a2be87-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 June 2022 at 11:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 June 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 June 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Regulatory Reform in Brazil](https://doi.org/10.1787/d81c15d7-en)
 
 Embargo date | Launch date
@@ -105,15 +59,15 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
 
@@ -127,18 +81,18 @@ Tuesday 21 June 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -188,6 +142,29 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 
 ------
 
+## [OECD Environmental Performance Reviews: United Kingdom 2022](https://doi.org/10.1787/b6a2be87-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 June 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
 
 Embargo date | Launch date
@@ -196,16 +173,16 @@ Thursday 23 June 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -219,16 +196,16 @@ Thursday 23 June 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -243,7 +220,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
@@ -312,15 +289,15 @@ Thursday 23 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -346,6 +323,29 @@ Thursday 23 June 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -427,15 +427,15 @@ Tuesday 28 June 2022 at 13:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
