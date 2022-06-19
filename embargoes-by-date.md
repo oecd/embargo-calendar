@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 June 2022 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 June 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 June 2022](#16-june-2022)
 * [20 June 2022](#20-june-2022)
 * [21 June 2022](#21-june-2022)
 * [22 June 2022](#22-june-2022)
@@ -21,33 +20,6 @@ Data generated on | |
 
 ------
 
-# 16 June 2022
-
-## [Tackling air pollution in dense urban areas - The case of Santiago, Chile](https://doi.org/10.1787/4c8a4f94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 June 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 20 June 2022
 
 ## [Strengthening Career Guidance for Mid-Career Adults in Australia](https://doi.org/10.1787/e08803ce-en)
@@ -61,7 +33,7 @@ Monday 20 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 June 2022 at 19:56
+- [x] Exported to OECD.org Sunday 19 June 2022 at 19:55
 
 ### Additional Information
 
