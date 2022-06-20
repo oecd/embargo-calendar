@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 June 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 20 June 2022 at 21:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening Career Guidance for Mid-Career Adults in Australia](https://doi.org/10.1787/e08803ce-en)
 
@@ -15,7 +15,7 @@ Monday 20 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 June 2022 at 19:55
+- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
 
 ### Additional Information
 
@@ -46,7 +46,7 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -61,7 +61,7 @@ Tuesday 21 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
 
 ### Additional Information
 
@@ -105,7 +105,7 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 June 2022 at 20:32
+- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
@@ -197,7 +197,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
 
@@ -219,7 +219,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -266,7 +266,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 17 June 2022 at 19:57
 
@@ -322,7 +322,7 @@ Friday 24 June 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -403,18 +403,18 @@ Tuesday 28 June 2022 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -464,6 +464,29 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Slovenia 2022](https://doi.org/10.1787/d63f5a2f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
 
 Embargo date | Launch date
@@ -505,7 +528,7 @@ Wednesday 13 July 2022 at 7:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -528,7 +551,7 @@ Wednesday 13 July 2022 at 7:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -552,6 +575,29 @@ Friday 15 July 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Asia and the Pacific 2022 - Strengthening Tax Revenues in Developing Asia](https://doi.org/10.1787/db29f89a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 July 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
