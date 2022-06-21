@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 June 2022 at 21:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 June 2022 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening Career Guidance for Mid-Career Adults in Australia](https://doi.org/10.1787/e08803ce-en)
 
@@ -23,7 +23,7 @@ Monday 20 June 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -38,7 +38,7 @@ Tuesday 21 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 21 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [x] Exported to iLibrary Tuesday 21 June 2022 at 10:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
 
 ### Additional Information
 
@@ -70,29 +70,6 @@ Tuesday 21 June 2022 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [The effect of structural reforms - Do they differ between GDP and adjusted household disposable income?](https://doi.org/10.1787/def775b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
 
 ------
 
@@ -107,7 +84,7 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
 
 ### Additional Information
 
@@ -128,9 +105,9 @@ Wednesday 22 June 2022 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
+- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
 
 ### Additional Information
 
@@ -162,6 +139,29 @@ Thursday 23 June 2022 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Mastering the transition: A synthetic literature review of trade adaptation policies](https://doi.org/10.1787/5fad3487-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -349,6 +349,29 @@ Monday 27 June 2022 at 8:00 | no launch event
 
 ------
 
+## [The effect of declining unemployment benefits on transitions to employment - Evidence from Belgium](https://doi.org/10.1787/cba7af24-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Estonia 2022](https://doi.org/10.1787/21ef46e4-en)
 
 Embargo date | Launch date
@@ -368,7 +391,7 @@ Tuesday 28 June 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -404,7 +427,7 @@ Tuesday 28 June 2022 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
+- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 20 June 2022 at 20:01
 
@@ -622,6 +645,29 @@ Tuesday 26 July 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
