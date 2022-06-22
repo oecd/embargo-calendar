@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 June 2022 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Strengthening Career Guidance for Mid-Career Adults in Australia](https://doi.org/10.1787/e08803ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 22 June 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory Reform in Brazil](https://doi.org/10.1787/d81c15d7-en)
 
@@ -84,7 +61,7 @@ Wednesday 22 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Wednesday 22 June 2022 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -176,7 +153,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -197,9 +174,9 @@ Thursday 23 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
+- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 June 2022 at 20:07
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -207,29 +184,6 @@ Thursday 23 June 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Institutions sociales et égalité femmes-hommes en Côte d’Ivoire - Rapport pays SIGI](https://doi.org/10.1787/c798990a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
@@ -243,9 +197,9 @@ Thursday 23 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 June 2022 at 20:19
+- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 June 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
@@ -268,36 +222,13 @@ Thursday 23 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 June 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Politiques agricoles : Suivi et évaluation 2022 (version abrégée) - Réformer les politiques agricoles pour atténuer le changement climatique](https://doi.org/10.1787/247b9928-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -326,11 +257,11 @@ Friday 24 June 2022 at 7:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: United States 2022](https://doi.org/10.1787/eeb7cbe9-en)
+## [Politiques agricoles : Suivi et évaluation 2022 (version abrégée) - Réformer les politiques agricoles pour atténuer le changement climatique](https://doi.org/10.1787/247b9928-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 June 2022 at 8:00 | no launch event
+Monday 27 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
@@ -341,11 +272,34 @@ Monday 27 June 2022 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Capital Market Review of Romania - Towards a National Strategy](https://doi.org/10.1787/9bfc0339-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -483,7 +437,30 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Institutions sociales et égalité femmes-hommes en Côte d’Ivoire - Rapport pays SIGI](https://doi.org/10.1787/c798990a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 June 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -598,6 +575,29 @@ Friday 15 July 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Housing Taxation in OECD Countries](https://doi.org/10.1787/03dfe007-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 July 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
