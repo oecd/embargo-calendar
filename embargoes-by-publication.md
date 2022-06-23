@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 June 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Regulatory Reform in Brazil](https://doi.org/10.1787/d81c15d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 10:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 23 June 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
 
@@ -107,7 +61,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -153,7 +107,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -176,7 +130,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -199,7 +153,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -222,7 +176,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -334,7 +288,7 @@ Tuesday 28 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org

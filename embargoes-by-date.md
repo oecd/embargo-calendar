@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 June 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 June 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 June 2022](#21-june-2022)
 * [22 June 2022](#22-june-2022)
 * [23 June 2022](#23-june-2022)
 * [24 June 2022](#24-june-2022)
@@ -21,56 +20,6 @@ Data generated on | |
 * [26 July 2022](#26-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 21 June 2022
-
-## [Regulatory Reform in Brazil](https://doi.org/10.1787/d81c15d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Global Plastics Outlook - Policy Scenarios to 2060](https://doi.org/10.1787/aa1edf33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 10:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -137,7 +86,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -160,7 +109,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -183,7 +132,7 @@ Thursday 23 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 June 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -206,7 +155,7 @@ Thursday 23 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -229,7 +178,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -252,7 +201,7 @@ Thursday 23 June 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 June 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
 
 ### Additional Information
 
@@ -376,7 +325,7 @@ Tuesday 28 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
