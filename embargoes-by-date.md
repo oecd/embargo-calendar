@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 June 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 June 2022 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 June 2022](#22-june-2022)
 * [23 June 2022](#23-june-2022)
 * [24 June 2022](#24-june-2022)
 * [27 June 2022](#27-june-2022)
@@ -20,56 +19,6 @@ Data generated on | |
 * [26 July 2022](#26-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 22 June 2022
-
-## [Centre of Government Review of Brazil - Toward an Integrated and Structured Centre of Government](https://doi.org/10.1787/33d996b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: United Kingdom 2022](https://doi.org/10.1787/b6a2be87-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 June 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -199,9 +148,9 @@ Thursday 23 June 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 20 June 2022 at 20:33
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
 
 ### Additional Information
 
@@ -244,6 +193,75 @@ Friday 24 June 2022 at 7:00 | no launch event
 
 # 27 June 2022
 
+## [Inclusive growth and resilience in Bilbao, Spain](https://doi.org/10.1787/de9c64d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Implementation toolkit of the OECD Principles on urban policy](https://doi.org/10.1787/630e0341-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Urban-Rural Linkages in Poland](https://doi.org/10.1787/94b5c782-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 June 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [Politiques agricoles : Suivi et évaluation 2022 (version abrégée) - Réformer les politiques agricoles pour atténuer le changement climatique](https://doi.org/10.1787/247b9928-fr)
 
 Embargo date | Launch date
@@ -252,16 +270,16 @@ Monday 27 June 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -271,14 +289,14 @@ Monday 27 June 2022 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 June 2022 at 8:00 | no launch event
+Monday 27 June 2022 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 June 2022 at 19:56
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
 
 ### Additional Information
 
@@ -466,6 +484,29 @@ Thursday 30 June 2022 at 7:00 | no launch event
 ------
 
 # 4 July 2022
+
+## [Managing and Financing Water for Growth in Thailand - Highlights of a National Dialogue on Water](https://doi.org/10.1787/839a4f70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 2:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Slovenia 2022](https://doi.org/10.1787/d63f5a2f-en)
 
