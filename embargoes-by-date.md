@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 June 2022 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 26 June 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 June 2022](#23-june-2022)
-* [24 June 2022](#24-june-2022)
 * [27 June 2022](#27-june-2022)
 * [28 June 2022](#28-june-2022)
 * [29 June 2022](#29-june-2022)
@@ -22,175 +20,6 @@ Data generated on | |
 
 ------
 
-# 23 June 2022
-
-## [Gender Equality in Peru - Towards a Better Sharing of Paid and Unpaid Work](https://doi.org/10.1787/e53901b5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Mastering the transition: A synthetic literature review of trade adaptation policies](https://doi.org/10.1787/5fad3487-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Igualdad de género en el Perú - Hacia una mejor distribución del trabajo remunerado y no remunerado](https://doi.org/10.1787/34a988b3-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 June 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Youth at the Centre of Government Action - A Review of the Middle East and North Africa](https://doi.org/10.1787/bcc2dd08-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Tax Administration 2022 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/1e797131-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 June 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Agricultural Policy Monitoring and Evaluation 2022 - Reforming Agricultural Policies for Climate Change Mitigation](https://doi.org/10.1787/7f4542bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 June 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 24 June 2022
-
-## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 27 June 2022
 
 ## [Inclusive growth and resilience in Bilbao, Spain](https://doi.org/10.1787/de9c64d6-en)
@@ -204,7 +33,7 @@ Monday 27 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
 
 ### Additional Information
 
@@ -227,7 +56,7 @@ Monday 27 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
 
 ### Additional Information
 
@@ -250,7 +79,7 @@ Monday 27 June 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
 
 ### Additional Information
 
@@ -271,9 +100,9 @@ Monday 27 June 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [x] Exported to iLibrary Saturday 25 June 2022 at 1:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
 
 ### Additional Information
 
@@ -296,7 +125,7 @@ Monday 27 June 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
 
 ### Additional Information
 
