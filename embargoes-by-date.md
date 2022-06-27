@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 June 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 27 June 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 June 2022](#27-june-2022)
 * [28 June 2022](#28-june-2022)
@@ -33,7 +33,7 @@ Monday 27 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 27 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -77,9 +77,9 @@ Monday 27 June 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
+- [x] Exported to iLibrary Monday 27 June 2022 at 10:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -87,7 +87,7 @@ Monday 27 June 2022 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -100,9 +100,9 @@ Monday 27 June 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 25 June 2022 at 1:35
+- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -125,7 +125,7 @@ Monday 27 June 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 June 2022 at 19:56
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -152,7 +152,7 @@ Tuesday 28 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 June 2022 at 19:59
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -191,14 +191,14 @@ Tuesday 28 June 2022 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 June 2022 at 11:30 | no launch event
+Tuesday 28 June 2022 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 June 2022 at 20:19
+- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 June 2022 at 19:57
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -221,7 +221,7 @@ Tuesday 28 June 2022 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 June 2022 at 20:01
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
@@ -296,15 +296,15 @@ Thursday 30 June 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -356,6 +356,29 @@ Monday 4 July 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
