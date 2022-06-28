@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 June 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 June 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Inclusive growth and resilience in Bilbao, Spain](https://doi.org/10.1787/de9c64d6-en)
 
@@ -130,7 +130,7 @@ Tuesday 28 June 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
@@ -151,15 +151,15 @@ Tuesday 28 June 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 28 June 2022 at 10:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -176,7 +176,7 @@ Tuesday 28 June 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 28 June 2022 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
@@ -219,18 +219,18 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -242,16 +242,16 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -303,11 +303,57 @@ Monday 4 July 2022 at 2:00 | no launch event
 
 ------
 
+## [Fostering a strong labour market to support the recovery and sustain growth in Switzerland](https://doi.org/10.1787/aefe5c44-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Slovénie 2022 (version abrégée)](https://doi.org/10.1787/a42e7a8a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Slovenia 2022](https://doi.org/10.1787/d63f5a2f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 4 July 2022 at 9:00 | no launch event
+Monday 4 July 2022 at 8:00 | no launch event
 
 ### Status Information
 
@@ -507,6 +553,29 @@ Tuesday 26 July 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Tax Policy Reviews: Colombia 2022](https://doi.org/10.1787/054722db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 July 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
