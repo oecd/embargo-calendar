@@ -2,141 +2,23 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 June 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 June 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 June 2022](#27-june-2022)
 * [28 June 2022](#28-june-2022)
 * [29 June 2022](#29-june-2022)
 * [30 June 2022](#30-june-2022)
 * [4 July 2022](#4-july-2022)
 * [5 July 2022](#5-july-2022)
+* [11 July 2022](#11-july-2022)
 * [13 July 2022](#13-july-2022)
 * [15 July 2022](#15-july-2022)
+* [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [25 July 2022](#25-july-2022)
 * [26 July 2022](#26-july-2022)
 * [28 July 2022](#28-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 27 June 2022
-
-## [Inclusive growth and resilience in Bilbao, Spain](https://doi.org/10.1787/de9c64d6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Implementation toolkit of the OECD Principles on urban policy](https://doi.org/10.1787/630e0341-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Urban-Rural Linkages in Poland](https://doi.org/10.1787/94b5c782-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 June 2022 at 10:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Politiques agricoles : Suivi et évaluation 2022 (version abrégée) - Réformer les politiques agricoles pour atténuer le changement climatique](https://doi.org/10.1787/247b9928-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Capital Market Review of Romania - Towards a National Strategy](https://doi.org/10.1787/9bfc0339-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 June 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -247,9 +129,9 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
+- [x] Exported to iLibrary Wednesday 29 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
+- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
 
 ### Additional Information
 
@@ -270,9 +152,9 @@ Wednesday 29 June 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
+- [x] Exported to iLibrary Wednesday 29 June 2022 at 11:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
+- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
 
 ### Additional Information
 
@@ -299,7 +181,7 @@ Thursday 30 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 June 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
 
 ### Additional Information
 
@@ -392,7 +274,7 @@ Monday 4 July 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -403,29 +285,6 @@ Monday 4 July 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -451,6 +310,33 @@ Tuesday 5 July 2022 at 10:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 July 2022
+
+## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 July 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
@@ -530,6 +416,33 @@ Friday 15 July 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 July 2022
+
+## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
