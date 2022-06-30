@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 June 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 June 2022 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 June 2022](#28-june-2022)
 * [29 June 2022](#29-june-2022)
 * [30 June 2022](#30-june-2022)
 * [4 July 2022](#4-july-2022)
@@ -19,102 +18,6 @@ Data generated on | |
 * [28 July 2022](#28-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 28 June 2022
-
-## [The effect of declining unemployment benefits on transitions to employment - Evidence from Belgium](https://doi.org/10.1787/cba7af24-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 June 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Estonia 2022](https://doi.org/10.1787/21ef46e4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 June 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 June 2022 at 10:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Better Regulation Practices across the European Union 2022](https://doi.org/10.1787/6e4b095d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 June 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Assessing Canada’s System of Impact Evaluation of Active Labour Market Policies](https://doi.org/10.1787/27dfbd5f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 June 2022 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 June 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -181,7 +84,7 @@ Thursday 30 June 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 June 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
+- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
 
 ### Additional Information
 
@@ -208,7 +111,7 @@ Monday 4 July 2022 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 June 2022 at 20:01
+- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
 
 ### Additional Information
 
@@ -217,6 +120,29 @@ Monday 4 July 2022 at 2:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Starting unequal - How’s life for disadvantaged children?](https://doi.org/10.1787/a0ec330c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 June 2022 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -339,7 +265,7 @@ Monday 11 July 2022 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -516,7 +442,7 @@ Tuesday 26 July 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 June 2022 at 19:57
+- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
 
 ### Additional Information
 
