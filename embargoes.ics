@@ -2,87 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/f1b0b29c-end3e29811
-SUMMARY:OECD-FAO Agricultural Outlook 2022-2031
-DESCRIPTION:*OECD-FAO Agricultural Outlook 2022-2031
- *\n\nDirectorate: Trade and Agriculture 
- Directorate\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/f1b0b29c-en\nPublic
- ation type: Book\nReleased as: ePub, HTM
- L, Paperback, PDF\n\nEmbargo date/time: 
- Wednesday, 29 June 2022, 8:00 (GMT)\n\n\
- niLibrary export: Wednesday, 29 June 202
- 2, 18:18 (GMT)\nFreepreview export: neve
- r\nOECD.org export: Wednesday, 29 June 2
- 022, 17:56 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  20:39, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=f1b0b29c-en.
-DTSTAMP:20220630T204006Z
-DTSTART:20220629T080000Z
-DTEND:20220629T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: OECD-FAO Agricultural Outlook 
- 2022-2031
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/63c6c63f-frd3e40213
-SUMMARY:Perspectives agricoles de l’OCDE et de l
- a FAO 2022-2031
-DESCRIPTION:*Perspectives agricoles de l’OCDE et de 
- la FAO 2022-2031*\n\nDirectorate: Trade 
- and Agriculture Directorate\nLanguage: F
- rench\nDOI: https://doi.org/10.1787/63c6
- c63f-fr\nPublication type: Book\nRelease
- d as: ePub, HTML, Paperback, PDF\n\nEmba
- rgo date/time: Wednesday, 29 June 2022, 
- 8:00 (GMT)\n\n\niLibrary export: Wednesd
- ay, 29 June 2022, 9:55 (GMT)\nFreeprevie
- w export: never\nOECD.org export: Wednes
- day, 29 June 2022, 17:56 (GMT)\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 20:39, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=63
- c6c63f-fr.
-DTSTAMP:20220630T204006Z
-DTSTART:20220629T080000Z
-DTEND:20220629T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Perspectives agricoles de l’OC
- DE et de la FAO 2022-2031
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c798990a-frd3e44472
+UID:10.1787/c798990a-frd3e2799
 SUMMARY:Institutions sociales et égalité femmes-
  hommes en Côte d’Ivoire - Rapport pays S
  IGI
@@ -102,7 +22,7 @@ DESCRIPTION:*Institutions sociales et égalité femmes
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:39, it is updated each night; theref
+  20:45, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -110,7 +30,7 @@ DESCRIPTION:*Institutions sociales et égalité femmes
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=c798990a-fr.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220630T070000Z
 DTEND:20220630T071500Z
 TRANSP:TRANSPARENT
@@ -125,7 +45,7 @@ DESCRIPTION:Reminder: Institutions sociales et égali
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/839a4f70-end3e46659
+UID:10.1787/839a4f70-end3e4993
 SUMMARY:Managing and Financing Water for Growth 
  in Thailand - Highlights of a National D
  ialogue on Water
@@ -145,7 +65,7 @@ DESCRIPTION:*Managing and Financing Water for Growth
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:39, it is updated each night; therefo
+ 20:45, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -153,7 +73,7 @@ DESCRIPTION:*Managing and Financing Water for Growth
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=839a4f70-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220704T020000Z
 DTEND:20220704T021500Z
 TRANSP:TRANSPARENT
@@ -168,7 +88,7 @@ DESCRIPTION:Reminder: Managing and Financing Water f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a0ec330c-end3e46823
+UID:10.1787/a0ec330c-end3e5157
 SUMMARY:Starting unequal - How’s life for disadv
  antaged children?
 DESCRIPTION:*Starting unequal - How’s life for disad
@@ -186,7 +106,7 @@ DESCRIPTION:*Starting unequal - How’s life for disad
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:39, it is
+ ect as of this afternoon at 20:45, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -195,7 +115,7 @@ DESCRIPTION:*Starting unequal - How’s life for disad
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=a0ec330c-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220704T050000Z
 DTEND:20220704T051500Z
 TRANSP:TRANSPARENT
@@ -209,7 +129,7 @@ DESCRIPTION:Reminder: Starting unequal - How’s life
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aefe5c44-end3e46879
+UID:10.1787/aefe5c44-end3e5214
 SUMMARY:Fostering a strong labour market to supp
  ort the recovery and sustain growth in S
  witzerland
@@ -228,7 +148,7 @@ DESCRIPTION:*Fostering a strong labour market to sup
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:39, it is updated each night
+ rnoon at 20:45, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -237,7 +157,7 @@ DESCRIPTION:*Fostering a strong labour market to sup
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=aefe5c44
  -en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220704T050000Z
 DTEND:20220704T051500Z
 TRANSP:TRANSPARENT
@@ -252,7 +172,7 @@ DESCRIPTION:Reminder: Fostering a strong labour mark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a42e7a8a-frd3e46987
+UID:10.1787/a42e7a8a-frd3e5321
 SUMMARY:Études économiques de l'OCDE : Slovénie 
  2022 (version abrégée)
 DESCRIPTION:*Études économiques de l'OCDE : Slovénie
@@ -264,11 +184,11 @@ DESCRIPTION:*Études économiques de l'OCDE : Slovénie
  day, 4 July 2022, 8:00 (GMT)\n\n\niLibra
  ry export: never\nFreepreview export: ne
  ver\nOECD.org export: never\nFTI loaded:
-  ✗\n\nFor more information see: https://
+  ✓\n\nFor more information see: https://
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 20:39, it is updated each ni
+ fternoon at 20:45, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -277,7 +197,7 @@ DESCRIPTION:*Études économiques de l'OCDE : Slovénie
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=a42e7
  a8a-fr.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220704T080000Z
 DTEND:20220704T081500Z
 TRANSP:TRANSPARENT
@@ -291,7 +211,7 @@ DESCRIPTION:Reminder: Études économiques de l'OCDE :
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d63f5a2f-end3e47039
+UID:10.1787/d63f5a2f-end3e5374
 SUMMARY:OECD Economic Surveys: Slovenia 2022
 DESCRIPTION:*OECD Economic Surveys: Slovenia 2022*\n
  \nDirectorate: Economics Department\nLan
@@ -306,7 +226,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2022*\n
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :39, it is updated each night; therefore
+ :45, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -314,7 +234,7 @@ DESCRIPTION:*OECD Economic Surveys: Slovenia 2022*\n
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=d63f5a2f-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220704T080000Z
 DTEND:20220704T081500Z
 TRANSP:TRANSPARENT
@@ -328,7 +248,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: Sloveni
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e47092
+UID:10.1787/0d1792c6-esd3e5427
 SUMMARY:Compendio de Prácticas de las Organizaci
  ones Internacionales - Trabajando hacia 
  instrumentos internacionales más efectiv
@@ -348,7 +268,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:39, it is up
+  as of this afternoon at 20:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -357,7 +277,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=0d1792c6-es.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220705T100000Z
 DTEND:20220705T101500Z
 TRANSP:TRANSPARENT
@@ -373,7 +293,7 @@ DESCRIPTION:Reminder: Compendio de Prácticas de las
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9eacee6-end3e47355
+UID:10.1787/a9eacee6-end3e5690
 SUMMARY:Empowering Women in the Transition Towar
  ds Green Growth in Greece
 DESCRIPTION:*Empowering Women in the Transition Towa
@@ -390,7 +310,7 @@ DESCRIPTION:*Empowering Women in the Transition Towa
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 20:39, it is updated each nigh
+ ernoon at 20:45, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -399,7 +319,7 @@ DESCRIPTION:*Empowering Women in the Transition Towa
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=a9eacee
  6-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220711T110000Z
 DTEND:20220711T111500Z
 TRANSP:TRANSPARENT
@@ -413,7 +333,7 @@ DESCRIPTION:Reminder: Empowering Women in the Transi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6a31728-frd3e47407
+UID:10.1787/f6a31728-frd3e5742
 SUMMARY:Instaurer la confiance pour renforcer la
   démocratie - Principales conclusions de
   l’Enquête sur les déterminants de la co
@@ -434,7 +354,7 @@ DESCRIPTION:*Instaurer la confiance pour renforcer l
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:39, it is updated each night; t
+ on at 20:45, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -443,7 +363,7 @@ DESCRIPTION:*Instaurer la confiance pour renforcer l
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=f6a31728-fr
  .
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220713T070000Z
 DTEND:20220713T071500Z
 TRANSP:TRANSPARENT
@@ -460,7 +380,7 @@ DESCRIPTION:Reminder: Instaurer la confiance pour re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b407f99c-end3e47460
+UID:10.1787/b407f99c-end3e5795
 SUMMARY:Building Trust to Reinforce Democracy - 
  Main Findings from the OECD Survey on Dr
  ivers of Trust in Public Institutions
@@ -479,7 +399,7 @@ DESCRIPTION:*Building Trust to Reinforce Democracy -
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:39, it is updated each night; th
+ n at 20:45, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -487,7 +407,7 @@ DESCRIPTION:*Building Trust to Reinforce Democracy -
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=b407f99c-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220713T070000Z
 DTEND:20220713T071500Z
 TRANSP:TRANSPARENT
@@ -503,51 +423,7 @@ DESCRIPTION:Reminder: Building Trust to Reinforce De
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68ffa992-end3e47620
-SUMMARY:Rule of Law and Governance in the Palest
- inian Authority - Delivering Better Poli
- cies and Legislation for Citizens
-DESCRIPTION:*Rule of Law and Governance in the Pales
- tinian Authority - Delivering Better Pol
- icies and Legislation for Citizens*\n\nD
- irectorate: Directorate for Public Gover
- nance\nLanguage: English\nDOI: https://d
- oi.org/10.1787/68ffa992-en\nPublication 
- type: Stand-alone monograph\nReleased as
- : Paperback, PDF\n\nEmbargo date/time: F
- riday, 15 July 2022, 7:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 20:39, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=68
- ffa992-en.
-DTSTAMP:20220630T204006Z
-DTSTART:20220715T070000Z
-DTEND:20220715T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Rule of Law and Governance in 
- the Palestinian Authority - Delivering B
- etter Policies and Legislation for Citiz
- ens
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/7c0f1268-end3e47726
+UID:10.1787/7c0f1268-end3e5955
 SUMMARY:OECD Economic Surveys: United Kingdom 20
  22
 DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
@@ -563,7 +439,7 @@ DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:39, it is updated each night; th
+ n at 20:45, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -571,7 +447,7 @@ DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=7c0f1268-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220718T090000Z
 DTEND:20220718T091500Z
 TRANSP:TRANSPARENT
@@ -585,7 +461,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/03dfe007-end3e47828
+UID:10.1787/03dfe007-end3e6059
 SUMMARY:Housing Taxation in OECD Countries
 DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
  Directorate: Centre for Tax Policy and A
@@ -600,7 +476,7 @@ DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:39, it is updated each night;
+ noon at 20:45, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -609,7 +485,7 @@ DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=03dfe007-
  en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220721T090000Z
 DTEND:20220721T091500Z
 TRANSP:TRANSPARENT
@@ -623,7 +499,7 @@ DESCRIPTION:Reminder: Housing Taxation in OECD Count
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db29f89a-end3e47931
+UID:10.1787/db29f89a-end3e6162
 SUMMARY:Revenue Statistics in Asia and the Pacif
  ic 2022 - Strengthening Tax Revenues in 
  Developing Asia
@@ -641,7 +517,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:39, it is 
+ ct as of this afternoon at 20:45, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -650,7 +526,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=db29f89a-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220725T090000Z
 DTEND:20220725T091500Z
 TRANSP:TRANSPARENT
@@ -665,7 +541,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Asia and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b046dfe-end3e48253
+UID:10.1787/0b046dfe-end3e6484
 SUMMARY:Digital Trade Review of Brazil
 DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ctorate: Trade and Agriculture Directora
@@ -682,7 +558,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:39, it is updated each night; ther
+ at 20:45, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -690,7 +566,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0b046dfe-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220726T060000Z
 DTEND:20220726T061500Z
 TRANSP:TRANSPARENT
@@ -703,7 +579,7 @@ DESCRIPTION:Reminder: Digital Trade Review of Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/054722db-end3e49013
+UID:10.1787/054722db-end3e7244
 SUMMARY:OECD Tax Policy Reviews: Colombia 2022
 DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  \n\nDirectorate: Centre for Tax Policy a
@@ -718,7 +594,7 @@ DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:39, it is updated each n
+ afternoon at 20:45, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -727,7 +603,7 @@ DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=0547
  22db-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220728T130000Z
 DTEND:20220728T131500Z
 TRANSP:TRANSPARENT
@@ -741,7 +617,51 @@ DESCRIPTION:Reminder: OECD Tax Policy Reviews: Colom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1bb305a6-end3e49117
+UID:10.1787/68ffa992-end3e7348
+SUMMARY:Rule of Law and Governance in the Palest
+ inian Authority - Delivering Better Poli
+ cies and Legislation for Citizens
+DESCRIPTION:*Rule of Law and Governance in the Pales
+ tinian Authority - Delivering Better Pol
+ icies and Legislation for Citizens*\n\nD
+ irectorate: Directorate for Public Gover
+ nance\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/68ffa992-en\nPublication 
+ type: Stand-alone monograph\nReleased as
+ : Paperback, PDF\n\nEmbargo date/time: F
+ riday, 29 July 2022, 7:00 (GMT)\n\n\niLi
+ brary export: never\nFreepreview export:
+  never\nOECD.org export: never\nFTI load
+ ed: ✗\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 20:45, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=68
+ ffa992-en.
+DTSTAMP:20220701T204602Z
+DTSTART:20220729T070000Z
+DTEND:20220729T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Rule of Law and Governance in 
+ the Palestinian Authority - Delivering B
+ etter Policies and Legislation for Citiz
+ ens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1bb305a6-end3e7455
 SUMMARY:OECD Employment Outlook 2022 - Building 
  Back More Inclusive Labour Markets
 DESCRIPTION:*OECD Employment Outlook 2022 - Building
@@ -758,7 +678,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:39, it is up
+  as of this afternoon at 20:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -767,7 +687,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1bb305a6-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20220908T090000Z
 DTEND:20220908T091500Z
 TRANSP:TRANSPARENT
@@ -782,7 +702,7 @@ DESCRIPTION:Reminder: OECD Employment Outlook 2022 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e49275
+UID:10.1787/50b32331-end3e7612
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -800,7 +720,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:39, i
+ correct as of this afternoon at 20:45, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -809,7 +729,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=50b32331-en.
-DTSTAMP:20220630T204006Z
+DTSTAMP:20220701T204602Z
 DTSTART:20221004T220000Z
 DTEND:20221004T221500Z
 TRANSP:TRANSPARENT

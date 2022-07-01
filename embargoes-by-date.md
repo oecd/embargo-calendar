@@ -2,72 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 June 2022 at 20:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 July 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 June 2022](#29-june-2022)
 * [30 June 2022](#30-june-2022)
 * [4 July 2022](#4-july-2022)
 * [5 July 2022](#5-july-2022)
 * [11 July 2022](#11-july-2022)
 * [13 July 2022](#13-july-2022)
-* [15 July 2022](#15-july-2022)
 * [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [25 July 2022](#25-july-2022)
 * [26 July 2022](#26-july-2022)
 * [28 July 2022](#28-july-2022)
+* [29 July 2022](#29-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 29 June 2022
-
-## [OECD-FAO Agricultural Outlook 2022-2031](https://doi.org/10.1787/f1b0b29c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 June 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 June 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2022-2031](https://doi.org/10.1787/63c6c63f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 June 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 June 2022 at 11:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -177,7 +126,7 @@ Monday 4 July 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -321,33 +270,6 @@ Wednesday 13 July 2022 at 7:00 | no launch event
 
 ------
 
-# 15 July 2022
-
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 July 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 18 July 2022
 
 ## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
@@ -477,6 +399,33 @@ Thursday 28 July 2022 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 July 2022
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 July 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
