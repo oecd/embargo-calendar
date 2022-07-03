@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 July 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 3 July 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 June 2022](#30-june-2022)
 * [4 July 2022](#4-july-2022)
 * [5 July 2022](#5-july-2022)
 * [11 July 2022](#11-july-2022)
@@ -17,33 +16,6 @@ Data generated on | |
 * [29 July 2022](#29-july-2022)
 * [8 September 2022](#8-september-2022)
 * [4 October 2022](#4-october-2022)
-
-------
-
-# 30 June 2022
-
-## [Institutions sociales et égalité femmes-hommes en Côte d’Ivoire - Rapport pays SIGI](https://doi.org/10.1787/c798990a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 June 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 June 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -60,7 +32,7 @@ Monday 4 July 2022 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
+- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
 
 ### Additional Information
 
@@ -83,7 +55,7 @@ Monday 4 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
+- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
 
 ### Additional Information
 
@@ -106,7 +78,7 @@ Monday 4 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 June 2022 at 20:03
+- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
 
 ### Additional Information
 
