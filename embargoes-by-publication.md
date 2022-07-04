@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 July 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 4 July 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Managing and Financing Water for Growth in Thailand - Highlights of a National Dialogue on Water](https://doi.org/10.1787/839a4f70-en)
 
@@ -15,7 +15,7 @@ Monday 4 July 2022 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 June 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 4 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 June 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 4 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
 
 ### Additional Information
 
@@ -82,15 +82,15 @@ Monday 4 July 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -105,15 +105,15 @@ Monday 4 July 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -165,11 +165,11 @@ Monday 11 July 2022 at 11:00 | no launch event
 
 ------
 
-## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’Enquête sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
+## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’enquête 2021 de l’OCDE sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 13 July 2022 at 7:00 | no launch event
+Wednesday 13 July 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -184,15 +184,15 @@ Wednesday 13 July 2022 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-## [Building Trust to Reinforce Democracy - Main Findings from the OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
+## [Building Trust to Reinforce Democracy - Main Findings from the 2021 OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 13 July 2022 at 7:00 | no launch event
+Wednesday 13 July 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -204,6 +204,29 @@ Wednesday 13 July 2022 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Who Cares about Using Education Research in Policy and Practice? - Strengthening Research Engagement](https://doi.org/10.1787/d7ff793d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -326,7 +349,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 
 ------
 
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for Citizens](https://doi.org/10.1787/68ffa992-en)
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -345,6 +368,98 @@ Friday 29 July 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8a8bf9aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3d2ee45c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a47c34f6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3c674274-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
