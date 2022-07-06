@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 July 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Managing and Financing Water for Growth in Thailand - Highlights of a National Dialogue on Water](https://doi.org/10.1787/839a4f70-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 June 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Starting unequal - How’s life for disadvantaged children?](https://doi.org/10.1787/a0ec330c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 June 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fostering a strong labour market to support the recovery and sustain growth in Switzerland](https://doi.org/10.1787/aefe5c44-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 June 2022 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l'OCDE : Slovénie 2022 (version abrégée)](https://doi.org/10.1787/a42e7a8a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Slovenia 2022](https://doi.org/10.1787/d63f5a2f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 July 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 July 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 6 July 2022 at 13:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
 
@@ -211,6 +73,52 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 
 ------
 
+## [Estudio de la OCDE sobre Integridad en Costa Rica - Protegiendo los logros democráticos](https://doi.org/10.1787/548807dd-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Integrity Review of Costa Rica - Safeguarding Democratic Achievements](https://doi.org/10.1787/0031e3b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Who Cares about Using Education Research in Policy and Practice? - Strengthening Research Engagement](https://doi.org/10.1787/d7ff793d-en)
 
 Embargo date | Launch date
@@ -276,7 +184,7 @@ Thursday 21 July 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -418,7 +326,76 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a2660fde-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a47c34f6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3474f433-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8cddffce-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -461,6 +438,52 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9d732003-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 September 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
