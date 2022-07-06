@@ -19,7 +19,7 @@ DESCRIPTION:*Empowering Women in the Transition Towa
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 13:23, it is updated each nigh
+ ernoon at 20:45, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -28,7 +28,7 @@ DESCRIPTION:*Empowering Women in the Transition Towa
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=a9eacee
  6-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220711T110000Z
 DTEND:20220711T111500Z
 TRANSP:TRANSPARENT
@@ -42,7 +42,49 @@ DESCRIPTION:Reminder: Empowering Women in the Transi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6a31728-frd3e325
+UID:10.1787/54f9d8f7-end3e272
+SUMMARY:Does the digital world open up an increa
+ sing divide in access to print books?
+DESCRIPTION:*Does the digital world open up an incre
+ asing divide in access to print books?*\
+ n\nDirectorate: Directorate for Educatio
+ n and Skills\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/54f9d8f7-en\nPubli
+ cation type: Paper\nReleased as: PDF\n\n
+ Embargo date/time: Tuesday, 12 July 2022
+ , 9:00 (GMT)\n\n\niLibrary export: Wedne
+ sday, 6 July 2022, 18:21 (GMT)\nFreeprev
+ iew export: never\nOECD.org export: Wedn
+ esday, 6 July 2022, 17:58 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 20:45, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=5
+ 4f9d8f7-en.
+DTSTAMP:20220706T204553Z
+DTSTART:20220712T090000Z
+DTEND:20220712T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Does the digital world open up
+  an increasing divide in access to print
+  books?
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f6a31728-frd3e380
 SUMMARY:Instaurer la confiance pour renforcer la
   démocratie - Principales conclusions de
   l’enquête 2021 de l’OCDE sur les déterm
@@ -58,22 +100,24 @@ DESCRIPTION:*Instaurer la confiance pour renforcer l
  728-fr\nPublication type: Book\nReleased
   as: ePub, HTML, Paperback, PDF\n\nEmbar
  go date/time: Wednesday, 13 July 2022, 9
- :00 (GMT)\n\n\niLibrary export: never\nF
- reepreview export: never\nOECD.org expor
- t: never\nFTI loaded: ✗\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 13:23, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=f6a31728-fr.
-DTSTAMP:20220706T132401Z
+ :00 (GMT)\n\n\niLibrary export: Wednesda
+ y, 6 July 2022, 18:21 (GMT)\nFreepreview
+  export: never\nOECD.org export: Wednesd
+ ay, 6 July 2022, 17:58 (GMT)\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 20:45, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=f6a3
+ 1728-fr.
+DTSTAMP:20220706T204553Z
 DTSTART:20220713T090000Z
 DTEND:20220713T091500Z
 TRANSP:TRANSPARENT
@@ -90,7 +134,7 @@ DESCRIPTION:Reminder: Instaurer la confiance pour re
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b407f99c-end3e378
+UID:10.1787/b407f99c-end3e435
 SUMMARY:Building Trust to Reinforce Democracy - 
  Main Findings from the 2021 OECD Survey 
  on Drivers of Trust in Public Institutio
@@ -104,22 +148,23 @@ DESCRIPTION:*Building Trust to Reinforce Democracy -
  lication type: Book\nReleased as: ePub, 
  HTML, Paperback, PDF\n\nEmbargo date/tim
  e: Wednesday, 13 July 2022, 9:00 (GMT)\n
- \n\niLibrary export: never\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✗\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 13:23, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=b407f99c-en.
-DTSTAMP:20220706T132401Z
+ \n\niLibrary export: Wednesday, 6 July 2
+ 022, 18:21 (GMT)\nFreepreview export: ne
+ ver\nOECD.org export: Wednesday, 6 July 
+ 2022, 17:58 (GMT)\nFTI loaded: ✗\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 20:45, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=b407f99c-en.
+DTSTAMP:20220706T204553Z
 DTSTART:20220713T090000Z
 DTEND:20220713T091500Z
 TRANSP:TRANSPARENT
@@ -135,7 +180,7 @@ DESCRIPTION:Reminder: Building Trust to Reinforce De
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/548807dd-esd3e697
+UID:10.1787/548807dd-esd3e756
 SUMMARY:Estudio de la OCDE sobre Integridad en C
  osta Rica - Protegiendo los logros democ
  ráticos
@@ -153,7 +198,7 @@ DESCRIPTION:*Estudio de la OCDE sobre Integridad en
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  13:23, it is updated each night; theref
+  20:45, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -161,7 +206,7 @@ DESCRIPTION:*Estudio de la OCDE sobre Integridad en
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=548807dd-es.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220718T060000Z
 DTEND:20220718T061500Z
 TRANSP:TRANSPARENT
@@ -176,7 +221,7 @@ DESCRIPTION:Reminder: Estudio de la OCDE sobre Integ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0031e3b3-end3e750
+UID:10.1787/0031e3b3-end3e809
 SUMMARY:OECD Integrity Review of Costa Rica - Sa
  feguarding Democratic Achievements
 DESCRIPTION:*OECD Integrity Review of Costa Rica - S
@@ -192,7 +237,7 @@ DESCRIPTION:*OECD Integrity Review of Costa Rica - S
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 13:23, it is
+ ect as of this afternoon at 20:45, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -201,7 +246,7 @@ DESCRIPTION:*OECD Integrity Review of Costa Rica - S
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=0031e3b3-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220718T060000Z
 DTEND:20220718T061500Z
 TRANSP:TRANSPARENT
@@ -216,7 +261,7 @@ DESCRIPTION:Reminder: OECD Integrity Review of Costa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7ff793d-end3e856
+UID:10.1787/d7ff793d-end3e916
 SUMMARY:Who Cares about Using Education Research
   in Policy and Practice? - Strengthening
   Research Engagement
@@ -234,7 +279,7 @@ DESCRIPTION:*Who Cares about Using Education Researc
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 13:23, it is
+ ect as of this afternoon at 20:45, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -243,7 +288,7 @@ DESCRIPTION:*Who Cares about Using Education Researc
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=d7ff793d-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220718T070000Z
 DTEND:20220718T071500Z
 TRANSP:TRANSPARENT
@@ -258,7 +303,7 @@ DESCRIPTION:Reminder: Who Cares about Using Educatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7c0f1268-end3e910
+UID:10.1787/7c0f1268-end3e969
 SUMMARY:OECD Economic Surveys: United Kingdom 20
  22
 DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
@@ -274,7 +319,7 @@ DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 13:23, it is updated each night; th
+ n at 20:45, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -282,7 +327,7 @@ DESCRIPTION:*OECD Economic Surveys: United Kingdom 2
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=7c0f1268-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220718T090000Z
 DTEND:20220718T091500Z
 TRANSP:TRANSPARENT
@@ -296,7 +341,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/03dfe007-end3e1014
+UID:10.1787/03dfe007-end3e1073
 SUMMARY:Housing Taxation in OECD Countries
 DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
  Directorate: Centre for Tax Policy and A
@@ -311,7 +356,7 @@ DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 13:23, it is updated
+ f this afternoon at 20:45, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -320,7 +365,7 @@ DESCRIPTION:*Housing Taxation in OECD Countries*\n\n
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=03dfe007-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220721T090000Z
 DTEND:20220721T091500Z
 TRANSP:TRANSPARENT
@@ -334,7 +379,7 @@ DESCRIPTION:Reminder: Housing Taxation in OECD Count
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db29f89a-end3e1223
+UID:10.1787/db29f89a-end3e1282
 SUMMARY:Revenue Statistics in Asia and the Pacif
  ic 2022 - Strengthening Tax Revenues in 
  Developing Asia
@@ -352,7 +397,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 13:23, it is 
+ ct as of this afternoon at 20:45, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -361,7 +406,7 @@ DESCRIPTION:*Revenue Statistics in Asia and the Paci
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=db29f89a-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220725T090000Z
 DTEND:20220725T091500Z
 TRANSP:TRANSPARENT
@@ -376,7 +421,7 @@ DESCRIPTION:Reminder: Revenue Statistics in Asia and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b046dfe-end3e1545
+UID:10.1787/0b046dfe-end3e1604
 SUMMARY:Digital Trade Review of Brazil
 DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ctorate: Trade and Agriculture Directora
@@ -393,7 +438,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 13:23, it is updated each night; ther
+ at 20:45, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -401,7 +446,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0b046dfe-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220726T060000Z
 DTEND:20220726T061500Z
 TRANSP:TRANSPARENT
@@ -414,7 +459,7 @@ DESCRIPTION:Reminder: Digital Trade Review of Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/054722db-end3e2305
+UID:10.1787/054722db-end3e2364
 SUMMARY:OECD Tax Policy Reviews: Colombia 2022
 DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  \n\nDirectorate: Centre for Tax Policy a
@@ -429,7 +474,7 @@ DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 13:23, it is updated each n
+ afternoon at 20:45, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -438,7 +483,7 @@ DESCRIPTION:*OECD Tax Policy Reviews: Colombia 2022*
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=0547
  22db-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220728T130000Z
 DTEND:20220728T131500Z
 TRANSP:TRANSPARENT
@@ -452,7 +497,7 @@ DESCRIPTION:Reminder: OECD Tax Policy Reviews: Colom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68ffa992-end3e2409
+UID:10.1787/68ffa992-end3e2468
 SUMMARY:Rule of Law and Governance in the Palest
  inian Authority - Delivering Better Poli
  cies and Legislation for People
@@ -471,7 +516,7 @@ DESCRIPTION:*Rule of Law and Governance in the Pales
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 13:23, it is updated each n
+ afternoon at 20:45, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -480,7 +525,7 @@ DESCRIPTION:*Rule of Law and Governance in the Pales
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=68ff
  a992-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220729T070000Z
 DTEND:20220729T071500Z
 TRANSP:TRANSPARENT
@@ -496,7 +541,7 @@ DESCRIPTION:Reminder: Rule of Law and Governance in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a8bf9aa-end3e2516
+UID:10.1787/8a8bf9aa-end3e2575
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Swede
  n 2022 (Second Round, Phase 1) - Peer Re
@@ -518,7 +563,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 13:23, it is
+ ect as of this afternoon at 20:45, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -527,7 +572,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=8a8bf9aa-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -544,7 +589,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d2ee45c-end3e2569
+UID:10.1787/3d2ee45c-end3e2628
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Polan
  d 2022 (Second Round, Phase 1) - Peer Re
@@ -566,7 +611,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 13:23, it is
+ ect as of this afternoon at 20:45, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -575,7 +620,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=3d2ee45c-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -592,7 +637,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a2660fde-end3e2622
+UID:10.1787/a2660fde-end3e2681
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Ecuad
  or 2022 (Second Round, Phase 1) - Peer R
@@ -614,7 +659,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 13:23, it i
+ rect as of this afternoon at 20:45, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -623,7 +668,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=a2660fde-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -640,7 +685,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a47c34f6-end3e2728
+UID:10.1787/a47c34f6-end3e2787
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Portu
  gal 2022 (Second Round) - Peer Review Re
@@ -662,7 +707,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 13:23, it is update
+ of this afternoon at 20:45, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -671,7 +716,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=a47c34f6-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -688,7 +733,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3474f433-end3e3100
+UID:10.1787/3474f433-end3e3160
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Cook 
  Islands 2022 (Second Round, Phase 1) - P
@@ -710,7 +755,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 13:23,
+ s correct as of this afternoon at 20:45,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -719,7 +764,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=3474f433-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -736,7 +781,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8cddffce-end3e3154
+UID:10.1787/8cddffce-end3e3213
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Pakis
  tan 2022 (Second Round, Phase 1) - Peer 
@@ -758,7 +803,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 13:23, it 
+ rrect as of this afternoon at 20:45, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -767,7 +812,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=8cddffce-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -784,7 +829,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3c674274-end3e3260
+UID:10.1787/3c674274-end3e3319
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Sint 
  Maarten 2022 (Second Round, Phase 1) - P
@@ -806,7 +851,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 13:23,
+ s correct as of this afternoon at 20:45,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -815,7 +860,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=3c674274-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -832,7 +877,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d732003-end3e3313
+UID:10.1787/9d732003-end3e3372
 SUMMARY:Global Forum on Transparency and Exchang
  e of Information for Tax Purposes: Finla
  nd 2022 (Second Round) - Peer Review Rep
@@ -854,7 +899,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 13:23, it is updated
+ f this afternoon at 20:45, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -863,7 +908,7 @@ DESCRIPTION:*Global Forum on Transparency and Exchan
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=9d732003-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220816T090000Z
 DTEND:20220816T091500Z
 TRANSP:TRANSPARENT
@@ -880,7 +925,7 @@ DESCRIPTION:Reminder: Global Forum on Transparency a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e3419
+UID:10.1787/0d1792c6-esd3e3479
 SUMMARY:Compendio de Prácticas de las Organizaci
  ones Internacionales - Trabajando hacia 
  instrumentos internacionales más efectiv
@@ -901,7 +946,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 13:23, it is updated each night; ther
+ at 20:45, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -909,7 +954,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0d1792c6-es.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220901T100000Z
 DTEND:20220901T101500Z
 TRANSP:TRANSPARENT
@@ -925,7 +970,7 @@ DESCRIPTION:Reminder: Compendio de Prácticas de las
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1bb305a6-end3e3579
+UID:10.1787/1bb305a6-end3e3638
 SUMMARY:OECD Employment Outlook 2022 - Building 
  Back More Inclusive Labour Markets
 DESCRIPTION:*OECD Employment Outlook 2022 - Building
@@ -942,7 +987,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 13:23, it is up
+  as of this afternoon at 20:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -951,7 +996,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1bb305a6-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20220908T090000Z
 DTEND:20220908T091500Z
 TRANSP:TRANSPARENT
@@ -966,7 +1011,7 @@ DESCRIPTION:Reminder: OECD Employment Outlook 2022 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e3736
+UID:10.1787/50b32331-end3e3796
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -984,7 +1029,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 13:23, i
+ correct as of this afternoon at 20:45, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -993,7 +1038,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=50b32331-en.
-DTSTAMP:20220706T132401Z
+DTSTAMP:20220706T204553Z
 DTSTART:20221004T220000Z
 DTEND:20221004T221500Z
 TRANSP:TRANSPARENT

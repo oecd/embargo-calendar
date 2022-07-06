@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 July 2022 at 13:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 6 July 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
 
@@ -27,6 +27,29 @@ Monday 11 July 2022 at 11:00 | no launch event
 
 ------
 
+## [Does the digital world open up an increasing divide in access to print books?](https://doi.org/10.1787/54f9d8f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 July 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’enquête 2021 de l’OCDE sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
 
 Embargo date | Launch date
@@ -36,15 +59,15 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -59,15 +82,15 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
