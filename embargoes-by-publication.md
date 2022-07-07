@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 July 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 7 July 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Survey design and technical documentation supporting the 2021 OECD Survey on Drivers of Trust in Government Institutions](https://doi.org/10.1787/6f6093c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
 
@@ -24,6 +47,29 @@ Monday 11 July 2022 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Official Development Assistance by regime context (2010-19)](https://doi.org/10.1787/57ab4100-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 July 2022 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -59,9 +105,9 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
+- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
+- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
 
 ### Additional Information
 
@@ -81,16 +127,16 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
+- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -537,7 +583,7 @@ Thursday 8 September 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 4 October 2022 at 22:00 | no launch event
+Wednesday 5 October 2022 at 22:00 | no launch event
 
 ### Status Information
 
