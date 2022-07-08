@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 July 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 8 July 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 July 2022](#11-july-2022)
 * [12 July 2022](#12-july-2022)
@@ -53,16 +53,16 @@ Monday 11 July 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 July 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -94,6 +94,29 @@ Monday 11 July 2022 at 17:00 | no launch event
 ------
 
 # 12 July 2022
+
+## [Fighting climate change: International attitudes toward climate policies](https://doi.org/10.1787/3406f29a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 8 July 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Does the digital world open up an increasing divide in access to print books?](https://doi.org/10.1787/54f9d8f7-en)
 
@@ -172,52 +195,6 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 
 # 18 July 2022
 
-## [Estudio de la OCDE sobre Integridad en Costa Rica - Protegiendo los logros democráticos](https://doi.org/10.1787/548807dd-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Integrity Review of Costa Rica - Safeguarding Democratic Achievements](https://doi.org/10.1787/0031e3b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Who Cares about Using Education Research in Policy and Practice? - Strengthening Research Engagement](https://doi.org/10.1787/d7ff793d-en)
 
 Embargo date | Launch date
@@ -261,6 +238,52 @@ Monday 18 July 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Estudio de la OCDE sobre Integridad en Costa Rica - Protegiendo los logros democráticos](https://doi.org/10.1787/548807dd-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Integrity Review of Costa Rica - Safeguarding Democratic Achievements](https://doi.org/10.1787/0031e3b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -358,15 +381,15 @@ Thursday 28 July 2022 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 July 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -617,6 +640,29 @@ Thursday 1 September 2022 at 10:00 | no launch event
 ------
 
 # 8 September 2022
+
+## [Perspectives de l'emploi de l'OCDE 2022 - Reconstruire des marchés du travail plus inclusifs](https://doi.org/10.1787/f4bcd6ab-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
 
