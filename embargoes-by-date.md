@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 July 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 July 2022 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 July 2022](#11-july-2022)
 * [12 July 2022](#12-july-2022)
@@ -10,12 +10,12 @@ Data generated on | |
 * [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [25 July 2022](#25-july-2022)
-* [26 July 2022](#26-july-2022)
 * [28 July 2022](#28-july-2022)
 * [29 July 2022](#29-july-2022)
 * [16 August 2022](#16-august-2022)
 * [1 September 2022](#1-september-2022)
 * [8 September 2022](#8-september-2022)
+* [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
 
 ------
@@ -33,7 +33,7 @@ Monday 11 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
@@ -54,9 +54,9 @@ Monday 11 July 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
+- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Monday 11 July 2022 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 July 2022 at 19:56
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
@@ -106,7 +106,7 @@ Tuesday 12 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 July 2022 at 19:59
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
@@ -129,7 +129,7 @@ Tuesday 12 July 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 July 2022 at 19:58
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
@@ -153,16 +153,16 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -177,7 +177,7 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
+- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
 
@@ -338,33 +338,6 @@ Monday 25 July 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 26 July 2022
-
-## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 July 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 June 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 June 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -684,6 +657,33 @@ Thursday 8 September 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 September 2022
+
+## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 September 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
