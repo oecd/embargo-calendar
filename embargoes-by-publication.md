@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 July 2022 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 12 July 2022 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Survey design and technical documentation supporting the 2021 OECD Survey on Drivers of Trust in Government Institutions](https://doi.org/10.1787/6f6093c5-en)
 
@@ -82,9 +82,9 @@ Tuesday 12 July 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
@@ -107,11 +107,34 @@ Tuesday 12 July 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Closing the loop in the Slovak Republic - A roadmap towards circularity for competitiveness, eco-innovation and sustainability](https://doi.org/10.1787/acadd43a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 July 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -128,9 +151,9 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
@@ -151,9 +174,9 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 July 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
@@ -220,15 +243,15 @@ Monday 18 July 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -243,15 +266,15 @@ Monday 18 July 2022 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -266,15 +289,15 @@ Thursday 21 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -289,15 +312,15 @@ Monday 25 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
