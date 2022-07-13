@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 July 2022 at 21:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Survey design and technical documentation supporting the 2021 OECD Survey on Drivers of Trust in Government Institutions](https://doi.org/10.1787/6f6093c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Empowering Women in the Transition Towards Green Growth in Greece](https://doi.org/10.1787/a9eacee6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 July 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Official Development Assistance by regime context (2010-19)](https://doi.org/10.1787/57ab4100-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 July 2022 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 July 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 13 July 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Fighting climate change: International attitudes toward climate policies](https://doi.org/10.1787/3406f29a-en)
 
@@ -130,7 +61,7 @@ Wednesday 13 July 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
@@ -151,9 +82,9 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
@@ -174,9 +105,9 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
@@ -188,6 +119,52 @@ Wednesday 13 July 2022 at 9:00 | no launch event
 
 ------
 
+## [The post-COVID-19 rise in labour shortages](https://doi.org/10.1787/e60c2d1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving economic opportunities for all in Belgium](https://doi.org/10.1787/662d50d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Who Cares about Using Education Research in Policy and Practice? - Strengthening Research Engagement](https://doi.org/10.1787/d7ff793d-en)
 
 Embargo date | Launch date
@@ -196,18 +173,18 @@ Monday 18 July 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -242,16 +219,16 @@ Monday 18 July 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -265,16 +242,16 @@ Monday 18 July 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -334,18 +311,18 @@ Thursday 28 July 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 July 2022 at 20:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 July 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
