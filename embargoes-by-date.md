@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 July 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 July 2022 at 20:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 July 2022](#12-july-2022)
 * [13 July 2022](#13-july-2022)
 * [15 July 2022](#15-july-2022)
 * [18 July 2022](#18-july-2022)
@@ -17,56 +16,6 @@ Data generated on | |
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
-
-------
-
-# 12 July 2022
-
-## [Fighting climate change: International attitudes toward climate policies](https://doi.org/10.1787/3406f29a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Does the digital world open up an increasing divide in access to print books?](https://doi.org/10.1787/54f9d8f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -156,7 +105,7 @@ Friday 15 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Thursday 14 July 2022 at 19:57
 
 ### Additional Information
 

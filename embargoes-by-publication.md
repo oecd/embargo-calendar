@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 July 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Fighting climate change: International attitudes toward climate policies](https://doi.org/10.1787/3406f29a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Does the digital world open up an increasing divide in access to print books?](https://doi.org/10.1787/54f9d8f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 July 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 14 July 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Closing the loop in the Slovak Republic - A roadmap towards circularity for competitiveness, eco-innovation and sustainability](https://doi.org/10.1787/acadd43a-en)
 
@@ -130,7 +84,7 @@ Friday 15 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Thursday 14 July 2022 at 19:57
 
 ### Additional Information
 
