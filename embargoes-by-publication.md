@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 July 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Closing the loop in the Slovak Republic - A roadmap towards circularity for competitiveness, eco-innovation and sustainability](https://doi.org/10.1787/acadd43a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 July 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Instaurer la confiance pour renforcer la démocratie - Principales conclusions de l’enquête 2021 de l’OCDE sur les déterminants de la confiance dans les institutions publiques](https://doi.org/10.1787/f6a31728-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Building Trust to Reinforce Democracy - Main Findings from the 2021 OECD Survey on Drivers of Trust in Public Institutions](https://doi.org/10.1787/b407f99c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 15 July 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The post-COVID-19 rise in labour shortages](https://doi.org/10.1787/e60c2d1c-en)
 
@@ -84,7 +15,7 @@ Friday 15 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 July 2022 at 19:57
+- [x] Exported to OECD.org Friday 15 July 2022 at 19:56
 
 ### Additional Information
 
@@ -128,7 +59,7 @@ Monday 18 July 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
@@ -219,16 +150,16 @@ Thursday 21 July 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Friday 15 July 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -266,7 +197,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
