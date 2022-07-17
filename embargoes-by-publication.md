@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 July 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The post-COVID-19 rise in labour shortages](https://doi.org/10.1787/e60c2d1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 17 July 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving economic opportunities for all in Belgium](https://doi.org/10.1787/662d50d9-en)
 
@@ -38,7 +15,7 @@ Monday 18 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 18 July 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Monday 18 July 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Monday 18 July 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 

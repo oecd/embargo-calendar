@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 July 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 17 July 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 July 2022](#15-july-2022)
 * [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [25 July 2022](#25-july-2022)
@@ -15,33 +14,6 @@ Data generated on | |
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
-
-------
-
-# 15 July 2022
-
-## [The post-COVID-19 rise in labour shortages](https://doi.org/10.1787/e60c2d1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 July 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,7 +30,7 @@ Monday 18 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -81,7 +53,7 @@ Monday 18 July 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -127,7 +99,7 @@ Monday 18 July 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
@@ -150,7 +122,7 @@ Monday 18 July 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
 
 ### Additional Information
 
