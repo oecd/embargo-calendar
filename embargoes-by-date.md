@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 July 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 18 July 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [25 July 2022](#25-july-2022)
 * [28 July 2022](#28-july-2022)
-* [29 July 2022](#29-july-2022)
 * [16 August 2022](#16-august-2022)
+* [19 August 2022](#19-august-2022)
 * [1 September 2022](#1-september-2022)
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
@@ -30,7 +30,7 @@ Monday 18 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
+- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
 
 ### Additional Information
 
@@ -53,7 +53,7 @@ Monday 18 July 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
+- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
 
 ### Additional Information
 
@@ -62,29 +62,6 @@ Monday 18 July 2022 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -97,9 +74,9 @@ Monday 18 July 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [x] Exported to iLibrary Monday 18 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
+- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
 
 ### Additional Information
 
@@ -120,9 +97,9 @@ Monday 18 July 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
+- [x] Exported to iLibrary Monday 18 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 July 2022 at 19:55
+- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
 
 ### Additional Information
 
@@ -212,33 +189,6 @@ Thursday 28 July 2022 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 29 July 2022
-
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 29 July 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -426,6 +376,33 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 August 2022
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 August 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------

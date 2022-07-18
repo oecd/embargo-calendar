@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-07-17T20:35:50.037685+02:00">
+<report name="official-embargoes" generated="2022-07-18T20:45:24.7113456+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -393,7 +393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-15T18:18:13Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -753,7 +753,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-15T18:18:13Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -981,46 +981,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ef3b4d5</cell>
   </row>
   <row index="49">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/7c0f1268-en</cell>
-    <cell name="title">OECD Economic Surveys: United Kingdom 2022 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2022-07-18T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28a4e14a</cell>
-  </row>
-  <row index="50">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/7c0f1268-en</cell>
-    <cell name="title">OECD Economic Surveys: United Kingdom 2022 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2022-07-18T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52a71d01</cell>
-  </row>
-  <row index="51">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a391185c-en</cell>
     <cell name="title">Towards a coherent disciplinary system in Costa Rica (en)</cell>
@@ -1040,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/114dfe30</cell>
   </row>
-  <row index="52">
+  <row index="50">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/eaf4c612-es</cell>
     <cell name="title">Asegurar un sistema de integridad pública coherente y coordinado en Costa Rica (es)</cell>
@@ -1060,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fff31979</cell>
   </row>
-  <row index="53">
+  <row index="51">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/92e78915-en</cell>
     <cell name="title">Grounding the National Integrity and Corruption Prevention Strategy (ENIPC) of Costa Rica (en)</cell>
@@ -1080,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96b9a878</cell>
   </row>
-  <row index="54">
+  <row index="52">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3e66c267-es</cell>
     <cell name="title">Fortalecer la gestión de conflictos de interés en Costa Rica (es)</cell>
@@ -1100,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d32641c</cell>
   </row>
-  <row index="55">
+  <row index="53">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81926402-es</cell>
     <cell name="title">Fortalecer la transparencia e integridad en la toma de decisiones en Costa Rica (es)</cell>
@@ -1120,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9657d50d</cell>
   </row>
-  <row index="56">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/81926402-es</cell>
     <cell name="title">Fortalecer la transparencia e integridad en la toma de decisiones en Costa Rica (es)</cell>
@@ -1140,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/377ffd0d</cell>
   </row>
-  <row index="57">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0031e3b3-en</cell>
     <cell name="title">OECD Integrity Review of Costa Rica (en)</cell>
@@ -1151,7 +1111,7 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1160,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/772b5d91</cell>
   </row>
-  <row index="58">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3b11bb20-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1180,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d6ba15c</cell>
   </row>
-  <row index="59">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87656369-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1200,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12691beb</cell>
   </row>
-  <row index="60">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a391185c-en</cell>
     <cell name="title">Towards a coherent disciplinary system in Costa Rica (en)</cell>
@@ -1220,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bbbf2a4</cell>
   </row>
-  <row index="61">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9fecc978-es</cell>
     <cell name="title">Hacia un sistema disciplinario coherente en Costa Rica (es)</cell>
@@ -1240,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/414d9d9f</cell>
   </row>
-  <row index="62">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/56e8a848-es</cell>
     <cell name="title">Confianza en el gobierno nacional en 2020 y su evolución desde 2007 (es)</cell>
@@ -1260,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bee5a996</cell>
   </row>
-  <row index="63">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/71496be9-en</cell>
     <cell name="title">Strengthening transparency and integrity in decision-making in Costa Rica (en)</cell>
@@ -1280,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a9d465f</cell>
   </row>
-  <row index="64">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f1d29fd9-en</cell>
     <cell name="title">Strengthening conflict of interest management in Costa Rica (en)</cell>
@@ -1300,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7eb0ff2</cell>
   </row>
-  <row index="65">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/809c8060-en</cell>
     <cell name="title">Ensuring a co-ordinated and coherent public integrity system in Costa Rica (en)</cell>
@@ -1320,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15a784ff</cell>
   </row>
-  <row index="66">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/eaf4c612-es</cell>
     <cell name="title">Asegurar un sistema de integridad pública coherente y coordinado en Costa Rica (es)</cell>
@@ -1340,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52b46a0a</cell>
   </row>
-  <row index="67">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/87656369-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1360,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c38528b4</cell>
   </row>
-  <row index="68">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/548807dd-es</cell>
     <cell name="title">Estudio de la OCDE sobre Integridad en Costa Rica (es)</cell>
@@ -1371,16 +1331,16 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26c6c3c0</cell>
   </row>
-  <row index="69">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/539172c7-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1400,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fd1f088</cell>
   </row>
-  <row index="70">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4fe10acc-en</cell>
     <cell name="title">Stakeholder consultation at different stages of policy making (en)</cell>
@@ -1420,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd577c61</cell>
   </row>
-  <row index="71">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7baab166-es</cell>
     <cell name="title">El Indicador de Integridad Pública de la OCDE sobre marco estratégico (es)</cell>
@@ -1440,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/825fc343</cell>
   </row>
-  <row index="72">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5bc5bb91-en</cell>
     <cell name="title">Confidence in national government in 2020 and its change since 2007 (en)</cell>
@@ -1460,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9cb7803</cell>
   </row>
-  <row index="73">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/539172c7-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1480,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53adf661</cell>
   </row>
-  <row index="74">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0031e3b3-en</cell>
     <cell name="title">OECD Integrity Review of Costa Rica (en)</cell>
@@ -1491,16 +1451,16 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9e0158e</cell>
   </row>
-  <row index="75">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dd8e2c4d-es</cell>
     <cell name="title">Aterrizar la Estrategia Nacional de Integridad y Prevención de la Corrupción (ENIPC) de Costa Rica (es)</cell>
@@ -1520,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/464d952b</cell>
   </row>
-  <row index="76">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/548807dd-es</cell>
     <cell name="title">Estudio de la OCDE sobre Integridad en Costa Rica (es)</cell>
@@ -1531,7 +1491,7 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1540,18 +1500,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/309890ff</cell>
   </row>
-  <row index="77">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0031e3b3-en</cell>
     <cell name="title">OECD Integrity Review of Costa Rica (en)</cell>
     <cell name="subtitle">Safeguarding Democratic Achievements (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1560,18 +1520,18 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/532ccde4</cell>
   </row>
-  <row index="78">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/548807dd-es</cell>
     <cell name="title">Estudio de la OCDE sobre Integridad en Costa Rica (es)</cell>
     <cell name="subtitle">Protegiendo los logros democráticos (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1580,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5190c9e</cell>
   </row>
-  <row index="79">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f1d29fd9-en</cell>
     <cell name="title">Strengthening conflict of interest management in Costa Rica (en)</cell>
@@ -1600,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af0a19e0</cell>
   </row>
-  <row index="80">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/92e78915-en</cell>
     <cell name="title">Grounding the National Integrity and Corruption Prevention Strategy (ENIPC) of Costa Rica (en)</cell>
@@ -1620,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c132d986</cell>
   </row>
-  <row index="81">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3e66c267-es</cell>
     <cell name="title">Fortalecer la gestión de conflictos de interés en Costa Rica (es)</cell>
@@ -1640,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96c1fbd7</cell>
   </row>
-  <row index="82">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0031e3b3-en</cell>
     <cell name="title">OECD Integrity Review of Costa Rica (en)</cell>
@@ -1651,16 +1611,16 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8b048e8</cell>
   </row>
-  <row index="83">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/71496be9-en</cell>
     <cell name="title">Strengthening transparency and integrity in decision-making in Costa Rica (en)</cell>
@@ -1680,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9fff3a21</cell>
   </row>
-  <row index="84">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/548807dd-es</cell>
     <cell name="title">Estudio de la OCDE sobre Integridad en Costa Rica (es)</cell>
@@ -1691,16 +1651,16 @@
     <cell name="date of publication">2022-07-18</cell>
     <cell name="embargo date">2022-07-18T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-17T17:55:31Z</cell>
+    <cell name="oecd.org last export date">2022-07-18T17:58:29Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18f7075a</cell>
   </row>
-  <row index="85">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/99cc4b8b-en</cell>
     <cell name="title">PII: Existence of a central co-ordination function responsible for co-ordinating the implementation, monitoring, reporting and evaluation of the action plan (en)</cell>
@@ -1720,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4cbc0a0</cell>
   </row>
-  <row index="86">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3b11bb20-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1740,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86ed6f43</cell>
   </row>
-  <row index="87">
+  <row index="85">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/05a663b2-en</cell>
     <cell name="title">The OECD Public Integrity Indicator for Strategic Framework (en)</cell>
@@ -1760,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1eb052e2</cell>
   </row>
-  <row index="88">
+  <row index="86">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/dd8e2c4d-es</cell>
     <cell name="title">Aterrizar la Estrategia Nacional de Integridad y Prevención de la Corrupción (ENIPC) de Costa Rica (es)</cell>
@@ -1780,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3d7830f</cell>
   </row>
-  <row index="89">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f7844b2a-es</cell>
     <cell name="title">Consulta de partes interesadas en diferentes fases de la formulación de políticas públicas (es)</cell>
@@ -1800,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fc6cb9c</cell>
   </row>
-  <row index="90">
+  <row index="88">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9fecc978-es</cell>
     <cell name="title">Hacia un sistema disciplinario coherente en Costa Rica (es)</cell>
@@ -1820,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/482b1cd2</cell>
   </row>
-  <row index="91">
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0247b082-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -1840,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9148c25</cell>
   </row>
-  <row index="92">
+  <row index="90">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/20d4c8ac-es</cell>
     <cell name="title">PII: Existencia de una función central de coordinación responsable de coordinar la implementación, monitoreo, reporte y evaluación del plan de acción (es)</cell>
@@ -1860,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90ca281c</cell>
   </row>
-  <row index="93">
+  <row index="91">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0247b082-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -1880,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d77c3f5</cell>
   </row>
-  <row index="94">
+  <row index="92">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/809c8060-en</cell>
     <cell name="title">Ensuring a co-ordinated and coherent public integrity system in Costa Rica (en)</cell>
@@ -1900,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb3c2549</cell>
   </row>
-  <row index="95">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5e776f12-en</cell>
     <cell name="title">Share of housing wealth by gift or inheritance and across net wealth quintiles, unweighted average, select OECD countries (en)</cell>
@@ -1920,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/189766fd</cell>
   </row>
-  <row index="96">
+  <row index="94">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5fcc7725-en</cell>
     <cell name="title">Changes in middle-income households’ spending shares, 2005-15 average (en)</cell>
@@ -1940,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7eebc54</cell>
   </row>
-  <row index="97">
+  <row index="95">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/27830661-en</cell>
     <cell name="title">Real house price index, average 14 countries, 1921-2021 (en)</cell>
@@ -1960,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba8cd0a7</cell>
   </row>
-  <row index="98">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/03dfe007-en</cell>
     <cell name="title">Housing Taxation in OECD Countries (en)</cell>
@@ -1980,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/130c8870</cell>
   </row>
-  <row index="99">
+  <row index="97">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/03dfe007-en</cell>
     <cell name="title">Housing Taxation in OECD Countries (en)</cell>
@@ -2000,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddbeeeec</cell>
   </row>
-  <row index="100">
+  <row index="98">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ba0476eb-en</cell>
     <cell name="title">Share of owner-occupied housing and secondary real estate by wealth quintile, unweighted average, 29 OECD countries (en)</cell>
@@ -2020,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b24a3906</cell>
   </row>
-  <row index="101">
+  <row index="99">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fc5c3acc-en</cell>
     <cell name="title">Percentage changes in real house prices and rents, 2000-2020 (en)</cell>
@@ -2040,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/172f7c7f</cell>
   </row>
-  <row index="102">
+  <row index="100">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f3a58c04-en</cell>
     <cell name="title">Average decomposition of household assets, 29 OECD countries (en)</cell>
@@ -2060,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513260be</cell>
   </row>
-  <row index="103">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/69cab447-en</cell>
     <cell name="title">Proportion of mortgage-bearing households with owner-occupied mortgage debt equal to at least 3 times gross income, unweighted average, 19 OECD countries (en)</cell>
@@ -2080,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32e7f42d</cell>
   </row>
-  <row index="104">
+  <row index="102">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ae4be7e1-en</cell>
     <cell name="title">Housing tax policies in the OECD and options for reform (en)</cell>
@@ -2100,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d40ef05</cell>
   </row>
-  <row index="105">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/03dfe007-en</cell>
     <cell name="title">Housing Taxation in OECD Countries (en)</cell>
@@ -2120,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4793bc70</cell>
   </row>
-  <row index="106">
+  <row index="104">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/690b124b-en</cell>
     <cell name="title">Composition of household assets by wealth quintile, unweighted average, 29 OECD countries (en)</cell>
@@ -2140,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cb4d0e0</cell>
   </row>
-  <row index="107">
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/72f96e00-en</cell>
     <cell name="title">Mean growth in real housing prices and mean growth in recurrent property tax revenues (% of GDP) over time, 15 OECD countries, 1995-2020 (en)</cell>
@@ -2160,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c432a437</cell>
   </row>
-  <row index="108">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/983cde54-en</cell>
     <cell name="title">Ratio of mean gross owner-occupied housing wealth to mean gross income by age of household head, unweighted average, 26 OECD countries (en)</cell>
@@ -2180,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f4295b9</cell>
   </row>
-  <row index="109">
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cf4cf346-en</cell>
     <cell name="title">Property tax revenue as a share of GDP over time across OECD countries (unweighted average), 1965-2019 (en)</cell>
@@ -2200,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27350b21</cell>
   </row>
-  <row index="110">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/20a204aa-en</cell>
     <cell name="title">Fixed-rate mortgages and moderate debt service ratios limit risks in housing markets (en)</cell>
@@ -2220,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b4681e4</cell>
   </row>
-  <row index="111">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fcf8dabc-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2240,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4383278</cell>
   </row>
-  <row index="112">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/60f6d448-en</cell>
     <cell name="title">Property tax revenue as a share of total tax revenues, 2020 (en)</cell>
@@ -2260,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb89ffa9</cell>
   </row>
-  <row index="113">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fc47b690-en</cell>
     <cell name="title">Household and mortgage debt to GDP across OECD countries in 2008 and 2018 (en)</cell>
@@ -2280,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c502226e</cell>
   </row>
-  <row index="114">
+  <row index="112">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ff874123-en</cell>
     <cell name="title">Proportion of households that own their principal residence and proportion of households that hold principal residence mortgage debt, by age group of household head, 29 OECD countries (en)</cell>
@@ -2300,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0d6826e</cell>
   </row>
-  <row index="115">
+  <row index="113">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc8ae876-en</cell>
     <cell name="title">Homeownership rates over the lifecycle for successive birth cohorts in Australia, Southern Europe, the United Kingdom and the United States (en)</cell>
@@ -2320,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b3d3032</cell>
   </row>
-  <row index="116">
+  <row index="114">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/63dec4c1-en</cell>
     <cell name="title">The distribution of housing assets (en)</cell>
@@ -2340,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3dbc4562</cell>
   </row>
-  <row index="117">
+  <row index="115">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/efab0fb6-en</cell>
     <cell name="title">Number of years over which cumulated average household disposable income equals the average price of a 100m2 dwelling, 2000 and 2020 (en)</cell>
@@ -2360,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53646b91</cell>
   </row>
-  <row index="118">
+  <row index="116">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/98d3d86a-en</cell>
     <cell name="title">Net wealth and gross income relative to population average by housing tenure type, 27 OECD countries (en)</cell>
@@ -2380,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c901bd00</cell>
   </row>
-  <row index="119">
+  <row index="117">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/571923f7-en</cell>
     <cell name="title">Share of households that are renters, owners with a mortgage, or outright owners, 28 OECD countries (en)</cell>
@@ -2400,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d5ed2c0</cell>
   </row>
-  <row index="120">
+  <row index="118">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/03dfe007-en</cell>
     <cell name="title">Housing Taxation in OECD Countries (en)</cell>
@@ -2420,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9d51c34</cell>
   </row>
-  <row index="121">
+  <row index="119">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6b07a9af-en</cell>
     <cell name="title">Recurrent taxes on immovable property as a percentage of local and state government’s revenues, 2019 (en)</cell>
@@ -2440,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70087b84</cell>
   </row>
-  <row index="122">
+  <row index="120">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8d051fa1-en</cell>
     <cell name="title">Mean value of owner-occupied housing assets and liabilities by income and wealth quintiles, unweighted average, 28 OECD countries (en)</cell>
@@ -2460,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dab371c6</cell>
   </row>
-  <row index="123">
+  <row index="121">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ae4be7e1-en</cell>
     <cell name="title">Housing tax policies in the OECD and options for reform (en)</cell>
@@ -2480,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ababc92e</cell>
   </row>
-  <row index="124">
+  <row index="122">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a28ac168-en</cell>
     <cell name="title">Homeownership rates for 16-34 year old households, recipients and non-recipients of a substantial gift or inheritance, 18 OECD countries (en)</cell>
@@ -2500,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b32b637a</cell>
   </row>
-  <row index="125">
+  <row index="123">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/87d71f1e-en</cell>
     <cell name="title">Share of owner-occupied housing debt by household composition, 28 OECD countries (en)</cell>
@@ -2520,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b4a933d</cell>
   </row>
-  <row index="126">
+  <row index="124">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9f34dd18-en</cell>
     <cell name="title">Housing supply elasticities across metropolitan regions in a sample of OECD countries, 2019 (en)</cell>
@@ -2540,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c594fdc</cell>
   </row>
-  <row index="127">
+  <row index="125">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fcf8dabc-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -2560,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccfca18c</cell>
   </row>
-  <row index="128">
+  <row index="126">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c974b74e-en</cell>
     <cell name="title">Housing market trends and challenges (en)</cell>
@@ -2580,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65f2c657</cell>
   </row>
-  <row index="129">
+  <row index="127">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/09651919-en</cell>
     <cell name="title">Share of wealth transfer recipients reporting inherited or gifted housing, 17 OECD countries (en)</cell>
@@ -2600,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc20097c</cell>
   </row>
-  <row index="130">
+  <row index="128">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/40b7f8b0-en</cell>
     <cell name="title">Global share of buildings and construction final energy and emissions, 2019 (en)</cell>
@@ -2620,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86aa5fa1</cell>
   </row>
-  <row index="131">
+  <row index="129">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c974b74e-en</cell>
     <cell name="title">Housing market trends and challenges (en)</cell>
@@ -2640,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54ae28ae</cell>
   </row>
-  <row index="132">
+  <row index="130">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5abc802a-en</cell>
     <cell name="title">Tax treatment of housing in OECD counries (en)</cell>
@@ -2660,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a87d12b3</cell>
   </row>
-  <row index="133">
+  <row index="131">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/abff1be3-en</cell>
     <cell name="title">Share of owner-occupied and secondary real estate debt by income quintile, 28 OECD countries (en)</cell>
@@ -2680,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c98c6204</cell>
   </row>
-  <row index="134">
+  <row index="132">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1258dc19-en</cell>
     <cell name="title">Homeownership rate by income quintile, 29 OECD countries (en)</cell>
@@ -2700,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d38f1b2b</cell>
   </row>
-  <row index="135">
+  <row index="133">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/38e907d8-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2720,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e35736a</cell>
   </row>
-  <row index="136">
+  <row index="134">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/18c469f4-en</cell>
     <cell name="title">Annual percentage change in house prices and GDP, 1971-2019 (en)</cell>
@@ -2740,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a58396cf</cell>
   </row>
-  <row index="137">
+  <row index="135">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/63dec4c1-en</cell>
     <cell name="title">The distribution of housing assets (en)</cell>
@@ -2760,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/803c4203</cell>
   </row>
-  <row index="138">
+  <row index="136">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/38e907d8-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2780,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bfae03f</cell>
   </row>
-  <row index="139">
+  <row index="137">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/daca1a1a-en</cell>
     <cell name="title">Real house price growth and real house price gap, 37 OECD countries (en)</cell>
@@ -2800,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3b0cae3</cell>
   </row>
-  <row index="140">
+  <row index="138">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ecbc26af-en</cell>
     <cell name="title">Marginal effective tax rates and component taxes, owner-occupied debt-financed housing, average for countries with and without mortgage interest relief, 2016 (en)</cell>
@@ -2820,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd0a653f</cell>
   </row>
-  <row index="141">
+  <row index="139">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5abc802a-en</cell>
     <cell name="title">Tax treatment of housing in OECD counries (en)</cell>
@@ -2840,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffb2768d</cell>
   </row>
-  <row index="142">
+  <row index="140">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5e9c3e5b-en</cell>
     <cell name="title">Mean value of owner-occupied and secondary housing assets and liabilities by age group of household head, unweighted average, 26 OECD countries (en)</cell>
@@ -2860,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0532931</cell>
   </row>
-  <row index="143">
+  <row index="141">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/26281fe1-en</cell>
     <cell name="title">Evolution of homeownership rates among young households in France and working-age households in Australia, by income or wealth (en)</cell>
@@ -2880,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bb83eef</cell>
   </row>
-  <row index="144">
+  <row index="142">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/50ea6b44-en</cell>
     <cell name="title">Mean gross wealth in owner-occupied housing and secondary real estate, all households and top and bottom income quintiles, 29 OECD countries (en)</cell>
@@ -2900,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57f1bd17</cell>
   </row>
-  <row index="145">
+  <row index="143">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/db29f89a-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2022 (en)</cell>
@@ -2920,7 +2880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/319dbe36</cell>
   </row>
-  <row index="146">
+  <row index="144">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/db29f89a-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2022 (en)</cell>
@@ -2940,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0b83383</cell>
   </row>
-  <row index="147">
+  <row index="145">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b3aba6d3-en</cell>
     <cell name="title">Benchmark approaches across OECD countries (en)</cell>
@@ -2960,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f10ff04</cell>
   </row>
-  <row index="148">
+  <row index="146">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3b7e30a6-en</cell>
     <cell name="title">List of Personal Income Tax Expenditures (en)</cell>
@@ -2980,7 +2940,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cfa9d83</cell>
   </row>
-  <row index="149">
+  <row index="147">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/90888335-es</cell>
+    <cell name="title">Resumen Ejecutivo (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-07-28</cell>
+    <cell name="embargo date">2022-07-28T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00c3c800</cell>
+  </row>
+  <row index="148">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/046b9eed-en</cell>
     <cell name="title">Drafting the First Tax Expenditure Report – Structure and Important Clarifications (en)</cell>
@@ -3000,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68f71f60</cell>
   </row>
-  <row index="150">
+  <row index="149">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/046b9eed-en</cell>
     <cell name="title">Drafting the First Tax Expenditure Report – Structure and Important Clarifications (en)</cell>
@@ -3020,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32357faa</cell>
   </row>
-  <row index="151">
+  <row index="150">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ecbfb624-en</cell>
     <cell name="title">Measuring and Reporting Personal Income Tax Expenditures (en)</cell>
@@ -3040,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7ca52fa</cell>
   </row>
-  <row index="152">
+  <row index="151">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/02c828ef-en</cell>
     <cell name="title">VAT revenue forgone linked to the Free Trade Zone exemption (en)</cell>
@@ -3060,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab79ee4e</cell>
   </row>
-  <row index="153">
+  <row index="152">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e2d80a2c-en</cell>
     <cell name="title">List of Tax Expenditures in the Value-Added Tax (en)</cell>
@@ -3080,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d36a567</cell>
   </row>
-  <row index="154">
+  <row index="153">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e2d80a2c-en</cell>
     <cell name="title">List of Tax Expenditures in the Value-Added Tax (en)</cell>
@@ -3100,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15625409</cell>
   </row>
-  <row index="155">
+  <row index="154">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ecbfb624-en</cell>
     <cell name="title">Measuring and Reporting Personal Income Tax Expenditures (en)</cell>
@@ -3120,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6da05f57</cell>
   </row>
-  <row index="156">
+  <row index="155">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dfc92a08-en</cell>
     <cell name="title">Identifying and Measuring Tax Expenditures in the Value-Added Tax (en)</cell>
@@ -3140,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d99b5670</cell>
   </row>
-  <row index="157">
+  <row index="156">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec8020fe-en</cell>
     <cell name="title">List of Corporate Income Tax Expenditures (en)</cell>
@@ -3160,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ef0f2be</cell>
   </row>
-  <row index="158">
+  <row index="157">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc5f6bb9-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3180,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df89066a</cell>
   </row>
-  <row index="159">
+  <row index="158">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b3aba6d3-en</cell>
     <cell name="title">Benchmark approaches across OECD countries (en)</cell>
@@ -3200,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c850281</cell>
   </row>
-  <row index="160">
+  <row index="159">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b52010d7-en</cell>
     <cell name="title">Income Tax Benchmark Proposal for Colombia (en)</cell>
@@ -3220,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d3cdf0d</cell>
   </row>
-  <row index="161">
+  <row index="160">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a9a9e220-en</cell>
     <cell name="title">Measuring and Reporting Corporate Income Tax Expenditures (en)</cell>
@@ -3240,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2eb17960</cell>
   </row>
-  <row index="162">
+  <row index="161">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/054722db-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Colombia 2022 (en)</cell>
@@ -3260,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8efc8f76</cell>
   </row>
-  <row index="163">
+  <row index="162">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/02c828ef-en</cell>
     <cell name="title">VAT revenue forgone linked to the Free Trade Zone exemption (en)</cell>
@@ -3280,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26905a36</cell>
   </row>
-  <row index="164">
+  <row index="163">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b52010d7-en</cell>
     <cell name="title">Income Tax Benchmark Proposal for Colombia (en)</cell>
@@ -3300,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/944cb842</cell>
   </row>
-  <row index="165">
+  <row index="164">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dfc92a08-en</cell>
     <cell name="title">Identifying and Measuring Tax Expenditures in the Value-Added Tax (en)</cell>
@@ -3320,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9421b74a</cell>
   </row>
-  <row index="166">
+  <row index="165">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3b7e30a6-en</cell>
     <cell name="title">List of Personal Income Tax Expenditures (en)</cell>
@@ -3340,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eea1e87e</cell>
   </row>
-  <row index="167">
+  <row index="166">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/054722db-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Colombia 2022 (en)</cell>
@@ -3360,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23711268</cell>
   </row>
-  <row index="168">
+  <row index="167">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b547f267-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3371,7 +3351,7 @@
     <cell name="date of publication">2022-07-28</cell>
     <cell name="embargo date">2022-07-28T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3380,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6577b631</cell>
   </row>
-  <row index="169">
+  <row index="168">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/054722db-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Colombia 2022 (en)</cell>
@@ -3400,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7675700a</cell>
   </row>
-  <row index="170">
+  <row index="169">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a9a9e220-en</cell>
     <cell name="title">Measuring and Reporting Corporate Income Tax Expenditures (en)</cell>
@@ -3420,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83a78fa5</cell>
   </row>
-  <row index="171">
+  <row index="170">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/054722db-en</cell>
     <cell name="title">OECD Tax Policy Reviews: Colombia 2022 (en)</cell>
@@ -3440,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66f56c3a</cell>
   </row>
-  <row index="172">
+  <row index="171">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cc5f6bb9-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3460,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba18d973</cell>
   </row>
-  <row index="173">
+  <row index="172">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec8020fe-en</cell>
     <cell name="title">List of Corporate Income Tax Expenditures (en)</cell>
@@ -3480,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd1f8aff</cell>
   </row>
-  <row index="174">
+  <row index="173">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b547f267-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -3491,7 +3471,7 @@
     <cell name="date of publication">2022-07-28</cell>
     <cell name="embargo date">2022-07-28T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-07-13T18:28:22Z</cell>
+    <cell name="ilibrary last export date">2022-07-18T18:18:42Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3500,47 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb5b048d</cell>
   </row>
-  <row index="175">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/68ffa992-en</cell>
-    <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
-    <cell name="subtitle">Delivering Better Policies and Legislation for People (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-07-29</cell>
-    <cell name="embargo date">2022-07-29T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
-  </row>
-  <row index="176">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/68ffa992-en</cell>
-    <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
-    <cell name="subtitle">Delivering Better Policies and Legislation for People (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-07-29</cell>
-    <cell name="embargo date">2022-07-29T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
-  </row>
-  <row index="177">
+  <row index="174">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a8bf9aa-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) (en)</cell>
@@ -3560,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac2fd01</cell>
   </row>
-  <row index="178">
+  <row index="175">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d2ee45c-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) (en)</cell>
@@ -3580,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac897c3</cell>
   </row>
-  <row index="179">
+  <row index="176">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a2660fde-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) (en)</cell>
@@ -3600,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec2215ca</cell>
   </row>
-  <row index="180">
+  <row index="177">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a47c34f6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) (en)</cell>
@@ -3620,7 +3560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/087725c0</cell>
   </row>
-  <row index="181">
+  <row index="178">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a47c34f6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) (en)</cell>
@@ -3640,7 +3580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/417ad54e</cell>
   </row>
-  <row index="182">
+  <row index="179">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3c674274-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) (en)</cell>
@@ -3660,7 +3600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a064a6e3</cell>
   </row>
-  <row index="183">
+  <row index="180">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8cddffce-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) (en)</cell>
@@ -3680,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8628375</cell>
   </row>
-  <row index="184">
+  <row index="181">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a2660fde-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) (en)</cell>
@@ -3700,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2264628f</cell>
   </row>
-  <row index="185">
+  <row index="182">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d2ee45c-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) (en)</cell>
@@ -3720,7 +3660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3f6674a</cell>
   </row>
-  <row index="186">
+  <row index="183">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9d732003-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) (en)</cell>
@@ -3740,7 +3680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09510dc2</cell>
   </row>
-  <row index="187">
+  <row index="184">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a8bf9aa-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) (en)</cell>
@@ -3760,7 +3700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52227297</cell>
   </row>
-  <row index="188">
+  <row index="185">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3474f433-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) (en)</cell>
@@ -3780,7 +3720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6940601f</cell>
   </row>
-  <row index="189">
+  <row index="186">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8cddffce-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) (en)</cell>
@@ -3800,7 +3740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67e1cefa</cell>
   </row>
-  <row index="190">
+  <row index="187">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3474f433-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) (en)</cell>
@@ -3820,7 +3760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43f9a01</cell>
   </row>
-  <row index="191">
+  <row index="188">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3c674274-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) (en)</cell>
@@ -3840,7 +3780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abb9106a</cell>
   </row>
-  <row index="192">
+  <row index="189">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9d732003-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) (en)</cell>
@@ -3860,7 +3800,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b612dddd</cell>
   </row>
-  <row index="193">
+  <row index="190">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/68ffa992-en</cell>
+    <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
+    <cell name="subtitle">Delivering Better Policies and Legislation for People (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-08-19</cell>
+    <cell name="embargo date">2022-08-19T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
+  </row>
+  <row index="191">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/68ffa992-en</cell>
+    <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
+    <cell name="subtitle">Delivering Better Policies and Legislation for People (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-08-19</cell>
+    <cell name="embargo date">2022-08-19T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
+  </row>
+  <row index="192">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3880,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/054d8550</cell>
   </row>
-  <row index="194">
+  <row index="193">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3900,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf0d53f7</cell>
   </row>
-  <row index="195">
+  <row index="194">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3920,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6bc2607</cell>
   </row>
-  <row index="196">
+  <row index="195">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -3940,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dcfd362</cell>
   </row>
-  <row index="197">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -3960,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b092de8d</cell>
   </row>
-  <row index="198">
+  <row index="197">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -3980,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb7a2c9</cell>
   </row>
-  <row index="199">
+  <row index="198">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -4000,7 +3980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d693952b</cell>
   </row>
-  <row index="200">
+  <row index="199">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -4020,7 +4000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4370cdc6</cell>
   </row>
-  <row index="201">
+  <row index="200">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -4040,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2d6ba0</cell>
   </row>
-  <row index="202">
+  <row index="201">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -4060,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9f39821</cell>
   </row>
-  <row index="203">
+  <row index="202">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4080,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f23f3ee0</cell>
   </row>
-  <row index="204">
+  <row index="203">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4100,7 +4080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="205">
+  <row index="204">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4120,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="206">
+  <row index="205">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -4140,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7b4f876</cell>
   </row>
-  <row index="207">
+  <row index="206">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -4160,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff397ebb</cell>
   </row>
-  <row index="208">
+  <row index="207">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -4180,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8a074de</cell>
   </row>
-  <row index="209">
+  <row index="208">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -4200,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0420cddf</cell>
   </row>
-  <row index="210">
+  <row index="209">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4220,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38094870</cell>
   </row>
-  <row index="211">
+  <row index="210">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -4240,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2f4f52</cell>
   </row>
-  <row index="212">
+  <row index="211">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4260,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcf8ef9</cell>
   </row>
-  <row index="213">
+  <row index="212">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4280,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
   </row>
-  <row index="214">
+  <row index="213">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -4300,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/817cb88e</cell>
   </row>
-  <row index="215">
+  <row index="214">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -4320,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
   </row>
-  <row index="216">
+  <row index="215">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -4340,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb486151</cell>
   </row>
-  <row index="217">
+  <row index="216">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4360,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5138f9</cell>
   </row>
-  <row index="218">
+  <row index="217">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -4380,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc269ca7</cell>
   </row>
-  <row index="219">
+  <row index="218">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -4400,7 +4380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="220">
+  <row index="219">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
