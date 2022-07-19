@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 July 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 July 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving economic opportunities for all in Belgium](https://doi.org/10.1787/662d50d9-en)
 
@@ -119,26 +119,49 @@ Thursday 21 July 2022 at 9:00 | no launch event
 
 ------
 
+## [Financial planning and financial education for old age in times of change](https://doi.org/10.1787/e1d4878e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 July 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Asia and the Pacific 2022 - Strengthening Tax Revenues in Developing Asia](https://doi.org/10.1787/db29f89a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 25 July 2022 at 9:00 | no launch event
+Monday 25 July 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 July 2022 at 20:32
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 July 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
