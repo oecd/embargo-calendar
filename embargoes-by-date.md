@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 July 2022 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 July 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 July 2022](#18-july-2022)
 * [21 July 2022](#21-july-2022)
 * [22 July 2022](#22-july-2022)
 * [25 July 2022](#25-july-2022)
@@ -15,102 +14,6 @@ Data generated on | |
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
-
-------
-
-# 18 July 2022
-
-## [Improving economic opportunities for all in Belgium](https://doi.org/10.1787/662d50d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 July 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Who Cares about Using Education Research in Policy and Practice? - Strengthening Research Engagement](https://doi.org/10.1787/d7ff793d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Estudio de la OCDE sobre Integridad en Costa Rica - Protegiendo los logros democráticos](https://doi.org/10.1787/548807dd-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 July 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Integrity Review of Costa Rica - Safeguarding Democratic Achievements](https://doi.org/10.1787/0031e3b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 July 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 July 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 July 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -127,7 +30,7 @@ Thursday 21 July 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 July 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 July 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 20 July 2022 at 19:59
 
 ### Additional Information
 
