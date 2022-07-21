@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 July 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 21 July 2022 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Housing Taxation in OECD Countries](https://doi.org/10.1787/03dfe007-en)
 
@@ -13,7 +13,7 @@ Thursday 21 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 20 July 2022 at 19:59
 
@@ -59,7 +59,7 @@ Monday 25 July 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
 
@@ -82,7 +82,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
@@ -300,6 +300,29 @@ Friday 19 August 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Does Higher Education Teach Students to Think Critically?](https://doi.org/10.1787/cc9fa6aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 

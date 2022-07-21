@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 July 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 July 2022 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 July 2022](#21-july-2022)
 * [22 July 2022](#22-july-2022)
@@ -10,6 +10,7 @@ Data generated on | |
 * [28 July 2022](#28-july-2022)
 * [16 August 2022](#16-august-2022)
 * [19 August 2022](#19-august-2022)
+* [30 August 2022](#30-august-2022)
 * [1 September 2022](#1-september-2022)
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
@@ -28,7 +29,7 @@ Thursday 21 July 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 20 July 2022 at 19:59
 
@@ -82,7 +83,7 @@ Monday 25 July 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
 
@@ -109,7 +110,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 July 2022 at 20:18
+- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
 
@@ -335,6 +336,33 @@ Friday 19 August 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 30 August 2022
+
+## [Does Higher Education Teach Students to Think Critically?](https://doi.org/10.1787/cc9fa6aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
