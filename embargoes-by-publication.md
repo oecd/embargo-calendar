@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 July 2022 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 22 July 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Housing Taxation in OECD Countries](https://doi.org/10.1787/03dfe007-en)
 
@@ -15,7 +15,7 @@ Thursday 21 July 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 July 2022 at 19:59
+- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Friday 22 July 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
+- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
 
 ### Additional Information
 
@@ -70,6 +70,29 @@ Monday 25 July 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Incorporating environmental provisions in regional trade agreements in chapters and articles dealing with trade in services](https://doi.org/10.1787/6e976798-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 July 2022 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 July 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 22 July 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -322,7 +345,7 @@ Tuesday 30 August 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
