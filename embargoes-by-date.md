@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 July 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 24 July 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 July 2022](#21-july-2022)
-* [22 July 2022](#22-july-2022)
 * [25 July 2022](#25-july-2022)
 * [27 July 2022](#27-july-2022)
 * [28 July 2022](#28-july-2022)
@@ -16,60 +14,6 @@ Data generated on | |
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
-
-------
-
-# 21 July 2022
-
-## [Housing Taxation in OECD Countries](https://doi.org/10.1787/03dfe007-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 22 July 2022
-
-## [Financial planning and financial education for old age in times of change](https://doi.org/10.1787/e1d4878e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -86,7 +30,7 @@ Monday 25 July 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
+- [x] Exported to OECD.org Sunday 24 July 2022 at 19:57
 
 ### Additional Information
 

@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 July 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Housing Taxation in OECD Countries](https://doi.org/10.1787/03dfe007-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 July 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Financial planning and financial education for old age in times of change](https://doi.org/10.1787/e1d4878e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 July 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 July 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 July 2022 at 10:47
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 24 July 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Asia and the Pacific 2022 - Strengthening Tax Revenues in Developing Asia](https://doi.org/10.1787/db29f89a-en)
 
@@ -61,7 +15,7 @@ Monday 25 July 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 July 2022 at 19:59
+- [x] Exported to OECD.org Sunday 24 July 2022 at 19:57
 
 ### Additional Information
 
