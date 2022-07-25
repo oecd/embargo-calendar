@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 July 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 25 July 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Asia and the Pacific 2022 - Strengthening Tax Revenues in Developing Asia](https://doi.org/10.1787/db29f89a-en)
 
@@ -15,7 +15,7 @@ Monday 25 July 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 July 2022 at 19:57
+- [x] Exported to OECD.org Monday 25 July 2022 at 20:01
 
 ### Additional Information
 
@@ -323,6 +323,29 @@ Thursday 1 September 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Tax Morale II - Building Trust between Tax Administrations and Large Businesses](https://doi.org/10.1787/7587f25c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 

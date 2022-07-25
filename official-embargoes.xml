@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-07-24T20:40:42.7595163+02:00">
+<report name="official-embargoes" generated="2022-07-25T20:47:47.7107389+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1633,7 +1633,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-21T18:20:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-24T17:57:45Z</cell>
+    <cell name="oecd.org last export date">2022-07-25T18:01:57Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2713,7 +2713,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-21T18:20:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-24T17:57:45Z</cell>
+    <cell name="oecd.org last export date">2022-07-25T18:01:57Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -5233,7 +5233,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-21T18:20:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-24T17:57:45Z</cell>
+    <cell name="oecd.org last export date">2022-07-25T18:01:57Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -6341,6 +6341,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dcfd362</cell>
   </row>
   <row index="317">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7587f25c-en</cell>
+    <cell name="title">Tax Morale II (en)</cell>
+    <cell name="subtitle">Building Trust between Tax Administrations and Large Businesses (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-09-05T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e6550</cell>
+  </row>
+  <row index="318">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7587f25c-en</cell>
+    <cell name="title">Tax Morale II (en)</cell>
+    <cell name="subtitle">Building Trust between Tax Administrations and Large Businesses (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2022-09-05T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77e19f41</cell>
+  </row>
+  <row index="319">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -6360,7 +6400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b092de8d</cell>
   </row>
-  <row index="318">
+  <row index="320">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -6380,7 +6420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb7a2c9</cell>
   </row>
-  <row index="319">
+  <row index="321">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -6400,7 +6440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d693952b</cell>
   </row>
-  <row index="320">
+  <row index="322">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -6420,7 +6460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4370cdc6</cell>
   </row>
-  <row index="321">
+  <row index="323">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -6440,7 +6480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2d6ba0</cell>
   </row>
-  <row index="322">
+  <row index="324">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -6460,7 +6500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9f39821</cell>
   </row>
-  <row index="323">
+  <row index="325">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -6480,7 +6520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f23f3ee0</cell>
   </row>
-  <row index="324">
+  <row index="326">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -6500,7 +6540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="325">
+  <row index="327">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -6520,7 +6560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="326">
+  <row index="328">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -6540,7 +6580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7b4f876</cell>
   </row>
-  <row index="327">
+  <row index="329">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -6560,7 +6600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff397ebb</cell>
   </row>
-  <row index="328">
+  <row index="330">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -6580,7 +6620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8a074de</cell>
   </row>
-  <row index="329">
+  <row index="331">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -6600,7 +6640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0420cddf</cell>
   </row>
-  <row index="330">
+  <row index="332">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -6620,7 +6660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38094870</cell>
   </row>
-  <row index="331">
+  <row index="333">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -6640,7 +6680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2f4f52</cell>
   </row>
-  <row index="332">
+  <row index="334">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -6660,7 +6700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcf8ef9</cell>
   </row>
-  <row index="333">
+  <row index="335">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -6680,7 +6720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
   </row>
-  <row index="334">
+  <row index="336">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -6700,7 +6740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/817cb88e</cell>
   </row>
-  <row index="335">
+  <row index="337">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -6720,7 +6760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
   </row>
-  <row index="336">
+  <row index="338">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -6740,7 +6780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb486151</cell>
   </row>
-  <row index="337">
+  <row index="339">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -6760,7 +6800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5138f9</cell>
   </row>
-  <row index="338">
+  <row index="340">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -6780,7 +6820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc269ca7</cell>
   </row>
-  <row index="339">
+  <row index="341">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -6800,7 +6840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="340">
+  <row index="342">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
