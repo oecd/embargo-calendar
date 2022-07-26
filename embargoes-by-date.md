@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 July 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 July 2022 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 July 2022](#25-july-2022)
 * [27 July 2022](#27-july-2022)
 * [28 July 2022](#28-july-2022)
+* [12 August 2022](#12-august-2022)
 * [16 August 2022](#16-august-2022)
 * [19 August 2022](#19-august-2022)
 * [30 August 2022](#30-august-2022)
@@ -15,6 +16,7 @@ Data generated on | |
 * [8 September 2022](#8-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
+* [20 October 2022](#20-october-2022)
 
 ------
 
@@ -47,6 +49,29 @@ Monday 25 July 2022 at 6:00 | no launch event
 
 # 27 July 2022
 
+## [Aid for Trade at a Glance 2022 - Empowering Connected, Sustainable Trade](https://doi.org/10.1787/9ce2b7ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 July 2022 at 7:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Incorporating environmental provisions in regional trade agreements in chapters and articles dealing with trade in services](https://doi.org/10.1787/6e976798-en)
 
 Embargo date | Launch date
@@ -58,7 +83,7 @@ Wednesday 27 July 2022 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 July 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 July 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 26 July 2022 at 19:58
 
 ### Additional Information
 
@@ -94,6 +119,33 @@ Thursday 28 July 2022 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 12 August 2022
+
+## [Études économiques de l'OCDE : Chine 2022 (version abrégée)](https://doi.org/10.1787/567b8724-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 August 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -490,6 +542,33 @@ Wednesday 5 October 2022 at 22:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 October 2022
+
+## [International Migration Outlook 2022](https://doi.org/10.1787/30fe16d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
