@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 July 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Revenue Statistics in Asia and the Pacific 2022 - Strengthening Tax Revenues in Developing Asia](https://doi.org/10.1787/db29f89a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 July 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 July 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 27 July 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aid for Trade at a Glance 2022 - Empowering Connected, Sustainable Trade](https://doi.org/10.1787/9ce2b7ba-en)
 
@@ -36,15 +13,15 @@ Wednesday 27 July 2022 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 July 2022 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -61,7 +38,7 @@ Wednesday 27 July 2022 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 July 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 July 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 July 2022 at 20:00
+- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
 
 ### Additional Information
 
@@ -93,6 +70,29 @@ Thursday 28 July 2022 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 August 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
