@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-07-27T20:46:24.2254672+02:00">
+<report name="official-embargoes" generated="2022-07-28T20:41:42.3026029+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -35,7 +35,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-07-27T19:01:53Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/678fe335</cell>
@@ -54,8 +54,8 @@
     <cell name="ilibrary last export date">2022-07-27T18:22:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2022-07-27T19:12:55Z</cell>
+    <cell name="google last export date">2022-07-27T19:01:53Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d536274d</cell>
@@ -95,7 +95,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-07-27T19:01:53Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13e25b01</cell>
@@ -114,7 +114,7 @@
     <cell name="ilibrary last export date">2022-07-22T18:23:16Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-07-27T19:12:55Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -453,7 +453,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-21T18:20:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
+    <cell name="oecd.org last export date">2022-07-28T17:58:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -553,7 +553,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-07-21T18:20:45Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-07-27T17:59:28Z</cell>
+    <cell name="oecd.org last export date">2022-07-28T17:58:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -706,6 +706,26 @@
     <cell name="title">OECD Economic Surveys: United Kingdom 2022 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-08-03</cell>
+    <cell name="embargo date">2022-08-03T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52a71d01</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/7c0f1268-en</cell>
+    <cell name="title">OECD Economic Surveys: United Kingdom 2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2022-08-03</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28a4e14a</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/567b8724-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Chine 2022 (version abrégée) (fr)</cell>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e8ca99e</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/567b8724-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Chine 2022 (version abrégée) (fr)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12d71c57</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/567b8724-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Chine 2022 (version abrégée) (fr)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42e94079</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a8bf9aa-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac2fd01</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d2ee45c-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac897c3</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a2660fde-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) (en)</cell>
@@ -840,7 +860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec2215ca</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a47c34f6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) (en)</cell>
@@ -860,7 +880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/087725c0</cell>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a47c34f6-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) (en)</cell>
@@ -880,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/417ad54e</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3c674274-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) (en)</cell>
@@ -900,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a064a6e3</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8cddffce-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) (en)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8628375</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a2660fde-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) (en)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2264628f</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3d2ee45c-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3f6674a</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9d732003-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09510dc2</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a8bf9aa-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52227297</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3474f433-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6940601f</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8cddffce-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) (en)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67e1cefa</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3474f433-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) (en)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43f9a01</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3c674274-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abb9106a</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9d732003-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b612dddd</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cc9fa6aa-en</cell>
     <cell name="title">Does Higher Education Teach Students to Think Critically? (en)</cell>
@@ -1160,27 +1180,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e2e6f60</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cc9fa6aa-en</cell>
     <cell name="title">Does Higher Education Teach Students to Think Critically? (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-08-30</cell>
     <cell name="embargo date">2022-08-30T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-07-28T18:21:13Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-07-28T17:58:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd1528d0</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/054d8550</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf0d53f7</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6bc2607</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dcfd362</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7587f25c-en</cell>
     <cell name="title">Tax Morale II (en)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e6550</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7587f25c-en</cell>
     <cell name="title">Tax Morale II (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77e19f41</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b092de8d</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb7a2c9</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d693952b</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4370cdc6</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -1400,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2d6ba0</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e5b9b2f6-en</cell>
     <cell name="title">Trade, digitalisation and Brazil (en)</cell>
@@ -1420,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9f39821</cell>
   </row>
-  <row index="71">
+  <row index="72">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1440,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f23f3ee0</cell>
   </row>
-  <row index="72">
+  <row index="73">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -1460,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9de7508</cell>
   </row>
-  <row index="73">
+  <row index="74">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -1480,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/979b09b2</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -1500,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7b4f876</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -1520,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff397ebb</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -1540,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8a074de</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -1560,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0420cddf</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1580,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38094870</cell>
   </row>
-  <row index="79">
+  <row index="80">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e7a15424-en</cell>
     <cell name="title">Enabling Brazilian firms to export in the digital era (en)</cell>
@@ -1600,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2f4f52</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1b0dae1-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1620,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdcf8ef9</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -1640,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fd14a03</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5e3aa2c7-en</cell>
     <cell name="title">The economic impact of joining the Information Technology Agreement (en)</cell>
@@ -1660,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/817cb88e</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0b046dfe-en</cell>
     <cell name="title">Digital Trade Review of Brazil (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6f7faab</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8ffa0a67-en</cell>
     <cell name="title">Identifying the policy environment affecting digital trade (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb486151</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6a304a0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5138f9</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e3edb2f9-en</cell>
     <cell name="title">Mapping Brazil’s participation in digital trade (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc269ca7</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/291d6f25</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/30fe16d2-en</cell>
     <cell name="title">International Migration Outlook 2022 (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6752b6ed</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/30fe16d2-en</cell>
     <cell name="title">International Migration Outlook 2022 (en)</cell>

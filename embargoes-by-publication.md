@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 July 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 28 July 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aid for Trade at a Glance 2022 - Empowering Connected, Sustainable Trade](https://doi.org/10.1787/9ce2b7ba-en)
 
@@ -61,7 +61,7 @@ Thursday 28 July 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
+- [x] Exported to OECD.org Thursday 28 July 2022 at 19:58
 
 ### Additional Information
 
@@ -92,7 +92,7 @@ Wednesday 3 August 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -335,15 +335,15 @@ Tuesday 30 August 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 July 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 28 July 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
