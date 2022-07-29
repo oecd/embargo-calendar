@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 July 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 July 2022 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 July 2022](#27-july-2022)
 * [28 July 2022](#28-july-2022)
 * [3 August 2022](#3-august-2022)
 * [12 August 2022](#12-august-2022)
@@ -14,59 +13,10 @@ Data generated on | |
 * [1 September 2022](#1-september-2022)
 * [5 September 2022](#5-september-2022)
 * [8 September 2022](#8-september-2022)
+* [9 September 2022](#9-september-2022)
 * [14 September 2022](#14-september-2022)
 * [5 October 2022](#5-october-2022)
 * [20 October 2022](#20-october-2022)
-
-------
-
-# 27 July 2022
-
-## [Aid for Trade at a Glance 2022 - Empowering Connected, Sustainable Trade](https://doi.org/10.1787/9ce2b7ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 July 2022 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 July 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Incorporating environmental provisions in regional trade agreements in chapters and articles dealing with trade in services](https://doi.org/10.1787/6e976798-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 July 2022 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 July 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 July 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -107,7 +57,7 @@ Wednesday 3 August 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -403,7 +353,7 @@ Thursday 1 September 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -449,34 +399,11 @@ Monday 5 September 2022 at 9:00 | no launch event
 
 # 8 September 2022
 
-## [Perspectives de l'emploi de l'OCDE 2022 - Reconstruire des marchés du travail plus inclusifs](https://doi.org/10.1787/f4bcd6ab-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 September 2022 at 9:00 | no launch event
+Thursday 8 September 2022 at 11:00 | no launch event
 
 ### Status Information
 
@@ -489,6 +416,33 @@ Thursday 8 September 2022 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 September 2022
+
+## [Perspectives de l'emploi de l'OCDE 2022 - Reconstruire des marchés du travail plus inclusifs](https://doi.org/10.1787/f4bcd6ab-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 September 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
