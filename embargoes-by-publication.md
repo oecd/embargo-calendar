@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 July 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Tax Policy Reviews: Colombia 2022](https://doi.org/10.1787/054722db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 July 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 July 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 July 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 31 July 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
 
