@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 31 July 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 August 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 August 2022](#3-august-2022)
+* [8 August 2022](#8-august-2022)
 * [12 August 2022](#12-august-2022)
 * [16 August 2022](#16-august-2022)
 * [19 August 2022](#19-august-2022)
@@ -41,6 +42,33 @@ Wednesday 3 August 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 August 2022
+
+## [The value of data in digital-based business models: Measurement and economic policy implications](https://doi.org/10.1787/d960a10c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 August 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 1 August 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 1 August 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 31 July 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 1 August 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
 
@@ -24,6 +24,29 @@ Wednesday 3 August 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The value of data in digital-based business models: Measurement and economic policy implications](https://doi.org/10.1787/d960a10c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 August 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 1 August 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 1 August 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
