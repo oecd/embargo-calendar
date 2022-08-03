@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-08-02T20:47:32.7695582+02:00">
+<report name="official-embargoes" generated="2022-08-03T20:43:02.0424517+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -27,13 +27,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-08-03</cell>
     <cell name="embargo date">2022-08-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-08-03T18:20:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-08-03T17:57:33Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -1102,26 +1102,6 @@
   </row>
   <row index="55">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/f4bcd6ab-fr</cell>
-    <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
-    <cell name="subtitle">Reconstruire des marchés du travail plus inclusifs (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-09-09</cell>
-    <cell name="embargo date">2022-09-08T11:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb7a2c9</cell>
-  </row>
-  <row index="56">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
     <cell name="subtitle">Building Back More Inclusive Labour Markets (en)</cell>
@@ -1140,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d693952b</cell>
   </row>
-  <row index="57">
+  <row index="56">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1bb305a6-en</cell>
     <cell name="title">OECD Employment Outlook 2022 (en)</cell>
@@ -1160,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4370cdc6</cell>
   </row>
-  <row index="58">
+  <row index="57">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f4bcd6ab-fr</cell>
     <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
@@ -1179,6 +1159,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b092de8d</cell>
+  </row>
+  <row index="58">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f4bcd6ab-fr</cell>
+    <cell name="title">Perspectives de l'emploi de l'OCDE 2022 (fr)</cell>
+    <cell name="subtitle">Reconstruire des marchés du travail plus inclusifs (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-09-09</cell>
+    <cell name="embargo date">2022-09-09T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3eb7a2c9</cell>
   </row>
   <row index="59">
     <cell name="directorate">Trade and Agriculture Directorate</cell>

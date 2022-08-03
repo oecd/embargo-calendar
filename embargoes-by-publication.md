@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 August 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 3 August 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
 
@@ -13,15 +13,15 @@ Wednesday 3 August 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 3 August 2022 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 3 August 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
