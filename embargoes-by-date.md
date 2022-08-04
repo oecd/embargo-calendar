@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 August 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 August 2022 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 August 2022](#3-august-2022)
 * [8 August 2022](#8-august-2022)
@@ -11,7 +11,6 @@ Data generated on | |
 * [30 August 2022](#30-august-2022)
 * [1 September 2022](#1-september-2022)
 * [5 September 2022](#5-september-2022)
-* [8 September 2022](#8-september-2022)
 * [9 September 2022](#9-september-2022)
 * [14 September 2022](#14-september-2022)
 * [27 September 2022](#27-september-2022)
@@ -345,6 +344,29 @@ Thursday 1 September 2022 at 10:00 | no launch event
 
 # 5 September 2022
 
+## [Moral tributaria II - Construir la confianza entre las administraciones tributarias y las grandes empresas](https://doi.org/10.1787/cb5637e7-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Tax Morale II - Building Trust between Tax Administrations and Large Businesses](https://doi.org/10.1787/7587f25c-en)
 
 Embargo date | Launch date
@@ -370,33 +392,6 @@ Monday 5 September 2022 at 9:00 | no launch event
 
 ------
 
-# 8 September 2022
-
-## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 September 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 9 September 2022
 
 ## [Perspectives de l'emploi de l'OCDE 2022 - Reconstruire des marchés du travail plus inclusifs](https://doi.org/10.1787/f4bcd6ab-fr)
@@ -416,6 +411,29 @@ Friday 9 September 2022 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 September 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
