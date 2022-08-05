@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 August 2022 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 August 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 August 2022](#3-august-2022)
 * [8 August 2022](#8-august-2022)
 * [12 August 2022](#12-august-2022)
 * [16 August 2022](#16-august-2022)
@@ -19,34 +18,30 @@ Data generated on | |
 
 ------
 
-# 3 August 2022
+# 8 August 2022
 
-## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
+## [Anti-corruption and public integrity strategies - Insights from new OECD indicators](https://doi.org/10.1787/a925c7fd-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 3 August 2022 at 9:00 | no launch event
+Monday 8 August 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 August 2022 at 20:20
+- [x] Exported to iLibrary Friday 5 August 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 August 2022 at 19:57
+- [x] Exported to OECD.org Friday 5 August 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
-
-------
-
-# 8 August 2022
 
 ## [The value of data in digital-based business models: Measurement and economic policy implications](https://doi.org/10.1787/d960a10c-en)
 

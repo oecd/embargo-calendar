@@ -2,28 +2,28 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 August 2022 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 5 August 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
-## [OECD Economic Surveys: United Kingdom 2022](https://doi.org/10.1787/7c0f1268-en)
+## [Anti-corruption and public integrity strategies - Insights from new OECD indicators](https://doi.org/10.1787/a925c7fd-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 3 August 2022 at 9:00 | no launch event
+Monday 8 August 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 August 2022 at 20:20
+- [x] Exported to iLibrary Friday 5 August 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 August 2022 at 19:57
+- [x] Exported to OECD.org Friday 5 August 2022 at 20:00
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
