@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-08-10T20:58:16.3351127+02:00">
+<report name="official-embargoes" generated="2022-08-11T20:45:09.104734+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -2128,7 +2128,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2020-08-04</cell>
+    <cell name="date of publication"/>
     <cell name="embargo date">2022-09-19T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2148,7 +2148,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2020-08-04</cell>
+    <cell name="date of publication"/>
     <cell name="embargo date">2022-09-19T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2201,6 +2201,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52bfbf7</cell>
   </row>
   <row index="110">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/067c593d-en</cell>
+    <cell name="title">Tax Policy Reforms 2022 (en)</cell>
+    <cell name="subtitle">OECD and Selected Partner Economies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-09-21</cell>
+    <cell name="embargo date">2022-09-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f0be58c</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/067c593d-en</cell>
+    <cell name="title">Tax Policy Reforms 2022 (en)</cell>
+    <cell name="subtitle">OECD and Selected Partner Economies (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2022-09-21</cell>
+    <cell name="embargo date">2022-09-21T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c4d96e3</cell>
+  </row>
+  <row index="112">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -2220,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ee47ae0</cell>
   </row>
-  <row index="111">
+  <row index="113">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/68ffa992-en</cell>
     <cell name="title">Rule of Law and Governance in the Palestinian Authority (en)</cell>
@@ -2240,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7da7cf9e</cell>
   </row>
-  <row index="112">
+  <row index="114">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -2260,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c2ee688</cell>
   </row>
-  <row index="113">
+  <row index="115">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/50b32331-en</cell>
     <cell name="title">OECD Reviews of Innovation Policy: Germany  (en)</cell>
@@ -2280,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/291d6f25</cell>
   </row>
-  <row index="114">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/30fe16d2-en</cell>
     <cell name="title">International Migration Outlook 2022 (en)</cell>
@@ -2300,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6752b6ed</cell>
   </row>
-  <row index="115">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/30fe16d2-en</cell>
     <cell name="title">International Migration Outlook 2022 (en)</cell>

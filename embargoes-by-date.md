@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 August 2022 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 August 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2022](#12-august-2022)
 * [16 August 2022](#16-august-2022)
@@ -13,6 +13,7 @@ Data generated on | |
 * [13 September 2022](#13-september-2022)
 * [14 September 2022](#14-september-2022)
 * [19 September 2022](#19-september-2022)
+* [21 September 2022](#21-september-2022)
 * [27 September 2022](#27-september-2022)
 * [5 October 2022](#5-october-2022)
 * [20 October 2022](#20-october-2022)
@@ -759,6 +760,33 @@ Monday 19 September 2022 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 September 2022
+
+## [Tax Policy Reforms 2022 - OECD and Selected Partner Economies](https://doi.org/10.1787/067c593d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

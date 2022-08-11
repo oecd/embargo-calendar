@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 August 2022 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 11 August 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Chine 2022 (version abrégée)](https://doi.org/10.1787/567b8724-fr)
 
@@ -710,6 +710,29 @@ Monday 19 September 2022 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tax Policy Reforms 2022 - OECD and Selected Partner Economies](https://doi.org/10.1787/067c593d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
