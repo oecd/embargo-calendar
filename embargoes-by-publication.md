@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 August 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 12 August 2022 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Chine 2022 (version abrégée)](https://doi.org/10.1787/567b8724-fr)
 
@@ -13,17 +13,40 @@ Friday 12 August 2022 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 12 August 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 12 August 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+## [Pro-Productivity institutions at work - Country practices and new insights on their set-up and functioning](https://doi.org/10.1787/f5a3a2df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 August 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 August 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 August 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -691,6 +714,29 @@ Monday 19 September 2022 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-20](https://doi.org/10.1787/286dae5d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
