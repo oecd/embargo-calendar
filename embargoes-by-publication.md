@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 August 2022 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Études économiques de l'OCDE : Chine 2022 (version abrégée)](https://doi.org/10.1787/567b8724-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 August 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 August 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Sunday 14 August 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pro-Productivity institutions at work - Country practices and new insights on their set-up and functioning](https://doi.org/10.1787/f5a3a2df-en)
 

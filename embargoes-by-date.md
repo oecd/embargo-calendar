@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 August 2022 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 14 August 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 August 2022](#12-august-2022)
 * [16 August 2022](#16-august-2022)
 * [30 August 2022](#30-august-2022)
 * [1 September 2022](#1-september-2022)
@@ -17,33 +16,6 @@ Data generated on | |
 * [27 September 2022](#27-september-2022)
 * [5 October 2022](#5-october-2022)
 * [20 October 2022](#20-october-2022)
-
-------
-
-# 12 August 2022
-
-## [Études économiques de l'OCDE : Chine 2022 (version abrégée)](https://doi.org/10.1787/567b8724-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 August 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 August 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
