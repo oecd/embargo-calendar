@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 August 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 August 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pro-Productivity institutions at work - Country practices and new insights on their set-up and functioning](https://doi.org/10.1787/f5a3a2df-en)
 
@@ -15,7 +15,7 @@ Tuesday 16 August 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 August 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 16 August 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 August 2022 at 19:56
+- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
 
 ### Additional Information
 
