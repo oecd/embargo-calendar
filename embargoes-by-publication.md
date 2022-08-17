@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 August 2022 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 17 August 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pro-Productivity institutions at work - Country practices and new insights on their set-up and functioning](https://doi.org/10.1787/f5a3a2df-en)
 
@@ -13,9 +13,9 @@ Tuesday 16 August 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 August 2022 at 20:21
+- [x] Exported to iLibrary Wednesday 17 August 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 17 August 2022 at 19:59
 
 ### Additional Information
 
