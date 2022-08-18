@@ -2,212 +2,28 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 August 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 18 August 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Pro-Productivity institutions at work - Country practices and new insights on their set-up and functioning](https://doi.org/10.1787/f5a3a2df-en)
+## [The impact of growing participation in PISA on scaling outcomes - A Monte Carlo simulation study](https://doi.org/10.1787/d5f7fcc4-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 16 August 2022 at 6:00 | no launch event
+Monday 22 August 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 August 2022 at 20:20
+- [x] Exported to iLibrary Thursday 18 August 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 August 2022 at 19:59
+- [x] Exported to OECD.org Thursday 18 August 2022 at 19:57
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8a8bf9aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3d2ee45c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a2660fde-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Portugal 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a47c34f6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cook Islands 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3474f433-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8cddffce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/3c674274-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Finland 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9d732003-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 August 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -725,7 +541,7 @@ Monday 19 September 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -736,7 +552,7 @@ Monday 19 September 2022 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
