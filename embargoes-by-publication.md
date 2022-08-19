@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 August 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 19 August 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The impact of growing participation in PISA on scaling outcomes - A Monte Carlo simulation study](https://doi.org/10.1787/d5f7fcc4-en)
 
@@ -602,6 +602,52 @@ Tuesday 27 September 2022 at 7:00 | no launch event
 
 ------
 
+## [Digital Government Review of Luxembourg - Driving a Coherent and Sustainable Digital Transformation](https://doi.org/10.1787/b623803d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 22:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Education at a Glance 2022 - OECD Indicators](https://doi.org/10.1787/3197152b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Reviews of Innovation Policy: Germany  - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
 
 Embargo date | Launch date
@@ -621,6 +667,29 @@ Wednesday 5 October 2022 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
