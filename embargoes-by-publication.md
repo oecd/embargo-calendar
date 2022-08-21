@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 August 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 21 August 2022 at 20:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The impact of growing participation in PISA on scaling outcomes - A Monte Carlo simulation study](https://doi.org/10.1787/d5f7fcc4-en)
 
@@ -15,7 +15,7 @@ Monday 22 August 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 August 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 August 2022 at 19:57
+- [x] Exported to OECD.org Sunday 21 August 2022 at 19:55
 
 ### Additional Information
 
