@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 August 2022 at 20:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 August 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2022](#22-august-2022)
 * [30 August 2022](#30-august-2022)
@@ -34,7 +34,7 @@ Monday 22 August 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 18 August 2022 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 August 2022 at 19:55
+- [x] Exported to OECD.org Monday 22 August 2022 at 19:58
 
 ### Additional Information
 
