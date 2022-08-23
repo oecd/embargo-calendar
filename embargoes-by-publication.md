@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 August 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 23 August 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The impact of growing participation in PISA on scaling outcomes - A Monte Carlo simulation study](https://doi.org/10.1787/d5f7fcc4-en)
 
@@ -27,6 +27,29 @@ Monday 22 August 2022 at 5:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 August 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Does Higher Education Teach Students to Think Critically?](https://doi.org/10.1787/cc9fa6aa-en)
 
 Embargo date | Launch date
@@ -35,18 +58,18 @@ Tuesday 30 August 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 28 July 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 August 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 July 2022 at 19:58
+- [x] Exported to OECD.org Tuesday 23 August 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

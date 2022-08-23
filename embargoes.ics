@@ -22,7 +22,7 @@ DESCRIPTION:*The impact of growing participation in
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :43, it is updated each night; therefore
+ :45, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -30,7 +30,7 @@ DESCRIPTION:*The impact of growing participation in
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=d5f7fcc4-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220822T050000Z
 DTEND:20220822T051500Z
 TRANSP:TRANSPARENT
@@ -45,7 +45,44 @@ DESCRIPTION:Reminder: The impact of growing particip
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc9fa6aa-end3e171
+UID:10.1787/d6a7301d-end3e120
+SUMMARY:OECD Economic Surveys: South Africa 2022
+DESCRIPTION:*OECD Economic Surveys: South Africa 202
+ 2*\n\nDirectorate: Economics Department\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/d6a7301d-en\nPublication type: 
+ Economic survey\nReleased as: PDF\n\nEmb
+ argo date/time: Thursday, 25 August 2022
+ , 8:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 20:4
+ 5, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=d6a7301d-en.
+DTSTAMP:20220823T204532Z
+DTSTART:20220825T080000Z
+DTEND:20220825T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: OECD Economic Surveys: South A
+ frica 2022
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cc9fa6aa-end3e1200
 SUMMARY:Does Higher Education Teach Students to 
  Think Critically?
 DESCRIPTION:*Does Higher Education Teach Students to
@@ -53,26 +90,26 @@ DESCRIPTION:*Does Higher Education Teach Students to
  ctorate for Education and Skills\nLangua
  ge: English\nDOI: https://doi.org/10.178
  7/cc9fa6aa-en\nPublication type: Stand-a
- lone monograph\nReleased as: Paperback, 
- PDF\n\nEmbargo date/time: Tuesday, 30 Au
- gust 2022, 9:00 (GMT)\n\n\niLibrary expo
- rt: Thursday, 28 July 2022, 18:21 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Thursday, 28 July 2022, 17:58 (GMT)
- \nFTI loaded: ✗\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 20:43, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=cc9fa6aa-en.
-DTSTAMP:20220822T204350Z
+ lone monograph\nReleased as: ePub, HTML,
+  Paperback, PDF\n\nEmbargo date/time: Tu
+ esday, 30 August 2022, 9:00 (GMT)\n\n\ni
+ Library export: Tuesday, 23 August 2022,
+  18:22 (GMT)\nFreepreview export: never\
+ nOECD.org export: Tuesday, 23 August 202
+ 2, 17:59 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:45, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=cc9fa6aa-en.
+DTSTAMP:20220823T204532Z
 DTSTART:20220830T090000Z
 DTEND:20220830T091500Z
 TRANSP:TRANSPARENT
@@ -86,7 +123,7 @@ DESCRIPTION:Reminder: Does Higher Education Teach St
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e1183
+UID:10.1787/0d1792c6-esd3e3406
 SUMMARY:Compendio de Prácticas de las Organizaci
  ones Internacionales - Trabajando hacia 
  instrumentos internacionales más efectiv
@@ -107,7 +144,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:43, it is updated each night; ther
+ at 20:45, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -115,7 +152,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0d1792c6-es.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220901T100000Z
 DTEND:20220901T101500Z
 TRANSP:TRANSPARENT
@@ -131,7 +168,7 @@ DESCRIPTION:Reminder: Compendio de Prácticas de las
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cb5637e7-esd3e1717
+UID:10.1787/cb5637e7-esd3e3940
 SUMMARY:Moral tributaria II - Construir la confi
  anza entre las administraciones tributar
  ias y las grandes empresas
@@ -150,7 +187,7 @@ DESCRIPTION:*Moral tributaria II - Construir la conf
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:43, it
+ orrect as of this afternoon at 20:45, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -159,7 +196,7 @@ DESCRIPTION:*Moral tributaria II - Construir la conf
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=cb5637e7-es.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220905T090000Z
 DTEND:20220905T091500Z
 TRANSP:TRANSPARENT
@@ -174,7 +211,7 @@ DESCRIPTION:Reminder: Moral tributaria II - Construi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7587f25c-end3e1770
+UID:10.1787/7587f25c-end3e3993
 SUMMARY:Tax Morale II - Building Trust between T
  ax Administrations and Large Businesses
 DESCRIPTION:*Tax Morale II - Building Trust between 
@@ -192,7 +229,7 @@ DESCRIPTION:*Tax Morale II - Building Trust between
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 20:43, it is updated each night; the
+  at 20:45, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -200,7 +237,7 @@ DESCRIPTION:*Tax Morale II - Building Trust between
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=7587f25c-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220905T090000Z
 DTEND:20220905T091500Z
 TRANSP:TRANSPARENT
@@ -215,7 +252,7 @@ DESCRIPTION:Reminder: Tax Morale II - Building Trust
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f4bcd6ab-frd3e2142
+UID:10.1787/f4bcd6ab-frd3e4365
 SUMMARY:Perspectives de l'emploi de l'OCDE 2022 
  - Reconstruire des marchés du travail pl
  us inclusifs
@@ -234,7 +271,7 @@ DESCRIPTION:*Perspectives de l'emploi de l'OCDE 2022
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:43, it is updated each night; theref
+  20:45, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -242,7 +279,7 @@ DESCRIPTION:*Perspectives de l'emploi de l'OCDE 2022
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=f4bcd6ab-fr.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220909T110000Z
 DTEND:20220909T111500Z
 TRANSP:TRANSPARENT
@@ -257,7 +294,7 @@ DESCRIPTION:Reminder: Perspectives de l'emploi de l'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1bb305a6-end3e2249
+UID:10.1787/1bb305a6-end3e4472
 SUMMARY:OECD Employment Outlook 2022 - Building 
  Back More Inclusive Labour Markets
 DESCRIPTION:*OECD Employment Outlook 2022 - Building
@@ -274,7 +311,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:43, it is upd
+ as of this afternoon at 20:45, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -283,7 +320,7 @@ DESCRIPTION:*OECD Employment Outlook 2022 - Building
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=1bb305a6-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220909T110000Z
 DTEND:20220909T111500Z
 TRANSP:TRANSPARENT
@@ -298,7 +335,7 @@ DESCRIPTION:Reminder: OECD Employment Outlook 2022 -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/352eebcd-end3e2621
+UID:10.1787/352eebcd-end3e4844
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Barbados (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -318,7 +355,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:43, it is upd
+ as of this afternoon at 20:45, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -327,7 +364,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=352eebcd-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -343,7 +380,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b4daac65-end3e2674
+UID:10.1787/b4daac65-end3e4897
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Trinidad and 
  Tobago (Stage 2) - Inclusive Framework o
@@ -363,7 +400,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:43
+ as correct as of this afternoon at 20:45
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -372,7 +409,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=b4daac65-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -388,7 +425,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b73a3abe-end3e2727
+UID:10.1787/b73a3abe-end3e4950
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Greenland (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -408,7 +445,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:43, it is up
+  as of this afternoon at 20:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -417,7 +454,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=b73a3abe-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -433,7 +470,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ed55fc1a-end3e2834
+UID:10.1787/ed55fc1a-end3e5056
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Aruba (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -453,7 +490,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:43, it is update
+ of this afternoon at 20:45, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -462,7 +499,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=ed55fc1a-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -478,7 +515,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d4e40420-end3e2887
+UID:10.1787/d4e40420-end3e5110
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, The United Ar
  ab Emirates (Stage 2) - Inclusive Framew
@@ -499,7 +536,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:43, it is updated each night; therefo
+ 20:45, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -507,7 +544,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=d4e40420-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -523,7 +560,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/34c25884-end3e3046
+UID:10.1787/34c25884-end3e5269
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Kazakhstan (S
  tage 2) - Inclusive Framework on BEPS: A
@@ -543,7 +580,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:43, it is u
+ t as of this afternoon at 20:45, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -552,7 +589,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=34c25884-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -568,7 +605,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0e20fb46-end3e3099
+UID:10.1787/0e20fb46-end3e5322
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Qatar (Stage 
  2) - Inclusive Framework on BEPS: Action
@@ -588,7 +625,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:43, it is update
+ of this afternoon at 20:45, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -597,7 +634,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=0e20fb46-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -613,7 +650,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f0cf72b8-end3e3153
+UID:10.1787/f0cf72b8-end3e5375
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Gibraltar (St
  age 2) - Inclusive Framework on BEPS: Ac
@@ -633,7 +670,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:43, it is up
+  as of this afternoon at 20:45, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -642,7 +679,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=f0cf72b8-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -658,7 +695,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89ec62ed-end3e3206
+UID:10.1787/89ec62ed-end3e5429
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Viet Nam (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -678,7 +715,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:43, it is upd
+ as of this afternoon at 20:45, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -687,7 +724,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=89ec62ed-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -703,7 +740,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0f90e048-end3e3365
+UID:10.1787/0f90e048-end3e5588
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Bahrain (Stag
  e 2) - Inclusive Framework on BEPS: Acti
@@ -723,7 +760,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:43, it is upda
+ s of this afternoon at 20:45, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -732,7 +769,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=0f90e048-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -748,7 +785,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/18aa2039-end3e3418
+UID:10.1787/18aa2039-end3e5641
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Thailand (Sta
  ge 2) - Inclusive Framework on BEPS: Act
@@ -768,7 +805,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:43, it is upd
+ as of this afternoon at 20:45, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -777,7 +814,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=18aa2039-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -793,7 +830,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32b8feb8-end3e3472
+UID:10.1787/32b8feb8-end3e5694
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Saint Kitts a
  nd Nevis (Stage 2) - Inclusive Framework
@@ -814,7 +851,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 43, it is updated each night; therefore 
+ 45, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -822,7 +859,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=32b8feb8-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -838,7 +875,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30973512-end3e3525
+UID:10.1787/30973512-end3e5748
 SUMMARY:Making Dispute Resolution More Effective
   – MAP Peer Review Report, Oman (Stage 2
  ) - Inclusive Framework on BEPS: Action 
@@ -858,7 +895,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:43, it is updated
+ f this afternoon at 20:45, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -867,7 +904,7 @@ DESCRIPTION:*Making Dispute Resolution More Effectiv
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=30973512-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220913T090000Z
 DTEND:20220913T091500Z
 TRANSP:TRANSPARENT
@@ -883,7 +920,7 @@ DESCRIPTION:Reminder: Making Dispute Resolution More
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b046dfe-end3e3954
+UID:10.1787/0b046dfe-end3e6177
 SUMMARY:Digital Trade Review of Brazil
 DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  ctorate: Trade and Agriculture Directora
@@ -900,7 +937,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:43, it is updated each night;
+ noon at 20:45, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -909,7 +946,7 @@ DESCRIPTION:*Digital Trade Review of Brazil*\n\nDire
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=0b046dfe-
  en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220914T060000Z
 DTEND:20220914T061500Z
 TRANSP:TRANSPARENT
@@ -922,7 +959,7 @@ DESCRIPTION:Reminder: Digital Trade Review of Brazil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c7fedf5e-end3e4767
+UID:10.1787/c7fedf5e-end3e6989
 SUMMARY:States of Fragility 2022
 DESCRIPTION:*States of Fragility 2022*\n\nDirectorat
  e: Development Co-operation Directorate\
@@ -937,7 +974,7 @@ DESCRIPTION:*States of Fragility 2022*\n\nDirectorat
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 20:
- 43, it is updated each night; therefore 
+ 45, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -945,7 +982,7 @@ DESCRIPTION:*States of Fragility 2022*\n\nDirectorat
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=c7fedf5e-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220919T070000Z
 DTEND:20220919T071500Z
 TRANSP:TRANSPARENT
@@ -958,7 +995,7 @@ DESCRIPTION:Reminder: States of Fragility 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/286dae5d-end3e4819
+UID:10.1787/286dae5d-end3e7042
 SUMMARY:Climate Finance Provided and Mobilised b
  y Developed Countries in 2013-20
 DESCRIPTION:*Climate Finance Provided and Mobilised 
@@ -974,7 +1011,7 @@ DESCRIPTION:*Climate Finance Provided and Mobilised
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:43, it is update
+ of this afternoon at 20:45, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -983,7 +1020,7 @@ DESCRIPTION:*Climate Finance Provided and Mobilised
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=286dae5d-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220919T090000Z
 DTEND:20220919T091500Z
 TRANSP:TRANSPARENT
@@ -998,7 +1035,7 @@ DESCRIPTION:Reminder: Climate Finance Provided and M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7dcb34c8-end3e5774
+UID:10.1787/7dcb34c8-end3e7997
 SUMMARY:Equipping Agile and Autonomous Regulator
  s
 DESCRIPTION:*Equipping Agile and Autonomous Regulato
@@ -1014,7 +1051,7 @@ DESCRIPTION:*Equipping Agile and Autonomous Regulato
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:43, it is upd
+ as of this afternoon at 20:45, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1023,7 +1060,7 @@ DESCRIPTION:*Equipping Agile and Autonomous Regulato
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=7dcb34c8-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220919T130000Z
 DTEND:20220919T131500Z
 TRANSP:TRANSPARENT
@@ -1037,7 +1074,7 @@ DESCRIPTION:Reminder: Equipping Agile and Autonomous
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/067c593d-end3e6199
+UID:10.1787/067c593d-end3e8422
 SUMMARY:Tax Policy Reforms 2022 - OECD and Selec
  ted Partner Economies
 DESCRIPTION:*Tax Policy Reforms 2022 - OECD and Sele
@@ -1054,7 +1091,7 @@ DESCRIPTION:*Tax Policy Reforms 2022 - OECD and Sele
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:43, it is updated each night; theref
+  20:45, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -1062,7 +1099,7 @@ DESCRIPTION:*Tax Policy Reforms 2022 - OECD and Sele
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=067c593d-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220921T090000Z
 DTEND:20220921T091500Z
 TRANSP:TRANSPARENT
@@ -1076,7 +1113,7 @@ DESCRIPTION:Reminder: Tax Policy Reforms 2022 - OECD
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68ffa992-end3e6252
+UID:10.1787/68ffa992-end3e8475
 SUMMARY:Rule of Law and Governance in the Palest
  inian Authority - Delivering Better Poli
  cies and Legislation for People
@@ -1095,7 +1132,7 @@ DESCRIPTION:*Rule of Law and Governance in the Pales
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:43, it is updated 
+  this afternoon at 20:45, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1104,7 +1141,7 @@ DESCRIPTION:*Rule of Law and Governance in the Pales
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=68ffa992-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220927T070000Z
 DTEND:20220927T071500Z
 TRANSP:TRANSPARENT
@@ -1120,7 +1157,7 @@ DESCRIPTION:Reminder: Rule of Law and Governance in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b623803d-end3e6412
+UID:10.1787/b623803d-end3e8635
 SUMMARY:Digital Government Review of Luxembourg 
  - Driving a Coherent and Sustainable Dig
  ital Transformation
@@ -1138,7 +1175,7 @@ DESCRIPTION:*Digital Government Review of Luxembourg
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:43, it
+ orrect as of this afternoon at 20:45, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1147,7 +1184,7 @@ DESCRIPTION:*Digital Government Review of Luxembourg
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=b623803d-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20220927T220100Z
 DTEND:20220927T221600Z
 TRANSP:TRANSPARENT
@@ -1162,7 +1199,7 @@ DESCRIPTION:Reminder: Digital Government Review of L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3197152b-end3e6465
+UID:10.1787/3197152b-end3e8688
 SUMMARY:Education at a Glance 2022 - OECD Indica
  tors
 DESCRIPTION:*Education at a Glance 2022 - OECD Indic
@@ -1178,7 +1215,7 @@ DESCRIPTION:*Education at a Glance 2022 - OECD Indic
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 20:43, it is updated each 
+  afternoon at 20:45, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -1187,7 +1224,7 @@ DESCRIPTION:*Education at a Glance 2022 - OECD Indic
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=319
  7152b-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20221003T090000Z
 DTEND:20221003T091500Z
 TRANSP:TRANSPARENT
@@ -1201,7 +1238,7 @@ DESCRIPTION:Reminder: Education at a Glance 2022 - O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e6624
+UID:10.1787/50b32331-end3e8847
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny  - Building Agility for Successful Tr
  ansitions
@@ -1219,7 +1256,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:43,
+ s correct as of this afternoon at 20:45,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1228,7 +1265,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=50b32331-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20221005T220000Z
 DTEND:20221005T221500Z
 TRANSP:TRANSPARENT
@@ -1243,7 +1280,7 @@ DESCRIPTION:Reminder: OECD Reviews of Innovation Pol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4add887d-end3e6678
+UID:10.1787/4add887d-end3e8900
 SUMMARY:Modernising Social Services in Spain - D
  esigning a New National Framework
 DESCRIPTION:*Modernising Social Services in Spain - 
@@ -1261,7 +1298,7 @@ DESCRIPTION:*Modernising Social Services in Spain -
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:43, it is updated each night; therefor
+ 0:45, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -1269,7 +1306,7 @@ DESCRIPTION:*Modernising Social Services in Spain -
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=4add887d-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20221018T090000Z
 DTEND:20221018T091500Z
 TRANSP:TRANSPARENT
@@ -1284,7 +1321,7 @@ DESCRIPTION:Reminder: Modernising Social Services in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30fe16d2-end3e6784
+UID:10.1787/30fe16d2-end3e9007
 SUMMARY:International Migration Outlook 2022
 DESCRIPTION:*International Migration Outlook 2022*\n
  \nDirectorate: Directorate for Employmen
@@ -1299,7 +1336,7 @@ DESCRIPTION:*International Migration Outlook 2022*\n
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:43, it is u
+ t as of this afternoon at 20:45, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1308,7 +1345,7 @@ DESCRIPTION:*International Migration Outlook 2022*\n
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=30fe16d2-en.
-DTSTAMP:20220822T204350Z
+DTSTAMP:20220823T204532Z
 DTSTART:20221020T090000Z
 DTEND:20221020T091500Z
 TRANSP:TRANSPARENT
