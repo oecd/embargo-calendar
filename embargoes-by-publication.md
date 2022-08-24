@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 August 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The impact of growing participation in PISA on scaling outcomes - A Monte Carlo simulation study](https://doi.org/10.1787/d5f7fcc4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 August 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 August 2022 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 August 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 24 August 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
 
@@ -46,6 +23,29 @@ Thursday 25 August 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Measuring and assessing the effects of climate policy uncertainty](https://doi.org/10.1787/34483d83-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 August 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 24 August 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -59,7 +59,7 @@ Tuesday 30 August 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 August 2022 at 20:22
+- [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 23 August 2022 at 19:59
 
@@ -644,6 +644,29 @@ Tuesday 27 September 2022 at 22:01 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 September 2022 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
