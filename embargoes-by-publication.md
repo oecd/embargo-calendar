@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 August 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 25 August 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
 
@@ -13,15 +13,15 @@ Thursday 25 August 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 25 August 2022 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 25 August 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -38,7 +38,7 @@ Friday 26 August 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 August 2022 at 19:59
+- [x] Exported to OECD.org Thursday 25 August 2022 at 19:57
 
 ### Additional Information
 
