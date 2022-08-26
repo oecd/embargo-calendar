@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 August 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 August 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
 
@@ -38,11 +38,34 @@ Friday 26 August 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 August 2022 at 19:57
+- [x] Exported to OECD.org Friday 26 August 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD blended finance guidance for clean energy](https://doi.org/10.1787/596e2436-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 August 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 August 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 August 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -96,7 +119,7 @@ Thursday 1 September 2022 at 10:00 | no launch event
 
 ------
 
-## [Moral tributaria II - Construir la confianza entre las administraciones tributarias y las grandes empresas](https://doi.org/10.1787/cb5637e7-es)
+## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -127,7 +150,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
