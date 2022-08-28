@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 August 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: South Africa 2022](https://doi.org/10.1787/d6a7301d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 August 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 August 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 August 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Measuring and assessing the effects of climate policy uncertainty](https://doi.org/10.1787/34483d83-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 August 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 August 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 28 August 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD blended finance guidance for clean energy](https://doi.org/10.1787/596e2436-en)
 
