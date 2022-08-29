@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 28 August 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 29 August 2022 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD blended finance guidance for clean energy](https://doi.org/10.1787/596e2436-en)
 
@@ -15,7 +15,7 @@ Tuesday 30 August 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 August 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 August 2022 at 19:57
+- [x] Exported to OECD.org Monday 29 August 2022 at 20:05
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Tuesday 30 August 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 August 2022 at 20:23
+- [x] Exported to iLibrary Monday 29 August 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 August 2022 at 19:59
+- [x] Exported to OECD.org Monday 29 August 2022 at 20:05
 
 ### Additional Information
 
@@ -116,6 +116,29 @@ Monday 5 September 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Tax Capacity Building - A Practical Guide to Developing and Advancing Tax Capacity Building Programmes](https://doi.org/10.1787/c73f126f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -487,6 +510,29 @@ Wednesday 14 September 2022 at 6:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Korea 2022](https://doi.org/10.1787/20bf3d6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [States of Fragility 2022](https://doi.org/10.1787/c7fedf5e-en)
 
 Embargo date | Launch date
@@ -579,6 +625,29 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 September 2022 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
 
 Embargo date | Launch date
@@ -625,29 +694,6 @@ Tuesday 27 September 2022 at 22:01 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 September 2022 at 1:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Education at a Glance 2022 - OECD Indicators](https://doi.org/10.1787/3197152b-en)
 
 Embargo date | Launch date
@@ -665,6 +711,29 @@ Monday 3 October 2022 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Regards sur l'éducation 2022 - Les indicateurs de l'OCDE](https://doi.org/10.1787/8b532813-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
