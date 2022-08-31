@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 August 2022 at 20:39* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 31 August 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD blended finance guidance for clean energy](https://doi.org/10.1787/596e2436-en)
 
@@ -82,15 +82,15 @@ Monday 5 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 August 2022 at 20:18
+- [x] Exported to iLibrary Wednesday 31 August 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 August 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -105,15 +105,15 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 31 August 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
