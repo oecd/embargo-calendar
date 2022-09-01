@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 August 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD blended finance guidance for clean energy](https://doi.org/10.1787/596e2436-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 August 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 August 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 August 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Does Higher Education Teach Students to Think Critically?](https://doi.org/10.1787/cc9fa6aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 August 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 August 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 August 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 1 September 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
 
@@ -58,16 +12,16 @@ Monday 5 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 August 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 August 2022 at 19:57
+- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -93,6 +47,52 @@ Monday 5 September 2022 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Young people’s environmental sustainability competence - Emotional, cognitive, behavioural, and attitudinal dimensions in EU and OECD countries](https://doi.org/10.1787/1097a78c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The environmental sustainability competence toolbox - From leaving a better planet for our children to leaving better children for our planet](https://doi.org/10.1787/27991ec0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
