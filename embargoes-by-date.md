@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 September 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 September 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 September 2022](#5-september-2022)
 * [6 September 2022](#6-september-2022)
 * [7 September 2022](#7-september-2022)
+* [8 September 2022](#8-september-2022)
 * [9 September 2022](#9-september-2022)
 * [13 September 2022](#13-september-2022)
 * [14 September 2022](#14-september-2022)
@@ -33,7 +34,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 August 2022 at 20:18
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
 
@@ -56,7 +57,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 August 2022 at 20:21
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
 
@@ -74,6 +75,29 @@ Monday 5 September 2022 at 9:00 | no launch event
 
 # 6 September 2022
 
+## [Public integrity scan of Bulgaria - Strengthening institutional co-operation and standards for integrity](https://doi.org/10.1787/4fd43a10-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Young people’s environmental sustainability competence - Emotional, cognitive, behavioural, and attitudinal dimensions in EU and OECD countries](https://doi.org/10.1787/1097a78c-en)
 
 Embargo date | Launch date
@@ -83,7 +107,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
 
@@ -106,13 +130,59 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Centre of government scan of Bulgaria - Strengthening strategic decision-making at the centre of government](https://doi.org/10.1787/464a42b5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Regulatory policy scan of Bulgaria - Promoting a sound regulatory framework for citizen well-being and economic growth](https://doi.org/10.1787/f8264887-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -133,9 +203,9 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 31 August 2022 at 20:21
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
+- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
 
 ### Additional Information
 
@@ -143,6 +213,33 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 8 September 2022
+
+## [Exploring the consequences of greater price transparency on the dynamics of pharmaceutical markets](https://doi.org/10.1787/c9250e17-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -704,7 +801,7 @@ Tuesday 27 September 2022 at 7:00 | no launch event
 
 ------
 
-## [Digital Government Review of Luxembourg - Driving a Coherent and Sustainable Digital Transformation](https://doi.org/10.1787/b623803d-en)
+## [Digital Government Review of Luxembourg - Towards More Digital, Innovative and Inclusive Public Services](https://doi.org/10.1787/b623803d-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -800,7 +897,7 @@ Monday 3 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -823,7 +920,7 @@ Monday 3 October 2022 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
