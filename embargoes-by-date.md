@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 September 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 4 September 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 September 2022](#5-september-2022)
 * [6 September 2022](#6-september-2022)
@@ -36,7 +36,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
+- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
 
 ### Additional Information
 

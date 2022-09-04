@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 September 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 4 September 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
 
@@ -15,7 +15,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 August 2022 at 19:57
+- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
 
 ### Additional Information
 
