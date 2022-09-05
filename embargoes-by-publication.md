@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 September 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 September 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
 
@@ -13,9 +13,9 @@ Monday 5 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 5 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 4 September 2022 at 19:55
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
@@ -173,17 +173,40 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Framework for industry’s net-zero transition - Developing financing solutions in emerging and developing economies](https://doi.org/10.1787/0c5e2bac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
