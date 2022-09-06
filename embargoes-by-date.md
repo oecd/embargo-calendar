@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 September 2022 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 September 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 September 2022](#5-september-2022)
 * [6 September 2022](#6-september-2022)
@@ -18,7 +18,9 @@ Data generated on | |
 * [30 September 2022](#30-september-2022)
 * [3 October 2022](#3-october-2022)
 * [5 October 2022](#5-october-2022)
+* [11 October 2022](#11-october-2022)
 * [18 October 2022](#18-october-2022)
+* [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
 
 ------
@@ -86,7 +88,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -109,7 +111,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -132,7 +134,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -155,7 +157,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -178,7 +180,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -205,7 +207,7 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -221,6 +223,29 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 
 # 8 September 2022
 
+## [Kerangka kerja untuk transisi netralitas karbon sektor industri - Mengembangkan solusi pendanaan di negara dengan ekonomi berkembang pesat dan berkembang](https://doi.org/10.1787/9ec2dabe-id)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Indonesian*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Framework for industry’s net-zero transition - Developing financing solutions in emerging and developing economies](https://doi.org/10.1787/0c5e2bac-en)
 
 Embargo date | Launch date
@@ -230,9 +255,9 @@ Thursday 8 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
+- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -976,6 +1001,33 @@ Wednesday 5 October 2022 at 22:00 | no launch event
 
 ------
 
+# 11 October 2022
+
+## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 October 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
 # 18 October 2022
 
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
@@ -1003,7 +1055,57 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 
 ------
 
+# 19 October 2022
+
+## [Scotland’s Approach to Regulating Water Charges - Innovation and Collaboration](https://doi.org/10.1787/fcc8c6df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
 # 20 October 2022
+
+## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [International Migration Outlook 2022](https://doi.org/10.1787/30fe16d2-en)
 

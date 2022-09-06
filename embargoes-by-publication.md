@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 September 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 September 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
 
@@ -61,7 +61,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 6 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -184,6 +184,29 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Kerangka kerja untuk transisi netralitas karbon sektor industri - Mengembangkan solusi pendanaan di negara dengan ekonomi berkembang pesat dan berkembang](https://doi.org/10.1787/9ec2dabe-id)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Indonesian*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -197,9 +220,9 @@ Thursday 8 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
+- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
 
 ### Additional Information
 
@@ -901,6 +924,29 @@ Wednesday 5 October 2022 at 22:00 | no launch event
 
 ------
 
+## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 October 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
 
 Embargo date | Launch date
@@ -920,6 +966,52 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Scotland’s Approach to Regulating Water Charges - Innovation and Collaboration](https://doi.org/10.1787/fcc8c6df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
