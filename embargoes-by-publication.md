@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 September 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Moral tributaria II - Construir la confianza entre administraciones tributarias y grandes empresas](https://doi.org/10.1787/cb5637e7-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Tax Morale II - Building Trust between Tax Administrations and Large Businesses](https://doi.org/10.1787/7587f25c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 7 September 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Public integrity scan of Bulgaria - Strengthening institutional co-operation and standards for integrity](https://doi.org/10.1787/4fd43a10-en)
 
@@ -176,7 +130,7 @@ Wednesday 7 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
@@ -199,7 +153,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
@@ -222,7 +176,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
@@ -245,7 +199,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 September 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
@@ -265,7 +219,7 @@ Friday 9 September 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -288,7 +242,7 @@ Friday 9 September 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -311,16 +265,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -334,16 +288,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -357,16 +311,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,16 +334,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -403,16 +357,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -426,16 +380,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -449,16 +403,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -472,16 +426,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -495,16 +449,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -518,16 +472,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -541,16 +495,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -564,16 +518,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -587,16 +541,16 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -671,7 +625,7 @@ Monday 19 September 2022 at 7:00 | no launch event
 
 ------
 
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-20](https://doi.org/10.1787/286dae5d-en)
+## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -790,7 +744,7 @@ Tuesday 27 September 2022 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 September 2022 at 22:01 | no launch event
+Wednesday 28 September 2022 at 6:00 | no launch event
 
 ### Status Information
 
