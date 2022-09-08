@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 September 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Public integrity scan of Bulgaria - Strengthening institutional co-operation and standards for integrity](https://doi.org/10.1787/4fd43a10-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Young people’s environmental sustainability competence - Emotional, cognitive, behavioural, and attitudinal dimensions in EU and OECD countries](https://doi.org/10.1787/1097a78c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The environmental sustainability competence toolbox - From leaving a better planet for our children to leaving better children for our planet](https://doi.org/10.1787/27991ec0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 September 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Centre of government scan of Bulgaria - Strengthening strategic decision-making at the centre of government](https://doi.org/10.1787/464a42b5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Regulatory policy scan of Bulgaria - Promoting a sound regulatory framework for citizen well-being and economic growth](https://doi.org/10.1787/f8264887-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 September 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 8 September 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Capacity Building - A Practical Guide to Developing and Advancing Tax Capacity Building Programmes](https://doi.org/10.1787/c73f126f-en)
 
@@ -153,7 +38,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
+- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
 
 ### Additional Information
 
@@ -176,7 +61,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
+- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
 
 ### Additional Information
 
@@ -199,7 +84,7 @@ Thursday 8 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 September 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
+- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
 
 ### Additional Information
 
@@ -230,7 +115,7 @@ Friday 9 September 2022 at 11:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -253,7 +138,7 @@ Friday 9 September 2022 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -266,7 +151,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -289,7 +174,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -312,7 +197,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -335,7 +220,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -358,7 +243,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -381,7 +266,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -404,7 +289,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -427,7 +312,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -450,7 +335,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -473,7 +358,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -496,7 +381,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -519,7 +404,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -542,7 +427,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 September 2022 at 20:23
+- [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
 
@@ -644,7 +529,7 @@ Monday 19 September 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
