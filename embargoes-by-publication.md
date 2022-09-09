@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 September 2022 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Capacity Building - A Practical Guide to Developing and Advancing Tax Capacity Building Programmes](https://doi.org/10.1787/c73f126f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 September 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 September 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 9 September 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Kerangka kerja untuk transisi netralitas karbon sektor industri - Mengembangkan solusi pendanaan di negara dengan ekonomi berkembang pesat dan berkembang](https://doi.org/10.1787/9ec2dabe-id)
 
@@ -105,15 +82,15 @@ Friday 9 September 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 9 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 9 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -128,15 +105,15 @@ Friday 9 September 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 9 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 9 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -510,29 +487,6 @@ Monday 19 September 2022 at 7:00 | no launch event
 
 ------
 
-## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Equipping Agile and Autonomous Regulators](https://doi.org/10.1787/7dcb34c8-en)
 
 Embargo date | Launch date
@@ -598,6 +552,29 @@ Thursday 22 September 2022 at 1:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 September 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
