@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 September 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 11 September 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 September 2022](#8-september-2022)
-* [9 September 2022](#9-september-2022)
 * [13 September 2022](#13-september-2022)
 * [14 September 2022](#14-september-2022)
 * [19 September 2022](#19-september-2022)
@@ -20,129 +18,6 @@ Data generated on | |
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
-
-------
-
-# 8 September 2022
-
-## [Kerangka kerja untuk transisi netralitas karbon sektor industri - Mengembangkan solusi pendanaan di negara dengan ekonomi berkembang pesat dan berkembang](https://doi.org/10.1787/9ec2dabe-id)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *Indonesian*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Framework for industry’s net-zero transition - Developing financing solutions in emerging and developing economies](https://doi.org/10.1787/0c5e2bac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 September 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Exploring the consequences of greater price transparency on the dynamics of pharmaceutical markets](https://doi.org/10.1787/c9250e17-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 September 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 9 September 2022
-
-## [Perspectives de l'emploi de l'OCDE 2022 - Reconstruire des marchés du travail plus inclusifs](https://doi.org/10.1787/f4bcd6ab-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 September 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 September 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Employment Outlook 2022 - Building Back More Inclusive Labour Markets](https://doi.org/10.1787/1bb305a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 September 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 September 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
