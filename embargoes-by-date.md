@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 September 2022 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 September 2022 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 September 2022](#13-september-2022)
 * [14 September 2022](#14-september-2022)
@@ -35,7 +35,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -81,7 +81,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -104,7 +104,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -127,7 +127,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -150,7 +150,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -173,7 +173,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -196,7 +196,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -219,7 +219,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -242,7 +242,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -265,7 +265,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -288,7 +288,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -311,7 +311,7 @@ Tuesday 13 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -338,7 +338,7 @@ Wednesday 14 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -361,7 +361,7 @@ Wednesday 14 September 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 July 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 July 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
@@ -459,7 +459,7 @@ Monday 19 September 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 September 2022 at 20:29
+- [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 12 September 2022 at 20:02
 
@@ -486,15 +486,15 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -573,6 +573,29 @@ Tuesday 27 September 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Guidance on Transition Finance - Ensuring Credibility of Corporate Climate Transition Plans](https://doi.org/10.1787/7c68a1ee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -708,6 +731,29 @@ Monday 3 October 2022 at 9:00 | no launch event
 
 # 5 October 2022
 
+## [Évaluation des réponses au COVID-19 du Luxembourg - Tirer les enseignements de la crise pour accroître la résilience](https://doi.org/10.1787/c9358848-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Reviews of Innovation Policy: Germany  - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
 
 Embargo date | Launch date
@@ -785,6 +831,29 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 
 ------
 
+## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 19 October 2022
@@ -806,7 +875,7 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
