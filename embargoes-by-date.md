@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 September 2022 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 September 2022 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 September 2022](#13-september-2022)
 * [14 September 2022](#14-september-2022)
@@ -338,7 +338,7 @@ Wednesday 14 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 14 September 2022 at 20:04
 
 ### Additional Information
 
@@ -361,7 +361,7 @@ Wednesday 14 September 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 July 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 14 September 2022 at 20:04
 
 ### Additional Information
 
@@ -388,7 +388,7 @@ Thursday 15 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 September 2022 at 20:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 14 September 2022 at 20:04
 
 ### Additional Information
 
@@ -408,7 +408,7 @@ Thursday 15 September 2022 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 September 2022 at 5:00 | no launch event
+Monday 19 September 2022 at 6:00 | no launch event
 
 ### Status Information
 
