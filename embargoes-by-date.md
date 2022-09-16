@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 September 2022 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 16 September 2022 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 September 2022](#14-september-2022)
 * [15 September 2022](#15-september-2022)
 * [19 September 2022](#19-september-2022)
 * [21 September 2022](#21-september-2022)
@@ -19,56 +18,6 @@ Data generated on | |
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
-
-------
-
-# 14 September 2022
-
-## [The economics of medication safety - Improving medication safety through collective, real-time learning](https://doi.org/10.1787/9a933261-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 September 2022 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digital Trade Review of Brazil](https://doi.org/10.1787/0b046dfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 September 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 July 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -100,6 +49,75 @@ Thursday 15 September 2022 at 5:00 | no launch event
 ------
 
 # 19 September 2022
+
+## [Institutional investors and stewardship](https://doi.org/10.1787/1ce75d38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Corporate ownership and concentration](https://doi.org/10.1787/bc3adca3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Digitalisation and corporate governance](https://doi.org/10.1787/296d219f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Korea 2022](https://doi.org/10.1787/20bf3d6e-en)
 
@@ -143,7 +161,7 @@ Monday 19 September 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -182,18 +200,18 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 September 2022 at 20:01
+- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -233,15 +251,15 @@ Thursday 22 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
