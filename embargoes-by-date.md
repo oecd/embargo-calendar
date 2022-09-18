@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 September 2022 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 18 September 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 September 2022](#15-september-2022)
 * [19 September 2022](#19-september-2022)
 * [21 September 2022](#21-september-2022)
 * [22 September 2022](#22-september-2022)
@@ -21,33 +20,6 @@ Data generated on | |
 
 ------
 
-# 15 September 2022
-
-## [Projecting the fuel efficiency of conventional vehicles - The role of regulations, gasoline taxes and autonomous technical change](https://doi.org/10.1787/13b94818-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 September 2022 at 20:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 September 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 19 September 2022
 
 ## [Institutional investors and stewardship](https://doi.org/10.1787/1ce75d38-en)
@@ -61,7 +33,7 @@ Monday 19 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
 
 ### Additional Information
 
@@ -84,7 +56,7 @@ Monday 19 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
 
 ### Additional Information
 
@@ -107,7 +79,7 @@ Monday 19 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
 
 ### Additional Information
 
@@ -176,7 +148,7 @@ Monday 19 September 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
 
 ### Additional Information
 
