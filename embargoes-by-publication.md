@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 September 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 19 September 2022 at 21:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Institutional investors and stewardship](https://doi.org/10.1787/1ce75d38-en)
 
@@ -13,9 +13,9 @@ Monday 19 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Monday 19 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 19 September 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
 
 ### Additional Information
 
@@ -82,15 +82,15 @@ Monday 19 September 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -130,7 +130,7 @@ Monday 19 September 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
 
 ### Additional Information
 
@@ -165,29 +165,6 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 September 2022 at 1:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
 
 Embargo date | Launch date
@@ -211,11 +188,11 @@ Thursday 22 September 2022 at 9:00 | no launch event
 
 ------
 
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
+## [Financement climatique fourni et mobilisé par les pays développés en 2016-2020 - Enseignements tirés d’une analyse désagrégée](https://doi.org/10.1787/6cbb535f-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 September 2022 at 7:00 | no launch event
+Thursday 22 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -226,11 +203,57 @@ Tuesday 27 September 2022 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 September 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
