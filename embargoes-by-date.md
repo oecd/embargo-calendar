@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 September 2022 at 21:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 20 September 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 September 2022](#19-september-2022)
 * [21 September 2022](#21-september-2022)
@@ -13,6 +13,7 @@ Data generated on | |
 * [30 September 2022](#30-september-2022)
 * [3 October 2022](#3-october-2022)
 * [5 October 2022](#5-october-2022)
+* [6 October 2022](#6-october-2022)
 * [11 October 2022](#11-october-2022)
 * [12 October 2022](#12-october-2022)
 * [18 October 2022](#18-october-2022)
@@ -176,7 +177,7 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
 
 ### Additional Information
 
@@ -200,18 +201,18 @@ Thursday 22 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 September 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -223,18 +224,18 @@ Thursday 22 September 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -246,7 +247,7 @@ Thursday 22 September 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 23 September 2022 at 12:00 | no launch event
+Friday 23 September 2022 at 12:30 | no launch event
 
 ### Status Information
 
@@ -269,29 +270,6 @@ Friday 23 September 2022 at 12:00 | no launch event
 
 # 27 September 2022
 
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [OECD Guidance on Transition Finance - Ensuring Credibility of Corporate Climate Transition Plans](https://doi.org/10.1787/7c68a1ee-en)
 
 Embargo date | Launch date
@@ -312,6 +290,29 @@ Tuesday 27 September 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -485,6 +486,33 @@ Wednesday 5 October 2022 at 22:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 October 2022
+
+## [Country-by-Country Reporting – Compilation of 2022 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/5ea2ba65-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
