@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 September 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 September 2022 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 September 2022](#19-september-2022)
 * [21 September 2022](#21-september-2022)
 * [22 September 2022](#22-september-2022)
 * [23 September 2022](#23-september-2022)
+* [26 September 2022](#26-september-2022)
 * [27 September 2022](#27-september-2022)
 * [28 September 2022](#28-september-2022)
 * [30 September 2022](#30-september-2022)
@@ -19,148 +19,6 @@ Data generated on | |
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
-
-------
-
-# 19 September 2022
-
-## [Institutional investors and stewardship](https://doi.org/10.1787/1ce75d38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Corporate ownership and concentration](https://doi.org/10.1787/bc3adca3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digitalisation and corporate governance](https://doi.org/10.1787/296d219f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Korea 2022](https://doi.org/10.1787/20bf3d6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 September 2022 at 20:38
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [States of Fragility 2022](https://doi.org/10.1787/c7fedf5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Equipping Agile and Autonomous Regulators](https://doi.org/10.1787/7dcb34c8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 September 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 September 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 September 2022 at 20:05
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -177,7 +35,7 @@ Wednesday 21 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 September 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
 
 ### Additional Information
 
@@ -204,7 +62,7 @@ Thursday 22 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
 
 ### Additional Information
 
@@ -227,7 +85,7 @@ Thursday 22 September 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
 
 ### Additional Information
 
@@ -251,7 +109,7 @@ Friday 23 September 2022 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -268,7 +126,57 @@ Friday 23 September 2022 at 12:30 | no launch event
 
 ------
 
+# 26 September 2022
+
+## [OECD Economic Outlook, Interim Report September 2022 - Paying the Price of War](https://doi.org/10.1787/ae8c39ec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 September 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+------
+
 # 27 September 2022
+
+## [Digitalising the economy in Slovenia](https://doi.org/10.1787/9167aa58-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 September 2022 at 20:30
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Guidance on Transition Finance - Ensuring Credibility of Corporate Climate Transition Plans](https://doi.org/10.1787/7c68a1ee-en)
 
