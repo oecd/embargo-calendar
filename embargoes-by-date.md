@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 September 2022 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 September 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 September 2022](#21-september-2022)
 * [22 September 2022](#22-september-2022)
@@ -60,9 +60,9 @@ Thursday 22 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
+- [x] Exported to iLibrary Thursday 22 September 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
+- [x] Exported to OECD.org Thursday 22 September 2022 at 20:02
 
 ### Additional Information
 
@@ -83,9 +83,9 @@ Thursday 22 September 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
+- [x] Exported to iLibrary Thursday 22 September 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
+- [x] Exported to OECD.org Thursday 22 September 2022 at 20:02
 
 ### Additional Information
 
@@ -147,7 +147,7 @@ Monday 26 September 2022 at 8:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -186,7 +186,7 @@ Tuesday 27 September 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -374,29 +374,6 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Reviews of Innovation Policy: Germany  - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 October 2022 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
