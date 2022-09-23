@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 September 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Policy Reforms 2022 - OECD and Selected Partner Economies](https://doi.org/10.1787/067c593d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 September 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 23 September 2022 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
 
@@ -82,15 +59,15 @@ Friday 23 September 2022 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -119,6 +96,75 @@ Monday 26 September 2022 at 8:30 | no launch event
 
 ------
 
+## [OECD-Wirtschaftsausblick, Zwischenausgabe September 2022 - Der Preis des Kriegs – wer bezahlt?](https://doi.org/10.1787/fc9852d5-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 September 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2022 - Payer le prix de la guerre](https://doi.org/10.1787/4c8d9c61-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 September 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Tendencias sobre competencia en Latinoamérica y el Caribe 2022](https://doi.org/10.1787/f19a5033-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Digitalising the economy in Slovenia](https://doi.org/10.1787/9167aa58-en)
 
 Embargo date | Launch date
@@ -135,6 +181,29 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Competition trends in Latin America and the Caribbean 2022](https://doi.org/10.1787/472518b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 September 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -196,40 +265,17 @@ Wednesday 28 September 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 September 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
@@ -242,18 +288,18 @@ Monday 3 October 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -507,5 +553,28 @@ Thursday 20 October 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 December 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
