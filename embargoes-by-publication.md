@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 September 2022 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2016-2020 - Insights from Disaggregated Analysis](https://doi.org/10.1787/286dae5d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 September 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 September 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Financement climatique fourni et mobilisé par les pays développés en 2016-2020 - Enseignements tirés d’une analyse désagrégée](https://doi.org/10.1787/6cbb535f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 September 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 September 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 September 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Chile 2022](https://doi.org/10.1787/311ec37e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 September 2022 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 25 September 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Interim Report September 2022 - Paying the Price of War](https://doi.org/10.1787/ae8c39ec-en)
 
