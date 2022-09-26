@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 September 2022 at 20:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 26 September 2022 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Interim Report September 2022 - Paying the Price of War](https://doi.org/10.1787/ae8c39ec-en)
 
@@ -12,18 +12,18 @@ Monday 26 September 2022 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -35,18 +35,18 @@ Monday 26 September 2022 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -58,18 +58,18 @@ Monday 26 September 2022 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -84,7 +84,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 September 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 September 2022 at 20:02
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
@@ -161,7 +161,7 @@ Tuesday 27 September 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -176,7 +176,7 @@ Tuesday 27 September 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 September 2022 at 20:01
+- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
 
 ### Additional Information
 
@@ -197,7 +197,7 @@ Wednesday 28 September 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
+- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 23 September 2022 at 19:59
 
@@ -220,7 +220,7 @@ Monday 3 October 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
+- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 23 September 2022 at 19:59
 
@@ -303,6 +303,29 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ------
 
+## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Country-by-Country Reporting – Compilation of 2022 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/5ea2ba65-en)
 
 Embargo date | Launch date
@@ -323,6 +346,75 @@ Thursday 6 October 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Déclaration pays par pays – Recueil 2022 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/437ad256-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
+## [International Migration Outlook 2022](https://doi.org/10.1787/30fe16d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -438,52 +530,6 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [International Migration Outlook 2022](https://doi.org/10.1787/30fe16d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
