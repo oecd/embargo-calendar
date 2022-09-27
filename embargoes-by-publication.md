@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 September 2022 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 27 September 2022 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Interim Report September 2022 - Paying the Price of War](https://doi.org/10.1787/ae8c39ec-en)
 
@@ -84,7 +84,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 September 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 27 September 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 September 2022 at 20:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 27 September 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Wednesday 28 September 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
 
 ### Additional Information
 
@@ -372,6 +372,29 @@ Thursday 6 October 2022 at 9:00 | no launch event
 
 ------
 
+## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
 
 Embargo date | Launch date
@@ -438,6 +461,29 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 October 2022 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
