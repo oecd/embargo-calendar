@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 September 2022 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 28 September 2022 at 21:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 September 2022](#26-september-2022)
 * [27 September 2022](#27-september-2022)
 * [28 September 2022](#28-september-2022)
+* [29 September 2022](#29-september-2022)
 * [3 October 2022](#3-october-2022)
+* [4 October 2022](#4-october-2022)
 * [5 October 2022](#5-october-2022)
 * [6 October 2022](#6-october-2022)
 * [10 October 2022](#10-october-2022)
@@ -15,80 +16,8 @@ Data generated on | |
 * [12 October 2022](#12-october-2022)
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
+* [9 November 2022](#9-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 26 September 2022
-
-## [OECD Economic Outlook, Interim Report September 2022 - Paying the Price of War](https://doi.org/10.1787/ae8c39ec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 September 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD-Wirtschaftsausblick, Zwischenausgabe September 2022 - Der Preis des Kriegs – wer bezahlt?](https://doi.org/10.1787/fc9852d5-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 September 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2022 - Payer le prix de la guerre](https://doi.org/10.1787/4c8d9c61-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 September 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
-
-------
 
 ------
 
@@ -224,7 +153,7 @@ Wednesday 28 September 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 28 September 2022 at 20:02
 
 ### Additional Information
 
@@ -233,6 +162,33 @@ Wednesday 28 September 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 29 September 2022
+
+## [Finland’s Right to Learn Programme - Achieving equity and quality in education](https://doi.org/10.1787/65eff23e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 September 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 September 2022 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 28 September 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -306,6 +262,33 @@ Monday 3 October 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 4 October 2022
+
+## [Bildung auf einen Blick 2022](https://doi.org/10.1787/dd19b10a-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -633,6 +616,33 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 9 November 2022
+
+## [Peer Review of the Automatic Exchange of Financial Account Information 2022](https://doi.org/10.1787/36e7cded-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
