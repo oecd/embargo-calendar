@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 September 2022 at 21:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tendencias sobre competencia en Latinoamérica y el Caribe 2022](https://doi.org/10.1787/f19a5033-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digitalising the economy in Slovenia](https://doi.org/10.1787/9167aa58-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 September 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Competition trends in Latin America and the Caribbean 2022](https://doi.org/10.1787/472518b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 September 2022 at 20:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Guidance on Transition Finance - Ensuring Credibility of Corporate Climate Transition Plans](https://doi.org/10.1787/7c68a1ee-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Rule of Law and Governance in the Palestinian Authority - Delivering Better Policies and Legislation for People](https://doi.org/10.1787/68ffa992-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 September 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 September 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Thursday 29 September 2022 at 21:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Digital Government Review of Luxembourg - Towards More Digital, Innovative and Inclusive Public Services](https://doi.org/10.1787/b623803d-en)
 
@@ -153,7 +38,7 @@ Thursday 29 September 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 September 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 September 2022 at 20:02
+- [x] Exported to OECD.org Thursday 29 September 2022 at 20:04
 
 ### Additional Information
 
@@ -299,7 +184,7 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -322,7 +207,7 @@ Thursday 6 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -345,7 +230,7 @@ Thursday 6 October 2022 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
