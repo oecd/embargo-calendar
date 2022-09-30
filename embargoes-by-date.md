@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 September 2022 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 30 September 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 September 2022](#28-september-2022)
 * [29 September 2022](#29-september-2022)
 * [3 October 2022](#3-october-2022)
 * [4 October 2022](#4-october-2022)
@@ -17,33 +16,6 @@ Data generated on | |
 * [19 October 2022](#19-october-2022)
 * [9 November 2022](#9-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 28 September 2022
-
-## [Digital Government Review of Luxembourg - Towards More Digital, Innovative and Inclusive Public Services](https://doi.org/10.1787/b623803d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 September 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 September 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -107,7 +79,7 @@ Monday 3 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -122,32 +94,55 @@ Monday 3 October 2022 at 9:00 | no launch event
 
 ------
 
-## [Regards sur l'éducation 2022 - Les indicateurs de l'OCDE](https://doi.org/10.1787/8b532813-fr)
+------
+
+# 4 October 2022
+
+## [OECD-Berichte zur Innovationspolitik: Deutschland 2022 - Agile Ansätze für erfolgreiche Transformationen](https://doi.org/10.1787/9d21d68b-de)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 3 October 2022 at 9:00 | no launch event
+Tuesday 4 October 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-------
+## [OECD Reviews of Innovation Policy: Germany 2022 - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
 
-# 4 October 2022
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ## [Bildung auf einen Blick 2022](https://doi.org/10.1787/dd19b10a-de)
 
@@ -225,52 +220,6 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 ------
 
 # 6 October 2022
-
-## [Country-by-Country Reporting – Compilation of 2022 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/5ea2ba65-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Déclaration pays par pays – Recueil 2022 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/437ad256-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
 
