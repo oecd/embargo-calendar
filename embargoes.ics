@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/65eff23e-end3e63
-SUMMARY:Finland’s Right to Learn Programme - Ach
- ieving equity and quality in education
-DESCRIPTION:*Finland’s Right to Learn Programme - Ac
- hieving equity and quality in education*
- \n\nDirectorate: Directorate for Educati
- on and Skills\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/65eff23e-en\nPubl
- ication type: Paper\nReleased as: PDF\n\
- nEmbargo date/time: Thursday, 29 Septemb
- er 2022, 6:00 (GMT)\n\n\niLibrary export
- : Wednesday, 28 September 2022, 18:33 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Thursday, 29 September 2022, 18
- :04 (GMT)\nFTI loaded: ✓\n\nFor more inf
- ormation see: https://oecd.github.io/emb
- argo-calendar/embargoes-by-publication.h
- tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:56,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=65eff23e-en.
-DTSTAMP:20220930T205647Z
-DTSTART:20220929T060000Z
-DTEND:20220929T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Finland’s Right to Learn Progr
- amme - Achieving equity and quality in e
- ducation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c410b82a-end3e663
+UID:10.1787/c410b82a-end3e606
 SUMMARY:Green Economy Transition in Eastern Euro
  pe, the Caucasus and Central Asia - Prog
  ress and Ways Forward
@@ -58,22 +16,22 @@ DESCRIPTION:*Green Economy Transition in Eastern Eur
   date/time: Monday, 3 October 2022, 7:00
   (GMT)\n\n\niLibrary export: Monday, 26 
  September 2022, 18:37 (GMT)\nFreepreview
-  export: never\nOECD.org export: Friday,
-  23 September 2022, 17:59 (GMT)\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 20:56, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=c
- 410b82a-en.
-DTSTAMP:20220930T205647Z
+  export: never\nOECD.org export: Sunday,
+  2 October 2022, 17:56 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 20:43, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=c410
+ b82a-en.
+DTSTAMP:20221002T204343Z
 DTSTART:20221003T070000Z
 DTEND:20221003T071500Z
 TRANSP:TRANSPARENT
@@ -88,7 +46,7 @@ DESCRIPTION:Reminder: Green Economy Transition in Ea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3197152b-end3e9792
+UID:10.1787/3197152b-end3e9735
 SUMMARY:Education at a Glance 2022 - OECD Indica
  tors
 DESCRIPTION:*Education at a Glance 2022 - OECD Indic
@@ -104,7 +62,7 @@ DESCRIPTION:*Education at a Glance 2022 - OECD Indic
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:56, it is u
+ t as of this afternoon at 20:43, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -113,7 +71,7 @@ DESCRIPTION:*Education at a Glance 2022 - OECD Indic
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=3197152b-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221003T090000Z
 DTEND:20221003T091500Z
 TRANSP:TRANSPARENT
@@ -127,7 +85,7 @@ DESCRIPTION:Reminder: Education at a Glance 2022 - O
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d21d68b-ded3e22023
+UID:10.1787/9d21d68b-ded3e21966
 SUMMARY:OECD-Berichte zur Innovationspolitik: De
  utschland 2022 - Agile Ansätze für erfol
  greiche Transformationen
@@ -146,7 +104,7 @@ DESCRIPTION:*OECD-Berichte zur Innovationspolitik: D
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 20:56, it is updated e
+ this afternoon at 20:43, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -155,7 +113,7 @@ DESCRIPTION:*OECD-Berichte zur Innovationspolitik: D
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =9d21d68b-de.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221004T050000Z
 DTEND:20221004T051500Z
 TRANSP:TRANSPARENT
@@ -170,7 +128,7 @@ DESCRIPTION:Reminder: OECD-Berichte zur Innovationsp
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b32331-end3e23353
+UID:10.1787/50b32331-end3e23296
 SUMMARY:OECD Reviews of Innovation Policy: Germa
  ny 2022 - Building Agility for Successfu
  l Transitions
@@ -189,7 +147,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:56, it is updated each night;
+ noon at 20:43, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -198,7 +156,7 @@ DESCRIPTION:*OECD Reviews of Innovation Policy: Germ
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=50b32331-
  en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221004T050000Z
 DTEND:20221004T051500Z
 TRANSP:TRANSPARENT
@@ -213,7 +171,7 @@ DESCRIPTION:Reminder: OECD Reviews of Innovation Pol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dd19b10a-ded3e26548
+UID:10.1787/dd19b10a-ded3e26491
 SUMMARY:Bildung auf einen Blick 2022
 DESCRIPTION:*Bildung auf einen Blick 2022*\n\nDirect
  orate: Directorate for Education and Ski
@@ -227,7 +185,7 @@ DESCRIPTION:*Bildung auf einen Blick 2022*\n\nDirect
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:56, it is 
+ ct as of this afternoon at 20:43, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -236,7 +194,7 @@ DESCRIPTION:*Bildung auf einen Blick 2022*\n\nDirect
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=dd19b10a-de.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221004T090000Z
 DTEND:20221004T091500Z
 TRANSP:TRANSPARENT
@@ -249,7 +207,7 @@ DESCRIPTION:Reminder: Bildung auf einen Blick 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9358848-frd3e26707
+UID:10.1787/c9358848-frd3e26650
 SUMMARY:Évaluation des réponses au COVID-19 du L
  uxembourg - Tirer les enseignements de l
  a crise pour accroître la résilience
@@ -268,7 +226,7 @@ DESCRIPTION:*Évaluation des réponses au COVID-19 du
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 20:56, it is updat
+  of this afternoon at 20:43, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -277,7 +235,7 @@ DESCRIPTION:*Évaluation des réponses au COVID-19 du
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=c9358848-fr.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221005T090000Z
 DTEND:20221005T091500Z
 TRANSP:TRANSPARENT
@@ -293,7 +251,7 @@ DESCRIPTION:Reminder: Évaluation des réponses au COV
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9778969-end3e26919
+UID:10.1787/e9778969-end3e26862
 SUMMARY:Pricing Greenhouse Gas Emissions - Turni
  ng Climate Targets into Climate Action
 DESCRIPTION:*Pricing Greenhouse Gas Emissions - Turn
@@ -310,7 +268,7 @@ DESCRIPTION:*Pricing Greenhouse Gas Emissions - Turn
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:56, it is 
+ ct as of this afternoon at 20:43, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -319,7 +277,7 @@ DESCRIPTION:*Pricing Greenhouse Gas Emissions - Turn
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=e9778969-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221005T090000Z
 DTEND:20221005T091500Z
 TRANSP:TRANSPARENT
@@ -334,7 +292,7 @@ DESCRIPTION:Reminder: Pricing Greenhouse Gas Emissio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cf46900c-end3e27026
+UID:10.1787/cf46900c-end3e26969
 SUMMARY:G20/OECD Roadmap on Developing Countries
   and International Taxation - OECD repor
  t for the G20 Finance Ministers and Cent
@@ -354,7 +312,7 @@ DESCRIPTION:*G20/OECD Roadmap on Developing Countrie
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:56, it is up
+  as of this afternoon at 20:43, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -363,7 +321,7 @@ DESCRIPTION:*G20/OECD Roadmap on Developing Countrie
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=cf46900c-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221006T090010Z
 DTEND:20221006T091510Z
 TRANSP:TRANSPARENT
@@ -379,7 +337,7 @@ DESCRIPTION:Reminder: G20/OECD Roadmap on Developing
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7244fc44-frd3e27130
+UID:10.1787/7244fc44-frd3e27073
 SUMMARY:Perspectives des migrations internationa
  les 2022
 DESCRIPTION:*Perspectives des migrations internation
@@ -396,7 +354,7 @@ DESCRIPTION:*Perspectives des migrations internation
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:56, it is updated each night; theref
+  20:43, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -404,7 +362,7 @@ DESCRIPTION:*Perspectives des migrations internation
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=7244fc44-fr.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221010T090000Z
 DTEND:20221010T091500Z
 TRANSP:TRANSPARENT
@@ -418,7 +376,7 @@ DESCRIPTION:Reminder: Perspectives des migrations in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30fe16d2-end3e27234
+UID:10.1787/30fe16d2-end3e27177
 SUMMARY:International Migration Outlook 2022
 DESCRIPTION:*International Migration Outlook 2022*\n
  \nDirectorate: Directorate for Employmen
@@ -433,7 +391,7 @@ DESCRIPTION:*International Migration Outlook 2022*\n
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:56, it 
+ rrect as of this afternoon at 20:43, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -442,7 +400,7 @@ DESCRIPTION:*International Migration Outlook 2022*\n
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=30fe16d2-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221010T090000Z
 DTEND:20221010T091500Z
 TRANSP:TRANSPARENT
@@ -456,7 +414,7 @@ DESCRIPTION:Reminder: International Migration Outloo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1eaa5e9c-end3e27444
+UID:10.1787/1eaa5e9c-end3e27387
 SUMMARY:Disability, Work and Inclusion - Mainstr
  eaming in All Policies and Practices
 DESCRIPTION:*Disability, Work and Inclusion - Mainst
@@ -474,7 +432,7 @@ DESCRIPTION:*Disability, Work and Inclusion - Mainst
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:56, it is updated each
+ s afternoon at 20:43, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -483,7 +441,7 @@ DESCRIPTION:*Disability, Work and Inclusion - Mainst
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=1e
  aa5e9c-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221011T120000Z
 DTEND:20221011T121500Z
 TRANSP:TRANSPARENT
@@ -498,7 +456,7 @@ DESCRIPTION:Reminder: Disability, Work and Inclusion
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/25d30b96-end3e27604
+UID:10.1787/25d30b96-end3e27546
 SUMMARY:Tax Incentives and the Global Minimum Co
  rporate Tax - Reconsidering Tax Incentiv
  es after the GloBE Rules
@@ -516,7 +474,7 @@ DESCRIPTION:*Tax Incentives and the Global Minimum C
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:56, i
+ correct as of this afternoon at 20:43, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -525,7 +483,7 @@ DESCRIPTION:*Tax Incentives and the Global Minimum C
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=25d30b96-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221011T210053Z
 DTEND:20221011T211553Z
 TRANSP:TRANSPARENT
@@ -540,7 +498,7 @@ DESCRIPTION:Reminder: Tax Incentives and the Global
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eeb7cbe9-end3e27656
+UID:10.1787/eeb7cbe9-end3e27599
 SUMMARY:OECD Economic Surveys: United States 202
  2
 DESCRIPTION:*OECD Economic Surveys: United States 20
@@ -556,7 +514,7 @@ DESCRIPTION:*OECD Economic Surveys: United States 20
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:56, it is updated each nig
+ ternoon at 20:43, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -565,7 +523,7 @@ DESCRIPTION:*OECD Economic Surveys: United States 20
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=eeb7cb
  e9-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221012T140000Z
 DTEND:20221012T141500Z
 TRANSP:TRANSPARENT
@@ -579,7 +537,7 @@ DESCRIPTION:Reminder: OECD Economic Surveys: United
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4add887d-end3e27920
+UID:10.1787/4add887d-end3e27862
 SUMMARY:Modernising Social Services in Spain - D
  esigning a New National Framework
 DESCRIPTION:*Modernising Social Services in Spain - 
@@ -597,7 +555,7 @@ DESCRIPTION:*Modernising Social Services in Spain -
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:56, it is updated each night; therefor
+ 0:43, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -605,7 +563,7 @@ DESCRIPTION:*Modernising Social Services in Spain -
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=4add887d-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221018T090000Z
 DTEND:20221018T091500Z
 TRANSP:TRANSPARENT
@@ -620,7 +578,7 @@ DESCRIPTION:Reminder: Modernising Social Services in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/21b6e411-end3e28079
+UID:10.1787/21b6e411-end3e28022
 SUMMARY:Clean Energy Finance and Investment Road
  map of India - Opportunities to Unlock F
  inance and Scale up Capital
@@ -638,7 +596,7 @@ DESCRIPTION:*Clean Energy Finance and Investment Roa
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:56, it is u
+ t as of this afternoon at 20:43, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -647,7 +605,7 @@ DESCRIPTION:*Clean Energy Finance and Investment Roa
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=21b6e411-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221018T090000Z
 DTEND:20221018T091500Z
 TRANSP:TRANSPARENT
@@ -662,7 +620,7 @@ DESCRIPTION:Reminder: Clean Energy Finance and Inves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fcc8c6df-end3e28563
+UID:10.1787/fcc8c6df-end3e28505
 SUMMARY:Scotland’s Approach to Regulating Water 
  Charges - Innovation and Collaboration
 DESCRIPTION:*Scotland’s Approach to Regulating Water
@@ -681,7 +639,7 @@ DESCRIPTION:*Scotland’s Approach to Regulating Water
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 20:56, it is updated each night;
+ noon at 20:43, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -690,7 +648,7 @@ DESCRIPTION:*Scotland’s Approach to Regulating Water
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=fcc8c6df-
  en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221019T160000Z
 DTEND:20221019T161500Z
 TRANSP:TRANSPARENT
@@ -705,7 +663,7 @@ DESCRIPTION:Reminder: Scotland’s Approach to Regulat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36e7cded-end3e28779
+UID:10.1787/36e7cded-end3e28722
 SUMMARY:Peer Review of the Automatic Exchange of
   Financial Account Information 2022
 DESCRIPTION:*Peer Review of the Automatic Exchange o
@@ -722,7 +680,7 @@ DESCRIPTION:*Peer Review of the Automatic Exchange o
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:56, it is updated
+ f this afternoon at 20:43, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -731,7 +689,7 @@ DESCRIPTION:*Peer Review of the Automatic Exchange o
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=36e7cded-en.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -746,7 +704,7 @@ DESCRIPTION:Reminder: Peer Review of the Automatic E
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e29788
+UID:10.1787/0d1792c6-esd3e29731
 SUMMARY:Compendio de Prácticas de las Organizaci
  ones Internacionales - Trabajando hacia 
  instrumentos internacionales más efectiv
@@ -767,7 +725,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:56, it is updated each night; ther
+ at 20:43, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -775,7 +733,7 @@ DESCRIPTION:*Compendio de Prácticas de las Organizac
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0d1792c6-es.
-DTSTAMP:20220930T205647Z
+DTSTAMP:20221002T204343Z
 DTSTART:20221207T110000Z
 DTEND:20221207T111500Z
 TRANSP:TRANSPARENT

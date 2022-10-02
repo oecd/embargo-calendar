@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 September 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 2 October 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 September 2022](#29-september-2022)
 * [3 October 2022](#3-october-2022)
 * [4 October 2022](#4-october-2022)
 * [5 October 2022](#5-october-2022)
@@ -16,33 +15,6 @@ Data generated on | |
 * [19 October 2022](#19-october-2022)
 * [9 November 2022](#9-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 29 September 2022
-
-## [Finland’s Right to Learn Programme - Achieving equity and quality in education](https://doi.org/10.1787/65eff23e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 September 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 September 2022 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 September 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -59,7 +31,7 @@ Monday 3 October 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 September 2022 at 19:59
+- [x] Exported to OECD.org Sunday 2 October 2022 at 19:56
 
 ### Additional Information
 
