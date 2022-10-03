@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 October 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 3 October 2022 at 21:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Green Economy Transition in Eastern Europe, the Caucasus and Central Asia - Progress and Ways Forward](https://doi.org/10.1787/c410b82a-en)
 
@@ -15,7 +15,7 @@ Monday 3 October 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 September 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 2 October 2022 at 19:56
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
@@ -36,15 +36,15 @@ Monday 3 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -59,15 +59,15 @@ Tuesday 4 October 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -82,15 +82,15 @@ Tuesday 4 October 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -104,16 +104,16 @@ Tuesday 4 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -127,16 +127,16 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -165,6 +165,29 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ------
 
+## [Redesigning Ireland’s Transport for Net Zero - Towards Systems that Work for People and the Planet](https://doi.org/10.1787/b798a4c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 October 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
 
 Embargo date | Launch date
@@ -184,6 +207,29 @@ Thursday 6 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Monitoring exposure to climate-related hazards - Indicator methodology and key results](https://doi.org/10.1787/da074cb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -242,16 +288,16 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -285,6 +331,29 @@ Tuesday 11 October 2022 at 21:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 12 October 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Vietnam 2022](https://doi.org/10.1787/8f2a6ecb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 October 2022 at 7:00 | no launch event
 
 ### Status Information
 
@@ -369,6 +438,29 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Lithuania 2022](https://doi.org/10.1787/0829329f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
