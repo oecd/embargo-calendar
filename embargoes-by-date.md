@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 October 2022 at 21:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 October 2022 at 21:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 October 2022](#3-october-2022)
 * [4 October 2022](#4-october-2022)
@@ -54,7 +54,7 @@ Monday 3 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 3 October 2022 at 20:04
 
@@ -81,9 +81,9 @@ Tuesday 4 October 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
@@ -104,9 +104,9 @@ Tuesday 4 October 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
@@ -127,9 +127,9 @@ Tuesday 4 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
@@ -156,7 +156,7 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -199,18 +199,18 @@ Wednesday 5 October 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -226,7 +226,7 @@ Thursday 6 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -272,26 +272,26 @@ Friday 7 October 2022 at 5:00 | no launch event
 
 # 10 October 2022
 
-## [Perspectives des migrations internationales 2022](https://doi.org/10.1787/7244fc44-fr)
+## [Improving skills and employment opportunities in Tunisia](https://doi.org/10.1787/51e7a341-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 October 2022 at 9:00 | no launch event
+Monday 10 October 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -303,7 +303,7 @@ Monday 10 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -399,7 +399,7 @@ Wednesday 12 October 2022 at 14:00 | no launch event
 
 # 18 October 2022
 
-## [OECD Economic Surveys: Vietnam 2022](https://doi.org/10.1787/8f2a6ecb-en)
+## [OECD Economic Surveys: Viet Nam 2022](https://doi.org/10.1787/8f2a6ecb-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -499,6 +499,29 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 
 # 20 October 2022
 
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Lithuania 2022](https://doi.org/10.1787/0829329f-en)
 
 Embargo date | Launch date
@@ -517,7 +540,7 @@ Thursday 20 October 2022 at 9:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Economic survey*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
