@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 October 2022 at 21:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Green Economy Transition in Eastern Europe, the Caucasus and Central Asia - Progress and Ways Forward](https://doi.org/10.1787/c410b82a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 October 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 September 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Education at a Glance 2022 - OECD Indicators](https://doi.org/10.1787/3197152b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 5 October 2022 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD-Berichte zur Innovationspolitik: Deutschland 2022 - Agile Ansätze für erfolgreiche Transformationen](https://doi.org/10.1787/9d21d68b-de)
 
@@ -130,7 +84,7 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
 
 ### Additional Information
 
@@ -142,11 +96,57 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ------
 
+## [Redesigning Ireland’s Transport for Net Zero - Towards Systems that Work for People and the Planet](https://doi.org/10.1787/b798a4c1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 October 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 October 2022 at 20:38
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 5 October 2022 at 9:00 | no launch event
+Thursday 6 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -165,34 +165,11 @@ Wednesday 5 October 2022 at 9:00 | no launch event
 
 ------
 
-## [Redesigning Ireland’s Transport for Net Zero - Towards Systems that Work for People and the Planet](https://doi.org/10.1787/b798a4c1-en)
+## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 5 October 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
+Thursday 6 October 2022 at 12:00 | no launch event
 
 ### Status Information
 
@@ -300,29 +277,6 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 October 2022 at 21:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
