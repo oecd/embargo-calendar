@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 October 2022 at 21:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD-Berichte zur Innovationspolitik: Deutschland 2022 - Agile Ansätze für erfolgreiche Transformationen](https://doi.org/10.1787/9d21d68b-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Reviews of Innovation Policy: Germany 2022 - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Bildung auf einen Blick 2022](https://doi.org/10.1787/dd19b10a-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Thursday 6 October 2022 at 21:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Évaluation des réponses au COVID-19 du Luxembourg - Tirer les enseignements de la crise pour accroître la résilience](https://doi.org/10.1787/c9358848-fr)
 
@@ -105,7 +36,7 @@ Wednesday 5 October 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 October 2022 at 20:38
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
 
@@ -128,16 +59,62 @@ Thursday 6 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 October 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Monitoring exposure to climate-related hazards - Indicator methodology and key results](https://doi.org/10.1787/da074cb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -146,7 +123,7 @@ Thursday 6 October 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
+Friday 7 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -165,45 +142,22 @@ Thursday 6 October 2022 at 9:00 | no launch event
 
 ------
 
-## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
+## [Determinants of and barriers to people’s financial inclusion in Mexico](https://doi.org/10.1787/73e9341b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 6 October 2022 at 12:00 | no launch event
+Monday 10 October 2022 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Monitoring exposure to climate-related hazards - Indicator methodology and key results](https://doi.org/10.1787/da074cb6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -322,7 +276,7 @@ Tuesday 18 October 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -414,7 +368,7 @@ Thursday 20 October 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -437,7 +391,7 @@ Thursday 20 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

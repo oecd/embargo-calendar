@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 October 2022 at 21:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 October 2022 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 October 2022](#4-october-2022)
 * [5 October 2022](#5-october-2022)
 * [6 October 2022](#6-october-2022)
 * [7 October 2022](#7-october-2022)
@@ -16,79 +15,6 @@ Data generated on | |
 * [20 October 2022](#20-october-2022)
 * [9 November 2022](#9-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 4 October 2022
-
-## [OECD-Berichte zur Innovationspolitik: Deutschland 2022 - Agile Ansätze für erfolgreiche Transformationen](https://doi.org/10.1787/9d21d68b-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Reviews of Innovation Policy: Germany 2022 - Building Agility for Successful Transitions](https://doi.org/10.1787/50b32331-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Bildung auf einen Blick 2022](https://doi.org/10.1787/dd19b10a-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -126,7 +52,7 @@ Wednesday 5 October 2022 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 October 2022 at 20:38
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
 
@@ -153,40 +79,17 @@ Thursday 6 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
-
-------
-
-## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -199,15 +102,15 @@ Thursday 6 October 2022 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -228,7 +131,7 @@ Friday 7 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
 
 ### Additional Information
 
@@ -240,9 +143,55 @@ Friday 7 October 2022 at 5:00 | no launch event
 
 ------
 
+## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ------
 
 # 10 October 2022
+
+## [Determinants of and barriers to people’s financial inclusion in Mexico](https://doi.org/10.1787/73e9341b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Improving skills and employment opportunities in Tunisia](https://doi.org/10.1787/51e7a341-en)
 
@@ -367,7 +316,7 @@ Tuesday 18 October 2022 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -467,7 +416,7 @@ Thursday 20 October 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -490,7 +439,7 @@ Thursday 20 October 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
