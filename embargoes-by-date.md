@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 October 2022 at 21:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 October 2022 at 21:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 October 2022](#5-october-2022)
 * [6 October 2022](#6-october-2022)
 * [7 October 2022](#7-october-2022)
 * [10 October 2022](#10-october-2022)
@@ -13,58 +12,9 @@ Data generated on | |
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
+* [27 October 2022](#27-october-2022)
 * [9 November 2022](#9-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 5 October 2022
-
-## [Évaluation des réponses au COVID-19 du Luxembourg - Tirer les enseignements de la crise pour accroître la résilience](https://doi.org/10.1787/c9358848-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Redesigning Ireland’s Transport for Net Zero - Towards Systems that Work for People and the Planet](https://doi.org/10.1787/b798a4c1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 October 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -131,7 +81,7 @@ Friday 7 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
+- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
 
 ### Additional Information
 
@@ -140,29 +90,6 @@ Friday 7 October 2022 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -236,6 +163,29 @@ Monday 10 October 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
+
+------
+
+## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -329,15 +279,15 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 7 October 2022 at 20:33
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -438,6 +388,33 @@ Thursday 20 October 2022 at 9:00 | no launch event
 * Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 27 October 2022
+
+## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 October 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 7 October 2022 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
