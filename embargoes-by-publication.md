@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 October 2022 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
-
-## [G20/OECD Roadmap on Developing Countries and International Taxation - OECD report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/cf46900c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Incentives and the Global Minimum Corporate Tax - Reconsidering Tax Incentives after the GloBE Rules](https://doi.org/10.1787/25d30b96-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 October 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Monitoring exposure to climate-related hazards - Indicator methodology and key results](https://doi.org/10.1787/da074cb6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 9 October 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Determinants of and barriers to people’s financial inclusion in Mexico](https://doi.org/10.1787/73e9341b-en)
 
@@ -84,7 +15,7 @@ Monday 10 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 October 2022 at 20:02
+- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 10 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 October 2022 at 20:01
+- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
 
 ### Additional Information
 
@@ -128,15 +59,15 @@ Monday 10 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Sunday 9 October 2022 at 20:27
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF*
 
