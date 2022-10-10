@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 9 October 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 10 October 2022 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 October 2022](#10-october-2022)
 * [11 October 2022](#11-october-2022)
@@ -10,8 +10,12 @@ Data generated on | |
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
+* [24 October 2022](#24-october-2022)
+* [26 October 2022](#26-october-2022)
 * [27 October 2022](#27-october-2022)
+* [7 November 2022](#7-november-2022)
 * [9 November 2022](#9-november-2022)
+* [11 November 2022](#11-november-2022)
 * [7 December 2022](#7-december-2022)
 
 ------
@@ -29,7 +33,7 @@ Monday 10 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
+- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
 ### Additional Information
 
@@ -52,7 +56,7 @@ Monday 10 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
+- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
 ### Additional Information
 
@@ -73,9 +77,9 @@ Monday 10 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 9 October 2022 at 20:27
+- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 October 2022 at 20:01
+- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
 ### Additional Information
 
@@ -87,11 +91,15 @@ Monday 10 October 2022 at 9:00 | no launch event
 
 ------
 
+------
+
+# 11 October 2022
+
 ## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 10 October 2022 at 9:00 | no launch event
+Tuesday 11 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
@@ -110,10 +118,6 @@ Monday 10 October 2022 at 9:00 | no launch event
 
 ------
 
-------
-
-# 11 October 2022
-
 ## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
 
 Embargo date | Launch date
@@ -125,7 +129,7 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 October 2022 at 20:04
+- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
 ### Additional Information
 
@@ -145,7 +149,7 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 12 October 2022 at 14:00 | no launch event
+Wednesday 12 October 2022 at 13:30 | no launch event
 
 ### Status Information
 
@@ -167,6 +171,29 @@ Wednesday 12 October 2022 at 14:00 | no launch event
 ------
 
 # 18 October 2022
+
+## [Khảo sát Kinh tế của OECD: Việt Nam 2022](https://doi.org/10.1787/7f5fe56b-vi)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 October 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Vietnamese*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ## [OECD Economic Surveys: Viet Nam 2022](https://doi.org/10.1787/8f2a6ecb-en)
 
@@ -199,41 +226,18 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 7 October 2022 at 20:33
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
+- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -268,29 +272,6 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 
 # 20 October 2022
 
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Lithuania 2022](https://doi.org/10.1787/0829329f-en)
 
 Embargo date | Launch date
@@ -316,6 +297,60 @@ Thursday 20 October 2022 at 9:00 | no launch event
 
 ------
 
+# 24 October 2022
+
+## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 October 2022
+
+## [Improving Early Equity - From Evidence to Action](https://doi.org/10.1787/6eff314c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 27 October 2022
 
 ## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
@@ -327,7 +362,7 @@ Thursday 27 October 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 October 2022 at 20:33
+- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 7 October 2022 at 19:59
 
@@ -338,6 +373,33 @@ Thursday 27 October 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 7 November 2022
+
+## [Latin American Economic Outlook 2022 - Towards a Just and Green Transition](https://doi.org/10.1787/3d5554fc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 November 2022 at 9:01 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -365,6 +427,33 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 11 November 2022
+
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 November 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
