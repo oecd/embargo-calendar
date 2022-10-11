@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 October 2022 at 20:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 October 2022 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Determinants of and barriers to people’s financial inclusion in Mexico](https://doi.org/10.1787/73e9341b-en)
 
@@ -73,29 +73,6 @@ Monday 10 October 2022 at 9:00 | no launch event
 
 ------
 
-## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
 
 Embargo date | Launch date
@@ -107,7 +84,7 @@ Tuesday 11 October 2022 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 3 October 2022 at 20:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 11 October 2022 at 20:04
 
 ### Additional Information
 
@@ -127,16 +104,16 @@ Wednesday 12 October 2022 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 11 October 2022 at 20:04
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -197,7 +174,7 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
+- [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 October 2022 at 19:59
 
@@ -303,6 +280,52 @@ Wednesday 26 October 2022 at 8:00 | no launch event
 
 ------
 
+## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Tarification des émissions de gaz à effet de serre - Passer des objectifs climatiques à l’action en faveur du climat](https://doi.org/10.1787/16ae322c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
 
 Embargo date | Launch date
@@ -346,6 +369,29 @@ Monday 7 November 2022 at 9:01 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Identifying the Main Drivers of Productivity Growth - A Literature Review](https://doi.org/10.1787/00435b80-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 November 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
