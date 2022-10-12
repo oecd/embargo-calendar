@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 October 2022 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Determinants of and barriers to people’s financial inclusion in Mexico](https://doi.org/10.1787/73e9341b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 October 2022 at 20:35
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Improving skills and employment opportunities in Tunisia](https://doi.org/10.1787/51e7a341-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [International Migration Outlook 2022](https://doi.org/10.1787/30fe16d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
-
-------
+| *Wednesday 12 October 2022 at 21:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
 
@@ -105,15 +36,15 @@ Wednesday 12 October 2022 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
+- [x] Exported to iLibrary Wednesday 12 October 2022 at 20:41
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 October 2022 at 20:04
+- [x] Exported to OECD.org Wednesday 12 October 2022 at 20:08
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -322,7 +253,7 @@ Wednesday 26 October 2022 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -391,7 +322,7 @@ Monday 7 November 2022 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
