@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 October 2022 at 21:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 October 2022 at 21:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 October 2022](#11-october-2022)
 * [12 October 2022](#12-october-2022)
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
@@ -16,33 +15,6 @@ Data generated on | |
 * [9 November 2022](#9-november-2022)
 * [11 November 2022](#11-november-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 11 October 2022
-
-## [Disability, Work and Inclusion - Mainstreaming in All Policies and Practices](https://doi.org/10.1787/1eaa5e9c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 October 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 October 2022 at 20:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 October 2022 at 20:04
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -75,7 +47,7 @@ Wednesday 12 October 2022 at 13:30 | no launch event
 
 # 18 October 2022
 
-## [Khảo sát Kinh tế của OECD: Việt Nam 2022](https://doi.org/10.1787/7f5fe56b-vi)
+## [Báo cáo Kinh tế của OECD: Việt Nam 2022](https://doi.org/10.1787/7f5fe56b-vi)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -157,15 +129,15 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 September 2022 at 20:29
+- [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 September 2022 at 20:02
+- [x] Exported to OECD.org Thursday 13 October 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -248,7 +220,7 @@ Wednesday 26 October 2022 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
