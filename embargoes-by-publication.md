@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 October 2022 at 21:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: United States 2022](https://doi.org/10.1787/eeb7cbe9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 October 2022 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 October 2022 at 20:41
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 October 2022 at 20:08
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Báo cáo Kinh tế của OECD: Việt Nam 2022](https://doi.org/10.1787/7f5fe56b-vi)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 October 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Vietnamese*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Viet Nam 2022](https://doi.org/10.1787/8f2a6ecb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 October 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 14 October 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
 
@@ -188,11 +119,34 @@ Wednesday 26 October 2022 at 8:00 | no launch event
 
 ------
 
+## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 October 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 October 2022 at 9:00 | no launch event
+Thursday 3 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
@@ -215,7 +169,7 @@ Wednesday 26 October 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 October 2022 at 9:00 | no launch event
+Thursday 3 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
@@ -229,29 +183,6 @@ Wednesday 26 October 2022 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 October 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
