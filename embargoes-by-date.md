@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 October 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 16 October 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
@@ -58,7 +58,7 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 16 October 2022 at 19:59
 
 ### Additional Information
 

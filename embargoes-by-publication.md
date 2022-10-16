@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 October 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 16 October 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
 
@@ -38,7 +38,7 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 16 October 2022 at 19:59
 
 ### Additional Information
 
