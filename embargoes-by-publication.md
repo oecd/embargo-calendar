@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 October 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 17 October 2022 at 20:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
 
@@ -15,7 +15,7 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 October 2022 at 19:59
+- [x] Exported to OECD.org Monday 17 October 2022 at 20:01
 
 ### Additional Information
 
@@ -50,15 +50,38 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 
 ------
 
+## [Shedding light on the drivers of services tradability over two decades](https://doi.org/10.1787/d5f3c149-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 October 2022 at 20:33
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 October 2022 at 20:01
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Lithuania 2022](https://doi.org/10.1787/0829329f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 October 2022 at 9:00 | no launch event
+Thursday 20 October 2022 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
