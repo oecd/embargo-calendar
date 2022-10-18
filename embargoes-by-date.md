@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 October 2022 at 20:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 October 2022 at 21:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
@@ -31,7 +31,7 @@ Tuesday 18 October 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 October 2022 at 20:01
+- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
 
 ### Additional Information
 
@@ -73,6 +73,29 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 ------
 
 # 20 October 2022
+
+## [Developments in spectrum management for communication services](https://doi.org/10.1787/175e7ce5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Shedding light on the drivers of services tradability over two decades](https://doi.org/10.1787/d5f3c149-en)
 
@@ -120,6 +143,29 @@ Thursday 20 October 2022 at 7:30 | no launch event
 
 ------
 
+## [Études économiques de l’OCDE : Lituanie 2022 (version abrégée)](https://doi.org/10.1787/8bb0d583-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 October 2022 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 24 October 2022
@@ -132,18 +178,41 @@ Monday 24 October 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Communication regulators of the future](https://doi.org/10.1787/f02209e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -171,6 +240,98 @@ Wednesday 26 October 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Facilitating the Implementation of the Mexican Supreme Audit Institution’s Mandate - Auditing the Governance of Infrastructure](https://doi.org/10.1787/5d756035-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Facilitando la Implementación del mandato de la Auditoría Superior de la Federación de México - Auditoría de la gobernanza de la infraestructura](https://doi.org/10.1787/233e6129-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Fortaleciendo la Analítica en la Institución de Fiscalización Superior de México - Consideraciones y Prioridades para la Evaluación de Riesgos de Integridad](https://doi.org/10.1787/edb2c582-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Strengthening Analytics in Mexico’s Supreme Audit Institution - Considerations and Priorities for Assessing Integrity Risks](https://doi.org/10.1787/d4f685b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 October 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
