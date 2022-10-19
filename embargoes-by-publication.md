@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 October 2022 at 21:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 19 October 2022 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
 
@@ -38,7 +38,7 @@ Wednesday 19 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 20 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 20 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 October 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 October 2022 at 20:01
+- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
 
 ### Additional Information
 
@@ -119,29 +119,6 @@ Thursday 20 October 2022 at 7:30 | no launch event
 
 ------
 
-## [Études économiques de l’OCDE : Lituanie 2022 (version abrégée)](https://doi.org/10.1787/8bb0d583-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 8:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
 
 Embargo date | Launch date
@@ -151,7 +128,7 @@ Monday 24 October 2022 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
+- [x] Exported to iLibrary Wednesday 19 October 2022 at 20:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
 
@@ -192,7 +169,7 @@ Monday 24 October 2022 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 October 2022 at 8:00 | no launch event
+Wednesday 26 October 2022 at 14:00 | no launch event
 
 ### Status Information
 
@@ -418,6 +395,190 @@ Monday 7 November 2022 at 11:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Morocco 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4844d7e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: South Africa 2022 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0cb5c667-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Türkiye 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b2af0142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Israel 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/02131c21-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Slovenia 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/599d21ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Barbados 2022 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5b2561d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Iceland 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f27a2398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Maldives 2022 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/fd96d135-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2022](https://doi.org/10.1787/36e7cded-en)
 
 Embargo date | Launch date
@@ -441,6 +602,29 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b3e4ec46-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
 
 Embargo date | Launch date
@@ -461,6 +645,29 @@ Friday 11 November 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Health at a Glance: Europe 2022 - State of Health in the EU Cycle](https://doi.org/10.1787/507433b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 December 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
