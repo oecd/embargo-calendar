@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 October 2022 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 October 2022 at 20:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 October 2022](#18-october-2022)
 * [19 October 2022](#19-october-2022)
 * [20 October 2022](#20-october-2022)
 * [24 October 2022](#24-october-2022)
@@ -16,33 +15,6 @@ Data generated on | |
 * [11 November 2022](#11-november-2022)
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
-
-------
-
-# 18 October 2022
-
-## [Modernising Social Services in Spain - Designing a New National Framework](https://doi.org/10.1787/4add887d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 October 2022 at 20:36
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -86,7 +58,7 @@ Thursday 20 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
+- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
 
 ### Additional Information
 
@@ -109,7 +81,7 @@ Thursday 20 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 October 2022 at 20:33
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
+- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
 
 ### Additional Information
 
@@ -130,15 +102,15 @@ Thursday 20 October 2022 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 October 2022 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -147,6 +119,29 @@ Thursday 20 October 2022 at 7:30 | no launch event
 ------
 
 # 24 October 2022
+
+## [Aligning agricultural and rural development policies in the context of structural change](https://doi.org/10.1787/1499398c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 October 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
 
