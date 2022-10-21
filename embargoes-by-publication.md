@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 October 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Scotland’s Approach to Regulating Water Charges - Innovation and Collaboration](https://doi.org/10.1787/fcc8c6df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 October 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 October 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 October 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 21 October 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Developments in spectrum management for communication services](https://doi.org/10.1787/175e7ce5-en)
 
@@ -165,6 +142,29 @@ Monday 24 October 2022 at 5:00 | no launch event
 
 ------
 
+## [Developing measures of engagement in PISA](https://doi.org/10.1787/2d9a73ca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 October 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Improving Early Equity - From Evidence to Action](https://doi.org/10.1787/6eff314c-en)
 
 Embargo date | Launch date
@@ -174,15 +174,15 @@ Wednesday 26 October 2022 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -197,15 +197,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -220,15 +220,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -243,15 +243,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -266,15 +266,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -300,6 +300,29 @@ Thursday 27 October 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Dynamiques de l'urbanisation africaine 2022 - Le rayonnement économique des villes africaines](https://doi.org/10.1787/aa4762cf-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 October 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+
+### Additional Information
+
+* Directorate: *Sahel and West Africa Club*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -587,16 +610,16 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
