@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 October 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Developments in spectrum management for communication services](https://doi.org/10.1787/175e7ce5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Shedding light on the drivers of services tradability over two decades](https://doi.org/10.1787/d5f3c149-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 October 2022 at 20:33
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Lithuania 2022](https://doi.org/10.1787/0829329f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 October 2022 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 October 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 23 October 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aligning agricultural and rural development policies in the context of structural change](https://doi.org/10.1787/1499398c-en)
 
@@ -84,7 +15,7 @@ Monday 24 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 October 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 October 2022 at 19:58
+- [x] Exported to OECD.org Sunday 23 October 2022 at 19:57
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 24 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 23 October 2022 at 19:57
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Monday 24 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 23 October 2022 at 19:57
 
 ### Additional Information
 
