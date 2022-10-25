@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 October 2022 at 20:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 October 2022 at 20:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 October 2022](#24-october-2022)
 * [25 October 2022](#25-october-2022)
@@ -17,6 +17,7 @@ Data generated on | |
 * [30 November 2022](#30-november-2022)
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
+* [14 December 2022](#14-december-2022)
 
 ------
 
@@ -106,7 +107,7 @@ Tuesday 25 October 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
@@ -130,18 +131,18 @@ Wednesday 26 October 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -154,15 +155,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 October 2022 at 20:30
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -177,15 +178,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 October 2022 at 20:30
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -200,15 +201,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 October 2022 at 20:30
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -223,15 +224,15 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 October 2022 at 20:30
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -291,6 +292,29 @@ Thursday 27 October 2022 at 6:00 | no launch event
 
 # 28 October 2022
 
+## [Responsible business conduct due diligence for project and asset finance transactions](https://doi.org/10.1787/952805e9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 October 2022 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Добропорядочность бизнеса в Восточной Европе и Центральной Азии, Издание 2022 r.](https://doi.org/10.1787/899d93a7-ru)
 
 Embargo date | Launch date
@@ -326,18 +350,18 @@ Monday 31 October 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 October 2022 at 19:59
+- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
 
 ### Additional Information
 
 * Directorate: *Sahel and West Africa Club*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -698,7 +722,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b3e4ec46-en)
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d3fade82-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -707,9 +731,9 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 5 November 2021 at 20:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 5 November 2021 at 19:57
 
 ### Additional Information
 
@@ -753,6 +777,29 @@ Friday 11 November 2022 at 9:00 | no launch event
 # 30 November 2022
 
 ## [Consumption Tax Trends 2022 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/6525a942-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 November 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2022 - The Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/8a691b03-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -849,5 +896,32 @@ Wednesday 7 December 2022 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 14 December 2022
+
+## [Going Digital to Advance Data Governance for Growth and Well-being](https://doi.org/10.1787/e3d783b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
