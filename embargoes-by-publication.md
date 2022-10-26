@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 October 2022 at 20:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Aligning agricultural and rural development policies in the context of structural change](https://doi.org/10.1787/1499398c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 October 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Clean Energy Finance and Investment Roadmap of India - Opportunities to Unlock Finance and Scale up Capital](https://doi.org/10.1787/21b6e411-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Communication regulators of the future](https://doi.org/10.1787/f02209e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 October 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 October 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 26 October 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Developing measures of engagement in PISA](https://doi.org/10.1787/2d9a73ca-en)
 
@@ -107,7 +38,7 @@ Wednesday 26 October 2022 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -199,7 +130,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -222,7 +153,7 @@ Thursday 27 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 October 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 October 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -245,7 +176,7 @@ Thursday 27 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 October 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
 ### Additional Information
 
@@ -415,6 +346,52 @@ Monday 7 November 2022 at 13:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [L'Observateur de l'action climatique 2022 - Aider les pays à progresser vers le zéro net](https://doi.org/10.1787/6f7fe63f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 November 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The Climate Action Monitor 2022 - Helping Countries Advance Towards Net Zero](https://doi.org/10.1787/43730392-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 November 2022 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -852,5 +829,28 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Going Digital Guide to Data Governance Policy Making](https://doi.org/10.1787/40d53904-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
