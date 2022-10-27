@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 October 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Developing measures of engagement in PISA](https://doi.org/10.1787/2d9a73ca-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 October 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 27 October 2022 at 21:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving Early Equity - From Evidence to Action](https://doi.org/10.1787/6eff314c-en)
 
@@ -82,7 +59,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
+- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
 
@@ -130,7 +107,7 @@ Wednesday 26 October 2022 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Thursday 27 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 October 2022 at 20:30
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
 
 ### Additional Information
 
@@ -176,7 +153,7 @@ Thursday 27 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 10 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
 
 ### Additional Information
 
@@ -196,16 +173,16 @@ Friday 28 October 2022 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -229,6 +206,52 @@ Friday 28 October 2022 at 5:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Russian*
 * Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing the public procurement suppliers registry in Colombia](https://doi.org/10.1787/36348f43-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 October 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fostering creativity and critical thinking in university teaching and learning - Considerations for academics and their professional learning](https://doi.org/10.1787/09b1cb3b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 October 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
