@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 October 2022 at 21:14* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving Early Equity - From Evidence to Action](https://doi.org/10.1787/6eff314c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 October 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Facilitating the Implementation of the Mexican Supreme Audit Institution’s Mandate - Auditing the Governance of Infrastructure](https://doi.org/10.1787/5d756035-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 October 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Facilitando la Implementación del mandato de la Auditoría Superior de la Federación de México - Auditoría de la gobernanza de la infraestructura](https://doi.org/10.1787/233e6129-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 October 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Fortaleciendo la Analítica en la Institución de Fiscalización Superior de México - Consideraciones y Prioridades para la Evaluación de Riesgos de Integridad](https://doi.org/10.1787/edb2c582-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 October 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 October 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Strengthening Analytics in Mexico’s Supreme Audit Institution - Considerations and Priorities for Assessing Integrity Risks](https://doi.org/10.1787/d4f685b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 October 2022 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 28 October 2022 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [International effects of fisheries support policies](https://doi.org/10.1787/984b0ce6-en)
 
@@ -176,7 +61,7 @@ Friday 28 October 2022 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
+- [x] Exported to OECD.org Friday 28 October 2022 at 20:00
 
 ### Additional Information
 
@@ -280,6 +165,29 @@ Monday 31 October 2022 at 8:00 | no launch event
 
 ------
 
+## [Strategic Investment Pathways for resilient water systems](https://doi.org/10.1787/9afacd7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 November 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 October 2022 at 20:37
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 October 2022 at 20:00
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
 
 Embargo date | Launch date
@@ -311,7 +219,7 @@ Thursday 3 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -322,7 +230,7 @@ Thursday 3 November 2022 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -694,6 +602,29 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ------
 
+## [La fiscalité immobilière dans les pays de l’OCDE](https://doi.org/10.1787/242b9308-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 November 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
 
 Embargo date | Launch date
@@ -714,6 +645,29 @@ Friday 11 November 2022 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Equitable Framework and Finance for Extractive-based Countries in Transition (EFFECT)](https://doi.org/10.1787/7871c0ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 November 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
