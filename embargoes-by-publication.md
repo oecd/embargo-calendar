@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 October 2022 at 21:12* | [See embargoes by date](embargoes-by-date.md) |
-
-## [International effects of fisheries support policies](https://doi.org/10.1787/984b0ce6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 October 2022 at 20:30
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OCDE‑FAO Perspectivas Agrícolas 2022‑2031](https://doi.org/10.1787/820ef1bb-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 October 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 October 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Responsible business conduct due diligence for project and asset finance transactions](https://doi.org/10.1787/952805e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 October 2022 at 20:00
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Добропорядочность бизнеса в Восточной Европе и Центральной Азии, Издание 2022 r.](https://doi.org/10.1787/899d93a7-ru)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 October 2022 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Russian*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 30 October 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Enhancing the public procurement suppliers registry in Colombia](https://doi.org/10.1787/36348f43-en)
 
@@ -107,7 +15,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 October 2022 at 20:03
+- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
 
 ### Additional Information
 
@@ -153,7 +61,7 @@ Monday 31 October 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 October 2022 at 20:02
+- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
 
 ### Additional Information
 
