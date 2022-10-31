@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 October 2022 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 31 October 2022 at 20:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 October 2022](#31-october-2022)
 * [2 November 2022](#2-november-2022)
@@ -32,7 +32,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 
@@ -55,7 +55,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 
@@ -78,7 +78,7 @@ Monday 31 October 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 

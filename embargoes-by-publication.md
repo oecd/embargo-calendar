@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 October 2022 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 31 October 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Enhancing the public procurement suppliers registry in Colombia](https://doi.org/10.1787/36348f43-en)
 
@@ -15,7 +15,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 31 October 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 October 2022 at 20:34
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 31 October 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 October 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 October 2022 at 19:53
+- [x] Exported to OECD.org Monday 31 October 2022 at 19:53
 
 ### Additional Information
 
