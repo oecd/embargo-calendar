@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 November 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Strategic Investment Pathways for resilient water systems](https://doi.org/10.1787/9afacd7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 October 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 4 November 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
 
@@ -96,6 +73,29 @@ Monday 7 November 2022 at 11:00 | no launch event
 
 ------
 
+## [The climate actions and policies measurement framework - A structured and harmonised climate policy database to monitor countries' mitigation action](https://doi.org/10.1787/2caa60ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 November 2022 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Latin American Economic Outlook 2022 - Towards a Green and Just Transition](https://doi.org/10.1787/3d5554fc-en)
 
 Embargo date | Launch date
@@ -104,16 +104,16 @@ Monday 7 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -123,20 +123,20 @@ Monday 7 November 2022 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 7 November 2022 at 16:00 | no launch event
+Monday 7 November 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -146,20 +146,20 @@ Monday 7 November 2022 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 7 November 2022 at 16:00 | no launch event
+Monday 7 November 2022 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -211,11 +211,11 @@ Tuesday 8 November 2022 at 8:00 | no launch event
 
 ------
 
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Morocco 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4844d7e6-en)
+## [West Africa and the global climate agenda](https://doi.org/10.1787/e006df00-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 9 November 2022 at 13:00 | no launch event
+Wednesday 9 November 2022 at 6:00 | no launch event
 
 ### Status Information
 
@@ -226,9 +226,32 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Sahel and West Africa Club*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Morocco 2022 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/4844d7e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -265,16 +288,16 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -289,7 +312,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -311,16 +334,16 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -335,7 +358,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -358,7 +381,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -381,7 +404,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -404,7 +427,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -426,16 +449,16 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -473,7 +496,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
