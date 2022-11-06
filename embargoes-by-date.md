@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 November 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 6 November 2022 at 20:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 November 2022](#3-november-2022)
 * [7 November 2022](#7-november-2022)
 * [8 November 2022](#8-november-2022)
 * [9 November 2022](#9-november-2022)
@@ -17,56 +16,6 @@ Data generated on | |
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 3 November 2022
-
-## [Pricing Greenhouse Gas Emissions - Turning Climate Targets into Climate Action](https://doi.org/10.1787/e9778969-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 November 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Tarification des émissions de gaz à effet de serre - Passer des objectifs climatiques à l’action en faveur du climat](https://doi.org/10.1787/16ae322c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 November 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -83,7 +32,7 @@ Monday 7 November 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
 
 ### Additional Information
 
@@ -106,7 +55,7 @@ Monday 7 November 2022 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
 
 ### Additional Information
 
@@ -129,7 +78,7 @@ Monday 7 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
 
 ### Additional Information
 
@@ -152,7 +101,7 @@ Monday 7 November 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
 
 ### Additional Information
 
@@ -160,7 +109,7 @@ Monday 7 November 2022 at 15:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
@@ -175,7 +124,7 @@ Monday 7 November 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
 
 ### Additional Information
 
@@ -183,7 +132,7 @@ Monday 7 November 2022 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
