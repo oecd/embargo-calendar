@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 November 2022 at 20:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 7 November 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Identifying the Main Drivers of Productivity Growth - A Literature Review](https://doi.org/10.1787/00435b80-en)
 
@@ -15,7 +15,7 @@ Monday 7 November 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 7 November 2022 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 7 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Monday 7 November 2022 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Monday 7 November 2022 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 6 November 2022 at 19:55
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
@@ -127,16 +127,16 @@ Tuesday 8 November 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -162,6 +162,52 @@ Tuesday 8 November 2022 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Green hydrogen opportunities for emerging and developing economies - Identifying success factors for market development and building enabling conditions](https://doi.org/10.1787/53ad9f22-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Unlocking the potential of youth-led social enterprises](https://doi.org/10.1787/d5bddad8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 November 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -197,7 +243,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
@@ -289,7 +335,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 4 November 2022 at 19:55
 
@@ -427,7 +473,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
 
@@ -575,7 +621,7 @@ Monday 21 November 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
