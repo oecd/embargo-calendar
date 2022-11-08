@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 November 2022 at 10:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 November 2022 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Identifying the Main Drivers of Productivity Growth - A Literature Review](https://doi.org/10.1787/00435b80-en)
 
@@ -59,9 +59,9 @@ Monday 7 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
+- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Tuesday 8 November 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
+- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 9 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -199,36 +199,13 @@ Wednesday 9 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [West Africa and the global climate agenda](https://doi.org/10.1787/e006df00-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Sahel and West Africa Club*
-* Language: *English*
-* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -245,7 +222,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -266,9 +243,9 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
+- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -291,7 +268,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -314,7 +291,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -337,7 +314,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -360,7 +337,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -383,7 +360,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -406,7 +383,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -429,7 +406,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -452,7 +429,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -475,7 +452,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
@@ -498,36 +475,13 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 November 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [La fiscalité immobilière dans les pays de l’OCDE](https://doi.org/10.1787/242b9308-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -556,6 +510,29 @@ Friday 11 November 2022 at 9:00 | no launch event
 
 ------
 
+## [Revenue Statistics in Africa 2022 (en) || Statistiques des recettes publiques en Afrique 2022](https://doi.org/10.1787/ea66fbde-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 November 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Equitable Framework and Finance for Extractive-based Countries in Transition (EFFECT)](https://doi.org/10.1787/7871c0ad-en)
 
 Embargo date | Launch date
@@ -565,15 +542,15 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -665,6 +642,29 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Statistiques des recettes publiques 2022 - L'impact du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/96463460-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 November 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
