@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 November 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 November 2022 at 10:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Identifying the Main Drivers of Productivity Growth - A Literature Review](https://doi.org/10.1787/00435b80-en)
 
