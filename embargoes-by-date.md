@@ -2,139 +2,21 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 November 2022 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 9 November 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 November 2022](#7-november-2022)
 * [8 November 2022](#8-november-2022)
 * [9 November 2022](#9-november-2022)
 * [11 November 2022](#11-november-2022)
 * [14 November 2022](#14-november-2022)
 * [15 November 2022](#15-november-2022)
 * [16 November 2022](#16-november-2022)
+* [17 November 2022](#17-november-2022)
 * [21 November 2022](#21-november-2022)
 * [30 November 2022](#30-november-2022)
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
+* [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 7 November 2022
-
-## [Identifying the Main Drivers of Productivity Growth - A Literature Review](https://doi.org/10.1787/00435b80-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 November 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 November 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [The climate actions and policies measurement framework - A structured and harmonised climate policy database to monitor countries' mitigation action](https://doi.org/10.1787/2caa60ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 November 2022 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Latin American Economic Outlook 2022 - Towards a Green and Just Transition](https://doi.org/10.1787/3d5554fc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 November 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [L'Observateur de l'action climatique 2022 - Aider les pays à progresser vers le zéro net](https://doi.org/10.1787/6f7fe63f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 November 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZXML*
-
-------
-
-## [The Climate Action Monitor 2022 - Helping Countries Advance Towards Net Zero](https://doi.org/10.1787/43730392-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 November 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 7 November 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZXML*
-
-------
 
 ------
 
@@ -201,7 +83,7 @@ Wednesday 9 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -224,7 +106,7 @@ Wednesday 9 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -247,7 +129,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -270,7 +152,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -293,7 +175,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -316,7 +198,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -339,7 +221,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -362,7 +244,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -385,7 +267,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -408,7 +290,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -431,7 +313,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -454,7 +336,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -477,7 +359,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 7 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -500,7 +382,7 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 4 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -516,26 +398,26 @@ Wednesday 9 November 2022 at 13:00 | no launch event
 
 # 11 November 2022
 
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+## [Time to act: Nurturing our democracies for the 21st century](https://doi.org/10.1787/451ae7a2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 11 November 2022 at 9:00 | no launch event
+Friday 11 November 2022 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Podcast*
+* Formats: *MP3, PDF*
 
 ------
 
@@ -547,14 +429,14 @@ Friday 11 November 2022 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 14 November 2022 at 10:00 | no launch event
+Monday 14 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
+- [x] Exported to iLibrary Wednesday 9 November 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
 ### Additional Information
 
@@ -622,6 +504,33 @@ Wednesday 16 November 2022 at 9:00 | no launch event
 
 ------
 
+# 17 November 2022
+
+## [OECD Economic Surveys: Luxembourg 2022](https://doi.org/10.1787/9409d9b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 November 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 21 November 2022
 
 ## [Education Policy Outlook 2022 - Transforming Pathways for Lifelong Learners](https://doi.org/10.1787/c77c7a97-en)
@@ -650,6 +559,29 @@ Monday 21 November 2022 at 9:00 | no launch event
 ------
 
 # 30 November 2022
+
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 November 2022 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
 
 ## [Consumption Tax Trends 2022 - VAT/GST and Excise, Core Design Features and Trends](https://doi.org/10.1787/6525a942-en)
 
@@ -799,6 +731,33 @@ Wednesday 7 December 2022 at 11:00 | no launch event
 
 ------
 
+# 13 December 2022
+
+## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 December 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 14 December 2022
 
 ## [Going Digital to Advance Data Governance for Growth and Well-being](https://doi.org/10.1787/e3d783b0-en)
@@ -844,5 +803,97 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Fostering cross-border data flows with trust](https://doi.org/10.1787/139b32ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Measuring the value of data and data flows](https://doi.org/10.1787/923230a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
