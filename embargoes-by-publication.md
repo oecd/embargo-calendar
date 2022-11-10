@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 November 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Good Practice Principles for Public Service Design and Delivery in the Digital Age](https://doi.org/10.1787/2ade500b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Are Students Ready for Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 8 November 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 10 November 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Green hydrogen opportunities for emerging and developing economies - Identifying success factors for market development and building enabling conditions](https://doi.org/10.1787/53ad9f22-en)
 
@@ -381,7 +335,7 @@ Friday 11 November 2022 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -389,7 +343,7 @@ Friday 11 November 2022 at 8:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Podcast*
 * Formats: *MP3, PDF*
 
@@ -403,8 +357,8 @@ Monday 14 November 2022 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 9 November 2022 at 20:18
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
 
@@ -412,7 +366,7 @@ Monday 14 November 2022 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English || French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -426,16 +380,16 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 8 November 2022 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 8 November 2022 at 19:56
+- [x] Exported to OECD.org Thursday 10 November 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -483,7 +437,7 @@ Thursday 17 November 2022 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -506,7 +460,7 @@ Monday 21 November 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -644,7 +598,7 @@ Monday 5 December 2022 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -713,7 +667,7 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -737,6 +691,29 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Data in an evolving technological landscape - The case of connected and automated vehicles](https://doi.org/10.1787/ec7d2f6b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

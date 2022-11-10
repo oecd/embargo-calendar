@@ -2,89 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/2ade500b-end3e63
-SUMMARY:[Paper] OECD Good Practice Principles fo
- r Public Service Design and Delivery in 
- the Digital Age
-DESCRIPTION:*[Paper] OECD Good Practice Principles f
- or Public Service Design and Delivery in
-  the Digital Age*\n\nDirectorate: Direct
- orate for Public Governance\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/2ad
- e500b-en\nPublication type: Paper\nRelea
- sed as: PDF\n\nEmbargo date/time: Tuesda
- y, 8 November 2022, 6:00 (GMT)\n\n\niLib
- rary export: Tuesday, 8 November 2022, 1
- 9:21 (GMT)\nFreepreview export: never\nO
- ECD.org export: Tuesday, 8 November 2022
- , 18:56 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 20
- :41, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=2ade500b-en.
-DTSTAMP:20221109T204135Z
-DTSTART:20221108T060000Z
-DTEND:20221108T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] OECD Good Practice Pri
- nciples for Public Service Design and De
- livery in the Digital Age
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8abe655c-end3e170
-SUMMARY:[Book] Are Students Ready for Environmen
- tal Challenges?
-DESCRIPTION:*[Book] Are Students Ready for Environme
- ntal Challenges?*\n\nDirectorate: Direct
- orate for Education and Skills\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- 8abe655c-en\nPublication type: Book\nRel
- eased as: Paperback, PDF\n\nEmbargo date
- /time: Tuesday, 8 November 2022, 8:00 (G
- MT)\n\n\niLibrary export: never\nFreepre
- view export: never\nOECD.org export: nev
- er\nFTI loaded: ✗\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:41, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=8abe655c-en.
-DTSTAMP:20221109T204135Z
-DTSTART:20221108T080000Z
-DTEND:20221108T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Are Students Ready for 
- Environmental Challenges?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/53ad9f22-end3e221
+UID:10.1787/53ad9f22-end3e63
 SUMMARY:[Paper] Green hydrogen opportunities for
   emerging and developing economies - Ide
  ntifying success factors for market deve
@@ -106,7 +24,7 @@ DESCRIPTION:*[Paper] Green hydrogen opportunities fo
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:41, it is updated eac
+ is afternoon at 20:43, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -115,7 +33,7 @@ DESCRIPTION:*[Paper] Green hydrogen opportunities fo
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  3ad9f22-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T060000Z
 DTEND:20221109T061500Z
 TRANSP:TRANSPARENT
@@ -132,7 +50,7 @@ DESCRIPTION:Reminder: [Paper] Green hydrogen opportu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5bddad8-end3e278
+UID:10.1787/d5bddad8-end3e120
 SUMMARY:[Paper] Unlocking the potential of youth
  -led social enterprises
 DESCRIPTION:*[Paper] Unlocking the potential of yout
@@ -150,7 +68,7 @@ DESCRIPTION:*[Paper] Unlocking the potential of yout
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:41, it i
+ rect as of this afternoon at 20:43, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -159,7 +77,7 @@ DESCRIPTION:*[Paper] Unlocking the potential of yout
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=d5bddad8-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T060000Z
 DTEND:20221109T061500Z
 TRANSP:TRANSPARENT
@@ -173,7 +91,7 @@ DESCRIPTION:Reminder: [Paper] Unlocking the potentia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4844d7e6-end3e333
+UID:10.1787/4844d7e6-end3e176
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Morocco 2022 (Second Round) - Peer Rev
@@ -197,7 +115,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:41, it is updated eac
+ is afternoon at 20:43, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -206,7 +124,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=4
  844d7e6-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -223,7 +141,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0cb5c667-end3e497
+UID:10.1787/0cb5c667-end3e345
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : South Africa 2022 (Second Round, Combi
@@ -248,7 +166,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:41, it is updated each night; therefor
+ 0:43, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -256,7 +174,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=0cb5c667-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -274,7 +192,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e41db9cb-frd3e1205
+UID:10.1787/e41db9cb-frd3e1062
 SUMMARY:[Book] Forum mondial sur la transparence
   et l’échange de renseignements à des fi
  ns fiscales : Maroc 2022 (Deuxième cycle
@@ -299,7 +217,7 @@ DESCRIPTION:*[Book] Forum mondial sur la transparenc
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:41, it is updated each night; theref
+  20:43, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -307,7 +225,7 @@ DESCRIPTION:*[Book] Forum mondial sur la transparenc
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=e41db9cb-fr.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -325,7 +243,7 @@ DESCRIPTION:Reminder: [Book] Forum mondial sur la tr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/45cceecd-end3e1804
+UID:10.1787/45cceecd-end3e1670
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Kuwait 2022 (Second Round, Phase 1) - 
@@ -349,7 +267,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:41, it is upd
+ as of this afternoon at 20:43, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -358,7 +276,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=45cceecd-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -375,7 +293,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b2af0142-end3e2674
+UID:10.1787/b2af0142-end3e2546
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Türkiye 2022 (Second Round) - Peer Rev
@@ -399,7 +317,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:41, it is updated eac
+ is afternoon at 20:43, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -408,7 +326,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=b
  2af0142-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -425,7 +343,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02131c21-end3e2838
+UID:10.1787/02131c21-end3e2714
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Israel 2022 (Second Round, Phase 1) - 
@@ -449,7 +367,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:41, it is upd
+ as of this afternoon at 20:43, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -458,7 +376,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=02131c21-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -475,7 +393,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/599d21ac-end3e4034
+UID:10.1787/599d21ac-end3e3927
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Slovenia 2022 (Second Round) - Peer Re
@@ -499,7 +417,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 20:41, it is updated ea
+ his afternoon at 20:43, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -508,7 +426,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  599d21ac-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -525,7 +443,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5b2561d4-end3e4794
+UID:10.1787/5b2561d4-end3e4694
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Barbados 2022 (Second Round, Supplemen
@@ -550,7 +468,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:41, it is updated each night; therefor
+ 0:43, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -558,7 +476,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=5b2561d4-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -576,7 +494,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f27a2398-end3e6531
+UID:10.1787/f27a2398-end3e6447
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Iceland 2022 (Second Round) - Peer Rev
@@ -600,7 +518,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:41, it is updated eac
+ is afternoon at 20:43, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -609,7 +527,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=f
  27a2398-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -626,7 +544,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd96d135-end3e9188
+UID:10.1787/fd96d135-end3e9127
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Maldives 2022 (Second Round, Phase 1) 
@@ -650,7 +568,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:41, it is u
+ t as of this afternoon at 20:43, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -659,7 +577,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=fd96d135-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -676,7 +594,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/36e7cded-end3e10979
+UID:10.1787/36e7cded-end3e10938
 SUMMARY:[Stand-alone monograph] Peer Review of t
  he Automatic Exchange of Financial Accou
  nt Information 2022
@@ -697,7 +615,7 @@ DESCRIPTION:*[Stand-alone monograph] Peer Review of
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:41, it is updated each night; 
+ oon at 20:43, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -706,7 +624,7 @@ DESCRIPTION:*[Stand-alone monograph] Peer Review of
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=36e7cded-e
  n.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -721,7 +639,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Peer R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d3fade82-end3e11684
+UID:10.1787/d3fade82-end3e11649
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : British Virgin Islands 2022 (Second Ro
@@ -745,7 +663,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:41, it
+ orrect as of this afternoon at 20:43, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -754,7 +672,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=d3fade82-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221109T130000Z
 DTEND:20221109T131500Z
 TRANSP:TRANSPARENT
@@ -771,7 +689,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/451ae7a2-end3e14125
+UID:10.1787/451ae7a2-end3e14115
 SUMMARY:[Podcast] Time to act: Nurturing our dem
  ocracies for the 21st century
 DESCRIPTION:*[Podcast] Time to act: Nurturing our de
@@ -781,22 +699,23 @@ DESCRIPTION:*[Podcast] Time to act: Nurturing our de
  rg/10.1787/451ae7a2-en\nPublication type
  : Podcast\nReleased as: MP3, PDF\n\nEmba
  rgo date/time: Friday, 11 November 2022,
-  8:00 (GMT)\n\n\niLibrary export: never\
- nFreepreview export: never\nOECD.org exp
- ort: never\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:41
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=451ae7a2-en.
-DTSTAMP:20221109T204135Z
+  8:00 (GMT)\n\n\niLibrary export: Thursd
+ ay, 10 November 2022, 19:17 (GMT)\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 20:43, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=451ae7a2-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221111T080000Z
 DTEND:20221111T081500Z
 TRANSP:TRANSPARENT
@@ -810,7 +729,7 @@ DESCRIPTION:Reminder: [Podcast] Time to act: Nurturi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ea66fbde-en-frd3e14231
+UID:10.1787/ea66fbde-en-frd3e14710
 SUMMARY:[Book] Revenue Statistics in Africa 2022
   (en) || Statistiques des recettes publi
  ques en Afrique 2022
@@ -822,15 +741,15 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
  ://doi.org/10.1787/ea66fbde-en-fr\nPubli
  cation type: Book\nReleased as: PDF\n\nE
  mbargo date/time: Monday, 14 November 20
- 22, 13:00 (GMT)\n\n\niLibrary export: We
- dnesday, 9 November 2022, 19:18 (GMT)\nF
+ 22, 13:00 (GMT)\n\n\niLibrary export: Th
+ ursday, 10 November 2022, 19:17 (GMT)\nF
  reepreview export: never\nOECD.org expor
  t: Wednesday, 9 November 2022, 18:53 (GM
- T)\nFTI loaded: ✗\n\nFor more informatio
+ T)\nFTI loaded: ✓\n\nFor more informatio
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:41, it is 
+ ct as of this afternoon at 20:43, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -839,7 +758,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=ea66fbde-en-fr.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221114T130000Z
 DTEND:20221114T131500Z
 TRANSP:TRANSPARENT
@@ -854,7 +773,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7871c0ad-end3e14338
+UID:10.1787/7871c0ad-end3e15191
 SUMMARY:[Book] Equitable Framework and Finance f
  or Extractive-based Countries in Transit
  ion (EFFECT)
@@ -866,23 +785,23 @@ DESCRIPTION:*[Book] Equitable Framework and Finance
  ion type: Book\nReleased as: Paperback, 
  PDF\n\nEmbargo date/time: Tuesday, 15 No
  vember 2022, 9:00 (GMT)\n\n\niLibrary ex
- port: Tuesday, 8 November 2022, 19:21 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Tuesday, 8 November 2022, 18:56
-  (GMT)\nFTI loaded: ✗\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:41, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=7871c0ad-en.
-DTSTAMP:20221109T204135Z
+ port: Thursday, 10 November 2022, 19:17 
+ (GMT)\nFreepreview export: never\nOECD.o
+ rg export: Thursday, 10 November 2022, 1
+ 8:53 (GMT)\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:43
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=7871c0ad-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221115T090000Z
 DTEND:20221115T091500Z
 TRANSP:TRANSPARENT
@@ -897,7 +816,7 @@ DESCRIPTION:Reminder: [Book] Equitable Framework and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/23508323-end3e14392
+UID:10.1787/23508323-end3e15246
 SUMMARY:[Stand-alone monograph] Intermediary Cit
  ies and Climate Change - An Opportunity 
  for Sustainable Development
@@ -916,7 +835,7 @@ DESCRIPTION:*[Stand-alone monograph] Intermediary Ci
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:41, it is updated each night; theref
+  20:43, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -924,7 +843,7 @@ DESCRIPTION:*[Stand-alone monograph] Intermediary Ci
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=23508323-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221116T090000Z
 DTEND:20221116T091500Z
 TRANSP:TRANSPARENT
@@ -939,7 +858,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Interm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9409d9b6-end3e14498
+UID:10.1787/9409d9b6-end3e15457
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Luxembourg 2022
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -947,24 +866,24 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mics Department\nLanguage: English\nDOI:
   https://doi.org/10.1787/9409d9b6-en\nPu
  blication type: Economic survey\nRelease
- d as: Paperback, PDF\n\nEmbargo date/tim
- e: Thursday, 17 November 2022, 14:00 (GM
- T)\n\n\niLibrary export: never\nFreeprev
- iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✗\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 20:41, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=9409d9b6-en.
-DTSTAMP:20221109T204135Z
+ d as: ePub, HTML, Paperback, PDF\n\nEmba
+ rgo date/time: Thursday, 17 November 202
+ 2, 14:00 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✗\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :43, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=9409d9b6-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221117T140000Z
 DTEND:20221117T141500Z
 TRANSP:TRANSPARENT
@@ -978,7 +897,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c77c7a97-end3e14656
+UID:10.1787/c77c7a97-end3e15721
 SUMMARY:[Book] Education Policy Outlook 2022 - T
  ransforming Pathways for Lifelong Learne
  rs
@@ -987,25 +906,25 @@ DESCRIPTION:*[Book] Education Policy Outlook 2022 -
  ers*\n\nDirectorate: Directorate for Edu
  cation and Skills\nLanguage: English\nDO
  I: https://doi.org/10.1787/c77c7a97-en\n
- Publication type: Book\nReleased as: Pap
- erback, PDF\n\nEmbargo date/time: Monday
- , 21 November 2022, 9:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 20:41, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=c77
- c7a97-en.
-DTSTAMP:20221109T204135Z
+ Publication type: Book\nReleased as: ePu
+ b, HTML, Paperback, PDF\n\nEmbargo date/
+ time: Monday, 21 November 2022, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:43, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=c77c7a97-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221121T090000Z
 DTEND:20221121T091500Z
 TRANSP:TRANSPARENT
@@ -1020,7 +939,7 @@ DESCRIPTION:Reminder: [Book] Education Policy Outloo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5aeddbfe-end3e14761
+UID:10.1787/5aeddbfe-end3e15826
 SUMMARY:[Book] Introduction Measures for Newly-A
  rrived Migrants
 DESCRIPTION:*[Book] Introduction Measures for Newly-
@@ -1037,7 +956,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:41, it is updated 
+  this afternoon at 20:43, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1046,7 +965,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=5aeddbfe-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221130T090000Z
 DTEND:20221130T091500Z
 TRANSP:TRANSPARENT
@@ -1060,7 +979,7 @@ DESCRIPTION:Reminder: [Book] Introduction Measures f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6525a942-end3e14970
+UID:10.1787/6525a942-end3e16035
 SUMMARY:[Book] Consumption Tax Trends 2022 - VAT
  /GST and Excise, Core Design Features an
  d Trends
@@ -1078,7 +997,7 @@ DESCRIPTION:*[Book] Consumption Tax Trends 2022 - VA
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:41, it is
+ ect as of this afternoon at 20:43, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -1087,7 +1006,7 @@ DESCRIPTION:*[Book] Consumption Tax Trends 2022 - VA
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=6525a942-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -1102,7 +1021,7 @@ DESCRIPTION:Reminder: [Book] Consumption Tax Trends
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a691b03-end3e15076
+UID:10.1787/8a691b03-end3e16141
 SUMMARY:[Book] Revenue Statistics 2022 - The Imp
  act of COVID-19 on OECD Tax Revenues
 DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
@@ -1119,7 +1038,7 @@ DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:41, it is updated eac
+ is afternoon at 20:43, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -1128,7 +1047,7 @@ DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=8
  a691b03-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -1143,7 +1062,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96463460-frd3e15129
+UID:10.1787/96463460-frd3e16194
 SUMMARY:[Book] Statistiques des recettes publiqu
  es 2022 - L'impact du COVID-19 sur les r
  ecettes fiscales de l'OCDE
@@ -1162,7 +1081,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:41, it is updated each night; th
+ n at 20:43, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1170,7 +1089,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=96463460-fr.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -1185,7 +1104,7 @@ DESCRIPTION:Reminder: [Book] Statistiques des recett
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e15287
+UID:10.1787/e6bda0b2-end3e16352
 SUMMARY:[Book] OECD Public Governance Reviews: H
  onduras - Inclusive and Effective Govern
  ance for Better Outcomes
@@ -1203,7 +1122,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:41, i
+ correct as of this afternoon at 20:43, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1212,7 +1131,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=e6bda0b2-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221205T080000Z
 DTEND:20221205T081500Z
 TRANSP:TRANSPARENT
@@ -1227,7 +1146,7 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/507433b0-end3e15339
+UID:10.1787/507433b0-end3e16457
 SUMMARY:[Book] Health at a Glance: Europe 2022 -
   State of Health in the EU Cycle
 DESCRIPTION:*[Book] Health at a Glance: Europe 2022 
@@ -1236,24 +1155,24 @@ DESCRIPTION:*[Book] Health at a Glance: Europe 2022
  abour and Social Affairs\nLanguage: Engl
  ish\nDOI: https://doi.org/10.1787/507433
  b0-en\nPublication type: Book\nReleased 
- as: Paperback, PDF\n\nEmbargo date/time:
-  Monday, 5 December 2022, 13:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 20:41, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=507433b0-en.
-DTSTAMP:20221109T204135Z
+ as: ePub, HTML, Paperback, PDF\n\nEmbarg
+ o date/time: Monday, 5 December 2022, 13
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✗\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 20:43, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=507433b0-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221205T130000Z
 DTEND:20221205T131500Z
 TRANSP:TRANSPARENT
@@ -1268,7 +1187,7 @@ DESCRIPTION:Reminder: [Book] Health at a Glance: Eur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e16403
+UID:10.1787/0d1792c6-esd3e17574
 SUMMARY:[Stand-alone monograph] Compendio de Prá
  cticas de las Organizaciones Internacion
  ales - Trabajando hacia instrumentos int
@@ -1289,7 +1208,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendio de Pr
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:41, it is 
+ ct as of this afternoon at 20:43, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1298,7 +1217,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendio de Pr
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=0d1792c6-es.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221207T110000Z
 DTEND:20221207T111500Z
 TRANSP:TRANSPARENT
@@ -1314,7 +1233,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9c3ad238-end3e16988
+UID:10.1787/9c3ad238-end3e18159
 SUMMARY:[Book] OECD Review of Fisheries 2022
 DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  \nDirectorate: Trade and Agriculture Dir
@@ -1329,7 +1248,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:41, it is updated each night; t
+ on at 20:43, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1338,7 +1257,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=9c3ad238-en
  .
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221213T070000Z
 DTEND:20221213T071500Z
 TRANSP:TRANSPARENT
@@ -1352,7 +1271,7 @@ DESCRIPTION:Reminder: [Book] OECD Review of Fisherie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e3d783b0-end3e17039
+UID:10.1787/e3d783b0-end3e18210
 SUMMARY:[Stand-alone monograph] Going Digital to
   Advance Data Governance for Growth and 
  Well-being
@@ -1362,24 +1281,25 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital t
   for Science, Technology and Industry\nL
  anguage: English\nDOI: https://doi.org/1
  0.1787/e3d783b0-en\nPublication type: St
- and-alone monograph\nReleased as: PDF\n\
- nEmbargo date/time: Wednesday, 14 Decemb
- er 2022, 9:59 (GMT)\n\n\niLibrary export
- : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✗\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 20:41, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=e3d783b0-en.
-DTSTAMP:20221109T204135Z
+ and-alone monograph\nReleased as: HTML, 
+ Paperback, PDF\n\nEmbargo date/time: Wed
+ nesday, 14 December 2022, 9:59 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 20:43, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=e3d783b0-en.
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095900Z
 DTEND:20221214T101400Z
 TRANSP:TRANSPARENT
@@ -1394,7 +1314,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40d53904-end3e17091
+UID:10.1787/40d53904-end3e18263
 SUMMARY:[Stand-alone monograph] Going Digital Gu
  ide to Data Governance Policy Making
 DESCRIPTION:*[Stand-alone monograph] Going Digital G
@@ -1412,7 +1332,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital G
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:41, it is updated each night; therefo
+ 20:43, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -1420,7 +1340,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital G
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=40d53904-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095900Z
 DTEND:20221214T101400Z
 TRANSP:TRANSPARENT
@@ -1435,7 +1355,49 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/139b32ad-end3e17196
+UID:10.1787/ec7d2f6b-end3e18367
+SUMMARY:[Paper] Data in an evolving technologica
+ l landscape - The case of connected and 
+ automated vehicles
+DESCRIPTION:*[Paper] Data in an evolving technologic
+ al landscape - The case of connected and
+  automated vehicles*\n\nDirectorate: Dir
+ ectorate for Science, Technology and Ind
+ ustry\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/ec7d2f6b-en\nPublication 
+ type: Paper\nReleased as: PDF\n\nEmbargo
+  date/time: Wednesday, 14 December 2022,
+  9:59 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✗\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:43
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=ec7d2f6b-en.
+DTSTAMP:20221110T204310Z
+DTSTART:20221214T095903Z
+DTEND:20221214T101403Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Paper] Data in an evolving te
+ chnological landscape - The case of conn
+ ected and automated vehicles
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/139b32ad-end3e18420
 SUMMARY:[Paper] Fostering cross-border data flow
  s with trust
 DESCRIPTION:*[Paper] Fostering cross-border data flo
@@ -1451,7 +1413,7 @@ DESCRIPTION:*[Paper] Fostering cross-border data flo
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:41, it i
+ rect as of this afternoon at 20:43, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1460,7 +1422,7 @@ DESCRIPTION:*[Paper] Fostering cross-border data flo
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=139b32ad-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095925Z
 DTEND:20221214T101425Z
 TRANSP:TRANSPARENT
@@ -1474,7 +1436,7 @@ DESCRIPTION:Reminder: [Paper] Fostering cross-border
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/923230a6-end3e17248
+UID:10.1787/923230a6-end3e18472
 SUMMARY:[Paper] Measuring the value of data and 
  data flows
 DESCRIPTION:*[Paper] Measuring the value of data and
@@ -1490,7 +1452,7 @@ DESCRIPTION:*[Paper] Measuring the value of data and
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:41, it is 
+ ct as of this afternoon at 20:43, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1499,7 +1461,7 @@ DESCRIPTION:*[Paper] Measuring the value of data and
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=923230a6-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095929Z
 DTEND:20221214T101429Z
 TRANSP:TRANSPARENT
@@ -1513,7 +1475,7 @@ DESCRIPTION:Reminder: [Paper] Measuring the value of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2182ce9f-end3e17300
+UID:10.1787/2182ce9f-end3e18524
 SUMMARY:[Paper] Responding to societal challenge
  s with data - Access, sharing, stewardsh
  ip and control
@@ -1531,7 +1493,7 @@ DESCRIPTION:*[Paper] Responding to societal challeng
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:41, it
+ orrect as of this afternoon at 20:43, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1540,7 +1502,7 @@ DESCRIPTION:*[Paper] Responding to societal challeng
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=2182ce9f-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095949Z
 DTEND:20221214T101449Z
 TRANSP:TRANSPARENT
@@ -1555,7 +1517,7 @@ DESCRIPTION:Reminder: [Paper] Responding to societal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b1a2d70-end3e17353
+UID:10.1787/7b1a2d70-end3e18578
 SUMMARY:[Paper] Data shaping firms and markets
 DESCRIPTION:*[Paper] Data shaping firms and markets*
  \n\nDirectorate: Directorate for Science
@@ -1570,7 +1532,7 @@ DESCRIPTION:*[Paper] Data shaping firms and markets*
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:41, it is updated each
+ s afternoon at 20:43, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -1579,7 +1541,7 @@ DESCRIPTION:*[Paper] Data shaping firms and markets*
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=7b
  1a2d70-en.
-DTSTAMP:20221109T204135Z
+DTSTAMP:20221110T204310Z
 DTSTART:20221214T095955Z
 DTEND:20221214T101455Z
 TRANSP:TRANSPARENT
