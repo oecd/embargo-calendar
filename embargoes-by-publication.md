@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 November 2022 at 20:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Time to act: Nurturing our democracies for the 21st century](https://doi.org/10.1787/451ae7a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 November 2022 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Podcast*
-* Formats: *MP3, PDF*
-
-------
+| *Sunday 13 November 2022 at 20:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Africa 2022 (en) || Statistiques des recettes publiques en Afrique 2022](https://doi.org/10.1787/ea66fbde-en-fr)
 
@@ -38,7 +15,7 @@ Monday 14 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 9 November 2022 at 19:53
+- [x] Exported to OECD.org Sunday 13 November 2022 at 19:50
 
 ### Additional Information
 

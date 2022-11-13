@@ -2,47 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/451ae7a2-end3e63
-SUMMARY:[Podcast] Time to act: Nurturing our dem
- ocracies for the 21st century
-DESCRIPTION:*[Podcast] Time to act: Nurturing our de
- mocracies for the 21st century*\n\nDirec
- torate: Directorate for Public Governanc
- e\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/451ae7a2-en\nPublication type
- : Podcast\nReleased as: MP3, PDF\n\nEmba
- rgo date/time: Friday, 11 November 2022,
-  8:00 (GMT)\n\n\niLibrary export: Thursd
- ay, 10 November 2022, 19:17 (GMT)\nFreep
- review export: never\nOECD.org export: n
- ever\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 20:31, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=451ae7a2-en.
-DTSTAMP:20221111T203107Z
-DTSTART:20221111T080000Z
-DTEND:20221111T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Podcast] Time to act: Nurturi
- ng our democracies for the 21st century
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ea66fbde-en-frd3e659
+UID:10.1787/ea66fbde-en-frd3e550
 SUMMARY:[Book] Revenue Statistics in Africa 2022
   (en) || Statistiques des recettes publi
  ques en Afrique 2022
@@ -57,21 +17,21 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
  22, 13:00 (GMT)\n\n\niLibrary export: Th
  ursday, 10 November 2022, 19:17 (GMT)\nF
  reepreview export: never\nOECD.org expor
- t: Wednesday, 9 November 2022, 18:53 (GM
- T)\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:31, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=ea66fbde-en-fr.
-DTSTAMP:20221111T203107Z
+ t: Sunday, 13 November 2022, 18:50 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:28, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=ea66fbde-en-fr.
+DTSTAMP:20221113T202821Z
 DTSTART:20221114T130000Z
 DTEND:20221114T131500Z
 TRANSP:TRANSPARENT
@@ -86,7 +46,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7871c0ad-end3e1139
+UID:10.1787/7871c0ad-end3e1031
 SUMMARY:[Book] Equitable Framework and Finance f
  or Extractive-based Countries in Transit
  ion (EFFECT)
@@ -105,7 +65,7 @@ DESCRIPTION:*[Book] Equitable Framework and Finance
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:31, 
+  correct as of this afternoon at 20:28, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -114,7 +74,7 @@ DESCRIPTION:*[Book] Equitable Framework and Finance
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=7871c0ad-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221115T090000Z
 DTEND:20221115T091500Z
 TRANSP:TRANSPARENT
@@ -129,7 +89,7 @@ DESCRIPTION:Reminder: [Book] Equitable Framework and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/23508323-end3e1194
+UID:10.1787/23508323-end3e1086
 SUMMARY:[Stand-alone monograph] Intermediary Cit
  ies and Climate Change - An Opportunity 
  for Sustainable Development
@@ -148,7 +108,7 @@ DESCRIPTION:*[Stand-alone monograph] Intermediary Ci
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  20:31, it is updated each night; theref
+  20:28, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -156,7 +116,7 @@ DESCRIPTION:*[Stand-alone monograph] Intermediary Ci
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=23508323-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221116T090000Z
 DTEND:20221116T091500Z
 TRANSP:TRANSPARENT
@@ -171,7 +131,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Interm
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9409d9b6-end3e1405
+UID:10.1787/9409d9b6-end3e1297
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Luxembourg 2022
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -188,7 +148,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :31, it is updated each night; therefore
+ :28, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -196,7 +156,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=9409d9b6-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221117T140000Z
 DTEND:20221117T141500Z
 TRANSP:TRANSPARENT
@@ -210,7 +170,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c77c7a97-end3e1669
+UID:10.1787/c77c7a97-end3e1561
 SUMMARY:[Book] Education Policy Outlook 2022 - T
  ransforming Pathways for Lifelong Learne
  rs
@@ -228,7 +188,7 @@ DESCRIPTION:*[Book] Education Policy Outlook 2022 -
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:31, it is u
+ t as of this afternoon at 20:28, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -237,7 +197,7 @@ DESCRIPTION:*[Book] Education Policy Outlook 2022 -
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=c77c7a97-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221121T090000Z
 DTEND:20221121T091500Z
 TRANSP:TRANSPARENT
@@ -252,7 +212,7 @@ DESCRIPTION:Reminder: [Book] Education Policy Outloo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5aeddbfe-end3e1774
+UID:10.1787/5aeddbfe-end3e1666
 SUMMARY:[Book] Introduction Measures for Newly-A
  rrived Migrants
 DESCRIPTION:*[Book] Introduction Measures for Newly-
@@ -269,7 +229,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 20:31, it is updated 
+  this afternoon at 20:28, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -278,7 +238,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=5aeddbfe-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221130T090000Z
 DTEND:20221130T091500Z
 TRANSP:TRANSPARENT
@@ -292,7 +252,7 @@ DESCRIPTION:Reminder: [Book] Introduction Measures f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6525a942-end3e1983
+UID:10.1787/6525a942-end3e1875
 SUMMARY:[Book] Consumption Tax Trends 2022 - VAT
  /GST and Excise, Core Design Features an
  d Trends
@@ -310,7 +270,7 @@ DESCRIPTION:*[Book] Consumption Tax Trends 2022 - VA
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:31, it is
+ ect as of this afternoon at 20:28, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -319,7 +279,7 @@ DESCRIPTION:*[Book] Consumption Tax Trends 2022 - VA
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=6525a942-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -334,7 +294,7 @@ DESCRIPTION:Reminder: [Book] Consumption Tax Trends
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a691b03-end3e2089
+UID:10.1787/8a691b03-end3e1981
 SUMMARY:[Book] Revenue Statistics 2022 - The Imp
  act of COVID-19 on OECD Tax Revenues
 DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
@@ -351,7 +311,7 @@ DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:31, it is updated eac
+ is afternoon at 20:28, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -360,7 +320,7 @@ DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=8
  a691b03-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -375,7 +335,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96463460-frd3e2142
+UID:10.1787/96463460-frd3e2034
 SUMMARY:[Book] Statistiques des recettes publiqu
  es 2022 - L'impact du COVID-19 sur les r
  ecettes fiscales de l'OCDE
@@ -394,7 +354,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:31, it is updated each night; th
+ n at 20:28, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -402,7 +362,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=96463460-fr.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -417,7 +377,7 @@ DESCRIPTION:Reminder: [Book] Statistiques des recett
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e2300
+UID:10.1787/e6bda0b2-end3e2192
 SUMMARY:[Book] OECD Public Governance Reviews: H
  onduras - Inclusive and Effective Govern
  ance for Better Outcomes
@@ -435,7 +395,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:31, i
+ correct as of this afternoon at 20:28, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -444,7 +404,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=e6bda0b2-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221205T080000Z
 DTEND:20221205T081500Z
 TRANSP:TRANSPARENT
@@ -459,7 +419,7 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/507433b0-end3e2405
+UID:10.1787/507433b0-end3e2297
 SUMMARY:[Book] Health at a Glance: Europe 2022 -
   State of Health in the EU Cycle
 DESCRIPTION:*[Book] Health at a Glance: Europe 2022 
@@ -476,7 +436,7 @@ DESCRIPTION:*[Book] Health at a Glance: Europe 2022
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:31, 
+  correct as of this afternoon at 20:28, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -485,7 +445,7 @@ DESCRIPTION:*[Book] Health at a Glance: Europe 2022
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=507433b0-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221205T130000Z
 DTEND:20221205T131500Z
 TRANSP:TRANSPARENT
@@ -500,7 +460,7 @@ DESCRIPTION:Reminder: [Book] Health at a Glance: Eur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e3523
+UID:10.1787/0d1792c6-esd3e3414
 SUMMARY:[Stand-alone monograph] Compendio de Prá
  cticas de las Organizaciones Internacion
  ales - Trabajando hacia instrumentos int
@@ -521,7 +481,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendio de Pr
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:31, it is 
+ ct as of this afternoon at 20:28, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -530,7 +490,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendio de Pr
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=0d1792c6-es.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221207T110000Z
 DTEND:20221207T111500Z
 TRANSP:TRANSPARENT
@@ -546,7 +506,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9c3ad238-end3e4108
+UID:10.1787/9c3ad238-end3e3999
 SUMMARY:[Book] OECD Review of Fisheries 2022
 DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  \nDirectorate: Trade and Agriculture Dir
@@ -561,7 +521,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 20:31, it is updated each night; t
+ on at 20:28, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -570,7 +530,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=9c3ad238-en
  .
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221213T070000Z
 DTEND:20221213T071500Z
 TRANSP:TRANSPARENT
@@ -584,7 +544,7 @@ DESCRIPTION:Reminder: [Book] OECD Review of Fisherie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e3d783b0-end3e4159
+UID:10.1787/e3d783b0-end3e4050
 SUMMARY:[Stand-alone monograph] Going Digital to
   Advance Data Governance for Growth and 
  Well-being
@@ -603,7 +563,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital t
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:31, it is updated
+ f this afternoon at 20:28, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -612,7 +572,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital t
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=e3d783b0-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095900Z
 DTEND:20221214T101400Z
 TRANSP:TRANSPARENT
@@ -627,7 +587,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40d53904-end3e4211
+UID:10.1787/40d53904-end3e4103
 SUMMARY:[Stand-alone monograph] Going Digital Gu
  ide to Data Governance Policy Making
 DESCRIPTION:*[Stand-alone monograph] Going Digital G
@@ -645,7 +605,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital G
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 20:31, it is updated each night; therefo
+ 20:28, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -653,7 +613,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital G
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=40d53904-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095900Z
 DTEND:20221214T101400Z
 TRANSP:TRANSPARENT
@@ -668,7 +628,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec7d2f6b-end3e4315
+UID:10.1787/ec7d2f6b-end3e4207
 SUMMARY:[Paper] Data in an evolving technologica
  l landscape - The case of connected and 
  automated vehicles
@@ -686,7 +646,7 @@ DESCRIPTION:*[Paper] Data in an evolving technologic
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:31
+ as correct as of this afternoon at 20:28
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -695,7 +655,7 @@ DESCRIPTION:*[Paper] Data in an evolving technologic
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=ec7d2f6b-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095903Z
 DTEND:20221214T101403Z
 TRANSP:TRANSPARENT
@@ -710,7 +670,7 @@ DESCRIPTION:Reminder: [Paper] Data in an evolving te
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/139b32ad-end3e4368
+UID:10.1787/139b32ad-end3e4260
 SUMMARY:[Paper] Fostering cross-border data flow
  s with trust
 DESCRIPTION:*[Paper] Fostering cross-border data flo
@@ -726,7 +686,7 @@ DESCRIPTION:*[Paper] Fostering cross-border data flo
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:31, it i
+ rect as of this afternoon at 20:28, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -735,7 +695,7 @@ DESCRIPTION:*[Paper] Fostering cross-border data flo
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=139b32ad-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095925Z
 DTEND:20221214T101425Z
 TRANSP:TRANSPARENT
@@ -749,7 +709,7 @@ DESCRIPTION:Reminder: [Paper] Fostering cross-border
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/923230a6-end3e4421
+UID:10.1787/923230a6-end3e4312
 SUMMARY:[Paper] Measuring the value of data and 
  data flows
 DESCRIPTION:*[Paper] Measuring the value of data and
@@ -765,7 +725,7 @@ DESCRIPTION:*[Paper] Measuring the value of data and
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:31, it is 
+ ct as of this afternoon at 20:28, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -774,7 +734,7 @@ DESCRIPTION:*[Paper] Measuring the value of data and
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=923230a6-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095929Z
 DTEND:20221214T101429Z
 TRANSP:TRANSPARENT
@@ -788,7 +748,7 @@ DESCRIPTION:Reminder: [Paper] Measuring the value of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2182ce9f-end3e4473
+UID:10.1787/2182ce9f-end3e4364
 SUMMARY:[Paper] Responding to societal challenge
  s with data - Access, sharing, stewardsh
  ip and control
@@ -806,7 +766,7 @@ DESCRIPTION:*[Paper] Responding to societal challeng
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 20:31, it
+ orrect as of this afternoon at 20:28, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -815,7 +775,7 @@ DESCRIPTION:*[Paper] Responding to societal challeng
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=2182ce9f-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095949Z
 DTEND:20221214T101449Z
 TRANSP:TRANSPARENT
@@ -830,7 +790,7 @@ DESCRIPTION:Reminder: [Paper] Responding to societal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b1a2d70-end3e4526
+UID:10.1787/7b1a2d70-end3e4418
 SUMMARY:[Paper] Data shaping firms and markets
 DESCRIPTION:*[Paper] Data shaping firms and markets*
  \n\nDirectorate: Directorate for Science
@@ -845,7 +805,7 @@ DESCRIPTION:*[Paper] Data shaping firms and markets*
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:31, it is updated each
+ s afternoon at 20:28, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -854,7 +814,7 @@ DESCRIPTION:*[Paper] Data shaping firms and markets*
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=7b
  1a2d70-en.
-DTSTAMP:20221111T203107Z
+DTSTAMP:20221113T202821Z
 DTSTART:20221214T095955Z
 DTEND:20221214T101455Z
 TRANSP:TRANSPARENT
