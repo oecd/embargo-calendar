@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 November 2022 at 20:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 November 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 November 2022](#14-november-2022)
 * [15 November 2022](#15-november-2022)
@@ -30,7 +30,7 @@ Monday 14 November 2022 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 13 November 2022 at 19:50
+- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
 
 ### Additional Information
 
@@ -55,9 +55,9 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 November 2022 at 20:09
+- [x] Exported to iLibrary Monday 14 November 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 10 November 2022 at 19:53
+- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
 
 ### Additional Information
 
@@ -65,7 +65,30 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Measuring the environmental impacts of artificial intelligence compute and applications - The AI footprint](https://doi.org/10.1787/7babf571-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 November 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 November 2022 at 20:18
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -120,6 +143,29 @@ Thursday 17 November 2022 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Luxembourg 2022](https://doi.org/10.1787/5319b66e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 November 2022 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -512,5 +558,28 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Harmful Tax Practices – 2021 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/4034ce42-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
