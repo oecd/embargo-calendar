@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 November 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 15 November 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 November 2022](#14-november-2022)
 * [15 November 2022](#15-november-2022)
@@ -12,6 +12,7 @@ Data generated on | |
 * [30 November 2022](#30-november-2022)
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
+* [8 December 2022](#8-december-2022)
 * [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
 
@@ -55,9 +56,9 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 November 2022 at 20:18
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
@@ -80,7 +81,7 @@ Tuesday 15 November 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 November 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
@@ -104,18 +105,18 @@ Wednesday 16 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -371,6 +372,33 @@ Wednesday 7 December 2022 at 11:00 | no launch event
 
 ------
 
+# 8 December 2022
+
+## [Are Students Ready for Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 13 December 2022
 
 ## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
@@ -446,6 +474,29 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ------
 
+## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Data in an evolving technological landscape - The case of connected and automated vehicles](https://doi.org/10.1787/ec7d2f6b-en)
 
 Embargo date | Launch date
@@ -515,7 +566,7 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ------
 
-## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -538,11 +589,11 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ------
 
-## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
+## [OECD Economic Surveys: Ireland 2022](https://doi.org/10.1787/46a6ea85-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
+Wednesday 14 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
@@ -553,11 +604,11 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 

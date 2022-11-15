@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 November 2022 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 November 2022 at 20:40* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Revenue Statistics in Africa 2022 (en) || Statistiques des recettes publiques en Afrique 2022](https://doi.org/10.1787/ea66fbde-en-fr)
 
@@ -36,9 +36,9 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 November 2022 at 20:18
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 15 November 2022 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 14 November 2022 at 20:18
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
@@ -81,18 +81,18 @@ Wednesday 16 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -326,6 +326,29 @@ Wednesday 7 December 2022 at 11:00 | no launch event
 
 ------
 
+## [Are Students Ready for Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
 
 Embargo date | Launch date
@@ -392,6 +415,29 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 9:59 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -464,7 +510,7 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ------
 
-## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -487,11 +533,11 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ------
 
-## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
+## [OECD Economic Surveys: Ireland 2022](https://doi.org/10.1787/46a6ea85-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
+Wednesday 14 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
@@ -502,11 +548,11 @@ Wednesday 14 December 2022 at 9:59 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
