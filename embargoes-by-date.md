@@ -2,46 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 November 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 16 November 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 November 2022](#14-november-2022)
 * [15 November 2022](#15-november-2022)
 * [16 November 2022](#16-november-2022)
 * [17 November 2022](#17-november-2022)
 * [21 November 2022](#21-november-2022)
+* [22 November 2022](#22-november-2022)
 * [30 November 2022](#30-november-2022)
 * [5 December 2022](#5-december-2022)
 * [7 December 2022](#7-december-2022)
 * [8 December 2022](#8-december-2022)
 * [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 14 November 2022
-
-## [Revenue Statistics in Africa 2022 (en) || Statistiques des recettes publiques en Afrique 2022](https://doi.org/10.1787/ea66fbde-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 November 2022 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 10 November 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 14 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -56,7 +29,7 @@ Tuesday 15 November 2022 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
 
@@ -108,7 +81,7 @@ Wednesday 16 November 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
 
 ### Additional Information
 
@@ -132,7 +105,7 @@ Thursday 17 November 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -155,7 +128,7 @@ Thursday 17 November 2022 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,6 +155,33 @@ Monday 21 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 22 November 2022
+
+## [Perspectives économiques de l'OCDE, Volume 2022 Numéro 2 - Version préliminaire](https://doi.org/10.1787/25b26d2e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 November 2022 at 10:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -189,11 +189,34 @@ Monday 21 November 2022 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2022 Issue 2 - Preliminary version](https://doi.org/10.1787/f6da2159-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 November 2022 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -428,167 +451,6 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 
 # 14 December 2022
 
-## [Going Digital to Advance Data Governance for Growth and Well-being](https://doi.org/10.1787/e3d783b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Going Digital Guide to Data Governance Policy Making](https://doi.org/10.1787/40d53904-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Data in an evolving technological landscape - The case of connected and automated vehicles](https://doi.org/10.1787/ec7d2f6b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Fostering cross-border data flows with trust](https://doi.org/10.1787/139b32ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Measuring the value of data and data flows](https://doi.org/10.1787/923230a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 December 2022 at 9:59 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: Ireland 2022](https://doi.org/10.1787/46a6ea85-en)
 
 Embargo date | Launch date
@@ -632,5 +494,166 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Responding to societal challenges with data - Access, sharing, stewardship and control](https://doi.org/10.1787/2182ce9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:25 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 14:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Fostering cross-border data flows with trust](https://doi.org/10.1787/139b32ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:26 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Data shaping firms and markets](https://doi.org/10.1787/7b1a2d70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:27 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Measuring the value of data and data flows](https://doi.org/10.1787/923230a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:28 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Going Digital to Advance Data Governance for Growth and Well-being](https://doi.org/10.1787/e3d783b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:29 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Going Digital Guide to Data Governance Policy Making](https://doi.org/10.1787/40d53904-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:29 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Data in an evolving technological landscape - The case of connected and automated vehicles](https://doi.org/10.1787/ec7d2f6b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:29 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
