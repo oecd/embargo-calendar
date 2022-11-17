@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 November 2022 at 20:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 November 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 November 2022](#15-november-2022)
 * [16 November 2022](#16-november-2022)
 * [17 November 2022](#17-november-2022)
 * [21 November 2022](#21-november-2022)
@@ -15,56 +14,6 @@ Data generated on | |
 * [8 December 2022](#8-december-2022)
 * [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 15 November 2022
-
-## [Equitable Framework and Finance for Extractive-based Countries in Transition (EFFECT)](https://doi.org/10.1787/7871c0ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 November 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Measuring the environmental impacts of artificial intelligence compute and applications - The AI footprint](https://doi.org/10.1787/7babf571-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 November 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 November 2022 at 20:18
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 15 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -106,15 +55,15 @@ Thursday 17 November 2022 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -129,15 +78,15 @@ Thursday 17 November 2022 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -146,6 +95,52 @@ Thursday 17 November 2022 at 14:00 | no launch event
 ------
 
 # 21 November 2022
+
+## [Measuring data as an asset - Framework, methods and preliminary estimates](https://doi.org/10.1787/b840fb01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 November 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Estimating the CO2 emission and revenue effects of carbon pricing - New evidence from a large cross-country dataset](https://doi.org/10.1787/39aa16d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 November 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Education Policy Outlook 2022 - Transforming Pathways for Lifelong Learners](https://doi.org/10.1787/c77c7a97-en)
 
