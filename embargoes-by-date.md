@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 November 2022 at 20:40* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 November 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 November 2022](#16-november-2022)
 * [17 November 2022](#17-november-2022)
+* [20 November 2022](#20-november-2022)
 * [21 November 2022](#21-november-2022)
 * [22 November 2022](#22-november-2022)
 * [30 November 2022](#30-november-2022)
@@ -14,33 +14,6 @@ Data generated on | |
 * [8 December 2022](#8-december-2022)
 * [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 16 November 2022
-
-## [Intermediary Cities and Climate Change - An Opportunity for Sustainable Development](https://doi.org/10.1787/23508323-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 November 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 November 2022 at 20:17
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -89,6 +62,33 @@ Thursday 17 November 2022 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 November 2022
+
+## [تمكين الشباب وبناء الثقة في الأردن](https://doi.org/10.1787/67b9357b-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 20 November 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 November 2022 at 20:15
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 18 November 2022 at 19:52
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Arabic*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -408,6 +408,29 @@ Thursday 8 December 2022 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Multi-dimensional Review of the Dominican Republic - Towards Greater Well-being for All](https://doi.org/10.1787/560c12bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
