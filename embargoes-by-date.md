@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 November 2022 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 20 November 2022 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 November 2022](#17-november-2022)
 * [20 November 2022](#20-november-2022)
 * [21 November 2022](#21-november-2022)
 * [22 November 2022](#22-november-2022)
@@ -14,56 +13,6 @@ Data generated on | |
 * [8 December 2022](#8-december-2022)
 * [13 December 2022](#13-december-2022)
 * [14 December 2022](#14-december-2022)
-
-------
-
-# 17 November 2022
-
-## [OECD Economic Surveys: Luxembourg 2022](https://doi.org/10.1787/9409d9b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 November 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Études économiques de l'OCDE : Luxembourg 2022](https://doi.org/10.1787/5319b66e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 November 2022 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -80,7 +29,7 @@ Sunday 20 November 2022 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 18 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 18 November 2022 at 19:52
+- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
 
 ### Additional Information
 
@@ -107,7 +56,7 @@ Monday 21 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
+- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
 
 ### Additional Information
 
@@ -130,7 +79,7 @@ Monday 21 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 November 2022 at 19:53
+- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
 
 ### Additional Information
 
@@ -153,7 +102,7 @@ Monday 21 November 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 16 November 2022 at 19:52
+- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
 
 ### Additional Information
 
@@ -200,7 +149,7 @@ Tuesday 22 November 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
