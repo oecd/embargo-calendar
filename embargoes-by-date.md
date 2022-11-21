@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 November 2022 at 20:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 21 November 2022 at 20:41* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 November 2022](#20-november-2022)
 * [21 November 2022](#21-november-2022)
@@ -56,7 +56,7 @@ Monday 21 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
+- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Monday 21 November 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
+- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
 
 ### Additional Information
 
@@ -102,7 +102,7 @@ Monday 21 November 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 20 November 2022 at 19:51
+- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
 
 ### Additional Information
 
@@ -117,6 +117,29 @@ Monday 21 November 2022 at 9:00 | no launch event
 ------
 
 # 22 November 2022
+
+## [OECD Economic Outlook, Volume 2022 Issue 2 - Preliminary version](https://doi.org/10.1787/f6da2159-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 November 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Perspectives économiques de l'OCDE, Volume 2022 Numéro 2 - Version préliminaire](https://doi.org/10.1787/25b26d2e-fr)
 
@@ -135,29 +158,6 @@ Tuesday 22 November 2022 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Issue*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Outlook, Volume 2022 Issue 2 - Preliminary version](https://doi.org/10.1787/f6da2159-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 November 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
