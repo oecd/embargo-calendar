@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 November 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring data as an asset - Framework, methods and preliminary estimates](https://doi.org/10.1787/b840fb01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Estimating the CO2 emission and revenue effects of carbon pricing - New evidence from a large cross-country dataset](https://doi.org/10.1787/39aa16d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 November 2022 at 20:15
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Education Policy Outlook 2022 - Transforming Pathways for Lifelong Learners](https://doi.org/10.1787/c77c7a97-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 November 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 November 2022 at 19:55
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 23 November 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2022 Issue 2 - Preliminary version](https://doi.org/10.1787/f6da2159-en)
 
@@ -82,9 +13,9 @@ Tuesday 22 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 November 2022 at 20:13
+- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
+- [x] Exported to OECD.org Wednesday 23 November 2022 at 19:54
 
 ### Additional Information
 
@@ -105,7 +36,7 @@ Tuesday 22 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 November 2022 at 20:13
+- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
 
@@ -150,18 +81,18 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 November 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
+- [x] Exported to OECD.org Wednesday 23 November 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -238,7 +169,7 @@ Monday 5 December 2022 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 5 December 2022 at 13:00 | no launch event
+Monday 5 December 2022 at 11:00 | no launch event
 
 ### Status Information
 
@@ -303,29 +234,6 @@ Thursday 8 December 2022 at 8:00 | no launch event
 
 ------
 
-## [Multi-dimensional Review of the Dominican Republic - Towards Greater Well-being for All](https://doi.org/10.1787/560c12bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 December 2022 at 15:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
 
 Embargo date | Launch date
@@ -342,6 +250,29 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Multi-dimensional Review of the Dominican Republic - Towards Greater Well-being for All](https://doi.org/10.1787/560c12bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 December 2022 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -552,6 +483,29 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Policy Framework on Digital Security - Cybersecurity for Prosperity](https://doi.org/10.1787/a69df866-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 12:29 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
