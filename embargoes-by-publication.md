@@ -2,51 +2,51 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 November 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 24 November 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
-## [OECD Economic Outlook, Volume 2022 Issue 2 - Preliminary version](https://doi.org/10.1787/f6da2159-en)
+## [The economic costs of childhood socio-economic disadvantage in European OECD countries](https://doi.org/10.1787/8c0c66b9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 22 November 2022 at 10:00 | no launch event
+Friday 25 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
+- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 November 2022 at 19:54
+- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
-## [Perspectives économiques de l'OCDE, Volume 2022 Numéro 2 - Version préliminaire](https://doi.org/10.1787/25b26d2e-fr)
+## [Current challenges to social mobility and equality of opportunity](https://doi.org/10.1787/a749ffbb-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 22 November 2022 at 10:00 | no launch event
+Friday 25 November 2022 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
+- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
+- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *French*
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -142,26 +142,26 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 
 ------
 
-## [OECD Public Governance Reviews: Honduras - Inclusive and Effective Governance for Better Outcomes](https://doi.org/10.1787/e6bda0b2-en)
+## [OECD Pensions Outlook 2022](https://doi.org/10.1787/20c7f443-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 5 December 2022 at 8:00 | no launch event
+Thursday 1 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -192,22 +192,22 @@ Monday 5 December 2022 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 7 December 2022 at 11:00 | no launch event
+Tuesday 6 December 2022 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -507,6 +507,52 @@ Wednesday 14 December 2022 at 12:29 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Finland 2022](https://doi.org/10.1787/516252a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 December 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Public Governance Reviews: Honduras - Inclusive and Effective Governance for Better Outcomes](https://doi.org/10.1787/e6bda0b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 January 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

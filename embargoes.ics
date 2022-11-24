@@ -2,92 +2,94 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/f6da2159-end3e339
-SUMMARY:[Issue] OECD Economic Outlook, Volume 20
- 22 Issue 2 - Preliminary version
-DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
- 022 Issue 2 - Preliminary version*\n\nDi
- rectorate: Economics Department\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /f6da2159-en\nPublication type: Issue\nR
- eleased as: HTML, Paperback, PDF\n\nEmba
- rgo date/time: Tuesday, 22 November 2022
- , 10:00 (GMT)\n\n\niLibrary export: Wedn
- esday, 23 November 2022, 19:19 (GMT)\nFr
- eepreview export: never\nOECD.org export
- : Wednesday, 23 November 2022, 18:54 (GM
- T)\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:42, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=f6da2159-en.
-DTSTAMP:20221123T204212Z
-DTSTART:20221122T100000Z
-DTEND:20221122T101500Z
+UID:10.1787/8c0c66b9-end3e63
+SUMMARY:[Paper] The economic costs of childhood 
+ socio-economic disadvantage in European 
+ OECD countries
+DESCRIPTION:*[Paper] The economic costs of childhood
+  socio-economic disadvantage in European
+  OECD countries*\n\nDirectorate: Centre 
+ for Well-Being, Inclusion, Sustainabilit
+ y and Equal Opportunity\nLanguage: Engli
+ sh\nDOI: https://doi.org/10.1787/8c0c66b
+ 9-en\nPublication type: Paper\nReleased 
+ as: PDF\n\nEmbargo date/time: Friday, 25
+  November 2022, 9:00 (GMT)\n\n\niLibrary
+  export: Thursday, 24 November 2022, 19:
+ 19 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Thursday, 24 November 2022
+ , 18:54 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 20
+ :42, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=8c0c66b9-en.
+DTSTAMP:20221124T204227Z
+DTSTART:20221125T090000Z
+DTEND:20221125T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
-  Volume 2022 Issue 2 - Preliminary versi
- on
+DESCRIPTION:Reminder: [Paper] The economic costs of 
+ childhood socio-economic disadvantage in
+  European OECD countries
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/25b26d2e-frd3e396
-SUMMARY:[Issue] Perspectives économiques de l'OC
- DE, Volume 2022 Numéro 2 - Version préli
- minaire
-DESCRIPTION:*[Issue] Perspectives économiques de l'O
- CDE, Volume 2022 Numéro 2 - Version prél
- iminaire*\n\nDirectorate: Economics Depa
- rtment\nLanguage: French\nDOI: https://d
- oi.org/10.1787/25b26d2e-fr\nPublication 
- type: Issue\nReleased as: HTML, Paperbac
- k, PDF\n\nEmbargo date/time: Tuesday, 22
-  November 2022, 10:00 (GMT)\n\n\niLibrar
- y export: Wednesday, 23 November 2022, 1
- 9:19 (GMT)\nFreepreview export: never\nO
- ECD.org export: Tuesday, 22 November 202
- 2, 18:52 (GMT)\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 0:42, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=25b26d2e-fr.
-DTSTAMP:20221123T204212Z
-DTSTART:20221122T100000Z
-DTEND:20221122T101500Z
+UID:10.1787/a749ffbb-end3e118
+SUMMARY:[Paper] Current challenges to social mob
+ ility and equality of opportunity
+DESCRIPTION:*[Paper] Current challenges to social mo
+ bility and equality of opportunity*\n\nD
+ irectorate: Centre for Well-Being, Inclu
+ sion, Sustainability and Equal Opportuni
+ ty\nLanguage: English\nDOI: https://doi.
+ org/10.1787/a749ffbb-en\nPublication typ
+ e: Paper\nReleased as: PDF\n\nEmbargo da
+ te/time: Friday, 25 November 2022, 9:00 
+ (GMT)\n\n\niLibrary export: Thursday, 24
+  November 2022, 19:19 (GMT)\nFreepreview
+  export: never\nOECD.org export: Thursda
+ y, 24 November 2022, 18:54 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 20:42, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ a749ffbb-en.
+DTSTAMP:20221124T204227Z
+DTSTART:20221125T090000Z
+DTEND:20221125T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Issue] Perspectives économiqu
- es de l'OCDE, Volume 2022 Numéro 2 - Ver
- sion préliminaire
+DESCRIPTION:Reminder: [Paper] Current challenges to 
+ social mobility and equality of opportun
+ ity
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5aeddbfe-end3e558
+UID:10.1787/5aeddbfe-end3e225
 SUMMARY:[Book] Introduction Measures for Newly-A
  rrived Migrants
 DESCRIPTION:*[Book] Introduction Measures for Newly-
@@ -113,7 +115,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=5aeddbfe-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221130T090000Z
 DTEND:20221130T091500Z
 TRANSP:TRANSPARENT
@@ -127,7 +129,7 @@ DESCRIPTION:Reminder: [Book] Introduction Measures f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6525a942-end3e1422
+UID:10.1787/6525a942-end3e1089
 SUMMARY:[Book] Consumption Tax Trends 2022 - VAT
  /GST and Excise, Core Design Features an
  d Trends
@@ -156,7 +158,7 @@ DESCRIPTION:*[Book] Consumption Tax Trends 2022 - VA
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=6525a942-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -171,7 +173,7 @@ DESCRIPTION:Reminder: [Book] Consumption Tax Trends
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8a691b03-end3e2127
+UID:10.1787/8a691b03-end3e1794
 SUMMARY:[Book] Revenue Statistics 2022 - The Imp
  act of COVID-19 on OECD Tax Revenues
 DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
@@ -198,7 +200,7 @@ DESCRIPTION:*[Book] Revenue Statistics 2022 - The Im
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=8a691b03-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -213,7 +215,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics 2022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96463460-frd3e2941
+UID:10.1787/96463460-frd3e2608
 SUMMARY:[Book] Statistiques des recettes publiqu
  es 2022 - L'impact du COVID-19 sur les r
  ecettes fiscales de l'OCDE
@@ -242,7 +244,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=96463460-fr.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221130T100000Z
 DTEND:20221130T101500Z
 TRANSP:TRANSPARENT
@@ -257,49 +259,47 @@ DESCRIPTION:Reminder: [Book] Statistiques des recett
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e3156
-SUMMARY:[Book] OECD Public Governance Reviews: H
- onduras - Inclusive and Effective Govern
- ance for Better Outcomes
-DESCRIPTION:*[Book] OECD Public Governance Reviews: 
- Honduras - Inclusive and Effective Gover
- nance for Better Outcomes*\n\nDirectorat
- e: Directorate for Public Governance\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/e6bda0b2-en\nPublication type: Boo
- k\nReleased as: Paperback, PDF\n\nEmbarg
- o date/time: Monday, 5 December 2022, 8:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✗\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:42, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=e6bda0b2-en.
-DTSTAMP:20221123T204212Z
-DTSTART:20221205T080000Z
-DTEND:20221205T081500Z
+UID:10.1787/20c7f443-end3e2823
+SUMMARY:[Book] OECD Pensions Outlook 2022
+DESCRIPTION:*[Book] OECD Pensions Outlook 2022*\n\nD
+ irectorate: Directorate for Financial an
+ d Enterprise Affairs\nLanguage: English\
+ nDOI: https://doi.org/10.1787/20c7f443-e
+ n\nPublication type: Book\nReleased as: 
+ ePub, HTML, Paperback, PDF, ZXML\n\nEmba
+ rgo date/time: Thursday, 1 December 2022
+ , 10:00 (GMT)\n\n\niLibrary export: Thur
+ sday, 24 November 2022, 19:19 (GMT)\nFre
+ epreview export: never\nOECD.org export:
+  Thursday, 24 November 2022, 18:54 (GMT)
+ \nFTI loaded: ✓\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:42, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=20c7f443-en.
+DTSTAMP:20221124T204227Z
+DTSTART:20221201T100000Z
+DTEND:20221201T101500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] OECD Public Governance 
- Reviews: Honduras - Inclusive and Effect
- ive Governance for Better Outcomes
+DESCRIPTION:Reminder: [Book] OECD Pensions Outlook 2
+ 022
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/507433b0-end3e3263
+UID:10.1787/507433b0-end3e4014
 SUMMARY:[Book] Health at a Glance: Europe 2022 -
   State of Health in the EU Cycle
 DESCRIPTION:*[Book] Health at a Glance: Europe 2022 
@@ -325,7 +325,7 @@ DESCRIPTION:*[Book] Health at a Glance: Europe 2022
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=507433b0-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221205T110000Z
 DTEND:20221205T111500Z
 TRANSP:TRANSPARENT
@@ -340,7 +340,7 @@ DESCRIPTION:Reminder: [Book] Health at a Glance: Eur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0d1792c6-esd3e4380
+UID:10.1787/0d1792c6-esd3e5204
 SUMMARY:[Stand-alone monograph] Compendio de Prá
  cticas de las Organizaciones Internacion
  ales - Trabajando hacia instrumentos int
@@ -353,29 +353,31 @@ DESCRIPTION:*[Stand-alone monograph] Compendio de Pr
  Language: Spanish\nDOI: https://doi.org/
  10.1787/0d1792c6-es\nPublication type: S
  tand-alone monograph\nReleased as: ePub,
-  HTML, Paperback, PDF\n\nEmbargo date/ti
- me: Wednesday, 7 December 2022, 11:00 (G
- MT)\n\n\niLibrary export: never\nFreepre
- view export: never\nOECD.org export: nev
- er\nFTI loaded: ✓\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 20:42, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=0d1792c6-es.
-DTSTAMP:20221123T204212Z
-DTSTART:20221207T110000Z
-DTEND:20221207T111500Z
+  HTML, Paperback, PDF, ZXML\n\nEmbargo d
+ ate/time: Tuesday, 6 December 2022, 11:0
+ 0 (GMT)\n\n\niLibrary export: Thursday, 
+ 24 November 2022, 19:19 (GMT)\nFreeprevi
+ ew export: never\nOECD.org export: Thurs
+ day, 24 November 2022, 18:54 (GMT)\nFTI 
+ loaded: ✓\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 20:42, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=0d1792c6-es.
+DTSTAMP:20221124T204227Z
+DTSTART:20221206T110000Z
+DTEND:20221206T111500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT48H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -386,7 +388,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8abe655c-end3e4966
+UID:10.1787/8abe655c-end3e5803
 SUMMARY:[Book] Are Students Ready for Environmen
  tal Challenges?
 DESCRIPTION:*[Book] Are Students Ready for Environme
@@ -411,7 +413,7 @@ DESCRIPTION:*[Book] Are Students Ready for Environme
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=8abe655c-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221208T080000Z
 DTEND:20221208T081500Z
 TRANSP:TRANSPARENT
@@ -425,7 +427,7 @@ DESCRIPTION:Reminder: [Book] Are Students Ready for
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9c3ad238-end3e5124
+UID:10.1787/9c3ad238-end3e5960
 SUMMARY:[Book] OECD Review of Fisheries 2022
 DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  \nDirectorate: Trade and Agriculture Dir
@@ -449,7 +451,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2022*\n
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=9c3ad238-en
  .
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221213T070000Z
 DTEND:20221213T071500Z
 TRANSP:TRANSPARENT
@@ -463,7 +465,7 @@ DESCRIPTION:Reminder: [Book] OECD Review of Fisherie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/560c12bf-end3e5176
+UID:10.1787/560c12bf-end3e6012
 SUMMARY:[Book] Multi-dimensional Review of the D
  ominican Republic - Towards Greater Well
  -being for All
@@ -490,7 +492,7 @@ DESCRIPTION:*[Book] Multi-dimensional Review of the
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=560c12b
  f-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221213T150000Z
 DTEND:20221213T151500Z
 TRANSP:TRANSPARENT
@@ -505,7 +507,7 @@ DESCRIPTION:Reminder: [Book] Multi-dimensional Revie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/46a6ea85-end3e5229
+UID:10.1787/46a6ea85-end3e6065
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Ireland 2022
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -530,7 +532,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=46a6ea85-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T100000Z
 DTEND:20221214T101500Z
 TRANSP:TRANSPARENT
@@ -544,7 +546,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4034ce42-end3e5386
+UID:10.1787/4034ce42-end3e6223
 SUMMARY:[Book] Harmful Tax Practices – 2021 Peer
   Review Reports on the Exchange of Infor
  mation on Tax Rulings - Inclusive Framew
@@ -573,7 +575,7 @@ DESCRIPTION:*[Book] Harmful Tax Practices – 2021 Pee
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=4034ce42-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T100000Z
 DTEND:20221214T101500Z
 TRANSP:TRANSPARENT
@@ -589,7 +591,7 @@ DESCRIPTION:Reminder: [Book] Harmful Tax Practices –
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2182ce9f-end3e5440
+UID:10.1787/2182ce9f-end3e6276
 SUMMARY:[Paper] Responding to societal challenge
  s with data - Access, sharing, stewardsh
  ip and control
@@ -618,7 +620,7 @@ DESCRIPTION:*[Paper] Responding to societal challeng
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=2182ce9f-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112500Z
 DTEND:20221214T114000Z
 TRANSP:TRANSPARENT
@@ -633,7 +635,7 @@ DESCRIPTION:Reminder: [Paper] Responding to societal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/139b32ad-end3e5496
+UID:10.1787/139b32ad-end3e6332
 SUMMARY:[Paper] Fostering cross-border data flow
  s with trust
 DESCRIPTION:*[Paper] Fostering cross-border data flo
@@ -660,7 +662,7 @@ DESCRIPTION:*[Paper] Fostering cross-border data flo
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=139b32ad-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112600Z
 DTEND:20221214T114100Z
 TRANSP:TRANSPARENT
@@ -674,7 +676,7 @@ DESCRIPTION:Reminder: [Paper] Fostering cross-border
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b1a2d70-end3e5551
+UID:10.1787/7b1a2d70-end3e6387
 SUMMARY:[Paper] Data shaping firms and markets
 DESCRIPTION:*[Paper] Data shaping firms and markets*
  \n\nDirectorate: Directorate for Science
@@ -700,7 +702,7 @@ DESCRIPTION:*[Paper] Data shaping firms and markets*
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=7b1a2d70-en
  .
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112700Z
 DTEND:20221214T114200Z
 TRANSP:TRANSPARENT
@@ -714,7 +716,7 @@ DESCRIPTION:Reminder: [Paper] Data shaping firms and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/923230a6-end3e5606
+UID:10.1787/923230a6-end3e6443
 SUMMARY:[Paper] Measuring the value of data and 
  data flows
 DESCRIPTION:*[Paper] Measuring the value of data and
@@ -741,7 +743,7 @@ DESCRIPTION:*[Paper] Measuring the value of data and
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =923230a6-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112800Z
 DTEND:20221214T114300Z
 TRANSP:TRANSPARENT
@@ -755,7 +757,7 @@ DESCRIPTION:Reminder: [Paper] Measuring the value of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e3d783b0-end3e5818
+UID:10.1787/e3d783b0-end3e6654
 SUMMARY:[Stand-alone monograph] Going Digital to
   Advance Data Governance for Growth and 
  Well-being
@@ -783,7 +785,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital t
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=e3d783b0-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112900Z
 DTEND:20221214T114400Z
 TRANSP:TRANSPARENT
@@ -798,7 +800,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40d53904-end3e5870
+UID:10.1787/40d53904-end3e6706
 SUMMARY:[Stand-alone monograph] Going Digital Gu
  ide to Data Governance Policy Making
 DESCRIPTION:*[Stand-alone monograph] Going Digital G
@@ -825,7 +827,7 @@ DESCRIPTION:*[Stand-alone monograph] Going Digital G
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=40d5
  3904-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112900Z
 DTEND:20221214T114400Z
 TRANSP:TRANSPARENT
@@ -840,7 +842,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Going
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec7d2f6b-end3e5974
+UID:10.1787/ec7d2f6b-end3e6811
 SUMMARY:[Paper] Data in an evolving technologica
  l landscape - The case of connected and 
  automated vehicles
@@ -869,7 +871,7 @@ DESCRIPTION:*[Paper] Data in an evolving technologic
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=ec7d2f6b-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T112900Z
 DTEND:20221214T114400Z
 TRANSP:TRANSPARENT
@@ -884,7 +886,7 @@ DESCRIPTION:Reminder: [Paper] Data in an evolving te
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a69df866-end3e6135
+UID:10.1787/a69df866-end3e6971
 SUMMARY:[Report] OECD Policy Framework on Digita
  l Security - Cybersecurity for Prosperit
  y
@@ -911,7 +913,7 @@ DESCRIPTION:*[Report] OECD Policy Framework on Digit
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a69df866-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20221214T122916Z
 DTEND:20221214T124416Z
 TRANSP:TRANSPARENT
@@ -926,7 +928,88 @@ DESCRIPTION:Reminder: [Report] OECD Policy Framework
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/115b186e-end3e6187
+UID:10.1787/516252a7-end3e7023
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Finland 2022
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Finland 2022*\n\nDirectorate: Economic
+ s Department\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/516252a7-en\nPubli
+ cation type: Economic survey\nReleased a
+ s: Paperback, PDF\n\nEmbargo date/time: 
+ Thursday, 15 December 2022, 10:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nOECD.org export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 20:42, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=516252a7-en.
+DTSTAMP:20221124T204227Z
+DTSTART:20221215T100000Z
+DTEND:20221215T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Finland 2022
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e6bda0b2-end3e7128
+SUMMARY:[Book] OECD Public Governance Reviews: H
+ onduras - Inclusive and Effective Govern
+ ance for Better Outcomes
+DESCRIPTION:*[Book] OECD Public Governance Reviews: 
+ Honduras - Inclusive and Effective Gover
+ nance for Better Outcomes*\n\nDirectorat
+ e: Directorate for Public Governance\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/e6bda0b2-en\nPublication type: Boo
+ k\nReleased as: Paperback, PDF\n\nEmbarg
+ o date/time: Monday, 9 January 2023, 8:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✗\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 20:42, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=e6bda0b2-en.
+DTSTAMP:20221124T204227Z
+DTSTART:20230109T080000Z
+DTEND:20230109T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] OECD Public Governance 
+ Reviews: Honduras - Inclusive and Effect
+ ive Governance for Better Outcomes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/115b186e-end3e7181
 SUMMARY:[Book] Evaluation of Active Labour Marke
  t Policies in Finland
 DESCRIPTION:*[Book] Evaluation of Active Labour Mark
@@ -952,7 +1035,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=115b18
  6e-en.
-DTSTAMP:20221123T204212Z
+DTSTAMP:20221124T204227Z
 DTSTART:20230202T070000Z
 DTEND:20230202T071500Z
 TRANSP:TRANSPARENT
