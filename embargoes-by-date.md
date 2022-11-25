@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 November 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 November 2022 at 21:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 November 2022](#25-november-2022)
 * [30 November 2022](#30-november-2022)
@@ -14,6 +14,7 @@ Data generated on | |
 * [14 December 2022](#14-december-2022)
 * [15 December 2022](#15-december-2022)
 * [9 January 2023](#9-january-2023)
+* [16 January 2023](#16-january-2023)
 * [2 February 2023](#2-february-2023)
 
 ------
@@ -31,7 +32,7 @@ Friday 25 November 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
+- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
 ### Additional Information
 
@@ -54,7 +55,7 @@ Friday 25 November 2022 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
+- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
 ### Additional Information
 
@@ -70,26 +71,26 @@ Friday 25 November 2022 at 9:00 | no launch event
 
 # 30 November 2022
 
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+## [Strengthening the social safety net in Korea](https://doi.org/10.1787/45486525-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 November 2022 at 9:00 | no launch event
+Wednesday 30 November 2022 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -102,7 +103,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 November 2022 at 20:19
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 23 November 2022 at 19:54
 
@@ -124,8 +125,8 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 November 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
 
@@ -147,8 +148,8 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 November 2022 at 20:13
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
 
@@ -175,7 +176,7 @@ Thursday 1 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
 
@@ -202,15 +203,15 @@ Monday 5 December 2022 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -247,11 +248,11 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 
 # 8 December 2022
 
-## [Are Students Ready for Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
+## [Are Students Ready to Take on Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 December 2022 at 8:00 | no launch event
+Thursday 8 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
@@ -470,18 +471,18 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -493,16 +494,16 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -605,6 +606,33 @@ Monday 9 January 2023 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 January 2023
+
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 January 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

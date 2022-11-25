@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-11-24T20:42:23.6495562+01:00">
+<report name="official-embargoes" generated="2022-11-25T21:11:16.6810226+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-11-24T19:19:23Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-11-24T18:54:02Z</cell>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-11-24T19:19:23Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-11-24T18:54:02Z</cell>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -61,86 +61,66 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a79df56a</cell>
   </row>
   <row index="3">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/5aeddbfe-en</cell>
-    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-11-30</cell>
-    <cell name="embargo date">2022-11-30T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0934caf</cell>
-  </row>
-  <row index="4">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/5aeddbfe-en</cell>
-    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/45486525-en</cell>
+    <cell name="title">Strengthening the social safety net in Korea (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2022-11-30</cell>
-    <cell name="embargo date">2022-11-30T09:00:00Z</cell>
+    <cell name="embargo date">2022-11-30T06:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97093f03</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b2046529-fr</cell>
+    <cell name="title">Recettes fiscales par sous-secteur d’administration (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b60ea7a9</cell>
   </row>
   <row index="5">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/5aeddbfe-en</cell>
-    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7e9ae4a9-fr</cell>
+    <cell name="title">Tableaux par pays, 1990-2020 (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-11-30</cell>
-    <cell name="embargo date">2022-11-30T09:00:00Z</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74debaed</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12ff81d2</cell>
   </row>
   <row index="6">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/5aeddbfe-en</cell>
-    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2022-11-30</cell>
-    <cell name="embargo date">2022-11-30T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/946e5f3f</cell>
-  </row>
-  <row index="7">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6adee7f2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/066ce1a1</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a4041ad7-en</cell>
     <cell name="title">Value added taxes (5111) as percentage of total taxation 2020 (en)</cell>
@@ -180,18 +160,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748006f4</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/96463460-fr</cell>
     <cell name="title">Statistiques des recettes publiques 2022 (fr)</cell>
     <cell name="subtitle">L'impact du COVID-19 sur les recettes fiscales de l'OCDE (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -200,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aaee83af</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5c4d9469-en</cell>
     <cell name="title">VAT Rates (en)</cell>
@@ -220,7 +200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/240a5ff4</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97b0b21f-en</cell>
     <cell name="title">Consumption tax revenue: Main figures and trends (en)</cell>
@@ -240,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86d4da76</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b1e47ec3-en</cell>
     <cell name="title">Taxes on specific goods and services (5120) as a percentage of GDP and total taxation (en)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1edeb802</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a7039a79-en</cell>
     <cell name="title">Average tax revenue as a percentage of aggregate taxation, by category of tax, 2020 (en)</cell>
@@ -280,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e593f94b</cell>
   </row>
-  <row index="14">
+  <row index="13">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6525a942-en</cell>
     <cell name="title">Consumption Tax Trends 2022 (en)</cell>
@@ -300,7 +280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fe8a9a9</cell>
   </row>
-  <row index="15">
+  <row index="14">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6525a942-en</cell>
     <cell name="title">Consumption Tax Trends 2022 (en)</cell>
@@ -311,7 +291,7 @@
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-23T19:19:35Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-23T18:54:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -319,6 +299,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bcaff01c</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/095ac22e-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/075c2435</cell>
   </row>
   <row index="16">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
@@ -342,6 +342,26 @@
   </row>
   <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/785ab90d-fr</cell>
+    <cell name="title">Tendances des recettes fiscales, 1965-2021 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db861209</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e6c82c6a-en</cell>
     <cell name="title">Acronyms (en)</cell>
     <cell name="subtitle"/>
@@ -360,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eb21614</cell>
   </row>
-  <row index="18">
+  <row index="19">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/28bdb664-en</cell>
     <cell name="title">Taxing vehicles and their use (en)</cell>
@@ -380,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a9d3ac0</cell>
   </row>
-  <row index="19">
+  <row index="20">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6525a942-en</cell>
     <cell name="title">Consumption Tax Trends 2022 (en)</cell>
@@ -391,7 +411,7 @@
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-23T19:19:35Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-23T18:54:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -400,7 +420,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5a6a4f7</cell>
   </row>
-  <row index="20">
+  <row index="21">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/69201fc6-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c5b7b0a</cell>
+  </row>
+  <row index="22">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6525a942-en</cell>
     <cell name="title">Consumption Tax Trends 2022 (en)</cell>
@@ -411,7 +451,7 @@
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-23T19:19:35Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-23T18:54:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -420,7 +460,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9e34b02</cell>
   </row>
-  <row index="21">
+  <row index="23">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1504d688-fr</cell>
+    <cell name="title">Classification des impôts de l’OCDE et guide d’interprétation (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee1c6e3</cell>
+  </row>
+  <row index="24">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa189d61-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -440,7 +500,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bfd5d42</cell>
   </row>
-  <row index="22">
+  <row index="25">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/de31fd0a-en</cell>
+    <cell name="title">Country tables, 1990-2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7499d8c</cell>
+  </row>
+  <row index="26">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c671d8ae-en</cell>
     <cell name="title">Excise (5121) as a percentage of GDP and total taxation (en)</cell>
@@ -460,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a71492ba</cell>
   </row>
-  <row index="23">
+  <row index="27">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c699a242-en</cell>
     <cell name="title">Consumption taxes (5100) as a percentage of GDP and total taxation (en)</cell>
@@ -480,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/847222f9</cell>
   </row>
-  <row index="24">
+  <row index="28">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d52f3ee4-en</cell>
     <cell name="title">Selected Excise Duties in OECD Countries (en)</cell>
@@ -500,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc75fbaa</cell>
   </row>
-  <row index="25">
+  <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/28bdb664-en</cell>
     <cell name="title">Taxing vehicles and their use (en)</cell>
@@ -520,7 +600,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa189537</cell>
   </row>
-  <row index="26">
+  <row index="30">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/26e5d414-en</cell>
+    <cell name="title">Tax revenues by subsectors of general government (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57080ddc</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/add81fe2-en</cell>
     <cell name="title">Countries with VAT 1960 - 2022 (en)</cell>
@@ -540,27 +640,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b622311</cell>
   </row>
-  <row index="27">
+  <row index="32">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c1556a49-fr</cell>
+    <cell name="title">Avant-propos (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0d439fa</cell>
+  </row>
+  <row index="33">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a691b03-en</cell>
     <cell name="title">Revenue Statistics 2022 (en)</cell>
     <cell name="subtitle">The Impact of COVID-19 on OECD Tax Revenues (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84c93894</cell>
   </row>
-  <row index="28">
+  <row index="34">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c766374a-en</cell>
     <cell name="title">Standard VAT rates in OECD countries, 2022 (en)</cell>
@@ -580,7 +700,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c50cbabe</cell>
   </row>
-  <row index="29">
+  <row index="35">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9a0d64d9-fr</cell>
+    <cell name="title">Niveaux et structures des impôts, 1965-2021 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60f6c91a</cell>
+  </row>
+  <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/77d8d74b-en</cell>
     <cell name="title">Evolution of standard VAT rates – OECD average 1976-2022 (en)</cell>
@@ -600,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1796b40a</cell>
   </row>
-  <row index="30">
+  <row index="37">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3305677c-en</cell>
     <cell name="title">Countries with VAT (en)</cell>
@@ -620,7 +760,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04876c9d</cell>
   </row>
-  <row index="31">
+  <row index="38">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/5ab32fd8-en</cell>
+    <cell name="title">Tax revenue trends 1965-2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1462ab51</cell>
+  </row>
+  <row index="39">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/25072b6a-en</cell>
     <cell name="title">Revenue from main categories of taxes as a percentage of total taxation (en)</cell>
@@ -640,7 +800,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/551ec1a1</cell>
   </row>
-  <row index="32">
+  <row index="40">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/82535dba-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f98dd85e</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7dc15776-fr</cell>
+    <cell name="title">L’impact du COVID-19 sur les recettes fiscales dans la zone OCDE (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ed45724</cell>
+  </row>
+  <row index="42">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f997c7b6-en</cell>
     <cell name="title">Value added taxes (5111) as a percentage of GDP and total taxation (en)</cell>
@@ -660,7 +860,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4731a36</cell>
   </row>
-  <row index="33">
+  <row index="43">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d8dabc60-en</cell>
+    <cell name="title">The impact of COVID-19 on OECD tax revenues (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56af091a</cell>
+  </row>
+  <row index="44">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8a691b03-en</cell>
     <cell name="title">Revenue Statistics 2022 (en)</cell>
@@ -671,16 +891,16 @@
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-22T19:13:35Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-22T18:52:18Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0dcc3cf</cell>
   </row>
-  <row index="34">
+  <row index="45">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d7f8728f-en</cell>
     <cell name="title">Exchange rates (en)</cell>
@@ -700,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60833349</cell>
   </row>
-  <row index="35">
+  <row index="46">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/023eff66-en</cell>
     <cell name="title">Value-added taxes - Main design features and trends (en)</cell>
@@ -720,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d113392</cell>
   </row>
-  <row index="36">
+  <row index="47">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6adee7f2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -740,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6b74d7d</cell>
   </row>
-  <row index="37">
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b0aa89c8-en</cell>
     <cell name="title">Annual turnover registration and collection thresholds, 2022 (en)</cell>
@@ -760,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94c1ce3c</cell>
   </row>
-  <row index="38">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa189d61-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -780,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bc4bdf0</cell>
   </row>
-  <row index="39">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/023eff66-en</cell>
     <cell name="title">Value-added taxes - Main design features and trends (en)</cell>
@@ -800,7 +1020,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9db72bfb</cell>
   </row>
-  <row index="40">
+  <row index="51">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8409f31e-en</cell>
+    <cell name="title">Tax levels and tax structures, 1965-2021 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99bdc204</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d210e718-en</cell>
     <cell name="title">VAT Revenue Ratio 2020 (en)</cell>
@@ -820,7 +1060,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6d85060</cell>
   </row>
-  <row index="41">
+  <row index="53">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/81859bf1-en</cell>
+    <cell name="title">Detailed country tables, 1965-2020 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c215541</cell>
+  </row>
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b32a9a15-en</cell>
     <cell name="title">Evolution of the tax mix as a percentage of total tax revenue 1965-2020 (en)</cell>
@@ -840,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aef236e7</cell>
   </row>
-  <row index="42">
+  <row index="55">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3305677c-en</cell>
     <cell name="title">Countries with VAT (en)</cell>
@@ -860,7 +1120,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91e00d22</cell>
   </row>
-  <row index="43">
+  <row index="56">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/30841643-en</cell>
+    <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87fec911</cell>
+  </row>
+  <row index="57">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d52f3ee4-en</cell>
     <cell name="title">Selected Excise Duties in OECD Countries (en)</cell>
@@ -880,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ef1a8f3</cell>
   </row>
-  <row index="44">
+  <row index="58">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2f799b05-en</cell>
     <cell name="title">General taxes on goods and services (5110) as a percentage of GDP and total taxation (en)</cell>
@@ -900,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd7850c9</cell>
   </row>
-  <row index="45">
+  <row index="59">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d7f8728f-en</cell>
     <cell name="title">Exchange rates (en)</cell>
@@ -920,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ca8d877</cell>
   </row>
-  <row index="46">
+  <row index="60">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e6c82c6a-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -940,7 +1220,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b26f56a7</cell>
   </row>
-  <row index="47">
+  <row index="61">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/cccf4972-fr</cell>
+    <cell name="title">Tableaux détaillés par pays, 1965-2020 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2022-11-30</cell>
+    <cell name="embargo date">2022-11-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46283bb6</cell>
+  </row>
+  <row index="62">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97b0b21f-en</cell>
     <cell name="title">Consumption tax revenue: Main figures and trends (en)</cell>
@@ -960,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e941eb2</cell>
   </row>
-  <row index="48">
+  <row index="63">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/96463460-fr</cell>
     <cell name="title">Statistiques des recettes publiques 2022 (fr)</cell>
@@ -971,16 +1271,16 @@
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-22T19:13:35Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-22T18:52:18Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35de0b74</cell>
   </row>
-  <row index="49">
+  <row index="64">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d9f9a701-en</cell>
     <cell name="title">Value added taxes (5111) as a percentage of GDP 2005-2020 (en)</cell>
@@ -1000,27 +1300,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c401954c</cell>
   </row>
-  <row index="50">
+  <row index="65">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6525a942-en</cell>
     <cell name="title">Consumption Tax Trends 2022 (en)</cell>
     <cell name="subtitle">VAT/GST and Excise, Core Design Features and Trends (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-11-30</cell>
     <cell name="embargo date">2022-11-30T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ad43e77</cell>
   </row>
-  <row index="51">
+  <row index="66">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/20c7f443-en</cell>
     <cell name="title">OECD Pensions Outlook 2022 (en)</cell>
@@ -1040,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2624656c</cell>
   </row>
-  <row index="52">
+  <row index="67">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/20c7f443-en</cell>
     <cell name="title">OECD Pensions Outlook 2022 (en)</cell>
@@ -1051,7 +1351,7 @@
     <cell name="date of publication">2022-12-01</cell>
     <cell name="embargo date">2022-12-01T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-24T19:19:23Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-24T18:54:02Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -1060,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e9428d1</cell>
   </row>
-  <row index="53">
+  <row index="68">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0e21730f-en</cell>
     <cell name="title">Implications of different fee structures for individuals and providers (en)</cell>
@@ -1080,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d24fc040</cell>
   </row>
-  <row index="54">
+  <row index="69">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/1f1cdca9-en</cell>
     <cell name="title">Policy lessons for the design, introduction and implementation of non-guaranteed lifetime retirement income arrangements (en)</cell>
@@ -1100,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24d5cb3f</cell>
   </row>
-  <row index="55">
+  <row index="70">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6010786e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1120,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ffdef5b</cell>
   </row>
-  <row index="56">
+  <row index="71">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f2537a8b-en</cell>
     <cell name="title">Policy guidance on developing asset-backed pension arrangements (en)</cell>
@@ -1140,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0e96e7b</cell>
   </row>
-  <row index="57">
+  <row index="72">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/99179c3b-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1160,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0624019</cell>
   </row>
-  <row index="58">
+  <row index="73">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/1f1cdca9-en</cell>
     <cell name="title">Policy lessons for the design, introduction and implementation of non-guaranteed lifetime retirement income arrangements (en)</cell>
@@ -1180,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2946550c</cell>
   </row>
-  <row index="59">
+  <row index="74">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/99179c3b-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1200,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5ef8b15</cell>
   </row>
-  <row index="60">
+  <row index="75">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/20c7f443-en</cell>
     <cell name="title">OECD Pensions Outlook 2022 (en)</cell>
@@ -1211,7 +1511,7 @@
     <cell name="date of publication">2022-12-01</cell>
     <cell name="embargo date">2022-12-01T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-24T19:19:23Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-24T18:54:02Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -1220,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38ab67fb</cell>
   </row>
-  <row index="61">
+  <row index="76">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f2537a8b-en</cell>
     <cell name="title">Policy guidance on developing asset-backed pension arrangements (en)</cell>
@@ -1240,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f23e055</cell>
   </row>
-  <row index="62">
+  <row index="77">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e7dddbbd-en</cell>
     <cell name="title">Good practices for developing standard mortality tables for retirement income arrangements (en)</cell>
@@ -1260,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e661c93</cell>
   </row>
-  <row index="63">
+  <row index="78">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/41f6fe2a-en</cell>
     <cell name="title">How best to involve employers in the provision of asset-backed pension arrangements (en)</cell>
@@ -1280,27 +1580,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6e2e368</cell>
   </row>
-  <row index="64">
+  <row index="79">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/20c7f443-en</cell>
     <cell name="title">OECD Pensions Outlook 2022 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-12-01</cell>
     <cell name="embargo date">2022-12-01T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a45a53</cell>
   </row>
-  <row index="65">
+  <row index="80">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e7dddbbd-en</cell>
     <cell name="title">Good practices for developing standard mortality tables for retirement income arrangements (en)</cell>
@@ -1320,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95329f61</cell>
   </row>
-  <row index="66">
+  <row index="81">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/85deb6d4-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1340,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09291f03</cell>
   </row>
-  <row index="67">
+  <row index="82">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/20c7f443-en</cell>
     <cell name="title">OECD Pensions Outlook 2022 (en)</cell>
@@ -1351,7 +1651,7 @@
     <cell name="date of publication">2022-12-01</cell>
     <cell name="embargo date">2022-12-01T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2022-11-24T19:19:23Z</cell>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-11-24T18:54:02Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -1360,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ea6f103</cell>
   </row>
-  <row index="68">
+  <row index="83">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0e21730f-en</cell>
     <cell name="title">Implications of different fee structures for individuals and providers (en)</cell>
@@ -1380,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/209e891b</cell>
   </row>
-  <row index="69">
+  <row index="84">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/41f6fe2a-en</cell>
     <cell name="title">How best to involve employers in the provision of asset-backed pension arrangements (en)</cell>
@@ -1400,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb0f91d8</cell>
   </row>
-  <row index="70">
+  <row index="85">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/85deb6d4-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -1420,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83f1355e</cell>
   </row>
-  <row index="71">
+  <row index="86">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6010786e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1440,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d3a183c</cell>
   </row>
-  <row index="72">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -1460,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee73991</cell>
   </row>
-  <row index="73">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/507433b0-en</cell>
     <cell name="title">Health at a Glance: Europe 2022 (en)</cell>
@@ -1480,27 +1780,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbc7a690</cell>
   </row>
-  <row index="74">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/507433b0-en</cell>
     <cell name="title">Health at a Glance: Europe 2022 (en)</cell>
     <cell name="subtitle">State of Health in the EU Cycle (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-12-05</cell>
     <cell name="embargo date">2022-12-05T11:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/273333f2</cell>
   </row>
-  <row index="75">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/507433b0-en</cell>
     <cell name="title">Health at a Glance: Europe 2022 (en)</cell>
@@ -1520,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/519ca1a4</cell>
   </row>
-  <row index="76">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/507433b0-en</cell>
     <cell name="title">Health at a Glance: Europe 2022 (en)</cell>
@@ -1540,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc2bc960</cell>
   </row>
-  <row index="77">
+  <row index="92">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/819bd679-es</cell>
     <cell name="title">Glosario de términos clave utilizados en el Compendio (es)</cell>
@@ -1560,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46c9da27</cell>
   </row>
-  <row index="78">
+  <row index="93">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cfba5ac0-es</cell>
     <cell name="title">Desarrollar una mayor cultura de evaluación de instrumentos internacionales (es)</cell>
@@ -1580,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76890de5</cell>
   </row>
-  <row index="79">
+  <row index="94">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc23d562-es</cell>
     <cell name="title">Asegurar una participación eficiente de actores interesados (es)</cell>
@@ -1600,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6d8a37d</cell>
   </row>
-  <row index="80">
+  <row index="95">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1620,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d53478c6</cell>
   </row>
-  <row index="81">
+  <row index="96">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/806b6036-es</cell>
     <cell name="title">Prefacio (es)</cell>
@@ -1640,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e73b0b3</cell>
   </row>
-  <row index="82">
+  <row index="97">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8278d9c6-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -1660,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de7fd1d9</cell>
   </row>
-  <row index="83">
+  <row index="98">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1680,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/054d8550</cell>
   </row>
-  <row index="84">
+  <row index="99">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b587eef5-es</cell>
     <cell name="title">Maximizar las oportunidades de coordinación a través de las OI (es)</cell>
@@ -1700,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96bdc7d7</cell>
   </row>
-  <row index="85">
+  <row index="100">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/073bed7f-es</cell>
     <cell name="title">Abreviaciones y acrónimos (es)</cell>
@@ -1720,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/caef24df</cell>
   </row>
-  <row index="86">
+  <row index="101">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/08b71e90-es</cell>
     <cell name="title">Lista de organizaciones internacionales que participan en el Foro de OI (actualizada en diciembre de 2019) (es)</cell>
@@ -1740,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b40f1c8</cell>
   </row>
-  <row index="87">
+  <row index="102">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/08b71e90-es</cell>
     <cell name="title">Lista de organizaciones internacionales que participan en el Foro de OI (actualizada en diciembre de 2019) (es)</cell>
@@ -1760,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b672d90</cell>
   </row>
-  <row index="88">
+  <row index="103">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cfba5ac0-es</cell>
     <cell name="title">Desarrollar una mayor cultura de evaluación de instrumentos internacionales (es)</cell>
@@ -1780,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13bb56f2</cell>
   </row>
-  <row index="89">
+  <row index="104">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/819bd679-es</cell>
     <cell name="title">Glosario de términos clave utilizados en el Compendio (es)</cell>
@@ -1800,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ecc516f</cell>
   </row>
-  <row index="90">
+  <row index="105">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cc23d562-es</cell>
     <cell name="title">Asegurar una participación eficiente de actores interesados (es)</cell>
@@ -1820,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/824e7eea</cell>
   </row>
-  <row index="91">
+  <row index="106">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/036d66ca-es</cell>
     <cell name="title">Fortalecer la implementación de los instrumentos internacionales (es)</cell>
@@ -1840,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c327f630</cell>
   </row>
-  <row index="92">
+  <row index="107">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/806b6036-es</cell>
     <cell name="title">Prefacio (es)</cell>
@@ -1860,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63a68a32</cell>
   </row>
-  <row index="93">
+  <row index="108">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f0947524-es</cell>
     <cell name="title">Antecedentes del Foro de OI (es)</cell>
@@ -1880,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98717398</cell>
   </row>
-  <row index="94">
+  <row index="109">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8278d9c6-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -1900,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/536ac8a6</cell>
   </row>
-  <row index="95">
+  <row index="110">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f0947524-es</cell>
     <cell name="title">Antecedentes del Foro de OI (es)</cell>
@@ -1920,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db81bd90</cell>
   </row>
-  <row index="96">
+  <row index="111">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -1940,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf0d53f7</cell>
   </row>
-  <row index="97">
+  <row index="112">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a9df268-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1960,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c2a48f9</cell>
   </row>
-  <row index="98">
+  <row index="113">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/073bed7f-es</cell>
     <cell name="title">Abreviaciones y acrónimos (es)</cell>
@@ -1980,14 +2280,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e09e6206</cell>
   </row>
-  <row index="99">
+  <row index="114">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
     <cell name="subtitle">Trabajando hacia instrumentos internacionales más efectivos (es)</cell>
     <cell name="language">Spanish</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-06</cell>
     <cell name="embargo date">2022-12-06T11:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2000,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6bc2607</cell>
   </row>
-  <row index="100">
+  <row index="115">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/af864901-es</cell>
     <cell name="title">Fomentar la comprensión de la variedad de instrumentos internacionales (es)</cell>
@@ -2020,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f0c5172</cell>
   </row>
-  <row index="101">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a9df268-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -2040,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c872f4c</cell>
   </row>
-  <row index="102">
+  <row index="117">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b587eef5-es</cell>
     <cell name="title">Maximizar las oportunidades de coordinación a través de las OI (es)</cell>
@@ -2060,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b9f3e9c</cell>
   </row>
-  <row index="103">
+  <row index="118">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0d1792c6-es</cell>
     <cell name="title">Compendio de Prácticas de las Organizaciones Internacionales (es)</cell>
@@ -2080,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6dcfd362</cell>
   </row>
-  <row index="104">
+  <row index="119">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/036d66ca-es</cell>
     <cell name="title">Fortalecer la implementación de los instrumentos internacionales (es)</cell>
@@ -2100,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6bee325</cell>
   </row>
-  <row index="105">
+  <row index="120">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/af864901-es</cell>
     <cell name="title">Fomentar la comprensión de la variedad de instrumentos internacionales (es)</cell>
@@ -2120,16 +2420,16 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b4944e7</cell>
   </row>
-  <row index="106">
+  <row index="121">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8abe655c-en</cell>
-    <cell name="title">Are Students Ready for Environmental Challenges? (en)</cell>
+    <cell name="title">Are Students Ready to Take on Environmental Challenges? (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2022-12-08</cell>
-    <cell name="embargo date">2022-12-08T08:00:00Z</cell>
+    <cell name="embargo date">2022-12-08T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -2140,16 +2440,16 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8dd499f</cell>
   </row>
-  <row index="107">
+  <row index="122">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8abe655c-en</cell>
-    <cell name="title">Are Students Ready for Environmental Challenges? (en)</cell>
+    <cell name="title">Are Students Ready to Take on Environmental Challenges? (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2022-12-08</cell>
-    <cell name="embargo date">2022-12-08T08:00:00Z</cell>
+    <cell name="embargo date">2022-12-08T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -2160,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/032baee7</cell>
   </row>
-  <row index="108">
+  <row index="123">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/560c12bf-en</cell>
     <cell name="title">Multi-dimensional Review of the Dominican Republic (en)</cell>
@@ -2180,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/191acb61</cell>
   </row>
-  <row index="109">
+  <row index="124">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9c3ad238-en</cell>
     <cell name="title">OECD Review of Fisheries 2022 (en)</cell>
@@ -2200,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c23e40a3</cell>
   </row>
-  <row index="110">
+  <row index="125">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9c3ad238-en</cell>
     <cell name="title">OECD Review of Fisheries 2022 (en)</cell>
@@ -2220,7 +2520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbfd1966</cell>
   </row>
-  <row index="111">
+  <row index="126">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/560c12bf-en</cell>
     <cell name="title">Multi-dimensional Review of the Dominican Republic (en)</cell>
@@ -2240,7 +2540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1254520</cell>
   </row>
-  <row index="112">
+  <row index="127">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/46a6ea85-en</cell>
     <cell name="title">OECD Economic Surveys: Ireland 2022 (en)</cell>
@@ -2260,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6237d97f</cell>
   </row>
-  <row index="113">
+  <row index="128">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/46a6ea85-en</cell>
     <cell name="title">OECD Economic Surveys: Ireland 2022 (en)</cell>
@@ -2280,7 +2580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2f1a144</cell>
   </row>
-  <row index="114">
+  <row index="129">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4034ce42-en</cell>
     <cell name="title">Harmful Tax Practices – 2021 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
@@ -2300,7 +2600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ade71e3</cell>
   </row>
-  <row index="115">
+  <row index="130">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4034ce42-en</cell>
     <cell name="title">Harmful Tax Practices – 2021 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
@@ -2320,7 +2620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0eab0431</cell>
   </row>
-  <row index="116">
+  <row index="131">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2182ce9f-en</cell>
     <cell name="title">Responding to societal challenges with data (en)</cell>
@@ -2340,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06b1d78a</cell>
   </row>
-  <row index="117">
+  <row index="132">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/139b32ad-en</cell>
     <cell name="title">Fostering cross-border data flows with trust (en)</cell>
@@ -2360,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24264f27</cell>
   </row>
-  <row index="118">
+  <row index="133">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/7b1a2d70-en</cell>
     <cell name="title">Data shaping firms and markets (en)</cell>
@@ -2380,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db21ac49</cell>
   </row>
-  <row index="119">
+  <row index="134">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/923230a6-en</cell>
     <cell name="title">Measuring the value of data and data flows (en)</cell>
@@ -2400,38 +2700,38 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5932540c</cell>
   </row>
-  <row index="120">
+  <row index="135">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/40d53904-en</cell>
     <cell name="title">Going Digital Guide to Data Governance Policy Making (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16c86762</cell>
   </row>
-  <row index="121">
+  <row index="136">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3d783b0-en</cell>
     <cell name="title">Going Digital to Advance Data Governance for Growth and Well-being (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -2440,54 +2740,274 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b82edb2f</cell>
   </row>
-  <row index="122">
+  <row index="137">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/49a65317-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a557ded</cell>
+  </row>
+  <row index="138">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/40d53904-en</cell>
     <cell name="title">Going Digital Guide to Data Governance Policy Making (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/022624e9</cell>
+  </row>
+  <row index="139">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/24815a89-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/022624e9</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0aa23db9</cell>
   </row>
-  <row index="123">
+  <row index="140">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/c217c6cf-en</cell>
+    <cell name="title">Introduction (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/644d5120</cell>
+  </row>
+  <row index="141">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/277e8a79-en</cell>
+    <cell name="title">Data as a strategic asset: The fundamental shift in their use, misuse and appreciation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e45be0f</cell>
+  </row>
+  <row index="142">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/f48e7b66-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3402c8a4</cell>
+  </row>
+  <row index="143">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/f48e7b66-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76d2527f</cell>
+  </row>
+  <row index="144">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/e36fec5d-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76ea287a</cell>
+  </row>
+  <row index="145">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/277e8a79-en</cell>
+    <cell name="title">Data as a strategic asset: The fundamental shift in their use, misuse and appreciation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ea3a3af</cell>
+  </row>
+  <row index="146">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/d76c3c24-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/671ce538</cell>
+  </row>
+  <row index="147">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3d783b0-en</cell>
     <cell name="title">Going Digital to Advance Data Governance for Growth and Well-being (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/294edbe7</cell>
+  </row>
+  <row index="148">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/eb473304-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/294edbe7</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/374d4ae3</cell>
   </row>
-  <row index="124">
+  <row index="149">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/40d53904-en</cell>
     <cell name="title">Going Digital Guide to Data Governance Policy Making (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/560d4db6</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/e3d783b0-en</cell>
+    <cell name="title">Going Digital to Advance Data Governance for Growth and Well-being (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
@@ -2497,10 +3017,50 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/560d4db6</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20b14672</cell>
   </row>
-  <row index="125">
+  <row index="151">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/73387832-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c3a3fde</cell>
+  </row>
+  <row index="152">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/73387832-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edf18675</cell>
+  </row>
+  <row index="153">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/40d53904-en</cell>
     <cell name="title">Going Digital Guide to Data Governance Policy Making (en)</cell>
@@ -2520,7 +3080,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/758cf5a5</cell>
   </row>
-  <row index="126">
+  <row index="154">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/35f22761-en</cell>
+    <cell name="title">Understanding data: Key characteristics, technological developments and policy challenges (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a28ff4f6</cell>
+  </row>
+  <row index="155">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/ec7d2f6b-en</cell>
     <cell name="title">Data in an evolving technological landscape (en)</cell>
@@ -2540,47 +3120,347 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/135b2f03</cell>
   </row>
-  <row index="127">
+  <row index="156">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3d783b0-en</cell>
     <cell name="title">Going Digital to Advance Data Governance for Growth and Well-being (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f926908</cell>
   </row>
-  <row index="128">
+  <row index="157">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/49a65317-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5a750c5</cell>
+  </row>
+  <row index="158">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/35f22761-en</cell>
+    <cell name="title">Understanding data: Key characteristics, technological developments and policy challenges (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fde1271b</cell>
+  </row>
+  <row index="159">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/d76c3c24-en</cell>
+    <cell name="title">Preface (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f0a84e4</cell>
+  </row>
+  <row index="160">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9624b98f-en</cell>
+    <cell name="title">Cross-cutting policy tensions and objectives for data governance (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc310995</cell>
+  </row>
+  <row index="161">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9624b98f-en</cell>
+    <cell name="title">Cross-cutting policy tensions and objectives for data governance (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fd4fa4b</cell>
+  </row>
+  <row index="162">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/28b892e6-en</cell>
+    <cell name="title">Checklist for assessing and designing data governance policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0ca5bfe</cell>
+  </row>
+  <row index="163">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/b70b653e-en</cell>
+    <cell name="title">Introduction (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2633d9c6</cell>
+  </row>
+  <row index="164">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a2c3f009-en</cell>
+    <cell name="title">Policy considerations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a678c48c</cell>
+  </row>
+  <row index="165">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/24815a89-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/368d7ea5</cell>
+  </row>
+  <row index="166">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/b70b653e-en</cell>
+    <cell name="title">Introduction (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59c100c</cell>
+  </row>
+  <row index="167">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/e36fec5d-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19019519</cell>
+  </row>
+  <row index="168">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a2c3f009-en</cell>
+    <cell name="title">Policy considerations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6006d21a</cell>
+  </row>
+  <row index="169">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/c217c6cf-en</cell>
+    <cell name="title">Introduction (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba773c21</cell>
+  </row>
+  <row index="170">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/eb473304-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ef67471</cell>
+  </row>
+  <row index="171">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e3d783b0-en</cell>
     <cell name="title">Going Digital to Advance Data Governance for Growth and Well-being (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-14</cell>
     <cell name="embargo date">2022-12-14T11:29:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2022-11-25T18:57:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9047d06</cell>
+  </row>
+  <row index="172">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/28b892e6-en</cell>
+    <cell name="title">Checklist for assessing and designing data governance policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2022-12-14</cell>
+    <cell name="embargo date">2022-12-14T11:29:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2022-11-25T19:37:28Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9047d06</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4edaa8aa</cell>
   </row>
-  <row index="129">
+  <row index="173">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a69df866-en</cell>
     <cell name="title">OECD Policy Framework on Digital Security (en)</cell>
@@ -2600,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d92348d</cell>
   </row>
-  <row index="130">
+  <row index="174">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/516252a7-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2022 (en)</cell>
@@ -2620,7 +3500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/307cfa18</cell>
   </row>
-  <row index="131">
+  <row index="175">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/516252a7-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2022 (en)</cell>
@@ -2640,7 +3520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52beda6</cell>
   </row>
-  <row index="132">
+  <row index="176">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -2660,7 +3540,87 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86149758</cell>
   </row>
-  <row index="133">
+  <row index="177">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5aeddbfe-en</cell>
+    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-16</cell>
+    <cell name="embargo date">2023-01-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0934caf</cell>
+  </row>
+  <row index="178">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5aeddbfe-en</cell>
+    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-16</cell>
+    <cell name="embargo date">2023-01-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
+  </row>
+  <row index="179">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5aeddbfe-en</cell>
+    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-16</cell>
+    <cell name="embargo date">2023-01-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74debaed</cell>
+  </row>
+  <row index="180">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5aeddbfe-en</cell>
+    <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-16</cell>
+    <cell name="embargo date">2023-01-16T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/946e5f3f</cell>
+  </row>
+  <row index="181">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -2680,7 +3640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a1024f</cell>
   </row>
-  <row index="134">
+  <row index="182">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
