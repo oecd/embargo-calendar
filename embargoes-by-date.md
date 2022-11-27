@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 November 2022 at 21:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 27 November 2022 at 20:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 November 2022](#25-november-2022)
 * [30 November 2022](#30-november-2022)
 * [1 December 2022](#1-december-2022)
 * [5 December 2022](#5-december-2022)
@@ -16,56 +15,6 @@ Data generated on | |
 * [9 January 2023](#9-january-2023)
 * [16 January 2023](#16-january-2023)
 * [2 February 2023](#2-february-2023)
-
-------
-
-# 25 November 2022
-
-## [The economic costs of childhood socio-economic disadvantage in European OECD countries](https://doi.org/10.1787/8c0c66b9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 25 November 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Current challenges to social mobility and equality of opportunity](https://doi.org/10.1787/a749ffbb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 25 November 2022 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -472,7 +421,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] Exported to iLibrary Saturday 26 November 2022 at 1:22
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
