@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 27 November 2022 at 20:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 28 November 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening the social safety net in Korea](https://doi.org/10.1787/45486525-en)
 
@@ -36,9 +36,9 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 23 November 2022 at 19:54
+- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
 
 ### Additional Information
 
@@ -59,17 +59,17 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
+- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -82,17 +82,17 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 November 2022 at 19:52
+- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -127,8 +127,8 @@ Monday 5 December 2022 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
@@ -136,7 +136,7 @@ Monday 5 December 2022 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -254,6 +254,29 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2021 (version abrégée) - Cadre Inclusif sur le BEPS: Action 5](https://doi.org/10.1787/00298526-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -404,7 +427,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
+- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
@@ -414,7 +437,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
