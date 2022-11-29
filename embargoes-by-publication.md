@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 November 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 29 November 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening the social safety net in Korea](https://doi.org/10.1787/45486525-en)
 
@@ -38,7 +38,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -116,6 +116,29 @@ Thursday 1 December 2022 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Rebuilding Ukraine by Reinforcing Regional and Municipal Governance](https://doi.org/10.1787/63a6b479-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 2 December 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

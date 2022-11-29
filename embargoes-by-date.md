@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 November 2022 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 29 November 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 November 2022](#30-november-2022)
 * [1 December 2022](#1-december-2022)
+* [2 December 2022](#2-december-2022)
 * [5 December 2022](#5-december-2022)
 * [6 December 2022](#6-december-2022)
 * [8 December 2022](#8-december-2022)
@@ -54,7 +55,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -77,7 +78,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -100,7 +101,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 November 2022 at 19:55
+- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
 
 ### Additional Information
 
@@ -136,6 +137,33 @@ Thursday 1 December 2022 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 2 December 2022
+
+## [Rebuilding Ukraine by Reinforcing Regional and Municipal Governance](https://doi.org/10.1787/63a6b479-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 2 December 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
