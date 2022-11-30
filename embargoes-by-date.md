@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 November 2022 at 20:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 30 November 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 November 2022](#30-november-2022)
 * [1 December 2022](#1-december-2022)
@@ -30,15 +30,15 @@ Wednesday 30 November 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 30 November 2022 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -55,7 +55,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
 
 ### Additional Information
 
@@ -78,7 +78,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
 
 ### Additional Information
 
@@ -101,7 +101,7 @@ Wednesday 30 November 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 29 November 2022 at 19:58
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
 
 ### Additional Information
 
@@ -128,7 +128,7 @@ Thursday 1 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
 
 ### Additional Information
 
@@ -152,7 +152,7 @@ Friday 2 December 2022 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -163,7 +163,7 @@ Friday 2 December 2022 at 11:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -224,6 +224,29 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 ------
 
 # 8 December 2022
+
+## [Interagency Coordination in Economic Crime Investigations in Latvia](https://doi.org/10.1787/79d844e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 30 November 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Are Students Ready to Take on Environmental Challenges?](https://doi.org/10.1787/8abe655c-en)
 
