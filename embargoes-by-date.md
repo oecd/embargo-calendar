@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 November 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 1 December 2022 at 20:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 November 2022](#30-november-2022)
 * [1 December 2022](#1-december-2022)
@@ -128,7 +128,7 @@ Thursday 1 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 25 November 2022 at 20:37
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
+- [x] Exported to OECD.org Thursday 1 December 2022 at 19:56
 
 ### Additional Information
 
@@ -233,18 +233,18 @@ Thursday 8 December 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 30 November 2022 at 20:26
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
+- [x] Exported to OECD.org Thursday 1 December 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
