@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 December 2022 at 20:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Strengthening the social safety net in Korea](https://doi.org/10.1787/45486525-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 November 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 November 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Consumption Tax Trends 2022 - VAT/GST and Excise, Core Design Features and Trends](https://doi.org/10.1787/6525a942-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Revenue Statistics 2022 - The Impact of COVID-19 on OECD Tax Revenues](https://doi.org/10.1787/8a691b03-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Statistiques des recettes publiques 2022 - L'impact du COVID-19 sur les recettes fiscales de l'OCDE](https://doi.org/10.1787/96463460-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 November 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 30 November 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 2 December 2022 at 20:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Pensions Outlook 2022](https://doi.org/10.1787/20c7f443-en)
 
@@ -128,17 +36,40 @@ Friday 2 December 2022 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 2 December 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Biodiversity and development finance - Main trends, 2011-20](https://doi.org/10.1787/b04b14b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 December 2022 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -197,7 +128,7 @@ Thursday 8 December 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 December 2022 at 20:26
+- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 1 December 2022 at 19:56
 
@@ -473,7 +404,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
+- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
@@ -552,6 +483,29 @@ Thursday 15 December 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Tax Policy Reviews: Lithuania 2022](https://doi.org/10.1787/53952224-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 December 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
