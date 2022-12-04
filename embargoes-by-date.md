@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 December 2022 at 20:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 4 December 2022 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 December 2022](#1-december-2022)
-* [2 December 2022](#2-december-2022)
 * [5 December 2022](#5-december-2022)
 * [6 December 2022](#6-december-2022)
 * [8 December 2022](#8-december-2022)
@@ -15,60 +13,6 @@ Data generated on | |
 * [9 January 2023](#9-january-2023)
 * [16 January 2023](#16-january-2023)
 * [2 February 2023](#2-february-2023)
-
-------
-
-# 1 December 2022
-
-## [OECD Pensions Outlook 2022](https://doi.org/10.1787/20c7f443-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 December 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 November 2022 at 20:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 December 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 2 December 2022
-
-## [Rebuilding Ukraine by Reinforcing Regional and Municipal Governance](https://doi.org/10.1787/63a6b479-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 2 December 2022 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 December 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -85,7 +29,7 @@ Monday 5 December 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 December 2022 at 19:56
+- [x] Exported to OECD.org Sunday 4 December 2022 at 19:54
 
 ### Additional Information
 
@@ -108,7 +52,7 @@ Monday 5 December 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 25 November 2022 at 19:57
+- [x] Exported to OECD.org Sunday 4 December 2022 at 19:54
 
 ### Additional Information
 
@@ -421,7 +365,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Saturday 26 November 2022 at 1:22
+- [x] Exported to iLibrary Saturday 3 December 2022 at 1:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 25 November 2022 at 19:57
 
