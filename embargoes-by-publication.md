@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 December 2022 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 December 2022 at 20:43* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Biodiversity and development finance - Main trends, 2011-20](https://doi.org/10.1787/b04b14b7-en)
 
@@ -15,7 +15,7 @@ Monday 5 December 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 4 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 5 December 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 28 November 2022 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 4 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 November 2022 at 19:54
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
 
 ### Additional Information
 
@@ -70,6 +70,98 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [The Economic Case for More Gender Equality in Estonia](https://doi.org/10.1787/299d93b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 December 2022 at 16:57 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Product Market Regulation in Brazil](https://doi.org/10.1787/ea3dd09e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The pass-through of the monetary policy rate into lending rates in Mexico](https://doi.org/10.1787/acf23bc6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving the regulatory framework in the natural gas sector in Brazil](https://doi.org/10.1787/bfbb7653-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -93,6 +185,29 @@ Thursday 8 December 2022 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Are students ready to take on environmental challenges?](https://doi.org/10.1787/8148c568-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 December 2022 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -188,7 +303,7 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 
 ------
 
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2021 (version abrégée) - Cadre Inclusif sur le BEPS: Action 5](https://doi.org/10.1787/00298526-fr)
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2021 (version abrégée) - Cadre Inclusif sur le BEPS : Action 5](https://doi.org/10.1787/00298526-fr)
 
 Embargo date | Launch date
 -------------|:------------:
