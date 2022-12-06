@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 December 2022 at 20:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 December 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 December 2022](#5-december-2022)
 * [6 December 2022](#6-december-2022)
@@ -68,6 +68,29 @@ Monday 5 December 2022 at 11:00 | no launch event
 
 # 6 December 2022
 
+## [The Economic Case for More Gender Equality in Estonia](https://doi.org/10.1787/299d93b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 December 2022 at 7:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 December 2022 at 20:22
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
 
 Embargo date | Launch date
@@ -79,7 +102,7 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+- [x] Exported to OECD.org Tuesday 6 December 2022 at 19:54
 
 ### Additional Information
 
@@ -88,29 +111,6 @@ Tuesday 6 December 2022 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [The Economic Case for More Gender Equality in Estonia](https://doi.org/10.1787/299d93b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 December 2022 at 16:57 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 December 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
