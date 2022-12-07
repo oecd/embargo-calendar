@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 December 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Biodiversity and development finance - Main trends, 2011-20](https://doi.org/10.1787/b04b14b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 December 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Health at a Glance: Europe 2022 - State of Health in the EU Cycle](https://doi.org/10.1787/507433b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 December 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 November 2022 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 7 December 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Economic Case for More Gender Equality in Estonia](https://doi.org/10.1787/299d93b1-en)
 
@@ -107,7 +61,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
@@ -153,7 +107,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
@@ -176,7 +130,7 @@ Thursday 8 December 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 December 2022 at 19:56
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
@@ -199,7 +153,7 @@ Thursday 8 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 December 2022 at 19:54
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
@@ -219,16 +173,16 @@ Thursday 8 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -242,18 +196,18 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -261,7 +215,7 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 13 December 2022 at 15:00 | no launch event
+Tuesday 13 December 2022 at 18:00 | no launch event
 
 ### Status Information
 
@@ -579,6 +533,29 @@ Thursday 15 December 2022 at 10:00 | no launch event
 
 ------
 
+## [Identifying and characterising AI adopters - A novel approach based on big data](https://doi.org/10.1787/154981d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Public Governance Reviews: Honduras - Inclusive and Effective Governance for Better Outcomes](https://doi.org/10.1787/e6bda0b2-en)
 
 Embargo date | Launch date
@@ -598,7 +575,7 @@ Monday 9 January 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
