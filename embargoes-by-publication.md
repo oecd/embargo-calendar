@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 December 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Economic Case for More Gender Equality in Estonia](https://doi.org/10.1787/299d93b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 December 2022 at 7:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 December 2022 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 December 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Compendio de Prácticas de las Organizaciones Internacionales - Trabajando hacia instrumentos internacionales más efectivos](https://doi.org/10.1787/0d1792c6-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 December 2022 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 November 2022 at 20:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 December 2022 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 8 December 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Product Market Regulation in Brazil](https://doi.org/10.1787/ea3dd09e-en)
 
@@ -61,7 +15,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Thursday 8 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Thursday 8 December 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -153,7 +107,7 @@ Thursday 8 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 December 2022 at 20:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -174,9 +128,9 @@ Thursday 8 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
+- [x] Exported to iLibrary Thursday 8 December 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Thursday 8 December 2022 at 19:55
 
 ### Additional Information
 
@@ -197,7 +151,7 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
+- [x] Exported to iLibrary Thursday 8 December 2022 at 20:28
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
 
