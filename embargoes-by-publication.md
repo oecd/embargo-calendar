@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 December 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 9 December 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Product Market Regulation in Brazil](https://doi.org/10.1787/ea3dd09e-en)
 
@@ -196,7 +196,7 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -242,7 +242,7 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -418,6 +418,29 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 
 ------
 
+## [Rights in the digital age - Challenges and ways forward](https://doi.org/10.1787/deb707a8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 December 2022 at 20:23
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Policy Framework on Digital Security - Cybersecurity for Prosperity](https://doi.org/10.1787/a69df866-en)
 
 Embargo date | Launch date
@@ -483,7 +506,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, Paperback, PDF*
 
 ------
 
