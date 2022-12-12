@@ -2,7 +2,53 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 December 2022 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 12 December 2022 at 20:49* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Population ageing and government revenue - Expected trends and policy considerations to boost revenue](https://doi.org/10.1787/9ce9e8e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [How labour market outcomes reflect age, gender and skills in Korea](https://doi.org/10.1787/2e6be1f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
 
@@ -15,7 +61,7 @@ Tuesday 13 December 2022 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 8 December 2022 at 20:28
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
 
 ### Additional Information
 
@@ -35,18 +81,87 @@ Tuesday 13 December 2022 at 18:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Anti-corruption compliance in times of crisis - Building resilience and seizing opportunities](https://doi.org/10.1787/1f293a25-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Toolkit for raising awareness and preventing corruption in SMEs](https://doi.org/10.1787/19e99855-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing insolvency frameworks to support economic renewal](https://doi.org/10.1787/8ef45b50-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -81,7 +196,7 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -334,7 +449,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -357,7 +472,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -368,7 +483,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -392,6 +507,29 @@ Monday 19 December 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Resourcing Higher Education in Portugal](https://doi.org/10.1787/a91a175e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 December 2022 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
