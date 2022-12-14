@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 December 2022 at 21:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 14 December 2022 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Population ageing and government revenue - Expected trends and policy considerations to boost revenue](https://doi.org/10.1787/9ce9e8e3-en)
 
@@ -82,9 +82,9 @@ Tuesday 13 December 2022 at 18:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Wednesday 14 December 2022 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 14 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -151,15 +151,15 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -174,9 +174,9 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 December 2022 at 20:31
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 11:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -197,9 +197,9 @@ Wednesday 14 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 December 2022 at 20:31
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Wednesday 14 December 2022 at 11:25 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 14:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Wednesday 14 December 2022 at 11:26 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Wednesday 14 December 2022 at 11:27 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -291,7 +291,7 @@ Wednesday 14 December 2022 at 11:28 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -314,7 +314,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Saturday 3 December 2022 at 1:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -337,7 +337,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -360,7 +360,7 @@ Wednesday 14 December 2022 at 11:29 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 16 November 2022 at 20:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -383,7 +383,7 @@ Wednesday 14 December 2022 at 11:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 December 2022 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -403,16 +403,16 @@ Wednesday 14 December 2022 at 12:29 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -452,7 +452,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
 
 ### Additional Information
 
@@ -460,6 +460,29 @@ Thursday 15 December 2022 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [The Protection and Promotion of Civic Space - Strengthening Alignment with International Standards and Guidance](https://doi.org/10.1787/d234e975-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 December 2022 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
