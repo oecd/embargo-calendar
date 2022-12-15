@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 December 2022 at 21:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Population ageing and government revenue - Expected trends and policy considerations to boost revenue](https://doi.org/10.1787/9ce9e8e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How labour market outcomes reflect age, gender and skills in Korea](https://doi.org/10.1787/2e6be1f0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Review of Fisheries 2022](https://doi.org/10.1787/9c3ad238-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 December 2022 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 December 2022 at 20:28
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 December 2022 at 19:57
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Multi-dimensional Review of the Dominican Republic - Towards Greater Well-being for All](https://doi.org/10.1787/560c12bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 December 2022 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 15 December 2022 at 20:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Toolkit for raising awareness and preventing corruption in SMEs](https://doi.org/10.1787/19e99855-en)
 
@@ -427,15 +335,15 @@ Thursday 15 December 2022 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -452,7 +360,7 @@ Thursday 15 December 2022 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
 
 ### Additional Information
 
@@ -461,6 +369,52 @@ Thursday 15 December 2022 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Product market regulation in Indonesia - An international comparison](https://doi.org/10.1787/016eea51-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Policies to increase youth employment in Korea](https://doi.org/10.1787/fe10936d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -475,7 +429,7 @@ Friday 16 December 2022 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
 
 ### Additional Information
 
@@ -510,18 +464,64 @@ Monday 19 December 2022 at 6:00 | no launch event
 
 ------
 
-## [Resourcing Higher Education in Portugal](https://doi.org/10.1787/a91a175e-en)
+## [Macroeconomic and distributional consequences of net zero policies in the United Kingdom](https://doi.org/10.1787/a8849581-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 December 2022 at 8:00 | no launch event
+Monday 19 December 2022 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 December 2022 at 20:24
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 December 2022 at 19:55
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Policies to reach net zero emissions in the United Kingdom](https://doi.org/10.1787/f6625f01-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 December 2022 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Resourcing Higher Education in Portugal](https://doi.org/10.1787/a91a175e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 December 2022 at 14:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
 
 ### Additional Information
 
@@ -537,7 +537,7 @@ Monday 19 December 2022 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 9 January 2023 at 8:00 | no launch event
+Monday 16 January 2023 at 8:00 | no launch event
 
 ### Status Information
 
