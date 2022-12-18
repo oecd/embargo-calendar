@@ -2,137 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 December 2022 at 21:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 18 December 2022 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 December 2022](#15-december-2022)
-* [16 December 2022](#16-december-2022)
 * [19 December 2022](#19-december-2022)
 * [22 December 2022](#22-december-2022)
 * [16 January 2023](#16-january-2023)
 * [2 February 2023](#2-february-2023)
-
-------
-
-# 15 December 2022
-
-## [OECD Economic Surveys: Finland 2022](https://doi.org/10.1787/516252a7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 December 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Tax Policy Reviews: Lithuania 2022](https://doi.org/10.1787/53952224-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 December 2022 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 December 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 16 December 2022
-
-## [Product market regulation in Indonesia - An international comparison](https://doi.org/10.1787/016eea51-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Policies to increase youth employment in Korea](https://doi.org/10.1787/fe10936d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Protection and Promotion of Civic Space - Strengthening Alignment with International Standards and Guidance](https://doi.org/10.1787/d234e975-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 December 2022 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 16 December 2022 at 20:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -149,7 +24,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 December 2022 at 19:54
+- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
 
 ### Additional Information
 
@@ -172,7 +47,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
 
 ### Additional Information
 
@@ -195,7 +70,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
 
 ### Additional Information
 
@@ -218,7 +93,7 @@ Monday 19 December 2022 at 14:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 December 2022 at 19:56
+- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
 
 ### Additional Information
 
