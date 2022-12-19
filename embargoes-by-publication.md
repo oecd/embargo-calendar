@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 December 2022 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 19 December 2022 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Identifying and characterising AI adopters - A novel approach based on big data](https://doi.org/10.1787/154981d7-en)
 
@@ -15,7 +15,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 19 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 19 December 2022 at 14:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 December 2022 at 19:54
+- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
 
 ### Additional Information
 
@@ -185,6 +185,29 @@ Thursday 22 December 2022 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 January 2023 at 11:59 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-12-18T20:42:57.3062889+01:00">
+<report name="official-embargoes" generated="2022-12-19T21:18:51.4339677+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-12-07T19:24:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-12-18T18:54:22Z</cell>
+    <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-12-18T18:54:22Z</cell>
+    <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-12-18T18:54:22Z</cell>
+    <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -433,7 +433,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-12-18T18:54:22Z</cell>
+    <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -493,7 +493,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2022-12-18T18:54:22Z</cell>
+    <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -627,7 +627,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2022-12-19</cell>
     <cell name="embargo date">2022-12-19T14:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -1001,6 +1001,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd0a63df</cell>
   </row>
   <row index="50">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c5f11cd5-en</cell>
+    <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-10</cell>
+    <cell name="embargo date">2023-01-10T11:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b66f6220</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c5f11cd5-en</cell>
+    <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-10</cell>
+    <cell name="embargo date">2023-01-10T11:59:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e665c33</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -1020,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee73991</cell>
   </row>
-  <row index="51">
+  <row index="53">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -1040,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86149758</cell>
   </row>
-  <row index="52">
+  <row index="54">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -1060,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0934caf</cell>
   </row>
-  <row index="53">
+  <row index="55">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -1080,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
   </row>
-  <row index="54">
+  <row index="56">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -1100,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74debaed</cell>
   </row>
-  <row index="55">
+  <row index="57">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -1120,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/946e5f3f</cell>
   </row>
-  <row index="56">
+  <row index="58">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -1140,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a1024f</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
