@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 December 2022 at 21:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 20 December 2022 at 20:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Identifying and characterising AI adopters - A novel approach based on big data](https://doi.org/10.1787/154981d7-en)
 
@@ -276,6 +276,29 @@ Thursday 2 February 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Costa Rica 2023](https://doi.org/10.1787/8e8171b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 February 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

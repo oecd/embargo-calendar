@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2022-12-19T21:18:51.4339677+01:00">
+<report name="official-embargoes" generated="2022-12-20T20:59:40.2830984+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2022-12-07T19:24:21Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -74,7 +74,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -254,7 +254,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -334,7 +334,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -434,8 +434,8 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
+    <cell name="google last export date">2022-12-19T20:33:16Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a40fa66</cell>
@@ -495,7 +495,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2022-12-19T19:01:24Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-12-19T20:33:16Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65edbd48</cell>
@@ -514,7 +514,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -594,7 +594,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -635,7 +635,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-12-19T20:33:16Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecdbf25c</cell>
@@ -695,7 +695,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2022-12-19T20:33:16Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec70c355</cell>
@@ -714,7 +714,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -734,7 +734,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -754,7 +754,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -874,7 +874,7 @@
     <cell name="ilibrary last export date">2022-12-15T19:26:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2022-12-19T20:45:30Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1199,5 +1199,45 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb73c20</cell>
+  </row>
+  <row index="60">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8e8171b0-en</cell>
+    <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-02-06T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d9cb652</cell>
+  </row>
+  <row index="61">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/8e8171b0-en</cell>
+    <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-02-06T15:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/579a5d13</cell>
   </row>
 </report>
