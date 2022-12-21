@@ -2,110 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 December 2022 at 20:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 December 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 December 2022](#19-december-2022)
 * [22 December 2022](#22-december-2022)
 * [10 January 2023](#10-january-2023)
 * [16 January 2023](#16-january-2023)
 * [2 February 2023](#2-february-2023)
 * [6 February 2023](#6-february-2023)
-
-------
-
-# 19 December 2022
-
-## [Identifying and characterising AI adopters - A novel approach based on big data](https://doi.org/10.1787/154981d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 December 2022 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Macroeconomic and distributional consequences of net zero policies in the United Kingdom](https://doi.org/10.1787/a8849581-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Policies to reach net zero emissions in the United Kingdom](https://doi.org/10.1787/f6625f01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 December 2022 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Resourcing Higher Education in Portugal](https://doi.org/10.1787/a91a175e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 December 2022 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 December 2022 at 20:26
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 December 2022 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -122,7 +25,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
 
 ### Additional Information
 
@@ -145,7 +48,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
 
 ### Additional Information
 
@@ -168,7 +71,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
 
 ### Additional Information
 
@@ -191,7 +94,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 16 December 2022 at 19:59
+- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
 
 ### Additional Information
 
