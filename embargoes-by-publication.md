@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 December 2022 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 22 December 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening the tax system to reduce inequalities and increase revenues in South Africa](https://doi.org/10.1787/9857a89a-en)
 
@@ -15,7 +15,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 December 2022 at 20:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 December 2022 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 December 2022](#22-december-2022)
 * [10 January 2023](#10-january-2023)
@@ -25,7 +25,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -48,7 +48,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -71,7 +71,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
@@ -94,7 +94,7 @@ Thursday 22 December 2022 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 16 December 2022 at 20:31
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 December 2022 at 19:56
+- [x] Exported to OECD.org Thursday 22 December 2022 at 19:54
 
 ### Additional Information
 
