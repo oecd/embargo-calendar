@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 December 2022 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 23 December 2022 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening the tax system to reduce inequalities and increase revenues in South Africa](https://doi.org/10.1787/9857a89a-en)
 
