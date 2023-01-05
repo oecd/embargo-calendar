@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 January 2023 at 20:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 5 January 2023 at 20:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 January 2023](#10-january-2023)
 * [16 January 2023](#16-january-2023)
@@ -17,7 +17,7 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 January 2023 at 11:59 | no launch event
+Tuesday 10 January 2023 at 10:00 | no launch event
 
 ### Status Information
 
