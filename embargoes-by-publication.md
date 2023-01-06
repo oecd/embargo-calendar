@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 January 2023 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 6 January 2023 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 January 2023 at 10:00 | no launch event
+Tuesday 10 January 2023 at 11:00 | no launch event
 
 ### Status Information
 

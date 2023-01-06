@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-01-05T20:35:03.5793345+01:00">
+<report name="official-embargoes" generated="2023-01-06T20:41:12.4088804+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -26,7 +26,7 @@
     <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
+    <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2023-01-10</cell>
     <cell name="embargo date">2023-01-10T10:00:00Z</cell>
@@ -38,7 +38,7 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b66f6220</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e665c33</cell>
   </row>
   <row index="2">
     <cell name="directorate">Economics Department</cell>
@@ -46,10 +46,10 @@
     <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
+    <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2023-01-10</cell>
-    <cell name="embargo date">2023-01-10T11:59:00Z</cell>
+    <cell name="embargo date">2023-01-10T11:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -58,7 +58,7 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e665c33</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b66f6220</cell>
   </row>
   <row index="3">
     <cell name="directorate">Directorate for Public Governance</cell>
