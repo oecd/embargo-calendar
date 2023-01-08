@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 January 2023 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 8 January 2023 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
 
