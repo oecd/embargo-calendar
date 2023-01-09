@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 January 2023 at 20:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 January 2023 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
 
@@ -12,7 +12,7 @@ Tuesday 10 January 2023 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -24,6 +24,29 @@ Tuesday 10 January 2023 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Comment les établissements d’enseignement primaire publics sont-ils financés ?](https://doi.org/10.1787/462c666e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 January 2023 at 20:24
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 9 January 2023 at 19:57
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

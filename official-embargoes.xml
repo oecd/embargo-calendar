@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-01-08T20:35:11.5397812+01:00">
+<report name="official-embargoes" generated="2023-01-09T20:54:31.2341444+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -26,26 +26,6 @@
     <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-01-10</cell>
-    <cell name="embargo date">2023-01-10T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e665c33</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/c5f11cd5-en</cell>
-    <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2023-01-10</cell>
@@ -57,10 +37,50 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b66f6220</cell>
   </row>
+  <row index="2">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c5f11cd5-en</cell>
+    <cell name="title">OECD Economic Surveys: Greece 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-01-10</cell>
+    <cell name="embargo date">2023-01-10T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e665c33</cell>
+  </row>
   <row index="3">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/462c666e-fr</cell>
+    <cell name="title">Comment les établissements d’enseignement primaire publics sont-ils financés ? (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-01-11</cell>
+    <cell name="embargo date">2023-01-11T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-01-09T19:24:37Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-01-09T18:57:37Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be44f3d6</cell>
+  </row>
+  <row index="4">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -80,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee73991</cell>
   </row>
-  <row index="4">
+  <row index="5">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -100,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86149758</cell>
   </row>
-  <row index="5">
+  <row index="6">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -120,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0934caf</cell>
   </row>
-  <row index="6">
+  <row index="7">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -140,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
   </row>
-  <row index="7">
+  <row index="8">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -160,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74debaed</cell>
   </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -180,7 +200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/946e5f3f</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -200,7 +220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a1024f</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -220,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb73c20</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/8e8171b0-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
@@ -228,7 +248,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-06</cell>
     <cell name="embargo date">2023-02-06T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -240,7 +260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d9cb652</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/8e8171b0-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
@@ -248,7 +268,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-06</cell>
     <cell name="embargo date">2023-02-06T15:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
