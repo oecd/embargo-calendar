@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 January 2023 at 20:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 January 2023 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
 
@@ -13,15 +13,15 @@ Tuesday 10 January 2023 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 10 January 2023 at 20:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 10 January 2023 at 19:55
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -38,7 +38,7 @@ Wednesday 11 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 January 2023 at 20:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 January 2023 at 19:57
+- [x] Exported to OECD.org Tuesday 10 January 2023 at 19:55
 
 ### Additional Information
 
@@ -73,11 +73,11 @@ Monday 16 January 2023 at 8:00 | no launch event
 
 ------
 
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+## [Measuring the joint distribution of household income, consumption and wealth at the micro level](https://doi.org/10.1787/f9d85db6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 16 January 2023 at 9:00 | no launch event
+Wednesday 25 January 2023 at 6:00 | no launch event
 
 ### Status Information
 
@@ -88,11 +88,11 @@ Monday 16 January 2023 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -138,6 +138,75 @@ Monday 6 February 2023 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Development Co-operation Report 2023 - Debating the Aid System](https://doi.org/10.1787/f6edc3c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 February 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 March 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market](https://doi.org/10.1787/2aa7bcc1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
