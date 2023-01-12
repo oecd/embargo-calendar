@@ -2,44 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 January 2023 at 20:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 12 January 2023 at 20:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 January 2023](#10-january-2023)
 * [11 January 2023](#11-january-2023)
-* [20 January 2023](#20-january-2023)
 * [25 January 2023](#25-january-2023)
+* [30 January 2023](#30-january-2023)
 * [2 February 2023](#2-february-2023)
 * [6 February 2023](#6-february-2023)
 * [14 February 2023](#14-february-2023)
 * [1 March 2023](#1-march-2023)
 * [16 March 2023](#16-march-2023)
-
-------
-
-# 10 January 2023
-
-## [OECD Economic Surveys: Greece 2023](https://doi.org/10.1787/c5f11cd5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 January 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 January 2023 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 January 2023 at 19:55
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -70,33 +42,6 @@ Wednesday 11 January 2023 at 6:00 | no launch event
 
 ------
 
-# 20 January 2023
-
-## [OECD Public Governance Reviews: Honduras - Inclusive and Effective Governance for Better Outcomes](https://doi.org/10.1787/e6bda0b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 January 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 25 January 2023
 
 ## [Measuring the joint distribution of household income, consumption and wealth at the micro level](https://doi.org/10.1787/f9d85db6-en)
@@ -119,6 +64,33 @@ Wednesday 25 January 2023 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+------
+
+# 30 January 2023
+
+## [OECD Public Governance Reviews: Honduras - Inclusive and Effective Governance for Better Outcomes](https://doi.org/10.1787/e6bda0b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 January 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
