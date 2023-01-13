@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 January 2023 at 20:57* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Comment les établissements d’enseignement primaire publics sont-ils financés ?](https://doi.org/10.1787/462c666e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 January 2023 at 20:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 January 2023 at 19:57
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 13 January 2023 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring the joint distribution of household income, consumption and wealth at the micro level](https://doi.org/10.1787/f9d85db6-en)
 

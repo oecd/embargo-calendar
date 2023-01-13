@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/462c666e-frd3e63
-SUMMARY:[Paper] Comment les établissements d’ens
- eignement primaire publics sont-ils fina
- ncés ?
-DESCRIPTION:*[Paper] Comment les établissements d’en
- seignement primaire publics sont-ils fin
- ancés ?*\n\nDirectorate: Directorate for
-  Education and Skills\nLanguage: French\
- nDOI: https://doi.org/10.1787/462c666e-f
- r\nPublication type: Paper\nReleased as:
-  PDF\n\nEmbargo date/time: Wednesday, 11
-  January 2023, 6:00 (GMT)\n\n\niLibrary 
- export: Monday, 9 January 2023, 19:24 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Wednesday, 11 January 2023, 18:
- 57 (GMT)\nFTI loaded: ✓\n\nFor more info
- rmation see: https://oecd.github.io/emba
- rgo-calendar/embargoes-by-publication.ht
- ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:57, 
- it is updated each night; therefore any 
- subsequent updates may not yet be visibl
- e here. Also, please be aware that the d
- ifferent released media (PDF, HTML, etc.
- ) are not necessarily released at the sa
- me time. For complete and up-to-date inf
- ormation see here: http://kappa.oecd.org
- /v3/search?term=462c666e-fr.
-DTSTAMP:20230112T205749Z
-DTSTART:20230111T060000Z
-DTEND:20230111T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Comment les établissem
- ents d’enseignement primaire publics son
- t-ils financés ?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f9d85db6-end3e119
+UID:10.1787/f9d85db6-end3e63
 SUMMARY:[Paper] Measuring the joint distribution
   of household income, consumption and we
  alth at the micro level
@@ -64,7 +21,7 @@ DESCRIPTION:*[Paper] Measuring the joint distributio
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:57, it is update
+ of this afternoon at 20:46, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -73,7 +30,7 @@ DESCRIPTION:*[Paper] Measuring the joint distributio
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=f9d85db6-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230125T060040Z
 DTEND:20230125T061540Z
 TRANSP:TRANSPARENT
@@ -88,7 +45,7 @@ DESCRIPTION:Reminder: [Paper] Measuring the joint di
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e224
+UID:10.1787/e6bda0b2-end3e168
 SUMMARY:[Book] OECD Public Governance Reviews: H
  onduras - Inclusive and Effective Govern
  ance for Better Outcomes
@@ -106,7 +63,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:57, 
+  correct as of this afternoon at 20:46, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -115,7 +72,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=e6bda0b2-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230130T160000Z
 DTEND:20230130T161500Z
 TRANSP:TRANSPARENT
@@ -130,7 +87,7 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/115b186e-end3e278
+UID:10.1787/115b186e-end3e221
 SUMMARY:[Book] Evaluation of Active Labour Marke
  t Policies in Finland
 DESCRIPTION:*[Book] Evaluation of Active Labour Mark
@@ -147,7 +104,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:57, it is updated each nig
+ ternoon at 20:46, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -156,7 +113,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=115b18
  6e-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230202T070000Z
 DTEND:20230202T071500Z
 TRANSP:TRANSPARENT
@@ -170,7 +127,7 @@ DESCRIPTION:Reminder: [Book] Evaluation of Active La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e8171b0-end3e434
+UID:10.1787/8e8171b0-end3e378
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Costa Rica 2023
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -186,7 +143,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:57, it is upda
+ s of this afternoon at 20:46, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -195,7 +152,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=8e8171b0-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230206T150000Z
 DTEND:20230206T151500Z
 TRANSP:TRANSPARENT
@@ -209,7 +166,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6edc3c2-end3e486
+UID:10.1787/f6edc3c2-end3e430
 SUMMARY:[Book] Development Co-operation Report 2
  023 - Debating the Aid System
 DESCRIPTION:*[Book] Development Co-operation Report 
@@ -226,7 +183,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:57, it is updated each night; there
+ t 20:46, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -234,7 +191,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=f6edc3c2-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230214T070000Z
 DTEND:20230214T071500Z
 TRANSP:TRANSPARENT
@@ -248,7 +205,7 @@ DESCRIPTION:Reminder: [Book] Development Co-operatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5aeddbfe-end3e645
+UID:10.1787/5aeddbfe-end3e589
 SUMMARY:[Book] Introduction Measures for Newly-A
  rrived Migrants
 DESCRIPTION:*[Book] Introduction Measures for Newly-
@@ -265,7 +222,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:57, it is updated each
+ s afternoon at 20:46, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -274,7 +231,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=5a
  eddbfe-en.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230301T090000Z
 DTEND:20230301T091500Z
 TRANSP:TRANSPARENT
@@ -288,7 +245,7 @@ DESCRIPTION:Reminder: [Book] Introduction Measures f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e853
+UID:10.1787/2aa7bcc1-end3e797
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -309,7 +266,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:57, it is updated each night; 
+ oon at 20:46, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -318,7 +275,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230112T205749Z
+DTSTAMP:20230113T204613Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT

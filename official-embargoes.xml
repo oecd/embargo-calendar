@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-01-12T20:57:46.3846061+01:00">
+<report name="official-embargoes" generated="2023-01-13T20:46:09.8503088+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Directorate for Education and Skills</cell>
-    <cell name="doi">10.1787/462c666e-fr</cell>
-    <cell name="title">Comment les établissements d’enseignement primaire publics sont-ils financés ? (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2023-01-11</cell>
-    <cell name="embargo date">2023-01-11T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-01-09T19:24:37Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-01-11T18:57:23Z</cell>
-    <cell name="discoveryservice last export date">2023-01-11T20:21:39Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be44f3d6</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/f9d85db6-en</cell>
     <cell name="title">Measuring the joint distribution of household income, consumption and wealth at the micro level (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/356b66e6</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee73991</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e6bda0b2-en</cell>
     <cell name="title">OECD Public Governance Reviews: Honduras (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86149758</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a1024f</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/115b186e-en</cell>
     <cell name="title">Evaluation of Active Labour Market Policies in Finland (en)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb73c20</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/8e8171b0-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d9cb652</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/8e8171b0-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2023 (en)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/579a5d13</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/f6edc3c2-en</cell>
     <cell name="title">Development Co-operation Report 2023 (en)</cell>
@@ -200,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/650c7368</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/f6edc3c2-en</cell>
     <cell name="title">Development Co-operation Report 2023 (en)</cell>
@@ -220,7 +200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29956dbe</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -240,7 +220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0934caf</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -280,7 +260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74debaed</cell>
   </row>
-  <row index="14">
+  <row index="13">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -300,7 +280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/946e5f3f</cell>
   </row>
-  <row index="15">
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>
@@ -320,7 +300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e50dfe9d</cell>
   </row>
-  <row index="16">
+  <row index="15">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>
