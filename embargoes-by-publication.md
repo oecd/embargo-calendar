@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 January 2023 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 15 January 2023 at 20:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring the joint distribution of household income, consumption and wealth at the micro level](https://doi.org/10.1787/f9d85db6-en)
 
