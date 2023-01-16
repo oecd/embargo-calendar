@@ -2,15 +2,42 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 January 2023 at 20:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 16 January 2023 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [20 January 2023](#20-january-2023)
 * [25 January 2023](#25-january-2023)
 * [30 January 2023](#30-january-2023)
 * [2 February 2023](#2-february-2023)
 * [6 February 2023](#6-february-2023)
 * [14 February 2023](#14-february-2023)
-* [1 March 2023](#1-march-2023)
 * [16 March 2023](#16-march-2023)
+
+------
+
+# 20 January 2023
+
+## [How do mass lay-offs affect regional economies?](https://doi.org/10.1787/99d48aeb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 January 2023 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 January 2023 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -52,15 +79,15 @@ Monday 30 January 2023 at 16:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 16 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 16 January 2023 at 19:55
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -144,33 +171,6 @@ Tuesday 14 February 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 1 March 2023
-
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
