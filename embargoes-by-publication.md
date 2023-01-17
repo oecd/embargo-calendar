@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 January 2023 at 20:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 January 2023 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do mass lay-offs affect regional economies?](https://doi.org/10.1787/99d48aeb-en)
 
@@ -73,6 +73,29 @@ Monday 30 January 2023 at 16:00 | no launch event
 
 ------
 
+## [EU Country Cancer Profile: Austria 2023](https://doi.org/10.1787/798b21c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Evaluation of Active Labour Market Policies in Finland](https://doi.org/10.1787/115b186e-en)
 
 Embargo date | Launch date
@@ -135,6 +158,29 @@ Tuesday 14 February 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
