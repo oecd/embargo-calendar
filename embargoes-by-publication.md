@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 January 2023 at 20:48* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 18 January 2023 at 20:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do mass lay-offs affect regional economies?](https://doi.org/10.1787/99d48aeb-en)
 
@@ -58,22 +58,666 @@ Monday 30 January 2023 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 January 2023 at 20:21
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 18 January 2023 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 January 2023 at 19:55
+- [x] Exported to OECD.org Wednesday 18 January 2023 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [EU Country Cancer Profile: France 2023](https://doi.org/10.1787/7abfbfad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Croatia 2023](https://doi.org/10.1787/372db8b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Netherlands 2023](https://doi.org/10.1787/89b32870-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Romania 2023](https://doi.org/10.1787/267467c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Slovak Republic 2023](https://doi.org/10.1787/01a8d361-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Ireland 2023](https://doi.org/10.1787/f31164f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
 ## [EU Country Cancer Profile: Austria 2023](https://doi.org/10.1787/798b21c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Sweden 2023](https://doi.org/10.1787/7b5ff594-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Greece 2023](https://doi.org/10.1787/30b7e1f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Bulgaria 2023](https://doi.org/10.1787/f6915046-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Iceland 2023](https://doi.org/10.1787/263d7eb3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Cyprus 2023](https://doi.org/10.1787/86732eb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Estonia 2023](https://doi.org/10.1787/8434f41c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Slovenia 2023](https://doi.org/10.1787/cd631ba0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Malta 2023](https://doi.org/10.1787/cff97a9a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Norway 2023](https://doi.org/10.1787/0fcf5d28-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Lithuania 2023](https://doi.org/10.1787/31316f70-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Belgium 2023](https://doi.org/10.1787/9a976db3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Hungary 2023](https://doi.org/10.1787/ccaf0398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Germany 2023](https://doi.org/10.1787/fcc8586e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Denmark 2023](https://doi.org/10.1787/ee590fe8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Latvia 2023](https://doi.org/10.1787/3b2c7642-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Spain 2023](https://doi.org/10.1787/260cd4e0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Finland 2023](https://doi.org/10.1787/427186d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Portugal 2023](https://doi.org/10.1787/2f84bf79-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Luxembourg 2023](https://doi.org/10.1787/6c6cdb7d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Poland 2023](https://doi.org/10.1787/04cfc3ee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Italy 2023](https://doi.org/10.1787/a0a66c1d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [EU Country Cancer Profile: Czech Republic 2023](https://doi.org/10.1787/c37fd099-en)
 
 Embargo date | Launch date
 -------------|:------------:

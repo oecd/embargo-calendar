@@ -20,7 +20,7 @@ DESCRIPTION:*[Paper] How do mass lay-offs affect reg
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 20:48, it is updated each
+ s afternoon at 20:51, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -29,7 +29,7 @@ DESCRIPTION:*[Paper] How do mass lay-offs affect reg
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=99
  d48aeb-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230120T060000Z
 DTEND:20230120T061500Z
 TRANSP:TRANSPARENT
@@ -62,7 +62,7 @@ DESCRIPTION:*[Paper] Measuring the joint distributio
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 20:48, it is update
+ of this afternoon at 20:51, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -71,7 +71,7 @@ DESCRIPTION:*[Paper] Measuring the joint distributio
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=f9d85db6-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230125T060040Z
 DTEND:20230125T061540Z
 TRANSP:TRANSPARENT
@@ -86,7 +86,7 @@ DESCRIPTION:Reminder: [Paper] Measuring the joint di
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e223
+UID:10.1787/e6bda0b2-end3e1149
 SUMMARY:[Book] OECD Public Governance Reviews: H
  onduras - Inclusive and Effective Govern
  ance for Better Outcomes
@@ -96,26 +96,26 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  e: Directorate for Public Governance\nLa
  nguage: English\nDOI: https://doi.org/10
  .1787/e6bda0b2-en\nPublication type: Boo
- k\nReleased as: Paperback, PDF\n\nEmbarg
- o date/time: Monday, 30 January 2023, 16
- :00 (GMT)\n\n\niLibrary export: Monday, 
- 16 January 2023, 19:21 (GMT)\nFreeprevie
- w export: never\nOECD.org export: Monday
- , 16 January 2023, 18:55 (GMT)\nFTI load
- ed: ✗\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 20:48, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=e6
- bda0b2-en.
-DTSTAMP:20230117T204846Z
+ k\nReleased as: ePub, HTML, Paperback, P
+ DF, ZXML\n\nEmbargo date/time: Monday, 3
+ 0 January 2023, 16:00 (GMT)\n\n\niLibrar
+ y export: Wednesday, 18 January 2023, 19
+ :23 (GMT)\nFreepreview export: never\nOE
+ CD.org export: Wednesday, 18 January 202
+ 3, 18:54 (GMT)\nFTI loaded: ✓\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 0:51, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=e6bda0b2-en.
+DTSTAMP:20230118T205120Z
 DTSTART:20230130T160000Z
 DTEND:20230130T161500Z
 TRANSP:TRANSPARENT
@@ -130,7 +130,241 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/798b21c9-end3e279
+UID:10.1787/7abfbfad-end3e1205
+SUMMARY:[Book] EU Country Cancer Profile: France
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Franc
+ e 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/7abfbfad-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=7abfbfad-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: France 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/372db8b8-end3e1257
+SUMMARY:[Book] EU Country Cancer Profile: Croati
+ a 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Croat
+ ia 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/372db8b8-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=372db8b8-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Croatia 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/89b32870-end3e1308
+SUMMARY:[Book] EU Country Cancer Profile: Nether
+ lands 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Nethe
+ rlands 2023*\n\nDirectorate: Directorate
+  for Employment, Labour and Social Affai
+ rs\nLanguage: English\nDOI: https://doi.
+ org/10.1787/89b32870-en\nPublication typ
+ e: Book\nReleased as: PDF\n\nEmbargo dat
+ e/time: Wednesday, 1 February 2023, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 20:51, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=89b32870-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Netherlands 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/267467c6-end3e1359
+SUMMARY:[Book] EU Country Cancer Profile: Romani
+ a 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Roman
+ ia 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/267467c6-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=267467c6-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Romania 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/01a8d361-end3e1410
+SUMMARY:[Book] EU Country Cancer Profile: Slovak
+  Republic 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Slova
+ k Republic 2023*\n\nDirectorate: Directo
+ rate for Employment, Labour and Social A
+ ffairs\nLanguage: English\nDOI: https://
+ doi.org/10.1787/01a8d361-en\nPublication
+  type: Book\nReleased as: PDF\n\nEmbargo
+  date/time: Wednesday, 1 February 2023, 
+ 9:00 (GMT)\n\n\niLibrary export: never\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✗\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 20:51,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=01a8d361-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Slovak Republic 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f31164f8-end3e1461
+SUMMARY:[Book] EU Country Cancer Profile: Irelan
+ d 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Irela
+ nd 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/f31164f8-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=f31164f8-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Ireland 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/798b21c9-end3e1512
 SUMMARY:[Book] EU Country Cancer Profile: Austri
  a 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
@@ -146,7 +380,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:48, it is u
+ t as of this afternoon at 20:51, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -155,7 +389,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=798b21c9-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -169,7 +403,865 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/115b186e-end3e330
+UID:10.1787/7b5ff594-end3e1564
+SUMMARY:[Book] EU Country Cancer Profile: Sweden
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Swede
+ n 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/7b5ff594-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=7b5ff594-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Sweden 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/30b7e1f9-end3e1615
+SUMMARY:[Book] EU Country Cancer Profile: Greece
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Greec
+ e 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/30b7e1f9-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=30b7e1f9-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Greece 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f6915046-end3e1666
+SUMMARY:[Book] EU Country Cancer Profile: Bulgar
+ ia 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Bulga
+ ria 2023*\n\nDirectorate: Directorate fo
+ r Employment, Labour and Social Affairs\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/f6915046-en\nPublication type: 
+ Book\nReleased as: PDF\n\nEmbargo date/t
+ ime: Wednesday, 1 February 2023, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:51, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=f6915046-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Bulgaria 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/263d7eb3-end3e1717
+SUMMARY:[Book] EU Country Cancer Profile: Icelan
+ d 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Icela
+ nd 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/263d7eb3-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=263d7eb3-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Iceland 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/86732eb6-end3e1768
+SUMMARY:[Book] EU Country Cancer Profile: Cyprus
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Cypru
+ s 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/86732eb6-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=86732eb6-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Cyprus 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8434f41c-end3e1819
+SUMMARY:[Book] EU Country Cancer Profile: Estoni
+ a 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Eston
+ ia 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/8434f41c-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=8434f41c-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Estonia 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cd631ba0-end3e1871
+SUMMARY:[Book] EU Country Cancer Profile: Sloven
+ ia 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Slove
+ nia 2023*\n\nDirectorate: Directorate fo
+ r Employment, Labour and Social Affairs\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/cd631ba0-en\nPublication type: 
+ Book\nReleased as: PDF\n\nEmbargo date/t
+ ime: Wednesday, 1 February 2023, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:51, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=cd631ba0-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Slovenia 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cff97a9a-end3e1922
+SUMMARY:[Book] EU Country Cancer Profile: Malta 
+ 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Malta
+  2023*\n\nDirectorate: Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/cff97a9a-en\nPublication type: Boo
+ k\nReleased as: PDF\n\nEmbargo date/time
+ : Wednesday, 1 February 2023, 9:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:51, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=cff97a9a-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Malta 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0fcf5d28-end3e1973
+SUMMARY:[Book] EU Country Cancer Profile: Norway
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Norwa
+ y 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/0fcf5d28-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=0fcf5d28-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Norway 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/31316f70-end3e2024
+SUMMARY:[Book] EU Country Cancer Profile: Lithua
+ nia 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Lithu
+ ania 2023*\n\nDirectorate: Directorate f
+ or Employment, Labour and Social Affairs
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/31316f70-en\nPublication type:
+  Book\nReleased as: PDF\n\nEmbargo date/
+ time: Wednesday, 1 February 2023, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✗\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 20:51, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=31316f70-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Lithuania 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9a976db3-end3e2075
+SUMMARY:[Book] EU Country Cancer Profile: Belgiu
+ m 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Belgi
+ um 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/9a976db3-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=9a976db3-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Belgium 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ccaf0398-end3e2126
+SUMMARY:[Book] EU Country Cancer Profile: Hungar
+ y 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Hunga
+ ry 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/ccaf0398-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=ccaf0398-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Hungary 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fcc8586e-end3e2178
+SUMMARY:[Book] EU Country Cancer Profile: German
+ y 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Germa
+ ny 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/fcc8586e-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=fcc8586e-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Germany 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ee590fe8-end3e2229
+SUMMARY:[Book] EU Country Cancer Profile: Denmar
+ k 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Denma
+ rk 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/ee590fe8-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=ee590fe8-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Denmark 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3b2c7642-end3e2280
+SUMMARY:[Book] EU Country Cancer Profile: Latvia
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Latvi
+ a 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/3b2c7642-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=3b2c7642-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Latvia 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/260cd4e0-end3e2331
+SUMMARY:[Book] EU Country Cancer Profile: Spain 
+ 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Spain
+  2023*\n\nDirectorate: Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/260cd4e0-en\nPublication type: Boo
+ k\nReleased as: PDF\n\nEmbargo date/time
+ : Wednesday, 1 February 2023, 9:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:51, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=260cd4e0-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Spain 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/427186d4-end3e2382
+SUMMARY:[Book] EU Country Cancer Profile: Finlan
+ d 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Finla
+ nd 2023*\n\nDirectorate: Directorate for
+  Employment, Labour and Social Affairs\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/427186d4-en\nPublication type: B
+ ook\nReleased as: PDF\n\nEmbargo date/ti
+ me: Wednesday, 1 February 2023, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 20:51, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=427186d4-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Finland 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2f84bf79-end3e2433
+SUMMARY:[Book] EU Country Cancer Profile: Portug
+ al 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Portu
+ gal 2023*\n\nDirectorate: Directorate fo
+ r Employment, Labour and Social Affairs\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/2f84bf79-en\nPublication type: 
+ Book\nReleased as: PDF\n\nEmbargo date/t
+ ime: Wednesday, 1 February 2023, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 20:51, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=2f84bf79-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Portugal 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6c6cdb7d-end3e2485
+SUMMARY:[Book] EU Country Cancer Profile: Luxemb
+ ourg 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Luxem
+ bourg 2023*\n\nDirectorate: Directorate 
+ for Employment, Labour and Social Affair
+ s\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/6c6cdb7d-en\nPublication type
+ : Book\nReleased as: PDF\n\nEmbargo date
+ /time: Wednesday, 1 February 2023, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✗\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 20:51, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=6c6cdb7d-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Luxembourg 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/04cfc3ee-end3e2536
+SUMMARY:[Book] EU Country Cancer Profile: Poland
+  2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Polan
+ d 2023*\n\nDirectorate: Directorate for 
+ Employment, Labour and Social Affairs\nL
+ anguage: English\nDOI: https://doi.org/1
+ 0.1787/04cfc3ee-en\nPublication type: Bo
+ ok\nReleased as: PDF\n\nEmbargo date/tim
+ e: Wednesday, 1 February 2023, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 20:51, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=04cfc3ee-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Poland 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a0a66c1d-end3e2587
+SUMMARY:[Book] EU Country Cancer Profile: Italy 
+ 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Italy
+  2023*\n\nDirectorate: Directorate for E
+ mployment, Labour and Social Affairs\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/a0a66c1d-en\nPublication type: Boo
+ k\nReleased as: PDF\n\nEmbargo date/time
+ : Wednesday, 1 February 2023, 9:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 20:51, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=a0a66c1d-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Italy 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c37fd099-end3e2638
+SUMMARY:[Book] EU Country Cancer Profile: Czech 
+ Republic 2023
+DESCRIPTION:*[Book] EU Country Cancer Profile: Czech
+  Republic 2023*\n\nDirectorate: Director
+ ate for Employment, Labour and Social Af
+ fairs\nLanguage: English\nDOI: https://d
+ oi.org/10.1787/c37fd099-en\nPublication 
+ type: Book\nReleased as: PDF\n\nEmbargo 
+ date/time: Wednesday, 1 February 2023, 9
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✗\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 20:51, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=c37fd099-en.
+DTSTAMP:20230118T205120Z
+DTSTART:20230201T090000Z
+DTEND:20230201T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
+ le: Czech Republic 2023
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/115b186e-end3e2689
 SUMMARY:[Book] Evaluation of Active Labour Marke
  t Policies in Finland
 DESCRIPTION:*[Book] Evaluation of Active Labour Mark
@@ -186,7 +1278,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 20:48, it is updated each nig
+ ternoon at 20:51, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -195,7 +1287,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=115b18
  6e-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230202T070000Z
 DTEND:20230202T071500Z
 TRANSP:TRANSPARENT
@@ -209,7 +1301,7 @@ DESCRIPTION:Reminder: [Book] Evaluation of Active La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e8171b0-end3e486
+UID:10.1787/8e8171b0-end3e2846
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Costa Rica 2023
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -225,7 +1317,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:48, it is upda
+ s of this afternoon at 20:51, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -234,7 +1326,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=8e8171b0-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230206T150000Z
 DTEND:20230206T151500Z
 TRANSP:TRANSPARENT
@@ -248,7 +1340,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6edc3c2-end3e538
+UID:10.1787/f6edc3c2-end3e2898
 SUMMARY:[Book] Development Co-operation Report 2
  023 - Debating the Aid System
 DESCRIPTION:*[Book] Development Co-operation Report 
@@ -265,7 +1357,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:48, it is updated each night; there
+ t 20:51, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -273,7 +1365,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=f6edc3c2-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230214T070000Z
 DTEND:20230214T071500Z
 TRANSP:TRANSPARENT
@@ -287,7 +1379,7 @@ DESCRIPTION:Reminder: [Book] Development Co-operatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0175ae95-end3e696
+UID:10.1787/0175ae95-end3e3055
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Israel 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -303,7 +1395,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:48, it is updated eac
+ is afternoon at 20:51, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -312,7 +1404,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  175ae95-en.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230308T080000Z
 DTEND:20230308T081500Z
 TRANSP:TRANSPARENT
@@ -326,7 +1418,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e799
+UID:10.1787/2aa7bcc1-end3e3159
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -347,7 +1439,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:48, it is updated each night; 
+ oon at 20:51, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -356,7 +1448,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230117T204846Z
+DTSTAMP:20230118T205120Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT
