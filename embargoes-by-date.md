@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 January 2023 at 20:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 January 2023 at 20:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 January 2023](#19-january-2023)
 * [20 January 2023](#20-january-2023)
+* [23 January 2023](#23-january-2023)
 * [25 January 2023](#25-january-2023)
 * [26 January 2023](#26-january-2023)
 * [30 January 2023](#30-january-2023)
@@ -58,7 +59,34 @@ Friday 20 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 January 2023 at 19:54
+- [x] Exported to OECD.org Friday 20 January 2023 at 19:55
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 23 January 2023
+
+## [A territorial approach to the Sustainable Development Goals in Rhine-Neckar, Germany](https://doi.org/10.1787/7705cc09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 January 2023 at 20:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 January 2023 at 19:55
 
 ### Additional Information
 
@@ -109,16 +137,16 @@ Thursday 26 January 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 20 January 2023 at 19:55
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -137,7 +165,7 @@ Monday 30 January 2023 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 January 2023 at 20:23
+- [x] Exported to iLibrary Friday 20 January 2023 at 20:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 18 January 2023 at 19:54
 
@@ -776,6 +804,29 @@ Wednesday 1 February 2023 at 9:00 | no launch event
 
 ------
 
+## [Perfil sobre cancro por país: Portugal 2023](https://doi.org/10.1787/40186a6b-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [EU Country Cancer Profile: Malta 2023](https://doi.org/10.1787/cff97a9a-en)
 
 Embargo date | Launch date
@@ -1046,6 +1097,29 @@ Wednesday 1 February 2023 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Finnish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Su vėžiu susijusios padėties šalyje apžvalga : Lietuva 2023](https://doi.org/10.1787/6132fc80-lt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Lithuanian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -1391,52 +1465,6 @@ Wednesday 1 February 2023 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Czech*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Perfil sobre cancro por país: Portugal 2023](https://doi.org/10.1787/40186a6b-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 February 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Portuguese*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Su vėžiu susijusios padėties šalyje apžvalga : Lietuva 2023](https://doi.org/10.1787/6132fc80-lt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 February 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Lithuanian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
