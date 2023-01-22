@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 January 2023 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Riigi vähiprofiil: Eesti 2023](https://doi.org/10.1787/7212e7ff-et)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 January 2023 at 9:10 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Estonian*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [How do mass lay-offs affect regional economies?](https://doi.org/10.1787/99d48aeb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 20 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 January 2023 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 January 2023 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 22 January 2023 at 20:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A territorial approach to the Sustainable Development Goals in Rhine-Neckar, Germany](https://doi.org/10.1787/7705cc09-en)
 
@@ -61,7 +15,7 @@ Monday 23 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 January 2023 at 19:55
+- [x] Exported to OECD.org Sunday 22 January 2023 at 19:53
 
 ### Additional Information
 
