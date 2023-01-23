@@ -2,15 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 January 2023 at 20:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 January 2023 at 20:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 January 2023](#23-january-2023)
 * [25 January 2023](#25-january-2023)
 * [26 January 2023](#26-january-2023)
+* [27 January 2023](#27-january-2023)
 * [30 January 2023](#30-january-2023)
 * [1 February 2023](#1-february-2023)
 * [2 February 2023](#2-february-2023)
+* [3 February 2023](#3-february-2023)
 * [6 February 2023](#6-february-2023)
+* [13 February 2023](#13-february-2023)
 * [14 February 2023](#14-february-2023)
 * [8 March 2023](#8-march-2023)
 * [16 March 2023](#16-march-2023)
@@ -30,7 +33,7 @@ Monday 23 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 January 2023 at 19:53
+- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
 
 ### Additional Information
 
@@ -54,16 +57,16 @@ Wednesday 25 January 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -91,6 +94,56 @@ Thursday 26 January 2023 at 6:00 | no launch event
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enabling sustainable investment in ASEAN](https://doi.org/10.1787/eb34f287-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 January 2023 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 27 January 2023
+
+## [Shifting from open banking to open finance - Results from the 2022 OECD survey on data sharing frameworks](https://doi.org/10.1787/9f881c0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -1444,6 +1497,33 @@ Thursday 2 February 2023 at 7:00 | no launch event
 
 ------
 
+# 3 February 2023
+
+## [Identifying artificial intelligence actors using online data](https://doi.org/10.1787/1f5307e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 February 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 23 January 2023 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 6 February 2023
 
 ## [OECD Economic Surveys: Costa Rica 2023](https://doi.org/10.1787/8e8171b0-en)
@@ -1465,6 +1545,33 @@ Monday 6 February 2023 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 February 2023
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two) - Inclusive Framework on BEPS](https://doi.org/10.1787/1975dbab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 February 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -1493,6 +1600,29 @@ Tuesday 14 February 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Coopération pour le développement 2023 - Quel système d’aide pour demain ?](https://doi.org/10.1787/83b806cb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 February 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
