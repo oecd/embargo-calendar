@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 January 2023 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 January 2023 at 20:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A territorial approach to the Sustainable Development Goals in Rhine-Neckar, Germany](https://doi.org/10.1787/7705cc09-en)
 
@@ -38,7 +38,7 @@ Wednesday 25 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 23 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
+- [x] Exported to OECD.org Tuesday 24 January 2023 at 19:54
 
 ### Additional Information
 
@@ -104,16 +104,16 @@ Friday 27 January 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 24 January 2023 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -1499,34 +1499,11 @@ Monday 6 February 2023 at 15:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two) - Inclusive Framework on BEPS](https://doi.org/10.1787/1975dbab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 February 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Development Co-operation Report 2023 - Debating the Aid System](https://doi.org/10.1787/f6edc3c2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 February 2023 at 7:00 | no launch event
+Sunday 12 February 2023 at 23:00 | no launch event
 
 ### Status Information
 
@@ -1549,7 +1526,7 @@ Tuesday 14 February 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 February 2023 at 7:00 | no launch event
+Sunday 12 February 2023 at 23:00 | no launch event
 
 ### Status Information
 
@@ -1565,6 +1542,29 @@ Tuesday 14 February 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two) - Inclusive Framework on BEPS](https://doi.org/10.1787/1975dbab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 February 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

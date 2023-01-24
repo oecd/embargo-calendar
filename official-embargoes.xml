@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-01-23T20:44:52.5168937+01:00">
+<report name="official-embargoes" generated="2023-01-24T20:41:29.4031935+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2023-01-20T19:21:23Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-01-23T18:54:14Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-01-23T20:13:41Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-01-23T19:20:01Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-01-23T18:54:14Z</cell>
+    <cell name="oecd.org last export date">2023-01-24T18:54:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -107,17 +107,17 @@
     <cell name="subtitle">Results from the 2022 OECD survey on data sharing frameworks (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-01-27</cell>
-    <cell name="embargo date">2023-01-27T06:00:04Z</cell>
+    <cell name="embargo date">2023-01-27T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-01-24T19:20:15Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-01-24T18:54:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dec51d62</cell>
   </row>
   <row index="6">
@@ -508,7 +508,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -528,7 +528,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -548,7 +548,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -568,7 +568,7 @@
     <cell name="language">Slovenian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -588,7 +588,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -608,7 +608,7 @@
     <cell name="language">Romanian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -628,7 +628,7 @@
     <cell name="language">Dutch</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -648,7 +648,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -668,7 +668,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -688,7 +688,7 @@
     <cell name="language">Latvian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -708,7 +708,7 @@
     <cell name="language">Dutch</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -728,7 +728,7 @@
     <cell name="language">German</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -748,7 +748,7 @@
     <cell name="language">Greek</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -768,7 +768,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -788,7 +788,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -808,7 +808,7 @@
     <cell name="language">Italian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -828,7 +828,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -848,7 +848,7 @@
     <cell name="language">Danish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -868,7 +868,7 @@
     <cell name="language">Norwegian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -888,7 +888,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -908,7 +908,7 @@
     <cell name="language">Greek</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -928,7 +928,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -948,7 +948,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -968,7 +968,7 @@
     <cell name="language">Hungarian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -988,7 +988,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1008,7 +1008,7 @@
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1028,7 +1028,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1048,7 +1048,7 @@
     <cell name="language">Portuguese</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1068,7 +1068,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1088,7 +1088,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1108,7 +1108,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1128,7 +1128,7 @@
     <cell name="language">Polish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1148,7 +1148,7 @@
     <cell name="language">German</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1168,7 +1168,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1188,7 +1188,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1208,7 +1208,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1228,7 +1228,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1248,7 +1248,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1268,7 +1268,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1288,7 +1288,7 @@
     <cell name="language">Finnish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1308,7 +1308,7 @@
     <cell name="language">Lithuanian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1328,7 +1328,7 @@
     <cell name="language">Icelandic</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1348,7 +1348,7 @@
     <cell name="language">Croatian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1368,7 +1368,7 @@
     <cell name="language">Slovak</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1388,7 +1388,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1408,7 +1408,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1428,7 +1428,7 @@
     <cell name="language">Swedish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1448,7 +1448,7 @@
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1468,7 +1468,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1488,7 +1488,7 @@
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1508,7 +1508,7 @@
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1528,7 +1528,7 @@
     <cell name="language">Bulgarian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1548,7 +1548,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1568,7 +1568,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1588,7 +1588,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1608,7 +1608,7 @@
     <cell name="language">Czech</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-02-01</cell>
     <cell name="embargo date">2023-02-01T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1721,6 +1721,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/579a5d13</cell>
   </row>
   <row index="86">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/f6edc3c2-en</cell>
+    <cell name="title">Development Co-operation Report 2023 (en)</cell>
+    <cell name="subtitle">Debating the Aid System (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-02-13</cell>
+    <cell name="embargo date">2023-02-12T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/650c7368</cell>
+  </row>
+  <row index="87">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/83b806cb-fr</cell>
+    <cell name="title">Coopération pour le développement 2023 (fr)</cell>
+    <cell name="subtitle">Quel système d’aide pour demain ? (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-02-13</cell>
+    <cell name="embargo date">2023-02-12T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e85af4d</cell>
+  </row>
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1975dbab-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two) (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c802f948</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1975dbab-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Administrative Guidance on the Global Anti-Base Erosion Model Rules (Pillar Two) (en)</cell>
@@ -1760,27 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e112a49</cell>
   </row>
-  <row index="88">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f6edc3c2-en</cell>
-    <cell name="title">Development Co-operation Report 2023 (en)</cell>
-    <cell name="subtitle">Debating the Aid System (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-02-14</cell>
-    <cell name="embargo date">2023-02-14T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/650c7368</cell>
-  </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/f6edc3c2-en</cell>
     <cell name="title">Development Co-operation Report 2023 (en)</cell>
@@ -1788,7 +1808,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-02-14</cell>
+    <cell name="date of publication">2023-02-13</cell>
     <cell name="embargo date">2023-02-14T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -1799,26 +1819,6 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29956dbe</cell>
-  </row>
-  <row index="90">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/83b806cb-fr</cell>
-    <cell name="title">Coopération pour le développement 2023 (fr)</cell>
-    <cell name="subtitle">Quel système d’aide pour demain ? (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-02-14</cell>
-    <cell name="embargo date">2023-02-14T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e85af4d</cell>
   </row>
   <row index="91">
     <cell name="directorate">Environment Directorate</cell>
