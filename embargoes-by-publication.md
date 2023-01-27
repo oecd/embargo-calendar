@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 January 2023 at 20:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring the joint distribution of household income, consumption and wealth at the micro level](https://doi.org/10.1787/f9d85db6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 January 2023 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 January 2023 at 19:55
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 27 January 2023 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Toolkit to measure well-being in mining regions](https://doi.org/10.1787/5a740fe0-en)
 
@@ -59,7 +36,7 @@ Thursday 26 January 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 January 2023 at 20:20
+- [x] Exported to iLibrary Friday 27 January 2023 at 10:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 26 January 2023 at 19:56
 
@@ -84,7 +61,7 @@ Friday 27 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 24 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 January 2023 at 19:56
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
 
 ### Additional Information
 
@@ -93,6 +70,75 @@ Friday 27 January 2023 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Who pays for higher carbon prices? - Illustration for Lithuania and a research agenda](https://doi.org/10.1787/8f16f3d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Trade policies to promote the circular economy - A case study of lithium-ion batteries](https://doi.org/10.1787/d75a7f46-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 January 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 January 2023 at 10:29
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Відбудовуємо Україну через зміцнення регіонального та муніципального управління](https://doi.org/10.1787/a5a7939d-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 January 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *Ukrainian*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -116,6 +162,29 @@ Monday 30 January 2023 at 16:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Diversity, equity and inclusion in asset-backed pensions](https://doi.org/10.1787/d3240f77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 January 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -1416,15 +1485,15 @@ Thursday 2 February 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1495,7 +1564,7 @@ Monday 6 February 2023 at 15:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
