@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 January 2023 at 20:38* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Toolkit to measure well-being in mining regions](https://doi.org/10.1787/5a740fe0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 January 2023 at 20:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 January 2023 at 19:56
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enabling sustainable investment in ASEAN](https://doi.org/10.1787/eb34f287-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 January 2023 at 10:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 January 2023 at 19:56
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Shifting from open banking to open finance - Results from the 2022 OECD survey on data sharing frameworks](https://doi.org/10.1787/9f881c0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 January 2023 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 29 January 2023 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Who pays for higher carbon prices? - Illustration for Lithuania and a research agenda](https://doi.org/10.1787/8f16f3d8-en)
 
@@ -84,7 +15,7 @@ Monday 30 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 30 January 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 January 2023 at 10:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Monday 30 January 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Monday 30 January 2023 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 January 2023 at 19:54
+- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
 
 ### Additional Information
 

@@ -2,134 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/5a740fe0-end3e63
-SUMMARY:[Paper] Toolkit to measure well-being in
-  mining regions
-DESCRIPTION:*[Paper] Toolkit to measure well-being i
- n mining regions*\n\nDirectorate: Centre
-  for Entrepreneurship, SMEs, Regions and
-  Cities\nLanguage: English\nDOI: https:/
- /doi.org/10.1787/5a740fe0-en\nPublicatio
- n type: Paper\nReleased as: PDF\n\nEmbar
- go date/time: Thursday, 26 January 2023,
-  6:00 (GMT)\n\n\niLibrary export: Friday
- , 20 January 2023, 19:21 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Thur
- sday, 26 January 2023, 18:56 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 20:38, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=5a740fe0-en.
-DTSTAMP:20230127T203828Z
-DTSTART:20230126T060000Z
-DTEND:20230126T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Toolkit to measure wel
- l-being in mining regions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/eb34f287-end3e119
-SUMMARY:[Paper] Enabling sustainable investment 
- in ASEAN
-DESCRIPTION:*[Paper] Enabling sustainable investment
-  in ASEAN*\n\nDirectorate: Directorate f
- or Financial and Enterprise Affairs\nLan
- guage: English\nDOI: https://doi.org/10.
- 1787/eb34f287-en\nPublication type: Pape
- r\nReleased as: PDF\n\nEmbargo date/time
- : Thursday, 26 January 2023, 6:00 (GMT)\
- n\n\niLibrary export: Friday, 27 January
-  2023, 9:29 (GMT)\nFreepreview export: n
- ever\nOECD.org export: Thursday, 26 Janu
- ary 2023, 18:56 (GMT)\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 20:38, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=eb34f287-en
- .
-DTSTAMP:20230127T203828Z
-DTSTART:20230126T060000Z
-DTEND:20230126T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Enabling sustainable i
- nvestment in ASEAN
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/9f881c0c-end3e175
-SUMMARY:[Paper] Shifting from open banking to op
- en finance - Results from the 2022 OECD 
- survey on data sharing frameworks
-DESCRIPTION:*[Paper] Shifting from open banking to o
- pen finance - Results from the 2022 OECD
-  survey on data sharing frameworks*\n\nD
- irectorate: Directorate for Financial an
- d Enterprise Affairs\nLanguage: English\
- nDOI: https://doi.org/10.1787/9f881c0c-e
- n\nPublication type: Paper\nReleased as:
-  PDF\n\nEmbargo date/time: Friday, 27 Ja
- nuary 2023, 6:00 (GMT)\n\n\niLibrary exp
- ort: Tuesday, 24 January 2023, 19:20 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: Friday, 27 January 2023, 18:54 (
- GMT)\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 20:38, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=9f881c0c-en.
-DTSTAMP:20230127T203828Z
-DTSTART:20230127T060000Z
-DTEND:20230127T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Shifting from open ban
- king to open finance - Results from the 
- 2022 OECD survey on data sharing framewo
- rks
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8f16f3d8-end3e231
+UID:10.1787/8f16f3d8-end3e63
 SUMMARY:[Paper] Who pays for higher carbon price
  s? - Illustration for Lithuania and a re
  search agenda
@@ -143,13 +16,13 @@ DESCRIPTION:*[Paper] Who pays for higher carbon pric
   date/time: Monday, 30 January 2023, 6:0
  0 (GMT)\n\n\niLibrary export: Friday, 27
   January 2023, 19:20 (GMT)\nFreepreview 
- export: never\nOECD.org export: Friday, 
- 27 January 2023, 18:54 (GMT)\nFTI loaded
+ export: never\nOECD.org export: Sunday, 
+ 29 January 2023, 18:54 (GMT)\nFTI loaded
  : ✓\n\nFor more information see: https:/
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:38, it is updated each n
+ afternoon at 20:42, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -158,7 +31,7 @@ DESCRIPTION:*[Paper] Who pays for higher carbon pric
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=8f16
  f3d8-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230130T060000Z
 DTEND:20230130T061500Z
 TRANSP:TRANSPARENT
@@ -173,7 +46,7 @@ DESCRIPTION:Reminder: [Paper] Who pays for higher ca
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d75a7f46-end3e288
+UID:10.1787/d75a7f46-end3e119
 SUMMARY:[Paper] Trade policies to promote the ci
  rcular economy - A case study of lithium
  -ion batteries
@@ -187,12 +60,12 @@ DESCRIPTION:*[Paper] Trade policies to promote the c
   30 January 2023, 7:00 (GMT)\n\n\niLibra
  ry export: Friday, 27 January 2023, 9:29
   (GMT)\nFreepreview export: never\nOECD.
- org export: Friday, 27 January 2023, 18:
+ org export: Sunday, 29 January 2023, 18:
  54 (GMT)\nFTI loaded: ✓\n\nFor more info
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:38, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -201,7 +74,7 @@ DESCRIPTION:*[Paper] Trade policies to promote the c
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=d75a7f46-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230130T070000Z
 DTEND:20230130T071500Z
 TRANSP:TRANSPARENT
@@ -216,7 +89,7 @@ DESCRIPTION:Reminder: [Paper] Trade policies to prom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a5a7939d-ukd3e886
+UID:10.1787/a5a7939d-ukd3e718
 SUMMARY:[Book] Відбудовуємо Україну через зміцне
  ння регіонального та муніципального упра
  вління
@@ -231,12 +104,12 @@ DESCRIPTION:*[Book] Відбудовуємо Україну через зміц�
  ry 2023, 7:00 (GMT)\n\n\niLibrary export
  : Friday, 27 January 2023, 19:20 (GMT)\n
  Freepreview export: never\nOECD.org expo
- rt: Friday, 27 January 2023, 18:54 (GMT)
+ rt: Sunday, 29 January 2023, 18:54 (GMT)
  \nFTI loaded: ✓\n\nFor more information 
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -245,7 +118,7 @@ DESCRIPTION:*[Book] Відбудовуємо Україну через зміц�
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=a5a7939d-uk.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230130T070000Z
 DTEND:20230130T071500Z
 TRANSP:TRANSPARENT
@@ -260,7 +133,7 @@ DESCRIPTION:Reminder: [Book] Відбудовуємо Україну че
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6bda0b2-end3e2732
+UID:10.1787/e6bda0b2-end3e2564
 SUMMARY:[Book] OECD Public Governance Reviews: H
  onduras - Inclusive and Effective Govern
  ance for Better Outcomes
@@ -275,21 +148,21 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
  0 January 2023, 16:00 (GMT)\n\n\niLibrar
  y export: Thursday, 26 January 2023, 19:
  21 (GMT)\nFreepreview export: never\nOEC
- D.org export: Wednesday, 18 January 2023
- , 18:54 (GMT)\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 20
- :38, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=e6bda0b2-en.
-DTSTAMP:20230127T203828Z
+ D.org export: Sunday, 29 January 2023, 1
+ 8:54 (GMT)\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 20:42
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=e6bda0b2-en.
+DTSTAMP:20230129T204242Z
 DTSTART:20230130T160000Z
 DTEND:20230130T161500Z
 TRANSP:TRANSPARENT
@@ -304,7 +177,7 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d3240f77-end3e2788
+UID:10.1787/d3240f77-end3e2620
 SUMMARY:[Paper] Diversity, equity and inclusion 
  in asset-backed pensions
 DESCRIPTION:*[Paper] Diversity, equity and inclusion
@@ -322,7 +195,7 @@ DESCRIPTION:*[Paper] Diversity, equity and inclusion
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:38, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -331,7 +204,7 @@ DESCRIPTION:*[Paper] Diversity, equity and inclusion
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=d3240f77-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230131T060000Z
 DTEND:20230131T061500Z
 TRANSP:TRANSPARENT
@@ -345,7 +218,7 @@ DESCRIPTION:Reminder: [Paper] Diversity, equity and
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7abfbfad-end3e2843
+UID:10.1787/7abfbfad-end3e2675
 SUMMARY:[Book] EU Country Cancer Profile: France
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Franc
@@ -361,7 +234,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Franc
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -370,7 +243,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Franc
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=7abfbfad-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -384,7 +257,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/372db8b8-end3e2897
+UID:10.1787/372db8b8-end3e2728
 SUMMARY:[Book] EU Country Cancer Profile: Croati
  a 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Croat
@@ -400,7 +273,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Croat
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -409,7 +282,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Croat
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=372db8b8-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -423,7 +296,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89b32870-end3e2950
+UID:10.1787/89b32870-end3e2781
 SUMMARY:[Book] EU Country Cancer Profile: Nether
  lands 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Nethe
@@ -439,7 +312,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Nethe
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:38, it 
+ rrect as of this afternoon at 20:42, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -448,7 +321,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Nethe
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=89b32870-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -462,7 +335,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fd31a438-sld3e3003
+UID:10.1787/fd31a438-sld3e2834
 SUMMARY:[Book] Profil držav o stanju na področju
   raka: Slovenija 2023
 DESCRIPTION:*[Book] Profil držav o stanju na področj
@@ -479,7 +352,7 @@ DESCRIPTION:*[Book] Profil držav o stanju na področj
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 20:38, it is updated each night; ther
+ at 20:42, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -487,7 +360,7 @@ DESCRIPTION:*[Book] Profil držav o stanju na področj
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=fd31a438-sl.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -501,7 +374,7 @@ DESCRIPTION:Reminder: [Book] Profil držav o stanju n
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/267467c6-end3e3055
+UID:10.1787/267467c6-end3e2887
 SUMMARY:[Book] EU Country Cancer Profile: Romani
  a 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Roman
@@ -517,7 +390,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Roman
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -526,7 +399,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Roman
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=267467c6-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -540,7 +413,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/20726aa6-rod3e3108
+UID:10.1787/20726aa6-rod3e2940
 SUMMARY:[Book] Profil de țară privind cancerul: 
  România 2023
 DESCRIPTION:*[Book] Profil de țară privind cancerul:
@@ -556,7 +429,7 @@ DESCRIPTION:*[Book] Profil de țară privind cancerul:
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:38, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -565,7 +438,7 @@ DESCRIPTION:*[Book] Profil de țară privind cancerul:
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=20726aa6-ro.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -579,7 +452,7 @@ DESCRIPTION:Reminder: [Book] Profil de țară privind
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/63930e3b-nld3e3160
+UID:10.1787/63930e3b-nld3e2992
 SUMMARY:[Book] Landenprofiel voor Kanker: Nederl
  and 2023
 DESCRIPTION:*[Book] Landenprofiel voor Kanker: Neder
@@ -595,7 +468,7 @@ DESCRIPTION:*[Book] Landenprofiel voor Kanker: Neder
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -604,7 +477,7 @@ DESCRIPTION:*[Book] Landenprofiel voor Kanker: Neder
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=63930e3b-nl.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -618,7 +491,7 @@ DESCRIPTION:Reminder: [Book] Landenprofiel voor Kank
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/01a8d361-end3e3213
+UID:10.1787/01a8d361-end3e3044
 SUMMARY:[Book] EU Country Cancer Profile: Slovak
   Republic 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Slova
@@ -634,7 +507,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Slova
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:38,
+ s correct as of this afternoon at 20:42,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -643,7 +516,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Slova
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=01a8d361-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -657,7 +530,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f31164f8-end3e3266
+UID:10.1787/f31164f8-end3e3097
 SUMMARY:[Book] EU Country Cancer Profile: Irelan
  d 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Irela
@@ -673,7 +546,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Irela
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -682,7 +555,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Irela
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=f31164f8-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -696,7 +569,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/57ac2732-lvd3e3319
+UID:10.1787/57ac2732-lvd3e3150
 SUMMARY:[Book] Valstu vēža profili: Latvija 2023
 DESCRIPTION:*[Book] Valstu vēža profili: Latvija 202
  3*\n\nDirectorate: Directorate for Emplo
@@ -711,7 +584,7 @@ DESCRIPTION:*[Book] Valstu vēža profili: Latvija 202
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:38, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -720,7 +593,7 @@ DESCRIPTION:*[Book] Valstu vēža profili: Latvija 202
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=57ac2732-lv.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -734,7 +607,7 @@ DESCRIPTION:Reminder: [Book] Valstu vēža profili: La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1700ff9f-nld3e3371
+UID:10.1787/1700ff9f-nld3e3203
 SUMMARY:[Book] Landenprofiel voor Kanker: België
   2023
 DESCRIPTION:*[Book] Landenprofiel voor Kanker: Belgi
@@ -750,7 +623,7 @@ DESCRIPTION:*[Book] Landenprofiel voor Kanker: Belgi
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:38, it is upda
+ s of this afternoon at 20:42, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -759,7 +632,7 @@ DESCRIPTION:*[Book] Landenprofiel voor Kanker: Belgi
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=1700ff9f-nl.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -773,7 +646,7 @@ DESCRIPTION:Reminder: [Book] Landenprofiel voor Kank
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0f690cb3-ded3e3423
+UID:10.1787/0f690cb3-ded3e3255
 SUMMARY:[Book] Länderprofile Krebs: Österreich 2
  023
 DESCRIPTION:*[Book] Länderprofile Krebs: Österreich 
@@ -789,7 +662,7 @@ DESCRIPTION:*[Book] Länderprofile Krebs: Österreich
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 20:38, it is updat
+  of this afternoon at 20:42, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -798,7 +671,7 @@ DESCRIPTION:*[Book] Länderprofile Krebs: Österreich
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=0f690cb3-de.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -812,7 +685,7 @@ DESCRIPTION:Reminder: [Book] Länderprofile Krebs: Ös
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/531f1129-eld3e3475
+UID:10.1787/531f1129-eld3e3307
 SUMMARY:[Book] Προφίλ χωρών για τον καρκίνο: Ελλ
  άδα 2023
 DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Ελ
@@ -828,7 +701,7 @@ DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Ελ
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -837,7 +710,7 @@ DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Ελ
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=531f1129-el.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -851,7 +724,7 @@ DESCRIPTION:Reminder: [Book] Προφίλ χωρών για τον κα
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/798b21c9-end3e3528
+UID:10.1787/798b21c9-end3e3359
 SUMMARY:[Book] EU Country Cancer Profile: Austri
  a 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
@@ -867,7 +740,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -876,7 +749,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Austr
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=798b21c9-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -890,7 +763,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7b5ff594-end3e3581
+UID:10.1787/7b5ff594-end3e3412
 SUMMARY:[Book] EU Country Cancer Profile: Sweden
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Swede
@@ -906,7 +779,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Swede
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -915,7 +788,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Swede
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=7b5ff594-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -929,7 +802,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8b5d03a-itd3e3634
+UID:10.1787/e8b5d03a-itd3e3465
 SUMMARY:[Book] Profili sul cancro per paese: Ita
  lia 2023
 DESCRIPTION:*[Book] Profili sul cancro per paese: It
@@ -945,7 +818,7 @@ DESCRIPTION:*[Book] Profili sul cancro per paese: It
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:38, it is
+ ect as of this afternoon at 20:42, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -954,7 +827,7 @@ DESCRIPTION:*[Book] Profili sul cancro per paese: It
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=e8b5d03a-it.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -968,7 +841,7 @@ DESCRIPTION:Reminder: [Book] Profili sul cancro per
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/30b7e1f9-end3e3686
+UID:10.1787/30b7e1f9-end3e3518
 SUMMARY:[Book] EU Country Cancer Profile: Greece
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Greec
@@ -984,7 +857,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Greec
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -993,7 +866,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Greec
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=30b7e1f9-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1007,7 +880,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6986146a-dad3e3739
+UID:10.1787/6986146a-dad3e3571
 SUMMARY:[Book] Kræftlandeprofil: Danmark 2023
 DESCRIPTION:*[Book] Kræftlandeprofil: Danmark 2023*\
  n\nDirectorate: Directorate for Employme
@@ -1022,7 +895,7 @@ DESCRIPTION:*[Book] Kræftlandeprofil: Danmark 2023*\
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:38, it is updated eac
+ is afternoon at 20:42, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -1031,7 +904,7 @@ DESCRIPTION:*[Book] Kræftlandeprofil: Danmark 2023*\
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=6
  986146a-da.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1045,7 +918,7 @@ DESCRIPTION:Reminder: [Book] Kræftlandeprofil: Danma
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4d518a06-nod3e3791
+UID:10.1787/4d518a06-nod3e3623
 SUMMARY:[Book] Landprofil om kreft: Norge 2023
 DESCRIPTION:*[Book] Landprofil om kreft: Norge 2023*
  \n\nDirectorate: Directorate for Employm
@@ -1060,7 +933,7 @@ DESCRIPTION:*[Book] Landprofil om kreft: Norge 2023*
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 20:38, it is updated
+ f this afternoon at 20:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1069,7 +942,7 @@ DESCRIPTION:*[Book] Landprofil om kreft: Norge 2023*
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=4d518a06-no.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1083,7 +956,7 @@ DESCRIPTION:Reminder: [Book] Landprofil om kreft: No
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6915046-end3e3844
+UID:10.1787/f6915046-end3e3675
 SUMMARY:[Book] EU Country Cancer Profile: Bulgar
  ia 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Bulga
@@ -1099,7 +972,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Bulga
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:38, it is 
+ ct as of this afternoon at 20:42, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1108,7 +981,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Bulga
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=f6915046-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1122,7 +995,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/350b8bd1-eld3e3897
+UID:10.1787/350b8bd1-eld3e3728
 SUMMARY:[Book] Προφίλ χωρών για τον καρκίνο: Κύπ
  ροσ 2023
 DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Κύ
@@ -1138,7 +1011,7 @@ DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Κύ
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1147,7 +1020,7 @@ DESCRIPTION:*[Book] Προφίλ χωρών για τον καρκίνο: Κύ
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=350b8bd1-el.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1161,7 +1034,7 @@ DESCRIPTION:Reminder: [Book] Προφίλ χωρών για τον κα
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/263d7eb3-end3e3949
+UID:10.1787/263d7eb3-end3e3780
 SUMMARY:[Book] EU Country Cancer Profile: Icelan
  d 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Icela
@@ -1177,7 +1050,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Icela
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1186,7 +1059,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Icela
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=263d7eb3-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1200,7 +1073,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/86732eb6-end3e4002
+UID:10.1787/86732eb6-end3e3834
 SUMMARY:[Book] EU Country Cancer Profile: Cyprus
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Cypru
@@ -1216,7 +1089,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Cypru
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1225,7 +1098,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Cypru
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=86732eb6-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1239,7 +1112,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/39a8899f-hud3e4055
+UID:10.1787/39a8899f-hud3e3887
 SUMMARY:[Book] Rákügyi országprofil: Magyarorszá
  g 2023
 DESCRIPTION:*[Book] Rákügyi országprofil: Magyarorsz
@@ -1255,7 +1128,7 @@ DESCRIPTION:*[Book] Rákügyi országprofil: Magyarorsz
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:38, it is
+ ect as of this afternoon at 20:42, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -1264,7 +1137,7 @@ DESCRIPTION:*[Book] Rákügyi országprofil: Magyarorsz
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=39a8899f-hu.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1278,7 +1151,7 @@ DESCRIPTION:Reminder: [Book] Rákügyi országprofil: M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8434f41c-end3e4107
+UID:10.1787/8434f41c-end3e3939
 SUMMARY:[Book] EU Country Cancer Profile: Estoni
  a 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Eston
@@ -1294,7 +1167,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Eston
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1303,7 +1176,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Eston
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=8434f41c-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1317,7 +1190,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1dd7dd7f-frd3e4161
+UID:10.1787/1dd7dd7f-frd3e3992
 SUMMARY:[Book] Profils sur le cancer par pays : 
  France 2023
 DESCRIPTION:*[Book] Profils sur le cancer par pays :
@@ -1333,7 +1206,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:38, it 
+ rrect as of this afternoon at 20:42, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1342,7 +1215,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=1dd7dd7f-fr.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1356,7 +1229,7 @@ DESCRIPTION:Reminder: [Book] Profils sur le cancer p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd631ba0-end3e4213
+UID:10.1787/cd631ba0-end3e4044
 SUMMARY:[Book] EU Country Cancer Profile: Sloven
  ia 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Slove
@@ -1372,7 +1245,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Slove
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:38, it is 
+ ct as of this afternoon at 20:42, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1381,7 +1254,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Slove
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=cd631ba0-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1395,7 +1268,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40186a6b-ptd3e4266
+UID:10.1787/40186a6b-ptd3e4097
 SUMMARY:[Book] Perfil sobre cancro por país: Por
  tugal 2023
 DESCRIPTION:*[Book] Perfil sobre cancro por país: Po
@@ -1411,7 +1284,7 @@ DESCRIPTION:*[Book] Perfil sobre cancro por país: Po
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:38, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1420,7 +1293,7 @@ DESCRIPTION:*[Book] Perfil sobre cancro por país: Po
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=40186a6b-pt.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1434,7 +1307,7 @@ DESCRIPTION:Reminder: [Book] Perfil sobre cancro por
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cff97a9a-end3e4318
+UID:10.1787/cff97a9a-end3e4150
 SUMMARY:[Book] EU Country Cancer Profile: Malta 
  2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Malta
@@ -1450,7 +1323,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Malta
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:38, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1459,7 +1332,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Malta
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=cff97a9a-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1473,7 +1346,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0fcf5d28-end3e4371
+UID:10.1787/0fcf5d28-end3e4203
 SUMMARY:[Book] EU Country Cancer Profile: Norway
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Norwa
@@ -1489,7 +1362,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Norwa
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1498,7 +1371,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Norwa
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=0fcf5d28-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1512,7 +1385,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/31316f70-end3e4424
+UID:10.1787/31316f70-end3e4256
 SUMMARY:[Book] EU Country Cancer Profile: Lithua
  nia 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Lithu
@@ -1528,7 +1401,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Lithu
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 20:38, it is
+ ect as of this afternoon at 20:42, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -1537,7 +1410,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Lithu
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=31316f70-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1551,7 +1424,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aab579a7-pld3e4478
+UID:10.1787/aab579a7-pld3e4309
 SUMMARY:[Book] Krajowe profile dotyczące nowotwo
  rów: Polska 2023
 DESCRIPTION:*[Book] Krajowe profile dotyczące nowotw
@@ -1567,7 +1440,7 @@ DESCRIPTION:*[Book] Krajowe profile dotyczące nowotw
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 20:38
+ as correct as of this afternoon at 20:42
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1576,7 +1449,7 @@ DESCRIPTION:*[Book] Krajowe profile dotyczące nowotw
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=aab579a7-pl.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1590,7 +1463,7 @@ DESCRIPTION:Reminder: [Book] Krajowe profile dotyczą
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/435ea60e-ded3e4530
+UID:10.1787/435ea60e-ded3e4361
 SUMMARY:[Book] Länderprofile Krebs: Deutschland 
  2023
 DESCRIPTION:*[Book] Länderprofile Krebs: Deutschland
@@ -1606,7 +1479,7 @@ DESCRIPTION:*[Book] Länderprofile Krebs: Deutschland
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:38, it is upda
+ s of this afternoon at 20:42, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -1615,7 +1488,7 @@ DESCRIPTION:*[Book] Länderprofile Krebs: Deutschland
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=435ea60e-de.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1629,7 +1502,7 @@ DESCRIPTION:Reminder: [Book] Länderprofile Krebs: De
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a976db3-end3e4582
+UID:10.1787/9a976db3-end3e4413
 SUMMARY:[Book] EU Country Cancer Profile: Belgiu
  m 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Belgi
@@ -1645,7 +1518,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Belgi
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1654,7 +1527,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Belgi
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=9a976db3-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1668,7 +1541,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccaf0398-end3e4635
+UID:10.1787/ccaf0398-end3e4467
 SUMMARY:[Book] EU Country Cancer Profile: Hungar
  y 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Hunga
@@ -1684,7 +1557,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Hunga
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1693,7 +1566,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Hunga
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=ccaf0398-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1707,7 +1580,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fcc8586e-end3e4688
+UID:10.1787/fcc8586e-end3e4520
 SUMMARY:[Book] EU Country Cancer Profile: German
  y 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Germa
@@ -1723,7 +1596,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Germa
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1732,7 +1605,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Germa
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=fcc8586e-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1746,7 +1619,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ee590fe8-end3e4741
+UID:10.1787/ee590fe8-end3e4573
 SUMMARY:[Book] EU Country Cancer Profile: Denmar
  k 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Denma
@@ -1762,7 +1635,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Denma
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1771,7 +1644,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Denma
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=ee590fe8-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1785,7 +1658,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b2c7642-end3e4795
+UID:10.1787/3b2c7642-end3e4626
 SUMMARY:[Book] EU Country Cancer Profile: Latvia
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Latvi
@@ -1801,7 +1674,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Latvi
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1810,7 +1683,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Latvi
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=3b2c7642-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1824,7 +1697,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/260cd4e0-end3e4848
+UID:10.1787/260cd4e0-end3e4679
 SUMMARY:[Book] EU Country Cancer Profile: Spain 
  2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Spain
@@ -1840,7 +1713,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Spain
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:38, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1849,7 +1722,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Spain
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=260cd4e0-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1863,7 +1736,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a0e415cd-fid3e4901
+UID:10.1787/a0e415cd-fid3e4732
 SUMMARY:[Book] Syöpäprofiilit: Suomi 2023
 DESCRIPTION:*[Book] Syöpäprofiilit: Suomi 2023*\n\nD
  irectorate: Directorate for Employment, 
@@ -1878,7 +1751,7 @@ DESCRIPTION:*[Book] Syöpäprofiilit: Suomi 2023*\n\nD
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:38, it is updated each n
+ afternoon at 20:42, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -1887,7 +1760,7 @@ DESCRIPTION:*[Book] Syöpäprofiilit: Suomi 2023*\n\nD
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=a0e4
  15cd-fi.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1901,7 +1774,7 @@ DESCRIPTION:Reminder: [Book] Syöpäprofiilit: Suomi 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6132fc80-ltd3e4953
+UID:10.1787/6132fc80-ltd3e4785
 SUMMARY:[Book] Su vėžiu susijusios padėties šaly
  je apžvalga : Lietuva 2023
 DESCRIPTION:*[Book] Su vėžiu susijusios padėties šal
@@ -1918,7 +1791,7 @@ DESCRIPTION:*[Book] Su vėžiu susijusios padėties šal
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 20:38, it is updated each night
+ rnoon at 20:42, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1927,7 +1800,7 @@ DESCRIPTION:*[Book] Su vėžiu susijusios padėties šal
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=6132fc80
  -lt.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1941,7 +1814,7 @@ DESCRIPTION:Reminder: [Book] Su vėžiu susijusios pad
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6ca856f0-isd3e5005
+UID:10.1787/6ca856f0-isd3e4837
 SUMMARY:[Book] Landsskýrsla um stöðu krabbameins
  mála: Ísland 2023
 DESCRIPTION:*[Book] Landsskýrsla um stöðu krabbamein
@@ -1958,7 +1831,7 @@ DESCRIPTION:*[Book] Landsskýrsla um stöðu krabbamein
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 0:38, it is updated each night; therefor
+ 0:42, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -1966,7 +1839,7 @@ DESCRIPTION:*[Book] Landsskýrsla um stöðu krabbamein
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=6ca856f0-is.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -1980,7 +1853,7 @@ DESCRIPTION:Reminder: [Book] Landsskýrsla um stöðu k
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/64eeb85a-hrd3e5057
+UID:10.1787/64eeb85a-hrd3e4889
 SUMMARY:[Book] Pregled trendova i stanja zdravst
  vene skrbi u području raka po zemljama: 
  Hrvatska 2023
@@ -1998,7 +1871,7 @@ DESCRIPTION:*[Book] Pregled trendova i stanja zdravs
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:38,
+ s correct as of this afternoon at 20:42,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -2007,7 +1880,7 @@ DESCRIPTION:*[Book] Pregled trendova i stanja zdravs
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=64eeb85a-hr.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2022,7 +1895,7 @@ DESCRIPTION:Reminder: [Book] Pregled trendova i stan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a70dc924-skd3e5110
+UID:10.1787/a70dc924-skd3e4941
 SUMMARY:[Book] Onkologický profil krajiny: Slove
  nská Republika 2023
 DESCRIPTION:*[Book] Onkologický profil krajiny: Slov
@@ -2039,7 +1912,7 @@ DESCRIPTION:*[Book] Onkologický profil krajiny: Slov
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :38, it is updated each night; therefore
+ :42, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2047,7 +1920,7 @@ DESCRIPTION:*[Book] Onkologický profil krajiny: Slov
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=a70dc924-sk.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2061,7 +1934,7 @@ DESCRIPTION:Reminder: [Book] Onkologický profil kraj
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/427186d4-end3e5162
+UID:10.1787/427186d4-end3e4993
 SUMMARY:[Book] EU Country Cancer Profile: Finlan
  d 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Finla
@@ -2077,7 +1950,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Finla
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -2086,7 +1959,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Finla
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=427186d4-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2100,7 +1973,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2f84bf79-end3e5215
+UID:10.1787/2f84bf79-end3e5046
 SUMMARY:[Book] EU Country Cancer Profile: Portug
  al 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Portu
@@ -2116,7 +1989,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Portu
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 20:38, it is 
+ ct as of this afternoon at 20:42, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -2125,7 +1998,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Portu
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=2f84bf79-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2139,7 +2012,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4caa4294-svd3e5268
+UID:10.1787/4caa4294-svd3e5100
 SUMMARY:[Book] Landsprofiler om cancer: Sverige 
  2023
 DESCRIPTION:*[Book] Landsprofiler om cancer: Sverige
@@ -2155,7 +2028,7 @@ DESCRIPTION:*[Book] Landsprofiler om cancer: Sverige
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:38, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -2164,7 +2037,7 @@ DESCRIPTION:*[Book] Landsprofiler om cancer: Sverige
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=4caa4294-sv.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2178,7 +2051,7 @@ DESCRIPTION:Reminder: [Book] Landsprofiler om cancer
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bab6e2e3-esd3e5320
+UID:10.1787/bab6e2e3-esd3e5152
 SUMMARY:[Book] Perfiles nacionales de cáncer: Es
  paña 2023
 DESCRIPTION:*[Book] Perfiles nacionales de cáncer: E
@@ -2194,7 +2067,7 @@ DESCRIPTION:*[Book] Perfiles nacionales de cáncer: E
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:38, it i
+ rect as of this afternoon at 20:42, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -2203,7 +2076,7 @@ DESCRIPTION:*[Book] Perfiles nacionales de cáncer: E
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=bab6e2e3-es.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2217,7 +2090,7 @@ DESCRIPTION:Reminder: [Book] Perfiles nacionales de
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6c6cdb7d-end3e5372
+UID:10.1787/6c6cdb7d-end3e5204
 SUMMARY:[Book] EU Country Cancer Profile: Luxemb
  ourg 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Luxem
@@ -2233,7 +2106,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Luxem
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 20:38, it i
+ rect as of this afternoon at 20:42, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -2242,7 +2115,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Luxem
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=6c6cdb7d-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2256,7 +2129,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2dd48bb0-frd3e5426
+UID:10.1787/2dd48bb0-frd3e5257
 SUMMARY:[Book] Profils sur le cancer par pays : 
  Luxembourg 2023
 DESCRIPTION:*[Book] Profils sur le cancer par pays :
@@ -2272,7 +2145,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 20:38,
+ s correct as of this afternoon at 20:42,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -2281,7 +2154,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=2dd48bb0-fr.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2295,7 +2168,7 @@ DESCRIPTION:Reminder: [Book] Profils sur le cancer p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/534270fe-frd3e5478
+UID:10.1787/534270fe-frd3e5309
 SUMMARY:[Book] Profils sur le cancer par pays : 
  Belgique 2023
 DESCRIPTION:*[Book] Profils sur le cancer par pays :
@@ -2311,7 +2184,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:38, i
+ correct as of this afternoon at 20:42, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -2320,7 +2193,7 @@ DESCRIPTION:*[Book] Profils sur le cancer par pays :
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=534270fe-fr.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2334,7 +2207,7 @@ DESCRIPTION:Reminder: [Book] Profils sur le cancer p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fa33bc55-bgd3e5530
+UID:10.1787/fa33bc55-bgd3e5361
 SUMMARY:[Book] Профили на държавите по отношение
   на рака: България 2023
 DESCRIPTION:*[Book] Профили на държавите по отношени
@@ -2351,7 +2224,7 @@ DESCRIPTION:*[Book] Профили на държавите по отношени
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 20:38, it is updated each night; th
+ n at 20:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -2359,7 +2232,7 @@ DESCRIPTION:*[Book] Профили на държавите по отношени
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=fa33bc55-bg.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2373,7 +2246,7 @@ DESCRIPTION:Reminder: [Book] Профили на държавите по
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/04cfc3ee-end3e5582
+UID:10.1787/04cfc3ee-end3e5414
 SUMMARY:[Book] EU Country Cancer Profile: Poland
   2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Polan
@@ -2389,7 +2262,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Polan
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 20:38, it is up
+  as of this afternoon at 20:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -2398,7 +2271,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Polan
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=04cfc3ee-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2412,7 +2285,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a0a66c1d-end3e5635
+UID:10.1787/a0a66c1d-end3e5467
 SUMMARY:[Book] EU Country Cancer Profile: Italy 
  2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Italy
@@ -2428,7 +2301,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Italy
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 20:38, it is upd
+ as of this afternoon at 20:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -2437,7 +2310,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Italy
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a0a66c1d-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2451,7 +2324,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c37fd099-end3e5688
+UID:10.1787/c37fd099-end3e5520
 SUMMARY:[Book] EU Country Cancer Profile: Czech 
  Republic 2023
 DESCRIPTION:*[Book] EU Country Cancer Profile: Czech
@@ -2467,7 +2340,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Czech
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:38, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -2476,7 +2349,7 @@ DESCRIPTION:*[Book] EU Country Cancer Profile: Czech
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=c37fd099-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2490,7 +2363,7 @@ DESCRIPTION:Reminder: [Book] EU Country Cancer Profi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3b650e6f-csd3e5742
+UID:10.1787/3b650e6f-csd3e5573
 SUMMARY:[Book] Onkologický profil země: Česká re
  publika 2023
 DESCRIPTION:*[Book] Onkologický profil země: Česká r
@@ -2506,7 +2379,7 @@ DESCRIPTION:*[Book] Onkologický profil země: Česká r
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 20:38, it 
+ rrect as of this afternoon at 20:42, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -2515,7 +2388,7 @@ DESCRIPTION:*[Book] Onkologický profil země: Česká r
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=3b650e6f-cs.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230201T090000Z
 DTEND:20230201T091500Z
 TRANSP:TRANSPARENT
@@ -2529,7 +2402,7 @@ DESCRIPTION:Reminder: [Book] Onkologický profil země
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/115b186e-end3e5794
+UID:10.1787/115b186e-end3e5625
 SUMMARY:[Book] Evaluation of Active Labour Marke
  t Policies in Finland
 DESCRIPTION:*[Book] Evaluation of Active Labour Mark
@@ -2547,7 +2420,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 20:38, 
+  correct as of this afternoon at 20:42, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -2556,7 +2429,7 @@ DESCRIPTION:*[Book] Evaluation of Active Labour Mark
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=115b186e-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230202T070000Z
 DTEND:20230202T071500Z
 TRANSP:TRANSPARENT
@@ -2570,7 +2443,7 @@ DESCRIPTION:Reminder: [Book] Evaluation of Active La
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1f5307e7-end3e5900
+UID:10.1787/1f5307e7-end3e5732
 SUMMARY:[Paper] Identifying artificial intellige
  nce actors using online data
 DESCRIPTION:*[Paper] Identifying artificial intellig
@@ -2588,7 +2461,7 @@ DESCRIPTION:*[Paper] Identifying artificial intellig
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 20:38, it is u
+ t as of this afternoon at 20:42, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -2597,7 +2470,7 @@ DESCRIPTION:*[Paper] Identifying artificial intellig
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=1f5307e7-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230203T060000Z
 DTEND:20230203T061500Z
 TRANSP:TRANSPARENT
@@ -2611,7 +2484,7 @@ DESCRIPTION:Reminder: [Paper] Identifying artificial
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e8171b0-end3e6007
+UID:10.1787/8e8171b0-end3e5839
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Costa Rica 2023
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2627,7 +2500,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 20:38, it is upda
+ s of this afternoon at 20:42, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -2636,7 +2509,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=8e8171b0-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230206T150000Z
 DTEND:20230206T151500Z
 TRANSP:TRANSPARENT
@@ -2650,7 +2523,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09d84187-esd3e6060
+UID:10.1787/09d84187-esd3e5891
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Costa Rica 2023
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -2666,7 +2539,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 20:38, i
+ correct as of this afternoon at 20:42, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -2675,7 +2548,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=09d84187-es.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230206T150000Z
 DTEND:20230206T151500Z
 TRANSP:TRANSPARENT
@@ -2689,7 +2562,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6edc3c2-end3e6164
+UID:10.1787/f6edc3c2-end3e5995
 SUMMARY:[Book] Development Co-operation Report 2
  023 - Debating the Aid System
 DESCRIPTION:*[Book] Development Co-operation Report 
@@ -2706,7 +2579,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 20:38, it is updated each night; there
+ t 20:42, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -2714,7 +2587,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=f6edc3c2-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230212T230000Z
 DTEND:20230212T231500Z
 TRANSP:TRANSPARENT
@@ -2728,7 +2601,7 @@ DESCRIPTION:Reminder: [Book] Development Co-operatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83b806cb-frd3e6323
+UID:10.1787/83b806cb-frd3e6155
 SUMMARY:[Book] Coopération pour le développement
   2023 - Quel système d’aide pour demain 
  ?
@@ -2746,7 +2619,7 @@ DESCRIPTION:*[Book] Coopération pour le développemen
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 20:38, it is updated each n
+ afternoon at 20:42, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2755,7 +2628,7 @@ DESCRIPTION:*[Book] Coopération pour le développemen
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=83b8
  06cb-fr.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230212T230000Z
 DTEND:20230212T231500Z
 TRANSP:TRANSPARENT
@@ -2770,7 +2643,7 @@ DESCRIPTION:Reminder: [Book] Coopération pour le dév
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1975dbab-end3e6430
+UID:10.1787/1975dbab-end3e6261
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Administr
  ative Guidance on the Global Anti-Base E
@@ -2793,7 +2666,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 20
- :38, it is updated each night; therefore
+ :42, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2801,7 +2674,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=1975dbab-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230213T100000Z
 DTEND:20230213T101500Z
 TRANSP:TRANSPARENT
@@ -2818,7 +2691,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0175ae95-end3e6534
+UID:10.1787/0175ae95-end3e6366
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Israel 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -2834,7 +2707,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 20:38, it is updated eac
+ is afternoon at 20:42, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -2843,7 +2716,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  175ae95-en.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230308T080000Z
 DTEND:20230308T081500Z
 TRANSP:TRANSPARENT
@@ -2857,7 +2730,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e6637
+UID:10.1787/2aa7bcc1-end3e6469
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -2878,7 +2751,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 20:38, it is updated each night; 
+ oon at 20:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -2887,7 +2760,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230127T203828Z
+DTSTAMP:20230129T204242Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT
