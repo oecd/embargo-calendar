@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 January 2023 at 20:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 30 January 2023 at 20:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Who pays for higher carbon prices? - Illustration for Lithuania and a research agenda](https://doi.org/10.1787/8f16f3d8-en)
 
@@ -13,9 +13,9 @@ Monday 30 January 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [x] Exported to iLibrary Monday 30 January 2023 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 30 January 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 January 2023 at 10:29
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 30 January 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [x] Exported to iLibrary Monday 30 January 2023 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
@@ -69,7 +69,7 @@ Monday 30 January 2023 at 7:00 | no launch event
 * Language: *Ukrainian*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -84,7 +84,7 @@ Monday 30 January 2023 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 January 2023 at 20:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 31 January 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 27 January 2023 at 20:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
@@ -1415,16 +1415,16 @@ Thursday 2 February 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 30 January 2023 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 January 2023 at 19:54
+- [x] Exported to OECD.org Monday 30 January 2023 at 19:54
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
