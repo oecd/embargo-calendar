@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 February 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 2 February 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 January 2023](#31-january-2023)
 * [1 February 2023](#1-february-2023)
 * [2 February 2023](#2-february-2023)
 * [3 February 2023](#3-february-2023)
@@ -12,33 +11,6 @@ Data generated on | |
 * [13 February 2023](#13-february-2023)
 * [8 March 2023](#8-march-2023)
 * [16 March 2023](#16-march-2023)
-
-------
-
-# 31 January 2023
-
-## [Diversity, equity and inclusion in asset-backed pensions](https://doi.org/10.1787/d3240f77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 January 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 27 January 2023 at 20:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 January 2023 at 20:01
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -1370,7 +1342,7 @@ Thursday 2 February 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 January 2023 at 20:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 February 2023 at 22:28
+- [x] Exported to OECD.org Thursday 2 February 2023 at 22:28
 
 ### Additional Information
 
@@ -1397,7 +1369,7 @@ Friday 3 February 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 25 January 2023 at 20:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 January 2023 at 19:54
+- [x] Exported to OECD.org Thursday 2 February 2023 at 22:28
 
 ### Additional Information
 
@@ -1444,7 +1416,7 @@ Monday 6 February 2023 at 20:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
