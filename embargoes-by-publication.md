@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 February 2023 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Evaluation of Active Labour Market Policies in Finland](https://doi.org/10.1787/115b186e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 February 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 January 2023 at 20:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Identifying artificial intelligence actors using online data](https://doi.org/10.1787/1f5307e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 February 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 January 2023 at 20:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 February 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 5 February 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Costa Rica 2023](https://doi.org/10.1787/8e8171b0-en)
 

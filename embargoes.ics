@@ -2,89 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/115b186e-end3e63
-SUMMARY:[Book] Evaluation of Active Labour Marke
- t Policies in Finland
-DESCRIPTION:*[Book] Evaluation of Active Labour Mark
- et Policies in Finland*\n\nDirectorate: 
- Directorate for Employment, Labour and S
- ocial Affairs\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/115b186e-en\nPubl
- ication type: Book\nReleased as: Paperba
- ck, PDF\n\nEmbargo date/time: Thursday, 
- 2 February 2023, 7:00 (GMT)\n\n\niLibrar
- y export: Monday, 30 January 2023, 19:23
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Thursday, 2 February 2023, 2
- 1:28 (GMT)\nFTI loaded: ✓\n\nFor more in
- formation see: https://oecd.github.io/em
- bargo-calendar/embargoes-by-publication.
- html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:29
- , it is updated each night; therefore an
- y subsequent updates may not yet be visi
- ble here. Also, please be aware that the
-  different released media (PDF, HTML, et
- c.) are not necessarily released at the 
- same time. For complete and up-to-date i
- nformation see here: http://kappa.oecd.o
- rg/v3/search?term=115b186e-en.
-DTSTAMP:20230203T232944Z
-DTSTART:20230202T070000Z
-DTEND:20230202T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Evaluation of Active La
- bour Market Policies in Finland
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1f5307e7-end3e172
-SUMMARY:[Paper] Identifying artificial intellige
- nce actors using online data
-DESCRIPTION:*[Paper] Identifying artificial intellig
- ence actors using online data*\n\nDirect
- orate: Directorate for Science, Technolo
- gy and Industry\nLanguage: English\nDOI:
-  https://doi.org/10.1787/1f5307e7-en\nPu
- blication type: Paper\nReleased as: PDF\
- n\nEmbargo date/time: Friday, 3 February
-  2023, 6:00 (GMT)\n\n\niLibrary export: 
- Wednesday, 25 January 2023, 19:22 (GMT)\
- nFreepreview export: never\nOECD.org exp
- ort: Friday, 3 February 2023, 21:36 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 23:29, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=1f5307e7-en.
-DTSTAMP:20230203T232944Z
-DTSTART:20230203T060000Z
-DTEND:20230203T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Identifying artificial
-  intelligence actors using online data
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/8e8171b0-end3e280
+UID:10.1787/8e8171b0-end3e115
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Costa Rica 2023
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -100,7 +18,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:29, it is upda
+ s of this afternoon at 23:13, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -109,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=8e8171b0-en.
-DTSTAMP:20230203T232944Z
+DTSTAMP:20230205T231350Z
 DTSTART:20230206T203000Z
 DTEND:20230206T204500Z
 TRANSP:TRANSPARENT
@@ -123,7 +41,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09d84187-esd3e333
+UID:10.1787/09d84187-esd3e168
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Costa Rica 2023
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -139,7 +57,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:29, i
+ correct as of this afternoon at 23:13, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -148,7 +66,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=09d84187-es.
-DTSTAMP:20230203T232944Z
+DTSTAMP:20230205T231350Z
 DTSTART:20230206T203000Z
 DTEND:20230206T204500Z
 TRANSP:TRANSPARENT
@@ -162,7 +80,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6edc3c2-end3e438
+UID:10.1787/f6edc3c2-end3e274
 SUMMARY:[Book] Development Co-operation Report 2
  023 - Debating the Aid System
 DESCRIPTION:*[Book] Development Co-operation Report 
@@ -179,7 +97,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 23:29, it is updated each night; there
+ t 23:13, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -187,7 +105,7 @@ DESCRIPTION:*[Book] Development Co-operation Report
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=f6edc3c2-en.
-DTSTAMP:20230203T232944Z
+DTSTAMP:20230205T231350Z
 DTSTART:20230213T230000Z
 DTEND:20230213T231500Z
 TRANSP:TRANSPARENT
@@ -201,7 +119,7 @@ DESCRIPTION:Reminder: [Book] Development Co-operatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0175ae95-end3e596
+UID:10.1787/0175ae95-end3e431
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Israel 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -217,7 +135,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:29, it is updated eac
+ is afternoon at 23:13, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -226,7 +144,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  175ae95-en.
-DTSTAMP:20230203T232944Z
+DTSTAMP:20230205T231350Z
 DTSTART:20230308T080000Z
 DTEND:20230308T081500Z
 TRANSP:TRANSPARENT
@@ -240,7 +158,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e699
+UID:10.1787/2aa7bcc1-end3e534
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -261,7 +179,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:29, it is updated each night; 
+ oon at 23:13, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -270,7 +188,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230203T232944Z
+DTSTAMP:20230205T231350Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT
