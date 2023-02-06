@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 February 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 6 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Costa Rica 2023](https://doi.org/10.1787/8e8171b0-en)
 
@@ -13,15 +13,15 @@ Monday 6 February 2023 at 20:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 6 February 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 6 February 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -36,15 +36,15 @@ Monday 6 February 2023 at 20:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 6 February 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 6 February 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -73,11 +73,57 @@ Monday 13 February 2023 at 23:00 | no launch event
 
 ------
 
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 February 2023 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 8 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Portugal 2023](https://doi.org/10.1787/d9783cbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 March 2023 at 8:00 | no launch event
 
 ### Status Information
 

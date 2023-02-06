@@ -2,11 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 February 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 February 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 February 2023](#6-february-2023)
 * [13 February 2023](#13-february-2023)
+* [16 February 2023](#16-february-2023)
 * [8 March 2023](#8-march-2023)
+* [14 March 2023](#14-march-2023)
 * [16 March 2023](#16-march-2023)
 
 ------
@@ -22,15 +24,15 @@ Monday 6 February 2023 at 20:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 6 February 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 6 February 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -45,15 +47,15 @@ Monday 6 February 2023 at 20:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 6 February 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 6 February 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -88,6 +90,33 @@ Monday 13 February 2023 at 23:00 | no launch event
 
 ------
 
+# 16 February 2023
+
+## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 February 2023 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 8 March 2023
 
 ## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
@@ -95,6 +124,33 @@ Monday 13 February 2023 at 23:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 8 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 March 2023
+
+## [OECD Environmental Performance Reviews: Portugal 2023](https://doi.org/10.1787/d9783cbf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 March 2023 at 8:00 | no launch event
 
 ### Status Information
 
