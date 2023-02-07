@@ -20,7 +20,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:18, it is updated each night; th
+ n at 23:19, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -28,7 +28,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=8e8171b0-en.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230206T203000Z
 DTEND:20230206T204500Z
 TRANSP:TRANSPARENT
@@ -42,7 +42,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09d84187-esd3e170
+UID:10.1787/09d84187-esd3e172
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Costa Rica 2023
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -60,7 +60,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:18, it is updated each 
+  afternoon at 23:19, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -69,7 +69,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=09d
  84187-es.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230206T203000Z
 DTEND:20230206T204500Z
 TRANSP:TRANSPARENT
@@ -83,46 +83,50 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6edc3c2-end3e278
-SUMMARY:[Book] Development Co-operation Report 2
- 023 - Debating the Aid System
-DESCRIPTION:*[Book] Development Co-operation Report 
- 2023 - Debating the Aid System*\n\nDirec
- torate: Development Co-operation Directo
- rate\nLanguage: English\nDOI: https://do
- i.org/10.1787/f6edc3c2-en\nPublication t
- ype: Book\nReleased as: Paperback, PDF\n
- \nEmbargo date/time: Monday, 13 February
-  2023, 23:00 (GMT)\n\n\niLibrary export:
-  never\nFreepreview export: never\nOECD.
- org export: never\nFTI loaded: ✗\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 23:18, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=f6edc3c2-en.
-DTSTAMP:20230206T231805Z
-DTSTART:20230213T230000Z
-DTEND:20230213T231500Z
+UID:10.1787/977b463a-end3e282
+SUMMARY:[Stand-alone monograph] The Road to LGBT
+ I+ Inclusion in Germany - Progress at th
+ e Federal and Länder Levels
+DESCRIPTION:*[Stand-alone monograph] The Road to LGB
+ TI+ Inclusion in Germany - Progress at t
+ he Federal and Länder Levels*\n\nDirecto
+ rate: Directorate for Employment, Labour
+  and Social Affairs\nLanguage: English\n
+ DOI: https://doi.org/10.1787/977b463a-en
+ \nPublication type: Stand-alone monograp
+ h\nReleased as: PDF\n\nEmbargo date/time
+ : Wednesday, 15 February 2023, 13:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:19, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=977b463a-en.
+DTSTAMP:20230207T231939Z
+DTSTART:20230215T130000Z
+DTEND:20230215T131500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Development Co-operatio
- n Report 2023 - Debating the Aid System
+DESCRIPTION:Reminder: [Stand-alone monograph] The Ro
+ ad to LGBTI+ Inclusion in Germany - Prog
+ ress at the Federal and Länder Levels
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5aeddbfe-end3e384
+UID:10.1787/5aeddbfe-end3e335
 SUMMARY:[Book] Introduction Measures for Newly-A
  rrived Migrants
 DESCRIPTION:*[Book] Introduction Measures for Newly-
@@ -138,7 +142,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:18
+ as correct as of this afternoon at 23:19
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -147,7 +151,7 @@ DESCRIPTION:*[Book] Introduction Measures for Newly-
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=5aeddbfe-en.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230216T083000Z
 DTEND:20230216T084500Z
 TRANSP:TRANSPARENT
@@ -161,7 +165,7 @@ DESCRIPTION:Reminder: [Book] Introduction Measures f
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0175ae95-end3e487
+UID:10.1787/0175ae95-end3e438
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Israel 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -177,7 +181,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
+ is afternoon at 23:19, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -186,7 +190,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  175ae95-en.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230308T080000Z
 DTEND:20230308T081500Z
 TRANSP:TRANSPARENT
@@ -200,7 +204,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d9783cbf-end3e538
+UID:10.1787/d9783cbf-end3e489
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Portugal 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -216,7 +220,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:18, it is updated ea
+ his afternoon at 23:19, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -225,7 +229,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  d9783cbf-en.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230314T080000Z
 DTEND:20230314T081500Z
 TRANSP:TRANSPARENT
@@ -239,7 +243,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e693
+UID:10.1787/2aa7bcc1-end3e644
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -260,7 +264,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:18, it is updated each night; 
+ oon at 23:19, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -269,7 +273,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230206T231805Z
+DTSTAMP:20230207T231939Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT

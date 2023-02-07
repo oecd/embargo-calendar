@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-02-06T23:18:01.5155113+01:00">
+<report name="official-embargoes" generated="2023-02-07T23:19:36.2228928+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -54,8 +54,8 @@
     <cell name="ilibrary last export date">2023-02-06T21:56:50Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-02-06T21:31:12Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-02-06T22:44:43Z</cell>
+    <cell name="google last export date">2023-02-06T22:31:38Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/579a5d13</cell>
@@ -74,8 +74,8 @@
     <cell name="ilibrary last export date">2023-02-06T21:56:50Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-02-06T21:31:12Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-02-06T22:44:43Z</cell>
+    <cell name="google last export date">2023-02-06T22:31:38Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce358b25</cell>
@@ -101,46 +101,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55e0077b</cell>
   </row>
   <row index="5">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f6edc3c2-en</cell>
-    <cell name="title">Development Co-operation Report 2023 (en)</cell>
-    <cell name="subtitle">Debating the Aid System (en)</cell>
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/977b463a-en</cell>
+    <cell name="title">The Road to LGBTI+ Inclusion in Germany (en)</cell>
+    <cell name="subtitle">Progress at the Federal and Länder Levels (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-02-14</cell>
-    <cell name="embargo date">2023-02-13T23:00:00Z</cell>
+    <cell name="date of publication">2023-02-15</cell>
+    <cell name="embargo date">2023-02-15T13:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/650c7368</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5eeb51b5</cell>
   </row>
   <row index="6">
-    <cell name="directorate">Development Co-operation Directorate</cell>
-    <cell name="doi">10.1787/f6edc3c2-en</cell>
-    <cell name="title">Development Co-operation Report 2023 (en)</cell>
-    <cell name="subtitle">Debating the Aid System (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-02-14</cell>
-    <cell name="embargo date">2023-02-13T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29956dbe</cell>
-  </row>
-  <row index="7">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5aeddbfe-en</cell>
     <cell name="title">Introduction Measures for Newly-Arrived Migrants (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f41e97d2</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -200,7 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fab97137</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d9783cbf-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Portugal 2023 (en)</cell>
@@ -220,7 +200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c6f34fc</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d9783cbf-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Portugal 2023 (en)</cell>
@@ -240,7 +220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bb25876</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e50dfe9d</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>

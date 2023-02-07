@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 February 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Costa Rica 2023](https://doi.org/10.1787/8e8171b0-en)
 
@@ -50,11 +50,11 @@ Monday 6 February 2023 at 20:30 | no launch event
 
 ------
 
-## [Development Co-operation Report 2023 - Debating the Aid System](https://doi.org/10.1787/f6edc3c2-en)
+## [The Road to LGBTI+ Inclusion in Germany - Progress at the Federal and Länder Levels](https://doi.org/10.1787/977b463a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 13 February 2023 at 23:00 | no launch event
+Wednesday 15 February 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -65,11 +65,11 @@ Monday 13 February 2023 at 23:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Co-operation Directorate*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
