@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 February 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 9 February 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Road to LGBTI+ Inclusion in Germany - Progress at the Federal and Länder Levels](https://doi.org/10.1787/977b463a-en)
 
@@ -36,7 +36,7 @@ Thursday 16 February 2023 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 February 2023 at 22:54
+- [x] Exported to iLibrary Thursday 9 February 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 8 February 2023 at 22:29
 
@@ -47,6 +47,52 @@ Thursday 16 February 2023 at 8:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Competition Trends 2023](https://doi.org/10.1787/bcd8f8f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Tendances de l’OCDE sur la concurrence 2023](https://doi.org/10.1787/a6892327-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -92,7 +138,7 @@ Thursday 9 March 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
