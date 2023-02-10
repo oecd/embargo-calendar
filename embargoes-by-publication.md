@@ -2,7 +2,99 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 February 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 10 February 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Development Co-operation Report 2023 - Debating the Aid System](https://doi.org/10.1787/f6edc3c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 February 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Coopération pour le développement 2023 - Quel système d’aide pour demain ?](https://doi.org/10.1787/83b806cb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 February 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Measuring distortions in international markets: The rolling-stock value chain](https://doi.org/10.1787/fa0ad480-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 February 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Measuring distortions in international markets: Below-market energy inputs](https://doi.org/10.1787/b26140ff-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 February 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [The Road to LGBTI+ Inclusion in Germany - Progress at the Federal and Länder Levels](https://doi.org/10.1787/977b463a-en)
 
@@ -36,7 +128,7 @@ Thursday 16 February 2023 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 February 2023 at 22:59
+- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 8 February 2023 at 22:29
 
