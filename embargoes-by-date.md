@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 February 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 February 2023 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 February 2023](#13-february-2023)
 * [15 February 2023](#15-february-2023)
@@ -27,9 +27,9 @@ Monday 13 February 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 February 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
 ### Additional Information
 
@@ -37,7 +37,7 @@ Monday 13 February 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -50,9 +50,9 @@ Monday 13 February 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 February 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
 ### Additional Information
 
@@ -60,7 +60,7 @@ Monday 13 February 2023 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -177,15 +177,15 @@ Thursday 23 February 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -200,15 +200,15 @@ Thursday 23 February 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -217,6 +217,29 @@ Thursday 23 February 2023 at 9:00 | no launch event
 ------
 
 # 8 March 2023
+
+## [Examens environnementaux de l'OCDE : Israël 2023 (version abrégée)](https://doi.org/10.1787/97b04926-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
 
@@ -244,6 +267,29 @@ Wednesday 8 March 2023 at 8:00 | no launch event
 ------
 
 # 9 March 2023
+
+## [Digital Government Review of Türkiye - Towards a Digitally Enabled Government](https://doi.org/10.1787/3958d102-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 9 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Environmental Tax Policy Review of Andalusia](https://doi.org/10.1787/fe6d8b45-en)
 
@@ -292,6 +338,29 @@ Tuesday 14 March 2023 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE : Portugal 2023 (version abrégée)](https://doi.org/10.1787/68938406-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
