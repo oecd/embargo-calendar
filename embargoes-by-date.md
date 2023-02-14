@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 February 2023 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 February 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 February 2023](#13-february-2023)
 * [15 February 2023](#15-february-2023)
 * [16 February 2023](#16-february-2023)
 * [23 February 2023](#23-february-2023)
+* [6 March 2023](#6-march-2023)
 * [8 March 2023](#8-march-2023)
 * [9 March 2023](#9-march-2023)
 * [14 March 2023](#14-march-2023)
@@ -27,7 +28,7 @@ Monday 13 February 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
+- [x] Exported to iLibrary Tuesday 14 February 2023 at 11:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
@@ -50,7 +51,7 @@ Monday 13 February 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
+- [x] Exported to iLibrary Tuesday 14 February 2023 at 11:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 13 February 2023 at 22:28
 
@@ -79,7 +80,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
 
 ### Additional Information
 
@@ -102,7 +103,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 February 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
 
 ### Additional Information
 
@@ -125,7 +126,7 @@ Wednesday 15 February 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 February 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 February 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
 
 ### Additional Information
 
@@ -176,18 +177,18 @@ Thursday 23 February 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -199,18 +200,45 @@ Thursday 23 February 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 February 2023 at 23:22
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+------
+
+# 6 March 2023
+
+## [OECD Economic Surveys: Canada 2023](https://doi.org/10.1787/7eb16f83-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 March 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -367,6 +395,29 @@ Tuesday 14 March 2023 at 8:00 | no launch event
 ------
 
 # 15 March 2023
+
+## [Measuring Population Mental Health](https://doi.org/10.1787/5171eef8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/9afac47c-en)
 
