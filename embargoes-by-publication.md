@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 February 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Development Co-operation Report 2023 - Debating the Aid System](https://doi.org/10.1787/f6edc3c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 February 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 February 2023 at 11:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Coopération pour le développement 2023 - Quel système d’aide pour demain ?](https://doi.org/10.1787/83b806cb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 February 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 February 2023 at 11:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 15 February 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring distortions in international markets: The rolling-stock value chain](https://doi.org/10.1787/fa0ad480-en)
 
@@ -61,7 +15,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Wednesday 15 February 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 February 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 February 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Thursday 16 February 2023 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 February 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
 ### Additional Information
 
@@ -437,6 +391,29 @@ Thursday 16 March 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Progress Review of Peru's Telecommunications Regulator - Driving Performance](https://doi.org/10.1787/a6a74d3e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 April 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
