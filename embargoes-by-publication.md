@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 February 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 16 February 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring distortions in international markets: The rolling-stock value chain](https://doi.org/10.1787/fa0ad480-en)
 
@@ -36,7 +36,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [x] Exported to iLibrary Thursday 16 February 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
@@ -84,7 +84,7 @@ Thursday 16 February 2023 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
+- [x] Exported to OECD.org Thursday 16 February 2023 at 22:26
 
 ### Additional Information
 
@@ -93,6 +93,29 @@ Thursday 16 February 2023 at 8:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Economic Surveys: Türkiye 2023](https://doi.org/10.1787/864ab2ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 February 2023 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 

@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 February 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 16 February 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 February 2023](#15-february-2023)
 * [16 February 2023](#16-february-2023)
+* [17 February 2023](#17-february-2023)
 * [23 February 2023](#23-february-2023)
 * [6 March 2023](#6-march-2023)
 * [8 March 2023](#8-march-2023)
@@ -51,7 +52,7 @@ Wednesday 15 February 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
+- [x] Exported to iLibrary Thursday 16 February 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
 
@@ -103,7 +104,7 @@ Thursday 16 February 2023 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 February 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
+- [x] Exported to OECD.org Thursday 16 February 2023 at 22:26
 
 ### Additional Information
 
@@ -112,6 +113,33 @@ Thursday 16 February 2023 at 8:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 17 February 2023
+
+## [OECD Economic Surveys: Türkiye 2023](https://doi.org/10.1787/864ab2ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 February 2023 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
