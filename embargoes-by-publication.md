@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 February 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring distortions in international markets: The rolling-stock value chain](https://doi.org/10.1787/fa0ad480-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 February 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Measuring distortions in international markets: Below-market energy inputs](https://doi.org/10.1787/b26140ff-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 February 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 February 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Road to LGBTI+ Inclusion in Germany - Progress at the Federal and Länder Levels](https://doi.org/10.1787/977b463a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 February 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 February 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 17 February 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
 
