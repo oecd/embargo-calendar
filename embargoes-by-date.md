@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 February 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 February 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 February 2023](#16-february-2023)
-* [17 February 2023](#17-february-2023)
 * [23 February 2023](#23-february-2023)
 * [6 March 2023](#6-march-2023)
 * [8 March 2023](#8-march-2023)
@@ -14,60 +12,6 @@ Data generated on | |
 * [15 March 2023](#15-march-2023)
 * [16 March 2023](#16-march-2023)
 * [12 April 2023](#12-april-2023)
-
-------
-
-# 16 February 2023
-
-## [Introduction Measures for Newly-Arrived Migrants](https://doi.org/10.1787/5aeddbfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 February 2023 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 February 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 February 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 17 February 2023
-
-## [OECD Economic Surveys: Türkiye 2023](https://doi.org/10.1787/864ab2ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 February 2023 at 21:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
