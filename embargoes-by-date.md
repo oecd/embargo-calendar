@@ -2,16 +2,47 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 February 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 February 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [21 February 2023](#21-february-2023)
 * [23 February 2023](#23-february-2023)
+* [28 February 2023](#28-february-2023)
 * [6 March 2023](#6-march-2023)
 * [8 March 2023](#8-march-2023)
 * [9 March 2023](#9-march-2023)
 * [14 March 2023](#14-march-2023)
 * [15 March 2023](#15-march-2023)
 * [16 March 2023](#16-march-2023)
+* [29 March 2023](#29-march-2023)
+* [30 March 2023](#30-march-2023)
 * [12 April 2023](#12-april-2023)
+
+------
+
+# 21 February 2023
+
+## [AI scoring for international large-scale assessments using a deep learning model and multilingual data](https://doi.org/10.1787/9918e1fb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 February 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 20 February 2023 at 23:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 20 February 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -60,6 +91,33 @@ Thursday 23 February 2023 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+------
+
+# 28 February 2023
+
+## [Drivers of Trust in Public Institutions in New Zealand](https://doi.org/10.1787/948accf8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 February 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -143,29 +201,6 @@ Wednesday 8 March 2023 at 8:00 | no launch event
 ------
 
 # 9 March 2023
-
-## [Digital Government Review of Türkiye - Towards a Digitally Enabled Government](https://doi.org/10.1787/3958d102-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Environmental Tax Policy Review of Andalusia](https://doi.org/10.1787/fe6d8b45-en)
 
@@ -336,6 +371,60 @@ Thursday 16 March 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 March 2023
+
+## [Ensuring Quality Digital Higher Education in Hungary](https://doi.org/10.1787/5f44fd6f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 30 March 2023
+
+## [OECD Public Governance Reviews: Czech Republic](https://doi.org/10.1787/41fd9e5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 March 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
