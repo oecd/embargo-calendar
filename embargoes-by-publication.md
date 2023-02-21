@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 February 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 February 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [AI scoring for international large-scale assessments using a deep learning model and multilingual data](https://doi.org/10.1787/9918e1fb-en)
 
@@ -15,7 +15,7 @@ Tuesday 21 February 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 February 2023 at 23:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 February 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 21 February 2023 at 22:28
 
 ### Additional Information
 
@@ -73,6 +73,29 @@ Thursday 23 February 2023 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Türkiye 2023](https://doi.org/10.1787/864ab2ba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 February 2023 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Drivers of Trust in Public Institutions in New Zealand](https://doi.org/10.1787/948accf8-en)
 
 Embargo date | Launch date
@@ -92,6 +115,29 @@ Tuesday 28 February 2023 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Canada 2023](https://doi.org/10.1787/81603827-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 March 2023 at 15:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -115,52 +161,6 @@ Monday 6 March 2023 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Israël 2023 (version abrégée)](https://doi.org/10.1787/97b04926-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -388,6 +388,52 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Examens environnementaux de l'OCDE : Israël 2023 (version abrégée)](https://doi.org/10.1787/97b04926-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
