@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 February 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [AI scoring for international large-scale assessments using a deep learning model and multilingual data](https://doi.org/10.1787/9918e1fb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 February 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 February 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 23 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
 
@@ -61,7 +38,7 @@ Thursday 23 February 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
+- [x] Exported to OECD.org Thursday 23 February 2023 at 22:27
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 23 February 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
+- [x] Exported to OECD.org Thursday 23 February 2023 at 22:27
 
 ### Additional Information
 
@@ -101,6 +78,29 @@ Thursday 23 February 2023 at 9:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Friday 24 February 2023 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Poland 2023](https://doi.org/10.1787/6fc99a4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 February 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -345,6 +345,29 @@ Thursday 16 March 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Science, Technology and Innovation Outlook 2023 - Enabling Transitions in Times of Disruption](https://doi.org/10.1787/0b55736e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 March 2023 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
