@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 February 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 February 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 February 2023](#22-february-2023)
 * [23 February 2023](#23-february-2023)
 * [24 February 2023](#24-february-2023)
 * [27 February 2023](#27-february-2023)
@@ -18,33 +17,6 @@ Data generated on | |
 * [30 March 2023](#30-march-2023)
 * [12 April 2023](#12-april-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 22 February 2023
-
-## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 February 2023 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -108,16 +80,16 @@ Friday 24 February 2023 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -126,6 +98,29 @@ Friday 24 February 2023 at 21:00 | no launch event
 ------
 
 # 27 February 2023
+
+## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 February 2023 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [OECD Economic Surveys: Poland 2023](https://doi.org/10.1787/6fc99a4b-en)
 
@@ -163,7 +158,7 @@ Tuesday 28 February 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
+- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
 

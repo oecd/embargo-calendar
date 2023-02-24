@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 February 2023 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 24 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Competition Trends 2023](https://doi.org/10.1787/bcd8f8f8-en)
 
@@ -81,18 +58,41 @@ Friday 24 February 2023 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 February 2023 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -128,7 +128,7 @@ Tuesday 28 February 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
+- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 February 2023 at 22:30
 
