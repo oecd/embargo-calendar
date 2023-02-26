@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Competition Trends 2023](https://doi.org/10.1787/bcd8f8f8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 February 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Tendances de l’OCDE sur la concurrence 2023](https://doi.org/10.1787/a6892327-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 February 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 February 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Türkiye 2023](https://doi.org/10.1787/864ab2ba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 February 2023 at 21:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 26 February 2023 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
 
@@ -84,7 +15,7 @@ Monday 27 February 2023 at 0:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 February 2023 at 22:26
+- [x] Exported to OECD.org Sunday 26 February 2023 at 22:28
 
 ### Additional Information
 
