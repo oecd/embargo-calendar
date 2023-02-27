@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-02-26T23:15:08.1940657+01:00">
+<report name="official-embargoes" generated="2023-02-27T23:15:54.6369421+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-02-22T22:01:18Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-02-26T21:28:46Z</cell>
+    <cell name="oecd.org last export date">2023-02-27T21:27:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date">2023-02-23T22:31:46Z</cell>
     <cell name="catalogue type">Book</cell>
@@ -113,7 +113,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-02-22T22:01:18Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-02-26T21:28:46Z</cell>
+    <cell name="oecd.org last export date">2023-02-27T21:27:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date">2023-02-23T22:31:46Z</cell>
     <cell name="catalogue type">Book</cell>
@@ -367,17 +367,17 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-02-27</cell>
     <cell name="embargo date">2023-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-02-27T21:54:29Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-02-27T21:27:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84dfef55</cell>
   </row>
   <row index="19">
@@ -1653,7 +1653,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-02-24T21:53:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-02-22T21:30:38Z</cell>
+    <cell name="oecd.org last export date">2023-02-27T21:27:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1693,7 +1693,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-02-24T21:53:21Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-02-22T21:30:38Z</cell>
+    <cell name="oecd.org last export date">2023-02-27T21:27:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -2147,7 +2147,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-02-28</cell>
     <cell name="embargo date">2023-02-28T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2702,33 +2702,13 @@
   </row>
   <row index="135">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/9afac47c-en</cell>
-    <cell name="title">Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS: Action 6 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-03-15</cell>
-    <cell name="embargo date">2023-03-15T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70f99d1b</cell>
-  </row>
-  <row index="136">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cf5d5f64-fr</cell>
     <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Cinquième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
-    <cell name="subtitle"/>
+    <cell name="subtitle">Cadre Inclusif sur le BEPS : Action 6 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-03-15</cell>
+    <cell name="date of publication">2023-03-21</cell>
     <cell name="embargo date">2023-03-15T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2740,7 +2720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4d62135</cell>
   </row>
-  <row index="137">
+  <row index="136">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9afac47c-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping (en)</cell>
@@ -2748,7 +2728,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-03-15</cell>
+    <cell name="date of publication">2023-03-21</cell>
     <cell name="embargo date">2023-03-15T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2760,27 +2740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c302969a</cell>
   </row>
-  <row index="138">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/cf5d5f64-fr</cell>
-    <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Cinquième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-03-15</cell>
-    <cell name="embargo date">2023-03-15T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd00bba1</cell>
-  </row>
-  <row index="139">
+  <row index="137">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>
@@ -2800,7 +2760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e50dfe9d</cell>
   </row>
-  <row index="140">
+  <row index="138">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2aa7bcc1-en</cell>
     <cell name="title">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market (en)</cell>
@@ -2820,7 +2780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3225e7b8</cell>
   </row>
-  <row index="141">
+  <row index="139">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b55736e-en</cell>
     <cell name="title">OECD Science, Technology and Innovation Outlook 2023 (en)</cell>
@@ -2840,7 +2800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34d2a8b6</cell>
   </row>
-  <row index="142">
+  <row index="140">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0b55736e-en</cell>
     <cell name="title">OECD Science, Technology and Innovation Outlook 2023 (en)</cell>
@@ -2859,6 +2819,46 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d251601</cell>
+  </row>
+  <row index="141">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9afac47c-en</cell>
+    <cell name="title">Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 6 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-03-21</cell>
+    <cell name="embargo date">2023-03-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70f99d1b</cell>
+  </row>
+  <row index="142">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/cf5d5f64-fr</cell>
+    <cell name="title">Prévention de l’utilisation abusive des conventions fiscales – Cinquième rapport d’examen par les pairs sur le chalandage fiscal (fr)</cell>
+    <cell name="subtitle">Cadre Inclusif sur le BEPS : Action 6 (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-03-21</cell>
+    <cell name="embargo date">2023-03-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd00bba1</cell>
   </row>
   <row index="143">
     <cell name="directorate">Directorate for Education and Skills</cell>
