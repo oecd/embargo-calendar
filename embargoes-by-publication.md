@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 February 2023 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 February 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
 
@@ -13,7 +13,7 @@ Monday 27 February 2023 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 February 2023 at 23:01
+- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 February 2023 at 22:27
 
@@ -50,6 +50,29 @@ Monday 27 February 2023 at 10:00 | no launch event
 
 ------
 
+## [Options for assessing and comparing climate change mitigation policies across countries](https://doi.org/10.1787/b136e575-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 February 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 February 2023 at 22:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Drivers of Trust in Public Institutions in New Zealand](https://doi.org/10.1787/948accf8-en)
 
 Embargo date | Launch date
@@ -59,9 +82,9 @@ Tuesday 28 February 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 February 2023 at 22:53
+- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 February 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 28 February 2023 at 22:27
 
 ### Additional Information
 
@@ -115,29 +138,6 @@ Monday 6 March 2023 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Environmental Tax Policy Review of Andalusia](https://doi.org/10.1787/fe6d8b45-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 9 March 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -303,6 +303,29 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 
 ------
 
+## [Is Education Losing the Race with Technology? - AI's Progress in Maths and Reading](https://doi.org/10.1787/73105f99-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 March 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Ensuring Quality Digital Higher Education in Hungary](https://doi.org/10.1787/5f44fd6f-en)
 
 Embargo date | Launch date
@@ -365,6 +388,52 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Informe sobre avances del Organismo Supervisor de Inversión Privada en Telecomunicaciones de Perú - Impulsando el desempeño](https://doi.org/10.1787/43c8758a-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 April 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Empowering Young Children in the Digital Age](https://doi.org/10.1787/50967622-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 April 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
