@@ -2,92 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/1290a7ef-end3e285
-SUMMARY:[Book] Open Government Scan of Canada - 
- Designing and Implementing an Open Gover
- nment Strategy
-DESCRIPTION:*[Book] Open Government Scan of Canada -
-  Designing and Implementing an Open Gove
- rnment Strategy*\n\nDirectorate: Directo
- rate for Public Governance\nLanguage: En
- glish\nDOI: https://doi.org/10.1787/1290
- a7ef-en\nPublication type: Book\nRelease
- d as: ePub, HTML, Paperback, PDF, ZXML\n
- \nEmbargo date/time: Monday, 27 February
-  2023, 0:00 (GMT)\n\n\niLibrary export: 
- Tuesday, 28 February 2023, 21:55 (GMT)\n
- Freepreview export: never\nOECD.org expo
- rt: Monday, 27 February 2023, 21:27 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 23:18, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=1290a7ef-en.
-DTSTAMP:20230228T231847Z
-DTSTART:20230227T000000Z
-DTEND:20230227T001500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Open Government Scan of
-  Canada - Designing and Implementing an 
- Open Government Strategy
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/6fc99a4b-end3e1001
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Poland 2023
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Poland 2023*\n\nDirectorate: Economics
-  Department\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/6fc99a4b-en\nPublic
- ation type: Economic survey\nReleased as
- : ePub, HTML, Paperback, PDF\n\nEmbargo 
- date/time: Monday, 27 February 2023, 10:
- 00 (GMT)\n\n\niLibrary export: Monday, 2
- 7 February 2023, 21:54 (GMT)\nFreeprevie
- w export: never\nOECD.org export: Monday
- , 27 February 2023, 21:27 (GMT)\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=6
- fc99a4b-en.
-DTSTAMP:20230228T231847Z
-DTSTART:20230227T100000Z
-DTEND:20230227T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Poland 2023
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b136e575-end3e1214
+UID:10.1787/b136e575-end3e63
 SUMMARY:[Paper] Options for assessing and compar
  ing climate change mitigation policies a
  cross countries
@@ -106,7 +21,7 @@ DESCRIPTION:*[Paper] Options for assessing and compa
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:18, it is
+ ect as of this afternoon at 23:17, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -115,7 +30,7 @@ DESCRIPTION:*[Paper] Options for assessing and compa
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=b136e575-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230228T060000Z
 DTEND:20230228T061500Z
 TRANSP:TRANSPARENT
@@ -130,7 +45,7 @@ DESCRIPTION:Reminder: [Paper] Options for assessing
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/948accf8-end3e4555
+UID:10.1787/948accf8-end3e3411
 SUMMARY:[Book] Drivers of Trust in Public Instit
  utions in New Zealand
 DESCRIPTION:*[Book] Drivers of Trust in Public Insti
@@ -149,7 +64,7 @@ DESCRIPTION:*[Book] Drivers of Trust in Public Insti
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 23:1
- 8, it is updated each night; therefore a
+ 7, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -157,7 +72,7 @@ DESCRIPTION:*[Book] Drivers of Trust in Public Insti
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=948accf8-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230228T130000Z
 DTEND:20230228T131500Z
 TRANSP:TRANSPARENT
@@ -171,7 +86,7 @@ DESCRIPTION:Reminder: [Book] Drivers of Trust in Pub
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81603827-frd3e6848
+UID:10.1787/81603827-frd3e5712
 SUMMARY:[Economic survey] Études économiques de 
  l'OCDE : Canada 2023
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -187,7 +102,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:18, it is upda
+ s of this afternoon at 23:17, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -196,7 +111,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=81603827-fr.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230306T153000Z
 DTEND:20230306T154500Z
 TRANSP:TRANSPARENT
@@ -210,7 +125,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7eb16f83-end3e6900
+UID:10.1787/7eb16f83-end3e5764
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Canada 2023
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -226,7 +141,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:18, it is updated eac
+ is afternoon at 23:17, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -235,7 +150,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=7
  eb16f83-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230306T160000Z
 DTEND:20230306T161500Z
 TRANSP:TRANSPARENT
@@ -249,7 +164,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d9783cbf-end3e7057
+UID:10.1787/d9783cbf-end3e5922
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Portugal 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -259,22 +174,23 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  -en\nPublication type: Book\nReleased as
  : Paperback, PDF\n\nEmbargo date/time: T
  uesday, 14 March 2023, 8:00 (GMT)\n\n\ni
- Library export: never\nFreepreview expor
- t: never\nOECD.org export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 23:18, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- d9783cbf-en.
-DTSTAMP:20230228T231847Z
+ Library export: Wednesday, 1 March 2023,
+  21:54 (GMT)\nFreepreview export: never\
+ nOECD.org export: Wednesday, 1 March 202
+ 3, 21:26 (GMT)\nFTI loaded: ✗\n\nFor mor
+ e information see: https://oecd.github.i
+ o/embargo-calendar/embargoes-by-publicat
+ ion.html.\n\nPlease note: This informati
+ on was correct as of this afternoon at 2
+ 3:17, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=d9783cbf-en.
+DTSTAMP:20230301T231742Z
 DTSTART:20230314T080000Z
 DTEND:20230314T081500Z
 TRANSP:TRANSPARENT
@@ -288,7 +204,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/68938406-frd3e7162
+UID:10.1787/68938406-frd3e6028
 SUMMARY:[Book] Examens environnementaux de l'OCD
  E : Portugal 2023 (version abrégée)
 DESCRIPTION:*[Book] Examens environnementaux de l'OC
@@ -304,7 +220,7 @@ DESCRIPTION:*[Book] Examens environnementaux de l'OC
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:18, it is updated
+ f this afternoon at 23:17, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -313,7 +229,7 @@ DESCRIPTION:*[Book] Examens environnementaux de l'OC
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=68938406-fr.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230314T080000Z
 DTEND:20230314T081500Z
 TRANSP:TRANSPARENT
@@ -328,7 +244,7 @@ DESCRIPTION:Reminder: [Book] Examens environnementau
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5171eef8-end3e7214
+UID:10.1787/5171eef8-end3e6080
 SUMMARY:[Stand-alone monograph] Measuring Popula
  tion Mental Health
 DESCRIPTION:*[Stand-alone monograph] Measuring Popul
@@ -346,7 +262,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Popul
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:18, it is updated each night; theref
+  23:17, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -354,7 +270,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Popul
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=5171eef8-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230315T060000Z
 DTEND:20230315T061500Z
 TRANSP:TRANSPARENT
@@ -368,7 +284,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2aa7bcc1-end3e7370
+UID:10.1787/2aa7bcc1-end3e6237
 SUMMARY:[Stand-alone monograph] Nordic Lessons f
  or an Inclusive Recovery? Responses to t
  he Impact of COVID-19 on the Labour Mark
@@ -389,7 +305,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:18, it is updated each night; 
+ oon at 23:17, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -398,7 +314,7 @@ DESCRIPTION:*[Stand-alone monograph] Nordic Lessons
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=2aa7bcc1-e
  n.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230316T080000Z
 DTEND:20230316T081500Z
 TRANSP:TRANSPARENT
@@ -414,7 +330,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Nordic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b55736e-end3e7422
+UID:10.1787/0b55736e-end3e6289
 SUMMARY:[Book] OECD Science, Technology and Inno
  vation Outlook 2023 - Enabling Transitio
  ns in Times of Disruption
@@ -433,7 +349,7 @@ DESCRIPTION:*[Book] OECD Science, Technology and Inn
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:18, it is updated each night
+ rnoon at 23:17, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -442,7 +358,7 @@ DESCRIPTION:*[Book] OECD Science, Technology and Inn
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=0b55736e
  -en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230316T133000Z
 DTEND:20230316T134500Z
 TRANSP:TRANSPARENT
@@ -457,7 +373,7 @@ DESCRIPTION:Reminder: [Book] OECD Science, Technolog
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9afac47c-end3e7529
+UID:10.1787/9afac47c-end3e6395
 SUMMARY:[Book] Prevention of Tax Treaty Abuse – 
  Fifth Peer Review Report on Treaty Shopp
  ing - Inclusive Framework on BEPS: Actio
@@ -477,7 +393,7 @@ DESCRIPTION:*[Book] Prevention of Tax Treaty Abuse –
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:18, it is updated e
+ this afternoon at 23:17, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -486,7 +402,7 @@ DESCRIPTION:*[Book] Prevention of Tax Treaty Abuse –
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =9afac47c-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230321T100000Z
 DTEND:20230321T101500Z
 TRANSP:TRANSPARENT
@@ -502,7 +418,7 @@ DESCRIPTION:Reminder: [Book] Prevention of Tax Treat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cf5d5f64-frd3e7688
+UID:10.1787/cf5d5f64-frd3e6555
 SUMMARY:[Book] Prévention de l’utilisation abusi
  ve des conventions fiscales – Cinquième 
  rapport d’examen par les pairs sur le ch
@@ -524,7 +440,7 @@ DESCRIPTION:*[Book] Prévention de l’utilisation abus
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:18, it i
+ rect as of this afternoon at 23:17, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -533,7 +449,7 @@ DESCRIPTION:*[Book] Prévention de l’utilisation abus
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=cf5d5f64-fr.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230321T100000Z
 DTEND:20230321T101500Z
 TRANSP:TRANSPARENT
@@ -550,7 +466,7 @@ DESCRIPTION:Reminder: [Book] Prévention de l’utilisa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/73105f99-end3e7741
+UID:10.1787/73105f99-end3e6661
 SUMMARY:[Book] Is Education Losing the Race with
   Technology? - AI's Progress in Maths an
  d Reading
@@ -560,24 +476,24 @@ DESCRIPTION:*[Book] Is Education Losing the Race wit
  for Education and Skills\nLanguage: Engl
  ish\nDOI: https://doi.org/10.1787/73105f
  99-en\nPublication type: Book\nReleased 
- as: PDF\n\nEmbargo date/time: Tuesday, 2
- 8 March 2023, 9:00 (GMT)\n\n\niLibrary e
- xport: never\nFreepreview export: never\
- nOECD.org export: never\nFTI loaded: ✗\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 23:18, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=73105f99-
- en.
-DTSTAMP:20230228T231847Z
+ as: Paperback, PDF\n\nEmbargo date/time:
+  Tuesday, 28 March 2023, 9:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 23:17, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=73105f99-en.
+DTSTAMP:20230301T231742Z
 DTSTART:20230328T090000Z
 DTEND:20230328T091500Z
 TRANSP:TRANSPARENT
@@ -592,7 +508,7 @@ DESCRIPTION:Reminder: [Book] Is Education Losing the
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f44fd6f-end3e7847
+UID:10.1787/5f44fd6f-end3e6766
 SUMMARY:[Book] Ensuring Quality Digital Higher E
  ducation in Hungary
 DESCRIPTION:*[Book] Ensuring Quality Digital Higher 
@@ -608,7 +524,7 @@ DESCRIPTION:*[Book] Ensuring Quality Digital Higher
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:18, it
+ orrect as of this afternoon at 23:17, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -617,7 +533,7 @@ DESCRIPTION:*[Book] Ensuring Quality Digital Higher
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=5f44fd6f-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230329T060000Z
 DTEND:20230329T061500Z
 TRANSP:TRANSPARENT
@@ -631,7 +547,7 @@ DESCRIPTION:Reminder: [Book] Ensuring Quality Digita
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/41fd9e5c-end3e7899
+UID:10.1787/41fd9e5c-end3e6819
 SUMMARY:[Book] OECD Public Governance Reviews: C
  zech Republic
 DESCRIPTION:*[Book] OECD Public Governance Reviews: 
@@ -647,7 +563,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:17, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -656,7 +572,7 @@ DESCRIPTION:*[Book] OECD Public Governance Reviews:
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=41fd9e5c-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230330T070000Z
 DTEND:20230330T071500Z
 TRANSP:TRANSPARENT
@@ -670,7 +586,7 @@ DESCRIPTION:Reminder: [Book] OECD Public Governance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a6a74d3e-end3e8003
+UID:10.1787/a6a74d3e-end3e6923
 SUMMARY:[Book] Progress Review of Peru's Telecom
  munications Regulator - Driving Performa
  nce
@@ -688,7 +604,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Teleco
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:18, it is updated each n
+ afternoon at 23:17, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -697,7 +613,7 @@ DESCRIPTION:*[Book] Progress Review of Peru's Teleco
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=a6a7
  4d3e-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230412T130000Z
 DTEND:20230412T131500Z
 TRANSP:TRANSPARENT
@@ -712,7 +628,7 @@ DESCRIPTION:Reminder: [Book] Progress Review of Peru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/43c8758a-esd3e8056
+UID:10.1787/43c8758a-esd3e6976
 SUMMARY:[Book] Informe sobre avances del Organis
  mo Supervisor de Inversión Privada en Te
  lecomunicaciones de Perú - Impulsando el
@@ -732,7 +648,7 @@ DESCRIPTION:*[Book] Informe sobre avances del Organi
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:18, it is updated
+ f this afternoon at 23:17, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -741,7 +657,7 @@ DESCRIPTION:*[Book] Informe sobre avances del Organi
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=43c8758a-es.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230412T130000Z
 DTEND:20230412T131500Z
 TRANSP:TRANSPARENT
@@ -757,7 +673,7 @@ DESCRIPTION:Reminder: [Book] Informe sobre avances d
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50967622-end3e8214
+UID:10.1787/50967622-end3e7134
 SUMMARY:[Book] Empowering Young Children in the 
  Digital Age
 DESCRIPTION:*[Book] Empowering Young Children in the
@@ -773,7 +689,7 @@ DESCRIPTION:*[Book] Empowering Young Children in the
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:18, it is update
+ of this afternoon at 23:17, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -782,7 +698,7 @@ DESCRIPTION:*[Book] Empowering Young Children in the
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=50967622-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230417T130000Z
 DTEND:20230417T131500Z
 TRANSP:TRANSPARENT
@@ -796,7 +712,7 @@ DESCRIPTION:Reminder: [Book] Empowering Young Childr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/97b04926-frd3e8316
+UID:10.1787/97b04926-frd3e7236
 SUMMARY:[Book] Examens environnementaux de l'OCD
  E : Israël 2023 (version abrégée)
 DESCRIPTION:*[Book] Examens environnementaux de l'OC
@@ -812,7 +728,7 @@ DESCRIPTION:*[Book] Examens environnementaux de l'OC
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:18, it is updated each
+ s afternoon at 23:17, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -821,7 +737,7 @@ DESCRIPTION:*[Book] Examens environnementaux de l'OC
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=97
  b04926-fr.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230512T070000Z
 DTEND:20230512T071500Z
 TRANSP:TRANSPARENT
@@ -836,7 +752,7 @@ DESCRIPTION:Reminder: [Book] Examens environnementau
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0175ae95-end3e8421
+UID:10.1787/0175ae95-end3e7340
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Israel 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -852,7 +768,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:18, it is updated each ni
+ fternoon at 23:17, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -861,7 +777,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=0175a
  e95-en.
-DTSTAMP:20230228T231847Z
+DTSTAMP:20230301T231742Z
 DTSTART:20230512T070000Z
 DTEND:20230512T071500Z
 TRANSP:TRANSPARENT

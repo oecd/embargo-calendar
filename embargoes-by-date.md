@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 February 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 March 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 February 2023](#27-february-2023)
 * [28 February 2023](#28-february-2023)
 * [6 March 2023](#6-march-2023)
 * [14 March 2023](#14-march-2023)
@@ -17,56 +16,6 @@ Data generated on | |
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 27 February 2023
-
-## [Open Government Scan of Canada - Designing and Implementing an Open Government Strategy](https://doi.org/10.1787/1290a7ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 February 2023 at 0:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Poland 2023](https://doi.org/10.1787/6fc99a4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 February 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 February 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
@@ -181,15 +130,15 @@ Tuesday 14 March 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 1 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 1 March 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -368,7 +317,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
