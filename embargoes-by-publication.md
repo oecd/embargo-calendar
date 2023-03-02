@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 March 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Options for assessing and comparing climate change mitigation policies across countries](https://doi.org/10.1787/b136e575-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 February 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Drivers of Trust in Public Institutions in New Zealand](https://doi.org/10.1787/948accf8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 February 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 February 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 February 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 2 March 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Canada 2023](https://doi.org/10.1787/81603827-fr)
 
@@ -100,14 +54,14 @@ Monday 6 March 2023 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 March 2023 at 8:00 | no launch event
+Tuesday 14 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 1 March 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 March 2023 at 22:26
+- [x] Exported to OECD.org Thursday 2 March 2023 at 22:26
 
 ### Additional Information
 
@@ -115,7 +69,7 @@ Tuesday 14 March 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -123,7 +77,7 @@ Tuesday 14 March 2023 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 March 2023 at 8:00 | no launch event
+Tuesday 14 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
