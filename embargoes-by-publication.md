@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 March 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 5 March 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Canada 2023](https://doi.org/10.1787/81603827-fr)
 
