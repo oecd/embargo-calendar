@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 March 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 March 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Canada 2023](https://doi.org/10.1787/81603827-fr)
 
@@ -104,18 +104,18 @@ Wednesday 15 March 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 6 March 2023 at 22:52
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 7 March 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -158,6 +158,52 @@ Thursday 16 March 2023 at 13:30 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2023](https://doi.org/10.1787/d14d49eb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 March 2023 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Policy Guide on Legal Frameworks for the Social and Solidarity Economy](https://doi.org/10.1787/9c228f62-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

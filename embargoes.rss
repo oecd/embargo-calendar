@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 06 Mar 2023 23:10:47 GMT</pubDate>
+      <pubDate>Tue, 07 Mar 2023 23:19:06 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -30,7 +30,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7eb16f83-en-d3e170</guid>
+         <guid isPermaLink="false">10.1787/7eb16f83-en-d3e172</guid>
          <pubDate>Mon, 06 Mar 2023 16:30:00 GMT</pubDate>
          <title>OECD Economic Surveys: Canada 2023</title>
          <link>https://doi.org/10.1787/7eb16f83-en</link>
@@ -46,7 +46,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d9783cbf-en-d3e547</guid>
+         <guid isPermaLink="false">10.1787/d9783cbf-en-d3e551</guid>
          <pubDate>Tue, 14 Mar 2023 11:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Portugal 2023</title>
          <link>https://doi.org/10.1787/d9783cbf-en</link>
@@ -62,7 +62,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/68938406-fr-d3e819</guid>
+         <guid isPermaLink="false">10.1787/68938406-fr-d3e823</guid>
          <pubDate>Tue, 14 Mar 2023 11:00:00 GMT</pubDate>
          <title>Examens environnementaux de l'OCDE : Portugal 2023 (version abrégée)</title>
          <link>https://doi.org/10.1787/68938406-fr</link>
@@ -78,7 +78,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5171eef8-en-d3e979</guid>
+         <guid isPermaLink="false">10.1787/5171eef8-en-d3e2017</guid>
          <pubDate>Wed, 15 Mar 2023 07:00:00 GMT</pubDate>
          <title>Measuring Population Mental Health</title>
          <link>https://doi.org/10.1787/5171eef8-en</link>
@@ -87,14 +87,14 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport>Monday, 6 March 2023, 22:52 (GMT)</oe:iLibraryExport>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 7 March 2023, 22:58 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Monday, 6 March 2023, 22:26 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Tuesday, 7 March 2023, 22:30 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2aa7bcc1-en-d3e1137</guid>
+         <guid isPermaLink="false">10.1787/2aa7bcc1-en-d3e2830</guid>
          <pubDate>Thu, 16 Mar 2023 09:00:00 GMT</pubDate>
          <title>Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market</title>
          <link>https://doi.org/10.1787/2aa7bcc1-en</link>
@@ -110,7 +110,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0b55736e-en-d3e1189</guid>
+         <guid isPermaLink="false">10.1787/0b55736e-en-d3e2883</guid>
          <pubDate>Thu, 16 Mar 2023 14:30:00 GMT</pubDate>
          <title>OECD Science, Technology and Innovation Outlook 2023 - Enabling Transitions in Times of Disruption</title>
          <link>https://doi.org/10.1787/0b55736e-en</link>
@@ -126,7 +126,39 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/9afac47c-en-d3e1296</guid>
+         <guid isPermaLink="false">10.1787/d14d49eb-en-d3e3091</guid>
+         <pubDate>Fri, 17 Mar 2023 12:00:00 GMT</pubDate>
+         <title>OECD Economic Outlook, Interim Report March 2023</title>
+         <link>https://doi.org/10.1787/d14d49eb-en</link>
+         <description>OECD Economic Outlook, Interim Report March 2023 by Economics Department has an embargo on Friday 17 March 2023 at 12:00.</description>
+         <oe:embargoTime>Fri, 17 Mar 2023 12:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Issue</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9c228f62-en-d3e3195</guid>
+         <pubDate>Mon, 20 Mar 2023 07:00:00 GMT</pubDate>
+         <title>Policy Guide on Legal Frameworks for the Social and Solidarity Economy</title>
+         <link>https://doi.org/10.1787/9c228f62-en</link>
+         <description>Policy Guide on Legal Frameworks for the Social and Solidarity Economy by Centre for Entrepreneurship, SMEs, Regions and Cities has an embargo on Monday 20 March 2023 at 7:00.</description>
+         <oe:embargoTime>Mon, 20 Mar 2023 07:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/9afac47c-en-d3e3247</guid>
          <pubDate>Tue, 21 Mar 2023 11:00:00 GMT</pubDate>
          <title>Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6</title>
          <link>https://doi.org/10.1787/9afac47c-en</link>
@@ -142,7 +174,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cf5d5f64-fr-d3e1455</guid>
+         <guid isPermaLink="false">10.1787/cf5d5f64-fr-d3e3406</guid>
          <pubDate>Tue, 21 Mar 2023 11:00:00 GMT</pubDate>
          <title>Prévention de l’utilisation abusive des conventions fiscales – Cinquième rapport d’examen par les pairs sur le chalandage fiscal - Cadre Inclusif sur le BEPS : Action 6</title>
          <link>https://doi.org/10.1787/cf5d5f64-fr</link>
@@ -158,7 +190,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/73105f99-en-d3e1562</guid>
+         <guid isPermaLink="false">10.1787/73105f99-en-d3e3513</guid>
          <pubDate>Tue, 28 Mar 2023 11:00:00 GMT</pubDate>
          <title>Is Education Losing the Race with Technology? - AI's Progress in Maths and Reading</title>
          <link>https://doi.org/10.1787/73105f99-en</link>
@@ -174,7 +206,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5f44fd6f-en-d3e1667</guid>
+         <guid isPermaLink="false">10.1787/5f44fd6f-en-d3e3618</guid>
          <pubDate>Wed, 29 Mar 2023 08:00:00 GMT</pubDate>
          <title>Ensuring Quality Digital Higher Education in Hungary</title>
          <link>https://doi.org/10.1787/5f44fd6f-en</link>
@@ -190,7 +222,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/41fd9e5c-en-d3e1719</guid>
+         <guid isPermaLink="false">10.1787/41fd9e5c-en-d3e3670</guid>
          <pubDate>Thu, 30 Mar 2023 09:00:00 GMT</pubDate>
          <title>OECD Public Governance Reviews: Czech Republic</title>
          <link>https://doi.org/10.1787/41fd9e5c-en</link>
@@ -206,7 +238,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a6a74d3e-en-d3e1823</guid>
+         <guid isPermaLink="false">10.1787/a6a74d3e-en-d3e3774</guid>
          <pubDate>Wed, 12 Apr 2023 15:00:00 GMT</pubDate>
          <title>Progress Review of Peru's Telecommunications Regulator - Driving Performance</title>
          <link>https://doi.org/10.1787/a6a74d3e-en</link>
@@ -222,7 +254,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/43c8758a-es-d3e1877</guid>
+         <guid isPermaLink="false">10.1787/43c8758a-es-d3e3828</guid>
          <pubDate>Wed, 12 Apr 2023 15:00:00 GMT</pubDate>
          <title>Informe sobre avances del Organismo Supervisor de Inversión Privada en Telecomunicaciones de Perú - Impulsando el desempeño</title>
          <link>https://doi.org/10.1787/43c8758a-es</link>
@@ -238,7 +270,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/50967622-en-d3e2036</guid>
+         <guid isPermaLink="false">10.1787/50967622-en-d3e3987</guid>
          <pubDate>Mon, 17 Apr 2023 15:00:00 GMT</pubDate>
          <title>Empowering Young Children in the Digital Age</title>
          <link>https://doi.org/10.1787/50967622-en</link>
@@ -254,7 +286,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/97b04926-fr-d3e2138</guid>
+         <guid isPermaLink="false">10.1787/97b04926-fr-d3e4089</guid>
          <pubDate>Fri, 12 May 2023 09:00:00 GMT</pubDate>
          <title>Examens environnementaux de l'OCDE : Israël 2023 (version abrégée)</title>
          <link>https://doi.org/10.1787/97b04926-fr</link>
@@ -270,7 +302,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0175ae95-en-d3e2243</guid>
+         <guid isPermaLink="false">10.1787/0175ae95-en-d3e4194</guid>
          <pubDate>Fri, 12 May 2023 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Israel 2023</title>
          <link>https://doi.org/10.1787/0175ae95-en</link>
