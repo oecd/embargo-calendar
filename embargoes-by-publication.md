@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 March 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 9 March 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: Portugal 2023](https://doi.org/10.1787/d9783cbf-en)
 
