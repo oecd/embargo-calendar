@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 March 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 March 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2023](#14-march-2023)
 * [15 March 2023](#15-march-2023)
@@ -13,6 +13,7 @@ Data generated on | |
 * [28 March 2023](#28-march-2023)
 * [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
+* [31 March 2023](#31-march-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
 * [12 May 2023](#12-may-2023)
@@ -30,40 +31,17 @@ Tuesday 14 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 March 2023 at 22:55
+- [x] Exported to iLibrary Friday 10 March 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 March 2023 at 22:26
+- [x] Exported to OECD.org Friday 10 March 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Examens environnementaux de l'OCDE : Portugal 2023 (version abrégée)](https://doi.org/10.1787/68938406-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 March 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -106,18 +84,18 @@ Thursday 16 March 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 March 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 March 2023 at 22:32
+- [x] Exported to OECD.org Friday 10 March 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -459,29 +437,6 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ------
 
-## [Is Education Losing the Race with Technology? - AI's Progress in Maths and Reading](https://doi.org/10.1787/73105f99-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ------
 
 # 29 March 2023
@@ -533,6 +488,33 @@ Thursday 30 March 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 March 2023
+
+## [Economic Outlook for Southeast Asia, China and India 2023 - Reviving Tourism Post-Pandemic](https://doi.org/10.1787/f677c529-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 March 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
