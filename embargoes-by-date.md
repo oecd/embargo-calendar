@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 March 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 March 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2023](#14-march-2023)
 * [15 March 2023](#15-march-2023)
@@ -33,7 +33,7 @@ Tuesday 14 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 March 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 March 2023 at 22:29
+- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
 
 ### Additional Information
 
@@ -185,15 +185,15 @@ Monday 20 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -208,17 +208,40 @@ Monday 20 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The Impact of Regulation on International Investment in Portugal](https://doi.org/10.1787/688b30c8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
