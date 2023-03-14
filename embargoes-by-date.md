@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 March 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 March 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2023](#14-march-2023)
 * [15 March 2023](#15-march-2023)
@@ -14,8 +14,10 @@ Data generated on | |
 * [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
 * [31 March 2023](#31-march-2023)
+* [2 April 2023](#2-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
+* [24 April 2023](#24-april-2023)
 * [12 May 2023](#12-may-2023)
 
 ------
@@ -33,7 +35,7 @@ Tuesday 14 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 March 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
 ### Additional Information
 
@@ -60,7 +62,7 @@ Wednesday 15 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 March 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
 ### Additional Information
 
@@ -130,7 +132,7 @@ Thursday 16 March 2023 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -149,7 +151,30 @@ Thursday 16 March 2023 at 13:30 | no launch event
 
 # 17 March 2023
 
-## [OECD Economic Outlook, Interim Report March 2023](https://doi.org/10.1787/d14d49eb-en)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2023 - Une reprise fragile](https://doi.org/10.1787/2d7536fc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 March 2023 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2023 - A Fragile Recovery](https://doi.org/10.1787/d14d49eb-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -258,15 +283,15 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -281,15 +306,15 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -339,6 +364,29 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Togo 2023 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/97c44b82-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 March 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -473,15 +521,15 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -538,6 +586,33 @@ Friday 31 March 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 2 April 2023
+
+## [OECD Economic Surveys: Israel 2023](https://doi.org/10.1787/901365a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 2 April 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -614,6 +689,33 @@ Monday 17 April 2023 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 April 2023
+
+## [Measuring Progress towards Sustainable and Inclusive Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 April 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
