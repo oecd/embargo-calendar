@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 March 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 15 March 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 March 2023](#14-march-2023)
 * [15 March 2023](#15-march-2023)
@@ -62,7 +62,7 @@ Wednesday 15 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
 
 ### Additional Information
 
@@ -87,9 +87,9 @@ Thursday 16 March 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 March 2023 at 22:55
+- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 March 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
 
 ### Additional Information
 
@@ -112,7 +112,7 @@ Thursday 16 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 March 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
 
 ### Additional Information
 
@@ -133,23 +133,46 @@ Thursday 16 March 2023 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 17 March 2023
+
+## [Micro-credentials for lifelong learning and employability - Uses and possibilities](https://doi.org/10.1787/9c4b7b68-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2023 - Une reprise fragile](https://doi.org/10.1787/2d7536fc-fr)
 
