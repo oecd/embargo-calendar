@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 March 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Portugal 2023](https://doi.org/10.1787/d9783cbf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 March 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 March 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 16 March 2023 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring Population Mental Health](https://doi.org/10.1787/5171eef8-en)
 
@@ -61,7 +38,7 @@ Thursday 16 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Thursday 16 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Thursday 16 March 2023 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Friday 17 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
@@ -173,7 +150,7 @@ Friday 17 March 2023 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -184,7 +161,30 @@ Friday 17 March 2023 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Home, green home: Policies to decarbonise housing](https://doi.org/10.1787/cbda8bad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -211,6 +211,29 @@ Monday 20 March 2023 at 6:00 | no launch event
 
 ------
 
+## [Competition, regulation and growth in a digitized world - Dealing with emerging competition issues in digital markets](https://doi.org/10.1787/1b143a37-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Policy Guide on Legal Frameworks for the Social and Solidarity Economy](https://doi.org/10.1787/9c228f62-en)
 
 Embargo date | Launch date
@@ -219,18 +242,87 @@ Monday 20 March 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [The economic consequences of air pollution policies in Arctic Council countries - A sectoral analysis](https://doi.org/10.1787/19875eaf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Beyond pink-collar jobs for women and the social economy](https://doi.org/10.1787/44ba229e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Lessons from the OECD Trust Survey in Portugal](https://doi.org/10.1787/9754dd09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 March 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -242,18 +334,18 @@ Monday 20 March 2023 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
+- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -266,7 +358,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 March 2023 at 22:56
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
@@ -289,7 +381,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 March 2023 at 22:56
+- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
 
