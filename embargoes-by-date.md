@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 March 2023 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 17 March 2023 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 March 2023](#15-march-2023)
 * [16 March 2023](#16-march-2023)
 * [17 March 2023](#17-march-2023)
 * [20 March 2023](#20-march-2023)
@@ -18,33 +17,6 @@ Data generated on | |
 * [17 April 2023](#17-april-2023)
 * [24 April 2023](#24-april-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 15 March 2023
-
-## [Measuring Population Mental Health](https://doi.org/10.1787/5171eef8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -134,7 +106,7 @@ Friday 17 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
@@ -154,18 +126,18 @@ Friday 17 March 2023 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -178,15 +150,15 @@ Friday 17 March 2023 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, PDF, ZXML*
 
@@ -227,18 +199,18 @@ Monday 20 March 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 March 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 March 2023 at 22:31
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -274,7 +246,7 @@ Monday 20 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
 
@@ -392,18 +364,18 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -415,18 +387,18 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 March 2023 at 22:27
+- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
