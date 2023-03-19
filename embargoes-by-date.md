@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 March 2023 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 March 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 March 2023](#16-march-2023)
-* [17 March 2023](#17-march-2023)
 * [20 March 2023](#20-march-2023)
 * [21 March 2023](#21-march-2023)
 * [28 March 2023](#28-march-2023)
@@ -17,152 +15,6 @@ Data generated on | |
 * [17 April 2023](#17-april-2023)
 * [24 April 2023](#24-april-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 16 March 2023
-
-## [Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market](https://doi.org/10.1787/2aa7bcc1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Schools as hubs for social and emotional learning - Are schools and teachers ready?](https://doi.org/10.1787/f6d12db7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 March 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Science, Technology and Innovation Outlook 2023 - Enabling Transitions in Times of Disruption](https://doi.org/10.1787/0b55736e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 March 2023 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 17 March 2023
-
-## [Micro-credentials for lifelong learning and employability - Uses and possibilities](https://doi.org/10.1787/9c4b7b68-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2023 - Une reprise fragile](https://doi.org/10.1787/2d7536fc-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 March 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report March 2023 - A Fragile Recovery](https://doi.org/10.1787/d14d49eb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 March 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
 
 ------
 
@@ -179,7 +31,7 @@ Monday 20 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -202,7 +54,7 @@ Monday 20 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 March 2023 at 22:33
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -225,7 +77,7 @@ Monday 20 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -248,7 +100,7 @@ Monday 20 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -271,7 +123,7 @@ Monday 20 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -294,7 +146,7 @@ Monday 20 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -317,7 +169,7 @@ Monday 20 March 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
@@ -340,7 +192,7 @@ Monday 20 March 2023 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 March 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 March 2023 at 22:36
 
 ### Additional Information
 
