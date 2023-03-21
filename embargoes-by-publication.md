@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 March 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 March 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Home, green home: Policies to decarbonise housing](https://doi.org/10.1787/cbda8bad-en)
 
@@ -174,7 +174,7 @@ Monday 20 March 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [x] Exported to iLibrary Tuesday 21 March 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 20 March 2023 at 22:29
 
@@ -199,7 +199,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
 
 ### Additional Information
 
@@ -510,6 +510,29 @@ Sunday 2 April 2023 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Bulgaria 2023](https://doi.org/10.1787/5ca812a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 April 2023 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Progress Review of Peru's Telecommunications Regulator - Driving Performance](https://doi.org/10.1787/a6a74d3e-en)
 
 Embargo date | Launch date
@@ -572,6 +595,52 @@ Monday 17 April 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estudio multidimensional de El Salvador - Prioridades estratégicas para un desarrollo sólido, inclusivo y sostenible](https://doi.org/10.1787/926438d3-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 April 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Multi-dimensional Review of El Salvador - Strategic Priorities for Robust, Inclusive and Sustainable Development](https://doi.org/10.1787/2f3d5e1f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 April 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

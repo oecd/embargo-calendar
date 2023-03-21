@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 March 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 March 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 March 2023](#20-march-2023)
 * [21 March 2023](#21-march-2023)
@@ -11,8 +11,10 @@ Data generated on | |
 * [30 March 2023](#30-march-2023)
 * [31 March 2023](#31-march-2023)
 * [2 April 2023](#2-april-2023)
+* [4 April 2023](#4-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
+* [18 April 2023](#18-april-2023)
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
@@ -192,7 +194,7 @@ Monday 20 March 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
+- [x] Exported to iLibrary Tuesday 21 March 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 20 March 2023 at 22:29
 
@@ -221,7 +223,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
 
 ### Additional Information
 
@@ -244,7 +246,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 March 2023 at 23:13
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
 
 ### Additional Information
 
@@ -554,6 +556,33 @@ Sunday 2 April 2023 at 8:00 | no launch event
 
 ------
 
+# 4 April 2023
+
+## [OECD Economic Surveys: Bulgaria 2023](https://doi.org/10.1787/5ca812a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 April 2023 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 12 April 2023
 
 ## [Progress Review of Peru's Telecommunications Regulator - Driving Performance](https://doi.org/10.1787/a6a74d3e-en)
@@ -622,6 +651,56 @@ Monday 17 April 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 April 2023
+
+## [Estudio multidimensional de El Salvador - Prioridades estratégicas para un desarrollo sólido, inclusivo y sostenible](https://doi.org/10.1787/926438d3-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 April 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Multi-dimensional Review of El Salvador - Strategic Priorities for Robust, Inclusive and Sustainable Development](https://doi.org/10.1787/2f3d5e1f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 April 2023 at 15:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
