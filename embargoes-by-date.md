@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 March 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 22 March 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 March 2023](#20-march-2023)
 * [21 March 2023](#21-march-2023)
 * [28 March 2023](#28-march-2023)
 * [29 March 2023](#29-march-2023)
@@ -22,194 +21,6 @@ Data generated on | |
 
 ------
 
-# 20 March 2023
-
-## [Home, green home: Policies to decarbonise housing](https://doi.org/10.1787/cbda8bad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Policy Guide on Social Impact Measurement for the Social and Solidarity Economy](https://doi.org/10.1787/270c7194-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Competition, regulation and growth in a digitized world - Dealing with emerging competition issues in digital markets](https://doi.org/10.1787/1b143a37-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Policy Guide on Legal Frameworks for the Social and Solidarity Economy](https://doi.org/10.1787/9c228f62-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [The economic consequences of air pollution policies in Arctic Council countries - A sectoral analysis](https://doi.org/10.1787/19875eaf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Beyond pink-collar jobs for women and the social economy](https://doi.org/10.1787/44ba229e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Lessons from the OECD Trust Survey in Portugal](https://doi.org/10.1787/9754dd09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 March 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The Impact of Regulation on International Investment in Portugal](https://doi.org/10.1787/688b30c8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 March 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 March 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
 # 21 March 2023
 
 ## [Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/9afac47c-en)
@@ -221,7 +32,7 @@ Tuesday 21 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
 
@@ -270,16 +81,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -293,16 +104,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -316,16 +127,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -339,16 +150,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -362,16 +173,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -385,16 +196,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -408,16 +219,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -431,16 +242,16 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -712,7 +523,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 # 24 April 2023
 
-## [Measuring Progress towards Sustainable and Inclusive Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
+## [Measuring Progress towards Inclusive and Sustainable Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
 
 Embargo date | Launch date
 -------------|:------------:
