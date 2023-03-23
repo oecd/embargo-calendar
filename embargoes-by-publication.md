@@ -2,51 +2,51 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 March 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 March 2023 at 23:36* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Prevention of Tax Treaty Abuse – Fifth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/9afac47c-en)
+## [The Impact of AI on the Workplace: Evidence from OECD Case Studies of AI Implementation](https://doi.org/10.1787/2247ce58-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 21 March 2023 at 10:00 | no launch event
+Monday 27 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
+- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
-## [Prévention de l’utilisation abusive des conventions fiscales – Cinquième rapport d’examen par les pairs sur le chalandage fiscal - Cadre Inclusif sur le BEPS : Action 6](https://doi.org/10.1787/cf5d5f64-fr)
+## [The impact of AI on the workplace: Main findings from the OECD AI surveys of employers and workers](https://doi.org/10.1787/ea0a0fe1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 21 March 2023 at 10:00 | no launch event
+Monday 27 March 2023 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 March 2023 at 23:13
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 March 2023 at 22:32
+- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -82,7 +82,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -105,7 +105,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -128,7 +128,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -242,18 +242,18 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 20 March 2023 at 23:03
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 March 2023 at 22:29
+- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -266,15 +266,15 @@ Thursday 30 March 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -284,7 +284,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 31 March 2023 at 7:00 | no launch event
+Friday 31 March 2023 at 8:00 | no launch event
 
 ### Status Information
 
