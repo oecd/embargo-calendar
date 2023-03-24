@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 March 2023 at 23:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 24 March 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 March 2023](#27-march-2023)
 * [28 March 2023](#28-march-2023)
@@ -11,6 +11,7 @@ Data generated on | |
 * [31 March 2023](#31-march-2023)
 * [2 April 2023](#2-april-2023)
 * [4 April 2023](#4-april-2023)
+* [11 April 2023](#11-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
 * [18 April 2023](#18-april-2023)
@@ -73,6 +74,29 @@ Monday 27 March 2023 at 10:00 | no launch event
 
 # 28 March 2023
 
+## [Defining and classifying AI in the workplace](https://doi.org/10.1787/59e89d7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 March 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Mexico 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6fd9ab78-en)
 
 Embargo date | Launch date
@@ -82,7 +106,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -174,7 +198,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -197,7 +221,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -220,7 +244,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -243,7 +267,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 March 2023 at 22:58
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
 
@@ -270,7 +294,7 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
 
@@ -308,6 +332,29 @@ Thursday 30 March 2023 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Přehled o stavu veřejné správy v České republice - Česká republika na cestě k modernější a efektivnější veřejné správě](https://doi.org/10.1787/2651546f-cs)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 March 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Czech*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -389,6 +436,33 @@ Tuesday 4 April 2023 at 14:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 April 2023
+
+## [A portrait of AI adopters across countries - Firm characteristics, assets’ complementarities and productivity](https://doi.org/10.1787/0fb79bb9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 April 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

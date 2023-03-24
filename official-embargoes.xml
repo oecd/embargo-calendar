@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-03-23T23:36:33.7866291+01:00">
+<report name="official-embargoes" generated="2023-03-24T23:21:03.9558685+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -61,6 +61,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18d5f9d4</cell>
   </row>
   <row index="3">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/59e89d7f-en</cell>
+    <cell name="title">Defining and classifying AI in the workplace (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-03-28</cell>
+    <cell name="embargo date">2023-03-28T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-03-24T21:29:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00aa235f</cell>
+  </row>
+  <row index="4">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b81e8db8-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Lucia 2023 (Second Round) (en)</cell>
@@ -80,7 +100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/721adab6</cell>
   </row>
-  <row index="4">
+  <row index="5">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6fd9ab78-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Mexico 2023 (Second Round) (en)</cell>
@@ -91,7 +111,7 @@
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-22T21:58:06Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-22T21:28:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -100,47 +120,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0284951</cell>
   </row>
-  <row index="5">
+  <row index="6">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6fd9ab78-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Mexico 2023 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bd4a456</cell>
   </row>
-  <row index="6">
+  <row index="7">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/90bade22-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nigeria 2023 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5d4241f</cell>
   </row>
-  <row index="7">
+  <row index="8">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9e90f5f4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Togo 2023 (Second Round, Phase 1) (en)</cell>
@@ -160,7 +180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/263c08fd</cell>
   </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97c44b82-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Togo 2023 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -180,7 +200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64ca83bb</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b81e8db8-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Lucia 2023 (Second Round) (en)</cell>
@@ -200,27 +220,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/133ae94d</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/366b187f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Czech Republic 2023 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45efc518</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/97c44b82-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Togo 2023 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -240,27 +260,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5292c76d</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5caa2288-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nicaragua 2023 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f986e58f</cell>
   </row>
-  <row index="13">
+  <row index="14">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0fdc1657-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Albania 2023 (Second Round) (en)</cell>
@@ -271,7 +291,7 @@
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-22T21:58:06Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-22T21:28:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -280,27 +300,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7194f1e7</cell>
   </row>
-  <row index="14">
+  <row index="15">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/0fdc1657-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Albania 2023 (Second Round) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26b071ce</cell>
   </row>
-  <row index="15">
+  <row index="16">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/90bade22-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nigeria 2023 (Second Round) (en)</cell>
@@ -311,7 +331,7 @@
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-22T21:58:06Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-22T21:28:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -320,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fb73434</cell>
   </row>
-  <row index="16">
+  <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9e90f5f4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Togo 2023 (Second Round, Phase 1) (en)</cell>
@@ -340,7 +360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31454e6a</cell>
   </row>
-  <row index="17">
+  <row index="18">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5caa2288-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Nicaragua 2023 (Second Round) (en)</cell>
@@ -351,7 +371,7 @@
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-22T21:58:06Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-22T21:28:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -360,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cf8829c</cell>
   </row>
-  <row index="18">
+  <row index="19">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/366b187f-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Czech Republic 2023 (Second Round) (en)</cell>
@@ -371,7 +391,7 @@
     <cell name="date of publication">2023-03-28</cell>
     <cell name="embargo date">2023-03-28T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-22T21:58:06Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-22T21:28:20Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -380,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a291a80</cell>
   </row>
-  <row index="19">
+  <row index="20">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f44fd6f-en</cell>
     <cell name="title">Ensuring Quality Digital Higher Education in Hungary (en)</cell>
@@ -391,7 +411,7 @@
     <cell name="date of publication">2023-03-29</cell>
     <cell name="embargo date">2023-03-29T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-23T22:03:26Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-23T21:31:44Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -400,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe48311a</cell>
   </row>
-  <row index="20">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/98a5f1e0-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -420,7 +440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba09fa78</cell>
   </row>
-  <row index="21">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f44fd6f-en</cell>
     <cell name="title">Ensuring Quality Digital Higher Education in Hungary (en)</cell>
@@ -440,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75f9644b</cell>
   </row>
-  <row index="22">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c345d3da-en</cell>
     <cell name="title">Applicants and enrolments in distance learning programmes between 2011 and 2021 (en)</cell>
@@ -460,27 +480,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d2c70e4</cell>
   </row>
-  <row index="23">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f44fd6f-en</cell>
     <cell name="title">Ensuring Quality Digital Higher Education in Hungary (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-03-29</cell>
     <cell name="embargo date">2023-03-29T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d2286f0</cell>
   </row>
-  <row index="24">
+  <row index="25">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b1c49851-en</cell>
     <cell name="title">Regulation and external quality assurance of digital higher education (en)</cell>
@@ -500,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adf8a7a6</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2d003a2e-en</cell>
     <cell name="title">Supporting institutions to enhance the quality of digital higher education (en)</cell>
@@ -520,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13d6918e</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f44fd6f-en</cell>
     <cell name="title">Ensuring Quality Digital Higher Education in Hungary (en)</cell>
@@ -531,7 +551,7 @@
     <cell name="date of publication">2023-03-29</cell>
     <cell name="embargo date">2023-03-29T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-23T22:03:26Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5994d5db</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5909623-en</cell>
     <cell name="title">Stakeholder engagement (en)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e112f1f</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b1c49851-en</cell>
     <cell name="title">Regulation and external quality assurance of digital higher education (en)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ee27d07</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/216ff6ff-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f46f559</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2d003a2e-en</cell>
     <cell name="title">Supporting institutions to enhance the quality of digital higher education (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c74a412</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7d644534-en</cell>
     <cell name="title">Assessment frameworks for external quality assurance in Hungary (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0749a72e</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/58fed7f9-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/538c2d11</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/58fed7f9-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -680,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/662e797f</cell>
   </row>
-  <row index="34">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5f44fd6f-en</cell>
     <cell name="title">Ensuring Quality Digital Higher Education in Hungary (en)</cell>
@@ -691,7 +711,7 @@
     <cell name="date of publication">2023-03-29</cell>
     <cell name="embargo date">2023-03-29T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-23T22:03:26Z</cell>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-03-23T21:31:44Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -700,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1b447f7</cell>
   </row>
-  <row index="35">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/59912d09-hu</cell>
     <cell name="title">Vezetői összefoglaló (hu)</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f3375bc</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/98a5f1e0-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fb98ca6</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0fd842d8-en</cell>
     <cell name="title">Institutional quality management of digital higher education (en)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9af947c</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7d644534-en</cell>
     <cell name="title">Assessment frameworks for external quality assurance in Hungary (en)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09b8d437</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/216ff6ff-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23c9614d</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e5909623-en</cell>
     <cell name="title">Stakeholder engagement (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba55aca6</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0fd842d8-en</cell>
     <cell name="title">Institutional quality management of digital higher education (en)</cell>
@@ -840,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b66caf</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/41fd9e5c-en</cell>
     <cell name="title">OECD Public Governance Reviews: Czech Republic (en)</cell>
@@ -860,7 +880,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/980e65a2</cell>
   </row>
-  <row index="43">
+  <row index="44">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2651546f-cs</cell>
+    <cell name="title">Přehled o stavu veřejné správy v České republice (cs)</cell>
+    <cell name="subtitle">Česká republika na cestě k modernější a efektivnější veřejné správě (cs)</cell>
+    <cell name="language">Czech</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-03-30</cell>
+    <cell name="embargo date">2023-03-30T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/525ebf73</cell>
+  </row>
+  <row index="45">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/41fd9e5c-en</cell>
     <cell name="title">OECD Public Governance Reviews: Czech Republic (en)</cell>
@@ -880,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/511ad270</cell>
   </row>
-  <row index="44">
+  <row index="46">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/f677c529-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2023 (en)</cell>
@@ -900,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50082e9e</cell>
   </row>
-  <row index="45">
+  <row index="47">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/f677c529-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2023 (en)</cell>
@@ -920,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/827f094a</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/f677c529-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2023 (en)</cell>
@@ -940,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fc97b38</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/f677c529-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2023 (en)</cell>
@@ -960,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c8bbb41</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/901365a6-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2023 (en)</cell>
@@ -980,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86e93c91</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/901365a6-en</cell>
     <cell name="title">OECD Economic Surveys: Israel 2023 (en)</cell>
@@ -1000,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f14a6dfd</cell>
   </row>
-  <row index="50">
+  <row index="52">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5ca812a4-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2023 (en)</cell>
@@ -1020,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04d7c117</cell>
   </row>
-  <row index="51">
+  <row index="53">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5ca812a4-en</cell>
     <cell name="title">OECD Economic Surveys: Bulgaria 2023 (en)</cell>
@@ -1040,7 +1080,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53d69907</cell>
   </row>
-  <row index="52">
+  <row index="54">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/0fb79bb9-en</cell>
+    <cell name="title">A portrait of AI adopters across countries (en)</cell>
+    <cell name="subtitle">Firm characteristics, assets’ complementarities and productivity (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-04-11</cell>
+    <cell name="embargo date">2023-04-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-03-24T21:54:54Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-03-24T21:29:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df78b93d</cell>
+  </row>
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6a74d3e-en</cell>
     <cell name="title">Progress Review of Peru's Telecommunications Regulator (en)</cell>
@@ -1060,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1994d80f</cell>
   </row>
-  <row index="53">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8c19befd-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1080,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9d1324a</cell>
   </row>
-  <row index="54">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/48393f21-en</cell>
     <cell name="title">Implementation of the PAFER recommendations (en)</cell>
@@ -1100,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2879a7b1</cell>
   </row>
-  <row index="55">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/43c8758a-es</cell>
     <cell name="title">Informe sobre avances del Organismo Supervisor de Inversión Privada en Telecomunicaciones de Perú (es)</cell>
@@ -1120,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55bb01f2</cell>
   </row>
-  <row index="56">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6a74d3e-en</cell>
     <cell name="title">Progress Review of Peru's Telecommunications Regulator (en)</cell>
@@ -1140,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dff901b5</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/38a28d54-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1160,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cefa3c10</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f74d294f-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1180,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fd6a8d4</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6a74d3e-en</cell>
     <cell name="title">Progress Review of Peru's Telecommunications Regulator (en)</cell>
@@ -1200,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba196719</cell>
   </row>
-  <row index="60">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6a74d3e-en</cell>
     <cell name="title">Progress Review of Peru's Telecommunications Regulator (en)</cell>
@@ -1217,10 +1277,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ef8bd2e</cell>
   </row>
-  <row index="61">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f74d294f-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1240,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8bd038c</cell>
   </row>
-  <row index="62">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/8c19befd-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1260,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b18a72d5</cell>
   </row>
-  <row index="63">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/38a28d54-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1280,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0d9f533</cell>
   </row>
-  <row index="64">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/787831b4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1300,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc828bd6</cell>
   </row>
-  <row index="65">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/67247c4a-en</cell>
     <cell name="title">At a glance: progress on the 2018 recommendations (en)</cell>
@@ -1320,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e234cb68</cell>
   </row>
-  <row index="66">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6a74d3e-en</cell>
     <cell name="title">Progress Review of Peru's Telecommunications Regulator (en)</cell>
@@ -1340,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4d06188</cell>
   </row>
-  <row index="67">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/67247c4a-en</cell>
     <cell name="title">At a glance: progress on the 2018 recommendations (en)</cell>
@@ -1360,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80813f25</cell>
   </row>
-  <row index="68">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/48393f21-en</cell>
     <cell name="title">Implementation of the PAFER recommendations (en)</cell>
@@ -1380,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/769a6af9</cell>
   </row>
-  <row index="69">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/43c8758a-es</cell>
     <cell name="title">Informe sobre avances del Organismo Supervisor de Inversión Privada en Telecomunicaciones de Perú (es)</cell>
@@ -1400,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28864e6f</cell>
   </row>
-  <row index="70">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/787831b4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1420,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4010f6b7</cell>
   </row>
-  <row index="71">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/50967622-en</cell>
     <cell name="title">Empowering Young Children in the Digital Age (en)</cell>
@@ -1440,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bddab7bd</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/50967622-en</cell>
     <cell name="title">Empowering Young Children in the Digital Age (en)</cell>
@@ -1460,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/360b6baa</cell>
   </row>
-  <row index="73">
+  <row index="76">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/2f3d5e1f-en</cell>
     <cell name="title">Multi-dimensional Review of El Salvador (en)</cell>
@@ -1480,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e3e19d0</cell>
   </row>
-  <row index="74">
+  <row index="77">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/926438d3-es</cell>
     <cell name="title">Estudio multidimensional de El Salvador (es)</cell>
@@ -1500,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbc88b43</cell>
   </row>
-  <row index="75">
+  <row index="78">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/2f3d5e1f-en</cell>
     <cell name="title">Multi-dimensional Review of El Salvador (en)</cell>
@@ -1520,7 +1580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/426bd396</cell>
   </row>
-  <row index="76">
+  <row index="79">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/926438d3-es</cell>
     <cell name="title">Estudio multidimensional de El Salvador (es)</cell>
@@ -1540,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3241c7c2</cell>
   </row>
-  <row index="77">
+  <row index="80">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -1560,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2042a87</cell>
   </row>
-  <row index="78">
+  <row index="81">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -1580,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2264ee7</cell>
   </row>
-  <row index="79">
+  <row index="82">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c99fa4d-en</cell>
     <cell name="title">Taxing Wages 2023 (en)</cell>
@@ -1600,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb6b2276</cell>
   </row>
-  <row index="80">
+  <row index="83">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c99fa4d-en</cell>
     <cell name="title">Taxing Wages 2023 (en)</cell>
@@ -1620,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6876a1e5</cell>
   </row>
-  <row index="81">
+  <row index="84">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -1640,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d826d10</cell>
   </row>
-  <row index="82">
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -1660,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbde4e6</cell>
   </row>
-  <row index="83">
+  <row index="86">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/97b04926-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Israël 2023 (version abrégée) (fr)</cell>
@@ -1680,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb208bd</cell>
   </row>
-  <row index="84">
+  <row index="87">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -1700,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="85">
+  <row index="88">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
