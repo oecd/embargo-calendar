@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 March 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 26 March 2023 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Impact of AI on the Workplace: Evidence from OECD Case Studies of AI Implementation](https://doi.org/10.1787/2247ce58-en)
 
@@ -15,7 +15,7 @@ Monday 27 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
+- [x] Exported to OECD.org Sunday 26 March 2023 at 22:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 27 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
+- [x] Exported to OECD.org Sunday 26 March 2023 at 22:27
 
 ### Additional Information
 
