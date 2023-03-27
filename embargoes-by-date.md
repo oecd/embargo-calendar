@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 March 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 27 March 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 March 2023](#27-march-2023)
 * [28 March 2023](#28-march-2023)
 * [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
 * [31 March 2023](#31-march-2023)
-* [2 April 2023](#2-april-2023)
+* [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
 * [11 April 2023](#11-april-2023)
 * [12 April 2023](#12-april-2023)
@@ -24,7 +24,7 @@ Data generated on | |
 
 # 27 March 2023
 
-## [The Impact of AI on the Workplace: Evidence from OECD Case Studies of AI Implementation](https://doi.org/10.1787/2247ce58-en)
+## [The impact of AI on the workplace: Evidence from OECD case studies of AI implementation](https://doi.org/10.1787/2247ce58-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -33,9 +33,9 @@ Monday 27 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
+- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 March 2023 at 22:27
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Monday 27 March 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 March 2023 at 22:27
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -85,7 +85,7 @@ Tuesday 28 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 March 2023 at 22:29
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -108,7 +108,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -131,7 +131,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -154,7 +154,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -177,7 +177,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -200,7 +200,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -223,7 +223,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -246,7 +246,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -269,7 +269,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 March 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -294,9 +294,9 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
+- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
@@ -305,6 +305,29 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 March 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -320,18 +343,18 @@ Thursday 30 March 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 March 2023 at 22:31
+- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -354,6 +377,29 @@ Thursday 30 March 2023 at 7:00 | no launch event
 * Language: *Czech*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Czech Republic 2023](https://doi.org/10.1787/e392e937-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 March 2023 at 11:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -387,13 +433,13 @@ Friday 31 March 2023 at 8:00 | no launch event
 
 ------
 
-# 2 April 2023
+# 3 April 2023
 
 ## [OECD Economic Surveys: Israel 2023](https://doi.org/10.1787/901365a6-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 2 April 2023 at 8:00 | no launch event
+Monday 3 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -501,7 +547,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
