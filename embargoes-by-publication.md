@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 March 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 March 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The impact of AI on the workplace: Evidence from OECD case studies of AI implementation](https://doi.org/10.1787/2247ce58-en)
 
@@ -36,7 +36,7 @@ Monday 27 March 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
+- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 March 2023 at 22:26
 
@@ -61,7 +61,7 @@ Tuesday 28 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Tuesday 28 March 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -266,9 +266,9 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
+- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -312,9 +312,9 @@ Thursday 30 March 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
+- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
@@ -326,7 +326,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 
 ------
 
-## [Přehled o stavu veřejné správy v České republice - Česká republika na cestě k modernější a efektivnější veřejné správě](https://doi.org/10.1787/2651546f-cs)
+## [Přehled o stavu veřejné správy: Česká Republika - Česká republika na cestě k modernější a efektivnější veřejné správě](https://doi.org/10.1787/2651546f-cs)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -334,18 +334,18 @@ Thursday 30 March 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Czech*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -368,7 +368,7 @@ Thursday 30 March 2023 at 11:15 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -496,17 +496,17 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -618,6 +618,29 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Advancing Digital Maturity in Croatia’s Higher Education System](https://doi.org/10.1787/c3c8d452-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 April 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
