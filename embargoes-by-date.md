@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 March 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 March 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 March 2023](#27-march-2023)
 * [28 March 2023](#28-march-2023)
 * [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
@@ -18,57 +17,8 @@ Data generated on | |
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
+* [8 May 2023](#8-may-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 27 March 2023
-
-## [The impact of AI on the workplace: Evidence from OECD case studies of AI implementation](https://doi.org/10.1787/2247ce58-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 March 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 March 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The impact of AI on the workplace: Main findings from the OECD AI surveys of employers and workers](https://doi.org/10.1787/ea0a0fe1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 March 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 March 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -296,7 +246,7 @@ Wednesday 29 March 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
 
 ### Additional Information
 
@@ -346,7 +296,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
 
 ### Additional Information
 
@@ -369,7 +319,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
 
 ### Additional Information
 
@@ -512,6 +462,29 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 
 ------
 
+## [Health at a Glance: Latin America and the Caribbean 2023](https://doi.org/10.1787/532b0e2d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 April 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 12 April 2023
@@ -525,15 +498,15 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -548,9 +521,9 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
+- [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
 
 ### Additional Information
 
@@ -736,6 +709,33 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 May 2023
+
+## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 May 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
