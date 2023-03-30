@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 March 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 March 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 March 2023](#28-march-2023)
 * [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
 * [31 March 2023](#31-march-2023)
@@ -19,217 +18,6 @@ Data generated on | |
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 28 March 2023
-
-## [Defining and classifying AI in the workplace](https://doi.org/10.1787/59e89d7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Mexico 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6fd9ab78-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Togo 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/9e90f5f4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Togo 2023 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/97c44b82-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Lucia 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b81e8db8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 March 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Albania 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0fdc1657-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Nigeria 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/90bade22-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Nicaragua 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/5caa2288-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Czech Republic 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/366b187f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 March 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -296,7 +84,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
+- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
 
 ### Additional Information
 
@@ -319,7 +107,7 @@ Thursday 30 March 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
+- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
 
 ### Additional Information
 
@@ -340,15 +128,15 @@ Thursday 30 March 2023 at 11:15 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 30 March 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -366,16 +154,16 @@ Friday 31 March 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 March 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -420,7 +208,7 @@ Tuesday 4 April 2023 at 14:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
