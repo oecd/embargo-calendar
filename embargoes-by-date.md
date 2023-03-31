@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 March 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 31 March 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 March 2023](#29-march-2023)
 * [30 March 2023](#30-march-2023)
 * [31 March 2023](#31-march-2023)
 * [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
+* [6 April 2023](#6-april-2023)
+* [10 April 2023](#10-april-2023)
 * [11 April 2023](#11-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
@@ -18,56 +19,6 @@ Data generated on | |
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 29 March 2023
-
-## [Ensuring Quality Digital Higher Education in Hungary](https://doi.org/10.1787/5f44fd6f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 March 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 March 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -155,9 +106,9 @@ Friday 31 March 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 March 2023 at 22:53
+- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
+- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
 
 ### Additional Information
 
@@ -181,7 +132,7 @@ Monday 3 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -199,6 +150,29 @@ Monday 3 April 2023 at 9:00 | no launch event
 ------
 
 # 4 April 2023
+
+## [Review of Lithuania’s National Agenda on the Prevention of Corruption - Strengthening Public Sector Integrity Strategies](https://doi.org/10.1787/e6efed26-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 April 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [OECD Economic Surveys: Bulgaria 2023](https://doi.org/10.1787/5ca812a4-en)
 
@@ -220,6 +194,60 @@ Tuesday 4 April 2023 at 14:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 April 2023
+
+## [Decarbonising homes in cities in the Netherlands - A neighbourhood approach](https://doi.org/10.1787/b94727de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 April 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 April 2023
+
+## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 April 2023 at 17:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
