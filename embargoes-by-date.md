@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 March 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 2 April 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 March 2023](#30-march-2023)
-* [31 March 2023](#31-march-2023)
 * [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
 * [6 April 2023](#6-april-2023)
@@ -19,106 +17,6 @@ Data generated on | |
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [12 May 2023](#12-may-2023)
-
-------
-
-# 30 March 2023
-
-## [OECD Public Governance Reviews: Czech Republic - Towards a More Modern and Effective Public Administration](https://doi.org/10.1787/41fd9e5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 March 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Přehled o stavu veřejné správy: Česká Republika - Česká republika na cestě k modernější a efektivnější veřejné správě](https://doi.org/10.1787/2651546f-cs)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 March 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Czech Republic 2023](https://doi.org/10.1787/e392e937-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 March 2023 at 11:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 March 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 March 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 31 March 2023
-
-## [Economic Outlook for Southeast Asia, China and India 2023 - Reviving Tourism Post-Pandemic](https://doi.org/10.1787/f677c529-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 March 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 
