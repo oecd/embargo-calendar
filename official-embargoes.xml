@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-04-02T23:10:37.5581027+02:00">
+<report name="official-embargoes" generated="2023-04-03T23:12:23.9410597+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -27,13 +27,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-04-03</cell>
     <cell name="embargo date">2023-04-03T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-04-03T20:52:02Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-03-31T20:54:24Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-03-31T20:29:39Z</cell>
+    <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -153,7 +153,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-03-31T20:54:24Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-03-31T20:29:39Z</cell>
+    <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1322,6 +1322,26 @@
   </row>
   <row index="66">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/edd9a79b-fr</cell>
+    <cell name="title">Les impôts sur les salaires 2023 (fr)</cell>
+    <cell name="subtitle">Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-04-25T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bace8db</cell>
+  </row>
+  <row index="67">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c99fa4d-en</cell>
     <cell name="title">Taxing Wages 2023 (en)</cell>
     <cell name="subtitle">Indexation of Labour Taxation and Benefits in OECD Countries (en)</cell>
@@ -1340,7 +1360,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6876a1e5</cell>
   </row>
-  <row index="67">
+  <row index="68">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/edd9a79b-fr</cell>
+    <cell name="title">Les impôts sur les salaires 2023 (fr)</cell>
+    <cell name="subtitle">Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-04-25T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5ecf4d6</cell>
+  </row>
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3c8d452-en</cell>
     <cell name="title">Advancing Digital Maturity in Croatia’s Higher Education System (en)</cell>
@@ -1360,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82445bfc</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3c8d452-en</cell>
     <cell name="title">Advancing Digital Maturity in Croatia’s Higher Education System (en)</cell>
@@ -1380,7 +1420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e1c83ac</cell>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -1400,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d826d10</cell>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbde4e6</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0343270e</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d56a741</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/97b04926-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Israël 2023 (version abrégée) (fr)</cell>
@@ -1468,8 +1508,8 @@
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-12</cell>
-    <cell name="embargo date">2023-05-12T07:00:00Z</cell>
+    <cell name="date of publication">2023-05-31</cell>
+    <cell name="embargo date">2023-05-31T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb208bd</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -1488,8 +1528,8 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-12</cell>
-    <cell name="embargo date">2023-05-12T07:00:00Z</cell>
+    <cell name="date of publication">2023-05-31</cell>
+    <cell name="embargo date">2023-05-31T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -1508,8 +1548,8 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-12</cell>
-    <cell name="embargo date">2023-05-12T07:00:00Z</cell>
+    <cell name="date of publication">2023-05-31</cell>
+    <cell name="embargo date">2023-05-31T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>

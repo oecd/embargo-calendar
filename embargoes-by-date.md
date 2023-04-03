@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 April 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 3 April 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
@@ -16,7 +16,7 @@ Data generated on | |
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
-* [12 May 2023](#12-may-2023)
+* [31 May 2023](#31-may-2023)
 
 ------
 
@@ -31,15 +31,15 @@ Monday 3 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 3 April 2023 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 3 April 2023 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -60,7 +60,7 @@ Tuesday 4 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 31 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+- [x] Exported to OECD.org Monday 3 April 2023 at 22:26
 
 ### Additional Information
 
@@ -380,6 +380,29 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 
 ------
 
+## [Les impôts sur les salaires 2023 - Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE](https://doi.org/10.1787/edd9a79b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 April 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 26 April 2023
@@ -459,13 +482,13 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ------
 
-# 12 May 2023
+# 31 May 2023
 
 ## [Examens environnementaux de l'OCDE : Israël 2023 (version abrégée)](https://doi.org/10.1787/97b04926-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 12 May 2023 at 7:00 | no launch event
+Wednesday 31 May 2023 at 7:00 | no launch event
 
 ### Status Information
 
@@ -488,7 +511,7 @@ Friday 12 May 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 12 May 2023 at 7:00 | no launch event
+Wednesday 31 May 2023 at 7:00 | no launch event
 
 ### Status Information
 
