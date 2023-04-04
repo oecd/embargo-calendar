@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-04-03T23:12:23.9410597+02:00">
+<report name="official-embargoes" generated="2023-04-04T23:18:37.4293166+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,8 +34,8 @@
     <cell name="ilibrary last export date">2023-04-03T20:52:02Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-04-03T21:39:45Z</cell>
+    <cell name="google last export date">2023-04-03T21:27:40Z</cell>
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86e93c91</cell>
@@ -67,17 +67,17 @@
     <cell name="subtitle">Strengthening Public Sector Integrity Strategies (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-04-04</cell>
     <cell name="embargo date">2023-04-04T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db6f858b</cell>
   </row>
   <row index="4">
@@ -91,9 +91,9 @@
     <cell name="date of publication">2023-04-04</cell>
     <cell name="embargo date">2023-04-04T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-31T20:54:24Z</cell>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
+    <cell name="oecd.org last export date">2023-04-04T20:29:04Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -111,7 +111,7 @@
     <cell name="date of publication">2023-04-04</cell>
     <cell name="embargo date">2023-04-04T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-31T20:54:24Z</cell>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -151,9 +151,9 @@
     <cell name="date of publication">2023-04-04</cell>
     <cell name="embargo date">2023-04-04T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-03-31T20:54:24Z</cell>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-03T20:26:51Z</cell>
+    <cell name="oecd.org last export date">2023-04-04T20:29:04Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -347,13 +347,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-04-04</cell>
     <cell name="embargo date">2023-04-04T14:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-04-04T20:29:04Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -427,13 +427,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-04-11</cell>
     <cell name="embargo date">2023-04-11T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-04-04T20:56:00Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-04-04T20:29:04Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1501,6 +1501,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d56a741</cell>
   </row>
   <row index="75">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6724d155-en</cell>
+    <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-11</cell>
+    <cell name="embargo date">2023-05-11T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/267cf8a1</cell>
+  </row>
+  <row index="76">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/6724d155-en</cell>
+    <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-11</cell>
+    <cell name="embargo date">2023-05-11T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3758028f</cell>
+  </row>
+  <row index="77">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/97b04926-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Israël 2023 (version abrégée) (fr)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb208bd</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 April 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 April 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
@@ -16,6 +16,7 @@ Data generated on | |
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
+* [11 May 2023](#11-may-2023)
 * [31 May 2023](#31-may-2023)
 
 ------
@@ -58,9 +59,9 @@ Tuesday 4 April 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 April 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
 
 ### Additional Information
 
@@ -81,15 +82,15 @@ Tuesday 4 April 2023 at 14:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -185,15 +186,15 @@ Tuesday 11 April 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -473,6 +474,33 @@ Monday 8 May 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 May 2023
+
+## [Strengthening Policy Development in the Public Sector in Ireland](https://doi.org/10.1787/6724d155-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
