@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 April 2023 at 9:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 April 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 April 2023](#3-april-2023)
 * [4 April 2023](#4-april-2023)
 * [6 April 2023](#6-april-2023)
 * [10 April 2023](#10-april-2023)
@@ -18,33 +17,6 @@ Data generated on | |
 * [8 May 2023](#8-may-2023)
 * [11 May 2023](#11-may-2023)
 * [31 May 2023](#31-may-2023)
-
-------
-
-# 3 April 2023
-
-## [OECD Economic Surveys: Israel 2023](https://doi.org/10.1787/901365a6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 3 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 April 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 April 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -82,9 +54,9 @@ Tuesday 4 April 2023 at 14:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
+- [x] Exported to iLibrary Wednesday 5 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 5 April 2023 at 22:30
 
 ### Additional Information
 
@@ -111,7 +83,7 @@ Thursday 6 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 31 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 5 April 2023 at 22:30
 
 ### Additional Information
 
@@ -174,29 +146,6 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Health at a Glance: Latin America and the Caribbean 2023](https://doi.org/10.1787/532b0e2d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 April 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
