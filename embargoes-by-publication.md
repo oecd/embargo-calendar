@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 April 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 April 2023 at 9:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Israel 2023](https://doi.org/10.1787/901365a6-en)
 
