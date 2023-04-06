@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 April 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Review of Lithuania’s National Agenda on the Prevention of Corruption - Strengthening Public Sector Integrity Strategies](https://doi.org/10.1787/e6efed26-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 April 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 April 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 April 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Bulgaria 2023](https://doi.org/10.1787/5ca812a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 April 2023 at 14:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 April 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 6 April 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decarbonising homes in cities in the Netherlands - A neighbourhood approach](https://doi.org/10.1787/b94727de-en)
 
@@ -61,7 +15,7 @@ Thursday 6 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 31 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 April 2023 at 22:30
+- [x] Exported to OECD.org Thursday 6 April 2023 at 22:28
 
 ### Additional Information
 
@@ -112,6 +66,29 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Raw materials critical for the green transition - Production, international trade and export restrictions](https://doi.org/10.1787/c6bb598b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 April 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 April 2023 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 April 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -251,7 +228,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
