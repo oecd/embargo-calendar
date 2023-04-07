@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 April 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 7 April 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Decarbonising homes in cities in the Netherlands - A neighbourhood approach](https://doi.org/10.1787/b94727de-en)
 
@@ -36,7 +36,7 @@ Monday 10 April 2023 at 17:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
+- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 31 March 2023 at 22:29
 
@@ -77,14 +77,14 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 11 April 2023 at 6:00 | no launch event
+Tuesday 11 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 April 2023 at 22:53
+- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 April 2023 at 22:28
+- [x] Exported to OECD.org Friday 7 April 2023 at 22:29
 
 ### Additional Information
 
@@ -219,18 +219,18 @@ Monday 24 April 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 7 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
