@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 April 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Decarbonising homes in cities in the Netherlands - A neighbourhood approach](https://doi.org/10.1787/b94727de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 April 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 April 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 9 April 2023 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
 
@@ -38,7 +15,7 @@ Monday 10 April 2023 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 March 2023 at 22:29
+- [x] Exported to OECD.org Sunday 9 April 2023 at 22:27
 
 ### Additional Information
 
