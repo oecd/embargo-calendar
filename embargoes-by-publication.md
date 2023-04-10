@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 9 April 2023 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 10 April 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
 
@@ -15,7 +15,7 @@ Monday 10 April 2023 at 17:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 April 2023 at 22:27
+- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 March 2023 at 22:29
+- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 11 April 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 April 2023 at 22:29
+- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
 
 ### Additional Information
 
