@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 April 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 April 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
 
@@ -38,7 +38,7 @@ Tuesday 11 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 March 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 11 April 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
 
 ### Additional Information
 
@@ -116,6 +116,29 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [AI language models - Technological, socio-economic and policy considerations](https://doi.org/10.1787/13d38f92-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 April 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -197,7 +220,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 7 April 2023 at 22:29
 
