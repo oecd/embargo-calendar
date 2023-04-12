@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 April 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 April 2023 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 12 April 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A portrait of AI adopters across countries - Firm characteristics, assets’ complementarities and productivity](https://doi.org/10.1787/0fb79bb9-en)
 
@@ -84,7 +61,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
@@ -119,34 +96,11 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 
 ------
 
-## [AI language models - Technological, socio-economic and policy considerations](https://doi.org/10.1787/13d38f92-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 April 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [Empowering Young Children in the Digital Age](https://doi.org/10.1787/50967622-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 April 2023 at 13:00 | no launch event
+Monday 17 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -312,15 +266,15 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -365,6 +319,29 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Sovereign Borrowing Outlook 2023](https://doi.org/10.1787/09b4cfba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 May 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

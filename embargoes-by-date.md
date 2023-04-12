@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 April 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 April 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 April 2023](#10-april-2023)
 * [11 April 2023](#11-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
@@ -14,34 +13,8 @@ Data generated on | |
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [11 May 2023](#11-may-2023)
+* [22 May 2023](#22-may-2023)
 * [31 May 2023](#31-may-2023)
-
-------
-
-# 10 April 2023
-
-## [Education policy outlook in Australia](https://doi.org/10.1787/ce7a0965-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 April 2023 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -108,7 +81,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
@@ -131,7 +104,7 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 March 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
@@ -147,34 +120,11 @@ Wednesday 12 April 2023 at 13:00 | no launch event
 
 # 17 April 2023
 
-## [AI language models - Technological, socio-economic and policy considerations](https://doi.org/10.1787/13d38f92-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 April 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [Empowering Young Children in the Digital Age](https://doi.org/10.1787/50967622-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 April 2023 at 13:00 | no launch event
+Monday 17 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -356,15 +306,15 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 April 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -417,6 +367,33 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 May 2023
+
+## [OECD Sovereign Borrowing Outlook 2023](https://doi.org/10.1787/09b4cfba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 May 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
