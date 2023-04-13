@@ -2,69 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 April 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 April 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 April 2023](#11-april-2023)
 * [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
 * [18 April 2023](#18-april-2023)
-* [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [11 May 2023](#11-may-2023)
 * [22 May 2023](#22-may-2023)
 * [31 May 2023](#31-may-2023)
-
-------
-
-# 11 April 2023
-
-## [A portrait of AI adopters across countries - Firm characteristics, assets’ complementarities and productivity](https://doi.org/10.1787/0fb79bb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 April 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Raw materials critical for the green transition - Production, international trade and export restrictions](https://doi.org/10.1787/c6bb598b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -128,18 +76,18 @@ Monday 17 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -178,16 +126,16 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -195,20 +143,20 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 ------
 
-# 24 April 2023
+# 25 April 2023
 
 ## [Measuring Progress towards Inclusive and Sustainable Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 April 2023 at 8:00 | no launch event
+Tuesday 25 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 April 2023 at 22:29
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
@@ -219,10 +167,6 @@ Monday 24 April 2023 at 8:00 | no launch event
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
-
-------
-
-# 25 April 2023
 
 ## [Taxing Wages 2023 - Indexation of Labour Taxation and Benefits in OECD Countries](https://doi.org/10.1787/8c99fa4d-en)
 
@@ -283,15 +227,15 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 

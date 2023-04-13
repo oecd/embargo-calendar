@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 April 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A portrait of AI adopters across countries - Firm characteristics, assets’ complementarities and productivity](https://doi.org/10.1787/0fb79bb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 April 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 March 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Raw materials critical for the green transition - Production, international trade and export restrictions](https://doi.org/10.1787/c6bb598b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 April 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 April 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 13 April 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Progress Review of Peru's Telecommunications Regulator - Driving Performance](https://doi.org/10.1787/a6a74d3e-en)
 
@@ -104,18 +58,18 @@ Monday 17 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -150,16 +104,16 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -169,14 +123,14 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 April 2023 at 8:00 | no launch event
+Tuesday 25 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 April 2023 at 22:58
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 April 2023 at 22:29
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
@@ -243,15 +197,15 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
