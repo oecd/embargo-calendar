@@ -2,67 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 April 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 April 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 April 2023](#12-april-2023)
 * [17 April 2023](#17-april-2023)
 * [18 April 2023](#18-april-2023)
+* [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
 * [11 May 2023](#11-may-2023)
 * [22 May 2023](#22-may-2023)
 * [31 May 2023](#31-may-2023)
-
-------
-
-# 12 April 2023
-
-## [Progress Review of Peru's Telecommunications Regulator - Driving Performance](https://doi.org/10.1787/a6a74d3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 April 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Informe sobre avances del Organismo Supervisor de Inversión Privada en Telecomunicaciones de Perú - Impulsando el desempeño](https://doi.org/10.1787/43c8758a-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 April 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 March 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -77,7 +27,7 @@ Monday 17 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
 
@@ -103,16 +53,16 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -127,9 +77,9 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
+- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
 
 ### Additional Information
 
@@ -143,20 +93,20 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 
 ------
 
-# 25 April 2023
+# 24 April 2023
 
 ## [Measuring Progress towards Inclusive and Sustainable Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 25 April 2023 at 9:00 | no launch event
+Monday 24 April 2023 at 8:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
+- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
 
 ### Additional Information
 
@@ -167,6 +117,10 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
+
+------
+
+# 25 April 2023
 
 ## [Taxing Wages 2023 - Indexation of Labour Taxation and Benefits in OECD Countries](https://doi.org/10.1787/8c99fa4d-en)
 
@@ -227,9 +181,9 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 13 April 2023 at 22:56
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 April 2023 at 22:29
+- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
 
 ### Additional Information
 
@@ -249,8 +203,8 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 April 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
 
@@ -258,7 +212,7 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
