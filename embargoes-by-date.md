@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 April 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 April 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 April 2023](#17-april-2023)
 * [18 April 2023](#18-april-2023)
@@ -10,6 +10,7 @@ Data generated on | |
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
 * [8 May 2023](#8-may-2023)
+* [9 May 2023](#9-may-2023)
 * [11 May 2023](#11-may-2023)
 * [22 May 2023](#22-may-2023)
 * [31 May 2023](#31-may-2023)
@@ -27,9 +28,9 @@ Monday 17 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] Exported to iLibrary Monday 17 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 April 2023 at 22:27
+- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
 
 ### Additional Information
 
@@ -56,7 +57,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
+- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
 
 ### Additional Information
 
@@ -79,7 +80,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
+- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
 
 ### Additional Information
 
@@ -242,6 +243,33 @@ Monday 8 May 2023 at 13:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 May 2023
+
+## [Joining Forces for Gender Equality - What is Holding us Back?](https://doi.org/10.1787/67d48024-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 May 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
