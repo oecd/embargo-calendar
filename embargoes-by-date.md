@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 April 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 April 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 April 2023](#17-april-2023)
 * [18 April 2023](#18-april-2023)
+* [20 April 2023](#20-april-2023)
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
@@ -57,7 +58,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
 
 ### Additional Information
 
@@ -80,7 +81,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
+- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
 
 ### Additional Information
 
@@ -89,6 +90,33 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 April 2023
+
+## [Unleashing the productive potential of digitalisation in Lithuania](https://doi.org/10.1787/7965209f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 April 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 April 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -249,6 +277,29 @@ Monday 8 May 2023 at 13:00 | no launch event
 ------
 
 # 9 May 2023
+
+## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités](https://doi.org/10.1787/6a24b253-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 May 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Joining Forces for Gender Equality - What is Holding us Back?](https://doi.org/10.1787/67d48024-en)
 
