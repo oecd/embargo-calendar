@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 April 2023 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Empowering Young Children in the Digital Age](https://doi.org/10.1787/50967622-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 April 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 April 2023 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 19 April 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Estudio multidimensional de El Salvador - Prioridades estratégicas para un desarrollo sólido, inclusivo y sostenible](https://doi.org/10.1787/926438d3-es)
 
@@ -36,7 +13,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
 
@@ -59,7 +36,7 @@ Tuesday 18 April 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
 
@@ -84,7 +61,7 @@ Thursday 20 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 April 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
 
 ### Additional Information
 
@@ -142,7 +119,7 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 
 ------
 
-## [Les impôts sur les salaires 2023 - Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE](https://doi.org/10.1787/edd9a79b-fr)
+## [Les impôts sur les salaires 2023 (version abrégée) - Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE](https://doi.org/10.1787/edd9a79b-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -199,7 +176,7 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 April 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 April 2023 at 22:27
+- [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
 
 ### Additional Information
 
@@ -234,6 +211,29 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Germany 2023](https://doi.org/10.1787/9642a3f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 May 2023 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités](https://doi.org/10.1787/6a24b253-fr)
 
 Embargo date | Launch date
@@ -253,7 +253,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
