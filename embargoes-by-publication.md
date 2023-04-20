@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 April 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Estudio multidimensional de El Salvador - Prioridades estratégicas para un desarrollo sólido, inclusivo y sostenible](https://doi.org/10.1787/926438d3-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 April 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multi-dimensional Review of El Salvador - Strategic Priorities for Robust, Inclusive and Sustainable Development](https://doi.org/10.1787/2f3d5e1f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 April 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 20 April 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Unleashing the productive potential of digitalisation in Lithuania](https://doi.org/10.1787/7965209f-en)
 
@@ -61,7 +15,7 @@ Thursday 20 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 April 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
+- [x] Exported to OECD.org Thursday 20 April 2023 at 22:28
 
 ### Additional Information
 
@@ -234,7 +188,7 @@ Monday 8 May 2023 at 13:30 | no launch event
 
 ------
 
-## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités](https://doi.org/10.1787/6a24b253-fr)
+## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités ?](https://doi.org/10.1787/6a24b253-fr)
 
 Embargo date | Launch date
 -------------|:------------:

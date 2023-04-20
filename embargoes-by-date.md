@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 April 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 April 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 April 2023](#18-april-2023)
 * [20 April 2023](#20-april-2023)
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
@@ -14,56 +13,6 @@ Data generated on | |
 * [11 May 2023](#11-may-2023)
 * [22 May 2023](#22-may-2023)
 * [31 May 2023](#31-may-2023)
-
-------
-
-# 18 April 2023
-
-## [Estudio multidimensional de El Salvador - Prioridades estratégicas para un desarrollo sólido, inclusivo y sostenible](https://doi.org/10.1787/926438d3-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 April 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Multi-dimensional Review of El Salvador - Strategic Priorities for Robust, Inclusive and Sustainable Development](https://doi.org/10.1787/2f3d5e1f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 April 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 April 2023 at 7:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 April 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -80,7 +29,7 @@ Thursday 20 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 April 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
+- [x] Exported to OECD.org Thursday 20 April 2023 at 22:28
 
 ### Additional Information
 
@@ -273,7 +222,7 @@ Monday 8 May 2023 at 13:30 | no launch event
 
 # 9 May 2023
 
-## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités](https://doi.org/10.1787/6a24b253-fr)
+## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités ?](https://doi.org/10.1787/6a24b253-fr)
 
 Embargo date | Launch date
 -------------|:------------:
