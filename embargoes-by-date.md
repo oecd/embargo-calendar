@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 April 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 April 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 April 2023](#20-april-2023)
 * [24 April 2023](#24-april-2023)
@@ -54,7 +54,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 14 April 2023 at 22:27
 
@@ -65,6 +65,29 @@ Monday 24 April 2023 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Measuring progress towards inclusive capitalism in Japan](https://doi.org/10.1787/f81d79a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 April 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -81,15 +104,15 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -104,15 +127,15 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -154,7 +177,7 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
 
@@ -265,6 +288,29 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Skills Strategy Ireland - Assessment and Recommendations](https://doi.org/10.1787/d7b8b40b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 May 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
