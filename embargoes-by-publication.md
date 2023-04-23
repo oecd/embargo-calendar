@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 April 2023 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Unleashing the productive potential of digitalisation in Lithuania](https://doi.org/10.1787/7965209f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 April 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 April 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 April 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 23 April 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring Progress towards Inclusive and Sustainable Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
 
@@ -38,7 +15,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
+- [x] Exported to OECD.org Sunday 23 April 2023 at 22:26
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
+- [x] Exported to OECD.org Sunday 23 April 2023 at 22:26
 
 ### Additional Information
 

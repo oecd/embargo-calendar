@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-04-21T23:32:09.4465139+02:00">
+<report name="official-embargoes" generated="2023-04-23T23:10:02.4062904+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/7965209f-en</cell>
-    <cell name="title">Unleashing the productive potential of digitalisation in Lithuania (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2023-04-20</cell>
-    <cell name="embargo date">2023-04-20T05:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-04-18T20:52:40Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-20T20:28:07Z</cell>
-    <cell name="discoveryservice last export date">2023-04-20T21:44:22Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d28594f</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e92d9ccb-en</cell>
     <cell name="title">Inclusive and sustainable growth trends in Japan (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b22085c8</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -73,14 +53,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-04-21T21:02:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-14T20:27:54Z</cell>
+    <cell name="oecd.org last export date">2023-04-23T20:26:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2042a87</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c07b135</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/23aa6944-en</cell>
     <cell name="title">Monitoring inclusive and sustainable growth in Japan (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/320b4734</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e72f70fc-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -140,7 +120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5caa6382</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6016e07</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e92d9ccb-en</cell>
     <cell name="title">Inclusive and sustainable growth trends in Japan (en)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7662f7fb</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -200,7 +180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2264ee7</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/849407a1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -220,7 +200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55df7893</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/e72f70fc-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -240,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13d556a9</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/849407a1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7829e3ac</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/cd42efad-en</cell>
     <cell name="title">Proposed indicators for the inclusive and sustainable growth dashboard for Japan (en)</cell>
@@ -280,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd19b16b</cell>
   </row>
-  <row index="14">
+  <row index="13">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/23aa6944-en</cell>
     <cell name="title">Monitoring inclusive and sustainable growth in Japan (en)</cell>
@@ -300,7 +280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34ff6174</cell>
   </row>
-  <row index="15">
+  <row index="14">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/f81d79a7-en</cell>
     <cell name="title">Measuring progress towards inclusive capitalism in Japan (en)</cell>
@@ -313,14 +293,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-04-21T21:02:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-21T20:33:45Z</cell>
+    <cell name="oecd.org last export date">2023-04-23T20:26:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16f08117</cell>
   </row>
-  <row index="16">
+  <row index="15">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/cd42efad-en</cell>
     <cell name="title">Proposed indicators for the inclusive and sustainable growth dashboard for Japan (en)</cell>
@@ -340,7 +320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb570384</cell>
   </row>
-  <row index="17">
+  <row index="16">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/3ced6c79-en</cell>
     <cell name="title">Measuring Progress towards Inclusive and Sustainable Growth in Japan (en)</cell>
@@ -353,14 +333,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-04-21T21:02:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-04-14T20:27:54Z</cell>
+    <cell name="oecd.org last export date">2023-04-23T20:26:01Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f516da86</cell>
   </row>
-  <row index="18">
+  <row index="17">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c99fa4d-en</cell>
     <cell name="title">Taxing Wages 2023 (en)</cell>
@@ -380,7 +360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb6b2276</cell>
   </row>
-  <row index="19">
+  <row index="18">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/edd9a79b-fr</cell>
     <cell name="title">Les impôts sur les salaires 2023 (version abrégée) (fr)</cell>
@@ -400,7 +380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bace8db</cell>
   </row>
-  <row index="20">
+  <row index="19">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c99fa4d-en</cell>
     <cell name="title">Taxing Wages 2023 (en)</cell>
@@ -420,7 +400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6876a1e5</cell>
   </row>
-  <row index="21">
+  <row index="20">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/edd9a79b-fr</cell>
     <cell name="title">Les impôts sur les salaires 2023 (version abrégée) (fr)</cell>
@@ -440,7 +420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5ecf4d6</cell>
   </row>
-  <row index="22">
+  <row index="21">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3c8d452-en</cell>
     <cell name="title">Advancing Digital Maturity in Croatia’s Higher Education System (en)</cell>
@@ -460,7 +440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82445bfc</cell>
   </row>
-  <row index="23">
+  <row index="22">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c3c8d452-en</cell>
     <cell name="title">Advancing Digital Maturity in Croatia’s Higher Education System (en)</cell>
@@ -480,7 +460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e1c83ac</cell>
   </row>
-  <row index="24">
+  <row index="23">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -500,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d826d10</cell>
   </row>
-  <row index="25">
+  <row index="24">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d6b3d234-en</cell>
     <cell name="title">Teaching for the Future (en)</cell>
@@ -520,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbde4e6</cell>
   </row>
-  <row index="26">
+  <row index="25">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -540,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0343270e</cell>
   </row>
-  <row index="27">
+  <row index="26">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d56a741</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9642a3f5-en</cell>
     <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dc66f7e</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9642a3f5-en</cell>
     <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f17c6278</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74655672</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e57f9970</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6a24b253-fr</cell>
     <cell name="title">Agir ensemble pour l’égalité des genres (version abrégée) (fr)</cell>
@@ -660,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28008bd3</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -680,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16de7689</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -700,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7854746</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -720,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1db5d7c</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6724d155-en</cell>
     <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
@@ -740,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/267cf8a1</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6724d155-en</cell>
     <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
@@ -760,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3758028f</cell>
   </row>
-  <row index="38">
+  <row index="37">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -780,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db6f2c3e</cell>
   </row>
-  <row index="39">
+  <row index="38">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -800,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77025fe1</cell>
   </row>
-  <row index="40">
+  <row index="39">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/97b04926-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Israël 2023 (version abrégée) (fr)</cell>
@@ -820,7 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb208bd</cell>
   </row>
-  <row index="41">
+  <row index="40">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -840,7 +820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="42">
+  <row index="41">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
