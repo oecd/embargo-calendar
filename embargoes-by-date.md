@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 23 April 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 April 2023 at 23:38* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
@@ -11,6 +11,7 @@ Data generated on | |
 * [9 May 2023](#9-may-2023)
 * [11 May 2023](#11-may-2023)
 * [22 May 2023](#22-may-2023)
+* [24 May 2023](#24-may-2023)
 * [31 May 2023](#31-may-2023)
 
 ------
@@ -28,7 +29,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 April 2023 at 22:26
+- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
 
 ### Additional Information
 
@@ -51,7 +52,7 @@ Monday 24 April 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 April 2023 at 22:26
+- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
 
 ### Additional Information
 
@@ -75,16 +76,16 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
+- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -98,24 +99,70 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 April 2023 at 22:33
+- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 26 April 2023
+
+## [Báo cáo Kinh tế của OECD: Việt Nam 2023](https://doi.org/10.1787/7f5fe56b-vi)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 April 2023 at 2:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Vietnamese*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Viet Nam 2023](https://doi.org/10.1787/8f2a6ecb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 April 2023 at 2:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
 
 ## [Advancing Digital Maturity in Croatia’s Higher Education System](https://doi.org/10.1787/c3c8d452-en)
 
@@ -125,18 +172,18 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 14 April 2023 at 22:51
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 April 2023 at 22:27
+- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -187,6 +234,29 @@ Monday 8 May 2023 at 13:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD-Wirtschaftsberichte: Deutschland 2023](https://doi.org/10.1787/80df9211-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 May 2023 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -282,7 +352,7 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -333,6 +403,33 @@ Monday 22 May 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 May 2023
+
+## [ITF Transport Outlook 2023](https://doi.org/10.1787/b6cc9ad5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *International Transport Forum*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
