@@ -2,14 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 April 2023 at 23:38* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 April 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 April 2023](#24-april-2023)
 * [25 April 2023](#25-april-2023)
 * [26 April 2023](#26-april-2023)
+* [27 April 2023](#27-april-2023)
+* [28 April 2023](#28-april-2023)
 * [8 May 2023](#8-may-2023)
 * [9 May 2023](#9-may-2023)
 * [11 May 2023](#11-may-2023)
+* [16 May 2023](#16-may-2023)
 * [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
 * [31 May 2023](#31-may-2023)
@@ -77,9 +80,9 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 April 2023 at 23:02
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
 ### Additional Information
 
@@ -100,9 +103,9 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 April 2023 at 23:02
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
 ### Additional Information
 
@@ -122,12 +125,12 @@ Tuesday 25 April 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 April 2023 at 2:00 | no launch event
+Wednesday 26 April 2023 at 1:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -135,9 +138,9 @@ Wednesday 26 April 2023 at 2:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Vietnamese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -145,12 +148,12 @@ Wednesday 26 April 2023 at 2:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 April 2023 at 2:00 | no launch event
+Wednesday 26 April 2023 at 1:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -158,9 +161,9 @@ Wednesday 26 April 2023 at 2:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -175,7 +178,7 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
 ### Additional Information
 
@@ -198,7 +201,7 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 April 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
 ### Additional Information
 
@@ -207,6 +210,60 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 April 2023
+
+## [Conflict transformation and the role of responsible artisanal and small-scale mining - Supporting peace through supply chain due diligence](https://doi.org/10.1787/cdbd61d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 April 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 April 2023
+
+## [Financial literacy and digitalisation for MSMEs in South East Europe - A tool for empowering owners and managers](https://doi.org/10.1787/b63091ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 April 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -341,18 +398,18 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -376,6 +433,33 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 16 May 2023
+
+## [Revenue Statistics in Latin America and the Caribbean 2023](https://doi.org/10.1787/a7640683-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 May 2023 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -445,7 +529,7 @@ Wednesday 24 May 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 31 May 2023 at 7:00 | no launch event
+Wednesday 31 May 2023 at 6:00 | no launch event
 
 ### Status Information
 
@@ -468,7 +552,7 @@ Wednesday 31 May 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 31 May 2023 at 7:00 | no launch event
+Wednesday 31 May 2023 at 6:00 | no launch event
 
 ### Status Information
 
