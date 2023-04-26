@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 April 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring Progress towards Inclusive and Sustainable Growth in Japan](https://doi.org/10.1787/3ced6c79-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 April 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Measuring progress towards inclusive capitalism in Japan](https://doi.org/10.1787/f81d79a7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 April 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 April 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 April 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 26 April 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Taxing Wages 2023 - Indexation of Labour Taxation and Benefits in OECD Countries](https://doi.org/10.1787/8c99fa4d-en)
 
@@ -153,7 +107,7 @@ Wednesday 26 April 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+- [x] Exported to OECD.org Wednesday 26 April 2023 at 22:30
 
 ### Additional Information
 
@@ -176,7 +130,7 @@ Wednesday 26 April 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 April 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+- [x] Exported to OECD.org Wednesday 26 April 2023 at 22:30
 
 ### Additional Information
 
@@ -199,7 +153,7 @@ Thursday 27 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+- [x] Exported to OECD.org Wednesday 26 April 2023 at 22:30
 
 ### Additional Information
 
@@ -276,7 +230,7 @@ Monday 8 May 2023 at 13:30 | no launch event
 * Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -412,6 +366,29 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estadísticas tributarias en América Latina y el Caribe](https://doi.org/10.1787/5a7667d6-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 May 2023 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
