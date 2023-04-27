@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 April 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Taxing Wages 2023 - Indexation of Labour Taxation and Benefits in OECD Countries](https://doi.org/10.1787/8c99fa4d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Les impôts sur les salaires 2023 (version abrégée) - Indexation de la fiscalité du travail et des prestations dans les pays de l'OCDE](https://doi.org/10.1787/edd9a79b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 April 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 27 April 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Báo cáo Kinh tế của OECD: Việt Nam 2023](https://doi.org/10.1787/7f5fe56b-vi)
 
@@ -153,7 +107,7 @@ Thursday 27 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 April 2023 at 22:30
+- [x] Exported to OECD.org Thursday 27 April 2023 at 22:28
 
 ### Additional Information
 
@@ -176,7 +130,7 @@ Friday 28 April 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+- [x] Exported to OECD.org Thursday 27 April 2023 at 22:28
 
 ### Additional Information
 
@@ -257,6 +211,29 @@ Monday 8 May 2023 at 13:30 | no launch event
 
 ------
 
+## [Benefit Reforms for Inclusive Societies in the United States - Income Security During Joblessness](https://doi.org/10.1787/32d8f005-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Thursday 27 April 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 April 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
 ## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités ?](https://doi.org/10.1787/6a24b253-fr)
 
 Embargo date | Launch date
@@ -312,7 +289,7 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
+- [x] Exported to iLibrary Thursday 27 April 2023 at 22:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
 
@@ -372,7 +349,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 
 ------
 
-## [Estadísticas tributarias en América Latina y el Caribe](https://doi.org/10.1787/5a7667d6-es)
+## [Estadísticas tributarias en América Latina y el Caribe 2023](https://doi.org/10.1787/5a7667d6-es)
 
 Embargo date | Launch date
 -------------|:------------:
