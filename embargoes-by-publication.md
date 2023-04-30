@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 April 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Conflict transformation and the role of responsible artisanal and small-scale mining - Supporting peace through supply chain due diligence](https://doi.org/10.1787/cdbd61d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 April 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 April 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 April 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Financial literacy and digitalisation for MSMEs in South East Europe - A tool for empowering owners and managers](https://doi.org/10.1787/b63091ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 April 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 April 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 April 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 30 April 2023 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
 
