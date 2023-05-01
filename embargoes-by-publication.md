@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 April 2023 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 1 May 2023 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
 
