@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-05-02T23:22:19.9618792+02:00">
+<report name="official-embargoes" generated="2023-05-03T23:21:51.822253+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,6 +21,126 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/80df9211-de</cell>
+    <cell name="title">OECD-Wirtschaftsberichte: Deutschland 2023 (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7934ea0f</cell>
+  </row>
+  <row index="2">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9642a3f5-en</cell>
+    <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dc66f7e</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/9642a3f5-en</cell>
+    <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f17c6278</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9a336992-de</cell>
+    <cell name="title">OECD-Umweltprüfberichte: Deutschland 2023 (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a58bb886</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/80df9211-de</cell>
+    <cell name="title">OECD-Wirtschaftsberichte: Deutschland 2023 (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fda93db0</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9a336992-de</cell>
+    <cell name="title">OECD-Umweltprüfberichte: Deutschland 2023 (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-08</cell>
+    <cell name="embargo date">2023-05-08T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eabc071d</cell>
+  </row>
+  <row index="7">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -40,7 +160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0343270e</cell>
   </row>
-  <row index="2">
+  <row index="8">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f26da7da-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Germany 2023 (en)</cell>
@@ -60,107 +180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d56a741</cell>
   </row>
-  <row index="3">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/80df9211-de</cell>
-    <cell name="title">OECD-Wirtschaftsberichte: Deutschland 2023 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-08</cell>
-    <cell name="embargo date">2023-05-08T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7934ea0f</cell>
-  </row>
-  <row index="4">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/9642a3f5-en</cell>
-    <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-08</cell>
-    <cell name="embargo date">2023-05-08T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dc66f7e</cell>
-  </row>
-  <row index="5">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/9642a3f5-en</cell>
-    <cell name="title">OECD Economic Surveys: Germany 2023 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-08</cell>
-    <cell name="embargo date">2023-05-08T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f17c6278</cell>
-  </row>
-  <row index="6">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/80df9211-de</cell>
-    <cell name="title">OECD-Wirtschaftsberichte: Deutschland 2023 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-05-08</cell>
-    <cell name="embargo date">2023-05-08T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fda93db0</cell>
-  </row>
-  <row index="7">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/9a336992-de</cell>
-    <cell name="title">OECD-Umweltprüfberichte: Deutschland 2023 (de)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">German</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2023-05-08T13:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eabc071d</cell>
-  </row>
-  <row index="8">
+  <row index="9">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/46f94b47-en</cell>
     <cell name="title">Policy options (en)</cell>
@@ -180,7 +200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea8afe5</cell>
   </row>
-  <row index="9">
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ab0c8813-en</cell>
     <cell name="title">Benefit duration limits are amongst the lowest in the OECD (en)</cell>
@@ -200,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3014fff</cell>
   </row>
-  <row index="10">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79ffad4d-en</cell>
     <cell name="title">The PUA extended eligibility mainly for self-employed workers (en)</cell>
@@ -220,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b358e459</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/809a25ab-en</cell>
     <cell name="title">Reader’s Guide (en)</cell>
@@ -240,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/895843a7</cell>
   </row>
-  <row index="12">
+  <row index="13">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/46a841a5-en</cell>
     <cell name="title">UI benefits are more generous in the northern states (en)</cell>
@@ -260,7 +280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd4db59b</cell>
   </row>
-  <row index="13">
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32d8f005-en</cell>
     <cell name="title">Benefit Reforms for Inclusive Societies in the United States (en)</cell>
@@ -280,7 +300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2295fab0</cell>
   </row>
-  <row index="14">
+  <row index="15">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4ddbb324-en</cell>
     <cell name="title">Two quarters of earnings are enough to receive benefits in all states (en)</cell>
@@ -300,7 +320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84f27fcd</cell>
   </row>
-  <row index="15">
+  <row index="16">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/efe4fbd7-en</cell>
     <cell name="title">In the working individuals, UI eligibility does not significantly vary by race (en)</cell>
@@ -320,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04258b64</cell>
   </row>
-  <row index="16">
+  <row index="17">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/23e46ae1-en</cell>
     <cell name="title">Poverty reductions due to PUA-type extensions are modest overall, but significant for African Americans (en)</cell>
@@ -340,7 +360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e28769c</cell>
   </row>
-  <row index="17">
+  <row index="18">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32d8f005-en</cell>
     <cell name="title">Benefit Reforms for Inclusive Societies in the United States (en)</cell>
@@ -360,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d68a660</cell>
   </row>
-  <row index="18">
+  <row index="19">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fbf0eea0-en</cell>
     <cell name="title">Incidence of long-term unemployment drives patterns of coverage gaps (en)</cell>
@@ -380,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2584ae97</cell>
   </row>
-  <row index="19">
+  <row index="20">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/63a13457-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -400,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0223b492</cell>
   </row>
-  <row index="20">
+  <row index="21">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8afbc27c-en</cell>
     <cell name="title">PUA-type extensions would mostly benefit households at the bottom of the income distribution (en)</cell>
@@ -420,7 +440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/341f808e</cell>
   </row>
-  <row index="21">
+  <row index="22">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1aaa3aca-en</cell>
     <cell name="title">Access to unemployment benefits for self-employed workers was limited before the pandemic (en)</cell>
@@ -440,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed459550</cell>
   </row>
-  <row index="22">
+  <row index="23">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a5add34d-en</cell>
     <cell name="title">Income support for jobseekers falls short of a relative poverty line in many countries (en)</cell>
@@ -460,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60e359f9</cell>
   </row>
-  <row index="23">
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac0faa59-en</cell>
     <cell name="title">About one in eight unemployed workers receives unemployment benefits in the United States (en)</cell>
@@ -480,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/032ebeb5</cell>
   </row>
-  <row index="24">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/491b9574-en</cell>
     <cell name="title">Nutritional assistance and disability benefits dominate working-age income support (en)</cell>
@@ -500,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c67f6bb</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ffb8550-en</cell>
     <cell name="title">For current workers, employment status is a principal driver of access to UI (en)</cell>
@@ -520,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c4544aa</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3e75ae49-en</cell>
     <cell name="title">When controlling for labour market history, there are no sizeable racial coverage gaps (en)</cell>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6749451a</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ef2580cb-en</cell>
     <cell name="title">Most unemployed are not entitled due to long out-of-work durations (en)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e96e3749</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/63a13457-en</cell>
     <cell name="title">Abbreviations (en)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9616a1be</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/964cd6f3-en</cell>
     <cell name="title">Accessibility of unemployment insurance in the context of recent extensions (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bb77acb</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1b9c60ec-en</cell>
     <cell name="title">Many unemployed workers were labour-market inactive before starting to look for a job (en)</cell>
@@ -620,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0da9e7f8</cell>
   </row>
-  <row index="31">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7d723096-en</cell>
     <cell name="title">Labour force composition accounts for most of the cross-state variation in UI coverage upon job loss (en)</cell>
@@ -640,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ddd7174</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d4c33b6c-en</cell>
     <cell name="title">A PUA-type extension would raise statutory entitlements for workers across all racial and ethnic groups (en)</cell>
@@ -660,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30f11931</cell>
   </row>
-  <row index="33">
+  <row index="34">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/809a25ab-en</cell>
     <cell name="title">Reader’s Guide (en)</cell>
@@ -680,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9129397</cell>
   </row>
-  <row index="34">
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a7683da0-en</cell>
     <cell name="title">Minimum earnings thresholds differ across states (en)</cell>
@@ -700,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8350fa7c</cell>
   </row>
-  <row index="35">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e8e84692-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5604aac4</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32aa02c6-en</cell>
     <cell name="title">In the United States, Unemployment benefits absorbed the bulk of the COVID‑19 employment shock (en)</cell>
@@ -740,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bffd4f95</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32d8f005-en</cell>
     <cell name="title">Benefit Reforms for Inclusive Societies in the United States (en)</cell>
@@ -760,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf2272d3</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/47b01f32-en</cell>
     <cell name="title">PUA-type extensions would not be sufficient to cover the long-term unemployed (en)</cell>
@@ -780,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dcc3c7e</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ae18f0ba-en</cell>
     <cell name="title">There is space for improving income security without muting work incentives (en)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e772177f</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/be9fc8c1-en</cell>
     <cell name="title">Out-of-work support in the United States is equally patchy for standard and non-standard workers (en)</cell>
@@ -820,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5294ca00</cell>
   </row>
-  <row index="41">
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/12f0735d-en</cell>
     <cell name="title">De facto benefit receipt of standard and non-standard workers (en)</cell>
@@ -840,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffc568de</cell>
   </row>
-  <row index="42">
+  <row index="43">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/46f94b47-en</cell>
     <cell name="title">Policy options (en)</cell>
@@ -860,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab0ec8e9</cell>
   </row>
-  <row index="43">
+  <row index="44">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/964cd6f3-en</cell>
     <cell name="title">Accessibility of unemployment insurance in the context of recent extensions (en)</cell>
@@ -880,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3839bf7d</cell>
   </row>
-  <row index="44">
+  <row index="45">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2e07d349-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -900,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1841b80c</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2bf9d000-en</cell>
     <cell name="title">The importance of contributory benefits varies considerably across countries (en)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2563117</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32d8f005-en</cell>
     <cell name="title">Benefit Reforms for Inclusive Societies in the United States (en)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89b874b4</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bb485fec-en</cell>
     <cell name="title">Social protection gaps become apparent when looking at shorter out-of-work spells (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe01ec95</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e8e84692-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9640d57</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2e07d349-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8eba1bb7</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/12f0735d-en</cell>
     <cell name="title">De facto benefit receipt of standard and non-standard workers (en)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3265caba</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5f1a64f1-en</cell>
     <cell name="title">Asian and African Americans would benefit most from PUA-type extensions (en)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8650893e</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0f44b2ea-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b41e416</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3069a6c2-en</cell>
     <cell name="title">In most countries, marginal effective tax rates for the transition from part-time to full-time employment are the same or higher for the second earner than for the single worker (en)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e601d462</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74655672</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/124a2a7f-en</cell>
     <cell name="title">The share of women on boards of largest listed companies varies according to policy options (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce9fca99</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/35f02dcf-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d795c04</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/18642bf5-en</cell>
     <cell name="title">The refugee inflows from Ukraine are comprised mainly of women (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cda486c</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e57f9970</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/590b9d1d-en</cell>
     <cell name="title">Barriers to the retention and advancement of women specific to the nuclear sector (en)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5389c90c</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fa570379-en</cell>
     <cell name="title">Long-term trends in the evolution of “work from home” by gender (en)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2ab482a</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/32c515a9-en</cell>
     <cell name="title">Women are underrepresented in ICT-intensive jobs (en)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44b2ffd6</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/92b8fc03-en</cell>
     <cell name="title">Gender diversity on boards and in senior management (en)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ef84a93</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/35f02dcf-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec844515</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b3bb0fc-en</cell>
     <cell name="title">Improving gender equality in public employment (en)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3395b905</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a3452d6b-en</cell>
     <cell name="title">Mainstreaming gender equality (en)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56f7b999</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0e26ff5e-en</cell>
     <cell name="title">The gender gap in the pension assets that men and women accumulate increases with age (en)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac15b468</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4adbc37b-en</cell>
     <cell name="title">Gender gaps in asset-backed pension arrangements (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29bd9ffb</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/77fee830-en</cell>
     <cell name="title">Enrolment in ECEC services differs widely for the youngest (en)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/daec7017</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b1dbb29b-en</cell>
     <cell name="title">Women represent less than a quarter of the overall nuclear sector workforce in NEA countries (en)</cell>
@@ -1400,7 +1420,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b39722</cell>
   </row>
-  <row index="70">
+  <row index="71">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6a24b253-fr</cell>
+    <cell name="title">Agir ensemble pour l’égalité des genres (version abrégée) (fr)</cell>
+    <cell name="subtitle">Quelles priorités ? (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-09</cell>
+    <cell name="embargo date">2023-05-09T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cac4b447</cell>
+  </row>
+  <row index="72">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/48b4c335-en</cell>
     <cell name="title">Ensuring the availability, quality and affordability of childcare (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1ed0abf</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bc8fb83f-en</cell>
     <cell name="title">Women and the social economy (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0bd6fa5</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6a24b253-fr</cell>
     <cell name="title">Agir ensemble pour l’égalité des genres (version abrégée) (fr)</cell>
@@ -1457,10 +1497,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28008bd3</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ccbb1c1-en</cell>
     <cell name="title">In many countries, leave entitlements for fathers increased in recent years (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d2c07e6</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fcb884e4-en</cell>
     <cell name="title">Assessing gender equality in transport policies (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23f6204e</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/51b7a433-en</cell>
     <cell name="title">Systems and legal frameworks to address gender-based violence (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27d32c0f</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/51b7a433-en</cell>
     <cell name="title">Systems and legal frameworks to address gender-based violence (en)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a856214a</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b79af67-en</cell>
     <cell name="title">Global goals in gender equality (en)</cell>
@@ -1560,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56e8e2f2</cell>
   </row>
-  <row index="78">
+  <row index="80">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0171b6e7-en</cell>
     <cell name="title">Women remain under-represented in parliaments with wide variations among OECD countries (en)</cell>
@@ -1580,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08086b26</cell>
   </row>
-  <row index="79">
+  <row index="81">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7db04433-en</cell>
     <cell name="title">Pay transparency to close the gender wage gap (en)</cell>
@@ -1600,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09516c1</cell>
   </row>
-  <row index="80">
+  <row index="82">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/28736eeb-en</cell>
     <cell name="title">The potential of digitalisation for women’s economic empowerment in MENA countries (en)</cell>
@@ -1620,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b1bcc8f</cell>
   </row>
-  <row index="81">
+  <row index="83">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7db04433-en</cell>
     <cell name="title">Pay transparency to close the gender wage gap (en)</cell>
@@ -1640,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9fd626d</cell>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a9f80ab9-en</cell>
     <cell name="title">Gender differences in financial literacy and resilience (en)</cell>
@@ -1660,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/650e10d6</cell>
   </row>
-  <row index="83">
+  <row index="85">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e0fd5fca-en</cell>
     <cell name="title">Regardless of the provisions in place, the share of women on boards of largest listed companies increased substantially over the past decade (en)</cell>
@@ -1680,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b11a07ef</cell>
   </row>
-  <row index="84">
+  <row index="86">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bccd7052-en</cell>
     <cell name="title">Legal frameworks, institutional design and strategic planning for gender mainstreaming (en)</cell>
@@ -1700,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cc24db1</cell>
   </row>
-  <row index="85">
+  <row index="87">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/750cb72a-en</cell>
     <cell name="title">Difficulties in finding local business partners are a key challenge to exporting (en)</cell>
@@ -1720,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06616dd1</cell>
   </row>
-  <row index="86">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6164c33b-en</cell>
     <cell name="title">Gender gaps in Vocational Education and Training (VET) and adult learning (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2beedfa6</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e36238c4-en</cell>
     <cell name="title">Tax systems and gender (en)</cell>
@@ -1760,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d94fafb</cell>
   </row>
-  <row index="88">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d5609dbc-en</cell>
     <cell name="title">Despite improvements, women still spend five fewer hours per week in paid work than men (en)</cell>
@@ -1780,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecb70e3a</cell>
   </row>
-  <row index="89">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0bf23ca1-en</cell>
     <cell name="title">Young men are more likely than young women to have left school without having obtained an upper secondary qualification (en)</cell>
@@ -1800,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/523e2de6</cell>
   </row>
-  <row index="90">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6c856e81-en</cell>
     <cell name="title">Net personal average tax rates for second earners are higher than for single earners with the same earnings in most OECD countries (en)</cell>
@@ -1820,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca06bcad</cell>
   </row>
-  <row index="91">
+  <row index="93">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b96a119d-en</cell>
     <cell name="title">Distribution of proficiency in reading and mathematics by gender (en)</cell>
@@ -1840,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd15a757</cell>
   </row>
-  <row index="92">
+  <row index="94">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/725b1894-en</cell>
     <cell name="title">Gender balance in the nuclear sector (en)</cell>
@@ -1860,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b496bf02</cell>
   </row>
-  <row index="93">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4aa4d2f7-en</cell>
     <cell name="title">Gender differences in career expectations and feminisation of the teaching profession (en)</cell>
@@ -1880,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47b0658d</cell>
   </row>
-  <row index="94">
+  <row index="96">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7b012eac-en</cell>
     <cell name="title">On average, men score higher than women in financial knowledge (en)</cell>
@@ -1900,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/674218b9</cell>
   </row>
-  <row index="95">
+  <row index="97">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b4c2e668-en</cell>
     <cell name="title">Glass ceiling effects for women appear lower in social economy enterprises in most countries (en)</cell>
@@ -1920,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb63460</cell>
   </row>
-  <row index="96">
+  <row index="98">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0f44b2ea-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1940,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32eed5c2</cell>
   </row>
-  <row index="97">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/19dadb10-en</cell>
     <cell name="title">Units located within the Centre of Government have progressively become the most common institutional arrangement for gender equality in the OECD area (en)</cell>
@@ -1960,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/392eda31</cell>
   </row>
-  <row index="98">
+  <row index="100">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/725b1894-en</cell>
     <cell name="title">Gender balance in the nuclear sector (en)</cell>
@@ -1980,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c0a4a4f</cell>
   </row>
-  <row index="99">
+  <row index="101">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/161937a7-en</cell>
     <cell name="title">The MENA region stands out for the number of reforms promoted to support women’s economic rights (en)</cell>
@@ -2000,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7754c93</cell>
   </row>
-  <row index="100">
+  <row index="102">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bccd7052-en</cell>
     <cell name="title">Legal frameworks, institutional design and strategic planning for gender mainstreaming (en)</cell>
@@ -2020,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33421c9f</cell>
   </row>
-  <row index="101">
+  <row index="103">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/92a93930-en</cell>
     <cell name="title">Harnessing foreign direct investment for gender equality (en)</cell>
@@ -2040,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/383dfb49</cell>
   </row>
-  <row index="102">
+  <row index="104">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d61438ee-en</cell>
     <cell name="title">Countries have varying access to different forms of gender-disaggregated non-tax data (en)</cell>
@@ -2060,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8e6a5d2</cell>
   </row>
-  <row index="103">
+  <row index="105">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5f8229e3-en</cell>
     <cell name="title">Law and binding decisions on gender mainstreaming and equality are the most common type of provision to promote gender mainstreaming (en)</cell>
@@ -2080,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cb0d183</cell>
   </row>
-  <row index="104">
+  <row index="106">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -2100,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbe05544</cell>
   </row>
-  <row index="105">
+  <row index="107">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/add369ea-en</cell>
     <cell name="title">In some dimensions of gender equality, domestic firms perform better than foreign ones (en)</cell>
@@ -2120,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c8a0476</cell>
   </row>
-  <row index="106">
+  <row index="108">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b4a87738-en</cell>
     <cell name="title">Women entrepreneurs and international trade (en)</cell>
@@ -2140,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3274bbae</cell>
   </row>
-  <row index="107">
+  <row index="109">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/28736eeb-en</cell>
     <cell name="title">The potential of digitalisation for women’s economic empowerment in MENA countries (en)</cell>
@@ -2160,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61cca662</cell>
   </row>
-  <row index="108">
+  <row index="110">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/00d3319d-en</cell>
     <cell name="title">Gains in economic growth from closing gender participation and working hours gaps (en)</cell>
@@ -2180,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86bbce5</cell>
   </row>
-  <row index="109">
+  <row index="111">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/da31edb2-en</cell>
     <cell name="title">Engagement, truancy and lateness (en)</cell>
@@ -2200,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa7bd67e</cell>
   </row>
-  <row index="110">
+  <row index="112">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b3bb0fc-en</cell>
     <cell name="title">Improving gender equality in public employment (en)</cell>
@@ -2220,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cf048a7</cell>
   </row>
-  <row index="111">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b51abd12-en</cell>
     <cell name="title">The gender gap in school engagement and retention (en)</cell>
@@ -2240,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b53ffb9e</cell>
   </row>
-  <row index="112">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa4719c3-en</cell>
     <cell name="title">Addressing gender disparities in access to finance for business creation (en)</cell>
@@ -2260,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/068d0be8</cell>
   </row>
-  <row index="113">
+  <row index="115">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/80e4c1c2-en</cell>
     <cell name="title">Work from home during the pandemic by gender (en)</cell>
@@ -2280,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1c89792</cell>
   </row>
-  <row index="114">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b4a87738-en</cell>
     <cell name="title">Women entrepreneurs and international trade (en)</cell>
@@ -2300,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/651cc1e6</cell>
   </row>
-  <row index="115">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1990e449-en</cell>
     <cell name="title">Participation and performance of girls and boys in education (en)</cell>
@@ -2320,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e63e3d9a</cell>
   </row>
-  <row index="116">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cdaa6081-en</cell>
     <cell name="title">Women are much more likely to work part-time than men (en)</cell>
@@ -2340,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4995a6b6</cell>
   </row>
-  <row index="117">
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6db8d304-en</cell>
     <cell name="title">In many countries, the share of women on boards is lower than in management (en)</cell>
@@ -2360,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce6b5c59</cell>
   </row>
-  <row index="118">
+  <row index="120">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/92b8fc03-en</cell>
     <cell name="title">Gender diversity on boards and in senior management (en)</cell>
@@ -2380,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56c80f08</cell>
   </row>
-  <row index="119">
+  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b51abd12-en</cell>
     <cell name="title">The gender gap in school engagement and retention (en)</cell>
@@ -2400,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/317fb0eb</cell>
   </row>
-  <row index="120">
+  <row index="122">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a23d5829-en</cell>
     <cell name="title">A balanced gender representation in new hires would improve the overall gender balance in the nuclear workforce (en)</cell>
@@ -2420,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2285c9b</cell>
   </row>
-  <row index="121">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/02da2dfd-en</cell>
     <cell name="title">Lack of financial and human resources is a key barrier for statistics disaggregated by gender (en)</cell>
@@ -2440,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/addd925b</cell>
   </row>
-  <row index="122">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5c3f8da6-en</cell>
     <cell name="title">Across OECD countries, the most common GIA requirements are for laws and regulations (en)</cell>
@@ -2460,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2bc57897</cell>
   </row>
-  <row index="123">
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/740988c0-en</cell>
     <cell name="title">Women continue being underrepresented in senior management positions in central governments (en)</cell>
@@ -2480,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/070c524e</cell>
   </row>
-  <row index="124">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fdb24a53-en</cell>
     <cell name="title">Boys were more likely than girls to leave questionnaire items blank and to engage in rapid-guessing on the OECD PISA 2018 test (en)</cell>
@@ -2500,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffff9268</cell>
   </row>
-  <row index="125">
+  <row index="127">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6790177f-en</cell>
     <cell name="title">There were minimal changes in female participation in all divisions of the transport sector between 2011 and 2018 (en)</cell>
@@ -2520,7 +2560,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/520bf5da</cell>
   </row>
-  <row index="126">
+  <row index="128">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6a24b253-fr</cell>
+    <cell name="title">Agir ensemble pour l’égalité des genres (version abrégée) (fr)</cell>
+    <cell name="subtitle">Quelles priorités ? (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-09</cell>
+    <cell name="embargo date">2023-05-09T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20d4bfc8</cell>
+  </row>
+  <row index="129">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b79af67-en</cell>
     <cell name="title">Global goals in gender equality (en)</cell>
@@ -2540,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f80b427</cell>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9a445e31-en</cell>
     <cell name="title">Women are less likely than men to be self-employed (en)</cell>
@@ -2560,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/524657f1</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/94bde35e-en</cell>
     <cell name="title">The gender pension gap persists across OECD countries (en)</cell>
@@ -2580,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af6cf381</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -2600,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16de7689</cell>
   </row>
-  <row index="130">
+  <row index="133">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c59827d9-en</cell>
     <cell name="title">Women continue to be largely underrepresented in national parliaments (en)</cell>
@@ -2620,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c1913b6</cell>
   </row>
-  <row index="131">
+  <row index="134">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4adbc37b-en</cell>
     <cell name="title">Gender gaps in asset-backed pension arrangements (en)</cell>
@@ -2640,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3826240e</cell>
   </row>
-  <row index="132">
+  <row index="135">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bc8fb83f-en</cell>
     <cell name="title">Women and the social economy (en)</cell>
@@ -2660,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adffaa0f</cell>
   </row>
-  <row index="133">
+  <row index="136">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d1df5fbb-en</cell>
     <cell name="title">Governance tools and evidence to promote inclusive decision making (en)</cell>
@@ -2680,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/071d7a26</cell>
   </row>
-  <row index="134">
+  <row index="137">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4caa52b5-en</cell>
     <cell name="title">Greenfield FDI is higher in sectors with lower shares of women and larger gender pay gaps (en)</cell>
@@ -2700,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e5e016e</cell>
   </row>
-  <row index="135">
+  <row index="138">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/152e4929-en</cell>
     <cell name="title">Women at work in OECD countries (en)</cell>
@@ -2720,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b9cfa80</cell>
   </row>
-  <row index="136">
+  <row index="139">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/48b4c335-en</cell>
     <cell name="title">Ensuring the availability, quality and affordability of childcare (en)</cell>
@@ -2740,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80cbd01f</cell>
   </row>
-  <row index="137">
+  <row index="140">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3f16c03-en</cell>
     <cell name="title">The gender wage gap and the role of firms (en)</cell>
@@ -2760,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c32112d</cell>
   </row>
-  <row index="138">
+  <row index="141">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/847a2ebb-en</cell>
     <cell name="title">Women are less likely than men to be involved in early-stage entrepreneurship (en)</cell>
@@ -2780,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5134746d</cell>
   </row>
-  <row index="139">
+  <row index="142">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c940e13f-en</cell>
     <cell name="title">Improving policy implementation to end gender-based violence (en)</cell>
@@ -2800,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90871c27</cell>
   </row>
-  <row index="140">
+  <row index="143">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d55961f8-en</cell>
     <cell name="title">The gender wage gap between and within firms tends to increase over the working life (en)</cell>
@@ -2820,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0364c25</cell>
   </row>
-  <row index="141">
+  <row index="144">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e5186ac0-en</cell>
     <cell name="title">Teleworking through a gender lens (en)</cell>
@@ -2840,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65bde859</cell>
   </row>
-  <row index="142">
+  <row index="145">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6164c33b-en</cell>
     <cell name="title">Gender gaps in Vocational Education and Training (VET) and adult learning (en)</cell>
@@ -2860,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92af5366</cell>
   </row>
-  <row index="143">
+  <row index="146">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1990e449-en</cell>
     <cell name="title">Participation and performance of girls and boys in education (en)</cell>
@@ -2880,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a06692f4</cell>
   </row>
-  <row index="144">
+  <row index="147">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/158a933b-en</cell>
     <cell name="title">Gender gaps in entrepreneurship remain (en)</cell>
@@ -2900,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee1ed160</cell>
   </row>
-  <row index="145">
+  <row index="148">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/16dcaddc-en</cell>
     <cell name="title">There is significant country variation in the size and direction of the gender gap in participation in adult learning (en)</cell>
@@ -2920,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/593b4472</cell>
   </row>
-  <row index="146">
+  <row index="149">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ff99adf1-en</cell>
     <cell name="title">Changes in employment rate since the onset of the COVID‑19 pandemic (Panel A), in the first year of the pandemic (Panel B) and over the second and third year (Panel C) (en)</cell>
@@ -2940,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6015a47e</cell>
   </row>
-  <row index="147">
+  <row index="150">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ce8e4130-en</cell>
     <cell name="title">Gender equality in public leadership (en)</cell>
@@ -2960,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c69a176</cell>
   </row>
-  <row index="148">
+  <row index="151">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/40aa8f59-en</cell>
     <cell name="title">In most countries, less than four in ten Supreme Court judges are women (en)</cell>
@@ -2980,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8f61848</cell>
   </row>
-  <row index="149">
+  <row index="152">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c940e13f-en</cell>
     <cell name="title">Improving policy implementation to end gender-based violence (en)</cell>
@@ -3000,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9dbc448</cell>
   </row>
-  <row index="150">
+  <row index="153">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/449c86ba-en</cell>
     <cell name="title">Despite improvements, gender parity in senior management positions in public energy institutions has not been achieved yet (en)</cell>
@@ -3020,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ba0022c</cell>
   </row>
-  <row index="151">
+  <row index="154">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8f056391-en</cell>
     <cell name="title">Supporting equal parenting: Paid parental leave (en)</cell>
@@ -3040,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0f7525b</cell>
   </row>
-  <row index="152">
+  <row index="155">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d1df5fbb-en</cell>
     <cell name="title">Governance tools and evidence to promote inclusive decision making (en)</cell>
@@ -3060,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32132534</cell>
   </row>
-  <row index="153">
+  <row index="156">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f12f8642-en</cell>
     <cell name="title">Net childcare costs are sizeable in some countries (en)</cell>
@@ -3080,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cc4d94d</cell>
   </row>
-  <row index="154">
+  <row index="157">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9d414a77-en</cell>
     <cell name="title">ECEC enrolment is lower among children in lower-income households (en)</cell>
@@ -3100,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af19d43</cell>
   </row>
-  <row index="155">
+  <row index="158">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/67d48024-en</cell>
     <cell name="title">Joining Forces for Gender Equality (en)</cell>
@@ -3117,10 +3177,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7854746</cell>
   </row>
-  <row index="156">
+  <row index="159">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a9f80ab9-en</cell>
     <cell name="title">Gender differences in financial literacy and resilience (en)</cell>
@@ -3140,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4a8e721</cell>
   </row>
-  <row index="157">
+  <row index="160">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/906ffb32-en</cell>
     <cell name="title">Women are under-represented in most STEM fields of education (en)</cell>
@@ -3160,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9b4bbb5</cell>
   </row>
-  <row index="158">
+  <row index="161">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1aa55615-en</cell>
     <cell name="title">Women represent more than half of all public employees in most OECD countries (en)</cell>
@@ -3180,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f8edb30</cell>
   </row>
-  <row index="159">
+  <row index="162">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e5186ac0-en</cell>
     <cell name="title">Teleworking through a gender lens (en)</cell>
@@ -3200,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15729c97</cell>
   </row>
-  <row index="160">
+  <row index="163">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/22d3d320-en</cell>
     <cell name="title">Female participation in the energy sector workforce is lower than that of men (en)</cell>
@@ -3220,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7f2c16d</cell>
   </row>
-  <row index="161">
+  <row index="164">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/39fe5b02-en</cell>
     <cell name="title">Gender equality in ministerial positions is far from being achieved, having worsened in some OECD countries (en)</cell>
@@ -3240,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2cf44e5a</cell>
   </row>
-  <row index="162">
+  <row index="165">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d09269ad-en</cell>
     <cell name="title">The gender gap in reading increased slightly between 2015 and 2018 across the OECD (en)</cell>
@@ -3260,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71d2a8b0</cell>
   </row>
-  <row index="163">
+  <row index="166">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a3452d6b-en</cell>
     <cell name="title">Mainstreaming gender equality (en)</cell>
@@ -3280,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32a71e6c</cell>
   </row>
-  <row index="164">
+  <row index="167">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d11547da-en</cell>
     <cell name="title">Gender equality aspects are mostly taken into consideration in policies relating to climate change, green entrepreneurship and green jobs (en)</cell>
@@ -3300,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48c408b2</cell>
   </row>
-  <row index="165">
+  <row index="168">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/92a93930-en</cell>
     <cell name="title">Harnessing foreign direct investment for gender equality (en)</cell>
@@ -3320,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2fe9cd4d</cell>
   </row>
-  <row index="166">
+  <row index="169">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ea67739a-en</cell>
     <cell name="title">The gender exporting gap is present in most OECD countries (en)</cell>
@@ -3340,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/871476d6</cell>
   </row>
-  <row index="167">
+  <row index="170">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fcb884e4-en</cell>
     <cell name="title">Assessing gender equality in transport policies (en)</cell>
@@ -3360,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cdc7e5c</cell>
   </row>
-  <row index="168">
+  <row index="171">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/979a5bcf-en</cell>
     <cell name="title">Career breaks around the age of childbirth carry significant wage losses (en)</cell>
@@ -3380,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccdafd63</cell>
   </row>
-  <row index="169">
+  <row index="172">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8dde6086-en</cell>
     <cell name="title">The global averages of female participation in the transport workforce have remained relatively stable between 2008 and 2018, with progress in some countries (en)</cell>
@@ -3400,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a65948f</cell>
   </row>
-  <row index="170">
+  <row index="173">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fead3dca-en</cell>
     <cell name="title">The labour market integration challenges of Ukrainian refugee women (en)</cell>
@@ -3420,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bd7cfd4</cell>
   </row>
-  <row index="171">
+  <row index="174">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3a5dcdaa-en</cell>
     <cell name="title">All OECD countries but one have a national scheme offering paid leave around childbirth (en)</cell>
@@ -3440,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b67625e</cell>
   </row>
-  <row index="172">
+  <row index="175">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ae97515c-en</cell>
     <cell name="title">Gender diversity in energy (en)</cell>
@@ -3460,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f183d004</cell>
   </row>
-  <row index="173">
+  <row index="176">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/97dd83ca-en</cell>
     <cell name="title">Gender mainstreaming in environmental policies (en)</cell>
@@ -3480,7 +3540,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5914e307</cell>
   </row>
-  <row index="174">
+  <row index="177">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6a24b253-fr</cell>
+    <cell name="title">Agir ensemble pour l’égalité des genres (version abrégée) (fr)</cell>
+    <cell name="subtitle">Quelles priorités ? (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-05-09</cell>
+    <cell name="embargo date">2023-05-09T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/324ee162</cell>
+  </row>
+  <row index="178">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d3fa08f6-en</cell>
     <cell name="title">Priority areas in gender equality (en)</cell>
@@ -3500,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95583564</cell>
   </row>
-  <row index="175">
+  <row index="179">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4aa4d2f7-en</cell>
     <cell name="title">Gender differences in career expectations and feminisation of the teaching profession (en)</cell>
@@ -3520,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc5d688c</cell>
   </row>
-  <row index="176">
+  <row index="180">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fead3dca-en</cell>
     <cell name="title">The labour market integration challenges of Ukrainian refugee women (en)</cell>
@@ -3540,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1aef72da</cell>
   </row>
-  <row index="177">
+  <row index="181">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8f056391-en</cell>
     <cell name="title">Supporting equal parenting: Paid parental leave (en)</cell>
@@ -3560,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15f30199</cell>
   </row>
-  <row index="178">
+  <row index="182">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/37ecdc73-en</cell>
     <cell name="title">Gender differences in field-of-study choices in VET are substantial (en)</cell>
@@ -3580,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fb95572</cell>
   </row>
-  <row index="179">
+  <row index="183">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1b9968aa-en</cell>
     <cell name="title">There are important gender differences in financial resilience (en)</cell>
@@ -3600,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca12560c</cell>
   </row>
-  <row index="180">
+  <row index="184">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa4719c3-en</cell>
     <cell name="title">Addressing gender disparities in access to finance for business creation (en)</cell>
@@ -3620,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20621f3f</cell>
   </row>
-  <row index="181">
+  <row index="185">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b038ef16-en</cell>
     <cell name="title">Women represent a small share of environment ministers (en)</cell>
@@ -3640,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48a7ad1b</cell>
   </row>
-  <row index="182">
+  <row index="186">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/158a933b-en</cell>
     <cell name="title">Gender gaps in entrepreneurship remain (en)</cell>
@@ -3660,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bda2a44c</cell>
   </row>
-  <row index="183">
+  <row index="187">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ce8e4130-en</cell>
     <cell name="title">Gender equality in public leadership (en)</cell>
@@ -3680,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bbb90b0</cell>
   </row>
-  <row index="184">
+  <row index="188">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f7b9703d-en</cell>
     <cell name="title">Relatively few new ventures created by women in the MENA region survive to become established businesses (en)</cell>
@@ -3700,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f926ca3</cell>
   </row>
-  <row index="185">
+  <row index="189">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/023199ce-en</cell>
     <cell name="title">Women represent a larger share of the social economy than of the total labour force in most countries (en)</cell>
@@ -3720,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/638f9033</cell>
   </row>
-  <row index="186">
+  <row index="190">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3357e56f-en</cell>
     <cell name="title">Women-only founded companies received 2% of venture capital funding in 2020 (en)</cell>
@@ -3740,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3846e67</cell>
   </row>
-  <row index="187">
+  <row index="191">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b1bb78bd-en</cell>
     <cell name="title">Self-employed women are less likely than men to employ others (en)</cell>
@@ -3760,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dde337c8</cell>
   </row>
-  <row index="188">
+  <row index="192">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/152e4929-en</cell>
     <cell name="title">Women at work in OECD countries (en)</cell>
@@ -3780,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24f66a94</cell>
   </row>
-  <row index="189">
+  <row index="193">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ae97515c-en</cell>
     <cell name="title">Gender diversity in energy (en)</cell>
@@ -3800,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/067fe2db</cell>
   </row>
-  <row index="190">
+  <row index="194">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a1a775dd-en</cell>
     <cell name="title">The gender wage gap is largely concentrated within firms (en)</cell>
@@ -3820,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d148a146</cell>
   </row>
-  <row index="191">
+  <row index="195">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3f16c03-en</cell>
     <cell name="title">The gender wage gap and the role of firms (en)</cell>
@@ -3840,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79aae967</cell>
   </row>
-  <row index="192">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5a13854a-en</cell>
     <cell name="title">Women and men are partially segregated across industries and occupations (en)</cell>
@@ -3860,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ebedc775</cell>
   </row>
-  <row index="193">
+  <row index="197">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e9addbb3-en</cell>
     <cell name="title">Progress in closing the gender wage gap has been slow (en)</cell>
@@ -3880,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77716cc6</cell>
   </row>
-  <row index="194">
+  <row index="198">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a598d486-en</cell>
     <cell name="title">The teaching profession is highly feminised (en)</cell>
@@ -3900,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc639504</cell>
   </row>
-  <row index="195">
+  <row index="199">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e36238c4-en</cell>
     <cell name="title">Tax systems and gender (en)</cell>
@@ -3920,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09f76166</cell>
   </row>
-  <row index="196">
+  <row index="200">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9d9d219d-en</cell>
     <cell name="title">Women represent a larger share of managers in social economy enterprises than in the total labour force in most countries (en)</cell>
@@ -3940,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8f011ad</cell>
   </row>
-  <row index="197">
+  <row index="201">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/97dd83ca-en</cell>
     <cell name="title">Gender mainstreaming in environmental policies (en)</cell>
@@ -3960,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fbe918d</cell>
   </row>
-  <row index="198">
+  <row index="202">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1e772d27-en</cell>
     <cell name="title">Gender gaps in employment rates have continued to narrow, though more slowly than before (en)</cell>
@@ -3980,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88739e93</cell>
   </row>
-  <row index="199">
+  <row index="203">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e2a1c705-en</cell>
     <cell name="title">The share of DAC members’ ODA for gender equality stopped growing after a decade on the rise (en)</cell>
@@ -4000,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35bcf52e</cell>
   </row>
-  <row index="200">
+  <row index="204">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/18467c87-en</cell>
     <cell name="title">Women are still under-represented in senior managerial positions in energy-related sectors (en)</cell>
@@ -4020,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03d11392</cell>
   </row>
-  <row index="201">
+  <row index="205">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a8b20b5b-en</cell>
     <cell name="title">High costs of ICT devices are the main barrier to internet use in women-led businesses in the MENA region (en)</cell>
@@ -4040,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4e80d18</cell>
   </row>
-  <row index="202">
+  <row index="206">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f6430ff2-en</cell>
     <cell name="title">Share of companies supporting continuing professional development in Ireland, 2018 (en)</cell>
@@ -4060,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3df9bdbc</cell>
   </row>
-  <row index="203">
+  <row index="207">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7767c755-en</cell>
     <cell name="title">Securing a balance in skills through a responsive and diversified supply of skills in Ireland (en)</cell>
@@ -4080,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92d501a3</cell>
   </row>
-  <row index="204">
+  <row index="208">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/82690317-en</cell>
     <cell name="title">Individuals facing obstacles to participating in education and training in Ireland and selected European countries, 2016 (en)</cell>
@@ -4100,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b90db090</cell>
   </row>
-  <row index="205">
+  <row index="209">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/b5c8798e-en</cell>
     <cell name="title">Vacancies that are difficult to fill in Ireland, by sector, 2021-22 (en)</cell>
@@ -4120,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/479a0ace</cell>
   </row>
-  <row index="206">
+  <row index="210">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/56bd1ece-en</cell>
     <cell name="title">Factors limiting more provision of training among enterprises in Ireland, 2020 (en)</cell>
@@ -4140,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44f8742a</cell>
   </row>
-  <row index="207">
+  <row index="211">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/975e8222-en</cell>
     <cell name="title">Motivation and obstacles to participating in education and training in Ireland, 2016 (en)</cell>
@@ -4160,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb0cf83c</cell>
   </row>
-  <row index="208">
+  <row index="212">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -4180,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21d43e08</cell>
   </row>
-  <row index="209">
+  <row index="213">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/1a111df5-en</cell>
     <cell name="title">Engineering and construction graduates as a share of tertiary graduates in Ireland, 2020 (en)</cell>
@@ -4200,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cd287aa</cell>
   </row>
-  <row index="210">
+  <row index="214">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e4441c48-en</cell>
     <cell name="title">Leveraging skills to drive innovation and strengthen firm performance in Ireland (en)</cell>
@@ -4220,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/210edbcb</cell>
   </row>
-  <row index="211">
+  <row index="215">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e939c7fa-en</cell>
     <cell name="title">Obstacles to participation in adult education and training, Ireland and EU average, 2016 (en)</cell>
@@ -4240,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/405ee319</cell>
   </row>
-  <row index="212">
+  <row index="216">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -4260,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/910eafac</cell>
   </row>
-  <row index="213">
+  <row index="217">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/c82e3ef3-en</cell>
     <cell name="title">Ireland’s National Training Fund finances, 2017-22 (en)</cell>
@@ -4280,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c41b8973</cell>
   </row>
-  <row index="214">
+  <row index="218">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0998e035-en</cell>
     <cell name="title">Participation rate in formal and non-formal education and training across different demographic characteristics, Ireland and EU average, 2021 (en)</cell>
@@ -4300,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cafacaa</cell>
   </row>
-  <row index="215">
+  <row index="219">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -4320,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1db5d7c</cell>
   </row>
-  <row index="216">
+  <row index="220">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/97380b50-en</cell>
     <cell name="title">High-performance workplace practices and the use of skills in the workplace (en)</cell>
@@ -4340,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee99011e</cell>
   </row>
-  <row index="217">
+  <row index="221">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0a2584e3-en</cell>
     <cell name="title">Top ten skills in online job postings in Ireland, 2020 (en)</cell>
@@ -4360,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c0c8d57</cell>
   </row>
-  <row index="218">
+  <row index="222">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/b8ffbc4e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4380,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/368299fd</cell>
   </row>
-  <row index="219">
+  <row index="223">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ea522374-en</cell>
     <cell name="title">Performance in inter-ministerial co‑ordination in Ireland and selected countries, 2022 (en)</cell>
@@ -4400,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/237bcc74</cell>
   </row>
-  <row index="220">
+  <row index="224">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f5f27085-en</cell>
     <cell name="title">Key insights and recommendations for Ireland (en)</cell>
@@ -4420,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a1e7ea1</cell>
   </row>
-  <row index="221">
+  <row index="225">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/693f94c4-en</cell>
     <cell name="title">Performance in reading, science and mathematics, 15-year-olds in Ireland, 2018 (en)</cell>
@@ -4440,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4554eb49</cell>
   </row>
-  <row index="222">
+  <row index="226">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7767c755-en</cell>
     <cell name="title">Securing a balance in skills through a responsive and diversified supply of skills in Ireland (en)</cell>
@@ -4460,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7bd84ab</cell>
   </row>
-  <row index="223">
+  <row index="227">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/166ca973-en</cell>
     <cell name="title">Fostering greater participation in lifelong learning in and outside the workplace in Ireland (en)</cell>
@@ -4480,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27828521</cell>
   </row>
-  <row index="224">
+  <row index="228">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/34ae2a2a-en</cell>
     <cell name="title">Performance of Ireland’s innovation system compared to other EU countries, 2022 (en)</cell>
@@ -4500,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddc4db8d</cell>
   </row>
-  <row index="225">
+  <row index="229">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/b8ffbc4e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4520,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4cc25578</cell>
   </row>
-  <row index="226">
+  <row index="230">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e4441c48-en</cell>
     <cell name="title">Leveraging skills to drive innovation and strengthen firm performance in Ireland (en)</cell>
@@ -4540,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ba4dfdc</cell>
   </row>
-  <row index="227">
+  <row index="231">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/74348903-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4560,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b57afd</cell>
   </row>
-  <row index="228">
+  <row index="232">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7d908894-en</cell>
     <cell name="title">High-performance workplace practices in firms, Ireland and the EU average, 2019 (en)</cell>
@@ -4580,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe920df0</cell>
   </row>
-  <row index="229">
+  <row index="233">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f7695f05-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -4600,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03a0ef02</cell>
   </row>
-  <row index="230">
+  <row index="234">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f5f27085-en</cell>
     <cell name="title">Key insights and recommendations for Ireland (en)</cell>
@@ -4620,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4ade35d</cell>
   </row>
-  <row index="231">
+  <row index="235">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/74348903-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4640,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7feb407</cell>
   </row>
-  <row index="232">
+  <row index="236">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/166ca973-en</cell>
     <cell name="title">Fostering greater participation in lifelong learning in and outside the workplace in Ireland (en)</cell>
@@ -4660,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05e90c53</cell>
   </row>
-  <row index="233">
+  <row index="237">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/2a674773-en</cell>
     <cell name="title">Enterprise researchers in Ireland and OECD countries, 2019 (en)</cell>
@@ -4680,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af718b24</cell>
   </row>
-  <row index="234">
+  <row index="238">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/7050d2a7-en</cell>
     <cell name="title">Over-qualification in Ireland, 2020 (en)</cell>
@@ -4700,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7db0da7e</cell>
   </row>
-  <row index="235">
+  <row index="239">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/dae60de7-en</cell>
     <cell name="title">Barriers to management development faced by SMEs in Ireland, 2020 (en)</cell>
@@ -4720,7 +4800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10125d28</cell>
   </row>
-  <row index="236">
+  <row index="240">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e67138f5-en</cell>
     <cell name="title">Participation in adult learning in Ireland and selected European countries, 2021 (en)</cell>
@@ -4740,7 +4820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d49beb3d</cell>
   </row>
-  <row index="237">
+  <row index="241">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/8d5237f1-en</cell>
     <cell name="title">Performance in ex post policy evaluation, Ireland and selected countries, 2022 (en)</cell>
@@ -4760,7 +4840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83ec9595</cell>
   </row>
-  <row index="238">
+  <row index="242">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/f7695f05-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -4780,7 +4860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7e052d1</cell>
   </row>
-  <row index="239">
+  <row index="243">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/0cb95237-en</cell>
     <cell name="title">Training provision in enterprises in Ireland and selected European countries, 2020 (en)</cell>
@@ -4800,7 +4880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb21ae81</cell>
   </row>
-  <row index="240">
+  <row index="244">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/c695a736-en</cell>
     <cell name="title">Management skills among the top-three skills needed for the development of enterprises in Ireland and other European countries, 2020 (en)</cell>
@@ -4820,7 +4900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05f21940</cell>
   </row>
-  <row index="241">
+  <row index="245">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e6559f92-en</cell>
     <cell name="title">Strengthening skills governance to build a joined-up skills ecosystem in Ireland (en)</cell>
@@ -4840,7 +4920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/872ff6aa</cell>
   </row>
-  <row index="242">
+  <row index="246">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -4860,7 +4940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52042829</cell>
   </row>
-  <row index="243">
+  <row index="247">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/89e983ab-en</cell>
     <cell name="title">Innovation within enterprises in Ireland, 2019 (en)</cell>
@@ -4880,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce30d089</cell>
   </row>
-  <row index="244">
+  <row index="248">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/316db2b8-en</cell>
     <cell name="title">Projected labour force growth in Ireland by qualification, 2018‑30 (en)</cell>
@@ -4900,7 +4980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58f879b</cell>
   </row>
-  <row index="245">
+  <row index="249">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/e6559f92-en</cell>
     <cell name="title">Strengthening skills governance to build a joined-up skills ecosystem in Ireland (en)</cell>
@@ -4920,7 +5000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec79d29c</cell>
   </row>
-  <row index="246">
+  <row index="250">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d29c0f35-en</cell>
     <cell name="title">Use of digital technologies by firms in Ireland and other European countries, 2019 (en)</cell>
@@ -4940,7 +5020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51038c9d</cell>
   </row>
-  <row index="247">
+  <row index="251">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/ff140d3a-en</cell>
     <cell name="title">Number of eCollege learners, 2016‑21 (en)</cell>
@@ -4960,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94fa0318</cell>
   </row>
-  <row index="248">
+  <row index="252">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d5e2acf6-en</cell>
     <cell name="title">Share of enterprises providing training to employees in Ireland by frequency of skills assessment, 2020 (en)</cell>
@@ -4980,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df68e601</cell>
   </row>
-  <row index="249">
+  <row index="253">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/d7b8b40b-en</cell>
     <cell name="title">OECD Skills Strategy Ireland (en)</cell>
@@ -5000,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3151943f</cell>
   </row>
-  <row index="250">
+  <row index="254">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6724d155-en</cell>
     <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
@@ -5020,7 +5100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/267cf8a1</cell>
   </row>
-  <row index="251">
+  <row index="255">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6724d155-en</cell>
     <cell name="title">Strengthening Policy Development in the Public Sector in Ireland (en)</cell>
@@ -5040,7 +5120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3758028f</cell>
   </row>
-  <row index="252">
+  <row index="256">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a7640683-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2023 (en)</cell>
@@ -5060,7 +5140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1143e9a</cell>
   </row>
-  <row index="253">
+  <row index="257">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5a7667d6-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2023 (es)</cell>
@@ -5080,7 +5160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/819c45f0</cell>
   </row>
-  <row index="254">
+  <row index="258">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a7640683-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2023 (en)</cell>
@@ -5100,7 +5180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f2c6b4c</cell>
   </row>
-  <row index="255">
+  <row index="259">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5a7667d6-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2023 (es)</cell>
@@ -5120,7 +5200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f43792af</cell>
   </row>
-  <row index="256">
+  <row index="260">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -5140,7 +5220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db6f2c3e</cell>
   </row>
-  <row index="257">
+  <row index="261">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -5160,7 +5240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77025fe1</cell>
   </row>
-  <row index="258">
+  <row index="262">
     <cell name="directorate">International Transport Forum</cell>
     <cell name="doi">10.1787/b6cc9ad5-en</cell>
     <cell name="title">ITF Transport Outlook 2023 (en)</cell>
@@ -5180,7 +5260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dd9a770</cell>
   </row>
-  <row index="259">
+  <row index="263">
     <cell name="directorate">International Transport Forum</cell>
     <cell name="doi">10.1787/b6cc9ad5-en</cell>
     <cell name="title">ITF Transport Outlook 2023 (en)</cell>
@@ -5200,7 +5280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67fe2e9a</cell>
   </row>
-  <row index="260">
+  <row index="264">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/97b04926-fr</cell>
     <cell name="title">Examens environnementaux de l'OCDE : Israël 2023 (version abrégée) (fr)</cell>
@@ -5220,7 +5300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fb208bd</cell>
   </row>
-  <row index="261">
+  <row index="265">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -5240,7 +5320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="262">
+  <row index="266">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>

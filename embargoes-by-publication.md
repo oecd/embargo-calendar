@@ -2,36 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 May 2023 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 May 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 May 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 3 May 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD-Wirtschaftsberichte: Deutschland 2023](https://doi.org/10.1787/80df9211-de)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 May 2023 at 13:30 | no launch event
+Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -54,7 +31,7 @@ Monday 8 May 2023 at 13:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 May 2023 at 13:30 | no launch event
+Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -77,7 +54,7 @@ Monday 8 May 2023 at 13:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 May 2023 at 13:30 | no launch event
+Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -92,7 +69,30 @@ Monday 8 May 2023 at 13:30 | no launch event
 * Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 May 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 2 May 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -127,7 +127,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,7 +138,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
