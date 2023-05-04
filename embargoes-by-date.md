@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 May 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 4 May 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 May 2023](#8-may-2023)
 * [9 May 2023](#9-may-2023)
@@ -11,6 +11,7 @@ Data generated on | |
 * [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
 * [31 May 2023](#31-may-2023)
+* [13 June 2023](#13-june-2023)
 
 ------
 
@@ -24,7 +25,7 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -47,7 +48,7 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -71,15 +72,15 @@ Monday 8 May 2023 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -94,9 +95,9 @@ Monday 8 May 2023 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
+- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 May 2023 at 22:29
+- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
 ### Additional Information
 
@@ -144,15 +145,15 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, PDF, ZXML*
 
@@ -167,15 +168,15 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -216,16 +217,16 @@ Thursday 11 May 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -234,6 +235,29 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ------
 
 # 16 May 2023
+
+## [Net Zero+ - Climate and Economic Resilience in a Changing World](https://doi.org/10.1787/da477dda-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 May 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Revenue Statistics in Latin America and the Caribbean 2023](https://doi.org/10.1787/a7640683-en)
 
@@ -367,6 +391,33 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 31 May 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 June 2023
+
+## [How Green is Household Behaviour? - Sustainable Choices in a Time of Interlocking Crises](https://doi.org/10.1787/2bbbb663-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
