@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 May 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 5 May 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD-Wirtschaftsberichte: Deutschland 2023](https://doi.org/10.1787/80df9211-de)
 
@@ -58,18 +58,18 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -81,18 +81,18 @@ Monday 8 May 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -151,7 +151,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
 
@@ -188,6 +188,52 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 
 ------
 
+## [Towards net zero in the Czech Republic](https://doi.org/10.1787/7ce7c9dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Rising energy prices and productivity: short-run pain, long-term gain?](https://doi.org/10.1787/2ce493f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Strengthening Policy Development in the Public Sector in Ireland](https://doi.org/10.1787/6724d155-en)
 
 Embargo date | Launch date
@@ -208,6 +254,75 @@ Thursday 11 May 2023 at 7:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Rapport d’étape 2023 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/e6b55d8e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [2023 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/d29d0872-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Les contrats entre niveaux de gouvernement - Un outil pour la régionalisation avancée au Maroc](https://doi.org/10.1787/c29ad0fa-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
