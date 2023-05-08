@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 May 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 8 May 2023 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [8 May 2023](#8-may-2023)
 * [9 May 2023](#9-may-2023)
@@ -27,15 +27,15 @@ Monday 8 May 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 May 2023 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -50,15 +50,15 @@ Monday 8 May 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 May 2023 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -75,7 +75,7 @@ Monday 8 May 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 7 May 2023 at 22:27
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
@@ -98,7 +98,7 @@ Monday 8 May 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 7 May 2023 at 22:27
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
@@ -125,7 +125,7 @@ Tuesday 9 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 May 2023 at 22:29
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
@@ -148,7 +148,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 7 May 2023 at 22:27
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
@@ -171,7 +171,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
@@ -194,7 +194,7 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 April 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 April 2023 at 22:34
+- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
 
 ### Additional Information
 
