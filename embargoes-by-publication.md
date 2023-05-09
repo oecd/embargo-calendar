@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 May 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 May 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD-Wirtschaftsberichte: Deutschland 2023](https://doi.org/10.1787/80df9211-de)
 
@@ -107,7 +107,7 @@ Tuesday 9 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 9 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 9 May 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 April 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
 
 ### Additional Information
 
@@ -243,17 +243,17 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
+- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -300,6 +300,52 @@ Thursday 11 May 2023 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [OECD Development Co‑operation Peer Reviews: New Zealand 2023](https://doi.org/10.1787/10883ac5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Nouvelle-Zélande 2023](https://doi.org/10.1787/7f5c91cc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 May 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -399,7 +445,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 22 May 2023 at 8:00 | no launch event
+Monday 22 May 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -492,6 +538,29 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 13 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 July 2023 at 7:00 | no launch event
 
 ### Status Information
 
