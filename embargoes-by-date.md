@@ -2,114 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 May 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 May 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 May 2023](#8-may-2023)
 * [9 May 2023](#9-may-2023)
 * [11 May 2023](#11-may-2023)
 * [12 May 2023](#12-may-2023)
+* [15 May 2023](#15-may-2023)
 * [16 May 2023](#16-may-2023)
 * [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
 * [31 May 2023](#31-may-2023)
 * [13 June 2023](#13-june-2023)
+* [22 June 2023](#22-june-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 8 May 2023
-
-## [OECD-Wirtschaftsberichte: Deutschland 2023](https://doi.org/10.1787/80df9211-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 May 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 May 2023 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Germany 2023](https://doi.org/10.1787/9642a3f5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 May 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 May 2023 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD-Umweltprüfberichte: Deutschland 2023](https://doi.org/10.1787/9a336992-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 May 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Environmental Performance Reviews: Germany 2023](https://doi.org/10.1787/f26da7da-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 May 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 May 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -245,7 +150,7 @@ Thursday 11 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -266,9 +171,9 @@ Thursday 11 May 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
+- [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -291,7 +196,7 @@ Thursday 11 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -314,7 +219,7 @@ Thursday 11 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -337,7 +242,7 @@ Thursday 11 May 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -345,7 +250,7 @@ Thursday 11 May 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -360,7 +265,7 @@ Thursday 11 May 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
 
 ### Additional Information
 
@@ -368,13 +273,59 @@ Thursday 11 May 2023 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 12 May 2023
+
+## [Transitioning to a green economy in Greece](https://doi.org/10.1787/77cd54d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Urban house price gradients in the post-COVID-19 era](https://doi.org/10.1787/3c94ca85-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Les contrats entre niveaux de gouvernement - Un outil pour la régionalisation avancée au Maroc](https://doi.org/10.1787/c29ad0fa-fr)
 
@@ -393,6 +344,33 @@ Friday 12 May 2023 at 7:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 15 May 2023
+
+## [Characterising farming resilience capacities - An example of crop farms in the United Kingdom](https://doi.org/10.1787/1e26883b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
@@ -434,7 +412,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -457,7 +435,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -585,6 +563,33 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Tuesday 13 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 June 2023
+
+## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
