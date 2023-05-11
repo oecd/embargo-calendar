@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 May 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 May 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 May 2023](#9-may-2023)
 * [11 May 2023](#11-may-2023)
 * [12 May 2023](#12-may-2023)
 * [15 May 2023](#15-may-2023)
@@ -15,102 +14,6 @@ Data generated on | |
 * [13 June 2023](#13-june-2023)
 * [22 June 2023](#22-june-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 9 May 2023
-
-## [Benefit Reforms for Inclusive Societies in the United States - Income Security During Joblessness](https://doi.org/10.1787/32d8f005-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 May 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Agir ensemble pour l’égalité des genres (version abrégée) - Quelles priorités ?](https://doi.org/10.1787/6a24b253-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 May 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 May 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Joining Forces for Gender Equality - What is Holding us Back?](https://doi.org/10.1787/67d48024-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 May 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 May 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Skills Strategy Ireland - Assessment and Recommendations](https://doi.org/10.1787/d7b8b40b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 May 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 April 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -150,7 +53,7 @@ Thursday 11 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -173,7 +76,7 @@ Thursday 11 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -196,7 +99,7 @@ Thursday 11 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -219,7 +122,7 @@ Thursday 11 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -240,9 +143,9 @@ Thursday 11 May 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
+- [x] Exported to iLibrary Thursday 11 May 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -263,9 +166,9 @@ Thursday 11 May 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 May 2023 at 22:54
+- [x] Exported to iLibrary Thursday 11 May 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -315,7 +218,7 @@ Friday 12 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 May 2023 at 22:28
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
@@ -338,7 +241,7 @@ Friday 12 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 May 2023 at 22:29
+- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
 
 ### Additional Information
 
