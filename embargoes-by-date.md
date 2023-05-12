@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 May 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 May 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 May 2023](#11-may-2023)
 * [12 May 2023](#12-may-2023)
@@ -216,9 +216,9 @@ Friday 12 May 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
+- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
 
 ### Additional Information
 
@@ -241,7 +241,7 @@ Friday 12 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 May 2023 at 22:36
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
 
 ### Additional Information
 
@@ -280,6 +280,52 @@ Monday 15 May 2023 at 5:00 | no launch event
 
 ------
 
+## [Digital Government Review of Türkiye - Towards a Digitally-Enabled Government](https://doi.org/10.1787/3958d102-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 May 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Global Trends in Government Innovation 2023](https://doi.org/10.1787/0655b570-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
 ------
 
 # 16 May 2023
@@ -293,17 +339,40 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Zéro émission nette+ (version abrégée) - Résilience climatique et économique dans un monde en mutation](https://doi.org/10.1787/b10db8e9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 May 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
