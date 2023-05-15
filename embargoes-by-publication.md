@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 14 May 2023 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 15 May 2023 at 23:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Characterising farming resilience capacities - An example of crop farms in the United Kingdom](https://doi.org/10.1787/1e26883b-en)
 
@@ -15,7 +15,7 @@ Monday 15 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 May 2023 at 22:26
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Monday 15 May 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 May 2023 at 22:26
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
@@ -46,7 +46,7 @@ Monday 15 May 2023 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -61,7 +61,7 @@ Monday 15 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 May 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 May 2023 at 22:26
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
@@ -69,7 +69,7 @@ Monday 15 May 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -81,18 +81,18 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -105,15 +105,15 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
+- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 May 2023 at 22:28
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -128,17 +128,17 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -151,17 +151,17 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -276,6 +276,29 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Policy Actions for Affordable Housing in Lithuania](https://doi.org/10.1787/ca16ff6d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 June 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
