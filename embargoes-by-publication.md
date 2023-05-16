@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 May 2023 at 23:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 May 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Characterising farming resilience capacities - An example of crop farms in the United Kingdom](https://doi.org/10.1787/1e26883b-en)
 
@@ -82,9 +82,9 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
+- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
 
 ### Additional Information
 
@@ -104,10 +104,10 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
 
 ### Additional Information
 
@@ -115,7 +115,7 @@ Tuesday 16 May 2023 at 12:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -128,9 +128,9 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
+- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
 
 ### Additional Information
 
@@ -151,9 +151,9 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
+- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
 
 ### Additional Information
 
@@ -303,6 +303,29 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 
 ------
 
+## [Strengthening Latvia’s Housing Affordability Fund](https://doi.org/10.1787/84736a67-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
 
 Embargo date | Launch date
@@ -319,6 +342,52 @@ Thursday 22 June 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Government at a Glance 2023](https://doi.org/10.1787/3d5c5d31-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 June 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Employment Outlook 2023 - Artificial Intelligence and the Labour Market](https://doi.org/10.1787/08785bba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
