@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 May 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 May 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 May 2023](#15-may-2023)
 * [16 May 2023](#16-may-2023)
 * [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
@@ -16,79 +15,6 @@ Data generated on | |
 * [30 June 2023](#30-june-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 15 May 2023
-
-## [Characterising farming resilience capacities - An example of crop farms in the United Kingdom](https://doi.org/10.1787/1e26883b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 May 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digital Government Review of Türkiye - Towards a Digitally-Enabled Government](https://doi.org/10.1787/3958d102-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 May 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 May 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Global Trends in Government Innovation 2023](https://doi.org/10.1787/0655b570-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 May 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 May 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 May 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -151,7 +77,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 17 May 2023 at 22:28
 
 ### Additional Information
 
@@ -174,7 +100,7 @@ Tuesday 16 May 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 17 May 2023 at 22:28
 
 ### Additional Information
 
@@ -198,7 +124,7 @@ Monday 22 May 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -209,7 +135,7 @@ Monday 22 May 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
