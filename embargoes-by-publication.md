@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 May 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Net Zero+ - Climate and Economic Resilience in a Changing World](https://doi.org/10.1787/da477dda-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 May 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Zéro émission nette+ (version abrégée) - Résilience climatique et économique dans un monde en mutation](https://doi.org/10.1787/b10db8e9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 May 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Revenue Statistics in Latin America and the Caribbean 2023](https://doi.org/10.1787/a7640683-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 May 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Estadísticas tributarias en América Latina y el Caribe 2023](https://doi.org/10.1787/5a7667d6-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 May 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 May 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 18 May 2023 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Sovereign Borrowing Outlook 2023](https://doi.org/10.1787/09b4cfba-en)
 
@@ -139,6 +47,29 @@ Wednesday 24 May 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Gender Equality in the Czech Republic - Strengthening Government Capacity for Gender-sensitive and Inclusive Recovery](https://doi.org/10.1787/c5a3086f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 May 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
