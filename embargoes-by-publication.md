@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 May 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 21 May 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Geography of Higher Education in Québec, Canada](https://doi.org/10.1787/becf3c60-en)
 
@@ -15,7 +15,7 @@ Monday 22 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 May 2023 at 22:29
+- [x] Exported to OECD.org Sunday 21 May 2023 at 22:29
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 22 May 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 May 2023 at 22:29
+- [x] Exported to OECD.org Sunday 21 May 2023 at 22:29
 
 ### Additional Information
 
