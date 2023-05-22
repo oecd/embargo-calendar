@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 May 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 May 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
@@ -31,7 +31,7 @@ Monday 22 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 May 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 May 2023 at 22:29
+- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
 
 ### Additional Information
 
@@ -39,7 +39,7 @@ Monday 22 May 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -52,9 +52,9 @@ Monday 22 May 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 May 2023 at 22:55
+- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 May 2023 at 22:29
+- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
 
 ### Additional Information
 
@@ -79,15 +79,15 @@ Wednesday 24 May 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *International Transport Forum*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -105,18 +105,18 @@ Monday 29 May 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 May 2023 at 22:55
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 May 2023 at 22:29
+- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -132,8 +132,8 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 May 2023 at 22:55
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 May 2023 at 22:29
 
