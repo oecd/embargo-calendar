@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-05-22T23:18:37.3730775+02:00">
+<report name="official-embargoes" generated="2023-05-23T23:26:15.8189273+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -31,10 +31,10 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -51,10 +51,10 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -71,11 +71,11 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbe3feef</cell>
@@ -91,7 +91,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -102,6 +102,26 @@
   </row>
   <row index="5">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/3fe06f01-fr</cell>
+    <cell name="title">Préface de l’OCDE et du Conseil de l’Innovation (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f705e23</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/97842d59-en</cell>
     <cell name="title">Unleashing the potential of place-responsive higher education institutions and systems in Québec (en)</cell>
     <cell name="subtitle"/>
@@ -111,7 +131,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -120,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6597cd4a</cell>
   </row>
-  <row index="6">
+  <row index="7">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/becf3c60-en</cell>
     <cell name="title">The Geography of Higher Education in Québec, Canada (en)</cell>
@@ -131,16 +151,56 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-05-22T20:29:29Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/155b041c</cell>
   </row>
-  <row index="7">
+  <row index="8">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/7ce79ab7-fr</cell>
+    <cell name="title">Avant-propos (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dea751b0</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/4af319c3-fr</cell>
+    <cell name="title">Mesurer l’impact de la localisation sur les transferts de R&amp;D entre universités et entreprises (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c553c5a</cell>
+  </row>
+  <row index="10">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bcb041c3-en</cell>
     <cell name="title">Preface by the OECD and Council of Innovation (en)</cell>
@@ -151,16 +211,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3c412aa</cell>
   </row>
-  <row index="8">
+  <row index="11">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/da5cbaf2-en</cell>
     <cell name="title">The entrepreneurial HEIs in Québec (en)</cell>
@@ -171,16 +231,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/708b9d4e</cell>
   </row>
-  <row index="9">
+  <row index="12">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3eed254f-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -191,7 +251,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -200,7 +260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1db68ee</cell>
   </row>
-  <row index="10">
+  <row index="13">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/54760414-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -211,7 +271,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -220,7 +280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a2ee51c</cell>
   </row>
-  <row index="11">
+  <row index="14">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/54760414-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -231,16 +291,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a023bde3</cell>
   </row>
-  <row index="12">
+  <row index="15">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/becf3c60-en</cell>
     <cell name="title">The Geography of Higher Education in Québec, Canada (en)</cell>
@@ -260,7 +320,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86c04014</cell>
   </row>
-  <row index="13">
+  <row index="16">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/575ea541-fr</cell>
+    <cell name="title">Les EES entrepreneuriaux au Québec (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8e35cf2</cell>
+  </row>
+  <row index="17">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/da5cbaf2-en</cell>
     <cell name="title">The entrepreneurial HEIs in Québec (en)</cell>
@@ -271,7 +351,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -280,7 +360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb12c8f4</cell>
   </row>
-  <row index="14">
+  <row index="18">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bcb041c3-en</cell>
     <cell name="title">Preface by the OECD and Council of Innovation (en)</cell>
@@ -291,7 +371,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -300,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81647066</cell>
   </row>
-  <row index="15">
+  <row index="19">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bfbe92c3-en</cell>
     <cell name="title">Higher education institutions in entrepreneurial ecosystems (en)</cell>
@@ -311,7 +391,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -320,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3b24efc</cell>
   </row>
-  <row index="16">
+  <row index="20">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/becf3c60-en</cell>
     <cell name="title">The Geography of Higher Education in Québec, Canada (en)</cell>
@@ -331,16 +411,36 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-05-22T20:29:29Z</cell>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc9bafd3</cell>
   </row>
-  <row index="17">
+  <row index="21">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/38744133-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df90385</cell>
+  </row>
+  <row index="22">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/139afd1c-en</cell>
     <cell name="title">Measuring the influence of entrepreneurial education on the mindset of students (en)</cell>
@@ -351,16 +451,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42e3073b</cell>
   </row>
-  <row index="18">
+  <row index="23">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e4c61dc3-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -371,7 +471,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -380,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4866025</cell>
   </row>
-  <row index="19">
+  <row index="24">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9111df14-en</cell>
     <cell name="title">The innovation, entrepreneurship, and HE systems in Québec (en)</cell>
@@ -391,16 +491,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e1bdaa4</cell>
   </row>
-  <row index="20">
+  <row index="25">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9111df14-en</cell>
     <cell name="title">The innovation, entrepreneurship, and HE systems in Québec (en)</cell>
@@ -411,7 +511,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -420,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8398880</cell>
   </row>
-  <row index="21">
+  <row index="26">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/97842d59-en</cell>
     <cell name="title">Unleashing the potential of place-responsive higher education institutions and systems in Québec (en)</cell>
@@ -431,16 +531,56 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5098936</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/c4178d0a-fr</cell>
+    <cell name="title">Les établissements d’enseignement supérieur dans les écosystèmes entrepreneuriaux (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5098936</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88c6be4c</cell>
   </row>
-  <row index="22">
+  <row index="28">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/ca672d70-fr</cell>
+    <cell name="title">Libérer le potentiel des établissements et des systèmes d’enseignement supérieur sensibles au contexte local au Québec (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98b9c9f0</cell>
+  </row>
+  <row index="29">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e4c61dc3-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -451,16 +591,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ee616cf</cell>
   </row>
-  <row index="23">
+  <row index="30">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0cf6d36-en</cell>
     <cell name="title">Place-responsive higher education institutions as policy partners (en)</cell>
@@ -471,16 +611,16 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3401d0a</cell>
   </row>
-  <row index="24">
+  <row index="31">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/139afd1c-en</cell>
     <cell name="title">Measuring the influence of entrepreneurial education on the mindset of students (en)</cell>
@@ -491,7 +631,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -500,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9085900f</cell>
   </row>
-  <row index="25">
+  <row index="32">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b7c69ca7-en</cell>
     <cell name="title">Measuring the impact of location on R&amp;D transfers between universities and enterprises (en)</cell>
@@ -511,16 +651,36 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da504e7f</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/21e7f348-fr</cell>
+    <cell name="title">Mesurer l’influence de l’éducation entrepreneuriale sur l’état d’esprit des étudiants (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da504e7f</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce294d02</cell>
   </row>
-  <row index="26">
+  <row index="34">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/becf3c60-en</cell>
     <cell name="title">The Geography of Higher Education in Québec, Canada (en)</cell>
@@ -531,16 +691,36 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f642635</cell>
   </row>
-  <row index="27">
+  <row index="35">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/e908c756-fr</cell>
+    <cell name="title">L’innovation, l’entrepreneuriat et les systèmes d’ES au Québec (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91fc7a88</cell>
+  </row>
+  <row index="36">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0cf6d36-en</cell>
     <cell name="title">Place-responsive higher education institutions as policy partners (en)</cell>
@@ -551,7 +731,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -560,7 +740,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89c266af</cell>
   </row>
-  <row index="28">
+  <row index="37">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/3f8a0489-fr</cell>
+    <cell name="title">Acronymes et abréviations (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3e9f312</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/d683350d-fr</cell>
+    <cell name="title">Des établissements d’enseignement supérieur sensibles au contexte local en tant que partenaires politiques (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b80b37</cell>
+  </row>
+  <row index="39">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b49ac5fb-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -571,16 +791,36 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5afab16</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/9c2bae08-fr</cell>
+    <cell name="title">Guide de lecture (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-22T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5afab16</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f664e61</cell>
   </row>
-  <row index="29">
+  <row index="41">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b49ac5fb-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -591,7 +831,7 @@
     <cell name="date of publication">2023-05-22</cell>
     <cell name="embargo date">2023-05-22T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-19T20:55:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -600,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5f286ba</cell>
   </row>
-  <row index="30">
+  <row index="42">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/bff71a9d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -614,13 +854,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f11ef06</cell>
   </row>
-  <row index="31">
+  <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -634,13 +874,13 @@
     <cell name="ilibrary last export date">2023-05-22T20:54:52Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-05-22T20:29:29Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db6f2c3e</cell>
   </row>
-  <row index="32">
+  <row index="44">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f1f4ab24-en</cell>
     <cell name="title">Sovereign debt issuance trends in emerging market economies (en)</cell>
@@ -654,13 +894,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/547296fc</cell>
   </row>
-  <row index="33">
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/afd5572a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -680,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/596038a2</cell>
   </row>
-  <row index="34">
+  <row index="46">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2643effe-en</cell>
     <cell name="title">Sovereign sustainable bonds: Issuance trends and practices (en)</cell>
@@ -700,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abec8475</cell>
   </row>
-  <row index="35">
+  <row index="47">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0d0578d4-en</cell>
     <cell name="title">OECD 2022 Survey on Liquidity in Government Bond Secondary Markets (en)</cell>
@@ -714,13 +954,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19dbd3e5</cell>
   </row>
-  <row index="36">
+  <row index="48">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -735,12 +975,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77025fe1</cell>
   </row>
-  <row index="37">
+  <row index="49">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/afd5572a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -754,13 +994,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c7ccb86</cell>
   </row>
-  <row index="38">
+  <row index="50">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -775,12 +1015,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-05-22T20:29:29Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a75aa19a</cell>
   </row>
-  <row index="39">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0d0578d4-en</cell>
     <cell name="title">OECD 2022 Survey on Liquidity in Government Bond Secondary Markets (en)</cell>
@@ -800,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83f65bc2</cell>
   </row>
-  <row index="40">
+  <row index="52">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/350b0253-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -820,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17ff6013</cell>
   </row>
-  <row index="41">
+  <row index="53">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/2643effe-en</cell>
     <cell name="title">Sovereign sustainable bonds: Issuance trends and practices (en)</cell>
@@ -834,13 +1074,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/14b16bdb</cell>
   </row>
-  <row index="42">
+  <row index="54">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ca6a4a4c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -860,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46241779</cell>
   </row>
-  <row index="43">
+  <row index="55">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7832472c-en</cell>
     <cell name="title">OECD 2022 Survey on Primary Markets Developments (en)</cell>
@@ -880,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a8df6d9</cell>
   </row>
-  <row index="44">
+  <row index="56">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/7832472c-en</cell>
     <cell name="title">OECD 2022 Survey on Primary Markets Developments (en)</cell>
@@ -894,13 +1134,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3989eb3b</cell>
   </row>
-  <row index="45">
+  <row index="57">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/62c91ab0-en</cell>
     <cell name="title">Buyback and switch programmes: Evidence‑based recommendations for sovereign debt managers (en)</cell>
@@ -920,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74d69d97</cell>
   </row>
-  <row index="46">
+  <row index="58">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ccab9b0f-en</cell>
     <cell name="title">Sovereign Borrowing Outlook for OECD Countries (en)</cell>
@@ -934,13 +1174,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f9c2fda</cell>
   </row>
-  <row index="47">
+  <row index="59">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/62c91ab0-en</cell>
     <cell name="title">Buyback and switch programmes: Evidence‑based recommendations for sovereign debt managers (en)</cell>
@@ -954,13 +1194,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08b9fb14</cell>
   </row>
-  <row index="48">
+  <row index="60">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/350b0253-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -974,13 +1214,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd75fbd1</cell>
   </row>
-  <row index="49">
+  <row index="61">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ca6a4a4c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -994,13 +1234,13 @@
     <cell name="ilibrary last export date">2023-05-22T08:52:10Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-05-22T21:44:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94522107</cell>
   </row>
-  <row index="50">
+  <row index="62">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f1f4ab24-en</cell>
     <cell name="title">Sovereign debt issuance trends in emerging market economies (en)</cell>
@@ -1020,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b278e85</cell>
   </row>
-  <row index="51">
+  <row index="63">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ccab9b0f-en</cell>
     <cell name="title">Sovereign Borrowing Outlook for OECD Countries (en)</cell>
@@ -1040,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a19d8e82</cell>
   </row>
-  <row index="52">
+  <row index="64">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -1055,12 +1295,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-05-22T21:31:58Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03c66c8c</cell>
   </row>
-  <row index="53">
+  <row index="65">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/bff71a9d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1080,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5da588b</cell>
   </row>
-  <row index="54">
+  <row index="66">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/09b4cfba-en</cell>
     <cell name="title">OECD Sovereign Borrowing Outlook 2023 (en)</cell>
@@ -1100,27 +1340,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9318384e</cell>
   </row>
-  <row index="55">
+  <row index="67">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2367677a-en</cell>
+    <cell name="title">Improving the quality and efficiency of education and training in Costa Rica to better support growth and equity (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-24</cell>
+    <cell name="embargo date">2023-05-24T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27e07804</cell>
+  </row>
+  <row index="68">
     <cell name="directorate">International Transport Forum</cell>
     <cell name="doi">10.1787/b6cc9ad5-en</cell>
     <cell name="title">ITF Transport Outlook 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-05-24</cell>
     <cell name="embargo date">2023-05-24T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-22T20:54:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-05-22T20:29:29Z</cell>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0dd9a770</cell>
   </row>
-  <row index="56">
+  <row index="69">
     <cell name="directorate">International Transport Forum</cell>
     <cell name="doi">10.1787/b6cc9ad5-en</cell>
     <cell name="title">ITF Transport Outlook 2023 (en)</cell>
@@ -1140,7 +1400,67 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/67fe2e9a</cell>
   </row>
-  <row index="57">
+  <row index="70">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/faeb9a0d-en</cell>
+    <cell name="title">Mobilising evidence to enhance the effectiveness of child well-being policies (en)</cell>
+    <cell name="subtitle">The role of knowledge brokers (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-25</cell>
+    <cell name="embargo date">2023-05-25T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9eb41fa</cell>
+  </row>
+  <row index="71">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/38d07f99-en</cell>
+    <cell name="title">Better jobs and incomes in Bulgaria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-26</cell>
+    <cell name="embargo date">2023-05-26T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0a92eeb</cell>
+  </row>
+  <row index="72">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/efc1f36a-en</cell>
+    <cell name="title">Canada’s transition to net zero emissions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-05-26</cell>
+    <cell name="embargo date">2023-05-26T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-05-23T20:33:32Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3f3cba3</cell>
+  </row>
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9cf9aa3c-en</cell>
     <cell name="title">Informing gender-sensitive policymaking in the Czech Republic (en)</cell>
@@ -1160,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5517a2e1</cell>
   </row>
-  <row index="58">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09873e8d-en</cell>
     <cell name="title">Getting institutions right in the Czech Republic (en)</cell>
@@ -1180,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce40cb39</cell>
   </row>
-  <row index="59">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6c5f950-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1200,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7a7b62f</cell>
   </row>
-  <row index="60">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d186bfe8-en</cell>
     <cell name="title">A comparative overview of gender equality outcomes in the Czech Republic (en)</cell>
@@ -1220,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b53bf060</cell>
   </row>
-  <row index="61">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6c5f950-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1240,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bc36743</cell>
   </row>
-  <row index="62">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9d032ddb-en</cell>
     <cell name="title">The need for gender-sensitive and inclusive policymaking in the Czech Republic (en)</cell>
@@ -1260,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23bc05cb</cell>
   </row>
-  <row index="63">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9d032ddb-en</cell>
     <cell name="title">The need for gender-sensitive and inclusive policymaking in the Czech Republic (en)</cell>
@@ -1280,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66085fae</cell>
   </row>
-  <row index="64">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/572e832f-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1300,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8fe48df</cell>
   </row>
-  <row index="65">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4d59fde9-en</cell>
     <cell name="title">Strategic planning for gender equality policy in the Czech Republic (en)</cell>
@@ -1320,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be9c5c82</cell>
   </row>
-  <row index="66">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/20f01c30-en</cell>
     <cell name="title">Fostering accountability for gender equality policies in the Czech Republic (en)</cell>
@@ -1340,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33f386b8</cell>
   </row>
-  <row index="67">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5a3086f-en</cell>
     <cell name="title">Gender Equality in the Czech Republic (en)</cell>
@@ -1360,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44e55d45</cell>
   </row>
-  <row index="68">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/572e832f-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1380,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ada29754</cell>
   </row>
-  <row index="69">
+  <row index="85">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5a3086f-en</cell>
     <cell name="title">Gender Equality in the Czech Republic (en)</cell>
@@ -1400,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a86562ad</cell>
   </row>
-  <row index="70">
+  <row index="86">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/09873e8d-en</cell>
     <cell name="title">Getting institutions right in the Czech Republic (en)</cell>
@@ -1420,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af268cf</cell>
   </row>
-  <row index="71">
+  <row index="87">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6953d312-en</cell>
     <cell name="title">Gender budgeting in the Czech Republic (en)</cell>
@@ -1440,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c469737c</cell>
   </row>
-  <row index="72">
+  <row index="88">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5a3086f-en</cell>
     <cell name="title">Gender Equality in the Czech Republic (en)</cell>
@@ -1460,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7a93e17</cell>
   </row>
-  <row index="73">
+  <row index="89">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6953d312-en</cell>
     <cell name="title">Gender budgeting in the Czech Republic (en)</cell>
@@ -1480,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26c28371</cell>
   </row>
-  <row index="74">
+  <row index="90">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4d59fde9-en</cell>
     <cell name="title">Strategic planning for gender equality policy in the Czech Republic (en)</cell>
@@ -1500,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e72e649</cell>
   </row>
-  <row index="75">
+  <row index="91">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d186bfe8-en</cell>
     <cell name="title">A comparative overview of gender equality outcomes in the Czech Republic (en)</cell>
@@ -1520,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61aae8ed</cell>
   </row>
-  <row index="76">
+  <row index="92">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5a3086f-en</cell>
     <cell name="title">Gender Equality in the Czech Republic (en)</cell>
@@ -1540,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13f325ec</cell>
   </row>
-  <row index="77">
+  <row index="93">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/20f01c30-en</cell>
     <cell name="title">Fostering accountability for gender equality policies in the Czech Republic (en)</cell>
@@ -1560,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64187a19</cell>
   </row>
-  <row index="78">
+  <row index="94">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c5a3086f-en</cell>
     <cell name="title">Gender Equality in the Czech Republic (en)</cell>
@@ -1580,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f25dcfb</cell>
   </row>
-  <row index="79">
+  <row index="95">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9cf9aa3c-en</cell>
     <cell name="title">Informing gender-sensitive policymaking in the Czech Republic (en)</cell>
@@ -1600,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a66a2a1</cell>
   </row>
-  <row index="80">
+  <row index="96">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/61e5e281-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1620,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e9bfd087</cell>
   </row>
-  <row index="81">
+  <row index="97">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/96237b32-en</cell>
     <cell name="title">Towards sustainable development (en)</cell>
@@ -1640,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5b4ae18</cell>
   </row>
-  <row index="82">
+  <row index="98">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d52e53fb-en</cell>
     <cell name="title">Waste management and circular economy (en)</cell>
@@ -1660,27 +1980,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/067f9225</cell>
   </row>
-  <row index="83">
+  <row index="99">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-05-31</cell>
     <cell name="embargo date">2023-05-31T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b01495</cell>
   </row>
-  <row index="84">
+  <row index="100">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ba497ad6-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -1700,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1916543</cell>
   </row>
-  <row index="85">
+  <row index="101">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/445ed4a7-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1720,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/617b1aaa</cell>
   </row>
-  <row index="86">
+  <row index="102">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/0175ae95-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Israel 2023 (en)</cell>
@@ -1731,7 +2051,7 @@
     <cell name="date of publication">2023-05-31</cell>
     <cell name="embargo date">2023-05-31T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-05-22T20:54:52Z</cell>
+    <cell name="ilibrary last export date">2023-05-23T21:01:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-05-19T20:29:33Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -1740,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fab97137</cell>
   </row>
-  <row index="87">
+  <row index="103">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/003ad729-en</cell>
     <cell name="title">Basic statistics of Israel (en)</cell>
@@ -1760,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0036343</cell>
   </row>
-  <row index="88">
+  <row index="104">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/a6d32ab5-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1780,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b6aac7f</cell>
   </row>
-  <row index="89">
+  <row index="105">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/2bbbb663-en</cell>
     <cell name="title">How Green is Household Behaviour? (en)</cell>
@@ -1800,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f874ea9f</cell>
   </row>
-  <row index="90">
+  <row index="106">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/2bbbb663-en</cell>
     <cell name="title">How Green is Household Behaviour? (en)</cell>
@@ -1820,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4d692d8</cell>
   </row>
-  <row index="91">
+  <row index="107">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -1840,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a3a1a43</cell>
   </row>
-  <row index="92">
+  <row index="108">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -1860,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbb31260</cell>
   </row>
-  <row index="93">
+  <row index="109">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -1880,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23d828ee</cell>
   </row>
-  <row index="94">
+  <row index="110">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -1900,7 +2220,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ff4e8d3</cell>
   </row>
-  <row index="95">
+  <row index="111">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1d5020a6-en</cell>
+    <cell name="title">Indicators of Immigrant Integration 2023 (en)</cell>
+    <cell name="subtitle">Settling In (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-06-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a02fe7a</cell>
+  </row>
+  <row index="112">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1d5020a6-en</cell>
+    <cell name="title">Indicators of Immigrant Integration 2023 (en)</cell>
+    <cell name="subtitle">Settling In (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-06-15T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a43561d8</cell>
+  </row>
+  <row index="113">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
@@ -1920,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab39da64</cell>
   </row>
-  <row index="96">
+  <row index="114">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
@@ -1940,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccea34e6</cell>
   </row>
-  <row index="97">
+  <row index="115">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -1960,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/798979c1</cell>
   </row>
-  <row index="98">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -1980,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c427d45b</cell>
   </row>
-  <row index="99">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -1988,7 +2348,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2000,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40b8deae</cell>
   </row>
-  <row index="100">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -2008,7 +2368,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2020,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3abacdf0</cell>
   </row>
-  <row index="101">
+  <row index="119">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -2040,7 +2400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5659d1ea</cell>
   </row>
-  <row index="102">
+  <row index="120">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>

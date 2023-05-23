@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 May 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 23 May 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Geography of Higher Education in Québec, Canada](https://doi.org/10.1787/becf3c60-en)
 
@@ -13,9 +13,9 @@ Monday 22 May 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 May 2023 at 22:55
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
 
 ### Additional Information
 
@@ -50,6 +50,29 @@ Monday 22 May 2023 at 9:00 | no launch event
 
 ------
 
+## [Improving the quality and efficiency of education and training in Costa Rica to better support growth and equity](https://doi.org/10.1787/2367677a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [ITF Transport Outlook 2023](https://doi.org/10.1787/b6cc9ad5-en)
 
 Embargo date | Launch date
@@ -58,18 +81,87 @@ Wednesday 24 May 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *International Transport Forum*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Mobilising evidence to enhance the effectiveness of child well-being policies - The role of knowledge brokers](https://doi.org/10.1787/faeb9a0d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 May 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Better jobs and incomes in Bulgaria](https://doi.org/10.1787/38d07f99-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Canada’s transition to net zero emissions](https://doi.org/10.1787/efc1f36a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 May 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -105,7 +197,7 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 19 May 2023 at 22:29
 
@@ -184,6 +276,29 @@ Thursday 15 June 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Indicators of Immigrant Integration 2023 - Settling In](https://doi.org/10.1787/1d5020a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
