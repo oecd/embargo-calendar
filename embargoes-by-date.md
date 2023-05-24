@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 May 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 24 May 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 May 2023](#22-may-2023)
 * [24 May 2023](#24-may-2023)
 * [25 May 2023](#25-may-2023)
 * [26 May 2023](#26-may-2023)
@@ -17,56 +16,6 @@ Data generated on | |
 * [30 June 2023](#30-june-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 22 May 2023
-
-## [The Geography of Higher Education in Québec, Canada](https://doi.org/10.1787/becf3c60-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 May 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Sovereign Borrowing Outlook 2023](https://doi.org/10.1787/09b4cfba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 May 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -83,7 +32,7 @@ Wednesday 24 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 24 May 2023 at 22:34
 
 ### Additional Information
 
@@ -106,7 +55,7 @@ Wednesday 24 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 24 May 2023 at 22:34
 
 ### Additional Information
 
@@ -133,7 +82,7 @@ Thursday 25 May 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 24 May 2023 at 22:34
 
 ### Additional Information
 
@@ -299,6 +248,29 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Sweden 2023](https://doi.org/10.1787/ceed5fd4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
