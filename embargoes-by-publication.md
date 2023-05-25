@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 May 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 25 May 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Improving the quality and efficiency of education and training in Costa Rica to better support growth and equity](https://doi.org/10.1787/2367677a-en)
 
@@ -61,7 +61,7 @@ Thursday 25 May 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 May 2023 at 22:34
+- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Friday 26 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Friday 26 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 May 2023 at 22:33
+- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Monday 29 May 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 May 2023 at 22:54
+- [x] Exported to iLibrary Thursday 25 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 May 2023 at 22:29
+- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
 
 ### Additional Information
 
