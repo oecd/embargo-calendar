@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 May 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Mobilising evidence to enhance the effectiveness of child well-being policies - The role of knowledge brokers](https://doi.org/10.1787/faeb9a0d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 May 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Better jobs and incomes in Bulgaria](https://doi.org/10.1787/38d07f99-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 May 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Canada’s transition to net zero emissions](https://doi.org/10.1787/efc1f36a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 May 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 May 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 28 May 2023 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gender Equality in the Czech Republic - Strengthening Government Capacity for Gender-sensitive and Inclusive Recovery](https://doi.org/10.1787/c5a3086f-en)
 
@@ -84,7 +15,7 @@ Monday 29 May 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 May 2023 at 22:28
+- [x] Exported to OECD.org Sunday 28 May 2023 at 22:26
 
 ### Additional Information
 
