@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 May 2023 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 30 May 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gender Equality in the Czech Republic - Strengthening Government Capacity for Gender-sensitive and Inclusive Recovery](https://doi.org/10.1787/c5a3086f-en)
 
@@ -38,7 +38,7 @@ Tuesday 30 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 30 May 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 May 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 May 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
 
 ### Additional Information
 
@@ -82,17 +82,17 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 May 2023 at 23:01
+- [x] Exported to iLibrary Tuesday 30 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 May 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -115,7 +115,7 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -138,11 +138,11 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
-## [Principes directeurs de l’OCDE à l’intention des entreprises multinationales sur la conduite responsable des entreprises 2023](https://doi.org/10.1787/0e8d35b5-fr)
+## [Principes directeurs de l’OCDE à l’intention des entreprises multinationales sur la conduite responsable des entreprises](https://doi.org/10.1787/0e8d35b5-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -165,11 +165,11 @@ Thursday 8 June 2023 at 12:00 | no launch event
 
 ------
 
-## [OECD Guidelines for Multinational Enterprises on Responsible Business Conduct 2023](https://doi.org/10.1787/81f92357-en)
+## [OECD Guidelines for Multinational Enterprises on Responsible Business Conduct](https://doi.org/10.1787/81f92357-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 June 2023 at 12:30 | no launch event
+Thursday 8 June 2023 at 12:00 | no launch event
 
 ### Status Information
 
@@ -184,7 +184,7 @@ Thursday 8 June 2023 at 12:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -296,6 +296,29 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
