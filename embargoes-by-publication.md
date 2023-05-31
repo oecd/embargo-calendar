@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 May 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Gender Equality in the Czech Republic - Strengthening Government Capacity for Gender-sensitive and Inclusive Recovery](https://doi.org/10.1787/c5a3086f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 May 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 May 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 31 May 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Consideration of an optimal representation for the technological higher education sector in Ireland](https://doi.org/10.1787/5ea4eded-en)
 
@@ -36,7 +13,7 @@ Tuesday 30 May 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 May 2023 at 22:54
+- [x] Exported to iLibrary Wednesday 31 May 2023 at 22:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
 
@@ -84,7 +61,7 @@ Wednesday 31 May 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 May 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 31 May 2023 at 22:30
 
 ### Additional Information
 
@@ -127,18 +104,18 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 31 May 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 31 May 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -188,6 +165,52 @@ Thursday 8 June 2023 at 12:00 | no launch event
 
 ------
 
+## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Water Financing and Disaster Risk Reduction in Indonesia - Highlights of a National Dialogue on Water](https://doi.org/10.1787/3205b20a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [How Green is Household Behaviour? - Sustainable Choices in a Time of Interlocking Crises](https://doi.org/10.1787/2bbbb663-en)
 
 Embargo date | Launch date
@@ -207,6 +230,29 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -303,11 +349,34 @@ Thursday 15 June 2023 at 9:00 | no launch event
 
 ------
 
+## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 16 June 2023 at 5:00 | no launch event
+Friday 16 June 2023 at 6:00 | no launch event
 
 ### Status Information
 
@@ -343,6 +412,52 @@ Thursday 22 June 2023 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Panorama des administrations publiques 2023](https://doi.org/10.1787/b4d0a9ed-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 June 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
