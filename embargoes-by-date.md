@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 May 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 1 June 2023 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 May 2023](#30-may-2023)
 * [31 May 2023](#31-may-2023)
 * [6 June 2023](#6-june-2023)
 * [8 June 2023](#8-june-2023)
@@ -18,56 +17,6 @@ Data generated on | |
 * [30 June 2023](#30-june-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 30 May 2023
-
-## [Consideration of an optimal representation for the technological higher education sector in Ireland](https://doi.org/10.1787/5ea4eded-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 May 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 May 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [SMEs in the era of hybrid retail - Evidence from an OECD D4SME survey](https://doi.org/10.1787/882f30b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 30 May 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 May 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 May 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -108,18 +57,18 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 1 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 1 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -132,9 +81,9 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 31 May 2023 at 22:58
+- [x] Exported to iLibrary Thursday 1 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 May 2023 at 22:30
+- [x] Exported to OECD.org Thursday 1 June 2023 at 22:33
 
 ### Additional Information
 
@@ -154,7 +103,7 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 June 2023 at 12:00 | no launch event
+Thursday 8 June 2023 at 12:30 | no launch event
 
 ### Status Information
 
@@ -177,11 +126,11 @@ Thursday 8 June 2023 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 June 2023 at 12:00 | no launch event
+Thursday 8 June 2023 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
