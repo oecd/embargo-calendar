@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 June 2023 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 June 2023 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 May 2023](#31-may-2023)
 * [6 June 2023](#6-june-2023)
+* [7 June 2023](#7-june-2023)
 * [8 June 2023](#8-june-2023)
 * [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
@@ -20,34 +20,30 @@ Data generated on | |
 
 ------
 
-# 31 May 2023
+# 6 June 2023
 
-## [OECD Environmental Performance Reviews: Israel 2023](https://doi.org/10.1787/0175ae95-en)
+## [Aiming better: Government support for households and firms during the energy crisis](https://doi.org/10.1787/839e3ae1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 31 May 2023 at 6:00 | no launch event
+Tuesday 6 June 2023 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 May 2023 at 23:03
+- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 May 2023 at 22:30
+- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
 
 ### Additional Information
 
-* Directorate: *Environment Directorate*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
-
-------
-
-# 6 June 2023
 
 ## [Examens de l’OCDE pour l’évaluation de l’impact sur la concurrence : Tunisie 2023](https://doi.org/10.1787/7b1327a5-fr)
 
@@ -97,13 +93,13 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 
 ------
 
-# 8 June 2023
+# 7 June 2023
 
-## [Principes directeurs de l’OCDE à l’intention des entreprises multinationales sur la conduite responsable des entreprises](https://doi.org/10.1787/0e8d35b5-fr)
+## [OECD Economic Outlook, Volume 2023 Issue 1 - Preliminary version](https://doi.org/10.1787/ce188438-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 June 2023 at 12:30 | no launch event
+Wednesday 7 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
@@ -114,9 +110,36 @@ Thursday 8 June 2023 at 12:30 | no launch event
 
 ### Additional Information
 
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 June 2023
+
+## [Principes directeurs de l’OCDE à l’intention des entreprises multinationales sur la conduite responsable des entreprises](https://doi.org/10.1787/0e8d35b5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 June 2023 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
+
+### Additional Information
+
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -131,13 +154,36 @@ Thursday 8 June 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
+- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [International Standards on Automatic Exchange of Information in Tax Matters - Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard](https://doi.org/10.1787/896d79d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 June 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
@@ -168,29 +214,6 @@ Monday 12 June 2023 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Water Financing and Disaster Risk Reduction in Indonesia - Highlights of a National Dialogue on Water](https://doi.org/10.1787/3205b20a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 June 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -291,6 +314,29 @@ Wednesday 14 June 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les indicateurs de l’intégration des immigrés 2023 - Trouver ses marques](https://doi.org/10.1787/d5253a21-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 14 June 2023 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
