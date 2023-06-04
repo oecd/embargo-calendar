@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 June 2023 at 23:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 4 June 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aiming better: Government support for households and firms during the energy crisis](https://doi.org/10.1787/839e3ae1-en)
 
