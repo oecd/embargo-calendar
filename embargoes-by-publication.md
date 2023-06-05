@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 June 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 June 2023 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Aiming better: Government support for households and firms during the energy crisis](https://doi.org/10.1787/839e3ae1-en)
 
@@ -15,7 +15,7 @@ Tuesday 6 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 June 2023 at 23:03
+- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 June 2023 at 22:33
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 June 2023 at 23:03
+- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 June 2023 at 22:33
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
@@ -81,7 +81,7 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,6 +90,29 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Perspectives économiques de l'OCDE, Volume 2023 Numéro 1 - Version préliminaire](https://doi.org/10.1787/4d811166-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 June 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Formats: *Paperback, PDF*
@@ -105,15 +128,15 @@ Thursday 8 June 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
+- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -128,15 +151,15 @@ Thursday 8 June 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
+- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 2 June 2023 at 22:39
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -151,15 +174,15 @@ Thursday 8 June 2023 at 16:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
