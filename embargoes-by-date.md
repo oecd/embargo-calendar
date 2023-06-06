@@ -2,19 +2,22 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 June 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 June 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 June 2023](#6-june-2023)
 * [7 June 2023](#7-june-2023)
 * [8 June 2023](#8-june-2023)
-* [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
 * [14 June 2023](#14-june-2023)
 * [15 June 2023](#15-june-2023)
 * [16 June 2023](#16-june-2023)
+* [19 June 2023](#19-june-2023)
 * [22 June 2023](#22-june-2023)
+* [26 June 2023](#26-june-2023)
+* [28 June 2023](#28-june-2023)
 * [29 June 2023](#29-june-2023)
 * [30 June 2023](#30-june-2023)
+* [4 July 2023](#4-july-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
 
@@ -33,7 +36,7 @@ Tuesday 6 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 2 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
 
 ### Additional Information
 
@@ -56,7 +59,7 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
 
 ### Additional Information
 
@@ -79,7 +82,7 @@ Tuesday 6 June 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
 
 ### Additional Information
 
@@ -126,7 +129,7 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -137,7 +140,7 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -191,18 +194,18 @@ Thursday 8 June 2023 at 12:30 | no launch event
 
 ------
 
-## [International Standards on Automatic Exchange of Information in Tax Matters - Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard](https://doi.org/10.1787/896d79d1-en)
+## [International Standards for Automatic Exchange of Information in Tax Matters - Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard](https://doi.org/10.1787/896d79d1-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 June 2023 at 16:00 | no launch event
+Thursday 8 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
+- [x] Exported to iLibrary Tuesday 6 June 2023 at 23:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
 
 ### Additional Information
 
@@ -214,28 +217,24 @@ Thursday 8 June 2023 at 16:00 | no launch event
 
 ------
 
-------
-
-# 12 June 2023
-
-## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
+## [Normes internationales d'échange automatique de renseignements en matière fiscale - Cadre de déclaration des Crypto-actifs et mise à jour 2023 de la Norme commune de déclaration](https://doi.org/10.1787/3fb77a0b-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 12 June 2023 at 6:00 | no launch event
+Thursday 8 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 6 June 2023 at 23:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -303,7 +302,7 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -466,6 +465,33 @@ Friday 16 June 2023 at 6:00 | no launch event
 
 ------
 
+# 19 June 2023
+
+## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 June 2023 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 22 June 2023
 
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
@@ -484,6 +510,60 @@ Thursday 22 June 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 June 2023
+
+## [Policies for the Future of Farming and Food in the Netherlands](https://doi.org/10.1787/bb16dea4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 June 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 28 June 2023
+
+## [Policies for the Future of Farming and Food in Spain](https://doi.org/10.1787/a93d26be-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 June 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -561,6 +641,33 @@ Friday 30 June 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 July 2023
+
+## [OECD-FAO Agricultural Outlook 2023-2032](https://doi.org/10.1787/08801ab7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
