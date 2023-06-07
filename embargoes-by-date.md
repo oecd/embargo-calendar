@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 June 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 June 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 June 2023](#6-june-2023)
 * [7 June 2023](#7-june-2023)
 * [8 June 2023](#8-june-2023)
+* [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
 * [14 June 2023](#14-june-2023)
 * [15 June 2023](#15-june-2023)
@@ -107,15 +108,15 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *HTML, Paperback, PDF, ZXML*
 
@@ -130,15 +131,15 @@ Wednesday 7 June 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *HTML, Paperback, PDF, ZXML*
 
@@ -159,7 +160,7 @@ Thursday 8 June 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
@@ -182,7 +183,7 @@ Thursday 8 June 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 June 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
@@ -202,16 +203,16 @@ Thursday 8 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 June 2023 at 23:04
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -225,16 +226,16 @@ Thursday 8 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 6 June 2023 at 23:04
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -242,7 +243,57 @@ Thursday 8 June 2023 at 13:00 | no launch event
 
 ------
 
+# 12 June 2023
+
+## [Confronting the cost-of-living and housing crisis in cities](https://doi.org/10.1787/7a6008af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 13 June 2023
+
+## [Comportement des ménages et environnement - Opérer des choix durables dans un contexte de crises superposées](https://doi.org/10.1787/6892a2e0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [How Green is Household Behaviour? - Sustainable Choices in a Time of Interlocking Crises](https://doi.org/10.1787/2bbbb663-en)
 
@@ -279,7 +330,7 @@ Wednesday 14 June 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -303,17 +354,17 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
