@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 June 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Aiming better: Government support for households and firms during the energy crisis](https://doi.org/10.1787/839e3ae1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 2 June 2023 at 23:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Examens de l’OCDE pour l’évaluation de l’impact sur la concurrence : Tunisie 2023](https://doi.org/10.1787/7b1327a5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 June 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Competition Assessment Reviews: Tunisia 2023](https://doi.org/10.1787/a80cda01-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 June 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 8 June 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2023 Issue 1 - Preliminary version](https://doi.org/10.1787/ce188438-en)
 
@@ -130,7 +61,7 @@ Thursday 8 June 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Thursday 8 June 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
 
 ### Additional Information
 
@@ -174,9 +105,9 @@ Thursday 8 June 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
+- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
 
 ### Additional Information
 
@@ -197,9 +128,9 @@ Thursday 8 June 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
+- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
 
 ### Additional Information
 
@@ -280,6 +211,29 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 
 ------
 
+## [Proposal for an action plan to reduce early school leaving in Spain](https://doi.org/10.1787/0c249e7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 June 2023 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
 
 Embargo date | Launch date
@@ -349,29 +303,6 @@ Wednesday 14 June 2023 at 9:00 | no launch event
 
 ------
 
-## [Les indicateurs de l’intégration des immigrés 2023 - Trouver ses marques](https://doi.org/10.1787/d5253a21-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 June 2023 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Strengthening Latvia’s Housing Affordability Fund](https://doi.org/10.1787/84736a67-en)
 
 Embargo date | Launch date
@@ -412,6 +343,29 @@ Thursday 15 June 2023 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Les indicateurs de l’intégration des immigrés 2023 - Trouver ses marques](https://doi.org/10.1787/d5253a21-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
