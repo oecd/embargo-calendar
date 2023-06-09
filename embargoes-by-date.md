@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 June 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 June 2023 at 23:46* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 June 2023](#7-june-2023)
 * [8 June 2023](#8-june-2023)
 * [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
@@ -20,56 +19,6 @@ Data generated on | |
 * [4 July 2023](#4-july-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 7 June 2023
-
-## [OECD Economic Outlook, Volume 2023 Issue 1 - Preliminary version](https://doi.org/10.1787/ce188438-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 June 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2023 Numéro 1 - Version préliminaire](https://doi.org/10.1787/4d811166-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 June 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -171,6 +120,29 @@ Thursday 8 June 2023 at 13:00 | no launch event
 
 # 12 June 2023
 
+## [Law enforcement responses to corruption in emergency situations - Practical guidelines](https://doi.org/10.1787/b2e5344f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Confronting the cost-of-living and housing crisis in cities](https://doi.org/10.1787/7a6008af-en)
 
 Embargo date | Launch date
@@ -198,7 +170,7 @@ Monday 12 June 2023 at 5:00 | no launch event
 
 # 13 June 2023
 
-## [Comportement des ménages et environnement - Opérer des choix durables dans un contexte de crises superposées](https://doi.org/10.1787/6892a2e0-fr)
+## [Comportement des ménages et environnement - Opérer des choix durables dans un contexte de crises interdépendantes](https://doi.org/10.1787/6892a2e0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -229,7 +201,7 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -240,7 +212,7 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -253,14 +225,37 @@ Tuesday 13 June 2023 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
+- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
+- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Propuestas para un plan de acción para reducir el abandono escolar temprano en España](https://doi.org/10.1787/9bc3285d-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 June 2023 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
@@ -321,7 +316,7 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 14 June 2023 at 9:00 | no launch event
+Wednesday 14 June 2023 at 12:00 | no launch event
 
 ### Status Information
 
@@ -352,18 +347,18 @@ Thursday 15 June 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -375,7 +370,7 @@ Thursday 15 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -398,7 +393,7 @@ Thursday 15 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
