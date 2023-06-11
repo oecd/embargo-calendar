@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 June 2023 at 23:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Principes directeurs de l’OCDE à l’intention des entreprises multinationales sur la conduite responsable des entreprises](https://doi.org/10.1787/0e8d35b5-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 June 2023 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Guidelines for Multinational Enterprises on Responsible Business Conduct](https://doi.org/10.1787/81f92357-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 June 2023 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [International Standards for Automatic Exchange of Information in Tax Matters - Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard](https://doi.org/10.1787/896d79d1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 June 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Normes internationales d'échange automatique de renseignements en matière fiscale - Cadre de déclaration des Crypto-actifs et mise à jour 2023 de la Norme commune de déclaration](https://doi.org/10.1787/3fb77a0b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 June 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 June 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 June 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 11 June 2023 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Law enforcement responses to corruption in emergency situations - Practical guidelines](https://doi.org/10.1787/b2e5344f-en)
 
@@ -105,9 +13,9 @@ Monday 12 June 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
+- [x] Exported to iLibrary Sunday 11 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+- [x] Exported to OECD.org Sunday 11 June 2023 at 22:30
 
 ### Additional Information
 
@@ -130,7 +38,7 @@ Monday 12 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Sunday 11 June 2023 at 22:30
 
 ### Additional Information
 
