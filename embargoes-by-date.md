@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 June 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 12 June 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
@@ -10,6 +10,7 @@ Data generated on | |
 * [15 June 2023](#15-june-2023)
 * [16 June 2023](#16-june-2023)
 * [19 June 2023](#19-june-2023)
+* [21 June 2023](#21-june-2023)
 * [22 June 2023](#22-june-2023)
 * [26 June 2023](#26-june-2023)
 * [28 June 2023](#28-june-2023)
@@ -34,7 +35,7 @@ Monday 12 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Sunday 11 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 11 June 2023 at 22:30
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
@@ -57,7 +58,7 @@ Monday 12 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 11 June 2023 at 22:30
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
@@ -73,7 +74,7 @@ Monday 12 June 2023 at 5:00 | no launch event
 
 # 13 June 2023
 
-## [Comportement des ménages et environnement - Opérer des choix durables dans un contexte de crises interdépendantes](https://doi.org/10.1787/6892a2e0-fr)
+## [Comportement des ménages et environnement - Opérer des choix durables sur fond de crises interdépendantes](https://doi.org/10.1787/6892a2e0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -82,17 +83,17 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -105,15 +106,15 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -130,7 +131,7 @@ Tuesday 13 June 2023 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
@@ -153,7 +154,7 @@ Tuesday 13 June 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
@@ -168,29 +169,6 @@ Tuesday 13 June 2023 at 14:00 | no launch event
 ------
 
 # 14 June 2023
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Policy Actions for Affordable Housing in Lithuania](https://doi.org/10.1787/ca16ff6d-en)
 
@@ -223,7 +201,7 @@ Wednesday 14 June 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -242,6 +220,29 @@ Wednesday 14 June 2023 at 12:00 | no launch event
 
 # 15 June 2023
 
+## [Corporate cost of debt in the low-carbon transition - The effect of climate policies on firm financing and investment through the banking channel](https://doi.org/10.1787/35a3fbb7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Strengthening Latvia’s Housing Affordability Fund](https://doi.org/10.1787/84736a67-en)
 
 Embargo date | Launch date
@@ -251,7 +252,7 @@ Thursday 15 June 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 9 June 2023 at 22:39
 
@@ -274,15 +275,15 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -297,16 +298,39 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Portugal 2023](https://doi.org/10.1787/2b8ee40a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -361,6 +385,29 @@ Friday 16 June 2023 at 6:00 | no launch event
 
 ------
 
+## [Évaluation du programme national de lutte contre le tabagisme en France](https://doi.org/10.1787/b656e9ac-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 June 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 19 June 2023
@@ -385,6 +432,33 @@ Monday 19 June 2023 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 June 2023
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -454,7 +528,7 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -465,7 +539,7 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
