@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-06-12T23:35:04.2736842+02:00">
+<report name="official-embargoes" generated="2023-06-13T23:26:04.2860651+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2023-06-11T21:02:08Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-06-12T22:10:05Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date">2023-06-07T20:59:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-06-12T22:10:05Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -373,7 +373,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-12T21:03:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -593,7 +593,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-12T21:03:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -753,7 +753,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-12T21:03:27Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1787,7 +1787,7 @@
     <cell name="subtitle">Sustainable Choices in a Time of Interlocking Crises (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-06-13</cell>
     <cell name="embargo date">2023-06-13T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2273,7 +2273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-09T21:09:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -2293,7 +2293,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-09T21:09:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-12T20:32:45Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -2301,346 +2301,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7354037</cell>
   </row>
   <row index="115">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/aa70eee4-en</cell>
-    <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
-  </row>
-  <row index="116">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4bbbbfd6-en</cell>
-    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ePub</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
-  </row>
-  <row index="117">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4bbbbfd6-en</cell>
-    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
-  </row>
-  <row index="118">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4bbbbfd6-en</cell>
-    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
-  </row>
-  <row index="119">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/aa70eee4-en</cell>
-    <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
-  </row>
-  <row index="120">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9163c6a5-en</cell>
-    <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
-  </row>
-  <row index="121">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/52e6006b-en</cell>
-    <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
-  </row>
-  <row index="122">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/52e6006b-en</cell>
-    <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
-  </row>
-  <row index="123">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/9163c6a5-en</cell>
-    <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
-  </row>
-  <row index="124">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4bbbbfd6-en</cell>
-    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">ZXML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
-  </row>
-  <row index="125">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4e3684a9-it</cell>
-    <cell name="title">Sintesi (it)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">Italian</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
-  </row>
-  <row index="126">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/ac67ca43-en</cell>
-    <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
-  </row>
-  <row index="127">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/6eeb16e2-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
-  </row>
-  <row index="128">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/966f84b0-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
-  </row>
-  <row index="129">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/ac67ca43-en</cell>
-    <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
-  </row>
-  <row index="130">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/966f84b0-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
-  </row>
-  <row index="131">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/6eeb16e2-en</cell>
-    <cell name="title">Foreword (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-14T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
-  </row>
-  <row index="132">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/061e3bfa-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2660,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5a93619</cell>
   </row>
-  <row index="133">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/061e3bfa-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2680,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d7743a8</cell>
   </row>
-  <row index="134">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d4ec4569-en</cell>
     <cell name="title">The Lithuanian housing market: Quality and affordability gaps in a challenging policy context (en)</cell>
@@ -2700,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ae4d8b8</cell>
   </row>
-  <row index="135">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -2713,14 +2373,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-07T20:59:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-07T20:33:32Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a3a1a43</cell>
   </row>
-  <row index="136">
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d4ec4569-en</cell>
     <cell name="title">The Lithuanian housing market: Quality and affordability gaps in a challenging policy context (en)</cell>
@@ -2740,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38999fcc</cell>
   </row>
-  <row index="137">
+  <row index="120">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/81d7c886-en</cell>
     <cell name="title">Summary of main findings and recommendations (en)</cell>
@@ -2760,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4f96a6</cell>
   </row>
-  <row index="138">
+  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/576946c1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2780,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6ecc99d</cell>
   </row>
-  <row index="139">
+  <row index="122">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/35db8f43-en</cell>
     <cell name="title">Policies for quality housing at an affordable price in Lithuania (en)</cell>
@@ -2800,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58dd8c7</cell>
   </row>
-  <row index="140">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/576946c1-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2820,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/703798a8</cell>
   </row>
-  <row index="141">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/35db8f43-en</cell>
     <cell name="title">Policies for quality housing at an affordable price in Lithuania (en)</cell>
@@ -2840,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f58c877</cell>
   </row>
-  <row index="142">
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -2860,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbb31260</cell>
   </row>
-  <row index="143">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -2880,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a912982</cell>
   </row>
-  <row index="144">
+  <row index="127">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/acb263dc-en</cell>
     <cell name="title">A way forward: Making housing a policy priority in Lithuania (en)</cell>
@@ -2900,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e7aaeb5</cell>
   </row>
-  <row index="145">
+  <row index="128">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -2913,14 +2573,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-07T20:59:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-07T20:33:32Z</cell>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d93bc0e8</cell>
   </row>
-  <row index="146">
+  <row index="129">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/81d7c886-en</cell>
     <cell name="title">Summary of main findings and recommendations (en)</cell>
@@ -2940,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e697f000</cell>
   </row>
-  <row index="147">
+  <row index="130">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca16ff6d-en</cell>
     <cell name="title">Policy Actions for Affordable Housing in Lithuania (en)</cell>
@@ -2960,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/524f620d</cell>
   </row>
-  <row index="148">
+  <row index="131">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/acb263dc-en</cell>
     <cell name="title">A way forward: Making housing a policy priority in Lithuania (en)</cell>
@@ -2980,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8a4c64f</cell>
   </row>
-  <row index="149">
+  <row index="132">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ceed5fd4-en</cell>
     <cell name="title">OECD Economic Surveys: Sweden 2023 (en)</cell>
@@ -3000,7 +2660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1845c9c</cell>
   </row>
-  <row index="150">
+  <row index="133">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/ceed5fd4-en</cell>
     <cell name="title">OECD Economic Surveys: Sweden 2023 (en)</cell>
@@ -3020,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/950ccf22</cell>
   </row>
-  <row index="151">
+  <row index="134">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/35a3fbb7-en</cell>
     <cell name="title">Corporate cost of debt in the low-carbon transition (en)</cell>
@@ -3040,7 +2700,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0ca871c</cell>
   </row>
-  <row index="152">
+  <row index="135">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/faeecb3a-en</cell>
+    <cell name="title">Production Transformation Policy Review (en)</cell>
+    <cell name="subtitle">Spotlight on the Azores’ Internationalisation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-15</cell>
+    <cell name="embargo date">2023-06-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-13T21:00:21Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98628189</cell>
+  </row>
+  <row index="136">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -3060,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23d828ee</cell>
   </row>
-  <row index="153">
+  <row index="137">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -3080,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ff4e8d3</cell>
   </row>
-  <row index="154">
+  <row index="138">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -3100,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/08299f5e</cell>
   </row>
-  <row index="155">
+  <row index="139">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cee3817d-en</cell>
     <cell name="title">Overview and key recommendations (en)</cell>
@@ -3120,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9deffeac</cell>
   </row>
-  <row index="156">
+  <row index="140">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/190e8ecf-en</cell>
     <cell name="title">Boosting investment in affordable housing in Latvia: The potential of a revolving fund scheme (en)</cell>
@@ -3140,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da43e12a</cell>
   </row>
-  <row index="157">
+  <row index="141">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/190e8ecf-en</cell>
     <cell name="title">Boosting investment in affordable housing in Latvia: The potential of a revolving fund scheme (en)</cell>
@@ -3160,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aae15460</cell>
   </row>
-  <row index="158">
+  <row index="142">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3b419d81-en</cell>
     <cell name="title">Setting up a revolving fund scheme to channel investment into affordable housing in Latvia (en)</cell>
@@ -3180,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba793c27</cell>
   </row>
-  <row index="159">
+  <row index="143">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3b419d81-en</cell>
     <cell name="title">Setting up a revolving fund scheme to channel investment into affordable housing in Latvia (en)</cell>
@@ -3200,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/089be945</cell>
   </row>
-  <row index="160">
+  <row index="144">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/015ac044-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3220,7 +2900,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a7a185d</cell>
   </row>
-  <row index="161">
+  <row index="145">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/faeecb3a-en</cell>
+    <cell name="title">Production Transformation Policy Review (en)</cell>
+    <cell name="subtitle">Spotlight on the Azores’ Internationalisation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-15</cell>
+    <cell name="embargo date">2023-06-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-13T21:00:21Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-06-13T20:32:10Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9569479a</cell>
+  </row>
+  <row index="146">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79f98937-en</cell>
     <cell name="title">Operating a revolving fund scheme for affordable housing in Latvia (en)</cell>
@@ -3240,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1f15dbd</cell>
   </row>
-  <row index="162">
+  <row index="147">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/015ac044-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3260,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/626ac73b</cell>
   </row>
-  <row index="163">
+  <row index="148">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -3280,7 +2980,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2071d97</cell>
   </row>
-  <row index="164">
+  <row index="149">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/faeecb3a-en</cell>
+    <cell name="title">Production Transformation Policy Review (en)</cell>
+    <cell name="subtitle">Spotlight on the Azores’ Internationalisation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-15</cell>
+    <cell name="embargo date">2023-06-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/471c6cd0</cell>
+  </row>
+  <row index="150">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/faeecb3a-en</cell>
+    <cell name="title">Production Transformation Policy Review (en)</cell>
+    <cell name="subtitle">Spotlight on the Azores’ Internationalisation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-15</cell>
+    <cell name="embargo date">2023-06-15T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-13T21:00:21Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bc799c4</cell>
+  </row>
+  <row index="151">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/84736a67-en</cell>
     <cell name="title">Strengthening Latvia’s Housing Affordability Fund (en)</cell>
@@ -3300,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65239a01</cell>
   </row>
-  <row index="165">
+  <row index="152">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e400d75e-en</cell>
     <cell name="title">Country notes: Approaches to financing affordable housing in Austria, Denmark, the Netherlands, Slovenia (en)</cell>
@@ -3320,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ffb883f5</cell>
   </row>
-  <row index="166">
+  <row index="153">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/965582b6-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3340,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f78aa224</cell>
   </row>
-  <row index="167">
+  <row index="154">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cee3817d-en</cell>
     <cell name="title">Overview and key recommendations (en)</cell>
@@ -3360,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49c333b0</cell>
   </row>
-  <row index="168">
+  <row index="155">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/965582b6-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3380,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83c6546a</cell>
   </row>
-  <row index="169">
+  <row index="156">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79f98937-en</cell>
     <cell name="title">Operating a revolving fund scheme for affordable housing in Latvia (en)</cell>
@@ -3400,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6884a076</cell>
   </row>
-  <row index="170">
+  <row index="157">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d285fad2-en</cell>
     <cell name="title">Funding and financing affordable housing through a revolving fund scheme in Latvia (en)</cell>
@@ -3420,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb21f8f9</cell>
   </row>
-  <row index="171">
+  <row index="158">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d285fad2-en</cell>
     <cell name="title">Funding and financing affordable housing through a revolving fund scheme in Latvia (en)</cell>
@@ -3440,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75a6168e</cell>
   </row>
-  <row index="172">
+  <row index="159">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e400d75e-en</cell>
     <cell name="title">Country notes: Approaches to financing affordable housing in Austria, Denmark, the Netherlands, Slovenia (en)</cell>
@@ -3460,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5225dd0f</cell>
   </row>
-  <row index="173">
+  <row index="160">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1d5020a6-en</cell>
     <cell name="title">Indicators of Immigrant Integration 2023 (en)</cell>
@@ -3480,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8a02fe7a</cell>
   </row>
-  <row index="174">
+  <row index="161">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d5253a21-fr</cell>
     <cell name="title">Les indicateurs de l’intégration des immigrés 2023 (fr)</cell>
@@ -3500,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c640037</cell>
   </row>
-  <row index="175">
+  <row index="162">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2b8ee40a-en</cell>
     <cell name="title">OECD Economic Surveys: Portugal 2023 (en)</cell>
@@ -3517,10 +3257,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ff31e84</cell>
   </row>
-  <row index="176">
+  <row index="163">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/2b8ee40a-en</cell>
     <cell name="title">OECD Economic Surveys: Portugal 2023 (en)</cell>
@@ -3540,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8077be1</cell>
   </row>
-  <row index="177">
+  <row index="164">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d5253a21-fr</cell>
     <cell name="title">Les indicateurs de l’intégration des immigrés 2023 (fr)</cell>
@@ -3560,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b233e58</cell>
   </row>
-  <row index="178">
+  <row index="165">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1d5020a6-en</cell>
     <cell name="title">Indicators of Immigrant Integration 2023 (en)</cell>
@@ -3580,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a43561d8</cell>
   </row>
-  <row index="179">
+  <row index="166">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b0920649-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2023 (fr)</cell>
@@ -3600,7 +3340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eab5fb6b</cell>
   </row>
-  <row index="180">
+  <row index="167">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3269532b-en</cell>
     <cell name="title">Africa's Development Dynamics 2023 (en)</cell>
@@ -3620,7 +3360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6428d2af</cell>
   </row>
-  <row index="181">
+  <row index="168">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b0920649-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2023 (fr)</cell>
@@ -3640,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71cb636e</cell>
   </row>
-  <row index="182">
+  <row index="169">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3269532b-en</cell>
     <cell name="title">Africa's Development Dynamics 2023 (en)</cell>
@@ -3660,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0f574dc</cell>
   </row>
-  <row index="183">
+  <row index="170">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b656e9ac-fr</cell>
     <cell name="title">Évaluation du programme national de lutte contre le tabagisme en France (fr)</cell>
@@ -3680,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfdf516b</cell>
   </row>
-  <row index="184">
+  <row index="171">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b3880f1a-en</cell>
     <cell name="title">OECD Economic Surveys: Iceland 2023 (en)</cell>
@@ -3700,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c82e6ff1</cell>
   </row>
-  <row index="185">
+  <row index="172">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b3880f1a-en</cell>
     <cell name="title">OECD Economic Surveys: Iceland 2023 (en)</cell>
@@ -3720,27 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59afa4f3</cell>
   </row>
-  <row index="186">
-    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
-    <cell name="doi">10.1787/4bbbbfd6-en</cell>
-    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-14</cell>
-    <cell name="embargo date">2023-06-21T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
-  </row>
-  <row index="187">
+  <row index="173">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
@@ -3760,7 +3480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab39da64</cell>
   </row>
-  <row index="188">
+  <row index="174">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
@@ -3780,7 +3500,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccea34e6</cell>
   </row>
-  <row index="189">
+  <row index="175">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/1fe7632e-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21689b7d</cell>
+  </row>
+  <row index="176">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb16dea4-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the Netherlands (en)</cell>
@@ -3800,7 +3540,147 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a2efa2c</cell>
   </row>
-  <row index="190">
+  <row index="177">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/afb863e0-en</cell>
+    <cell name="title">Innovation for sustainability (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43a3fd38</cell>
+  </row>
+  <row index="178">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/f2bd7c31-en</cell>
+    <cell name="title">Environmental sustainability (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d44fc0df</cell>
+  </row>
+  <row index="179">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/2f6a1659-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77c53e9a</cell>
+  </row>
+  <row index="180">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/28e9bddc-en</cell>
+    <cell name="title">Implementation of the 2015 recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33a804f8</cell>
+  </row>
+  <row index="181">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/b866fb1c-en</cell>
+    <cell name="title">Context, drivers and outcomes (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc642ff9</cell>
+  </row>
+  <row index="182">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/937b33c0-en</cell>
+    <cell name="title">Acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8944261</cell>
+  </row>
+  <row index="183">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/4385b62b-en</cell>
+    <cell name="title">Overall assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-26</cell>
+    <cell name="embargo date">2023-06-26T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d13f099</cell>
+  </row>
+  <row index="184">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb16dea4-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the Netherlands (en)</cell>
@@ -3817,10 +3697,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0336cd3</cell>
   </row>
-  <row index="191">
+  <row index="185">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -3828,7 +3708,7 @@
     <cell name="language">English</cell>
     <cell name="medium">HTML</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-28</cell>
+    <cell name="date of publication">2023-06-27</cell>
     <cell name="embargo date">2023-06-28T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -3840,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99fcceb0</cell>
   </row>
-  <row index="192">
+  <row index="186">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1a9c7b22-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -3860,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3dbee53</cell>
   </row>
-  <row index="193">
+  <row index="187">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2bff0f48-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3880,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0acf4e61</cell>
   </row>
-  <row index="194">
+  <row index="188">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -3888,7 +3768,7 @@
     <cell name="language">English</cell>
     <cell name="medium">ePub</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-28</cell>
+    <cell name="date of publication">2023-06-27</cell>
     <cell name="embargo date">2023-06-28T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -3900,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a82c7cf</cell>
   </row>
-  <row index="195">
+  <row index="189">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/850674c0-en</cell>
     <cell name="title">Context, drivers and outcomes (en)</cell>
@@ -3920,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/343972a6</cell>
   </row>
-  <row index="196">
+  <row index="190">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b767a0c7-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -3940,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d12e20da</cell>
   </row>
-  <row index="197">
+  <row index="191">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1ec00850-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -3960,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/500f53cb</cell>
   </row>
-  <row index="198">
+  <row index="192">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -3968,7 +3848,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-28</cell>
+    <cell name="date of publication">2023-06-27</cell>
     <cell name="embargo date">2023-06-28T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -3977,10 +3857,10 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7eb62237</cell>
   </row>
-  <row index="199">
+  <row index="193">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2bff0f48-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4000,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f5918c3</cell>
   </row>
-  <row index="200">
+  <row index="194">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b767a0c7-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -4020,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/facc3657</cell>
   </row>
-  <row index="201">
+  <row index="195">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1ec00850-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -4040,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c681f502</cell>
   </row>
-  <row index="202">
+  <row index="196">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/850674c0-en</cell>
     <cell name="title">Context, drivers and outcomes (en)</cell>
@@ -4060,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72abf92d</cell>
   </row>
-  <row index="203">
+  <row index="197">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -4068,7 +3948,7 @@
     <cell name="language">English</cell>
     <cell name="medium">ZXML</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-28</cell>
+    <cell name="date of publication">2023-06-27</cell>
     <cell name="embargo date">2023-06-28T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -4080,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f487b12</cell>
   </row>
-  <row index="204">
+  <row index="198">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/afeeb550-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4100,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8826cb1</cell>
   </row>
-  <row index="205">
+  <row index="199">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b18de7de-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -4120,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f3c6a54</cell>
   </row>
-  <row index="206">
+  <row index="200">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1a9c7b22-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -4140,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01c1fec</cell>
   </row>
-  <row index="207">
+  <row index="201">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b18de7de-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -4160,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb5da906</cell>
   </row>
-  <row index="208">
+  <row index="202">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -4168,7 +4048,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-06-28</cell>
+    <cell name="date of publication">2023-06-27</cell>
     <cell name="embargo date">2023-06-28T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -4180,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07432b3f</cell>
   </row>
-  <row index="209">
+  <row index="203">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/afeeb550-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4200,7 +4080,367 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49380d8f</cell>
   </row>
+  <row index="204">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/aa70eee4-en</cell>
+    <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
+  </row>
+  <row index="205">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4bbbbfd6-en</cell>
+    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
+  </row>
+  <row index="206">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4bbbbfd6-en</cell>
+    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
+  </row>
+  <row index="207">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4bbbbfd6-en</cell>
+    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
+  </row>
+  <row index="208">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/aa70eee4-en</cell>
+    <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
+  </row>
+  <row index="209">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9163c6a5-en</cell>
+    <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
+  </row>
   <row index="210">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/52e6006b-en</cell>
+    <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
+  </row>
+  <row index="211">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/52e6006b-en</cell>
+    <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
+  </row>
+  <row index="212">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9163c6a5-en</cell>
+    <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
+  </row>
+  <row index="213">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4bbbbfd6-en</cell>
+    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
+  </row>
+  <row index="214">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4e3684a9-it</cell>
+    <cell name="title">Sintesi (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
+  </row>
+  <row index="215">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ac67ca43-en</cell>
+    <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
+  </row>
+  <row index="216">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4bbbbfd6-en</cell>
+    <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
+  </row>
+  <row index="217">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6eeb16e2-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
+  </row>
+  <row index="218">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/966f84b0-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
+  </row>
+  <row index="219">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ac67ca43-en</cell>
+    <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
+  </row>
+  <row index="220">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/966f84b0-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
+  </row>
+  <row index="221">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6eeb16e2-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-29</cell>
+    <cell name="embargo date">2023-06-29T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
+  </row>
+  <row index="222">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dbda2baf-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2023 (en)</cell>
@@ -4220,7 +4460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd813d3e</cell>
   </row>
-  <row index="211">
+  <row index="223">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dbda2baf-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2023 (en)</cell>
@@ -4240,7 +4480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e86ede3</cell>
   </row>
-  <row index="212">
+  <row index="224">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4d0a9ed-fr</cell>
     <cell name="title">Panorama des administrations publiques 2023 (fr)</cell>
@@ -4260,7 +4500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da159a35</cell>
   </row>
-  <row index="213">
+  <row index="225">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -4280,7 +4520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/798979c1</cell>
   </row>
-  <row index="214">
+  <row index="226">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4d0a9ed-fr</cell>
     <cell name="title">Panorama des administrations publiques 2023 (fr)</cell>
@@ -4300,7 +4540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c72a7b88</cell>
   </row>
-  <row index="215">
+  <row index="227">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -4320,7 +4560,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c427d45b</cell>
   </row>
-  <row index="216">
+  <row index="228">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ae9c0fd1-en</cell>
+    <cell name="title">Test No. 126: Determination of the Hydrophobicity Index of Nanomaterials Through an Affinity Measurement (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-07-04T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f43de8fd</cell>
+  </row>
+  <row index="229">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/27b10ba3-en</cell>
+    <cell name="title">Test No. 444A: In Vitro Immunotoxicity (en)</cell>
+    <cell name="subtitle">IL-2 Luc Assay (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-07-04T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df98767</cell>
+  </row>
+  <row index="230">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/08801ab7-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2023-2032 (en)</cell>
@@ -4328,8 +4608,8 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-07-04</cell>
-    <cell name="embargo date">2023-07-04T08:00:00Z</cell>
+    <cell name="date of publication">2023-07-06</cell>
+    <cell name="embargo date">2023-07-06T09:45:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -4340,7 +4620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35109869</cell>
   </row>
-  <row index="217">
+  <row index="231">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/08801ab7-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2023-2032 (en)</cell>
@@ -4348,8 +4628,8 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-07-04</cell>
-    <cell name="embargo date">2023-07-04T08:00:00Z</cell>
+    <cell name="date of publication">2023-07-06</cell>
+    <cell name="embargo date">2023-07-06T09:45:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -4360,7 +4640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77a15bf2</cell>
   </row>
-  <row index="218">
+  <row index="232">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -4380,7 +4660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40b8deae</cell>
   </row>
-  <row index="219">
+  <row index="233">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -4400,7 +4680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3abacdf0</cell>
   </row>
-  <row index="220">
+  <row index="234">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -4420,7 +4700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5659d1ea</cell>
   </row>
-  <row index="221">
+  <row index="235">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>

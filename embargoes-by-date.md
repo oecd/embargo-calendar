@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 June 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 June 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
@@ -10,13 +10,13 @@ Data generated on | |
 * [15 June 2023](#15-june-2023)
 * [16 June 2023](#16-june-2023)
 * [19 June 2023](#19-june-2023)
-* [21 June 2023](#21-june-2023)
 * [22 June 2023](#22-june-2023)
 * [26 June 2023](#26-june-2023)
 * [28 June 2023](#28-june-2023)
 * [29 June 2023](#29-june-2023)
 * [30 June 2023](#30-june-2023)
 * [4 July 2023](#4-july-2023)
+* [6 July 2023](#6-july-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
 
@@ -85,7 +85,7 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
 
 ### Additional Information
 
@@ -108,7 +108,7 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
 
 ### Additional Information
 
@@ -131,7 +131,7 @@ Tuesday 13 June 2023 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
 
 ### Additional Information
 
@@ -154,7 +154,7 @@ Tuesday 13 June 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 9 June 2023 at 23:09
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
 
 ### Additional Information
 
@@ -181,7 +181,7 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 June 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
 
 ### Additional Information
 
@@ -266,6 +266,29 @@ Thursday 15 June 2023 at 7:00 | no launch event
 
 ------
 
+## [Production Transformation Policy Review - Spotlight on the Azores’ Internationalisation](https://doi.org/10.1787/faeecb3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 June 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 13 June 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
 ## [Indicators of Immigrant Integration 2023 - Settling In](https://doi.org/10.1787/1d5020a6-en)
 
 Embargo date | Launch date
@@ -320,7 +343,7 @@ Thursday 15 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -437,33 +460,6 @@ Monday 19 June 2023 at 22:00 | no launch event
 
 ------
 
-# 21 June 2023
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
 # 22 June 2023
 
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
@@ -501,7 +497,7 @@ Monday 26 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -546,6 +542,29 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ------
 
 # 29 June 2023
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
 
@@ -624,11 +643,61 @@ Friday 30 June 2023 at 10:00 | no launch event
 
 # 4 July 2023
 
+## [Test No. 126: Determination of the Hydrophobicity Index of Nanomaterials Through an Affinity Measurement](https://doi.org/10.1787/ae9c0fd1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 444A: In Vitro Immunotoxicity - IL-2 Luc Assay](https://doi.org/10.1787/27b10ba3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 6 July 2023
+
 ## [OECD-FAO Agricultural Outlook 2023-2032](https://doi.org/10.1787/08801ab7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 4 July 2023 at 8:00 | no launch event
+Thursday 6 July 2023 at 9:45 | no launch event
 
 ### Status Information
 
