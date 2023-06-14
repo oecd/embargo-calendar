@@ -2,73 +2,25 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 June 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 June 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 June 2023](#12-june-2023)
 * [13 June 2023](#13-june-2023)
 * [14 June 2023](#14-june-2023)
 * [15 June 2023](#15-june-2023)
 * [16 June 2023](#16-june-2023)
 * [19 June 2023](#19-june-2023)
+* [20 June 2023](#20-june-2023)
 * [22 June 2023](#22-june-2023)
 * [26 June 2023](#26-june-2023)
 * [28 June 2023](#28-june-2023)
 * [29 June 2023](#29-june-2023)
 * [30 June 2023](#30-june-2023)
 * [4 July 2023](#4-july-2023)
+* [5 July 2023](#5-july-2023)
 * [6 July 2023](#6-july-2023)
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
-
-------
-
-# 12 June 2023
-
-## [Law enforcement responses to corruption in emergency situations - Practical guidelines](https://doi.org/10.1787/b2e5344f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 11 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Confronting the cost-of-living and housing crisis in cities](https://doi.org/10.1787/7a6008af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [1 October 2023](#1-october-2023)
 
 ------
 
@@ -85,7 +37,7 @@ Tuesday 13 June 2023 at 9:00 | no launch event
 - [ ] FTI loaded
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
@@ -181,7 +133,7 @@ Wednesday 14 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
@@ -202,15 +154,15 @@ Wednesday 14 June 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -231,7 +183,7 @@ Thursday 15 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
@@ -254,7 +206,7 @@ Thursday 15 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 June 2023 at 22:39
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
@@ -263,29 +215,6 @@ Thursday 15 June 2023 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Production Transformation Policy Review - Spotlight on the Azores’ Internationalisation](https://doi.org/10.1787/faeecb3a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 June 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 June 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -298,15 +227,15 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
+- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -321,15 +250,15 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
+- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -361,52 +290,6 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ------
 
 # 16 June 2023
-
-## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Évaluation du programme national de lutte contre le tabagisme en France](https://doi.org/10.1787/b656e9ac-fr)
 
@@ -454,6 +337,56 @@ Monday 19 June 2023 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 June 2023
+
+## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -525,15 +458,15 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -542,29 +475,6 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ------
 
 # 29 June 2023
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
 
@@ -691,6 +601,33 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 
 ------
 
+# 5 July 2023
+
+## [Production Transformation Policy Review - Spotlight on the Azores’ Internationalisation](https://doi.org/10.1787/faeecb3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 July 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
 # 6 July 2023
 
 ## [OECD-FAO Agricultural Outlook 2023-2032](https://doi.org/10.1787/08801ab7-en)
@@ -767,5 +704,32 @@ Thursday 20 July 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 1 October 2023
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 1 October 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
