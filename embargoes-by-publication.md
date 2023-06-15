@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Comportement des ménages et environnement - Opérer des choix durables sur fond de crises interdépendantes](https://doi.org/10.1787/6892a2e0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 June 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [How Green is Household Behaviour? - Sustainable Choices in a Time of Interlocking Crises](https://doi.org/10.1787/2bbbb663-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 June 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 June 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Proposal for an action plan to reduce early school leaving in Spain](https://doi.org/10.1787/0c249e7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 June 2023 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Propuestas para un plan de acción para reducir el abandono escolar temprano en España](https://doi.org/10.1787/9bc3285d-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 13 June 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 9 June 2023 at 23:09
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 15 June 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policy Actions for Affordable Housing in Lithuania](https://doi.org/10.1787/ca16ff6d-en)
 
@@ -153,7 +61,7 @@ Thursday 15 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
@@ -176,7 +84,7 @@ Thursday 15 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
@@ -197,9 +105,9 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
+- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
@@ -220,9 +128,9 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
+- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
@@ -243,15 +151,15 @@ Thursday 15 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -268,7 +176,7 @@ Friday 16 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
@@ -280,26 +188,26 @@ Friday 16 June 2023 at 7:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
+## [How are education systems integrating creative thinking in schools?](https://doi.org/10.1787/f01158fb-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 June 2023 at 22:00 | no launch event
+Friday 16 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -349,11 +257,34 @@ Tuesday 20 June 2023 at 6:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 June 2023 at 10:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 22 June 2023 at 7:00 | no launch event
+Thursday 22 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -404,7 +335,7 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
+- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
@@ -438,6 +369,52 @@ Thursday 29 June 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Competition Market Study of Ukraine’s Electricity Sector](https://doi.org/10.1787/f28f98ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 June 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України](https://doi.org/10.1787/ec253027-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 30 June 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Ukrainian*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -553,6 +530,29 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Perspectives agricoles de l’OCDE et de la FAO 2023-2032](https://doi.org/10.1787/a187ca6c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 July 2023 at 9:45 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
