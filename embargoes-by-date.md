@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 June 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 16 June 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 June 2023](#14-june-2023)
 * [15 June 2023](#15-june-2023)
 * [16 June 2023](#16-june-2023)
 * [20 June 2023](#20-june-2023)
@@ -19,56 +18,6 @@ Data generated on | |
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
 * [1 October 2023](#1-october-2023)
-
-------
-
-# 14 June 2023
-
-## [Policy Actions for Affordable Housing in Lithuania](https://doi.org/10.1787/ca16ff6d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 June 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 June 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Sweden 2023](https://doi.org/10.1787/ceed5fd4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 June 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -204,7 +153,7 @@ Friday 16 June 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 12 June 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
+- [x] Exported to OECD.org Friday 16 June 2023 at 22:34
 
 ### Additional Information
 
@@ -227,7 +176,7 @@ Friday 16 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 June 2023 at 22:33
+- [x] Exported to OECD.org Friday 16 June 2023 at 22:34
 
 ### Additional Information
 
@@ -432,7 +381,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -443,7 +392,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -466,7 +415,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 * Language: *Ukrainian*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
