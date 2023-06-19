@@ -2,10 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 June 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 June 2023 at 23:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 June 2023](#20-june-2023)
+* [21 June 2023](#21-june-2023)
 * [22 June 2023](#22-june-2023)
+* [23 June 2023](#23-june-2023)
 * [26 June 2023](#26-june-2023)
 * [28 June 2023](#28-june-2023)
 * [29 June 2023](#29-june-2023)
@@ -16,56 +18,11 @@ Data generated on | |
 * [11 July 2023](#11-july-2023)
 * [20 July 2023](#20-july-2023)
 * [1 October 2023](#1-october-2023)
+* [3 October 2023](#3-october-2023)
 
 ------
 
 # 20 June 2023
-
-## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
 
@@ -92,6 +49,56 @@ Tuesday 20 June 2023 at 10:15 | no launch event
 
 ------
 
+# 21 June 2023
+
+## [Integrating local services for individuals in vulnerable situations](https://doi.org/10.1787/1596644b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [“Who does what” for active labour market policies - A zoom on the role of subnational governments](https://doi.org/10.1787/d8d6868d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 22 June 2023
 
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
@@ -110,6 +117,79 @@ Thursday 22 June 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 June 2023
+
+## [Risks and opportunities of reshaping global value chains](https://doi.org/10.1787/f758afe8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -499,5 +579,32 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 3 October 2023
+
+## [Economic Policy Reforms 2023 - Going for Growth](https://doi.org/10.1787/9953de23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------

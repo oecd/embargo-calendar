@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 June 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 20 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 19 June 2023 at 23:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
 
@@ -73,6 +27,52 @@ Tuesday 20 June 2023 at 10:15 | no launch event
 
 ------
 
+## [Integrating local services for individuals in vulnerable situations](https://doi.org/10.1787/1596644b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [“Who does what” for active labour market policies - A zoom on the role of subnational governments](https://doi.org/10.1787/d8d6868d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 21 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
 
 Embargo date | Launch date
@@ -89,6 +89,75 @@ Thursday 22 June 2023 at 13:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Risks and opportunities of reshaping global value chains](https://doi.org/10.1787/f758afe8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -438,5 +507,28 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Economic Policy Reforms 2023 - Going for Growth](https://doi.org/10.1787/9953de23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
