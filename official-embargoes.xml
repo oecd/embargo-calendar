@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-06-19T23:51:21.4546953+02:00">
+<report name="official-embargoes" generated="2023-06-20T23:41:45.5135235+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -47,13 +47,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-06-20</cell>
     <cell name="embargo date">2023-06-20T10:15:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2023-06-20T20:41:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-19T21:12:49Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-19T20:38:42Z</cell>
+    <cell name="oecd.org last export date">2023-06-20T20:41:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-06-19T21:12:49Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-06-19T20:38:42Z</cell>
+    <cell name="oecd.org last export date">2023-06-20T20:41:21Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -102,12 +102,292 @@
   </row>
   <row index="5">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/e8574bc7-en</cell>
+    <cell name="title">Towards green growth (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27a1c01c</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ca395a5b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0cc4e5b</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/485849d6-en</cell>
+    <cell name="title">The United States has made progress in decoupling some environmental pressures from economic growth: Decoupling trends (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3867a8a4</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/3c425eaf-en</cell>
+    <cell name="title">US plastic recycling rates are low compared to other OECD countries (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5436290</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/11690c80-en</cell>
+    <cell name="title">Emissions of most major air pollutants have decreased, but progress has stalled (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/205101ed</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/8f046b65-en</cell>
+    <cell name="title">Public investment in infrastructure decreased slightly over 2010-19 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79c2798d</cell>
+  </row>
+  <row index="11">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-06-20T20:41:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e96e2161</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/337032b1-en</cell>
+    <cell name="title">The IIJA funds USD 550 billion for new infrastructure projects, with substantial funding for EPA (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc49417b</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/86f55e5e-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/778ea6f4</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/af22f67d-en</cell>
+    <cell name="title">A high share of US water bodies is in poor condition (en)</cell>
+    <cell name="subtitle">Water quality assessment of nation's lakes and reservoirs, rivers and streams, and coastal waters, mid to late 2010s (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/737f18e8</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/5ec3cd6d-en</cell>
+    <cell name="title">The US environmental tax revenue share of GDP has been declining and is lowest among the G7 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a4e3bb4</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/78d3208a-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee06b1f4</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/5c3f5068-en</cell>
+    <cell name="title">The US policy mix to address marine litter relies largely on enabling instruments: Number of policy instruments by category. (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce1efb75</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/86f55e5e-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a408e09</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/47675117-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-06-22</cell>
     <cell name="embargo date">2023-06-22T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -117,30 +397,590 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17a974bb</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/a0095094-en</cell>
+    <cell name="title">The number of climate-related disasters in the United States and the related economic costs are rapidly increasing (en)</cell>
+    <cell name="subtitle">Billion-dollar weather and climate disasters (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afd2ed04</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/e8574bc7-en</cell>
+    <cell name="title">Towards green growth (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37b28ba1</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/47675117-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab39da64</cell>
   </row>
-  <row index="6">
+  <row index="23">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/0a1a5e6e-en</cell>
+    <cell name="title">The United States is making progress towards climate goals, but additional actions are needed (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9431d20</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/3780b7ba-en</cell>
+    <cell name="title">Water tariffs increased significantly in the United States, with large variation across cities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa563e36</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/7440e3ce-en</cell>
+    <cell name="title">Violation rate declined in wastewater and hazardous waste but not in other domains (en)</cell>
+    <cell name="subtitle">Percentage of facilities with violations in air, drinking water, wastewater and hazardous waste, and percentage of violations in pesticide-handling firms (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72e7cf23</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/5c5f3ea4-en</cell>
+    <cell name="title">US renewables have expanded in both capacity and energy production over 2010-20 (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3337599</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/45d39882-en</cell>
+    <cell name="title">The US policy mix to address marine litter relies largely on enabling instruments (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42480fcb</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/0311387a-en</cell>
+    <cell name="title">An increasing number of National Priority List sites have completed clean-up interventions (en)</cell>
+    <cell name="subtitle">Number of hazardous waste sites requiring clean-up interventions by the Superfund (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db85bf67</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/a7b07895-en</cell>
+    <cell name="title">Marine litter (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd922320</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/589ab91a-en</cell>
+    <cell name="title">The United States has made progress in decoupling some environmental pressures from economic growth (en)</cell>
+    <cell name="subtitle">Decoupling trends (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/556f5210</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/18e6303b-en</cell>
+    <cell name="title">The IIJA funds USD 550 billion for new infrastructure projects, with substantial funding for EPA (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e38d828c</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/e1672e4c-en</cell>
+    <cell name="title">The United States is making progress towards climate goals, but additional actions are needed (en)</cell>
+    <cell name="subtitle">Past performance against climate objectives and indicative path to net zero (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5245a19</cell>
+  </row>
+  <row index="33">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/47675117-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-06-22</cell>
     <cell name="embargo date">2023-06-22T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-06-20T20:41:21Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccea34e6</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fd9bac42-en</cell>
+    <cell name="title">Basic statistics of the United States (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b46f5833</cell>
+  </row>
+  <row index="35">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/fd9bac42-en</cell>
+    <cell name="title">Basic statistics of the United States (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2283281</cell>
+  </row>
+  <row index="36">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/a4db22cd-en</cell>
+    <cell name="title">US plastic recycling rates are low compared to other OECD countries (en)</cell>
+    <cell name="subtitle">Recycling rates of plastic waste, 2019 and 2010-19 growth rates, percentages (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/111e8097</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/76a655cc-en</cell>
+    <cell name="title">US plastic waste exports have sharply declined, while plastic waste generated continues to increase (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f3cb1b3</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/c9ba8337-en</cell>
+    <cell name="title">Energy industries generate the most GHG emissions, but their share is declining (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86c6744f</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/d7570832-en</cell>
+    <cell name="title">Additional funding from the IIJA and IRA will fill a significant portion of funding gap (en)</cell>
+    <cell name="subtitle">Cumulative investment needs based on current trends, 2020-29 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e50a4da1</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/c861f332-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/188a1b44</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/c861f332-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdb7594f</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/78d3208a-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f4cebaa0</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/df5a7153-en</cell>
+    <cell name="title">US renewables have expanded in both capacity and energy production over 2010-20 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5efd46dc</cell>
+  </row>
+  <row index="44">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/1c8f04ac-en</cell>
+    <cell name="title">Areas of potential EJ concern account for a relatively modest share of funding commitments for pollution abatement and estimated value of injunctive reliefs, 2014-21 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19177b90</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/a7b07895-en</cell>
+    <cell name="title">Marine litter (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4608efdc</cell>
+  </row>
+  <row index="46">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/3b036b35-en</cell>
+    <cell name="title">US plastic waste exports have sharply declined, while plastic waste generated continues to increase (graph) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df8dae09</cell>
+  </row>
+  <row index="47">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/ca395a5b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9212efa5</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/47675117-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: United States 2023 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-06-22</cell>
+    <cell name="embargo date">2023-06-22T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-06-20T21:14:11Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccea34e6</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91a7dc6d</cell>
   </row>
-  <row index="7">
+  <row index="49">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f758afe8-en</cell>
     <cell name="title">Risks and opportunities of reshaping global value chains (en)</cell>
@@ -160,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee6ee304</cell>
   </row>
-  <row index="8">
+  <row index="50">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b0920649-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2023 (fr)</cell>
@@ -180,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eab5fb6b</cell>
   </row>
-  <row index="9">
+  <row index="51">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3269532b-en</cell>
     <cell name="title">Africa's Development Dynamics 2023 (en)</cell>
@@ -200,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6428d2af</cell>
   </row>
-  <row index="10">
+  <row index="52">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b0920649-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2023 (fr)</cell>
@@ -220,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71cb636e</cell>
   </row>
-  <row index="11">
+  <row index="53">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3269532b-en</cell>
     <cell name="title">Africa's Development Dynamics 2023 (en)</cell>
@@ -240,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0f574dc</cell>
   </row>
-  <row index="12">
+  <row index="54">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1fe7632e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -260,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21689b7d</cell>
   </row>
-  <row index="13">
+  <row index="55">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb16dea4-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the Netherlands (en)</cell>
@@ -280,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a2efa2c</cell>
   </row>
-  <row index="14">
+  <row index="56">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/afb863e0-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -300,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43a3fd38</cell>
   </row>
-  <row index="15">
+  <row index="57">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f2bd7c31-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -320,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d44fc0df</cell>
   </row>
-  <row index="16">
+  <row index="58">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2f6a1659-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -340,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77c53e9a</cell>
   </row>
-  <row index="17">
+  <row index="59">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/28e9bddc-en</cell>
     <cell name="title">Implementation of the 2015 recommendations (en)</cell>
@@ -360,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33a804f8</cell>
   </row>
-  <row index="18">
+  <row index="60">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b866fb1c-en</cell>
     <cell name="title">Context, drivers and outcomes (en)</cell>
@@ -380,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc642ff9</cell>
   </row>
-  <row index="19">
+  <row index="61">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/937b33c0-en</cell>
     <cell name="title">Acronyms (en)</cell>
@@ -400,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8944261</cell>
   </row>
-  <row index="20">
+  <row index="62">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4385b62b-en</cell>
     <cell name="title">Overall assessment and recommendations (en)</cell>
@@ -420,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d13f099</cell>
   </row>
-  <row index="21">
+  <row index="63">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb16dea4-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the Netherlands (en)</cell>
@@ -440,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0336cd3</cell>
   </row>
-  <row index="22">
+  <row index="64">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -460,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99fcceb0</cell>
   </row>
-  <row index="23">
+  <row index="65">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1a9c7b22-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -480,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3dbee53</cell>
   </row>
-  <row index="24">
+  <row index="66">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2bff0f48-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -500,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0acf4e61</cell>
   </row>
-  <row index="25">
+  <row index="67">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -520,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a82c7cf</cell>
   </row>
-  <row index="26">
+  <row index="68">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/850674c0-en</cell>
     <cell name="title">Context, drivers and outcomes (en)</cell>
@@ -540,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/343972a6</cell>
   </row>
-  <row index="27">
+  <row index="69">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b767a0c7-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -560,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d12e20da</cell>
   </row>
-  <row index="28">
+  <row index="70">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1ec00850-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -580,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/500f53cb</cell>
   </row>
-  <row index="29">
+  <row index="71">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -600,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7eb62237</cell>
   </row>
-  <row index="30">
+  <row index="72">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2bff0f48-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -620,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f5918c3</cell>
   </row>
-  <row index="31">
+  <row index="73">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b767a0c7-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -640,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/facc3657</cell>
   </row>
-  <row index="32">
+  <row index="74">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1ec00850-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -660,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c681f502</cell>
   </row>
-  <row index="33">
+  <row index="75">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/850674c0-en</cell>
     <cell name="title">Context, drivers and outcomes (en)</cell>
@@ -680,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72abf92d</cell>
   </row>
-  <row index="34">
+  <row index="76">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -700,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f487b12</cell>
   </row>
-  <row index="35">
+  <row index="77">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/afeeb550-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -720,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8826cb1</cell>
   </row>
-  <row index="36">
+  <row index="78">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b18de7de-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -740,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f3c6a54</cell>
   </row>
-  <row index="37">
+  <row index="79">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1a9c7b22-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -760,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c01c1fec</cell>
   </row>
-  <row index="38">
+  <row index="80">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b18de7de-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -780,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb5da906</cell>
   </row>
-  <row index="39">
+  <row index="81">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a93d26be-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in Spain (en)</cell>
@@ -800,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07432b3f</cell>
   </row>
-  <row index="40">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/afeeb550-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -820,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49380d8f</cell>
   </row>
-  <row index="41">
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dbda2baf-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2023 (en)</cell>
@@ -840,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd813d3e</cell>
   </row>
-  <row index="42">
+  <row index="84">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/dbda2baf-en</cell>
     <cell name="title">OECD Economic Surveys: Netherlands 2023 (en)</cell>
@@ -860,7 +1700,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e86ede3</cell>
   </row>
-  <row index="43">
+  <row index="85">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/d3890ac8-en</cell>
+    <cell name="title">Context of the market study and introductory remarks (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2acd77df</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/383346d6-uk</cell>
+    <cell name="title">Основні особливості ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa971503</cell>
+  </row>
+  <row index="87">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/597b858e-en</cell>
     <cell name="title">Other issues (en)</cell>
@@ -880,7 +1760,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9c2fa16</cell>
   </row>
-  <row index="44">
+  <row index="88">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c44b60de-uk</cell>
+    <cell name="title">Резюме (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4458673</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/aabd570a-en</cell>
+    <cell name="title">Conclusion and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e4bba51</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/19cec18f-en</cell>
+    <cell name="title">Market functioning and regulatory framework (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6e89829</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/383346d6-uk</cell>
+    <cell name="title">Основні особливості ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59b8dcd3</cell>
+  </row>
+  <row index="92">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e43577c6-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -900,7 +1860,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d299ceba</cell>
   </row>
-  <row index="45">
+  <row index="93">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/da93f01d-en</cell>
+    <cell name="title">Assessment of the retail market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22145525</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/dd970350-uk</cell>
+    <cell name="title">Контекст дослідження ринку та вступні зауваження (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e80ab164</cell>
+  </row>
+  <row index="95">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/aabd570a-en</cell>
     <cell name="title">Conclusion and recommendations (en)</cell>
@@ -920,7 +1920,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/054cf1f6</cell>
   </row>
-  <row index="46">
+  <row index="96">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/772e5520-uk</cell>
+    <cell name="title">Передмова Антимонопольного комітету України (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8060dd6c</cell>
+  </row>
+  <row index="97">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f28f98ed-en</cell>
     <cell name="title">Competition Market Study of Ukraine’s Electricity Sector (en)</cell>
@@ -940,7 +1960,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89c5ac5d</cell>
   </row>
-  <row index="47">
+  <row index="98">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/ec253027-uk</cell>
+    <cell name="title">Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1f5cb93</cell>
+  </row>
+  <row index="99">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9c6d2407-uk</cell>
+    <cell name="title">Оцінка оптового ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b76fb69b</cell>
+  </row>
+  <row index="100">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/d454a5f9-uk</cell>
+    <cell name="title">Висновки та рекомендації (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/492771e5</cell>
+  </row>
+  <row index="101">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/315903d7-en</cell>
     <cell name="title">Preface by the EU Delegation to Ukraine (en)</cell>
@@ -960,7 +2040,207 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/620ee08f</cell>
   </row>
-  <row index="48">
+  <row index="102">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7835bb13-uk</cell>
+    <cell name="title">Оцінка роздрібного ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0a0645d</cell>
+  </row>
+  <row index="103">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/72dcf9c9-en</cell>
+    <cell name="title">Assessment of the wholesale market (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd32333</cell>
+  </row>
+  <row index="104">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/dd970350-uk</cell>
+    <cell name="title">Контекст дослідження ринку та вступні зауваження (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/944c9f80</cell>
+  </row>
+  <row index="105">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/772e5520-uk</cell>
+    <cell name="title">Передмова Антимонопольного комітету України (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f05bf4c2</cell>
+  </row>
+  <row index="106">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/0e4fd0de-en</cell>
+    <cell name="title">Main market features (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bcbe5da</cell>
+  </row>
+  <row index="107">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e85a1aa9-uk</cell>
+    <cell name="title">Передмова Представництва ЄС в Україні (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c694836</cell>
+  </row>
+  <row index="108">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/ec253027-uk</cell>
+    <cell name="title">Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb1ab34f</cell>
+  </row>
+  <row index="109">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/429e491b-uk</cell>
+    <cell name="title">Функціонування ринку та нормативно-правова база (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2d3a211</cell>
+  </row>
+  <row index="110">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/9c6d2407-uk</cell>
+    <cell name="title">Оцінка оптового ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b157d476</cell>
+  </row>
+  <row index="111">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/f28f98ed-en</cell>
+    <cell name="title">Competition Market Study of Ukraine’s Electricity Sector (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fbfb5a7</cell>
+  </row>
+  <row index="112">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/c1272210-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -980,7 +2260,127 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed6a1b5</cell>
   </row>
-  <row index="49">
+  <row index="113">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c1272210-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0d8d0fe</cell>
+  </row>
+  <row index="114">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/429e491b-uk</cell>
+    <cell name="title">Функціонування ринку та нормативно-правова база (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60ce5b62</cell>
+  </row>
+  <row index="115">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e85a1aa9-uk</cell>
+    <cell name="title">Передмова Представництва ЄС в Україні (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39c5e4fc</cell>
+  </row>
+  <row index="116">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e43577c6-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd7d2700</cell>
+  </row>
+  <row index="117">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/abeb7512-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35d8243c</cell>
+  </row>
+  <row index="118">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c3545dfb-uk</cell>
+    <cell name="title">Скорочення та акроніми (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9fd553c0</cell>
+  </row>
+  <row index="119">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/853f4951-en</cell>
     <cell name="title">Preface by the Antimonopoly Committee of Ukraine (en)</cell>
@@ -1000,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26d50b23</cell>
   </row>
-  <row index="50">
+  <row index="120">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/0e4fd0de-en</cell>
     <cell name="title">Main market features (en)</cell>
@@ -1020,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6fa1e0f</cell>
   </row>
-  <row index="51">
+  <row index="121">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/abeb7512-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1040,7 +2440,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45b1eb82</cell>
   </row>
-  <row index="52">
+  <row index="122">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/315903d7-en</cell>
+    <cell name="title">Preface by the EU Delegation to Ukraine (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93dce9ef</cell>
+  </row>
+  <row index="123">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/19cec18f-en</cell>
     <cell name="title">Market functioning and regulatory framework (en)</cell>
@@ -1060,7 +2480,107 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06dccc05</cell>
   </row>
-  <row index="53">
+  <row index="124">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/853f4951-en</cell>
+    <cell name="title">Preface by the Antimonopoly Committee of Ukraine (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a73d2342</cell>
+  </row>
+  <row index="125">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/1cb8101b-uk</cell>
+    <cell name="title">Інші питання (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60c6fe86</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/1cb8101b-uk</cell>
+    <cell name="title">Інші питання (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/140b0044</cell>
+  </row>
+  <row index="127">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c44b60de-uk</cell>
+    <cell name="title">Резюме (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa4a9bc9</cell>
+  </row>
+  <row index="128">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7532b8c4-uk</cell>
+    <cell name="title">Передмова (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e28a65b6</cell>
+  </row>
+  <row index="129">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/d3890ac8-en</cell>
     <cell name="title">Context of the market study and introductory remarks (en)</cell>
@@ -1080,7 +2600,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30545536</cell>
   </row>
-  <row index="54">
+  <row index="130">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/d454a5f9-uk</cell>
+    <cell name="title">Висновки та рекомендації (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/943c6dad</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7532b8c4-uk</cell>
+    <cell name="title">Передмова (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aed0497f</cell>
+  </row>
+  <row index="132">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/597b858e-en</cell>
+    <cell name="title">Other issues (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4d6483</cell>
+  </row>
+  <row index="133">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/7835bb13-uk</cell>
+    <cell name="title">Оцінка роздрібного ринку (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53cc1764</cell>
+  </row>
+  <row index="134">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/72dcf9c9-en</cell>
     <cell name="title">Assessment of the wholesale market (en)</cell>
@@ -1100,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24b11b2d</cell>
   </row>
-  <row index="55">
+  <row index="135">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/da93f01d-en</cell>
     <cell name="title">Assessment of the retail market (en)</cell>
@@ -1120,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b08420d</cell>
   </row>
-  <row index="56">
+  <row index="136">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ec253027-uk</cell>
     <cell name="title">Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України (uk)</cell>
@@ -1137,10 +2737,50 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0aeaf28</cell>
   </row>
-  <row index="57">
+  <row index="137">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/f28f98ed-en</cell>
+    <cell name="title">Competition Market Study of Ukraine’s Electricity Sector (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da053343</cell>
+  </row>
+  <row index="138">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/c3545dfb-uk</cell>
+    <cell name="title">Скорочення та акроніми (uk)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Ukrainian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-06-30</cell>
+    <cell name="embargo date">2023-06-30T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c7a2661</cell>
+  </row>
+  <row index="139">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ec253027-uk</cell>
     <cell name="title">Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України (uk)</cell>
@@ -1160,7 +2800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16d34de8</cell>
   </row>
-  <row index="58">
+  <row index="140">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/f28f98ed-en</cell>
     <cell name="title">Competition Market Study of Ukraine’s Electricity Sector (en)</cell>
@@ -1180,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c195a9b6</cell>
   </row>
-  <row index="59">
+  <row index="141">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4d0a9ed-fr</cell>
     <cell name="title">Panorama des administrations publiques 2023 (fr)</cell>
@@ -1200,7 +2840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da159a35</cell>
   </row>
-  <row index="60">
+  <row index="142">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -1220,7 +2860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/798979c1</cell>
   </row>
-  <row index="61">
+  <row index="143">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/b4d0a9ed-fr</cell>
     <cell name="title">Panorama des administrations publiques 2023 (fr)</cell>
@@ -1240,7 +2880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c72a7b88</cell>
   </row>
-  <row index="62">
+  <row index="144">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d5c5d31-en</cell>
     <cell name="title">Government at a Glance 2023 (en)</cell>
@@ -1260,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c427d45b</cell>
   </row>
-  <row index="63">
+  <row index="145">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ae9c0fd1-en</cell>
     <cell name="title">Test No. 126: Determination of the Hydrophobicity Index of Nanomaterials Through an Affinity Measurement (en)</cell>
@@ -1280,7 +2920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f43de8fd</cell>
   </row>
-  <row index="64">
+  <row index="146">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/27b10ba3-en</cell>
     <cell name="title">Test No. 444A: In Vitro Immunotoxicity (en)</cell>
@@ -1300,7 +2940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df98767</cell>
   </row>
-  <row index="65">
+  <row index="147">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/faeecb3a-en</cell>
     <cell name="title">Production Transformation Policy Review (en)</cell>
@@ -1320,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/98628189</cell>
   </row>
-  <row index="66">
+  <row index="148">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/faeecb3a-en</cell>
     <cell name="title">Production Transformation Policy Review (en)</cell>
@@ -1340,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0245b4ef</cell>
   </row>
-  <row index="67">
+  <row index="149">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/faeecb3a-en</cell>
     <cell name="title">Production Transformation Policy Review (en)</cell>
@@ -1360,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9569479a</cell>
   </row>
-  <row index="68">
+  <row index="150">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/faeecb3a-en</cell>
     <cell name="title">Production Transformation Policy Review (en)</cell>
@@ -1380,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/471c6cd0</cell>
   </row>
-  <row index="69">
+  <row index="151">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/faeecb3a-en</cell>
     <cell name="title">Production Transformation Policy Review (en)</cell>
@@ -1400,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bc799c4</cell>
   </row>
-  <row index="70">
+  <row index="152">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a187ca6c-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2023-2032 (fr)</cell>
@@ -1420,7 +3060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f4e74c5</cell>
   </row>
-  <row index="71">
+  <row index="153">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/08801ab7-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2023-2032 (en)</cell>
@@ -1440,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35109869</cell>
   </row>
-  <row index="72">
+  <row index="154">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/08801ab7-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2023-2032 (en)</cell>
@@ -1460,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77a15bf2</cell>
   </row>
-  <row index="73">
+  <row index="155">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a187ca6c-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2023-2032 (fr)</cell>
@@ -1480,7 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ed30a91</cell>
   </row>
-  <row index="74">
+  <row index="156">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -1500,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40b8deae</cell>
   </row>
-  <row index="75">
+  <row index="157">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -1520,7 +3160,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3abacdf0</cell>
   </row>
-  <row index="76">
+  <row index="158">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/4607b7c7-en</cell>
+    <cell name="title">SIGI 2023 Global Report (en)</cell>
+    <cell name="subtitle">Gender Equality in Times of Crisis (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-07-18</cell>
+    <cell name="embargo date">2023-07-18T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d168860e</cell>
+  </row>
+  <row index="159">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/4607b7c7-en</cell>
+    <cell name="title">SIGI 2023 Global Report (en)</cell>
+    <cell name="subtitle">Gender Equality in Times of Crisis (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-07-18</cell>
+    <cell name="embargo date">2023-07-18T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ba15461</cell>
+  </row>
+  <row index="160">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -1540,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5659d1ea</cell>
   </row>
-  <row index="77">
+  <row index="161">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -1560,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4eb8c4b1</cell>
   </row>
-  <row index="78">
+  <row index="162">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1580,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
   </row>
-  <row index="79">
+  <row index="163">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1600,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
   </row>
-  <row index="80">
+  <row index="164">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1620,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
   </row>
-  <row index="81">
+  <row index="165">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1640,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
   </row>
-  <row index="82">
+  <row index="166">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1660,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
   </row>
-  <row index="83">
+  <row index="167">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1680,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
   </row>
-  <row index="84">
+  <row index="168">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1700,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
   </row>
-  <row index="85">
+  <row index="169">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1720,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
   </row>
-  <row index="86">
+  <row index="170">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1740,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
   </row>
-  <row index="87">
+  <row index="171">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1760,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
   </row>
-  <row index="88">
+  <row index="172">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4e3684a9-it</cell>
     <cell name="title">Sintesi (it)</cell>
@@ -1780,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
   </row>
-  <row index="89">
+  <row index="173">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -1800,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
   </row>
-  <row index="90">
+  <row index="174">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1820,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
   </row>
-  <row index="91">
+  <row index="175">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1840,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
   </row>
-  <row index="92">
+  <row index="176">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1860,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
   </row>
-  <row index="93">
+  <row index="177">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -1880,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
   </row>
-  <row index="94">
+  <row index="178">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1900,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
   </row>
-  <row index="95">
+  <row index="179">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1920,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
   </row>
-  <row index="96">
+  <row index="180">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
@@ -1940,7 +3620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ee1bdb0</cell>
   </row>
-  <row index="97">
+  <row index="181">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>

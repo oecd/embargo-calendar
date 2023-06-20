@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 19 June 2023 at 23:51* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 20 June 2023 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
 
@@ -13,15 +13,15 @@ Tuesday 20 June 2023 at 10:15 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 20 June 2023 at 23:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -38,7 +38,7 @@ Wednesday 21 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 June 2023 at 23:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 21 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 June 2023 at 23:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 June 2023 at 22:38
+- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
 
 ### Additional Information
 
@@ -81,18 +81,18 @@ Thursday 22 June 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 20 June 2023 at 23:14
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -253,7 +253,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -265,7 +265,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -276,7 +276,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 * Language: *Ukrainian*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -457,6 +457,29 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [SIGI 2023 Global Report - Gender Equality in Times of Crisis](https://doi.org/10.1787/4607b7c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 July 2023 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
