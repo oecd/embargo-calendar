@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 June 2023 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 21 June 2023 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Iceland 2023](https://doi.org/10.1787/b3880f1a-en)
 
@@ -38,7 +38,7 @@ Wednesday 21 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 June 2023 at 23:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
+- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 21 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 June 2023 at 23:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
+- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 22 June 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 20 June 2023 at 23:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 June 2023 at 22:41
+- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
 
 ### Additional Information
 
@@ -142,6 +142,29 @@ Friday 23 June 2023 at 6:00 | no launch event
 
 ------
 
+## [Personalised Public Services for People in Vulnerable Situations in Lithuania - Towards a More Integrated Approach](https://doi.org/10.1787/e028d183-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 June 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 June 2023 at 23:04
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
 ## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
 
 Embargo date | Launch date
@@ -174,17 +197,17 @@ Monday 26 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 June 2023 at 23:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -219,7 +242,7 @@ Thursday 29 June 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -503,6 +526,29 @@ Thursday 20 July 2023 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Asia and the Pacific 2023 - Strengthening Property Taxation in Developing Asia](https://doi.org/10.1787/e7ea496f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
