@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Integrating local services for individuals in vulnerable situations](https://doi.org/10.1787/1596644b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [“Who does what” for active labour market policies - A zoom on the role of subnational governments](https://doi.org/10.1787/d8d6868d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 21 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 23 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
 
@@ -84,7 +38,7 @@ Friday 23 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 19 June 2023 at 23:12
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 June 2023 at 22:32
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
 
 ### Additional Information
 
@@ -105,9 +59,9 @@ Friday 23 June 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 June 2023 at 23:04
+- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 June 2023 at 22:32
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
 
 ### Additional Information
 
@@ -123,14 +77,14 @@ Friday 23 June 2023 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 26 June 2023 at 8:00 | no launch event
+Monday 26 June 2023 at 10:45 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 June 2023 at 23:04
+- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 June 2023 at 22:32
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
 
 ### Additional Information
 
@@ -139,6 +93,52 @@ Monday 26 June 2023 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Did COVID-19 accelerate the green transition? - An international assessment of fiscal spending measures to support low-carbon technologies](https://doi.org/10.1787/5b486c18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 June 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Skills and Labour Market Integration of Immigrants and their Children in Flanders](https://doi.org/10.1787/4ea309cb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 June 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -243,15 +243,15 @@ Friday 30 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -266,15 +266,15 @@ Friday 30 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Ukrainian*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
