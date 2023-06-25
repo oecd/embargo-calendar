@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: United States 2023](https://doi.org/10.1787/47675117-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 June 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 June 2023 at 23:14
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Risks and opportunities of reshaping global value chains](https://doi.org/10.1787/f758afe8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 June 2023 at 23:12
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Personalised Public Services for People in Vulnerable Situations in Lithuania - Towards a More Integrated Approach](https://doi.org/10.1787/e028d183-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 25 June 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for the Future of Farming and Food in the Netherlands](https://doi.org/10.1787/bb16dea4-en)
 
@@ -84,7 +15,7 @@ Monday 26 June 2023 at 10:45 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
+- [x] Exported to OECD.org Sunday 25 June 2023 at 22:28
 
 ### Additional Information
 
