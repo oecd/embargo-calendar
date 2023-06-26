@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 June 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 26 June 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [26 June 2023](#26-june-2023)
 * [27 June 2023](#27-june-2023)
@@ -34,7 +34,7 @@ Monday 26 June 2023 at 10:45 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 25 June 2023 at 22:28
+- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 27 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
+- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
 
 ### Additional Information
 
@@ -73,11 +73,38 @@ Tuesday 27 June 2023 at 5:00 | no launch event
 
 ------
 
+## [OECD SME and Entrepreneurship Outlook 2023](https://doi.org/10.1787/342b8564-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 June 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 June 2023
+
 ## [Skills and Labour Market Integration of Immigrants and their Children in Flanders](https://doi.org/10.1787/4ea309cb-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 June 2023 at 8:00 | no launch event
+Wednesday 28 June 2023 at 8:00 | no launch event
 
 ### Status Information
 
@@ -95,10 +122,6 @@ Tuesday 27 June 2023 at 8:00 | no launch event
 * Formats: *ePub, HTML, Paperback, PDF*
 
 ------
-
-------
-
-# 28 June 2023
 
 ## [Policies for the Future of Farming and Food in Spain](https://doi.org/10.1787/a93d26be-en)
 
@@ -209,15 +232,15 @@ Friday 30 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
+- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
+- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -232,17 +255,17 @@ Friday 30 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
+- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 June 2023 at 22:32
+- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Ukrainian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -392,7 +415,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -404,7 +427,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -415,7 +438,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -473,6 +496,29 @@ Tuesday 18 July 2023 at 4:00 | no launch event
 
 ------
 
+## [Driving Policy Coherence for Sustainable Development - Accelerating Progress on the SDGs](https://doi.org/10.1787/a6cb4aa1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 July 2023 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 20 July 2023
@@ -523,7 +569,7 @@ Tuesday 25 July 2023 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
