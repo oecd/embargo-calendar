@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 June 2023 at 23:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 27 June 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policies for the Future of Farming and Food in the Netherlands](https://doi.org/10.1787/bb16dea4-en)
 
@@ -38,7 +38,7 @@ Tuesday 27 June 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 23 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 27 June 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
 
 ### Additional Information
 
@@ -69,7 +69,7 @@ Tuesday 27 June 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -107,7 +107,7 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
 
 ### Additional Information
 
@@ -116,29 +116,6 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 June 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -238,7 +215,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 30 June 2023 at 10:00 | no launch event
+Friday 30 June 2023 at 11:00 | no launch event
 
 ### Status Information
 
@@ -261,7 +238,7 @@ Friday 30 June 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 30 June 2023 at 10:00 | no launch event
+Friday 30 June 2023 at 11:00 | no launch event
 
 ### Status Information
 
@@ -303,6 +280,29 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 
 ------
 
+## [Essai n°126 : Détermination de l'index d'hydrophobicité des nanomatériaux par mesure de l'affinité](https://doi.org/10.1787/791cdd8f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Test No. 444A: In Vitro Immunotoxicity - IL-2 Luc Assay](https://doi.org/10.1787/27b10ba3-en)
 
 Embargo date | Launch date
@@ -320,6 +320,29 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai No. 444A : immunotoxicité in vitro - Essai Il 2 Luc](https://doi.org/10.1787/5bcb53e5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -460,6 +483,236 @@ Tuesday 18 July 2023 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ddc3d41d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Greenland 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e1842f2b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/df906926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2023 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cff0754d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Lesotho 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cd387436-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Paraguay 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/07edaf33-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Faroe Islands 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/306bc415-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e8051e38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f74baa49-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Vincent and the Grenadines 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f6d0eaf4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
