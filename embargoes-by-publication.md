@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 June 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Policies for the Future of Farming and Food in the Netherlands](https://doi.org/10.1787/bb16dea4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 June 2023 at 10:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 28 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Did COVID-19 accelerate the green transition? - An international assessment of fiscal spending measures to support low-carbon technologies](https://doi.org/10.1787/5b486c18-en)
 
@@ -59,9 +36,9 @@ Tuesday 27 June 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
+- [x] Exported to iLibrary Wednesday 28 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
 
 ### Additional Information
 
@@ -82,9 +59,9 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 28 June 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
 
 ### Additional Information
 
@@ -105,9 +82,9 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 June 2023 at 23:01
+- [x] Exported to iLibrary Wednesday 28 June 2023 at 12:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
 
 ### Additional Information
 
@@ -116,6 +93,29 @@ Wednesday 28 June 2023 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 June 2023 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -242,7 +242,7 @@ Friday 30 June 2023 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
