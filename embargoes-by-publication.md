@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 June 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Did COVID-19 accelerate the green transition? - An international assessment of fiscal spending measures to support low-carbon technologies](https://doi.org/10.1787/5b486c18-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 June 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 June 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 June 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD SME and Entrepreneurship Outlook 2023](https://doi.org/10.1787/342b8564-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 June 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 June 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 29 June 2023 at 23:37* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Skills and Labour Market Integration of Immigrants and their Children in Flanders](https://doi.org/10.1787/4ea309cb-en)
 
@@ -105,62 +59,16 @@ Thursday 29 June 2023 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -176,7 +84,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
 
 ### Additional Information
 
@@ -199,7 +107,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 26 June 2023 at 22:32
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
 
 ### Additional Information
 
@@ -219,18 +127,18 @@ Friday 30 June 2023 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -243,17 +151,40 @@ Friday 30 June 2023 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Doing green things: skills, reallocation, and the green transition](https://doi.org/10.1787/286a5007-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 July 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -415,6 +346,52 @@ Thursday 6 July 2023 at 9:45 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 July 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 July 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
