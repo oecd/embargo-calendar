@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 June 2023 at 23:37* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Skills and Labour Market Integration of Immigrants and their Children in Flanders](https://doi.org/10.1787/4ea309cb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 June 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 June 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Policies for the Future of Farming and Food in Spain](https://doi.org/10.1787/a93d26be-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 June 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 June 2023 at 12:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 June 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 30 June 2023 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
 
@@ -84,7 +38,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
@@ -107,7 +61,7 @@ Friday 30 June 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 26 June 2023 at 23:07
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
@@ -130,7 +84,7 @@ Friday 30 June 2023 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
@@ -153,7 +107,7 @@ Friday 30 June 2023 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
@@ -197,15 +151,15 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -220,15 +174,15 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -243,15 +197,15 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -266,15 +220,15 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -289,7 +243,7 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 June 2023 at 23:02
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
 
@@ -303,6 +257,29 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 
 ------
 
+## [Rethinking Regional Attractiveness in the New Global Environment](https://doi.org/10.1787/a9448db4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 July 2023 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [Perspectives agricoles de l’OCDE et de la FAO 2023-2032](https://doi.org/10.1787/a187ca6c-fr)
 
 Embargo date | Launch date
@@ -311,7 +288,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -322,7 +299,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -368,7 +345,7 @@ Friday 7 July 2023 at 6:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -391,7 +368,7 @@ Friday 7 July 2023 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -437,29 +414,6 @@ Tuesday 18 July 2023 at 4:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Driving Policy Coherence for Sustainable Development - Accelerating Progress on the SDGs](https://doi.org/10.1787/a6cb4aa1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 July 2023 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -690,6 +644,29 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Driving Policy Coherence for Sustainable Development - Accelerating Progress on the SDGs](https://doi.org/10.1787/a6cb4aa1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
