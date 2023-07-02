@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 June 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 2 July 2023 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 June 2023](#29-june-2023)
-* [30 June 2023](#30-june-2023)
 * [4 July 2023](#4-july-2023)
 * [5 July 2023](#5-july-2023)
 * [6 July 2023](#6-july-2023)
@@ -17,129 +15,6 @@ Data generated on | |
 * [25 July 2023](#25-july-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 29 June 2023
-
-## [OECD Economic Surveys: Netherlands 2023](https://doi.org/10.1787/dbda2baf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 June 2023 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 June 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 30 June 2023
-
-## [Competition Market Study of Ukraine’s Electricity Sector](https://doi.org/10.1787/f28f98ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Ринкове Дослідження Стану Конкуренції В Електроенергетичному Секторі України](https://doi.org/10.1787/ec253027-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 June 2023 at 23:07
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Ukrainian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Panorama des administrations publiques 2023](https://doi.org/10.1787/b4d0a9ed-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Government at a Glance 2023](https://doi.org/10.1787/3d5c5d31-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 30 June 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
