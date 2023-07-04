@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 July 2023 at 23:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 July 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Doing green things: skills, reallocation, and the green transition](https://doi.org/10.1787/286a5007-en)
 
@@ -15,7 +15,7 @@ Tuesday 4 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -128,7 +128,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 June 2022 at 20:18
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
 
@@ -151,9 +151,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -174,7 +174,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
@@ -197,7 +197,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -220,9 +220,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -243,9 +243,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -266,7 +266,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -289,9 +289,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -312,7 +312,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 April 2019 at 14:31
 
@@ -335,7 +335,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
@@ -358,7 +358,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -381,9 +381,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -404,7 +404,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 April 2019 at 14:31
 
@@ -427,9 +427,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -450,7 +450,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -473,9 +473,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -496,9 +496,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -519,7 +519,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 April 2019 at 14:31
 
@@ -542,9 +542,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -565,9 +565,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -588,7 +588,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 30 June 2023 at 22:36
 
@@ -611,9 +611,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -634,9 +634,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -657,9 +657,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -680,7 +680,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -703,9 +703,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -726,7 +726,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -749,9 +749,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -772,7 +772,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 June 2022 at 19:56
 
@@ -795,7 +795,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
@@ -818,9 +818,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -841,9 +841,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -864,9 +864,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -887,7 +887,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 16 November 2021 at 19:57
 
@@ -910,9 +910,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -933,9 +933,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -956,7 +956,7 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 8 April 2019 at 14:31
 
@@ -979,9 +979,9 @@ Tuesday 4 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 July 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 16:35
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -1004,7 +1004,7 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 June 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
@@ -1025,17 +1025,40 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
+- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 30 June 2023 at 22:36
+- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Harnessing "New Space" for Sustainable Growth of the Space Economy](https://doi.org/10.1787/a67b1a1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 July 2023 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -1154,7 +1177,7 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 
 ------
 
-## [G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 - OECD Report for the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/4fc33451-en)
+## [G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 - OECD Report to the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/4fc33451-en)
 
 Embargo date | Launch date
 -------------|:------------:
