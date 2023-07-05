@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 July 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 July 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Doing green things: skills, reallocation, and the green transition](https://doi.org/10.1787/286a5007-en)
 
@@ -1004,7 +1004,7 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 30 June 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
@@ -1027,7 +1027,7 @@ Wednesday 5 July 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 July 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
@@ -1048,15 +1048,15 @@ Thursday 6 July 2023 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1071,15 +1071,15 @@ Thursday 6 July 2023 at 9:45 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -1094,15 +1094,15 @@ Thursday 6 July 2023 at 9:45 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -1116,16 +1116,16 @@ Friday 7 July 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1139,16 +1139,16 @@ Friday 7 July 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1220,6 +1220,29 @@ Monday 17 July 2023 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Subject to Tax Rule (Pillar Two) - Inclusive Framework on BEPS](https://doi.org/10.1787/9afd6856-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -1485,17 +1508,17 @@ Wednesday 19 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
