@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 July 2023 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 July 2023 at 23:36* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 July 2023](#5-july-2023)
 * [6 July 2023](#6-july-2023)
 * [7 July 2023](#7-july-2023)
 * [10 July 2023](#10-july-2023)
@@ -17,56 +16,6 @@ Data generated on | |
 * [13 September 2023](#13-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 5 July 2023
-
-## [Production Transformation Policy Review - Spotlight on the Azores’ Internationalisation](https://doi.org/10.1787/faeecb3a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 July 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 June 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Rethinking Regional Attractiveness in the New Global Environment](https://doi.org/10.1787/a9448db4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 July 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 4 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -106,7 +55,7 @@ Thursday 6 July 2023 at 9:45 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
 
 ### Additional Information
 
@@ -154,9 +103,9 @@ Friday 7 July 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
+- [x] Exported to iLibrary Friday 7 July 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
 
 ### Additional Information
 
@@ -179,7 +128,7 @@ Friday 7 July 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
 
 ### Additional Information
 
@@ -318,6 +267,29 @@ Monday 17 July 2023 at 9:00 | no launch event
 
 ------
 
+## [Mise à jour 2023 de la feuille de route G20/OCDE sur les pays en développement et la fiscalité internationale - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/268825db-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Enhancing International Tax Transparency on Real Estate - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/37292361-en)
 
 Embargo date | Launch date
@@ -335,6 +307,29 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Renforcer la transparence fiscale internationale dans le secteur de l’immobilier - Rapport de l'OCDE à l'intention des Ministres des Finances et des Gouverneurs de Banque Centrale du G20](https://doi.org/10.1787/5449efb4-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
