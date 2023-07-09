@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 July 2023 at 23:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 9 July 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 July 2023](#6-july-2023)
-* [7 July 2023](#7-july-2023)
 * [10 July 2023](#10-july-2023)
 * [11 July 2023](#11-july-2023)
 * [17 July 2023](#17-july-2023)
@@ -16,129 +14,6 @@ Data generated on | |
 * [13 September 2023](#13-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 6 July 2023
-
-## [Harnessing "New Space" for Sustainable Growth of the Space Economy](https://doi.org/10.1787/a67b1a1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 July 2023 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2023-2032](https://doi.org/10.1787/a187ca6c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 July 2023 at 9:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2023-2032](https://doi.org/10.1787/08801ab7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 July 2023 at 9:45 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 7 July 2023
-
-## [Dynamiques du développement en Afrique 2023 - Investir dans le développement durable](https://doi.org/10.1787/b0920649-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 July 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 July 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Africa's Development Dynamics 2023 - Investing in Sustainable Development](https://doi.org/10.1787/3269532b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 July 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 7 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -155,7 +30,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
 
 ### Additional Information
 
@@ -178,7 +53,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
 
 ### Additional Information
 
@@ -201,7 +76,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
 
 ### Additional Information
 
