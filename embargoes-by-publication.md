@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 9 July 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 10 July 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [COVID-19 and productivity-enhancing digitalisation: Firm-level evidence from Slovenia](https://doi.org/10.1787/5f7e9340-en)
 
@@ -15,7 +15,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
+- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
+- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 July 2023 at 22:31
+- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
 ### Additional Information
 
@@ -73,7 +73,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 
 ------
 
-## [OECD Employment Outlook 2023 - Artificial Intelligence and the Labour Market](https://doi.org/10.1787/08785bba-en)
+## [Perspectives de l’emploi de l’OCDE 2023 - Intelligence artificielle et marché du travail](https://doi.org/10.1787/aae5dba0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -82,17 +82,40 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 10 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, PDF, ZXML*
+
+------
+
+## [OECD Employment Outlook 2023 - Artificial Intelligence and the Labour Market](https://doi.org/10.1787/08785bba-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 July 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 10 July 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZXML*
 
 ------
 
