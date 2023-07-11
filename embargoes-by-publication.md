@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 July 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 July 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [COVID-19 and productivity-enhancing digitalisation: Firm-level evidence from Slovenia](https://doi.org/10.1787/5f7e9340-en)
 
@@ -13,7 +13,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
@@ -59,7 +59,7 @@ Monday 10 July 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 10 July 2023 at 22:29
 
@@ -82,9 +82,9 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 10 July 2023 at 22:59
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 17:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
 
 ### Additional Information
 
@@ -92,7 +92,7 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, PDF, ZXML*
+* Formats: *HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -105,9 +105,9 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 10 July 2023 at 22:59
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 17:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
 
 ### Additional Information
 
@@ -254,6 +254,29 @@ Tuesday 18 July 2023 at 15:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [How does corporate taxation affect business investment? - Evidence from aggregate and firm-level data](https://doi.org/10.1787/04e682d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 July 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -496,7 +519,7 @@ Wednesday 19 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 5 July 2023 at 23:01
+- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
 

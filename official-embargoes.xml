@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-07-10T23:25:04.9919125+02:00">
+<report name="official-embargoes" generated="2023-07-11T23:19:44.6679246+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -31,10 +31,10 @@
     <cell name="date of publication">2023-07-10</cell>
     <cell name="embargo date">2023-07-10T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-06T21:11:55Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-07-10T21:54:24Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date">2023-07-06T21:11:55Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-07-10T21:54:24Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -71,10 +71,10 @@
     <cell name="date of publication">2023-07-10</cell>
     <cell name="embargo date">2023-07-10T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-06T21:11:55Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-07-10T21:54:24Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -91,7 +91,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -111,7 +111,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -131,7 +131,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -151,7 +151,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -162,6 +162,46 @@
   </row>
   <row index="8">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6f80cfaa-en</cell>
+    <cell name="title">The gap between nominal wage growth and inflation is narrowing in some countries (en)</cell>
+    <cell name="subtitle">Year-on-year percentage change, over the latest six months (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6a9b6d</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/afdff2b5-en</cell>
+    <cell name="title">Changes in inactivity rates by age (en)</cell>
+    <cell name="subtitle">Percentage point change in inactivity rates among the working age population from Q4 2019 to Q1 2023, seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45ff8775</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4ab57dc8-en</cell>
     <cell name="title">France (en)</cell>
     <cell name="subtitle"/>
@@ -171,7 +211,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -180,7 +220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd243ab5</cell>
   </row>
-  <row index="9">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d846fe48-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -191,7 +231,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -200,7 +240,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3ef98b4</cell>
   </row>
-  <row index="10">
+  <row index="12">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c8f038d0-en</cell>
+    <cell name="title">Profits outpace labour costs in many industries in Australia and Europe (en)</cell>
+    <cell name="subtitle">Percentage changes, seasonally adjusted, from Q1 2022 to Q1 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0d97c55</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6d3a95ba-en</cell>
+    <cell name="title">Changes in real wages by education and occupation vary across countries (en)</cell>
+    <cell name="subtitle">Cumulative percentage change in real hourly wages between Q4 2019 and Q4 2022 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b43bfb7c</cell>
+  </row>
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/638df49a-en</cell>
     <cell name="title">Skill needs and policies in the age of artificial intelligence (en)</cell>
@@ -211,7 +291,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -220,7 +300,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7f7b976</cell>
   </row>
-  <row index="11">
+  <row index="15">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/188188c0-en</cell>
+    <cell name="title">Involuntary part-time has declined among new hires (en)</cell>
+    <cell name="subtitle">Percentage share of new hires in involuntary part-time (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ef2e203</cell>
+  </row>
+  <row index="16">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/11489d95-en</cell>
     <cell name="title">Editorial: Beyond the hype on AI – early signs of divides in the labour market (en)</cell>
@@ -231,7 +331,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -240,7 +340,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/702fb97a</cell>
   </row>
-  <row index="12">
+  <row index="17">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5211e480-en</cell>
+    <cell name="title">Employment in the OECD is projected to continue to grow in 2023 and 2024, with the unemployment rate also inching up slightly (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/048ca49f</cell>
+  </row>
+  <row index="18">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a2afff9c-fr</cell>
     <cell name="title">France (fr)</cell>
@@ -251,7 +371,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -260,7 +380,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36154c48</cell>
   </row>
-  <row index="13">
+  <row index="19">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/74215e02-en</cell>
+    <cell name="title">Nominal growth in posted wages has mostly been stable in 2023 (en)</cell>
+    <cell name="subtitle">Year-on-year percentage change, 3‑month moving averages, from December 2022 to May 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba076ae5</cell>
+  </row>
+  <row index="20">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3a48e05-es</cell>
     <cell name="title">España (es)</cell>
@@ -271,7 +411,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -280,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12e87464</cell>
   </row>
-  <row index="14">
+  <row index="21">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3cd72484-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -291,7 +431,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -300,7 +440,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee81c655</cell>
   </row>
-  <row index="15">
+  <row index="22">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/abdf5210-en</cell>
+    <cell name="title">Total employment has recovered in most countries after COVID‑19 (en)</cell>
+    <cell name="subtitle">Total employment indexed to 100 in December 2019, seasonally adjusted, selected OECD countries (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f7940c7</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/44f59335-en</cell>
+    <cell name="title">Profits contributed more to domestic price pressures (en)</cell>
+    <cell name="subtitle">Contribution to the GDP deflator, year-on-year percentage changes, seasonally adjusted data (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/425eb468</cell>
+  </row>
+  <row index="24">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2d8aff03-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -311,7 +491,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -320,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e04df88</cell>
   </row>
-  <row index="16">
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -331,16 +511,116 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
+    <cell name="oecd.org last export date">2023-07-11T20:31:08Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/157a4ffc</cell>
   </row>
-  <row index="17">
+  <row index="26">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/562608d7-en</cell>
+    <cell name="title">Tightness increased across industries, but is often decreasing in high-pay industries (en)</cell>
+    <cell name="subtitle">Number of countries where the vacancy rate for a given industry increased more than that for the whole economy in 2021/22 or declined consecutively in the last two available quarters (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97768f52</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e17170e4-en</cell>
+    <cell name="title">Employment has grown more for women than for men since the onset of the pandemic (en)</cell>
+    <cell name="subtitle">Percentage point difference in employment growth since December 2019 between women and men, seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42751c85</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/74512177-en</cell>
+    <cell name="title">Minimum wages are keeping pace with inflation, but real gains may vanish over time if inflation remains high (en)</cell>
+    <cell name="subtitle">Cumulative percentage change since December 2020 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d769fd7</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c91bf4ff-en</cell>
+    <cell name="title">Profits have increased more than labour costs in many OECD countries (en)</cell>
+    <cell name="subtitle">Percentage changes, seasonally adjusted, from Q4 2019 to Q1 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e836c6cc</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c1cf5de4-en</cell>
+    <cell name="title">Recent trends in industrial disputes (en)</cell>
+    <cell name="subtitle">Annual averages of work days lost per 1 000 salaried employees (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f0d1b7f3</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/029fdfa9-en</cell>
     <cell name="title">United States (en)</cell>
@@ -351,7 +631,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -360,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d944a927</cell>
   </row>
-  <row index="18">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f2d118bd-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -371,7 +651,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -380,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4390d0c8</cell>
   </row>
-  <row index="19">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/11489d95-en</cell>
     <cell name="title">Editorial: Beyond the hype on AI – early signs of divides in the labour market (en)</cell>
@@ -391,7 +671,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -400,7 +680,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16f8eafa</cell>
   </row>
-  <row index="20">
+  <row index="34">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/cf876272-en</cell>
+    <cell name="title">Labour markets remain tight in many countries even as pressure is easing (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d2289b7</cell>
+  </row>
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f6705504-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -411,7 +711,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -420,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f95c6ec</cell>
   </row>
-  <row index="21">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4ab57dc8-en</cell>
     <cell name="title">France (en)</cell>
@@ -431,7 +731,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -440,7 +740,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd834e20</cell>
   </row>
-  <row index="22">
+  <row index="37">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/0bce4bdd-en</cell>
+    <cell name="title">Workers who are subject to algorithmic management benefit less from AI (en)</cell>
+    <cell name="subtitle">Percentage of AI users reporting improvement in performance, job enjoyment and health (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bd55ce1</cell>
+  </row>
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9a9f42df-ja</cell>
     <cell name="title">日本 (ja)</cell>
@@ -451,7 +771,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -460,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/253e050a</cell>
   </row>
-  <row index="23">
+  <row index="39">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -480,7 +800,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40b8deae</cell>
   </row>
-  <row index="24">
+  <row index="40">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e638119e-en</cell>
+    <cell name="title">Unemployment rates remain low across the OECD countries (en)</cell>
+    <cell name="subtitle">Unemployment rate (percentage of labour force), seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ac4cf7a</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/0c27bca8-en</cell>
+    <cell name="title">AI has made the most progress in abilities that are required to perform non-routine, cognitive tasks (en)</cell>
+    <cell name="subtitle">Relative progress made by AI in relation to each ability, 2010‑15 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc5477ef</cell>
+  </row>
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1ed6db71-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -491,7 +851,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -500,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c3a2ed9</cell>
   </row>
-  <row index="25">
+  <row index="43">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a2afff9c-fr</cell>
     <cell name="title">France (fr)</cell>
@@ -511,7 +871,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -520,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f840eac</cell>
   </row>
-  <row index="26">
+  <row index="44">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2a82d670-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -531,7 +891,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -540,7 +900,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e4f9274</cell>
   </row>
-  <row index="27">
+  <row index="45">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2c488b24-en</cell>
+    <cell name="title">Social partners focus on AI’s impact at workplace levels (en)</cell>
+    <cell name="subtitle">Percentage of surveyed trade union and employer confederations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bc536bb</cell>
+  </row>
+  <row index="46">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aae5dba0-fr</cell>
     <cell name="title">Perspectives de l’emploi de l’OCDE 2023 (fr)</cell>
@@ -560,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/38fd2df7</cell>
   </row>
-  <row index="28">
+  <row index="47">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3013c36-en</cell>
     <cell name="title">Under pressure: Labour market and wage developments in OECD countries (en)</cell>
@@ -571,7 +951,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -580,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae5d8850</cell>
   </row>
-  <row index="29">
+  <row index="48">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c35af387-en</cell>
     <cell name="title">Social dialogue and collective bargaining in the age of artificial intelligence (en)</cell>
@@ -591,7 +971,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -600,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b540b8bf</cell>
   </row>
-  <row index="30">
+  <row index="49">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aae5dba0-fr</cell>
     <cell name="title">Perspectives de l’emploi de l’OCDE 2023 (fr)</cell>
@@ -611,16 +991,36 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
+    <cell name="oecd.org last export date">2023-07-11T20:31:08Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e313817f</cell>
   </row>
-  <row index="31">
+  <row index="50">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e169fdec-en</cell>
+    <cell name="title">Negotiated wages in OECD countries have declined in real terms (en)</cell>
+    <cell name="subtitle">Year-on-year percentage change in negotiated wages (i.e. resulting from collective agreements) (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c263e3b0</cell>
+  </row>
+  <row index="51">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aae5dba0-fr</cell>
     <cell name="title">Perspectives de l’emploi de l’OCDE 2023 (fr)</cell>
@@ -631,16 +1031,16 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
+    <cell name="oecd.org last export date">2023-07-11T20:31:08Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c62dff36</cell>
   </row>
-  <row index="32">
+  <row index="52">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0a37fd48-de</cell>
     <cell name="title">OECD-Beschäftigungsausblick 2023: Künstliche Intelligenz und der Arbeitsmarkt (Zusammenfassung) (de)</cell>
@@ -651,7 +1051,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -660,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fba91b63</cell>
   </row>
-  <row index="33">
+  <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/262d4383-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -671,7 +1071,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -680,7 +1080,87 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3469c55c</cell>
   </row>
-  <row index="34">
+  <row index="54">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ebb2bb1b-en</cell>
+    <cell name="title">AI has the potential to improve fairness in management, but not for all workers (en)</cell>
+    <cell name="subtitle">Percentage of AI users by change in perceived management fairness (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8101c1c3</cell>
+  </row>
+  <row index="55">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/df8fdc98-en</cell>
+    <cell name="title">Employee benefits and demand per economic sector in online job postings (en)</cell>
+    <cell name="subtitle">Average change in mentions of employee benefits and growth in online job postings (OJPs) per sector between December 2019 and December 2022. Bubbles’ size represents the sector’s share in total OJPs in both months (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0902eff5</cell>
+  </row>
+  <row index="56">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c334756c-en</cell>
+    <cell name="title">Negotiated wages in selected OECD countries, in real terms (en)</cell>
+    <cell name="subtitle">Year-on-year percentage change in negotiated wages (i.e. resulting from collective agreements), Q1 2018 to Q1 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13b1350a</cell>
+  </row>
+  <row index="57">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/28b295ef-en</cell>
+    <cell name="title">Highly educated white‑collar occupations are among the occupations with the highest exposure to AI (en)</cell>
+    <cell name="subtitle">Average exposure to AI across countries by occupation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dceb4bf2</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ed12478c-en</cell>
     <cell name="title">Statistical annex (en)</cell>
@@ -691,7 +1171,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -700,7 +1180,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01fbf007</cell>
   </row>
-  <row index="35">
+  <row index="59">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/8387ce59-en</cell>
+    <cell name="title">Core inflation has grown in many countries recently, as inflation has become more broad-based (en)</cell>
+    <cell name="subtitle">Inflation defined as annual percentage change in the Consumer price index (CPI), May 2023 or latest observation (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d251a94</cell>
+  </row>
+  <row index="60">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9c4e2faa-en</cell>
+    <cell name="title">Minimum wage evolution, January 2021 to May 2023 (en)</cell>
+    <cell name="subtitle">Nominal and real minimum wage, cumulative percentage change since December 2020, January 2021 to May 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/993e0385</cell>
+  </row>
+  <row index="61">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ed12478c-en</cell>
     <cell name="title">Statistical annex (en)</cell>
@@ -711,7 +1231,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -720,7 +1240,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e75386f</cell>
   </row>
-  <row index="36">
+  <row index="62">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/12d33479-en</cell>
+    <cell name="title">Inflation is slowly declining after reaching decades-high levels in many countries (en)</cell>
+    <cell name="subtitle">Inflation defined as the annual growth rate of Consumer Price Index (CPI) including all items (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2363eaff</cell>
+  </row>
+  <row index="63">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/dcee1445-en</cell>
+    <cell name="title">Employment rates have improved in most countries (en)</cell>
+    <cell name="subtitle">Percentage point change in employment rates among the working age population from Q4 2019 to Q1 2023, seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd7f662b</cell>
+  </row>
+  <row index="64">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8191d6d1-ja</cell>
     <cell name="title">OECD雇用見通し2023：　AIと労働市場 (エグゼクティブサマリー) (ja)</cell>
@@ -731,7 +1291,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -740,7 +1300,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbfaf48e</cell>
   </row>
-  <row index="37">
+  <row index="65">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/494903d9-en</cell>
+    <cell name="title">Unions’ responses to the AI transition mainly concentrate on raising voice and advising policy (en)</cell>
+    <cell name="subtitle">Percentage of surveyed trade union and employer confederations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a26a20bd</cell>
+  </row>
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/04b3d08d-en</cell>
     <cell name="title">Ensuring trustworthy artificial intelligence in the workplace: Countries’ policy action (en)</cell>
@@ -751,7 +1331,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -760,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39afaea2</cell>
   </row>
-  <row index="38">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/079c6ebb-de</cell>
     <cell name="title">Deutschland (de)</cell>
@@ -771,7 +1351,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -780,7 +1360,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf21cb4b</cell>
   </row>
-  <row index="39">
+  <row index="68">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/0f8ae9fa-en</cell>
+    <cell name="title">Countries with higher shares of manufacturing employment and routine tasks are still more at risk of automation (en)</cell>
+    <cell name="subtitle">Share of employment in occupations at the highest risk of automation by country, 2019 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3b80fd2</cell>
+  </row>
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -800,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fa870c7</cell>
   </row>
-  <row index="40">
+  <row index="70">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c1b51597-es</cell>
     <cell name="title">México (es)</cell>
@@ -811,7 +1411,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -820,7 +1420,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9413a482</cell>
   </row>
-  <row index="41">
+  <row index="71">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5e0999da-en</cell>
+    <cell name="title">Real wages are below pre‑pandemic levels, despite the recent nominal wage growth (en)</cell>
+    <cell name="subtitle">Changes in nominal and real hourly wages (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5cac4010</cell>
+  </row>
+  <row index="72">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f2d118bd-en</cell>
     <cell name="title">Canada (en)</cell>
@@ -831,7 +1451,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -840,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db26cbc1</cell>
   </row>
-  <row index="42">
+  <row index="73">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7327cedf-fr</cell>
     <cell name="title">Éditorial : Au-delà du battage médiatique autour de l’IA – Des divergences apparaissent sur le marché du travail (fr)</cell>
@@ -851,7 +1471,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -860,7 +1480,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64d4d35d</cell>
   </row>
-  <row index="43">
+  <row index="74">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/1f587f5b-en</cell>
+    <cell name="title">The low-skilled are still participating less in education and training activities (en)</cell>
+    <cell name="subtitle">Percentage of individuals participating in education and training activities in 2021 over a four‑weeks period, by education level (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/145600ea</cell>
+  </row>
+  <row index="75">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6f2e7321-en</cell>
+    <cell name="title">Average hours worked are close to pre‑pandemic levels in most OECD countries (en)</cell>
+    <cell name="subtitle">Percentage change between Q4 2019 and Q1 2023, seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfbdcbfa</cell>
+  </row>
+  <row index="76">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/11f81ef6-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -871,7 +1531,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -880,7 +1540,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4de1606d</cell>
   </row>
-  <row index="44">
+  <row index="77">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/cad93cf3-en</cell>
+    <cell name="title">Employers are most likely to address skill needs by retraining and upskilling existing workers (en)</cell>
+    <cell name="subtitle">Percentage of employers that reported that AI has changed skill needs in their company (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/19bfe7bf</cell>
+  </row>
+  <row index="78">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2a82d670-en</cell>
     <cell name="title">Italy (en)</cell>
@@ -891,7 +1571,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -900,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a181691b</cell>
   </row>
-  <row index="45">
+  <row index="79">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3013c36-en</cell>
     <cell name="title">Under pressure: Labour market and wage developments in OECD countries (en)</cell>
@@ -911,7 +1591,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -920,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ff75067</cell>
   </row>
-  <row index="46">
+  <row index="80">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/63bcc69a-en</cell>
     <cell name="title">Artificial intelligence and the labour market: Introduction (en)</cell>
@@ -931,7 +1611,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -940,7 +1620,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4236b1e</cell>
   </row>
-  <row index="47">
+  <row index="81">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/03be7a14-en</cell>
+    <cell name="title">Mentions of employment benefits increased (en)</cell>
+    <cell name="subtitle">Average of the change of online job postings offering selected benefits by industry, percentage points (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b1d4cfc</cell>
+  </row>
+  <row index="82">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/079c6ebb-de</cell>
     <cell name="title">Deutschland (de)</cell>
@@ -951,7 +1651,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -960,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d1b4952</cell>
   </row>
-  <row index="48">
+  <row index="83">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/262d4383-en</cell>
     <cell name="title">Korea (en)</cell>
@@ -971,7 +1671,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -980,7 +1680,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc20528d</cell>
   </row>
-  <row index="49">
+  <row index="84">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/48ca7a0c-en</cell>
+    <cell name="title">Most workers and employers see the value of written policies on the ethical use of AI (en)</cell>
+    <cell name="subtitle">Percentage of respondents in favour of a written policy on the ethical use of AI/bots (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/639373c5</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a10ff17e-en</cell>
+    <cell name="title">Nominal wage growth has picked up but does not seem to be accelerating significantly (en)</cell>
+    <cell name="subtitle">Year-on-year percentage changes, from Q2 2022 to Q1 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1b27a7a2</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2075d4e1-en</cell>
+    <cell name="title">Price and income support policies remain sizeable but largely untargeted (en)</cell>
+    <cell name="subtitle">Cost of energy-related fiscal support by type of measure, USD billion, calculated using 2022 bilateral exchange rates (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42003bda</cell>
+  </row>
+  <row index="87">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8191d6d1-ja</cell>
     <cell name="title">OECD雇用見通し2023：　AIと労働市場 (エグゼクティブサマリー) (ja)</cell>
@@ -991,7 +1751,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1000,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73e87e3e</cell>
   </row>
-  <row index="50">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c3e9dff6-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -1011,7 +1771,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1020,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27c2230c</cell>
   </row>
-  <row index="51">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f6705504-en</cell>
     <cell name="title">Japan (en)</cell>
@@ -1031,7 +1791,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1040,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0137791c</cell>
   </row>
-  <row index="52">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/18976028-it</cell>
     <cell name="title">Italia (it)</cell>
@@ -1051,7 +1811,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1060,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53c4b4c9</cell>
   </row>
-  <row index="53">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c3e9dff6-en</cell>
     <cell name="title">Australia (en)</cell>
@@ -1071,7 +1831,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1080,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b4454c5</cell>
   </row>
-  <row index="54">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08785bba-en</cell>
     <cell name="title">OECD Employment Outlook 2023 (en)</cell>
@@ -1091,16 +1851,56 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-07-10T20:29:02Z</cell>
+    <cell name="oecd.org last export date">2023-07-11T20:31:08Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3abacdf0</cell>
   </row>
-  <row index="55">
+  <row index="93">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a6dd0753-en</cell>
+    <cell name="title">Both men and women have been affected by the cost-of-living crisis (en)</cell>
+    <cell name="subtitle">Percentage change between Q4 2019 and Q4 2022 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17596d33</cell>
+  </row>
+  <row index="94">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3f3a66ae-en</cell>
+    <cell name="title">Representative workers’ voice and AI’s impacts on risks relating to working conditions (en)</cell>
+    <cell name="subtitle">Marginal effects, i.e. percentage change in the probability of outcome variable following a discrete change in the relevant explanatory variable (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fa0ca4c</cell>
+  </row>
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c35af387-en</cell>
     <cell name="title">Social dialogue and collective bargaining in the age of artificial intelligence (en)</cell>
@@ -1111,7 +1911,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1120,7 +1920,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deaf4254</cell>
   </row>
-  <row index="56">
+  <row index="96">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/602a1903-en</cell>
+    <cell name="title">Employers that consult workers or worker representatives are more likely to report positive impacts of AI on worker productivity and working conditions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92ded6cd</cell>
+  </row>
+  <row index="97">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c6762c67-ko</cell>
     <cell name="title">대한민국 (ko)</cell>
@@ -1131,7 +1951,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1140,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6af059c6</cell>
   </row>
-  <row index="57">
+  <row index="98">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7ab7a37a-en</cell>
     <cell name="title">Key facts and figures (infographic) (en)</cell>
@@ -1151,7 +1971,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1160,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f746ccd</cell>
   </row>
-  <row index="58">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9a9f42df-ja</cell>
     <cell name="title">日本 (ja)</cell>
@@ -1171,7 +1991,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1180,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0293b2f</cell>
   </row>
-  <row index="59">
+  <row index="100">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34f4cc8d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1191,7 +2011,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1200,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee3cb784</cell>
   </row>
-  <row index="60">
+  <row index="101">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3a48e05-es</cell>
     <cell name="title">España (es)</cell>
@@ -1211,7 +2031,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1220,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7153699f</cell>
   </row>
-  <row index="61">
+  <row index="102">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2d8aff03-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1231,7 +2051,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1240,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f23f800</cell>
   </row>
-  <row index="62">
+  <row index="103">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/18976028-it</cell>
     <cell name="title">Italia (it)</cell>
@@ -1251,7 +2071,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1260,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f25057b</cell>
   </row>
-  <row index="63">
+  <row index="104">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/867be7a1-fr</cell>
     <cell name="title">Canada (fr)</cell>
@@ -1271,7 +2091,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1280,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f770466</cell>
   </row>
-  <row index="64">
+  <row index="105">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/99c4c123-en</cell>
     <cell name="title">Artificial intelligence, job quality and inclusiveness (en)</cell>
@@ -1291,7 +2111,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1300,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b24fd20b</cell>
   </row>
-  <row index="65">
+  <row index="106">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/dd8897f0-fr</cell>
     <cell name="title">Intelligence artificielle et marché du travail : introduction (fr)</cell>
@@ -1311,7 +2131,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1320,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8aa337a</cell>
   </row>
-  <row index="66">
+  <row index="107">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c6762c67-ko</cell>
     <cell name="title">대한민국 (ko)</cell>
@@ -1331,7 +2151,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1340,7 +2160,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d249d105</cell>
   </row>
-  <row index="67">
+  <row index="108">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/bc3839d1-en</cell>
+    <cell name="title">Temporary employment has declined among new hires (en)</cell>
+    <cell name="subtitle">Percentage share of new hires with a temporary contract (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55a4a0d0</cell>
+  </row>
+  <row index="109">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3cd72484-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -1351,7 +2191,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1360,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47bb65b4</cell>
   </row>
-  <row index="68">
+  <row index="110">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/029fdfa9-en</cell>
     <cell name="title">United States (en)</cell>
@@ -1371,7 +2211,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1380,7 +2220,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fde2ba50</cell>
   </row>
-  <row index="69">
+  <row index="111">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/17da73d0-en</cell>
+    <cell name="title">The pace of work of subordinates increases with algorithmic management (en)</cell>
+    <cell name="subtitle">Percentage of AI users, by interaction with AI and change in the pace of work (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9681440a</cell>
+  </row>
+  <row index="112">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/04b3d08d-en</cell>
     <cell name="title">Ensuring trustworthy artificial intelligence in the workplace: Countries’ policy action (en)</cell>
@@ -1391,7 +2251,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1400,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/344c8c2a</cell>
   </row>
-  <row index="70">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c0d37822-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -1411,7 +2271,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1420,7 +2280,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e55a156</cell>
   </row>
-  <row index="71">
+  <row index="114">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f60d3501-en</cell>
+    <cell name="title">Liability for damage caused by AI is one of the key barriers to AI adoption by EU businesses (en)</cell>
+    <cell name="subtitle">Percentage of enterprises who responded that a specific barrier is applicable to their business (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/352832df</cell>
+  </row>
+  <row index="115">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/8d864945-en</cell>
+    <cell name="title">Algorithmic management impacts subordinates’ sense of control over their tasks (en)</cell>
+    <cell name="subtitle">Percentage of AI users, by interaction with AI and change in own work autonomy (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/058a8d57</cell>
+  </row>
+  <row index="116">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/e3ec53d5-en</cell>
+    <cell name="title">Employers think that workers with disabilities are likely to be helped by AI, while older and low-skilled workers could face some harm (en)</cell>
+    <cell name="subtitle">Percentage of all employers (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2a6f518</cell>
+  </row>
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/638df49a-en</cell>
     <cell name="title">Skill needs and policies in the age of artificial intelligence (en)</cell>
@@ -1431,7 +2351,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1440,7 +2360,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b745ed5</cell>
   </row>
-  <row index="72">
+  <row index="118">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2c5bee01-en</cell>
+    <cell name="title">GDP growth slowed down over the course in the past year (en)</cell>
+    <cell name="subtitle">Real GDP indexed to 100 in Q4 2019, seasonally adjusted, selected OECD countries (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/238deec5</cell>
+  </row>
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1ed6db71-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1451,7 +2391,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1460,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/733ef251</cell>
   </row>
-  <row index="73">
+  <row index="120">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9c86de40-en</cell>
     <cell name="title">Artificial intelligence and jobs: No signs of slowing labour demand (yet) (en)</cell>
@@ -1471,7 +2411,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1480,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95eb1ff9</cell>
   </row>
-  <row index="74">
+  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0a37fd48-de</cell>
     <cell name="title">OECD-Beschäftigungsausblick 2023: Künstliche Intelligenz und der Arbeitsmarkt (Zusammenfassung) (de)</cell>
@@ -1491,7 +2431,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1500,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0392b7e2</cell>
   </row>
-  <row index="75">
+  <row index="122">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9c86de40-en</cell>
     <cell name="title">Artificial intelligence and jobs: No signs of slowing labour demand (yet) (en)</cell>
@@ -1511,7 +2451,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1520,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccbc6e96</cell>
   </row>
-  <row index="76">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/dd8897f0-fr</cell>
     <cell name="title">Intelligence artificielle et marché du travail : introduction (fr)</cell>
@@ -1531,7 +2471,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1540,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/174c7f7f</cell>
   </row>
-  <row index="77">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0e477061-es</cell>
     <cell name="title">Perspectivas de empleo de la OCDE 2023 : La inteligencia artificial y el mercado laboral (Resumen ejecutivo) (es)</cell>
@@ -1551,7 +2491,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1560,7 +2500,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d44b48af</cell>
   </row>
-  <row index="78">
+  <row index="125">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/219f4578-en</cell>
+    <cell name="title">Impact of a 1% increase in the minimum wage on aggregate wages (en)</cell>
+    <cell name="subtitle">Percentage change in aggregate wages (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02b25037</cell>
+  </row>
+  <row index="126">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/8d04b950-en</cell>
+    <cell name="title">Inactivity rates are below pre‑crisis levels in most OECD countries (en)</cell>
+    <cell name="subtitle">Percentage point change in inactivity rates among the working age population from Q4 2019 to Q1 2023, seasonally adjusted (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cf2941c</cell>
+  </row>
+  <row index="127">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/99c4c123-en</cell>
     <cell name="title">Artificial intelligence, job quality and inclusiveness (en)</cell>
@@ -1571,7 +2551,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1580,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7d50200</cell>
   </row>
-  <row index="79">
+  <row index="128">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/11f81ef6-en</cell>
     <cell name="title">Mexico (en)</cell>
@@ -1591,7 +2571,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1600,7 +2580,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/79eddbb2</cell>
   </row>
-  <row index="80">
+  <row index="129">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/46fb1135-en</cell>
+    <cell name="title">In some OECD countries, employers are offering more benefits in job postings amid tight labour markets (en)</cell>
+    <cell name="subtitle">Percentage share of online job postings offering each benefit in Canada, the United Kingdom and the United States (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b8fdb4b</cell>
+  </row>
+  <row index="130">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/9e1ecbcd-en</cell>
+    <cell name="title">The occupations most at risk of automation are quite different from occupations most exposed to artificial intelligence (en)</cell>
+    <cell name="subtitle">Occupations most and least at risk of automation including AI and other automation technologies, 2021 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe29eb26</cell>
+  </row>
+  <row index="131">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0e477061-es</cell>
     <cell name="title">Perspectivas de empleo de la OCDE 2023 : La inteligencia artificial y el mercado laboral (Resumen ejecutivo) (es)</cell>
@@ -1611,7 +2631,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1620,7 +2640,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a55bfe6e</cell>
   </row>
-  <row index="81">
+  <row index="132">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2223fff3-en</cell>
+    <cell name="title">Representative workers’ voice is associated with mitigating AI’s impacts on risks relating to working conditions, but causality remains unclear – OLS estimates (en)</cell>
+    <cell name="subtitle">OLS regression coefficients expressed in percentage change (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ae27a1e</cell>
+  </row>
+  <row index="133">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a323d88f-en</cell>
+    <cell name="title">Changes in real wages by industry and country (en)</cell>
+    <cell name="subtitle">Percentage change in real hourly wages (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/504b6a3b</cell>
+  </row>
+  <row index="134">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5f46e70c-en</cell>
     <cell name="title">Spain (en)</cell>
@@ -1631,7 +2691,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1640,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f9ce75e</cell>
   </row>
-  <row index="82">
+  <row index="135">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d846fe48-en</cell>
     <cell name="title">Germany (en)</cell>
@@ -1651,7 +2711,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1660,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc822678</cell>
   </row>
-  <row index="83">
+  <row index="136">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c1b51597-es</cell>
     <cell name="title">México (es)</cell>
@@ -1671,7 +2731,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1680,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40218730</cell>
   </row>
-  <row index="84">
+  <row index="137">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0e4b275f-fr</cell>
     <cell name="title">Faits et chiffres clés (infographie) (fr)</cell>
@@ -1691,7 +2751,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1700,7 +2760,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/777b8127</cell>
   </row>
-  <row index="85">
+  <row index="138">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/8b801920-en</cell>
+    <cell name="title">Representative workers’ voice is associated with mitigating AI’s impacts on risks relating to working conditions, but causality remains unclear (en)</cell>
+    <cell name="subtitle">Marginal effects, i.e. percentage change in the probability of outcome variable following a discrete change in the relevant explanatory variable (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1efd0d03</cell>
+  </row>
+  <row index="139">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7327cedf-fr</cell>
     <cell name="title">Éditorial : Au-delà du battage médiatique autour de l’IA – Des divergences apparaissent sur le marché du travail (fr)</cell>
@@ -1711,7 +2791,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1720,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62b94a21</cell>
   </row>
-  <row index="86">
+  <row index="140">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/867be7a1-fr</cell>
     <cell name="title">Canada (fr)</cell>
@@ -1731,7 +2811,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1740,7 +2820,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8af352a9</cell>
   </row>
-  <row index="87">
+  <row index="141">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/aae5dba0-fr</cell>
+    <cell name="title">Perspectives de l’emploi de l’OCDE 2023 (fr)</cell>
+    <cell name="subtitle">Intelligence artificielle et marché du travail (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-07-11</cell>
+    <cell name="embargo date">2023-07-11T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2020bce</cell>
+  </row>
+  <row index="142">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34f4cc8d-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1751,7 +2851,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T15:23:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1760,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78cf6405</cell>
   </row>
-  <row index="88">
+  <row index="143">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c0d37822-en</cell>
     <cell name="title">United Kingdom (en)</cell>
@@ -1771,7 +2871,7 @@
     <cell name="date of publication">2023-07-11</cell>
     <cell name="embargo date">2023-07-11T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-10T20:59:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1780,27 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d782f6cf</cell>
   </row>
-  <row index="89">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/3269532b-en</cell>
-    <cell name="title">Africa's Development Dynamics 2023 (en)</cell>
-    <cell name="subtitle">Investing in Sustainable Development (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2023-07-07</cell>
-    <cell name="embargo date">2023-07-17T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6428d2af</cell>
-  </row>
-  <row index="90">
+  <row index="144">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4fc33451-en</cell>
     <cell name="title">G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 (en)</cell>
@@ -1820,7 +2900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c97193f8</cell>
   </row>
-  <row index="91">
+  <row index="145">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/268825db-fr</cell>
     <cell name="title">Mise à jour 2023 de la feuille de route G20/OCDE sur les pays en développement et la fiscalité internationale (fr)</cell>
@@ -1840,7 +2920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb965d91</cell>
   </row>
-  <row index="92">
+  <row index="146">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/37292361-en</cell>
     <cell name="title">Enhancing International Tax Transparency on Real Estate (en)</cell>
@@ -1860,7 +2940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a61e57f7</cell>
   </row>
-  <row index="93">
+  <row index="147">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9afd6856-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Subject to Tax Rule (Pillar Two) (en)</cell>
@@ -1880,7 +2960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da25d0a0</cell>
   </row>
-  <row index="94">
+  <row index="148">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5449efb4-fr</cell>
     <cell name="title">Renforcer la transparence fiscale internationale dans le secteur de l’immobilier (fr)</cell>
@@ -1900,7 +2980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e42202ca</cell>
   </row>
-  <row index="95">
+  <row index="149">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9afd6856-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Subject to Tax Rule (Pillar Two) (en)</cell>
@@ -1920,7 +3000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74e6f588</cell>
   </row>
-  <row index="96">
+  <row index="150">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4607b7c7-en</cell>
     <cell name="title">SIGI 2023 Global Report (en)</cell>
@@ -1940,7 +3020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d168860e</cell>
   </row>
-  <row index="97">
+  <row index="151">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/4607b7c7-en</cell>
     <cell name="title">SIGI 2023 Global Report (en)</cell>
@@ -1960,7 +3040,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ba15461</cell>
   </row>
-  <row index="98">
+  <row index="152">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/04e682d7-en</cell>
+    <cell name="title">How does corporate taxation affect business investment? (en)</cell>
+    <cell name="subtitle">Evidence from aggregate and firm-level data (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-07-19</cell>
+    <cell name="embargo date">2023-07-19T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-07-11T20:31:08Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fef0b9b1</cell>
+  </row>
+  <row index="153">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ddc3d41d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2023 (Second Round, Supplementary Report) (en)</cell>
@@ -1980,7 +3080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/957e69c5</cell>
   </row>
-  <row index="99">
+  <row index="154">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cff0754d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2023 (Second Round, Combined Review) (en)</cell>
@@ -2000,7 +3100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbbb9cc7</cell>
   </row>
-  <row index="100">
+  <row index="155">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cd387436-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Lesotho 2023 (Second Round, Phase 1) (en)</cell>
@@ -2020,7 +3120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba2ec59e</cell>
   </row>
-  <row index="101">
+  <row index="156">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07edaf33-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Paraguay 2023 (Second Round, Phase 1) (en)</cell>
@@ -2040,7 +3140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95fa3261</cell>
   </row>
-  <row index="102">
+  <row index="157">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e1842f2b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Greenland 2023 (Second Round) (en)</cell>
@@ -2060,7 +3160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51b38624</cell>
   </row>
-  <row index="103">
+  <row index="158">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df906926-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2023 (Second Round) (en)</cell>
@@ -2080,7 +3180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f7a44e3</cell>
   </row>
-  <row index="104">
+  <row index="159">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/df906926-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2023 (Second Round) (en)</cell>
@@ -2100,7 +3200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2842735</cell>
   </row>
-  <row index="105">
+  <row index="160">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f74baa49-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2023 (Second Round) (en)</cell>
@@ -2120,7 +3220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5794781e</cell>
   </row>
-  <row index="106">
+  <row index="161">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e1842f2b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Greenland 2023 (Second Round) (en)</cell>
@@ -2140,7 +3240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fd42105</cell>
   </row>
-  <row index="107">
+  <row index="162">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cff0754d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2023 (Second Round, Combined Review) (en)</cell>
@@ -2160,7 +3260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aecfd930</cell>
   </row>
-  <row index="108">
+  <row index="163">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cd387436-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Lesotho 2023 (Second Round, Phase 1) (en)</cell>
@@ -2180,7 +3280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d582b4e</cell>
   </row>
-  <row index="109">
+  <row index="164">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/07edaf33-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Paraguay 2023 (Second Round, Phase 1) (en)</cell>
@@ -2200,7 +3300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ae2fafa</cell>
   </row>
-  <row index="110">
+  <row index="165">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/306bc415-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Faroe Islands 2023 (Second Round) (en)</cell>
@@ -2220,7 +3320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/256e2ee6</cell>
   </row>
-  <row index="111">
+  <row index="166">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8051e38-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2023 (Second Round, Supplementary Report) (en)</cell>
@@ -2240,7 +3340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52044e93</cell>
   </row>
-  <row index="112">
+  <row index="167">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f74baa49-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2023 (Second Round) (en)</cell>
@@ -2260,7 +3360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47dd4169</cell>
   </row>
-  <row index="113">
+  <row index="168">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ddc3d41d-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2023 (Second Round, Supplementary Report) (en)</cell>
@@ -2280,7 +3380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e769c213</cell>
   </row>
-  <row index="114">
+  <row index="169">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/306bc415-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Faroe Islands 2023 (Second Round) (en)</cell>
@@ -2300,7 +3400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f394ef36</cell>
   </row>
-  <row index="115">
+  <row index="170">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f6d0eaf4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Vincent and the Grenadines 2023 (Second Round) (en)</cell>
@@ -2320,7 +3420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6794c17b</cell>
   </row>
-  <row index="116">
+  <row index="171">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8051e38-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2023 (Second Round, Supplementary Report) (en)</cell>
@@ -2340,7 +3440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93b1b998</cell>
   </row>
-  <row index="117">
+  <row index="172">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f6d0eaf4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Vincent and the Grenadines 2023 (Second Round) (en)</cell>
@@ -2360,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6ec151a</cell>
   </row>
-  <row index="118">
+  <row index="173">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6cb4aa1-en</cell>
     <cell name="title">Driving Policy Coherence for Sustainable Development (en)</cell>
@@ -2371,7 +3471,7 @@
     <cell name="date of publication">2023-07-19</cell>
     <cell name="embargo date">2023-07-19T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-05T21:01:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-07-06T20:38:53Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -2380,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a02ce976</cell>
   </row>
-  <row index="119">
+  <row index="174">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6cb4aa1-en</cell>
     <cell name="title">Driving Policy Coherence for Sustainable Development (en)</cell>
@@ -2400,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a504a4de</cell>
   </row>
-  <row index="120">
+  <row index="175">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/234cfd68-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2420,18 +3520,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bfec9f9</cell>
   </row>
-  <row index="121">
+  <row index="176">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6cb4aa1-en</cell>
     <cell name="title">Driving Policy Coherence for Sustainable Development (en)</cell>
     <cell name="subtitle">Accelerating Progress on the SDGs (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2023-07-19</cell>
     <cell name="embargo date">2023-07-19T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -2440,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8007685b</cell>
   </row>
-  <row index="122">
+  <row index="177">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d598306-en</cell>
     <cell name="title">The institutionalisation of policy coherence: An overview of challenges and trends (en)</cell>
@@ -2460,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5801762</cell>
   </row>
-  <row index="123">
+  <row index="178">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/18092500-en</cell>
     <cell name="title">Country examples of management tools and governance instruments for policy coherence in the Ocean economy (en)</cell>
@@ -2480,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83cbbddd</cell>
   </row>
-  <row index="124">
+  <row index="179">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/234cfd68-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2500,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e944128c</cell>
   </row>
-  <row index="125">
+  <row index="180">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/786d7c13-en</cell>
     <cell name="title">Developing policy coherence frameworks for a sustainable use of ocean resources (en)</cell>
@@ -2520,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2df212b3</cell>
   </row>
-  <row index="126">
+  <row index="181">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6cb4aa1-en</cell>
     <cell name="title">Driving Policy Coherence for Sustainable Development (en)</cell>
@@ -2531,7 +3631,7 @@
     <cell name="date of publication">2023-07-19</cell>
     <cell name="embargo date">2023-07-19T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-05T21:01:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-07-06T20:38:53Z</cell>
     <cell name="discoveryservice last export date"/>
@@ -2540,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6c4b5d0</cell>
   </row>
-  <row index="127">
+  <row index="182">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d88cdb33-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2560,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/943862d6</cell>
   </row>
-  <row index="128">
+  <row index="183">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/a6cb4aa1-en</cell>
     <cell name="title">Driving Policy Coherence for Sustainable Development (en)</cell>
@@ -2571,7 +3671,7 @@
     <cell name="date of publication">2023-07-19</cell>
     <cell name="embargo date">2023-07-19T12:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-07-05T21:01:26Z</cell>
+    <cell name="ilibrary last export date">2023-07-11T20:57:39Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -2580,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c285253</cell>
   </row>
-  <row index="129">
+  <row index="184">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1938f47c-en</cell>
     <cell name="title">Addressing global and transboundary challenges: The role of policy coherence (en)</cell>
@@ -2600,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f551cc0</cell>
   </row>
-  <row index="130">
+  <row index="185">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3d598306-en</cell>
     <cell name="title">The institutionalisation of policy coherence: An overview of challenges and trends (en)</cell>
@@ -2620,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c7f4abe</cell>
   </row>
-  <row index="131">
+  <row index="186">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d88cdb33-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2640,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f15403e7</cell>
   </row>
-  <row index="132">
+  <row index="187">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/786d7c13-en</cell>
     <cell name="title">Developing policy coherence frameworks for a sustainable use of ocean resources (en)</cell>
@@ -2660,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b510bc83</cell>
   </row>
-  <row index="133">
+  <row index="188">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/18092500-en</cell>
     <cell name="title">Country examples of management tools and governance instruments for policy coherence in the Ocean economy (en)</cell>
@@ -2680,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ef3f8b0</cell>
   </row>
-  <row index="134">
+  <row index="189">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/1938f47c-en</cell>
     <cell name="title">Addressing global and transboundary challenges: The role of policy coherence (en)</cell>
@@ -2700,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2595d964</cell>
   </row>
-  <row index="135">
+  <row index="190">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -2720,7 +3820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5659d1ea</cell>
   </row>
-  <row index="136">
+  <row index="191">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ec94fd4e-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Costa Rica 2023 (en)</cell>
@@ -2740,7 +3840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4eb8c4b1</cell>
   </row>
-  <row index="137">
+  <row index="192">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9f5b0524-en</cell>
     <cell name="title">Towards a Child-friendly Justice System in Egypt (en)</cell>
@@ -2760,7 +3860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ca77b0e</cell>
   </row>
-  <row index="138">
+  <row index="193">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/9f5b0524-en</cell>
     <cell name="title">Towards a Child-friendly Justice System in Egypt (en)</cell>
@@ -2780,7 +3880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b995bfec</cell>
   </row>
-  <row index="139">
+  <row index="194">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e7ea496f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2023 (en)</cell>
@@ -2800,7 +3900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a11ffedf</cell>
   </row>
-  <row index="140">
+  <row index="195">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e7ea496f-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2023 (en)</cell>
@@ -2820,7 +3920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58328891</cell>
   </row>
-  <row index="141">
+  <row index="196">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -2840,7 +3940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/387ff9a2</cell>
   </row>
-  <row index="142">
+  <row index="197">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -2860,7 +3960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61b9c572</cell>
   </row>
-  <row index="143">
+  <row index="198">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -2880,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
   </row>
-  <row index="144">
+  <row index="199">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2900,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
   </row>
-  <row index="145">
+  <row index="200">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2920,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
   </row>
-  <row index="146">
+  <row index="201">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2940,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
   </row>
-  <row index="147">
+  <row index="202">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -2960,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
   </row>
-  <row index="148">
+  <row index="203">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -2980,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
   </row>
-  <row index="149">
+  <row index="204">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -3000,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
   </row>
-  <row index="150">
+  <row index="205">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -3020,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
   </row>
-  <row index="151">
+  <row index="206">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -3040,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
   </row>
-  <row index="152">
+  <row index="207">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -3060,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
   </row>
-  <row index="153">
+  <row index="208">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4e3684a9-it</cell>
     <cell name="title">Sintesi (it)</cell>
@@ -3080,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
   </row>
-  <row index="154">
+  <row index="209">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -3100,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
   </row>
-  <row index="155">
+  <row index="210">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -3120,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
   </row>
-  <row index="156">
+  <row index="211">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3140,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
   </row>
-  <row index="157">
+  <row index="212">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3160,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
   </row>
-  <row index="158">
+  <row index="213">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -3180,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
   </row>
-  <row index="159">
+  <row index="214">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3200,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
   </row>
-  <row index="160">
+  <row index="215">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3220,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
   </row>
-  <row index="161">
+  <row index="216">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
@@ -3240,7 +4340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ee1bdb0</cell>
   </row>
-  <row index="162">
+  <row index="217">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
