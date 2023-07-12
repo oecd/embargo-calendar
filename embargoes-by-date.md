@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 July 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 July 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 July 2023](#10-july-2023)
 * [11 July 2023](#11-july-2023)
+* [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
 * [18 July 2023](#18-july-2023)
 * [19 July 2023](#19-july-2023)
@@ -14,79 +14,6 @@ Data generated on | |
 * [13 September 2023](#13-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 10 July 2023
-
-## [COVID-19 and productivity-enhancing digitalisation: Firm-level evidence from Slovenia](https://doi.org/10.1787/5f7e9340-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Improving the business regulatory environment in Poland](https://doi.org/10.1787/caa5b5cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 July 2023 at 23:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digitalisation and the labour market: Worker-level evidence from Slovenia](https://doi.org/10.1787/d2bb40db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -140,53 +67,34 @@ Tuesday 11 July 2023 at 9:00 | no launch event
 
 ------
 
-# 17 July 2023
+# 15 July 2023
 
-## [G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 - OECD Report to the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/4fc33451-en)
+## [Putting AI to the test - How does the performance of GPT and 15-year-old students in PISA compare?](https://doi.org/10.1787/2c297e0b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 July 2023 at 9:00 | no launch event
+Saturday 15 July 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
 
-## [Mise à jour 2023 de la feuille de route G20/OCDE sur les pays en développement et la fiscalité internationale - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/268825db-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
 ------
+
+# 17 July 2023
 
 ## [Enhancing International Tax Transparency on Real Estate - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/37292361-en)
 
@@ -197,15 +105,38 @@ Monday 17 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 - OECD Report to the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/4fc33451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -220,15 +151,15 @@ Monday 17 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -242,18 +173,41 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Mise à jour 2023 de la feuille de route G20/OCDE sur les pays en développement et la fiscalité internationale - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/268825db-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -269,7 +223,7 @@ Tuesday 18 July 2023 at 15:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
