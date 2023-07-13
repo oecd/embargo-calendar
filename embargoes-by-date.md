@@ -2,68 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 12 July 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 July 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 July 2023](#11-july-2023)
 * [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
 * [18 July 2023](#18-july-2023)
 * [19 July 2023](#19-july-2023)
 * [20 July 2023](#20-july-2023)
+* [21 July 2023](#21-july-2023)
 * [25 July 2023](#25-july-2023)
 * [13 September 2023](#13-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 11 July 2023
-
-## [Perspectives de l’emploi de l’OCDE 2023 - Intelligence artificielle et marché du travail](https://doi.org/10.1787/aae5dba0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 17:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Employment Outlook 2023 - Artificial Intelligence and the Labour Market](https://doi.org/10.1787/08785bba-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 17:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -104,16 +54,16 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -127,18 +77,41 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Les défis fiscaux soulevés par la numérisation de l'économie – Règle d'assujettissement à l'impôt (Pilier Deux) - Cadre inclusif sur le BEPS](https://doi.org/10.1787/3e2b7345-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 July 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -150,16 +123,16 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -174,9 +147,9 @@ Monday 17 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
@@ -196,16 +169,16 @@ Monday 17 July 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -214,6 +187,29 @@ Monday 17 July 2023 at 12:00 | no launch event
 ------
 
 # 18 July 2023
+
+## [Financing Cities of Tomorrow - G20/OECD Report for the G20 Infrastructure Working Group under the Indian Presidency](https://doi.org/10.1787/51bd124a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 July 2023 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [SIGI 2023 Global Report - Gender Equality in Times of Crisis](https://doi.org/10.1787/4607b7c7-en)
 
@@ -273,16 +269,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -296,16 +292,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -319,16 +315,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -342,16 +338,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -365,16 +361,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -388,16 +384,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -411,16 +407,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -434,16 +430,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -457,16 +453,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -480,16 +476,16 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -547,6 +543,33 @@ Thursday 20 July 2023 at 7:00 | no launch event
 
 ------
 
+# 21 July 2023
+
+## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 July 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
 # 25 July 2023
 
 ## [Towards a Child-friendly Justice System in Egypt - Implementing the Sustainable Development Goals](https://doi.org/10.1787/9f5b0524-en)
@@ -557,22 +580,22 @@ Tuesday 25 July 2023 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
-## [Revenue Statistics in Asia and the Pacific 2023 - Strengthening Property Taxation in Developing Asia](https://doi.org/10.1787/e7ea496f-en)
+## [Revenue Statistics in Asia and the Pacific 2023 - Strengthening Property Taxation in Asia](https://doi.org/10.1787/e7ea496f-en)
 
 Embargo date | Launch date
 -------------|:------------:
