@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 July 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 July 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
@@ -30,7 +30,7 @@ Saturday 15 July 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Friday 14 July 2023 at 22:28
 
 ### Additional Information
 

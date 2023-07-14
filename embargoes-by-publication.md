@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 July 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 14 July 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Putting AI to the test - How does the performance of GPT and 15-year-old students in PISA compare?](https://doi.org/10.1787/2c297e0b-en)
 
@@ -15,7 +15,7 @@ Saturday 15 July 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 July 2023 at 22:32
+- [x] Exported to OECD.org Friday 14 July 2023 at 22:28
 
 ### Additional Information
 
