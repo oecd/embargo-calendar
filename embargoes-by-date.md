@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 July 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 16 July 2023 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
@@ -30,7 +30,7 @@ Saturday 15 July 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 July 2023 at 22:28
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -57,7 +57,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -80,7 +80,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -103,7 +103,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -126,7 +126,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -149,7 +149,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
@@ -172,7 +172,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
 
 ### Additional Information
 
