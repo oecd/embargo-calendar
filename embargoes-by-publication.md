@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 July 2023 at 21:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 16 July 2023 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Putting AI to the test - How does the performance of GPT and 15-year-old students in PISA compare?](https://doi.org/10.1787/2c297e0b-en)
 

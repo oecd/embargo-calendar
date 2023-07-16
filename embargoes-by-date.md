@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 July 2023 at 21:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 16 July 2023 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
