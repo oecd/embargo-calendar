@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/2c297e0b-end3e63
-SUMMARY:[Paper] Putting AI to the test - How doe
- s the performance of GPT and 15-year-old
-  students in PISA compare?
-DESCRIPTION:*[Paper] Putting AI to the test - How do
- es the performance of GPT and 15-year-ol
- d students in PISA compare?*\n\nDirector
- ate: Directorate for Education and Skill
- s\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/2c297e0b-en\nPublication type
- : Paper\nReleased as: PDF\n\nEmbargo dat
- e/time: Saturday, 15 July 2023, 7:00 (GM
- T)\n\n\niLibrary export: Wednesday, 12 J
- uly 2023, 20:58 (GMT)\nFreepreview expor
- t: never\nOECD.org export: Sunday, 16 Ju
- ly 2023, 18:47 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 23:01, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=2c297e0b-en.
-DTSTAMP:20230716T230214Z
-DTSTART:20230715T070000Z
-DTEND:20230715T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Putting AI to the test
-  - How does the performance of GPT and 1
- 5-year-old students in PISA compare?
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/37292361-end3e120
+UID:10.1787/37292361-end3e63
 SUMMARY:[Report] Enhancing International Tax Tra
  nsparency on Real Estate - OECD Report t
  o G20 Finance Ministers and Central Bank
@@ -61,12 +18,12 @@ DESCRIPTION:*[Report] Enhancing International Tax Tr
  day, 17 July 2023, 12:00 (GMT)\n\n\niLib
  rary export: Thursday, 13 July 2023, 21:
  01 (GMT)\nFreepreview export: never\nOEC
- D.org export: Sunday, 16 July 2023, 18:4
- 7 (GMT)\nFTI loaded: ✓\n\nFor more infor
+ D.org export: Monday, 17 July 2023, 20:3
+ 2 (GMT)\nFTI loaded: ✓\n\nFor more infor
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:01, i
+ correct as of this afternoon at 23:23, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -75,7 +32,7 @@ DESCRIPTION:*[Report] Enhancing International Tax Tr
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=37292361-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -91,7 +48,7 @@ DESCRIPTION:Reminder: [Report] Enhancing Internation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fc33451-end3e283
+UID:10.1787/4fc33451-end3e225
 SUMMARY:[Report] G20/OECD Roadmap on Developing 
  Countries and International Taxation Upd
  ate 2023 - OECD Report to the G20 Financ
@@ -108,12 +65,12 @@ DESCRIPTION:*[Report] G20/OECD Roadmap on Developing
   2023, 12:00 (GMT)\n\n\niLibrary export:
   Thursday, 13 July 2023, 21:01 (GMT)\nFr
  eepreview export: never\nOECD.org export
- : Sunday, 16 July 2023, 18:47 (GMT)\nFTI
+ : Monday, 17 July 2023, 20:32 (GMT)\nFTI
   loaded: ✓\n\nFor more information see: 
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:01, it is updated
+ f this afternoon at 23:23, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -122,7 +79,7 @@ DESCRIPTION:*[Report] G20/OECD Roadmap on Developing
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=4fc33451-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -139,7 +96,7 @@ DESCRIPTION:Reminder: [Report] G20/OECD Roadmap on D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3e2b7345-frd3e339
+UID:10.1787/3e2b7345-frd3e282
 SUMMARY:[Book] Les défis fiscaux soulevés par la
   numérisation de l'économie – Règle d'as
  sujettissement à l'impôt (Pilier Deux) -
@@ -153,24 +110,24 @@ DESCRIPTION:*[Book] Les défis fiscaux soulevés par l
  oi.org/10.1787/3e2b7345-fr\nPublication 
  type: Book\nReleased as: Paperback, PDF\
  n\nEmbargo date/time: Monday, 17 July 20
- 23, 12:00 (GMT)\n\n\niLibrary export: Th
- ursday, 13 July 2023, 21:01 (GMT)\nFreep
- review export: never\nOECD.org export: S
- unday, 16 July 2023, 18:47 (GMT)\nFTI lo
- aded: ✓\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 23:01, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 3e2b7345-fr.
-DTSTAMP:20230716T230214Z
+ 23, 12:00 (GMT)\n\n\niLibrary export: Mo
+ nday, 17 July 2023, 20:59 (GMT)\nFreepre
+ view export: never\nOECD.org export: Mon
+ day, 17 July 2023, 20:32 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 23:23, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=3e
+ 2b7345-fr.
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -186,7 +143,7 @@ DESCRIPTION:Reminder: [Book] Les défis fiscaux soule
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5449efb4-frd3e395
+UID:10.1787/5449efb4-frd3e338
 SUMMARY:[Report] Renforcer la transparence fisca
  le internationale dans le secteur de l’i
  mmobilier - Rapport de l'OCDE à l'intent
@@ -204,13 +161,13 @@ DESCRIPTION:*[Report] Renforcer la transparence fisc
  \nEmbargo date/time: Monday, 17 July 202
  3, 12:00 (GMT)\n\n\niLibrary export: Thu
  rsday, 13 July 2023, 21:01 (GMT)\nFreepr
- eview export: never\nOECD.org export: Su
- nday, 16 July 2023, 18:47 (GMT)\nFTI loa
+ eview export: never\nOECD.org export: Mo
+ nday, 17 July 2023, 20:32 (GMT)\nFTI loa
  ded: ✓\n\nFor more information see: http
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:01, it is updated eac
+ is afternoon at 23:23, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -219,7 +176,7 @@ DESCRIPTION:*[Report] Renforcer la transparence fisc
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  449efb4-fr.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -237,7 +194,7 @@ DESCRIPTION:Reminder: [Report] Renforcer la transpar
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9afd6856-end3e451
+UID:10.1787/9afd6856-end3e394
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Subject t
  o Tax Rule (Pillar Two) - Inclusive Fram
@@ -253,13 +210,13 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  te/time: Monday, 17 July 2023, 12:00 (GM
  T)\n\n\niLibrary export: Thursday, 13 Ju
  ly 2023, 21:01 (GMT)\nFreepreview export
- : never\nOECD.org export: Sunday, 16 Jul
- y 2023, 18:47 (GMT)\nFTI loaded: ✓\n\nFo
+ : never\nOECD.org export: Monday, 17 Jul
+ y 2023, 20:32 (GMT)\nFTI loaded: ✓\n\nFo
  r more information see: https://oecd.git
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:01, it is updated each night; the
+  at 23:23, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -267,7 +224,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=9afd6856-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -283,7 +240,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/268825db-frd3e507
+UID:10.1787/268825db-frd3e450
 SUMMARY:[Report] Mise à jour 2023 de la feuille 
  de route G20/OCDE sur les pays en dévelo
  ppement et la fiscalité internationale -
@@ -303,13 +260,13 @@ DESCRIPTION:*[Report] Mise à jour 2023 de la feuille
  ate/time: Monday, 17 July 2023, 12:00 (G
  MT)\n\n\niLibrary export: Thursday, 13 J
  uly 2023, 21:01 (GMT)\nFreepreview expor
- t: never\nOECD.org export: Sunday, 16 Ju
- ly 2023, 18:47 (GMT)\nFTI loaded: ✓\n\nF
+ t: never\nOECD.org export: Monday, 17 Ju
+ ly 2023, 20:32 (GMT)\nFTI loaded: ✓\n\nF
  or more information see: https://oecd.gi
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:01, it is updated each night; th
+ n at 23:23, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -317,7 +274,7 @@ DESCRIPTION:*[Report] Mise à jour 2023 de la feuille
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=268825db-fr.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230717T120000Z
 DTEND:20230717T121500Z
 TRANSP:TRANSPARENT
@@ -335,7 +292,7 @@ DESCRIPTION:Reminder: [Report] Mise à jour 2023 de l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/51bd124a-end3e563
+UID:10.1787/51bd124a-end3e506
 SUMMARY:[Report] Financing Cities of Tomorrow - 
  G20/OECD Report for the G20 Infrastructu
  re Working Group under the Indian Presid
@@ -351,21 +308,21 @@ DESCRIPTION:*[Report] Financing Cities of Tomorrow -
  me: Tuesday, 18 July 2023, 11:30 (GMT)\n
  \n\niLibrary export: Thursday, 13 July 2
  023, 21:01 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: Thursday, 13 July 
- 2023, 20:30 (GMT)\nFTI loaded: ✓\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 23:01, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=51bd124a-en.
-DTSTAMP:20230716T230214Z
+ ver\nOECD.org export: Monday, 17 July 20
+ 23, 20:32 (GMT)\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 23:23, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=51bd124a-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230718T113000Z
 DTEND:20230718T114500Z
 TRANSP:TRANSPARENT
@@ -381,7 +338,7 @@ DESCRIPTION:Reminder: [Report] Financing Cities of T
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4607b7c7-end3e885
+UID:10.1787/4607b7c7-end3e1214
 SUMMARY:[Book] SIGI 2023 Global Report - Gender 
  Equality in Times of Crisis
 DESCRIPTION:*[Book] SIGI 2023 Global Report - Gender
@@ -389,24 +346,26 @@ DESCRIPTION:*[Book] SIGI 2023 Global Report - Gender
  rate: Development Centre\nLanguage: Engl
  ish\nDOI: https://doi.org/10.1787/4607b7
  c7-en\nPublication type: Book\nReleased 
- as: Paperback, PDF\n\nEmbargo date/time:
-  Tuesday, 18 July 2023, 15:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 23:01, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=4607b7c7-en.
-DTSTAMP:20230716T230214Z
+ as: ePub, HTML, Paperback, PDF, ZXML\n\n
+ Embargo date/time: Tuesday, 18 July 2023
+ , 15:00 (GMT)\n\n\niLibrary export: Mond
+ ay, 17 July 2023, 20:59 (GMT)\nFreeprevi
+ ew export: never\nOECD.org export: Monda
+ y, 17 July 2023, 20:32 (GMT)\nFTI loaded
+ : ✓\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 23:23, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=4607
+ b7c7-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230718T150000Z
 DTEND:20230718T151500Z
 TRANSP:TRANSPARENT
@@ -420,7 +379,7 @@ DESCRIPTION:Reminder: [Book] SIGI 2023 Global Report
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/04e682d7-end3e1365
+UID:10.1787/04e682d7-end3e3568
 SUMMARY:[Paper] How does corporate taxation affe
  ct business investment? - Evidence from 
  aggregate and firm-level data
@@ -439,7 +398,7 @@ DESCRIPTION:*[Paper] How does corporate taxation aff
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:01, i
+ correct as of this afternoon at 23:23, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -448,7 +407,7 @@ DESCRIPTION:*[Paper] How does corporate taxation aff
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=04e682d7-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T050000Z
 DTEND:20230719T051500Z
 TRANSP:TRANSPARENT
@@ -463,7 +422,7 @@ DESCRIPTION:Reminder: [Paper] How does corporate tax
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ddc3d41d-end3e1421
+UID:10.1787/ddc3d41d-end3e3624
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Seychelles 2023 (Second Round, Supplem
@@ -480,23 +439,23 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ublication type: Book\nReleased as: Pape
  rback, PDF\n\nEmbargo date/time: Wednesd
  ay, 19 July 2023, 9:00 (GMT)\n\n\niLibra
- ry export: Thursday, 13 July 2023, 21:01
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Thursday, 13 July 2023, 20:3
- 0 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:01, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=ddc3d41d-en.
-DTSTAMP:20230716T230214Z
+ ry export: Monday, 17 July 2023, 20:59 (
+ GMT)\nFreepreview export: never\nOECD.or
+ g export: Thursday, 13 July 2023, 20:30 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:23, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=ddc3d41d-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -514,7 +473,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e1842f2b-end3e1637
+UID:10.1787/e1842f2b-end3e3845
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Greenland 2023 (Second Round) - Peer R
@@ -530,24 +489,24 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  87/e1842f2b-en\nPublication type: Book\n
  Released as: Paperback, PDF\n\nEmbargo d
  ate/time: Wednesday, 19 July 2023, 9:00 
- (GMT)\n\n\niLibrary export: Thursday, 13
-  July 2023, 21:01 (GMT)\nFreepreview exp
- ort: never\nOECD.org export: Thursday, 1
- 3 July 2023, 20:30 (GMT)\nFTI loaded: ✓\
- n\nFor more information see: https://oec
- d.github.io/embargo-calendar/embargoes-b
- y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 23:01, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=e1842f2b
- -en.
-DTSTAMP:20230716T230214Z
+ (GMT)\n\n\niLibrary export: Monday, 17 J
+ uly 2023, 20:59 (GMT)\nFreepreview expor
+ t: never\nOECD.org export: Thursday, 13 
+ July 2023, 20:30 (GMT)\nFTI loaded: ✓\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 23:23, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=e1842f2b-e
+ n.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -564,7 +523,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df906926-end3e1693
+UID:10.1787/df906926-end3e3902
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Antigua and Barbuda 2023 (Second Round
@@ -580,24 +539,24 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  .org/10.1787/df906926-en\nPublication ty
  pe: Book\nReleased as: Paperback, PDF\n\
  nEmbargo date/time: Wednesday, 19 July 2
- 023, 9:00 (GMT)\n\n\niLibrary export: Th
- ursday, 13 July 2023, 21:01 (GMT)\nFreep
- review export: never\nOECD.org export: T
- hursday, 13 July 2023, 20:30 (GMT)\nFTI 
- loaded: ✓\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 23:01, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=df906926-en.
-DTSTAMP:20230716T230214Z
+ 023, 9:00 (GMT)\n\n\niLibrary export: Mo
+ nday, 17 July 2023, 20:59 (GMT)\nFreepre
+ view export: never\nOECD.org export: Thu
+ rsday, 13 July 2023, 20:30 (GMT)\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 23:23, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ df906926-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -614,7 +573,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cff0754d-end3e1909
+UID:10.1787/cff0754d-end3e4123
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Argentina 2023 (Second Round, Combined
@@ -631,23 +590,23 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  tion type: Book\nReleased as: Paperback,
   PDF\n\nEmbargo date/time: Wednesday, 19
   July 2023, 9:00 (GMT)\n\n\niLibrary exp
- ort: Thursday, 13 July 2023, 21:01 (GMT)
- \nFreepreview export: never\nOECD.org ex
- port: Thursday, 13 July 2023, 20:30 (GMT
- )\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 23:01, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=cff0754d-en.
-DTSTAMP:20230716T230214Z
+ ort: Monday, 17 July 2023, 20:59 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: Thursday, 13 July 2023, 20:30 (GMT)\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 23:23, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=cff0754d-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -665,7 +624,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd387436-end3e1965
+UID:10.1787/cd387436-end3e4179
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Lesotho 2023 (Second Round, Phase 1) -
@@ -681,24 +640,24 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  g/10.1787/cd387436-en\nPublication type:
   Book\nReleased as: Paperback, PDF\n\nEm
  bargo date/time: Wednesday, 19 July 2023
- , 9:00 (GMT)\n\n\niLibrary export: Thurs
- day, 13 July 2023, 21:01 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Thur
- sday, 13 July 2023, 20:30 (GMT)\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:01, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=c
- d387436-en.
-DTSTAMP:20230716T230214Z
+ , 9:00 (GMT)\n\n\niLibrary export: Monda
+ y, 17 July 2023, 20:59 (GMT)\nFreeprevie
+ w export: never\nOECD.org export: Thursd
+ ay, 13 July 2023, 20:30 (GMT)\nFTI loade
+ d: ✓\n\nFor more information see: https:
+ //oecd.github.io/embargo-calendar/embarg
+ oes-by-publication.html.\n\nPlease note:
+  This information was correct as of this
+  afternoon at 23:23, it is updated each 
+ night; therefore any subsequent updates 
+ may not yet be visible here. Also, pleas
+ e be aware that the different released m
+ edia (PDF, HTML, etc.) are not necessari
+ ly released at the same time. For comple
+ te and up-to-date information see here: 
+ http://kappa.oecd.org/v3/search?term=cd3
+ 87436-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -715,7 +674,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/07edaf33-end3e2021
+UID:10.1787/07edaf33-end3e4236
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Paraguay 2023 (Second Round, Phase 1) 
@@ -731,24 +690,24 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  rg/10.1787/07edaf33-en\nPublication type
  : Book\nReleased as: Paperback, PDF\n\nE
  mbargo date/time: Wednesday, 19 July 202
- 3, 9:00 (GMT)\n\n\niLibrary export: Thur
- sday, 13 July 2023, 21:01 (GMT)\nFreepre
- view export: never\nOECD.org export: Thu
- rsday, 13 July 2023, 20:30 (GMT)\nFTI lo
- aded: ✓\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 23:01, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 07edaf33-en.
-DTSTAMP:20230716T230214Z
+ 3, 9:00 (GMT)\n\n\niLibrary export: Mond
+ ay, 17 July 2023, 20:59 (GMT)\nFreeprevi
+ ew export: never\nOECD.org export: Thurs
+ day, 13 July 2023, 20:30 (GMT)\nFTI load
+ ed: ✓\n\nFor more information see: https
+ ://oecd.github.io/embargo-calendar/embar
+ goes-by-publication.html.\n\nPlease note
+ : This information was correct as of thi
+ s afternoon at 23:23, it is updated each
+  night; therefore any subsequent updates
+  may not yet be visible here. Also, plea
+ se be aware that the different released 
+ media (PDF, HTML, etc.) are not necessar
+ ily released at the same time. For compl
+ ete and up-to-date information see here:
+  http://kappa.oecd.org/v3/search?term=07
+ edaf33-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -765,7 +724,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/306bc415-end3e2077
+UID:10.1787/306bc415-end3e4292
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Faroe Islands 2023 (Second Round) - Pe
@@ -781,24 +740,24 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  0.1787/306bc415-en\nPublication type: Bo
  ok\nReleased as: Paperback, PDF\n\nEmbar
  go date/time: Wednesday, 19 July 2023, 9
- :00 (GMT)\n\n\niLibrary export: Thursday
- , 13 July 2023, 21:01 (GMT)\nFreepreview
-  export: never\nOECD.org export: Thursda
- y, 13 July 2023, 20:30 (GMT)\nFTI loaded
- : ✓\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 23:01, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=306b
- c415-en.
-DTSTAMP:20230716T230214Z
+ :00 (GMT)\n\n\niLibrary export: Monday, 
+ 17 July 2023, 20:59 (GMT)\nFreepreview e
+ xport: never\nOECD.org export: Thursday,
+  13 July 2023, 20:30 (GMT)\nFTI loaded: 
+ ✓\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 23:23, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=306bc4
+ 15-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -815,7 +774,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8051e38-end3e2133
+UID:10.1787/e8051e38-end3e4348
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Anguilla 2023 (Second Round, Supplemen
@@ -832,23 +791,23 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  lication type: Book\nReleased as: Paperb
  ack, PDF\n\nEmbargo date/time: Wednesday
  , 19 July 2023, 9:00 (GMT)\n\n\niLibrary
-  export: Thursday, 13 July 2023, 21:01 (
- GMT)\nFreepreview export: never\nOECD.or
- g export: Thursday, 13 July 2023, 20:30 
- (GMT)\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:01, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=e8051e38-en.
-DTSTAMP:20230716T230214Z
+  export: Monday, 17 July 2023, 20:59 (GM
+ T)\nFreepreview export: never\nOECD.org 
+ export: Thursday, 13 July 2023, 20:30 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 23:23, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=e8051e38-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -866,7 +825,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f74baa49-end3e2189
+UID:10.1787/f74baa49-end3e4404
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Belize 2023 (Second Round) - Peer Revi
@@ -882,24 +841,23 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  f74baa49-en\nPublication type: Book\nRel
  eased as: Paperback, PDF\n\nEmbargo date
  /time: Wednesday, 19 July 2023, 9:00 (GM
- T)\n\n\niLibrary export: Thursday, 13 Ju
- ly 2023, 21:01 (GMT)\nFreepreview export
- : never\nOECD.org export: Thursday, 13 J
- uly 2023, 20:30 (GMT)\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:01, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=f74baa49-en
- .
-DTSTAMP:20230716T230214Z
+ T)\n\n\niLibrary export: Monday, 17 July
+  2023, 20:59 (GMT)\nFreepreview export: 
+ never\nOECD.org export: Thursday, 13 Jul
+ y 2023, 20:30 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 23:23, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=f74baa49-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -916,7 +874,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f6d0eaf4-end3e2352
+UID:10.1787/f6d0eaf4-end3e4571
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Saint Vincent and the Grenadines 2023 
@@ -933,23 +891,23 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ublication type: Book\nReleased as: Pape
  rback, PDF\n\nEmbargo date/time: Wednesd
  ay, 19 July 2023, 9:00 (GMT)\n\n\niLibra
- ry export: Thursday, 13 July 2023, 21:01
-  (GMT)\nFreepreview export: never\nOECD.
- org export: Thursday, 13 July 2023, 20:3
- 0 (GMT)\nFTI loaded: ✓\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:01, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=f6d0eaf4-en.
-DTSTAMP:20230716T230214Z
+ ry export: Monday, 17 July 2023, 20:59 (
+ GMT)\nFreepreview export: never\nOECD.or
+ g export: Thursday, 13 July 2023, 20:30 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:23, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=f6d0eaf4-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T090000Z
 DTEND:20230719T091500Z
 TRANSP:TRANSPARENT
@@ -967,7 +925,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a6cb4aa1-end3e2514
+UID:10.1787/a6cb4aa1-end3e4737
 SUMMARY:[Stand-alone monograph] Driving Policy C
  oherence for Sustainable Development - A
  ccelerating Progress on the SDGs
@@ -988,7 +946,7 @@ DESCRIPTION:*[Stand-alone monograph] Driving Policy
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:01, it is updated each 
+  afternoon at 23:23, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -997,7 +955,7 @@ DESCRIPTION:*[Stand-alone monograph] Driving Policy
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=a6c
  b4aa1-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230719T120000Z
 DTEND:20230719T121500Z
 TRANSP:TRANSPARENT
@@ -1013,7 +971,47 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Drivin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec94fd4e-end3e3492
+UID:10.1787/f1a19b94-end3e5664
+SUMMARY:[Paper] Untapping the potential of resou
+ rce banks in the classroom
+DESCRIPTION:*[Paper] Untapping the potential of reso
+ urce banks in the classroom*\n\nDirector
+ ate: Directorate for Education and Skill
+ s\nLanguage: English\nDOI: https://doi.o
+ rg/10.1787/f1a19b94-en\nPublication type
+ : Paper\nReleased as: PDF\n\nEmbargo dat
+ e/time: Thursday, 20 July 2023, 5:00 (GM
+ T)\n\n\niLibrary export: Monday, 17 July
+  2023, 20:59 (GMT)\nFreepreview export: 
+ never\nOECD.org export: Monday, 17 July 
+ 2023, 20:32 (GMT)\nFTI loaded: ✓\n\nFor 
+ more information see: https://oecd.githu
+ b.io/embargo-calendar/embargoes-by-publi
+ cation.html.\n\nPlease note: This inform
+ ation was correct as of this afternoon a
+ t 23:23, it is updated each night; there
+ fore any subsequent updates may not yet 
+ be visible here. Also, please be aware t
+ hat the different released media (PDF, H
+ TML, etc.) are not necessarily released 
+ at the same time. For complete and up-to
+ -date information see here: http://kappa
+ .oecd.org/v3/search?term=f1a19b94-en.
+DTSTAMP:20230717T232353Z
+DTSTART:20230720T050000Z
+DTEND:20230720T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Paper] Untapping the potentia
+ l of resource banks in the classroom
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ec94fd4e-end3e5770
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Costa Rica 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -1029,7 +1027,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:01, it is updated 
+  this afternoon at 23:23, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1038,7 +1036,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ec94fd4e-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230720T070000Z
 DTEND:20230720T071500Z
 TRANSP:TRANSPARENT
@@ -1052,7 +1050,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/659ce346-end3e4573
+UID:10.1787/659ce346-end3e6905
 SUMMARY:[Stand-alone monograph] Labour and Skill
  s Demand in Alberta - Insights Using Big
   Data Intelligence
@@ -1065,24 +1063,24 @@ DESCRIPTION:*[Stand-alone monograph] Labour and Skil
  tion type: Stand-alone monograph\nReleas
  ed as: ePub, HTML, Paperback, PDF, ZXML\
  n\nEmbargo date/time: Friday, 21 July 20
- 23, 6:00 (GMT)\n\n\niLibrary export: Thu
- rsday, 13 July 2023, 21:01 (GMT)\nFreepr
- eview export: never\nOECD.org export: Th
- ursday, 13 July 2023, 20:30 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 23:01, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =659ce346-en.
-DTSTAMP:20230716T230214Z
+ 23, 6:00 (GMT)\n\n\niLibrary export: Mon
+ day, 17 July 2023, 20:59 (GMT)\nFreeprev
+ iew export: never\nOECD.org export: Thur
+ sday, 13 July 2023, 20:30 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:23, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=6
+ 59ce346-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230721T060000Z
 DTEND:20230721T061500Z
 TRANSP:TRANSPARENT
@@ -1097,7 +1095,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Labour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9f5b0524-end3e5825
+UID:10.1787/9f5b0524-end3e8161
 SUMMARY:[Stand-alone monograph] Towards a Child-
  friendly Justice System in Egypt - Imple
  menting the Sustainable Development Goal
@@ -1112,23 +1110,23 @@ DESCRIPTION:*[Stand-alone monograph] Towards a Child
  eased as: ePub, HTML, Paperback, PDF, ZX
  ML\n\nEmbargo date/time: Tuesday, 25 Jul
  y 2023, 5:00 (GMT)\n\n\niLibrary export:
-  Thursday, 13 July 2023, 21:01 (GMT)\nFr
- eepreview export: never\nOECD.org export
- : Thursday, 13 July 2023, 20:30 (GMT)\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 23:01, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=9f5b0524-en.
-DTSTAMP:20230716T230214Z
+  Monday, 17 July 2023, 20:59 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Thursday, 13 July 2023, 20:30 (GMT)\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 23:23, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=9f5b0524-en.
+DTSTAMP:20230717T232353Z
 DTSTART:20230725T050000Z
 DTEND:20230725T051500Z
 TRANSP:TRANSPARENT
@@ -1144,7 +1142,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Toward
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7ea496f-end3e6152
+UID:10.1787/e7ea496f-end3e8488
 SUMMARY:[Book] Revenue Statistics in Asia and th
  e Pacific 2023 - Strengthening Property 
  Taxation in Asia
@@ -1162,7 +1160,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:01, it i
+ rect as of this afternoon at 23:23, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1171,7 +1169,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=e7ea496f-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230725T090000Z
 DTEND:20230725T091500Z
 TRANSP:TRANSPARENT
@@ -1186,7 +1184,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d8bc45d9-end3e6258
+UID:10.1787/d8bc45d9-end3e8594
 SUMMARY:[Book] Tax Policy Reforms 2023 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
@@ -1203,7 +1201,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:01, it is updated each night;
+ noon at 23:23, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1212,7 +1210,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=d8bc45d9-
  en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20230913T090000Z
 DTEND:20230913T091500Z
 TRANSP:TRANSPARENT
@@ -1226,7 +1224,49 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2023
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4bbbbfd6-end3e7000
+UID:10.1787/d752d120-end3e8698
+SUMMARY:[Stand-alone monograph] Methodological G
+ uidelines for Environmentally Related Ta
+ x Revenue Accounts
+DESCRIPTION:*[Stand-alone monograph] Methodological 
+ Guidelines for Environmentally Related T
+ ax Revenue Accounts*\n\nDirectorate: Env
+ ironment Directorate\nLanguage: English\
+ nDOI: https://doi.org/10.1787/d752d120-e
+ n\nPublication type: Stand-alone monogra
+ ph\nReleased as: PDF\n\nEmbargo date/tim
+ e: Thursday, 14 September 2023, 22:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:23, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=d752d120-en.
+DTSTAMP:20230717T232353Z
+DTSTART:20230914T220000Z
+DTEND:20230914T221500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Method
+ ological Guidelines for Environmentally 
+ Related Tax Revenue Accounts
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4bbbbfd6-end3e9387
 SUMMARY:[Stand-alone monograph] Big Data Intelli
  gence on Skills Demand and Training in U
  mbria
@@ -1245,7 +1285,7 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:01, it is 
+ ct as of this afternoon at 23:23, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1254,7 +1294,7 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=4bbbbfd6-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20231001T060000Z
 DTEND:20231001T061500Z
 TRANSP:TRANSPARENT
@@ -1269,7 +1309,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Big Da
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9953de23-end3e7319
+UID:10.1787/9953de23-end3e9706
 SUMMARY:[Book] Economic Policy Reforms 2023 - Go
  ing for Growth
 DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
@@ -1285,7 +1325,7 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:01, it is updated each nigh
+ ernoon at 23:23, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1294,7 +1334,7 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=9953de2
  3-en.
-DTSTAMP:20230716T230214Z
+DTSTAMP:20230717T232353Z
 DTSTART:20231003T100000Z
 DTEND:20231003T101500Z
 TRANSP:TRANSPARENT

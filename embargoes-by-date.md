@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 July 2023 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 July 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 July 2023](#15-july-2023)
 * [17 July 2023](#17-july-2023)
 * [18 July 2023](#18-july-2023)
 * [19 July 2023](#19-july-2023)
@@ -12,35 +11,9 @@ Data generated on | |
 * [21 July 2023](#21-july-2023)
 * [25 July 2023](#25-july-2023)
 * [13 September 2023](#13-september-2023)
+* [14 September 2023](#14-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 15 July 2023
-
-## [Putting AI to the test - How does the performance of GPT and 15-year-old students in PISA compare?](https://doi.org/10.1787/2c297e0b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 15 July 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -57,7 +30,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -80,7 +53,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -101,9 +74,9 @@ Monday 17 July 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -126,7 +99,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -149,7 +122,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -172,7 +145,7 @@ Monday 17 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 16 July 2023 at 20:47
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -199,7 +172,7 @@ Tuesday 18 July 2023 at 11:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
@@ -220,17 +193,17 @@ Tuesday 18 July 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -270,7 +243,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -293,7 +266,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -316,7 +289,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -339,7 +312,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -362,7 +335,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -385,7 +358,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -408,7 +381,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -431,7 +404,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -454,7 +427,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -477,7 +450,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -518,6 +491,29 @@ Wednesday 19 July 2023 at 12:00 | no launch event
 
 # 20 July 2023
 
+## [Untapping the potential of resource banks in the classroom](https://doi.org/10.1787/f1a19b94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 July 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
 
 Embargo date | Launch date
@@ -554,7 +550,7 @@ Friday 21 July 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -581,7 +577,7 @@ Tuesday 25 July 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
+- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
 
@@ -642,6 +638,33 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 September 2023
+
+## [Methodological Guidelines for Environmentally Related Tax Revenue Accounts](https://doi.org/10.1787/d752d120-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 September 2023 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
