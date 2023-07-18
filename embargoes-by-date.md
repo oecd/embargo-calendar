@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 July 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 July 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 July 2023](#17-july-2023)
 * [18 July 2023](#18-july-2023)
@@ -10,6 +10,7 @@ Data generated on | |
 * [20 July 2023](#20-july-2023)
 * [21 July 2023](#21-july-2023)
 * [25 July 2023](#25-july-2023)
+* [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [14 September 2023](#14-september-2023)
 * [1 October 2023](#1-october-2023)
@@ -172,7 +173,7 @@ Tuesday 18 July 2023 at 11:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -193,9 +194,9 @@ Tuesday 18 July 2023 at 15:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
+- [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -222,7 +223,7 @@ Wednesday 19 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 July 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -245,7 +246,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -268,7 +269,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -291,7 +292,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -314,7 +315,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -337,7 +338,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -360,7 +361,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -383,7 +384,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -406,7 +407,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -429,7 +430,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -452,7 +453,7 @@ Wednesday 19 July 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -475,7 +476,7 @@ Wednesday 19 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 July 2023 at 22:38
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
 
 ### Additional Information
 
@@ -534,6 +535,29 @@ Thursday 20 July 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The NEA Small Modular Reactor Dashboard - Volume II](https://doi.org/10.1787/e586e483-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 July 2023 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Nuclear Energy Agency*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -610,6 +634,56 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 12 September 2023
+
+## [Education at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/e13bef63-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Education at a Glance 2023 Sources, Methodologies and Technical Notes](https://doi.org/10.1787/d7f76adc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
