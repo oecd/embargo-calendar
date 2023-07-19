@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 July 2023 at 23:35* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Enhancing International Tax Transparency on Real Estate - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/37292361-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [G20/OECD Roadmap on Developing Countries and International Taxation Update 2023 - OECD Report to the G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/4fc33451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Les défis fiscaux soulevés par la numérisation de l'économie – Règle d'assujettissement à l'impôt (Pilier Deux) - Cadre inclusif sur le BEPS](https://doi.org/10.1787/3e2b7345-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Renforcer la transparence fiscale internationale dans le secteur de l’immobilier - Rapport de l'OCDE à l'intention des Ministres des Finances et des Gouverneurs de Banque Centrale du G20](https://doi.org/10.1787/5449efb4-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Subject to Tax Rule (Pillar Two) - Inclusive Framework on BEPS](https://doi.org/10.1787/9afd6856-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Mise à jour 2023 de la feuille de route G20/OCDE sur les pays en développement et la fiscalité internationale - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20](https://doi.org/10.1787/268825db-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 19 July 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financing Cities of Tomorrow - G20/OECD Report for the G20 Infrastructure Working Group under the Indian Presidency](https://doi.org/10.1787/51bd124a-en)
 
@@ -199,7 +61,7 @@ Wednesday 19 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
 
 ### Additional Information
 
@@ -208,236 +70,6 @@ Wednesday 19 July 2023 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Seychelles 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ddc3d41d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Greenland 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e1842f2b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Antigua and Barbuda 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/df906926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Argentina 2023 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cff0754d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Lesotho 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/cd387436-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Paraguay 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/07edaf33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Faroe Islands 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/306bc415-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Anguilla 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e8051e38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Belize 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f74baa49-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Saint Vincent and the Grenadines 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f6d0eaf4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -452,7 +84,7 @@ Wednesday 19 July 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
 
 ### Additional Information
 
@@ -475,7 +107,7 @@ Thursday 20 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 July 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
 
 ### Additional Information
 
@@ -521,7 +153,7 @@ Thursday 20 July 2023 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
 
 ### Additional Information
 
@@ -553,6 +185,29 @@ Friday 21 July 2023 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Financial consumers and sustainable finance - Policy implications and approaches](https://doi.org/10.1787/318d0494-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 July 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -588,13 +243,36 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Assessing and Anticipating Skills for the Green Transition - Unlocking Talent for a Sustainable Future](https://doi.org/10.1787/28fa0bb5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 September 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
