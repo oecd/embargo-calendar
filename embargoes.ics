@@ -2,94 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/51bd124a-end3e63
-SUMMARY:[Report] Financing Cities of Tomorrow - 
- G20/OECD Report for the G20 Infrastructu
- re Working Group under the Indian Presid
- ency
-DESCRIPTION:*[Report] Financing Cities of Tomorrow -
-  G20/OECD Report for the G20 Infrastruct
- ure Working Group under the Indian Presi
- dency*\n\nDirectorate: Centre for Entrep
- reneurship, SMEs, Regions and Cities\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/51bd124a-en\nPublication type: Rep
- ort\nReleased as: PDF\n\nEmbargo date/ti
- me: Tuesday, 18 July 2023, 11:30 (GMT)\n
- \n\niLibrary export: Thursday, 13 July 2
- 023, 21:01 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: Tuesday, 18 July 2
- 023, 20:33 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  23:27, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=51bd124a-en.
-DTSTAMP:20230719T232712Z
-DTSTART:20230718T113000Z
-DTEND:20230718T114500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Financing Cities of T
- omorrow - G20/OECD Report for the G20 In
- frastructure Working Group under the Ind
- ian Presidency
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4607b7c7-end3e777
-SUMMARY:[Book] SIGI 2023 Global Report - Gender 
- Equality in Times of Crisis
-DESCRIPTION:*[Book] SIGI 2023 Global Report - Gender
-  Equality in Times of Crisis*\n\nDirecto
- rate: Development Centre\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/4607b7
- c7-en\nPublication type: Book\nReleased 
- as: ePub, HTML, Paperback, PDF, ZXML\n\n
- Embargo date/time: Tuesday, 18 July 2023
- , 15:00 (GMT)\n\n\niLibrary export: Tues
- day, 18 July 2023, 21:00 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Tues
- day, 18 July 2023, 20:33 (GMT)\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 23:27, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=46
- 07b7c7-en.
-DTSTAMP:20230719T232712Z
-DTSTART:20230718T150000Z
-DTEND:20230718T151500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] SIGI 2023 Global Report
-  - Gender Equality in Times of Crisis
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/04e682d7-end3e3144
+UID:10.1787/04e682d7-end3e63
 SUMMARY:[Paper] How does corporate taxation affe
  ct business investment? - Evidence from 
  aggregate and firm-level data
@@ -108,7 +21,7 @@ DESCRIPTION:*[Paper] How does corporate taxation aff
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:27,
+ s correct as of this afternoon at 23:21,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -117,7 +30,7 @@ DESCRIPTION:*[Paper] How does corporate taxation aff
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=04e682d7-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230719T050000Z
 DTEND:20230719T051500Z
 TRANSP:TRANSPARENT
@@ -132,7 +45,7 @@ DESCRIPTION:Reminder: [Paper] How does corporate tax
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a6cb4aa1-end3e3200
+UID:10.1787/a6cb4aa1-end3e120
 SUMMARY:[Stand-alone monograph] Driving Policy C
  oherence for Sustainable Development - A
  ccelerating Progress on the SDGs
@@ -153,7 +66,7 @@ DESCRIPTION:*[Stand-alone monograph] Driving Policy
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:27, it is updated eac
+ is afternoon at 23:21, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -162,7 +75,7 @@ DESCRIPTION:*[Stand-alone monograph] Driving Policy
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=a
  6cb4aa1-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230719T120000Z
 DTEND:20230719T121500Z
 TRANSP:TRANSPARENT
@@ -178,7 +91,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Drivin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f1a19b94-end3e4127
+UID:10.1787/f1a19b94-end3e1058
 SUMMARY:[Paper] Untapping the potential of resou
  rce banks in the classroom
 DESCRIPTION:*[Paper] Untapping the potential of reso
@@ -190,21 +103,21 @@ DESCRIPTION:*[Paper] Untapping the potential of reso
  e/time: Thursday, 20 July 2023, 5:00 (GM
  T)\n\n\niLibrary export: Monday, 17 July
   2023, 20:59 (GMT)\nFreepreview export: 
- never\nOECD.org export: Wednesday, 19 Ju
- ly 2023, 20:32 (GMT)\nFTI loaded: ✓\n\nF
- or more information see: https://oecd.gi
- thub.io/embargo-calendar/embargoes-by-pu
- blication.html.\n\nPlease note: This inf
- ormation was correct as of this afternoo
- n at 23:27, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=f1a19b94-en.
-DTSTAMP:20230719T232712Z
+ never\nOECD.org export: Thursday, 20 Jul
+ y 2023, 20:30 (GMT)\nFTI loaded: ✓\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 23:21, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=f1a19b94-en.
+DTSTAMP:20230720T232154Z
 DTSTART:20230720T050000Z
 DTEND:20230720T051500Z
 TRANSP:TRANSPARENT
@@ -218,7 +131,7 @@ DESCRIPTION:Reminder: [Paper] Untapping the potentia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec94fd4e-end3e4234
+UID:10.1787/ec94fd4e-end3e1164
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Costa Rica 2023
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -234,7 +147,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:27, it is updated 
+  this afternoon at 23:21, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -243,7 +156,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ec94fd4e-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230720T070000Z
 DTEND:20230720T071500Z
 TRANSP:TRANSPARENT
@@ -257,7 +170,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e586e483-end3e4285
+UID:10.1787/e586e483-end3e1215
 SUMMARY:[Stand-alone monograph] The NEA Small Mo
  dular Reactor Dashboard - Volume II
 DESCRIPTION:*[Stand-alone monograph] The NEA Small M
@@ -269,22 +182,22 @@ DESCRIPTION:*[Stand-alone monograph] The NEA Small M
  mbargo date/time: Thursday, 20 July 2023
  , 11:00 (GMT)\n\n\niLibrary export: Tues
  day, 18 July 2023, 21:00 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Wedn
- esday, 19 July 2023, 20:32 (GMT)\nFTI lo
- aded: ✓\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 23:27, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- e586e483-en.
-DTSTAMP:20230719T232712Z
+ iew export: never\nOECD.org export: Thur
+ sday, 20 July 2023, 20:30 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:21, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=e
+ 586e483-en.
+DTSTAMP:20230720T232154Z
 DTSTART:20230720T110000Z
 DTEND:20230720T111500Z
 TRANSP:TRANSPARENT
@@ -299,52 +212,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The NE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/659ce346-end3e5424
-SUMMARY:[Stand-alone monograph] Labour and Skill
- s Demand in Alberta - Insights Using Big
-  Data Intelligence
-DESCRIPTION:*[Stand-alone monograph] Labour and Skil
- ls Demand in Alberta - Insights Using Bi
- g Data Intelligence*\n\nDirectorate: Dir
- ectorate for Employment, Labour and Soci
- al Affairs\nLanguage: English\nDOI: http
- s://doi.org/10.1787/659ce346-en\nPublica
- tion type: Stand-alone monograph\nReleas
- ed as: ePub, HTML, Paperback, PDF, ZXML\
- n\nEmbargo date/time: Friday, 21 July 20
- 23, 6:00 (GMT)\n\n\niLibrary export: Mon
- day, 17 July 2023, 20:59 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Thur
- sday, 13 July 2023, 20:30 (GMT)\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:27, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=6
- 59ce346-en.
-DTSTAMP:20230719T232712Z
-DTSTART:20230721T060000Z
-DTEND:20230721T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Labour
-  and Skills Demand in Alberta - Insights
-  Using Big Data Intelligence
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/318d0494-end3e5864
+UID:10.1787/318d0494-end3e1272
 SUMMARY:[Paper] Financial consumers and sustaina
  ble finance - Policy implications and ap
  proaches
@@ -364,7 +232,7 @@ DESCRIPTION:*[Paper] Financial consumers and sustain
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:27, it is updated each night; therefo
+ 23:21, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -372,7 +240,7 @@ DESCRIPTION:*[Paper] Financial consumers and sustain
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=318d0494-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230724T050000Z
 DTEND:20230724T051500Z
 TRANSP:TRANSPARENT
@@ -387,7 +255,7 @@ DESCRIPTION:Reminder: [Paper] Financial consumers an
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9f5b0524-end3e6736
+UID:10.1787/9f5b0524-end3e2144
 SUMMARY:[Stand-alone monograph] Towards a Child-
  friendly Justice System in Egypt - Imple
  menting the Sustainable Development Goal
@@ -409,7 +277,7 @@ DESCRIPTION:*[Stand-alone monograph] Towards a Child
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:27, it is updated
+ f this afternoon at 23:21, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -418,7 +286,7 @@ DESCRIPTION:*[Stand-alone monograph] Towards a Child
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=9f5b0524-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230725T050000Z
 DTEND:20230725T051500Z
 TRANSP:TRANSPARENT
@@ -434,7 +302,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Toward
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7ea496f-end3e7063
+UID:10.1787/e7ea496f-end3e2471
 SUMMARY:[Book] Revenue Statistics in Asia and th
  e Pacific 2023 - Strengthening Property 
  Taxation in Asia
@@ -454,7 +322,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:27, it is updated each nig
+ ternoon at 23:21, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -463,7 +331,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Asia and t
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=e7ea49
  6f-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230725T090000Z
 DTEND:20230725T091500Z
 TRANSP:TRANSPARENT
@@ -478,7 +346,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28fa0bb5-end3e7172
+UID:10.1787/28fa0bb5-end3e2580
 SUMMARY:[Book] Assessing and Anticipating Skills
   for the Green Transition - Unlocking Ta
  lent for a Sustainable Future
@@ -497,7 +365,7 @@ DESCRIPTION:*[Book] Assessing and Anticipating Skill
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:27, it is updated 
+  this afternoon at 23:21, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -506,7 +374,7 @@ DESCRIPTION:*[Book] Assessing and Anticipating Skill
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=28fa0bb5-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230905T070000Z
 DTEND:20230905T071500Z
 TRANSP:TRANSPARENT
@@ -521,7 +389,7 @@ DESCRIPTION:Reminder: [Book] Assessing and Anticipat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e13bef63-end3e7276
+UID:10.1787/e13bef63-end3e2684
 SUMMARY:[Book] Education at a Glance 2023 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
@@ -537,7 +405,7 @@ DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:27, it is up
+  as of this afternoon at 23:21, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -546,7 +414,7 @@ DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=e13bef63-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -560,7 +428,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7f76adc-end3e7433
+UID:10.1787/d7f76adc-end3e2841
 SUMMARY:[Stand-alone monograph] Education at a G
  lance 2023 Sources, Methodologies and Te
  chnical Notes
@@ -579,7 +447,7 @@ DESCRIPTION:*[Stand-alone monograph] Education at a
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:27, it is updated each night; the
+  at 23:21, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -587,7 +455,7 @@ DESCRIPTION:*[Stand-alone monograph] Education at a
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=d7f76adc-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -602,7 +470,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Educat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d8bc45d9-end3e7485
+UID:10.1787/d8bc45d9-end3e2893
 SUMMARY:[Book] Tax Policy Reforms 2023 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
@@ -619,7 +487,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:27, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -628,7 +496,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=d8bc45d9-
  en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230913T090000Z
 DTEND:20230913T091500Z
 TRANSP:TRANSPARENT
@@ -642,7 +510,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2023
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d752d120-end3e7589
+UID:10.1787/d752d120-end3e2997
 SUMMARY:[Stand-alone monograph] Methodological G
  uidelines for Environmentally Related Ta
  x Revenue Accounts
@@ -660,7 +528,7 @@ DESCRIPTION:*[Stand-alone monograph] Methodological
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:27, it is 
+ ct as of this afternoon at 23:21, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -669,7 +537,7 @@ DESCRIPTION:*[Stand-alone monograph] Methodological
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=d752d120-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20230914T220000Z
 DTEND:20230914T221500Z
 TRANSP:TRANSPARENT
@@ -684,7 +552,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Method
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4bbbbfd6-end3e8278
+UID:10.1787/4bbbbfd6-end3e3686
 SUMMARY:[Stand-alone monograph] Big Data Intelli
  gence on Skills Demand and Training in U
  mbria
@@ -703,7 +571,7 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:27, it is 
+ ct as of this afternoon at 23:21, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -712,7 +580,7 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=4bbbbfd6-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20231001T060000Z
 DTEND:20231001T061500Z
 TRANSP:TRANSPARENT
@@ -727,7 +595,52 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Big Da
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9953de23-end3e8597
+UID:10.1787/659ce346-end3e5088
+SUMMARY:[Stand-alone monograph] Labour and Skill
+ s Demand in Alberta - Insights Using Big
+  Data Intelligence
+DESCRIPTION:*[Stand-alone monograph] Labour and Skil
+ ls Demand in Alberta - Insights Using Bi
+ g Data Intelligence*\n\nDirectorate: Dir
+ ectorate for Employment, Labour and Soci
+ al Affairs\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/659ce346-en\nPublica
+ tion type: Stand-alone monograph\nReleas
+ ed as: ePub, HTML, Paperback, PDF, ZXML\
+ n\nEmbargo date/time: Monday, 2 October 
+ 2023, 6:00 (GMT)\n\n\niLibrary export: T
+ hursday, 20 July 2023, 20:57 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ Thursday, 20 July 2023, 20:30 (GMT)\nFTI
+  loaded: ✓\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 23:21, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=659ce346-en.
+DTSTAMP:20230720T232154Z
+DTSTART:20231002T060000Z
+DTEND:20231002T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Labour
+  and Skills Demand in Alberta - Insights
+  Using Big Data Intelligence
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9953de23-end3e5528
 SUMMARY:[Book] Economic Policy Reforms 2023 - Go
  ing for Growth
 DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
@@ -743,7 +656,7 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:27, it is updated each nigh
+ ernoon at 23:21, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -752,7 +665,7 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=9953de2
  3-en.
-DTSTAMP:20230719T232712Z
+DTSTAMP:20230720T232154Z
 DTSTART:20231003T100000Z
 DTEND:20231003T101500Z
 TRANSP:TRANSPARENT

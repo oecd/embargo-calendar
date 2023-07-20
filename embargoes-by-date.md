@@ -2,12 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 July 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 July 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 July 2023](#18-july-2023)
 * [19 July 2023](#19-july-2023)
 * [20 July 2023](#20-july-2023)
-* [21 July 2023](#21-july-2023)
 * [24 July 2023](#24-july-2023)
 * [25 July 2023](#25-july-2023)
 * [5 September 2023](#5-september-2023)
@@ -15,57 +13,8 @@ Data generated on | |
 * [13 September 2023](#13-september-2023)
 * [14 September 2023](#14-september-2023)
 * [1 October 2023](#1-october-2023)
+* [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 18 July 2023
-
-## [Financing Cities of Tomorrow - G20/OECD Report for the G20 Infrastructure Working Group under the Indian Presidency](https://doi.org/10.1787/51bd124a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 July 2023 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 July 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [SIGI 2023 Global Report - Gender Equality in Times of Crisis](https://doi.org/10.1787/4607b7c7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 July 2023 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 July 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -132,7 +81,7 @@ Thursday 20 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
 
 ### Additional Information
 
@@ -178,7 +127,7 @@ Thursday 20 July 2023 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
 
 ### Additional Information
 
@@ -187,33 +136,6 @@ Thursday 20 July 2023 at 11:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
-
-------
-
-------
-
-# 21 July 2023
-
-## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 July 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -447,6 +369,33 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 2 October 2023
+
+## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 July 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
