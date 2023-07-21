@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 July 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 July 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 July 2023](#19-july-2023)
 * [20 July 2023](#20-july-2023)
 * [24 July 2023](#24-july-2023)
 * [25 July 2023](#25-july-2023)
@@ -15,56 +14,6 @@ Data generated on | |
 * [1 October 2023](#1-october-2023)
 * [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 19 July 2023
-
-## [How does corporate taxation affect business investment? - Evidence from aggregate and firm-level data](https://doi.org/10.1787/04e682d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Driving Policy Coherence for Sustainable Development - Accelerating Progress on the SDGs](https://doi.org/10.1787/a6cb4aa1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 July 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -201,18 +150,18 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+- [x] Exported to OECD.org Friday 21 July 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
