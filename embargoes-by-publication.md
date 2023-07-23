@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 July 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Untapping the potential of resource banks in the classroom](https://doi.org/10.1787/f1a19b94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 July 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The NEA Small Modular Reactor Dashboard - Volume II](https://doi.org/10.1787/e586e483-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 July 2023 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 July 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Nuclear Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Sunday 23 July 2023 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financial consumers and sustainable finance - Policy implications and approaches](https://doi.org/10.1787/318d0494-en)
 
@@ -84,7 +15,7 @@ Monday 24 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 July 2023 at 22:32
+- [x] Exported to OECD.org Sunday 23 July 2023 at 22:28
 
 ### Additional Information
 
