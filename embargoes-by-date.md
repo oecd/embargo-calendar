@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 23 July 2023 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 24 July 2023 at 23:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 July 2023](#24-july-2023)
 * [25 July 2023](#25-july-2023)
@@ -29,7 +29,7 @@ Monday 24 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 July 2023 at 22:28
+- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Tuesday 25 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 July 2023 at 22:30
+- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
 
 ### Additional Information
 
@@ -77,9 +77,9 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 July 2023 at 22:59
+- [x] Exported to iLibrary Monday 24 July 2023 at 23:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 July 2023 at 22:30
+- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
 
 ### Additional Information
 
