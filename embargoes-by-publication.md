@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 July 2023 at 23:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 25 July 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financial consumers and sustainable finance - Policy implications and approaches](https://doi.org/10.1787/318d0494-en)
 
@@ -38,7 +38,7 @@ Tuesday 25 July 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 July 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 July 2023 at 23:21
+- [x] Exported to iLibrary Tuesday 25 July 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
 
 ### Additional Information
 
@@ -116,6 +116,29 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Spotlight on Vocational Education and Training - Findings from Education at a Glance 2023](https://doi.org/10.1787/acff263d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -185,6 +208,29 @@ Thursday 14 September 2023 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 September 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
