@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 July 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financial consumers and sustainable finance - Policy implications and approaches](https://doi.org/10.1787/318d0494-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 26 July 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards a Child-friendly Justice System in Egypt - Implementing the Sustainable Development Goals](https://doi.org/10.1787/9f5b0524-en)
 
@@ -73,6 +50,29 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 
 ------
 
+## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 July 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [Assessing and Anticipating Skills for the Green Transition - Unlocking Talent for a Sustainable Future](https://doi.org/10.1787/28fa0bb5-en)
 
 Embargo date | Launch date
@@ -93,6 +93,29 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 September 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -252,29 +275,6 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 

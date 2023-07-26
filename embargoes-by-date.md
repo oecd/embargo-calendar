@@ -2,45 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 July 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 26 July 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 July 2023](#24-july-2023)
 * [25 July 2023](#25-july-2023)
+* [31 July 2023](#31-july-2023)
 * [5 September 2023](#5-september-2023)
+* [8 September 2023](#8-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [14 September 2023](#14-september-2023)
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
-* [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 24 July 2023
-
-## [Financial consumers and sustainable finance - Policy implications and approaches](https://doi.org/10.1787/318d0494-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 July 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 24 July 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -94,6 +67,33 @@ Tuesday 25 July 2023 at 9:00 | no launch event
 
 ------
 
+# 31 July 2023
+
+## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 July 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
 # 5 September 2023
 
 ## [Assessing and Anticipating Skills for the Green Transition - Unlocking Talent for a Sustainable Future](https://doi.org/10.1787/28fa0bb5-en)
@@ -116,6 +116,33 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 8 September 2023
+
+## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 September 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -295,33 +322,6 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 2 October 2023
-
-## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 July 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
