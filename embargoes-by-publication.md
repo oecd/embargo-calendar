@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 July 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Towards a Child-friendly Justice System in Egypt - Implementing the Sustainable Development Goals](https://doi.org/10.1787/9f5b0524-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Revenue Statistics in Asia and the Pacific 2023 - Strengthening Property Taxation in Asia](https://doi.org/10.1787/e7ea496f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 27 July 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
 

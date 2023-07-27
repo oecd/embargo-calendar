@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 July 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 July 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 July 2023](#25-july-2023)
 * [31 July 2023](#31-july-2023)
 * [5 September 2023](#5-september-2023)
 * [8 September 2023](#8-september-2023)
@@ -14,56 +13,6 @@ Data generated on | |
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 25 July 2023
-
-## [Towards a Child-friendly Justice System in Egypt - Implementing the Sustainable Development Goals](https://doi.org/10.1787/9f5b0524-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 July 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 July 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Revenue Statistics in Asia and the Pacific 2023 - Strengthening Property Taxation in Asia](https://doi.org/10.1787/e7ea496f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 July 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 July 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
