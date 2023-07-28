@@ -2,9 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 July 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 28 July 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 July 2023](#31-july-2023)
+* [2 August 2023](#2-august-2023)
+* [4 August 2023](#4-august-2023)
 * [5 September 2023](#5-september-2023)
 * [8 September 2023](#8-september-2023)
 * [12 September 2023](#12-september-2023)
@@ -38,6 +40,83 @@ Monday 31 July 2023 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 2 August 2023
+
+## [The effects of the EU Fit for 55 package on labour markets and the demand for skills](https://doi.org/10.1787/6c16baac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 August 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Enhancing school improvement reform in New South Wales (Australia)](https://doi.org/10.1787/36135b5b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 August 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 August 2023
+
+## [Institutional shareholding, common ownership and productivity - A cross-country analysis](https://doi.org/10.1787/d398e5b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 4 August 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 

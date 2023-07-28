@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-07-27T23:17:50.8043974+02:00">
+<report name="official-embargoes" generated="2023-07-28T23:24:09.2340661+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -441,6 +441,66 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43a93551</cell>
   </row>
   <row index="22">
+    <cell name="directorate">Centre for Skills</cell>
+    <cell name="doi">10.1787/6c16baac-en</cell>
+    <cell name="title">The effects of the EU Fit for 55 package on labour markets and the demand for skills (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-08-02</cell>
+    <cell name="embargo date">2023-08-02T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-28T20:58:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-07-28T20:30:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f5478e8</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/36135b5b-en</cell>
+    <cell name="title">Enhancing school improvement reform in New South Wales (Australia) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-08-02</cell>
+    <cell name="embargo date">2023-08-02T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-28T20:58:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-07-28T20:30:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f87a262</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d398e5b4-en</cell>
+    <cell name="title">Institutional shareholding, common ownership and productivity (en)</cell>
+    <cell name="subtitle">A cross-country analysis (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-08-04</cell>
+    <cell name="embargo date">2023-08-04T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-07-28T20:58:38Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-07-28T20:30:19Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f75a1bc</cell>
+  </row>
+  <row index="25">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/28fa0bb5-en</cell>
     <cell name="title">Assessing and Anticipating Skills for the Green Transition (en)</cell>
@@ -460,7 +520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/74469bf7</cell>
   </row>
-  <row index="23">
+  <row index="26">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/28fa0bb5-en</cell>
     <cell name="title">Assessing and Anticipating Skills for the Green Transition (en)</cell>
@@ -480,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d525b6b3</cell>
   </row>
-  <row index="24">
+  <row index="27">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/315d1caa-en</cell>
     <cell name="title">Leveraging big data to assess the diffusion of digital skill demands in labour markets (en)</cell>
@@ -500,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31ef13cf</cell>
   </row>
-  <row index="25">
+  <row index="28">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/891d6579-en</cell>
     <cell name="title">Assessing the impact of digitalisation in Alberta through the lens of big data (en)</cell>
@@ -520,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8cd956a7</cell>
   </row>
-  <row index="26">
+  <row index="29">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1157b67c-en</cell>
     <cell name="title">Tracking demand in online job postings by sector of activity in Alberta (en)</cell>
@@ -540,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8ee1bc5</cell>
   </row>
-  <row index="27">
+  <row index="30">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34e44f12-en</cell>
     <cell name="title">Insights on the challenges faced by youth in Alberta (en)</cell>
@@ -560,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f55a4d3</cell>
   </row>
-  <row index="28">
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/dcafc36e-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -580,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bfea350b</cell>
   </row>
-  <row index="29">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f5082644-en</cell>
     <cell name="title">Occupations excluded from the teleworking analysis (en)</cell>
@@ -600,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ea1c558</cell>
   </row>
-  <row index="30">
+  <row index="33">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6bffac60-en</cell>
     <cell name="title">Details on occupations (en)</cell>
@@ -620,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/295fcf1f</cell>
   </row>
-  <row index="31">
+  <row index="34">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a578d416-en</cell>
     <cell name="title">Using machine learning to analyse the information contained in online job postings (en)</cell>
@@ -640,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5229d87a</cell>
   </row>
-  <row index="32">
+  <row index="35">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c21250c8-en</cell>
     <cell name="title">The evolution of growing occupations in online job postings in Alberta (en)</cell>
@@ -660,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d21c68e5</cell>
   </row>
-  <row index="33">
+  <row index="36">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c62840c0-en</cell>
     <cell name="title">The context: Trends in online job postings in Alberta (en)</cell>
@@ -680,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cfe9e69</cell>
   </row>
-  <row index="34">
+  <row index="37">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8cc89247-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -700,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81e796fe</cell>
   </row>
-  <row index="35">
+  <row index="38">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f5082644-en</cell>
     <cell name="title">Occupations excluded from the teleworking analysis (en)</cell>
@@ -720,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8911549</cell>
   </row>
-  <row index="36">
+  <row index="39">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6bffac60-en</cell>
     <cell name="title">Details on occupations (en)</cell>
@@ -740,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce3f4b43</cell>
   </row>
-  <row index="37">
+  <row index="40">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52d6d5ac-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -760,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41c17929</cell>
   </row>
-  <row index="38">
+  <row index="41">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/891d6579-en</cell>
     <cell name="title">Assessing the impact of digitalisation in Alberta through the lens of big data (en)</cell>
@@ -780,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80ad7788</cell>
   </row>
-  <row index="39">
+  <row index="42">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a578d416-en</cell>
     <cell name="title">Using machine learning to analyse the information contained in online job postings (en)</cell>
@@ -800,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ceda0389</cell>
   </row>
-  <row index="40">
+  <row index="43">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8cc89247-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -820,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c805ea52</cell>
   </row>
-  <row index="41">
+  <row index="44">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/34e44f12-en</cell>
     <cell name="title">Insights on the challenges faced by youth in Alberta (en)</cell>
@@ -840,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/debd67ba</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1157b67c-en</cell>
     <cell name="title">Tracking demand in online job postings by sector of activity in Alberta (en)</cell>
@@ -860,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80874de6</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/315d1caa-en</cell>
     <cell name="title">Leveraging big data to assess the diffusion of digital skill demands in labour markets (en)</cell>
@@ -880,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1771902</cell>
   </row>
-  <row index="44">
+  <row index="47">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/659ce346-en</cell>
     <cell name="title">Labour and Skills Demand in Alberta (en)</cell>
@@ -900,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ebacc6d</cell>
   </row>
-  <row index="45">
+  <row index="48">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/659ce346-en</cell>
     <cell name="title">Labour and Skills Demand in Alberta (en)</cell>
@@ -920,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27750265</cell>
   </row>
-  <row index="46">
+  <row index="49">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/659ce346-en</cell>
     <cell name="title">Labour and Skills Demand in Alberta (en)</cell>
@@ -940,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d66eb89</cell>
   </row>
-  <row index="47">
+  <row index="50">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52d6d5ac-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -960,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21f5b8c3</cell>
   </row>
-  <row index="48">
+  <row index="51">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c21250c8-en</cell>
     <cell name="title">The evolution of growing occupations in online job postings in Alberta (en)</cell>
@@ -980,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e691f62</cell>
   </row>
-  <row index="49">
+  <row index="52">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/659ce346-en</cell>
     <cell name="title">Labour and Skills Demand in Alberta (en)</cell>
@@ -1000,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/634ce9bf</cell>
   </row>
-  <row index="50">
+  <row index="53">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c62840c0-en</cell>
     <cell name="title">The context: Trends in online job postings in Alberta (en)</cell>
@@ -1020,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29c64a16</cell>
   </row>
-  <row index="51">
+  <row index="54">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/659ce346-en</cell>
     <cell name="title">Labour and Skills Demand in Alberta (en)</cell>
@@ -1040,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a7e1e001</cell>
   </row>
-  <row index="52">
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e13bef63-en</cell>
     <cell name="title">Education at a Glance 2023 (en)</cell>
@@ -1060,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d48ecfa8</cell>
   </row>
-  <row index="53">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d7f76adc-en</cell>
     <cell name="title">Education at a Glance 2023 Sources, Methodologies and Technical Notes (en)</cell>
@@ -1080,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513036f2</cell>
   </row>
-  <row index="54">
+  <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e13bef63-en</cell>
     <cell name="title">Education at a Glance 2023 (en)</cell>
@@ -1100,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d718a12</cell>
   </row>
-  <row index="55">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acff263d-en</cell>
     <cell name="title">Spotlight on Vocational Education and Training (en)</cell>
@@ -1120,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50a0a7e3</cell>
   </row>
-  <row index="56">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d7f76adc-en</cell>
     <cell name="title">Education at a Glance 2023 Sources, Methodologies and Technical Notes (en)</cell>
@@ -1140,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a78740dc</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -1160,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/387ff9a2</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -1180,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61b9c572</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d752d120-en</cell>
     <cell name="title">Methodological Guidelines for Environmentally Related Tax Revenue Accounts (en)</cell>
@@ -1200,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b7498ea</cell>
   </row>
-  <row index="60">
+  <row index="63">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/32810cf6-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the European Union (en)</cell>
@@ -1220,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62410e1a</cell>
   </row>
-  <row index="61">
+  <row index="64">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/32810cf6-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the European Union (en)</cell>
@@ -1240,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea53b36f</cell>
   </row>
-  <row index="62">
+  <row index="65">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1260,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
   </row>
-  <row index="63">
+  <row index="66">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1280,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
   </row>
-  <row index="64">
+  <row index="67">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1300,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
   </row>
-  <row index="65">
+  <row index="68">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1320,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
   </row>
-  <row index="66">
+  <row index="69">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1340,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
   </row>
-  <row index="67">
+  <row index="70">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1360,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
   </row>
-  <row index="68">
+  <row index="71">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1380,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
   </row>
-  <row index="69">
+  <row index="72">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1400,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
   </row>
-  <row index="70">
+  <row index="73">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1420,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
   </row>
-  <row index="71">
+  <row index="74">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1440,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
   </row>
-  <row index="72">
+  <row index="75">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4e3684a9-it</cell>
     <cell name="title">Sintesi (it)</cell>
@@ -1460,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
   </row>
-  <row index="73">
+  <row index="76">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -1480,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
   </row>
-  <row index="74">
+  <row index="77">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1500,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
   </row>
-  <row index="75">
+  <row index="78">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1520,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
   </row>
-  <row index="76">
+  <row index="79">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1540,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
   </row>
-  <row index="77">
+  <row index="80">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -1560,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
   </row>
-  <row index="78">
+  <row index="81">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1580,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
   </row>
-  <row index="79">
+  <row index="82">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1600,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
   </row>
-  <row index="80">
+  <row index="83">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
@@ -1620,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ee1bdb0</cell>
   </row>
-  <row index="81">
+  <row index="84">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
