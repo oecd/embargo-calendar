@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 July 2023 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 30 July 2023 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
 
@@ -15,7 +15,7 @@ Monday 31 July 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+- [x] Exported to OECD.org Sunday 30 July 2023 at 22:27
 
 ### Additional Information
 
