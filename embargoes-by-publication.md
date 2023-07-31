@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 July 2023 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 31 July 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
 
@@ -15,7 +15,7 @@ Monday 31 July 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 30 July 2023 at 22:27
+- [x] Exported to OECD.org Monday 31 July 2023 at 22:29
 
 ### Additional Information
 
@@ -67,7 +67,7 @@ Wednesday 2 August 2023 at 6:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -139,6 +139,29 @@ Friday 8 September 2023 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Corporate Governance Factbook 2023](https://doi.org/10.1787/6d912314-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 September 2023 at 0:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
