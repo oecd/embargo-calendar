@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 July 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 August 2023 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 July 2023](#31-july-2023)
 * [2 August 2023](#2-august-2023)
@@ -59,7 +59,7 @@ Wednesday 2 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
 
 ### Additional Information
 
@@ -80,15 +80,15 @@ Wednesday 2 August 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 1 August 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
 
