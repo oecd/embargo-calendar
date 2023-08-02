@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 August 2023 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 July 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 3 August 2023 at 0:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The effects of the EU Fit for 55 package on labour markets and the demand for skills](https://doi.org/10.1787/6c16baac-en)
 
@@ -38,7 +15,7 @@ Wednesday 2 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Wednesday 2 August 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 August 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
 
 ### Additional Information
 

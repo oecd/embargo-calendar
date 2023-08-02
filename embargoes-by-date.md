@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 August 2023 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 3 August 2023 at 0:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 July 2023](#31-july-2023)
 * [2 August 2023](#2-august-2023)
 * [4 August 2023](#4-august-2023)
 * [5 September 2023](#5-september-2023)
@@ -16,33 +15,6 @@ Data generated on | |
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
-
-------
-
-# 31 July 2023
-
-## [OECD Reviews of Innovation Policy: Korea 2023](https://doi.org/10.1787/bdcf9685-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 July 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 31 July 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -59,7 +31,7 @@ Wednesday 2 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
 
 ### Additional Information
 
@@ -82,7 +54,7 @@ Wednesday 2 August 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 1 August 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 1 August 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
 
 ### Additional Information
 
