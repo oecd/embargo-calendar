@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 August 2023 at 0:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 4 August 2023 at 0:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The effects of the EU Fit for 55 package on labour markets and the demand for skills](https://doi.org/10.1787/6c16baac-en)
 
@@ -61,7 +61,7 @@ Friday 4 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 July 2023 at 22:30
+- [x] Exported to OECD.org Thursday 3 August 2023 at 22:43
 
 ### Additional Information
 
