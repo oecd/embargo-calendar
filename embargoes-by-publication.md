@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 August 2023 at 0:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The effects of the EU Fit for 55 package on labour markets and the demand for skills](https://doi.org/10.1787/6c16baac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 August 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Enhancing school improvement reform in New South Wales (Australia)](https://doi.org/10.1787/36135b5b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 August 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 August 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 2 August 2023 at 23:03
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 4 August 2023 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Institutional shareholding, common ownership and productivity - A cross-country analysis](https://doi.org/10.1787/d398e5b4-en)
 
@@ -61,7 +15,7 @@ Friday 4 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 3 August 2023 at 22:43
+- [x] Exported to OECD.org Friday 4 August 2023 at 22:34
 
 ### Additional Information
 

@@ -2,92 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/6c16baac-end3e63
-SUMMARY:[Paper] The effects of the EU Fit for 55
-  package on labour markets and the deman
- d for skills
-DESCRIPTION:*[Paper] The effects of the EU Fit for 5
- 5 package on labour markets and the dema
- nd for skills*\n\nDirectorate: Centre fo
- r Skills\nLanguage: English\nDOI: https:
- //doi.org/10.1787/6c16baac-en\nPublicati
- on type: Paper\nReleased as: PDF\n\nEmba
- rgo date/time: Wednesday, 2 August 2023,
-  5:00 (GMT)\n\n\niLibrary export: Friday
- , 28 July 2023, 20:58 (GMT)\nFreepreview
-  export: never\nOECD.org export: Wednesd
- ay, 2 August 2023, 21:03 (GMT)\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s morning at 0:02, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=6c16b
- aac-en.
-DTSTAMP:20230804T000225Z
-DTSTART:20230802T050000Z
-DTEND:20230802T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] The effects of the EU 
- Fit for 55 package on labour markets and
-  the demand for skills
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/36135b5b-end3e119
-SUMMARY:[Paper] Enhancing school improvement ref
- orm in New South Wales (Australia)
-DESCRIPTION:*[Paper] Enhancing school improvement re
- form in New South Wales (Australia)*\n\n
- Directorate: Directorate for Education a
- nd Skills\nLanguage: English\nDOI: https
- ://doi.org/10.1787/36135b5b-en\nPublicat
- ion type: Paper\nReleased as: PDF\n\nEmb
- argo date/time: Wednesday, 2 August 2023
- , 6:00 (GMT)\n\n\niLibrary export: Tuesd
- ay, 1 August 2023, 20:58 (GMT)\nFreeprev
- iew export: never\nOECD.org export: Wedn
- esday, 2 August 2023, 21:03 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this morning at 0:02, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=36
- 135b5b-en.
-DTSTAMP:20230804T000225Z
-DTSTART:20230802T060000Z
-DTEND:20230802T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Enhancing school impro
- vement reform in New South Wales (Austra
- lia)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d398e5b4-end3e175
+UID:10.1787/d398e5b4-end3e63
 SUMMARY:[Paper] Institutional shareholding, comm
  on ownership and productivity - A cross-
  country analysis
@@ -100,22 +15,22 @@ DESCRIPTION:*[Paper] Institutional shareholding, com
  n\nEmbargo date/time: Friday, 4 August 2
  023, 5:00 (GMT)\n\n\niLibrary export: Fr
  iday, 28 July 2023, 20:58 (GMT)\nFreepre
- view export: never\nOECD.org export: Thu
- rsday, 3 August 2023, 20:43 (GMT)\nFTI l
- oaded: ✓\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this morning at 0:02, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=d3
- 98e5b4-en.
-DTSTAMP:20230804T000225Z
+ view export: never\nOECD.org export: Fri
+ day, 4 August 2023, 20:34 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:29, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=d
+ 398e5b4-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230804T050000Z
 DTEND:20230804T051500Z
 TRANSP:TRANSPARENT
@@ -130,7 +45,7 @@ DESCRIPTION:Reminder: [Paper] Institutional sharehol
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28fa0bb5-end3e231
+UID:10.1787/28fa0bb5-end3e119
 SUMMARY:[Book] Assessing and Anticipating Skills
   for the Green Transition - Unlocking Ta
  lent for a Sustainable Future
@@ -149,16 +64,16 @@ DESCRIPTION:*[Book] Assessing and Anticipating Skill
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this morning at 0:02, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=2
- 8fa0bb5-en.
-DTSTAMP:20230804T000225Z
+  this afternoon at 23:29, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=28fa0bb5-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230905T070000Z
 DTEND:20230905T071500Z
 TRANSP:TRANSPARENT
@@ -173,7 +88,7 @@ DESCRIPTION:Reminder: [Book] Assessing and Anticipat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/659ce346-end3e1421
+UID:10.1787/659ce346-end3e1309
 SUMMARY:[Stand-alone monograph] Labour and Skill
  s Demand in Alberta - Insights Using Big
   Data Intelligence
@@ -194,16 +109,16 @@ DESCRIPTION:*[Stand-alone monograph] Labour and Skil
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this morning at 0:02, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=659ce346-en.
-DTSTAMP:20230804T000225Z
+ as of this afternoon at 23:29, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=659ce346-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230908T060000Z
 DTEND:20230908T061500Z
 TRANSP:TRANSPARENT
@@ -218,7 +133,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Labour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6d912314-end3e1860
+UID:10.1787/6d912314-end3e1748
 SUMMARY:[Book] OECD Corporate Governance Factboo
  k 2023
 DESCRIPTION:*[Book] OECD Corporate Governance Factbo
@@ -234,16 +149,16 @@ DESCRIPTION:*[Book] OECD Corporate Governance Factbo
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this morning at 0:02, it is
-  updated each night; therefore any subse
- quent updates may not yet be visible her
- e. Also, please be aware that the differ
- ent released media (PDF, HTML, etc.) are
-  not necessarily released at the same ti
- me. For complete and up-to-date informat
- ion see here: http://kappa.oecd.org/v3/s
- earch?term=6d912314-en.
-DTSTAMP:20230804T000225Z
+ orrect as of this afternoon at 23:29, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=6d912314-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230911T003000Z
 DTEND:20230911T004500Z
 TRANSP:TRANSPARENT
@@ -257,7 +172,7 @@ DESCRIPTION:Reminder: [Book] OECD Corporate Governan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e13bef63-end3e1963
+UID:10.1787/e13bef63-end3e1850
 SUMMARY:[Book] Education at a Glance 2023 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
@@ -273,16 +188,16 @@ DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this morning at 0:02, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=e13bef63-en.
-DTSTAMP:20230804T000225Z
+  as of this afternoon at 23:29, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=e13bef63-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -296,7 +211,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/acff263d-end3e2120
+UID:10.1787/acff263d-end3e2008
 SUMMARY:[Stand-alone monograph] Spotlight on Voc
  ational Education and Training - Finding
  s from Education at a Glance 2023
@@ -315,16 +230,16 @@ DESCRIPTION:*[Stand-alone monograph] Spotlight on Vo
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- morning at 0:02, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=acff263
- d-en.
-DTSTAMP:20230804T000225Z
+ afternoon at 23:29, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=acff
+ 263d-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -340,7 +255,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Spotli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d7f76adc-end3e2173
+UID:10.1787/d7f76adc-end3e2061
 SUMMARY:[Stand-alone monograph] Education at a G
  lance 2023 Sources, Methodologies and Te
  chnical Notes
@@ -358,16 +273,16 @@ DESCRIPTION:*[Stand-alone monograph] Education at a
  r more information see: https://oecd.git
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
- rmation was correct as of this morning a
- t 0:02, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=d7f76adc-en.
-DTSTAMP:20230804T000225Z
+ rmation was correct as of this afternoon
+  at 23:29, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=d7f76adc-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -382,7 +297,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Educat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d8bc45d9-end3e2225
+UID:10.1787/d8bc45d9-end3e2112
 SUMMARY:[Book] Tax Policy Reforms 2023 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
@@ -398,16 +313,17 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
  \nFor more information see: https://oecd
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
- information was correct as of this morni
- ng at 0:02, it is updated each night; th
- erefore any subsequent updates may not y
- et be visible here. Also, please be awar
- e that the different released media (PDF
- , HTML, etc.) are not necessarily releas
- ed at the same time. For complete and up
- -to-date information see here: http://ka
- ppa.oecd.org/v3/search?term=d8bc45d9-en.
-DTSTAMP:20230804T000225Z
+ information was correct as of this after
+ noon at 23:29, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=d8bc45d9-
+ en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230913T090000Z
 DTEND:20230913T091500Z
 TRANSP:TRANSPARENT
@@ -421,7 +337,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2023
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d752d120-end3e2329
+UID:10.1787/d752d120-end3e2217
 SUMMARY:[Stand-alone monograph] Methodological G
  uidelines for Environmentally Related Ta
  x Revenue Accounts
@@ -439,16 +355,16 @@ DESCRIPTION:*[Stand-alone monograph] Methodological
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this morning at 0:02, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=d752d120-en.
-DTSTAMP:20230804T000225Z
+ ct as of this afternoon at 23:29, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=d752d120-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230914T220000Z
 DTEND:20230914T221500Z
 TRANSP:TRANSPARENT
@@ -463,7 +379,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Method
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/32810cf6-end3e2432
+UID:10.1787/32810cf6-end3e2320
 SUMMARY:[Book] Policies for the Future of Farmin
  g and Food in the European Union
 DESCRIPTION:*[Book] Policies for the Future of Farmi
@@ -479,16 +395,16 @@ DESCRIPTION:*[Book] Policies for the Future of Farmi
  or more information see: https://oecd.gi
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
- ormation was correct as of this morning 
- at 0:02, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=32810cf6-en.
-DTSTAMP:20230804T000225Z
+ ormation was correct as of this afternoo
+ n at 23:29, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=32810cf6-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20230927T080000Z
 DTEND:20230927T081500Z
 TRANSP:TRANSPARENT
@@ -503,7 +419,7 @@ DESCRIPTION:Reminder: [Book] Policies for the Future
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4bbbbfd6-end3e3122
+UID:10.1787/4bbbbfd6-end3e3010
 SUMMARY:[Stand-alone monograph] Big Data Intelli
  gence on Skills Demand and Training in U
  mbria
@@ -522,16 +438,16 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this morning at 0:02, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=4bbbbfd6-en.
-DTSTAMP:20230804T000225Z
+ ct as of this afternoon at 23:29, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=4bbbbfd6-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20231001T060000Z
 DTEND:20231001T061500Z
 TRANSP:TRANSPARENT
@@ -546,7 +462,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Big Da
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9953de23-end3e3441
+UID:10.1787/9953de23-end3e3329
 SUMMARY:[Book] Economic Policy Reforms 2023 - Go
  ing for Growth
 DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
@@ -561,17 +477,17 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  \n\nFor more information see: https://oe
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
- s information was correct as of this mor
- ning at 0:02, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=9953de23-e
- n.
-DTSTAMP:20230804T000225Z
+ s information was correct as of this aft
+ ernoon at 23:29, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=9953de2
+ 3-en.
+DTSTAMP:20230804T232925Z
 DTSTART:20231003T100000Z
 DTEND:20231003T101500Z
 TRANSP:TRANSPARENT
