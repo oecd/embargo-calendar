@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 August 2023 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Institutional shareholding, common ownership and productivity - A cross-country analysis](https://doi.org/10.1787/d398e5b4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 4 August 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 4 August 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 6 August 2023 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing and Anticipating Skills for the Green Transition - Unlocking Talent for a Sustainable Future](https://doi.org/10.1787/28fa0bb5-en)
 
