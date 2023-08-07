@@ -2,17 +2,46 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 August 2023 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 August 2023 at 0:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [3 September 2023](#3-september-2023)
 * [5 September 2023](#5-september-2023)
 * [8 September 2023](#8-september-2023)
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [14 September 2023](#14-september-2023)
+* [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
+
+------
+
+# 3 September 2023
+
+## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Resilience under Uncertainty](https://doi.org/10.1787/cd94bcf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 3 September 2023 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -219,6 +248,33 @@ Thursday 14 September 2023 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 25 September 2023
+
+## [Country-by-Country Reporting – Compilation of 2023 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/21bd1938-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
