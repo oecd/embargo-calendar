@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 August 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 17 August 2023 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 August 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 August 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Resilience under Uncertainty](https://doi.org/10.1787/cd94bcf6-en)
 

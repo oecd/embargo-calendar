@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 August 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 August 2023 at 23:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [22 August 2023](#22-august-2023)
 * [3 September 2023](#3-september-2023)
 * [5 September 2023](#5-september-2023)
 * [8 September 2023](#8-september-2023)
@@ -15,6 +16,33 @@ Data generated on | |
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
+
+------
+
+# 22 August 2023
+
+## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 August 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 17 August 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ------
 
