@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 August 2023 at 23:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 August 2023 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2023](#22-august-2023)
 * [3 September 2023](#3-september-2023)
@@ -12,6 +12,7 @@ Data generated on | |
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [14 September 2023](#14-september-2023)
+* [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
@@ -275,6 +276,33 @@ Thursday 14 September 2023 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 September 2023
+
+## [Building a Skilled Cyber Security Workforce in Latin America - Insights from Chile, Colombia and Mexico](https://doi.org/10.1787/9400ab5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 September 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

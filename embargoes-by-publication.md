@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 August 2023 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 18 August 2023 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
 
@@ -230,6 +230,29 @@ Thursday 14 September 2023 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Building a Skilled Cyber Security Workforce in Latin America - Insights from Chile, Colombia and Mexico](https://doi.org/10.1787/9400ab5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 September 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
