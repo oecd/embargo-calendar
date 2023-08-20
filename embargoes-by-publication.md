@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 August 2023 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 20 August 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
 
