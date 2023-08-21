@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 August 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 21 August 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2023](#22-august-2023)
 * [3 September 2023](#3-september-2023)
@@ -14,9 +14,9 @@ Data generated on | |
 * [14 September 2023](#14-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
-* [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
+* [9 October 2023](#9-october-2023)
 
 ------
 
@@ -33,7 +33,7 @@ Tuesday 22 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 August 2023 at 22:29
+- [x] Exported to OECD.org Monday 21 August 2023 at 22:30
 
 ### Additional Information
 
@@ -336,33 +336,6 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ------
 
-# 27 September 2023
-
-## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 September 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 1 October 2023
 
 ## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
@@ -408,6 +381,33 @@ Tuesday 3 October 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 9 October 2023
+
+## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

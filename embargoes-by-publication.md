@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 August 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 21 August 2023 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
 
@@ -15,7 +15,7 @@ Tuesday 22 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 17 August 2023 at 22:29
+- [x] Exported to OECD.org Monday 21 August 2023 at 22:30
 
 ### Additional Information
 
@@ -280,29 +280,6 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ------
 
-## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 September 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
 
 Embargo date | Launch date
@@ -342,6 +319,29 @@ Tuesday 3 October 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
