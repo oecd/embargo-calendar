@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 August 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 22 August 2023 at 23:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2023](#22-august-2023)
 * [3 September 2023](#3-september-2023)
@@ -33,7 +33,7 @@ Tuesday 22 August 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 21 August 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 22 August 2023 at 22:33
 
 ### Additional Information
 
@@ -130,6 +130,29 @@ Friday 8 September 2023 at 6:00 | no launch event
 
 # 11 September 2023
 
+## [G20/OECD Principles of Corporate Governance 2023](https://doi.org/10.1787/ed750b30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 September 2023 at 0:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Corporate Governance Factbook 2023](https://doi.org/10.1787/6d912314-en)
 
 Embargo date | Launch date
@@ -222,6 +245,52 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Coup de projecteur sur l’éducation et la formation professionnelles - Conclusions de Regards sur l’éducation 2023](https://doi.org/10.1787/6298178b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Regards sur l'éducation 2023 - Les indicateurs de l'OCDE](https://doi.org/10.1787/ffc3e63b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -334,6 +403,29 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ------
 
+## [Déclaration pays par pays – Recueil 2023 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/afe7bc49-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 1 October 2023
@@ -400,7 +492,7 @@ Monday 9 October 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
