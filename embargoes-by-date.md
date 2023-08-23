@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 August 2023 at 23:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 23 August 2023 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2023](#22-august-2023)
 * [3 September 2023](#3-september-2023)
@@ -14,6 +14,7 @@ Data generated on | |
 * [14 September 2023](#14-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
+* [27 September 2023](#27-september-2023)
 * [1 October 2023](#1-october-2023)
 * [3 October 2023](#3-october-2023)
 * [9 October 2023](#9-october-2023)
@@ -422,6 +423,33 @@ Monday 25 September 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 September 2023
+
+## [OECD Economic Surveys: Peru 2023](https://doi.org/10.1787/081e0906-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 September 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

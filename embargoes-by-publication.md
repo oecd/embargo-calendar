@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 August 2023 at 23:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 23 August 2023 at 23:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
 
@@ -368,6 +368,29 @@ Monday 25 September 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Peru 2023](https://doi.org/10.1787/081e0906-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 September 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
