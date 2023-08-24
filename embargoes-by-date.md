@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 August 2023 at 23:34* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 August 2023 at 0:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 August 2023](#22-august-2023)
+* [28 August 2023](#28-august-2023)
 * [3 September 2023](#3-september-2023)
 * [5 September 2023](#5-september-2023)
 * [8 September 2023](#8-september-2023)
@@ -21,24 +21,24 @@ Data generated on | |
 
 ------
 
-# 22 August 2023
+# 28 August 2023
 
-## [Lifting labour supply to tackle tightness in the Netherlands](https://doi.org/10.1787/df5448fe-en)
+## [The taxation of labour vs. capital income - A focus on high-income earners](https://doi.org/10.1787/04f8d936-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 22 August 2023 at 5:00 | no launch event
+Monday 28 August 2023 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 August 2023 at 23:16
+- [x] Exported to iLibrary Thursday 24 August 2023 at 23:26
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 22 August 2023 at 22:33
+- [x] Exported to OECD.org Thursday 24 August 2023 at 22:32
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*

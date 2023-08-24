@@ -2,43 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/df5448fe-end3e63
-SUMMARY:[Paper] Lifting labour supply to tackle 
- tightness in the Netherlands
-DESCRIPTION:*[Paper] Lifting labour supply to tackle
-  tightness in the Netherlands*\n\nDirect
- orate: Economics Department\nLanguage: E
- nglish\nDOI: https://doi.org/10.1787/df5
- 448fe-en\nPublication type: Paper\nRelea
- sed as: PDF\n\nEmbargo date/time: Tuesda
- y, 22 August 2023, 5:00 (GMT)\n\n\niLibr
- ary export: Thursday, 17 August 2023, 21
- :16 (GMT)\nFreepreview export: never\nOE
- CD.org export: Tuesday, 22 August 2023, 
- 20:33 (GMT)\nFTI loaded: ✓\n\nFor more i
- nformation see: https://oecd.github.io/e
- mbargo-calendar/embargoes-by-publication
- .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:3
- 4, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=df5448fe-en.
-DTSTAMP:20230823T233413Z
-DTSTART:20230822T050000Z
-DTEND:20230822T051500Z
+UID:10.1787/04f8d936-end3e63
+SUMMARY:[Paper] The taxation of labour vs. capit
+ al income - A focus on high-income earne
+ rs
+DESCRIPTION:*[Paper] The taxation of labour vs. capi
+ tal income - A focus on high-income earn
+ ers*\n\nDirectorate: Centre for Tax Poli
+ cy and Administration\nLanguage: English
+ \nDOI: https://doi.org/10.1787/04f8d936-
+ en\nPublication type: Paper\nReleased as
+ : PDF\n\nEmbargo date/time: Monday, 28 A
+ ugust 2023, 9:00 (GMT)\n\n\niLibrary exp
+ ort: Thursday, 24 August 2023, 21:26 (GM
+ T)\nFreepreview export: never\nOECD.org 
+ export: Thursday, 24 August 2023, 20:32 
+ (GMT)\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this morning at 0:01, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=04f8d936-en.
+DTSTAMP:20230825T000123Z
+DTSTART:20230828T090000Z
+DTEND:20230828T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT24H
+TRIGGER:-PT72H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] Lifting labour supply 
- to tackle tightness in the Netherlands
+DESCRIPTION:Reminder: [Paper] The taxation of labour
+  vs. capital income - A focus on high-in
+ come earners
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -59,17 +62,17 @@ DESCRIPTION:*[Issue] Economic Outlook for Southeast
  n\nFor more information see: https://oec
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 23:34, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=cd94bcf6
- -en.
-DTSTAMP:20230823T233413Z
+  information was correct as of this morn
+ ing at 0:01, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=cd94bcf6-en
+ .
+DTSTAMP:20230825T000123Z
 DTSTART:20230903T020000Z
 DTEND:20230903T021500Z
 TRANSP:TRANSPARENT
@@ -103,16 +106,16 @@ DESCRIPTION:*[Book] Assessing and Anticipating Skill
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:34, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=28fa0bb5-en.
-DTSTAMP:20230823T233413Z
+  this morning at 0:01, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=2
+ 8fa0bb5-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230905T070000Z
 DTEND:20230905T071500Z
 TRANSP:TRANSPARENT
@@ -148,16 +151,16 @@ DESCRIPTION:*[Stand-alone monograph] Labour and Skil
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:34, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=659ce346-en.
-DTSTAMP:20230823T233413Z
+ as of this morning at 0:01, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=659ce346-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230908T060000Z
 DTEND:20230908T061500Z
 TRANSP:TRANSPARENT
@@ -189,16 +192,16 @@ DESCRIPTION:*[Stand-alone monograph] G20/OECD Princi
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:34,
-  it is updated each night; therefore any
-  subsequent updates may not yet be visib
- le here. Also, please be aware that the 
- different released media (PDF, HTML, etc
- .) are not necessarily released at the s
- ame time. For complete and up-to-date in
- formation see here: http://kappa.oecd.or
- g/v3/search?term=ed750b30-en.
-DTSTAMP:20230823T233413Z
+ s correct as of this morning at 0:01, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=ed750b30-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230911T003000Z
 DTEND:20230911T004500Z
 TRANSP:TRANSPARENT
@@ -229,16 +232,16 @@ DESCRIPTION:*[Book] OECD Corporate Governance Factbo
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:34, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=6d912314-en.
-DTSTAMP:20230823T233413Z
+ orrect as of this morning at 0:01, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=6d912314-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230911T003000Z
 DTEND:20230911T004500Z
 TRANSP:TRANSPARENT
@@ -268,16 +271,16 @@ DESCRIPTION:*[Book] Education at a Glance 2023 - OEC
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:34, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=e13bef63-en.
-DTSTAMP:20230823T233413Z
+  as of this morning at 0:01, it is updat
+ ed each night; therefore any subsequent 
+ updates may not yet be visible here. Als
+ o, please be aware that the different re
+ leased media (PDF, HTML, etc.) are not n
+ ecessarily released at the same time. Fo
+ r complete and up-to-date information se
+ e here: http://kappa.oecd.org/v3/search?
+ term=e13bef63-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -310,16 +313,16 @@ DESCRIPTION:*[Stand-alone monograph] Spotlight on Vo
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:34, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=acff
- 263d-en.
-DTSTAMP:20230823T233413Z
+ morning at 0:01, it is updated each nigh
+ t; therefore any subsequent updates may 
+ not yet be visible here. Also, please be
+  aware that the different released media
+  (PDF, HTML, etc.) are not necessarily r
+ eleased at the same time. For complete a
+ nd up-to-date information see here: http
+ ://kappa.oecd.org/v3/search?term=acff263
+ d-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -353,16 +356,16 @@ DESCRIPTION:*[Stand-alone monograph] Education at a
  r more information see: https://oecd.git
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
- rmation was correct as of this afternoon
-  at 23:34, it is updated each night; the
- refore any subsequent updates may not ye
- t be visible here. Also, please be aware
-  that the different released media (PDF,
-  HTML, etc.) are not necessarily release
- d at the same time. For complete and up-
- to-date information see here: http://kap
- pa.oecd.org/v3/search?term=d7f76adc-en.
-DTSTAMP:20230823T233413Z
+ rmation was correct as of this morning a
+ t 0:01, it is updated each night; theref
+ ore any subsequent updates may not yet b
+ e visible here. Also, please be aware th
+ at the different released media (PDF, HT
+ ML, etc.) are not necessarily released a
+ t the same time. For complete and up-to-
+ date information see here: http://kappa.
+ oecd.org/v3/search?term=d7f76adc-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -397,16 +400,16 @@ DESCRIPTION:*[Stand-alone monograph] Coup de project
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:3
- 4, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=6298178b-fr.
-DTSTAMP:20230823T233413Z
+ was correct as of this morning at 0:01, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=6298178b-fr.
+DTSTAMP:20230825T000123Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -438,16 +441,16 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2023 - L
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:3
- 4, it is updated each night; therefore a
- ny subsequent updates may not yet be vis
- ible here. Also, please be aware that th
- e different released media (PDF, HTML, e
- tc.) are not necessarily released at the
-  same time. For complete and up-to-date 
- information see here: http://kappa.oecd.
- org/v3/search?term=ffc3e63b-fr.
-DTSTAMP:20230823T233413Z
+ was correct as of this morning at 0:01, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=ffc3e63b-fr.
+DTSTAMP:20230825T000123Z
 DTSTART:20230912T090000Z
 DTEND:20230912T091500Z
 TRANSP:TRANSPARENT
@@ -477,17 +480,16 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2023 - OECD a
  \nFor more information see: https://oecd
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 23:34, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=d8bc45d9-
- en.
-DTSTAMP:20230823T233413Z
+ information was correct as of this morni
+ ng at 0:01, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=d8bc45d9-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230913T090000Z
 DTEND:20230913T091500Z
 TRANSP:TRANSPARENT
@@ -519,16 +521,16 @@ DESCRIPTION:*[Stand-alone monograph] Methodological
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:34, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=d752d120-en.
-DTSTAMP:20230823T233413Z
+ ct as of this morning at 0:01, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=d752d120-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230914T220000Z
 DTEND:20230914T221500Z
 TRANSP:TRANSPARENT
@@ -561,17 +563,17 @@ DESCRIPTION:*[Book] Building a Skilled Cyber Securit
  n\nFor more information see: https://oec
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
-  information was correct as of this afte
- rnoon at 23:34, it is updated each night
- ; therefore any subsequent updates may n
- ot yet be visible here. Also, please be 
- aware that the different released media 
- (PDF, HTML, etc.) are not necessarily re
- leased at the same time. For complete an
- d up-to-date information see here: http:
- //kappa.oecd.org/v3/search?term=9400ab5c
- -en.
-DTSTAMP:20230823T233413Z
+  information was correct as of this morn
+ ing at 0:01, it is updated each night; t
+ herefore any subsequent updates may not 
+ yet be visible here. Also, please be awa
+ re that the different released media (PD
+ F, HTML, etc.) are not necessarily relea
+ sed at the same time. For complete and u
+ p-to-date information see here: http://k
+ appa.oecd.org/v3/search?term=9400ab5c-en
+ .
+DTSTAMP:20230825T000123Z
 DTSTART:20230922T070000Z
 DTEND:20230922T071500Z
 TRANSP:TRANSPARENT
@@ -605,16 +607,16 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:34, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=21
- bd1938-en.
-DTSTAMP:20230823T233413Z
+ s morning at 0:01, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=21bd1
+ 938-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230925T090000Z
 DTEND:20230925T091500Z
 TRANSP:TRANSPARENT
@@ -650,16 +652,16 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  information see: https://oecd.github.io/
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 34, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=afe7bc49-fr.
-DTSTAMP:20230823T233413Z
+  was correct as of this morning at 0:01,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=afe7bc49-fr.
+DTSTAMP:20230825T000123Z
 DTSTART:20230925T090000Z
 DTEND:20230925T091500Z
 TRANSP:TRANSPARENT
@@ -691,16 +693,16 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:34, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=081e0906-en.
-DTSTAMP:20230823T233413Z
+  of this morning at 0:01, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=081e0906-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20230927T160000Z
 DTEND:20230927T161500Z
 TRANSP:TRANSPARENT
@@ -733,16 +735,16 @@ DESCRIPTION:*[Stand-alone monograph] Big Data Intell
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:34, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=4bbbbfd6-en.
-DTSTAMP:20230823T233413Z
+ ct as of this morning at 0:01, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=4bbbbfd6-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20231001T060000Z
 DTEND:20231001T061500Z
 TRANSP:TRANSPARENT
@@ -772,17 +774,17 @@ DESCRIPTION:*[Book] Economic Policy Reforms 2023 - G
  \n\nFor more information see: https://oe
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 23:34, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=9953de2
- 3-en.
-DTSTAMP:20230823T233413Z
+ s information was correct as of this mor
+ ning at 0:01, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=9953de23-e
+ n.
+DTSTAMP:20230825T000123Z
 DTSTART:20231003T100000Z
 DTEND:20231003T101500Z
 TRANSP:TRANSPARENT
@@ -812,16 +814,16 @@ DESCRIPTION:*[Book] Policies for the Future of Farmi
  e information see: https://oecd.github.i
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 3:34, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=32810cf6-en.
-DTSTAMP:20230823T233413Z
+ on was correct as of this morning at 0:0
+ 1, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=32810cf6-en.
+DTSTAMP:20230825T000123Z
 DTSTART:20231009T080000Z
 DTEND:20231009T081500Z
 TRANSP:TRANSPARENT
