@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 August 2023 at 0:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 25 August 2023 at 23:57* | [See embargoes by date](embargoes-by-date.md) |
 
-## [The taxation of labour vs. capital income - A focus on high-income earners](https://doi.org/10.1787/04f8d936-en)
+## [The taxation of labour vs. capital income - A focus on high earners](https://doi.org/10.1787/04f8d936-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -13,9 +13,9 @@ Monday 28 August 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 August 2023 at 23:26
+- [x] Exported to iLibrary Friday 25 August 2023 at 23:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 24 August 2023 at 22:32
+- [x] Exported to OECD.org Friday 25 August 2023 at 22:32
 
 ### Additional Information
 
@@ -27,7 +27,7 @@ Monday 28 August 2023 at 9:00 | no launch event
 
 ------
 
-## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Resilience under Uncertainty](https://doi.org/10.1787/cd94bcf6-en)
+## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Coping with Headwinds](https://doi.org/10.1787/cd94bcf6-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -208,6 +208,29 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Bildung auf einen Blick 2023 - OECD-Indikatoren](https://doi.org/10.1787/34087b82-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -415,6 +438,29 @@ Sunday 1 October 2023 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 October 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
