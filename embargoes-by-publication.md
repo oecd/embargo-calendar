@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 27 August 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 28 August 2023 at 23:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The taxation of labour vs. capital income - A focus on high earners](https://doi.org/10.1787/04f8d936-en)
 
@@ -13,9 +13,9 @@ Monday 28 August 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 25 August 2023 at 23:22
+- [x] Exported to iLibrary Monday 28 August 2023 at 23:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 27 August 2023 at 22:29
+- [x] Exported to OECD.org Monday 28 August 2023 at 22:33
 
 ### Additional Information
 
@@ -58,18 +58,18 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 August 2023 at 23:20
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 28 August 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -100,7 +100,7 @@ Friday 8 September 2023 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 11 September 2023 at 0:30 | no launch event
+Monday 11 September 2023 at 12:30 | no launch event
 
 ### Status Information
 
@@ -123,7 +123,7 @@ Monday 11 September 2023 at 0:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 11 September 2023 at 0:30 | no launch event
+Monday 11 September 2023 at 12:30 | no launch event
 
 ### Status Information
 
@@ -219,7 +219,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
