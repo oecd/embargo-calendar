@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-08-28T23:51:38.5032351+02:00">
+<report name="official-embargoes" generated="2023-08-29T23:50:32.4310283+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2023-08-28T21:20:01Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-08-28T20:33:15Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-08-28T22:18:42Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -1162,6 +1162,26 @@
   </row>
   <row index="58">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/734e2284-fr</cell>
+    <cell name="title">Principes de gouvernance d’entreprise du G20 et de l’OCDE 2023 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-09-11</cell>
+    <cell name="embargo date">2023-09-11T00:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21f92027</cell>
+  </row>
+  <row index="59">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6d912314-en</cell>
     <cell name="title">OECD Corporate Governance Factbook 2023 (en)</cell>
     <cell name="subtitle"/>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f85f1ff9</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/ed750b30-en</cell>
     <cell name="title">G20/OECD Principles of Corporate Governance 2023 (en)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c29edb83</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/6d912314-en</cell>
     <cell name="title">OECD Corporate Governance Factbook 2023 (en)</cell>
@@ -1220,7 +1240,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/32d228aa</cell>
   </row>
-  <row index="61">
+  <row index="62">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/734e2284-fr</cell>
+    <cell name="title">Principes de gouvernance d’entreprise du G20 et de l’OCDE 2023 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-09-11</cell>
+    <cell name="embargo date">2023-09-11T12:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c511e9f</cell>
+  </row>
+  <row index="63">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e13bef63-en</cell>
     <cell name="title">Education at a Glance 2023 (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d48ecfa8</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d7f76adc-en</cell>
     <cell name="title">Education at a Glance 2023 Sources, Methodologies and Technical Notes (en)</cell>
@@ -1260,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/513036f2</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e13bef63-en</cell>
     <cell name="title">Education at a Glance 2023 (en)</cell>
@@ -1280,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d718a12</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/acff263d-en</cell>
     <cell name="title">Spotlight on Vocational Education and Training (en)</cell>
@@ -1300,7 +1340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50a0a7e3</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d7f76adc-en</cell>
     <cell name="title">Education at a Glance 2023 Sources, Methodologies and Technical Notes (en)</cell>
@@ -1320,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a78740dc</cell>
   </row>
-  <row index="66">
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ffc3e63b-fr</cell>
     <cell name="title">Regards sur l'éducation 2023 (fr)</cell>
@@ -1340,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3eb5864</cell>
   </row>
-  <row index="67">
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/34087b82-de</cell>
     <cell name="title">Bildung auf einen Blick 2023 (de)</cell>
@@ -1360,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e642f39</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6298178b-fr</cell>
     <cell name="title">Coup de projecteur sur l’éducation et la formation professionnelles (fr)</cell>
@@ -1380,7 +1420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84e11a8d</cell>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ffc3e63b-fr</cell>
     <cell name="title">Regards sur l'éducation 2023 (fr)</cell>
@@ -1400,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/712455d8</cell>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/387ff9a2</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d8bc45d9-en</cell>
     <cell name="title">Tax Policy Reforms 2023 (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61b9c572</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d752d120-en</cell>
     <cell name="title">Methodological Guidelines for Environmentally Related Tax Revenue Accounts (en)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b7498ea</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9400ab5c-en</cell>
     <cell name="title">Building a Skilled Cyber Security Workforce in Latin America (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/072d4df9</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/21bd1938-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of 2023 Peer Review Reports (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbb237a4</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/21bd1938-en</cell>
     <cell name="title">Country-by-Country Reporting – Compilation of 2023 Peer Review Reports (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33c0b807</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/afe7bc49-fr</cell>
     <cell name="title">Déclaration pays par pays – Recueil 2023 de rapports d’examen par les pairs (version abrégée) (fr)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e78154d4</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/afe7bc49-fr</cell>
     <cell name="title">Déclaration pays par pays – Recueil 2023 de rapports d’examen par les pairs (version abrégée) (fr)</cell>
@@ -1560,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f34e8dca</cell>
   </row>
-  <row index="78">
+  <row index="80">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/197780fb-en</cell>
     <cell name="title">Innovation for sustainability (en)</cell>
@@ -1580,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8358c6ec</cell>
   </row>
-  <row index="79">
+  <row index="81">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/32810cf6-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the European Union (en)</cell>
@@ -1600,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62410e1a</cell>
   </row>
-  <row index="80">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/49bf1433-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1620,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c49e192</cell>
   </row>
-  <row index="81">
+  <row index="83">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/dd15535e-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1640,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6530efd</cell>
   </row>
-  <row index="82">
+  <row index="84">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/44f33bb6-en</cell>
     <cell name="title">Environmental sustainability (en)</cell>
@@ -1660,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45dc528f</cell>
   </row>
-  <row index="83">
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8c4ad814-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1680,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c89dcfe</cell>
   </row>
-  <row index="84">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6fa2b6fe-en</cell>
     <cell name="title">Acronyms and abbreviations (en)</cell>
@@ -1700,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c92a1347</cell>
   </row>
-  <row index="85">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3db4803d-en</cell>
     <cell name="title">Policy objectives and outcome performance (en)</cell>
@@ -1720,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a845508</cell>
   </row>
-  <row index="86">
+  <row index="88">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f118803d-en</cell>
     <cell name="title">Context and drivers (en)</cell>
@@ -1740,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb2e02b2</cell>
   </row>
-  <row index="87">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4ad5273c-en</cell>
     <cell name="title">The agricultural policy setting (en)</cell>
@@ -1760,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/94b52c29</cell>
   </row>
-  <row index="88">
+  <row index="90">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/081e0906-en</cell>
     <cell name="title">OECD Economic Surveys: Peru 2023 (en)</cell>
@@ -1780,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4da137a9</cell>
   </row>
-  <row index="89">
+  <row index="91">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/081e0906-en</cell>
     <cell name="title">OECD Economic Surveys: Peru 2023 (en)</cell>
@@ -1800,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26146a18</cell>
   </row>
-  <row index="90">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1820,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
   </row>
-  <row index="91">
+  <row index="93">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1840,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
   </row>
-  <row index="92">
+  <row index="94">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1860,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
   </row>
-  <row index="93">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1880,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7baab6ea</cell>
   </row>
-  <row index="94">
+  <row index="96">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1900,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
   </row>
-  <row index="95">
+  <row index="97">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1920,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
   </row>
-  <row index="96">
+  <row index="98">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1940,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
   </row>
-  <row index="97">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -1960,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
   </row>
-  <row index="98">
+  <row index="100">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -1980,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
   </row>
-  <row index="99">
+  <row index="101">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2000,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
   </row>
-  <row index="100">
+  <row index="102">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4e3684a9-it</cell>
     <cell name="title">Sintesi (it)</cell>
@@ -2020,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
   </row>
-  <row index="101">
+  <row index="103">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -2040,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
   </row>
-  <row index="102">
+  <row index="104">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2060,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
   </row>
-  <row index="103">
+  <row index="105">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2080,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
   </row>
-  <row index="104">
+  <row index="106">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2100,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
   </row>
-  <row index="105">
+  <row index="107">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -2120,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
   </row>
-  <row index="106">
+  <row index="108">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2140,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
   </row>
-  <row index="107">
+  <row index="109">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2160,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
   </row>
-  <row index="108">
+  <row index="110">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -2180,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70bf336f</cell>
   </row>
-  <row index="109">
+  <row index="111">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -2200,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80d46b29</cell>
   </row>
-  <row index="110">
+  <row index="112">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
@@ -2220,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ee1bdb0</cell>
   </row>
-  <row index="111">
+  <row index="113">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/9953de23-en</cell>
     <cell name="title">Economic Policy Reforms 2023 (en)</cell>
@@ -2240,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f917ef4b</cell>
   </row>
-  <row index="112">
+  <row index="114">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/32810cf6-en</cell>
     <cell name="title">Policies for the Future of Farming and Food in the European Union (en)</cell>
