@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 August 2023 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The taxation of labour vs. capital income - A focus on high earners](https://doi.org/10.1787/04f8d936-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 August 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 August 2023 at 23:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 August 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 30 August 2023 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Coping with Headwinds](https://doi.org/10.1787/cd94bcf6-en)
 
@@ -59,7 +36,7 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 August 2023 at 23:20
+- [x] Exported to iLibrary Wednesday 30 August 2023 at 23:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 28 August 2023 at 22:33
 
@@ -464,6 +441,52 @@ Sunday 1 October 2023 at 6:00 | no launch event
 
 ------
 
+## [Examens de l'OCDE sur la coopération pour le développement : Pays-Bas 2023](https://doi.org/10.1787/f1487cdf-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: Netherlands 2023](https://doi.org/10.1787/67b0a326-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
 
 Embargo date | Launch date
@@ -529,6 +552,29 @@ Monday 9 October 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [How to make societies thrive? Coordinating approaches to promote well-being and mental health](https://doi.org/10.1787/fc6b9844-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
