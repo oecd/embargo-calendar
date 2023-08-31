@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 August 2023 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 31 August 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Coping with Headwinds](https://doi.org/10.1787/cd94bcf6-en)
 
