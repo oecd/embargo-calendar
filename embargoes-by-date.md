@@ -2,10 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 August 2023 at 23:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 September 2023 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 September 2023](#3-september-2023)
+* [4 September 2023](#4-september-2023)
 * [5 September 2023](#5-september-2023)
+* [6 September 2023](#6-september-2023)
 * [8 September 2023](#8-september-2023)
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
@@ -32,7 +34,7 @@ Sunday 3 September 2023 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -43,6 +45,33 @@ Sunday 3 September 2023 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 September 2023
+
+## [Transparency reporting on child sexual exploitation and abuse online](https://doi.org/10.1787/554ad91f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 September 2023 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 September 2023 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 1 September 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -71,6 +100,56 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 6 September 2023
+
+## [Études économiques de l’OCDE : Union européenne et zone euro 2023](https://doi.org/10.1787/41165fde-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: European Union and Euro Area 2023](https://doi.org/10.1787/7ebe8cc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -113,7 +192,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -124,7 +203,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -159,7 +238,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
