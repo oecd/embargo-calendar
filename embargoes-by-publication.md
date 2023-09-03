@@ -2,9 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 September 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 3 September 2023 at 23:50* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Coping with Headwinds](https://doi.org/10.1787/cd94bcf6-en)
+## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Resilience Under Uncertainty](https://doi.org/10.1787/cd94bcf6-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -13,15 +13,15 @@ Sunday 3 September 2023 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Sunday 3 September 2023 at 23:13
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Sunday 3 September 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Format: *PDF*
 
