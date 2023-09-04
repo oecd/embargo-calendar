@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 September 2023 at 23:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 September 2023 at 23:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [3 September 2023](#3-september-2023)
 * [4 September 2023](#4-september-2023)
@@ -35,7 +35,7 @@ Sunday 3 September 2023 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 3 September 2023 at 23:13
+- [x] Exported to iLibrary Monday 4 September 2023 at 23:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Sunday 3 September 2023 at 22:29
 
@@ -64,7 +64,7 @@ Monday 4 September 2023 at 23:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 September 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 September 2023 at 22:32
+- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
 
 ### Additional Information
 
@@ -91,7 +91,7 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 August 2023 at 23:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 28 August 2023 at 22:33
+- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
 
 ### Additional Information
 
@@ -106,6 +106,29 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 ------
 
 # 6 September 2023
+
+## [Nowcasting trade in value added indicators](https://doi.org/10.1787/00f8aff7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 September 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 September 2023 at 23:21
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Études économiques de l’OCDE : Union européenne et zone euro 2023](https://doi.org/10.1787/41165fde-fr)
 
@@ -547,6 +570,29 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: Perú 2023](https://doi.org/10.1787/f67c8432-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 September 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
