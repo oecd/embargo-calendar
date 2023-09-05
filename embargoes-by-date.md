@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 September 2023 at 23:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 5 September 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 September 2023](#3-september-2023)
 * [4 September 2023](#4-september-2023)
 * [5 September 2023](#5-september-2023)
 * [6 September 2023](#6-september-2023)
@@ -24,33 +23,6 @@ Data generated on | |
 
 ------
 
-# 3 September 2023
-
-## [Economic Outlook for Southeast Asia, China and India 2023 - Update - Resilience Under Uncertainty](https://doi.org/10.1787/cd94bcf6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 3 September 2023 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 September 2023 at 23:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 September 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-------
-
 # 4 September 2023
 
 ## [Transparency reporting on child sexual exploitation and abuse online](https://doi.org/10.1787/554ad91f-en)
@@ -62,9 +34,9 @@ Monday 4 September 2023 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 September 2023 at 22:56
+- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
@@ -91,7 +63,7 @@ Tuesday 5 September 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 30 August 2023 at 23:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
@@ -118,7 +90,7 @@ Wednesday 6 September 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 September 2023 at 23:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
@@ -138,7 +110,7 @@ Wednesday 6 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -161,7 +133,7 @@ Wednesday 6 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -216,15 +188,15 @@ Monday 11 September 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -238,16 +210,16 @@ Monday 11 September 2023 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -279,6 +251,29 @@ Monday 11 September 2023 at 12:30 | no launch event
 ------
 
 # 12 September 2023
+
+## [Production Transformation Policy Review of Bangladesh - Investing in the Future of a Trading Nation](https://doi.org/10.1787/8b925b06-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 September 2023 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Education at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/e13bef63-en)
 
@@ -431,15 +426,15 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
