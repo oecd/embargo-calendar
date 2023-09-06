@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 September 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 September 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 September 2023](#4-september-2023)
 * [5 September 2023](#5-september-2023)
@@ -11,7 +11,6 @@ Data generated on | |
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
-* [14 September 2023](#14-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
@@ -90,7 +89,7 @@ Wednesday 6 September 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 September 2023 at 23:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
@@ -111,15 +110,15 @@ Wednesday 6 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -134,15 +133,15 @@ Wednesday 6 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -284,15 +283,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -307,15 +306,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -353,15 +352,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -426,7 +425,7 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
+- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
 
@@ -437,33 +436,6 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 14 September 2023
-
-## [Methodological Guidelines for Environmentally Related Tax Revenue Accounts](https://doi.org/10.1787/d752d120-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 September 2023 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
 
 ------
 
