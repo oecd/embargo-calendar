@@ -2,15 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 September 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 7 September 2023 at 23:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 September 2023](#4-september-2023)
-* [5 September 2023](#5-september-2023)
 * [6 September 2023](#6-september-2023)
 * [8 September 2023](#8-september-2023)
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
+* [15 September 2023](#15-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
@@ -19,60 +18,6 @@ Data generated on | |
 * [3 October 2023](#3-october-2023)
 * [9 October 2023](#9-october-2023)
 * [17 October 2023](#17-october-2023)
-
-------
-
-# 4 September 2023
-
-## [Transparency reporting on child sexual exploitation and abuse online](https://doi.org/10.1787/554ad91f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 September 2023 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 5 September 2023
-
-## [Assessing and Anticipating Skills for the Green Transition - Unlocking Talent for a Sustainable Future](https://doi.org/10.1787/28fa0bb5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 September 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 August 2023 at 23:19
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -162,7 +107,7 @@ Friday 8 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 July 2023 at 22:28
+- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
 
 ### Additional Information
 
@@ -187,15 +132,15 @@ Monday 11 September 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
+- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
+- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -210,17 +155,17 @@ Monday 11 September 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 September 2023 at 22:58
+- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
+- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -233,17 +178,17 @@ Monday 11 September 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -436,6 +381,33 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 September 2023
+
+## [Patient engagement for patient safety - The why, what, and how of patient engagement for improving patient safety](https://doi.org/10.1787/5fa8df20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 September 2023 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
