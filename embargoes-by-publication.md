@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 September 2023 at 23:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Nowcasting trade in value added indicators](https://doi.org/10.1787/00f8aff7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 September 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 September 2023 at 23:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Union européenne et zone euro 2023](https://doi.org/10.1787/41165fde-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: European Union and Euro Area 2023](https://doi.org/10.1787/7ebe8cc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Friday 8 September 2023 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
 
@@ -84,7 +15,7 @@ Friday 8 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
+- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
 
 ### Additional Information
 
@@ -196,8 +127,8 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
@@ -220,9 +151,9 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
+- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
 
 ### Additional Information
 
@@ -243,15 +174,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -266,7 +197,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
 
@@ -289,15 +220,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -312,15 +243,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -599,6 +530,29 @@ Tuesday 3 October 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The Midcareer Opportunity - Meeting the Challenges of an Ageing Workforce](https://doi.org/10.1787/ed91b0c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
