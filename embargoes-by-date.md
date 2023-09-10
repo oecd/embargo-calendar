@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 September 2023 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 10 September 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 September 2023](#8-september-2023)
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
@@ -17,33 +16,6 @@ Data generated on | |
 * [3 October 2023](#3-october-2023)
 * [9 October 2023](#9-october-2023)
 * [17 October 2023](#17-october-2023)
-
-------
-
-# 8 September 2023
-
-## [Labour and Skills Demand in Alberta - Insights Using Big Data Intelligence](https://doi.org/10.1787/659ce346-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 September 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 July 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -60,7 +32,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
+- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
 
 ### Additional Information
 
@@ -83,7 +55,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
+- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
 
 ### Additional Information
 
@@ -106,7 +78,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 September 2023 at 22:35
+- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
 
 ### Additional Information
 
