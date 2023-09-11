@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 September 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 September 2023 at 0:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [15 September 2023](#15-september-2023)
+* [19 September 2023](#19-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
@@ -16,6 +17,7 @@ Data generated on | |
 * [3 October 2023](#3-october-2023)
 * [9 October 2023](#9-october-2023)
 * [17 October 2023](#17-october-2023)
+* [31 October 2023](#31-october-2023)
 
 ------
 
@@ -32,7 +34,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
@@ -53,9 +55,9 @@ Monday 11 September 2023 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
+- [x] Exported to iLibrary Monday 11 September 2023 at 15:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
@@ -78,7 +80,7 @@ Monday 11 September 2023 at 12:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
@@ -102,7 +104,7 @@ Tuesday 12 September 2023 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -126,17 +128,17 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -148,16 +150,16 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -171,18 +173,18 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -195,15 +197,15 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 September 2023 at 22:35
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -217,16 +219,16 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -241,17 +243,17 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 8 September 2023 at 23:19
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 September 2023 at 22:31
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -267,18 +269,18 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 September 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 September 2023 at 22:34
+- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -305,6 +307,33 @@ Friday 15 September 2023 at 4:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 September 2023
+
+## [OECD Economic Outlook, Interim Report September 2023 - Confronting Inflation and Low Growth](https://doi.org/10.1787/1f628002-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
@@ -636,6 +665,33 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 October 2023
+
+## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
