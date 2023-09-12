@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 September 2023 at 0:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 September 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 September 2023](#11-september-2023)
 * [12 September 2023](#12-september-2023)
@@ -105,17 +105,17 @@ Tuesday 12 September 2023 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 September 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -128,9 +128,9 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
+- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -197,9 +197,9 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
+- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -243,9 +243,9 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
+- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -272,7 +272,7 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
 ### Additional Information
 
@@ -646,7 +646,7 @@ Monday 9 October 2023 at 8:00 | no launch event
 
 # 17 October 2023
 
-## [How to make societies thrive? Coordinating approaches to promote well-being and mental health](https://doi.org/10.1787/fc6b9844-en)
+## [How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health](https://doi.org/10.1787/fc6b9844-en)
 
 Embargo date | Launch date
 -------------|:------------:
