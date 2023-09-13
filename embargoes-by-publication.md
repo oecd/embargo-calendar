@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 September 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [G20/OECD Principles of Corporate Governance 2023](https://doi.org/10.1787/ed750b30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 September 2023 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Corporate Governance Factbook 2023](https://doi.org/10.1787/6d912314-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 September 2023 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 15:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Principes de gouvernance d’entreprise du G20 et de l’OCDE 2023](https://doi.org/10.1787/734e2284-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 September 2023 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 September 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 13 September 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Production Transformation Policy Review of Bangladesh - Investing in the Future of a Trading Nation](https://doi.org/10.1787/8b925b06-en)
 
@@ -105,7 +36,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
+- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
@@ -174,7 +105,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
+- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
@@ -220,7 +151,7 @@ Tuesday 12 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 12 September 2023 at 14:46
+- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
 
@@ -245,7 +176,7 @@ Wednesday 13 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 September 2023 at 23:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 13 September 2023 at 22:30
 
 ### Additional Information
 
@@ -312,15 +243,15 @@ Friday 22 September 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 13 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -533,6 +464,29 @@ Tuesday 3 October 2023 at 10:00 | no launch event
 
 ------
 
+## [OECD Public Governance Reviews: Palestinian Authority - Strengthening Public Administration for Better Outcomes](https://doi.org/10.1787/7425e72f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 October 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [The Midcareer Opportunity - Meeting the Challenges of an Ageing Workforce](https://doi.org/10.1787/ed91b0c7-en)
 
 Embargo date | Launch date
@@ -619,6 +573,29 @@ Tuesday 31 October 2023 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2023](https://doi.org/10.1787/87c79978-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
