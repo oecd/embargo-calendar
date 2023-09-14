@@ -2,187 +2,24 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 September 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 September 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 September 2023](#12-september-2023)
 * [13 September 2023](#13-september-2023)
 * [15 September 2023](#15-september-2023)
+* [18 September 2023](#18-september-2023)
 * [19 September 2023](#19-september-2023)
+* [21 September 2023](#21-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [27 September 2023](#27-september-2023)
-* [1 October 2023](#1-october-2023)
 * [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
 * [5 October 2023](#5-october-2023)
 * [9 October 2023](#9-october-2023)
 * [17 October 2023](#17-october-2023)
+* [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
-
-------
-
-# 12 September 2023
-
-## [Production Transformation Policy Review of Bangladesh - Investing in the Future of a Trading Nation](https://doi.org/10.1787/8b925b06-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 September 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Education at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/e13bef63-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Spotlight on Vocational Education and Training - Findings from Education at a Glance 2023](https://doi.org/10.1787/acff263d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Education at a Glance 2023 Sources, Methodologies and Technical Notes](https://doi.org/10.1787/d7f76adc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Bildung auf einen Blick 2023 - OECD-Indikatoren](https://doi.org/10.1787/34087b82-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Coup de projecteur sur l’éducation et la formation professionnelles - Conclusions de Regards sur l’éducation 2023](https://doi.org/10.1787/6298178b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Regards sur l'éducation 2023 - Les indicateurs de l'OCDE](https://doi.org/10.1787/ffc3e63b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 September 2023 at 15:29
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+* [1 December 2023](#1-december-2023)
 
 ------
 
@@ -240,6 +77,33 @@ Friday 15 September 2023 at 4:00 | no launch event
 
 ------
 
+# 18 September 2023
+
+## [What is the role of data in jobs in the United Kingdom, Canada, and the United States? - A natural language processing approach](https://doi.org/10.1787/fa65d29e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 September 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 September 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 19 September 2023
 
 ## [OECD Economic Outlook, Interim Report September 2023 - Confronting Inflation and Low Growth](https://doi.org/10.1787/1f628002-en)
@@ -267,6 +131,33 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 
 ------
 
+# 21 September 2023
+
+## [OECD Economic Surveys: Croatia 2023](https://doi.org/10.1787/4f945053-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 22 September 2023
 
 ## [Building a Skilled Cyber Security Workforce in Latin America - Insights from Chile, Colombia and Mexico](https://doi.org/10.1787/9400ab5c-en)
@@ -277,18 +168,18 @@ Friday 22 September 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 September 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 September 2023 at 22:30
+- [x] Exported to OECD.org Thursday 14 September 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -389,33 +280,6 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 1 October 2023
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 1 October 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -625,6 +489,33 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 ------
 
+# 30 October 2023
+
+## [OECD Agricultural Policy Monitoring and Evaluation 2023 - Adapting Agriculture to Climate Change](https://doi.org/10.1787/b14de474-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 31 October 2023
 
 ## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
@@ -670,5 +561,32 @@ Tuesday 31 October 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 1 December 2023
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 1 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
