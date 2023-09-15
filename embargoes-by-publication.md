@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 September 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Policy Reforms 2023 - OECD and Selected Partner Economies](https://doi.org/10.1787/d8bc45d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 September 2023 at 23:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 15 September 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Patient engagement for patient safety - The why, what, and how of patient engagement for improving patient safety](https://doi.org/10.1787/5fa8df20-en)
 
@@ -73,6 +50,75 @@ Monday 18 September 2023 at 6:00 | no launch event
 
 ------
 
+## [Minimum wages in a dual labour market - Evidence from the 2019 minimum-wage hike in Spain](https://doi.org/10.1787/7ff44848-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 September 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 September 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 September 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving the monitoring of SDG 16.3.3.3 - Towards better access to justice](https://doi.org/10.1787/c5fbed7e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 September 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 September 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 15 September 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2023 - Far fronte a un'inflazione elevata e a una crescita debole](https://doi.org/10.1787/25e2a726-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Interim Report September 2023 - Confronting Inflation and Low Growth](https://doi.org/10.1787/1f628002-en)
 
 Embargo date | Launch date
@@ -100,7 +146,7 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 21 September 2023 at 9:00 | no launch event
+Thursday 21 September 2023 at 14:00 | no launch event
 
 ### Status Information
 
@@ -392,6 +438,29 @@ Monday 9 October 2023 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Politiques au service de l’agriculture et de l’alimentation de demain dans l’Union européenne (version abrégée)](https://doi.org/10.1787/9f2518bc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
