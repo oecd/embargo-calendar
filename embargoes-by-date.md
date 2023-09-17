@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 September 2023 at 23:30* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 17 September 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 September 2023](#15-september-2023)
 * [18 September 2023](#18-september-2023)
 * [19 September 2023](#19-september-2023)
 * [21 September 2023](#21-september-2023)
@@ -22,33 +21,6 @@ Data generated on | |
 
 ------
 
-# 15 September 2023
-
-## [Patient engagement for patient safety - The why, what, and how of patient engagement for improving patient safety](https://doi.org/10.1787/5fa8df20-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 September 2023 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 September 2023 at 23:23
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 18 September 2023
 
 ## [What is the role of data in jobs in the United Kingdom, Canada, and the United States? - A natural language processing approach](https://doi.org/10.1787/fa65d29e-en)
@@ -62,7 +34,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 September 2023 at 22:29
+- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
 
 ### Additional Information
 
@@ -85,7 +57,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 September 2023 at 22:33
+- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
 
 ### Additional Information
 
@@ -108,7 +80,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 September 2023 at 22:33
+- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
 
 ### Additional Information
 
