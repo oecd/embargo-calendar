@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 September 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 18 September 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 September 2023](#18-september-2023)
 * [19 September 2023](#19-september-2023)
@@ -34,7 +34,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
+- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
 
 ### Additional Information
 
@@ -55,9 +55,9 @@ Monday 18 September 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 September 2023 at 22:58
+- [x] Exported to iLibrary Monday 18 September 2023 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
+- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
 
 ### Additional Information
 
@@ -80,7 +80,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 15 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 September 2023 at 22:29
+- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
 
 ### Additional Information
 
@@ -104,7 +104,7 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -127,7 +127,7 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -139,6 +139,29 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2023 - Faire face à une inflation élevée et une croissance faible](https://doi.org/10.1787/9f56461c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
 
 ------
 
