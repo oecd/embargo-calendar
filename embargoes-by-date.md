@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 September 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 19 September 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 September 2023](#18-september-2023)
 * [19 September 2023](#19-september-2023)
@@ -14,6 +14,7 @@ Data generated on | |
 * [3 October 2023](#3-october-2023)
 * [5 October 2023](#5-october-2023)
 * [9 October 2023](#9-october-2023)
+* [12 October 2023](#12-october-2023)
 * [17 October 2023](#17-october-2023)
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
@@ -86,7 +87,7 @@ Monday 18 September 2023 at 6:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -105,17 +106,17 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -128,17 +129,17 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -151,17 +152,17 @@ Tuesday 19 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -177,7 +178,7 @@ Thursday 21 September 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -231,7 +232,7 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -515,6 +516,33 @@ Monday 9 October 2023 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 October 2023
+
+## [International Tax and Africa - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/6f19e5ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
