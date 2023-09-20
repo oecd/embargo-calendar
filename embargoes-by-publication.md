@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 September 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [What is the role of data in jobs in the United Kingdom, Canada, and the United States? - A natural language processing approach](https://doi.org/10.1787/fa65d29e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 September 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Minimum wages in a dual labour market - Evidence from the 2019 minimum-wage hike in Spain](https://doi.org/10.1787/7ff44848-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 September 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 September 2023 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Improving the monitoring of SDG 16.3.3.3 - Towards better access to justice](https://doi.org/10.1787/c5fbed7e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 September 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 September 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 20 September 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2023 - Far fronte a un'inflazione elevata e a una crescita debole](https://doi.org/10.1787/25e2a726-it)
 
@@ -197,15 +128,15 @@ Monday 25 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 20 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 20 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -219,18 +150,18 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 20 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
