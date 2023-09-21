@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 September 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 September 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 September 2023](#19-september-2023)
 * [21 September 2023](#21-september-2023)
 * [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
+* [26 September 2023](#26-september-2023)
 * [27 September 2023](#27-september-2023)
 * [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
@@ -17,80 +17,8 @@ Data generated on | |
 * [17 October 2023](#17-october-2023)
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
+* [6 November 2023](#6-november-2023)
 * [1 December 2023](#1-december-2023)
-
-------
-
-# 19 September 2023
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2023 - Far fronte a un'inflazione elevata e a una crescita debole](https://doi.org/10.1787/25e2a726-it)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report September 2023 - Confronting Inflation and Low Growth](https://doi.org/10.1787/1f628002-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, septembre 2023 - Faire face à une inflation élevée et une croissance faible](https://doi.org/10.1787/9f56461c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 September 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 September 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -105,15 +33,15 @@ Thursday 21 September 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -134,7 +62,7 @@ Friday 22 September 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 September 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
 
 ### Additional Information
 
@@ -198,7 +126,80 @@ Monday 25 September 2023 at 9:00 | no launch event
 
 ------
 
+# 26 September 2023
+
+## [Enhancing the evaluation of VET programmes and institutions in the Republic of Moldova](https://doi.org/10.1787/8f90a4c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 September 2023 at 5:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [An assessment of the professional development of teachers and school leaders, and curriculum and learning resources in Moldova](https://doi.org/10.1787/22633a40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 September 2023 at 5:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 27 September 2023
+
+## [Tax Administration 2023 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/900b6382-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 27 September 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Peru 2023](https://doi.org/10.1787/081e0906-en)
 
@@ -208,7 +209,7 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -231,7 +232,7 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -571,6 +572,33 @@ Tuesday 31 October 2023 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 November 2023
+
+## [OECD Skills Outlook 2023 - Skills for a Resilient Green and Digital Transition](https://doi.org/10.1787/27452f29-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 6 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Skills*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
