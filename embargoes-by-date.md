@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 September 2023 at 23:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 24 September 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 September 2023](#21-september-2023)
-* [22 September 2023](#22-september-2023)
 * [25 September 2023](#25-september-2023)
 * [26 September 2023](#26-september-2023)
 * [27 September 2023](#27-september-2023)
@@ -25,60 +23,6 @@ Data generated on | |
 
 ------
 
-# 21 September 2023
-
-## [OECD Economic Surveys: Croatia 2023](https://doi.org/10.1787/4f945053-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 September 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 22 September 2023
-
-## [Building a Skilled Cyber Security Workforce in Latin America - Insights from Chile, Colombia and Mexico](https://doi.org/10.1787/9400ab5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 September 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 September 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 25 September 2023
 
 ## [Country-by-Country Reporting – Compilation of 2023 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/21bd1938-en)
@@ -92,7 +36,7 @@ Monday 25 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 September 2023 at 22:28
+- [x] Exported to OECD.org Sunday 24 September 2023 at 22:29
 
 ### Additional Information
 
@@ -115,7 +59,7 @@ Monday 25 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 September 2023 at 22:28
+- [x] Exported to OECD.org Sunday 24 September 2023 at 22:29
 
 ### Additional Information
 
