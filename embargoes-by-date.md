@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 September 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 25 September 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 September 2023](#25-september-2023)
 * [26 September 2023](#26-september-2023)
@@ -36,7 +36,7 @@ Monday 25 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 September 2023 at 22:29
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Monday 25 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 24 September 2023 at 22:29
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
@@ -86,7 +86,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
@@ -109,7 +109,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
@@ -132,7 +132,7 @@ Tuesday 26 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 September 2023 at 22:28
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
@@ -155,7 +155,7 @@ Tuesday 26 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 September 2023 at 22:28
+- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
 
 ### Additional Information
 
