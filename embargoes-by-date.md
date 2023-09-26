@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 September 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 26 September 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 September 2023](#25-september-2023)
 * [26 September 2023](#26-september-2023)
@@ -86,7 +86,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
 ### Additional Information
 
@@ -109,7 +109,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
 ### Additional Information
 
@@ -132,7 +132,7 @@ Tuesday 26 September 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
 ### Additional Information
 
@@ -155,7 +155,7 @@ Tuesday 26 September 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 September 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
 ### Additional Information
 
@@ -180,17 +180,17 @@ Wednesday 27 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 26 September 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 September 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -198,7 +198,7 @@ Wednesday 27 September 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 September 2023 at 16:00 | no launch event
+Wednesday 27 September 2023 at 17:15 | no launch event
 
 ### Status Information
 
@@ -213,7 +213,7 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -221,7 +221,7 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 September 2023 at 16:00 | no launch event
+Wednesday 27 September 2023 at 17:15 | no launch event
 
 ### Status Information
 
@@ -236,7 +236,7 @@ Wednesday 27 September 2023 at 16:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
