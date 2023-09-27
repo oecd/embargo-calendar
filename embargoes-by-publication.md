@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 September 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Country-by-Country Reporting – Compilation of 2023 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/21bd1938-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Déclaration pays par pays – Recueil 2023 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/afe7bc49-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 25 September 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
+| *Wednesday 27 September 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Enhancing the evaluation of VET programmes and institutions in the Republic of Moldova](https://doi.org/10.1787/8f90a4c6-en)
 
@@ -59,7 +13,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
@@ -82,7 +36,7 @@ Tuesday 26 September 2023 at 5:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 September 2023 at 22:54
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
 
@@ -151,9 +105,9 @@ Wednesday 27 September 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 September 2023 at 23:00
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 14:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
 
 ### Additional Information
 
@@ -169,20 +123,20 @@ Wednesday 27 September 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 September 2023 at 17:15 | no launch event
+Wednesday 27 September 2023 at 17:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -192,22 +146,45 @@ Wednesday 27 September 2023 at 17:15 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 27 September 2023 at 17:15 | no launch event
+Wednesday 27 September 2023 at 17:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -220,15 +197,15 @@ Monday 2 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -243,13 +220,36 @@ Monday 2 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Regional Outlook 2023 - The Longstanding Geography of Inequalities](https://doi.org/10.1787/92cd40a0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Development Co-operation Directorate*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -284,7 +284,7 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 3 October 2023 at 10:00 | no launch event
+Tuesday 3 October 2023 at 8:00 | no launch event
 
 ### Status Information
 
@@ -358,17 +358,17 @@ Monday 9 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -380,6 +380,29 @@ Monday 9 October 2023 at 9:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [La fiscalité internationale et l'Afrique - Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/e9726219-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 October 2023 at 9:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -387,10 +410,10 @@ Monday 9 October 2023 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
