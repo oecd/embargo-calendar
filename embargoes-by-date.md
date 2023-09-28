@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 September 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 September 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 September 2023](#26-september-2023)
 * [27 September 2023](#27-september-2023)
 * [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
@@ -19,102 +18,6 @@ Data generated on | |
 * [13 November 2023](#13-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 26 September 2023
-
-## [Enhancing the evaluation of VET programmes and institutions in the Republic of Moldova](https://doi.org/10.1787/8f90a4c6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 September 2023 at 5:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [An assessment of the professional development of teachers and school leaders, and curriculum and learning resources in Moldova](https://doi.org/10.1787/22633a40-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 September 2023 at 5:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Civisme fiscal - Qu’est-ce qui motive les particuliers et les entreprises à payer des impôts ?](https://doi.org/10.1787/4ce7612d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 September 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Mechanisms to Prevent Carbon Lock-in in Transition Finance](https://doi.org/10.1787/d5c49358-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 September 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 September 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -271,15 +174,15 @@ Monday 2 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -320,16 +223,16 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
