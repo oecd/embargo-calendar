@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 September 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Administration 2023 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/900b6382-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 September 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 14:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Peru 2023](https://doi.org/10.1787/081e0906-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 September 2023 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: Perú 2023](https://doi.org/10.1787/f67c8432-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 27 September 2023 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Friday 29 September 2023 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
 
@@ -107,13 +38,13 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -130,15 +61,38 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Où se trouvent les enseignants expérimentés?](https://doi.org/10.1787/b0b0bc00-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 October 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -165,7 +119,7 @@ Monday 2 October 2023 at 9:00 | no launch event
 
 ------
 
-## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
+## [Réformes économiques 2023 - Objectif croissance](https://doi.org/10.1787/bc1f3af8-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -176,13 +130,36 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 October 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -320,7 +297,7 @@ Thursday 12 October 2023 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -330,7 +307,7 @@ Thursday 12 October 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 October 2023 at 9:00 | no launch event
+Thursday 12 October 2023 at 13:00 | no launch event
 
 ### Status Information
 
@@ -343,7 +320,7 @@ Thursday 12 October 2023 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -483,6 +460,29 @@ Monday 6 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [웰빙 렌즈를 통한 건조환경 연구](https://doi.org/10.1787/eac218d6-ko)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *Korean*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
