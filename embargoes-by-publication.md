@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 September 2023 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 1 October 2023 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
 
@@ -15,7 +15,7 @@ Monday 2 October 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 2 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 September 2023 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 October 2023 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
@@ -33,7 +33,7 @@ Monday 2 October 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -56,7 +56,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -79,7 +79,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -102,7 +102,7 @@ Monday 2 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
@@ -125,7 +125,7 @@ Monday 2 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
+- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
 
 ### Additional Information
 
