@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 October 2023 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 2 October 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
 
@@ -13,9 +13,9 @@ Monday 2 October 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Monday 2 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 2 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Monday 2 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Monday 2 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 1 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -128,7 +128,7 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 29 September 2023 at 22:30
 
@@ -136,9 +136,9 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -151,17 +151,17 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -174,7 +174,7 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 September 2023 at 22:57
+- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
 
@@ -182,9 +182,9 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -289,9 +289,9 @@ Thursday 12 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -312,9 +312,9 @@ Thursday 12 October 2023 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
 
 ### Additional Information
 
@@ -345,6 +345,52 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2023](https://doi.org/10.1787/87c79978-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -389,52 +435,6 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Perspectives des migrations internationales 2023](https://doi.org/10.1787/87c79978-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
