@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 October 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 3 October 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
 
@@ -128,37 +128,14 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 29 September 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 October 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
@@ -174,40 +151,17 @@ Tuesday 3 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 28 September 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Public Governance Reviews: Palestinian Authority - Strengthening Public Administration for Better Outcomes](https://doi.org/10.1787/7425e72f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 October 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -335,17 +289,40 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 October 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -353,7 +330,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 23 October 2023 at 9:00 | no launch event
+Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
@@ -376,7 +353,7 @@ Monday 23 October 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 23 October 2023 at 9:00 | no launch event
+Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
@@ -529,7 +506,7 @@ Friday 1 December 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
