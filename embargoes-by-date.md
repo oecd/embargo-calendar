@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 October 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 4 October 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 October 2023](#2-october-2023)
 * [3 October 2023](#3-october-2023)
 * [9 October 2023](#9-october-2023)
 * [12 October 2023](#12-october-2023)
@@ -17,125 +16,6 @@ Data generated on | |
 * [13 November 2023](#13-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 2 October 2023
-
-## [Breaking the Cycle of Gender-based Violence - Translating Evidence into Action for Victim/Survivor-centred Governance](https://doi.org/10.1787/b133e75c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Pays-Bas 2023](https://doi.org/10.1787/f1487cdf-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Netherlands 2023](https://doi.org/10.1787/67b0a326-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Où se trouvent les enseignants expérimentés?](https://doi.org/10.1787/b0b0bc00-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Regional Outlook 2023 - The Longstanding Geography of Inequalities](https://doi.org/10.1787/92cd40a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 29 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -200,15 +80,15 @@ Monday 9 October 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 4 October 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
