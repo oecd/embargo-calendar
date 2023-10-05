@@ -2,47 +2,24 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 October 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 5 October 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Réformes économiques 2023 - Objectif croissance](https://doi.org/10.1787/bc1f3af8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 October 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Economic Policy Reforms 2023 - Going for Growth](https://doi.org/10.1787/9953de23-en)
+## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 3 October 2023 at 8:00 | no launch event
+Friday 6 October 2023 at 14:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
+- [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
+- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
@@ -58,16 +35,16 @@ Monday 9 October 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 4 October 2023 at 23:00
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 4 October 2023 at 22:36
+- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -105,9 +82,9 @@ Monday 9 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
+- [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
+- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
 
 ### Additional Information
 
@@ -280,7 +257,7 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 
 ------
 
-## [OECD Agricultural Policy Monitoring and Evaluation 2023 - Adapting Agriculture to Climate Change](https://doi.org/10.1787/b14de474-en)
+## [Agricultural Policy Monitoring and Evaluation 2023 - Adapting Agriculture to Climate Change](https://doi.org/10.1787/b14de474-en)
 
 Embargo date | Launch date
 -------------|:------------:
