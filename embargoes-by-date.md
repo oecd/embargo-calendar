@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 October 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 6 October 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 October 2023](#6-october-2023)
 * [9 October 2023](#9-october-2023)
@@ -25,14 +25,14 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 6 October 2023 at 14:30 | no launch event
+Friday 6 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
+- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
+- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
 
 ### Additional Information
 
@@ -47,6 +47,29 @@ Friday 6 October 2023 at 14:30 | no launch event
 ------
 
 # 9 October 2023
+
+## [Assessment of merger control in the Philippines](https://doi.org/10.1787/4f76f1a7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [The Midcareer Opportunity - Meeting the Challenges of an Ageing Workforce](https://doi.org/10.1787/ed91b0c7-en)
 
@@ -71,41 +94,18 @@ Monday 9 October 2023 at 7:00 | no launch event
 
 ------
 
-## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 October 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 September 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 27 September 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
 ## [Politiques au service de l’agriculture et de l’alimentation de demain dans l’Union européenne (version abrégée)](https://doi.org/10.1787/9f2518bc-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 9 October 2023 at 9:00 | no launch event
+Monday 9 October 2023 at 10:30 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
+- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
+- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
 
 ### Additional Information
 
@@ -117,6 +117,29 @@ Monday 9 October 2023 at 9:00 | no launch event
 
 ------
 
+## [Policies for the Future of Farming and Food in the European Union](https://doi.org/10.1787/32810cf6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 October 2023 at 10:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ------
 
 # 12 October 2023
@@ -125,14 +148,14 @@ Monday 9 October 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 12 October 2023 at 9:00 | no launch event
+Thursday 12 October 2023 at 13:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
+- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
+- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
 
 ### Additional Information
 
