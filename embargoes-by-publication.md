@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 October 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 October 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 8 October 2023 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessment of merger control in the Philippines](https://doi.org/10.1787/4f76f1a7-en)
 
@@ -38,7 +15,7 @@ Monday 9 October 2023 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 9 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 

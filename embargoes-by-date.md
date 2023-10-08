@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 October 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 8 October 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 October 2023](#6-october-2023)
 * [9 October 2023](#9-october-2023)
 * [12 October 2023](#12-october-2023)
 * [17 October 2023](#17-october-2023)
@@ -16,33 +15,6 @@ Data generated on | |
 * [13 November 2023](#13-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 6 October 2023
-
-## [OECD Environmental Performance Reviews: Costa Rica 2023](https://doi.org/10.1787/ec94fd4e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 October 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -59,7 +31,7 @@ Monday 9 October 2023 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -82,7 +54,7 @@ Monday 9 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 5 October 2023 at 22:29
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -105,7 +77,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
@@ -128,7 +100,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
 
 ### Additional Information
 
