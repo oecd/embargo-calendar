@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 October 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 9 October 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 October 2023](#9-october-2023)
+* [11 October 2023](#11-october-2023)
 * [12 October 2023](#12-october-2023)
 * [17 October 2023](#17-october-2023)
-* [19 October 2023](#19-october-2023)
 * [23 October 2023](#23-october-2023)
 * [25 October 2023](#25-october-2023)
 * [30 October 2023](#30-october-2023)
@@ -31,7 +31,7 @@ Monday 9 October 2023 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Monday 9 October 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 5 October 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
 
 ### Additional Information
 
@@ -77,7 +77,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
 
 ### Additional Information
 
@@ -100,7 +100,7 @@ Monday 9 October 2023 at 10:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 6 October 2023 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 8 October 2023 at 22:30
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
 
 ### Additional Information
 
@@ -109,6 +109,33 @@ Monday 9 October 2023 at 10:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 11 October 2023
+
+## [Update to the economic impact assessment of pillar one - OECD/G20 Base Erosion and Profit Shifting Project](https://doi.org/10.1787/7c35a55c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -174,10 +201,10 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
 
 ### Additional Information
 
@@ -186,33 +213,6 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 19 October 2023
-
-## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 October 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 3 October 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -290,6 +290,29 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 October 2023 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
