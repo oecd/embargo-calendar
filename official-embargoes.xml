@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-10-09T23:20:42.0212581+02:00">
+<report name="official-embargoes" generated="2023-10-10T23:27:47.6478275+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date">2023-10-05T20:55:43Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -114,7 +114,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -155,7 +155,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cee338e</cell>
@@ -175,7 +175,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62410e1a</cell>
@@ -194,7 +194,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -215,7 +215,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50616f4e</cell>
@@ -234,7 +234,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -255,7 +255,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bb6b4e6</cell>
@@ -294,7 +294,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -315,7 +315,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b761fe1c</cell>
@@ -374,8 +374,8 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/972f8a8b</cell>
@@ -394,7 +394,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -434,7 +434,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -534,7 +534,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -554,8 +554,8 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
+    <cell name="google last export date">2023-10-09T21:35:50Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea53b36f</cell>
@@ -574,7 +574,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -594,7 +594,7 @@
     <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2023-10-09T21:46:29Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
@@ -613,7 +613,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -621,93 +621,73 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4797970</cell>
   </row>
   <row index="31">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/8eb17b2c-en</cell>
+    <cell name="title">Roadmap for scaling up local school community engagement to inform education policy making in Ireland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-12</cell>
+    <cell name="embargo date">2023-10-12T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb90c3f3</cell>
+  </row>
+  <row index="32">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e9726219-fr</cell>
     <cell name="title">La fiscalité internationale et l'Afrique (fr)</cell>
     <cell name="subtitle">Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G7 (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-12</cell>
     <cell name="embargo date">2023-10-12T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-06T20:51:09Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-10-06T20:30:45Z</cell>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51a02252</cell>
   </row>
-  <row index="32">
+  <row index="33">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6f19e5ed-en</cell>
     <cell name="title">International Tax and Africa (en)</cell>
     <cell name="subtitle">OECD Report for the G7 Finance Ministers and Central Bank Governors (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-12</cell>
     <cell name="embargo date">2023-10-12T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-02T20:59:15Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-10-02T20:34:40Z</cell>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ba3aff8</cell>
   </row>
-  <row index="33">
-    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
-    <cell name="doi">10.1787/c7e502da-en</cell>
-    <cell name="title">Risk and resilience factors for mental health and well-being: Quality of life (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2023-10-17</cell>
-    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03225edc</cell>
-  </row>
   <row index="34">
-    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
-    <cell name="doi">10.1787/123e1ee6-en</cell>
-    <cell name="title">Executive summary (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2023-10-17</cell>
-    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Chapter</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f69fbef3</cell>
-  </row>
-  <row index="35">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/fc6b9844-en</cell>
     <cell name="title">How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -718,20 +698,180 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dab1971</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a420db6a</cell>
+  </row>
+  <row index="35">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/c7e502da-en</cell>
+    <cell name="title">Risk and resilience factors for mental health and well-being: Quality of life (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0814f028</cell>
   </row>
   <row index="36">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/c7e502da-en</cell>
+    <cell name="title">Risk and resilience factors for mental health and well-being: Quality of life (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03225edc</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/56cd3758-en</cell>
+    <cell name="title">Realigning, redesigning, refocusing and reconnecting for better outcomes: Practical lessons (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edb84c7e</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/123e1ee6-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f69fbef3</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/fc6b9844-en</cell>
+    <cell name="title">How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9dab1971</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/1f4f8a1b-en</cell>
+    <cell name="title">Reader’s guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0b611a4</cell>
+  </row>
+  <row index="41">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/fc6b9844-en</cell>
+    <cell name="title">How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d785ad21</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/6e486535-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/117398e4</cell>
+  </row>
+  <row index="43">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/2e9aef6a-en</cell>
     <cell name="title">Risk and resilience factors for mental health and well-being: Material conditions (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -740,18 +880,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a94c3632</cell>
   </row>
-  <row index="37">
+  <row index="44">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/1f4f8a1b-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -760,18 +900,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27424a2e</cell>
   </row>
-  <row index="38">
+  <row index="45">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/628235d1-en</cell>
     <cell name="title">Risk and resilience factors for mental health and well-being: Community relations (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -780,18 +920,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60608a08</cell>
   </row>
-  <row index="39">
+  <row index="46">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/56cd3758-en</cell>
     <cell name="title">Realigning, redesigning, refocusing and reconnecting for better outcomes: Practical lessons (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -800,18 +940,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62e75056</cell>
   </row>
-  <row index="40">
+  <row index="47">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/6e486535-en</cell>
     <cell name="title">Foreword (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -820,18 +960,18 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2aa10910</cell>
   </row>
-  <row index="41">
+  <row index="48">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/a9567b21-en</cell>
     <cell name="title">Applying a well-being lens to mental health (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -840,27 +980,127 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/765c4a02</cell>
   </row>
-  <row index="42">
+  <row index="49">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/fc6b9844-en</cell>
+    <cell name="title">How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c8e1a0e</cell>
+  </row>
+  <row index="50">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/628235d1-en</cell>
+    <cell name="title">Risk and resilience factors for mental health and well-being: Community relations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7aa6356f</cell>
+  </row>
+  <row index="51">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/a9567b21-en</cell>
+    <cell name="title">Applying a well-being lens to mental health (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd762473</cell>
+  </row>
+  <row index="52">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/fc6b9844-en</cell>
     <cell name="title">How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2023-10-17</cell>
     <cell name="embargo date">2023-10-17T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-10-09T20:54:34Z</cell>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-10-09T20:29:31Z</cell>
+    <cell name="oecd.org last export date">2023-10-10T20:34:27Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/755c87ba</cell>
   </row>
-  <row index="43">
+  <row index="53">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/2e9aef6a-en</cell>
+    <cell name="title">Risk and resilience factors for mental health and well-being: Material conditions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd9b249d</cell>
+  </row>
+  <row index="54">
+    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
+    <cell name="doi">10.1787/123e1ee6-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-10-17</cell>
+    <cell name="embargo date">2023-10-17T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-10-10T21:00:06Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b763943c</cell>
+  </row>
+  <row index="55">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b0f40584-en</cell>
     <cell name="title">International Migration Outlook 2023 (en)</cell>
@@ -880,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a35a6d2</cell>
   </row>
-  <row index="44">
+  <row index="56">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87c79978-fr</cell>
     <cell name="title">Perspectives des migrations internationales 2023 (fr)</cell>
@@ -900,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7c4a1b3</cell>
   </row>
-  <row index="45">
+  <row index="57">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b0f40584-en</cell>
     <cell name="title">International Migration Outlook 2023 (en)</cell>
@@ -920,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0a59051</cell>
   </row>
-  <row index="46">
+  <row index="58">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87c79978-fr</cell>
     <cell name="title">Perspectives des migrations internationales 2023 (fr)</cell>
@@ -940,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba4838ed</cell>
   </row>
-  <row index="47">
+  <row index="59">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5b50cc51-en</cell>
     <cell name="title">OECD Economic Surveys: Spain 2023 (en)</cell>
@@ -960,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/295246c9</cell>
   </row>
-  <row index="48">
+  <row index="60">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/5b50cc51-en</cell>
     <cell name="title">OECD Economic Surveys: Spain 2023 (en)</cell>
@@ -980,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/150425ca</cell>
   </row>
-  <row index="49">
+  <row index="61">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/82b69b89-es</cell>
     <cell name="title">Mercados agrícolas y alimentarios: tendencias y perspectivas (es)</cell>
@@ -1000,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99193ed0</cell>
   </row>
-  <row index="50">
+  <row index="62">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/58d5aa59-es</cell>
     <cell name="title">Pescado (es)</cell>
@@ -1020,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/417d9cac</cell>
   </row>
-  <row index="51">
+  <row index="63">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/61c3edc1-es</cell>
     <cell name="title">Cereales (es)</cell>
@@ -1040,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8494dcb</cell>
   </row>
-  <row index="52">
+  <row index="64">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/82b69b89-es</cell>
     <cell name="title">Mercados agrícolas y alimentarios: tendencias y perspectivas (es)</cell>
@@ -1060,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1445e80</cell>
   </row>
-  <row index="53">
+  <row index="65">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/61c3edc1-es</cell>
     <cell name="title">Cereales (es)</cell>
@@ -1080,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6e167fb</cell>
   </row>
-  <row index="54">
+  <row index="66">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1042901-es</cell>
     <cell name="title">Otros productos (es)</cell>
@@ -1100,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa67f2c8</cell>
   </row>
-  <row index="55">
+  <row index="67">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b1042901-es</cell>
     <cell name="title">Otros productos (es)</cell>
@@ -1120,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30bb9fca</cell>
   </row>
-  <row index="56">
+  <row index="68">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e126ddfd-es</cell>
     <cell name="title">Lácteos y sus productos (es)</cell>
@@ -1140,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/65de7b9c</cell>
   </row>
-  <row index="57">
+  <row index="69">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b34ab15f-es</cell>
     <cell name="title">Glosario (es)</cell>
@@ -1160,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da4aac2f</cell>
   </row>
-  <row index="58">
+  <row index="70">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -1180,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70bf336f</cell>
   </row>
-  <row index="59">
+  <row index="71">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3e0caea5-es</cell>
     <cell name="title">Algodón (es)</cell>
@@ -1200,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/283b31e5</cell>
   </row>
-  <row index="60">
+  <row index="72">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4cb0e496-es</cell>
     <cell name="title">Semillas oleaginosas y sus productos (es)</cell>
@@ -1220,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c0ed2ea</cell>
   </row>
-  <row index="61">
+  <row index="73">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b34ab15f-es</cell>
     <cell name="title">Glosario (es)</cell>
@@ -1240,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/341157ae</cell>
   </row>
-  <row index="62">
+  <row index="74">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1c5f5960-es</cell>
     <cell name="title">Prefacio (es)</cell>
@@ -1260,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f558093b</cell>
   </row>
-  <row index="63">
+  <row index="75">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/17ea948b-es</cell>
     <cell name="title">Biocombustibles (es)</cell>
@@ -1280,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/104f0909</cell>
   </row>
-  <row index="64">
+  <row index="76">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3aee49a2-es</cell>
     <cell name="title">Carne (es)</cell>
@@ -1300,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc4d2730</cell>
   </row>
-  <row index="65">
+  <row index="77">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1c5f5960-es</cell>
     <cell name="title">Prefacio (es)</cell>
@@ -1320,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/033c714d</cell>
   </row>
-  <row index="66">
+  <row index="78">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b39f4974-es</cell>
     <cell name="title">Metodología (es)</cell>
@@ -1340,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83cc880e</cell>
   </row>
-  <row index="67">
+  <row index="79">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b467c626-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1360,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92683297</cell>
   </row>
-  <row index="68">
+  <row index="80">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -1380,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c83a4456</cell>
   </row>
-  <row index="69">
+  <row index="81">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d28c38a1-es</cell>
     <cell name="title">Anexo estadístico (es)</cell>
@@ -1400,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e0cb10f</cell>
   </row>
-  <row index="70">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b39f4974-es</cell>
     <cell name="title">Metodología (es)</cell>
@@ -1420,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6db27046</cell>
   </row>
-  <row index="71">
+  <row index="83">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/837145b7-es</cell>
     <cell name="title">Azúcar (es)</cell>
@@ -1440,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db1e57e8</cell>
   </row>
-  <row index="72">
+  <row index="84">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b467c626-es</cell>
     <cell name="title">Resumen ejecutivo (es)</cell>
@@ -1460,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cdbfffe</cell>
   </row>
-  <row index="73">
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4cb0e496-es</cell>
     <cell name="title">Semillas oleaginosas y sus productos (es)</cell>
@@ -1480,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a64390f4</cell>
   </row>
-  <row index="74">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3aee49a2-es</cell>
     <cell name="title">Carne (es)</cell>
@@ -1500,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ab38f5d</cell>
   </row>
-  <row index="75">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e126ddfd-es</cell>
     <cell name="title">Lácteos y sus productos (es)</cell>
@@ -1520,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d448e39</cell>
   </row>
-  <row index="76">
+  <row index="88">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -1540,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80d46b29</cell>
   </row>
-  <row index="77">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/03bf7a6b-es</cell>
     <cell name="title">Informes regionales (es)</cell>
@@ -1560,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2777b1d1</cell>
   </row>
-  <row index="78">
+  <row index="90">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -1580,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4c609a0</cell>
   </row>
-  <row index="79">
+  <row index="91">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/58d5aa59-es</cell>
     <cell name="title">Pescado (es)</cell>
@@ -1600,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fec2e586</cell>
   </row>
-  <row index="80">
+  <row index="92">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/17ea948b-es</cell>
     <cell name="title">Biocombustibles (es)</cell>
@@ -1620,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89e5f842</cell>
   </row>
-  <row index="81">
+  <row index="93">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d3cb7fd4-es</cell>
     <cell name="title">Abreviaturas, acrónimos y siglas (es)</cell>
@@ -1640,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c474cbe5</cell>
   </row>
-  <row index="82">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/837145b7-es</cell>
     <cell name="title">Azúcar (es)</cell>
@@ -1660,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c34be8fd</cell>
   </row>
-  <row index="83">
+  <row index="95">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/03bf7a6b-es</cell>
     <cell name="title">Informes regionales (es)</cell>
@@ -1680,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfd7e028</cell>
   </row>
-  <row index="84">
+  <row index="96">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d28c38a1-es</cell>
     <cell name="title">Anexo estadístico (es)</cell>
@@ -1700,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de979f9c</cell>
   </row>
-  <row index="85">
+  <row index="97">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d3cb7fd4-es</cell>
     <cell name="title">Abreviaturas, acrónimos y siglas (es)</cell>
@@ -1720,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cce1ea88</cell>
   </row>
-  <row index="86">
+  <row index="98">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/2ad6c3ab-es</cell>
     <cell name="title">OCDE-FAO Perspectivas Agrícolas 2023-2032 (es)</cell>
@@ -1740,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a61c28e5</cell>
   </row>
-  <row index="87">
+  <row index="99">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3e0caea5-es</cell>
     <cell name="title">Algodón (es)</cell>
@@ -1760,7 +2000,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77b67a79</cell>
   </row>
-  <row index="88">
+  <row index="100">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9dae6a9d-fr</cell>
+    <cell name="title">Politiques agricoles : Suivi et évaluation 2023 (version abrégée) (fr)</cell>
+    <cell name="subtitle">Adapter l’agriculture au changement climatique (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-10-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/929c76ac</cell>
+  </row>
+  <row index="101">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b14de474-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2023 (en)</cell>
@@ -1780,7 +2040,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba932cc6</cell>
   </row>
-  <row index="89">
+  <row index="102">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/9dae6a9d-fr</cell>
+    <cell name="title">Politiques agricoles : Suivi et évaluation 2023 (version abrégée) (fr)</cell>
+    <cell name="subtitle">Adapter l’agriculture au changement climatique (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2023-10-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68538700</cell>
+  </row>
+  <row index="103">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b14de474-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2023 (en)</cell>
@@ -1800,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/195f7ef3</cell>
   </row>
-  <row index="90">
+  <row index="104">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/27452f29-en</cell>
     <cell name="title">OECD Skills Outlook 2023 (en)</cell>
@@ -1820,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30c9d356</cell>
   </row>
-  <row index="91">
+  <row index="105">
     <cell name="directorate">Centre for Skills</cell>
     <cell name="doi">10.1787/27452f29-en</cell>
     <cell name="title">OECD Skills Outlook 2023 (en)</cell>
@@ -1840,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a78ec8c</cell>
   </row>
-  <row index="92">
+  <row index="106">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/eac218d6-ko</cell>
     <cell name="title">웰빙 렌즈를 통한 건조환경 연구 (ko)</cell>
@@ -1860,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3efe06b6</cell>
   </row>
-  <row index="93">
+  <row index="107">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/eac218d6-ko</cell>
     <cell name="title">웰빙 렌즈를 통한 건조환경 연구 (ko)</cell>
@@ -1880,10 +2160,10 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/015de4b5</cell>
   </row>
-  <row index="94">
+  <row index="108">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/1b5bebf4-en</cell>
-    <cell name="title">Built Environment through a Well-Being Lens (en)</cell>
+    <cell name="title">Built Environment through a Well-being Lens (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
@@ -1900,10 +2180,10 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17b4d137</cell>
   </row>
-  <row index="95">
+  <row index="109">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/1b5bebf4-en</cell>
-    <cell name="title">Built Environment through a Well-Being Lens (en)</cell>
+    <cell name="title">Built Environment through a Well-being Lens (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
@@ -1920,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be2123b4</cell>
   </row>
-  <row index="96">
+  <row index="110">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -1940,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f921e164</cell>
   </row>
-  <row index="97">
+  <row index="111">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1960,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fec82a8</cell>
   </row>
-  <row index="98">
+  <row index="112">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -1980,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b023e686</cell>
   </row>
-  <row index="99">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aa70eee4-en</cell>
     <cell name="title">Analysis of online job postings in the Umbria region (en)</cell>
@@ -2000,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f80b26</cell>
   </row>
-  <row index="100">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -2020,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d09f7606</cell>
   </row>
-  <row index="101">
+  <row index="115">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -2040,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53dfd126</cell>
   </row>
-  <row index="102">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52e6006b-en</cell>
     <cell name="title">Creating a mapping between the indicators of the demand and supply of skills: Using machine learning to bridge between the RTC and online job postings (en)</cell>
@@ -2060,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1543c44</cell>
   </row>
-  <row index="103">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9163c6a5-en</cell>
     <cell name="title">The Regional Training Catalogue and its supply of training: A descriptive analysis (en)</cell>
@@ -2080,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8858e5fa</cell>
   </row>
-  <row index="104">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2100,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/572e3552</cell>
   </row>
-  <row index="105">
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4e3684a9-it</cell>
     <cell name="title">Sintesi (it)</cell>
@@ -2120,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86815c0</cell>
   </row>
-  <row index="106">
+  <row index="120">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -2140,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7ef67de</cell>
   </row>
-  <row index="107">
+  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bbbbfd6-en</cell>
     <cell name="title">Big Data Intelligence on Skills Demand and Training in Umbria (en)</cell>
@@ -2160,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30a3f7e5</cell>
   </row>
-  <row index="108">
+  <row index="122">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2180,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb013f7a</cell>
   </row>
-  <row index="109">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2200,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e31a561</cell>
   </row>
-  <row index="110">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac67ca43-en</cell>
     <cell name="title">The alignment between training offered in the Regional Training Catalogue and the labour market (en)</cell>
@@ -2220,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dc39d01</cell>
   </row>
-  <row index="111">
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/966f84b0-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -2240,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a358f75c</cell>
   </row>
-  <row index="112">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6eeb16e2-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2260,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae6f749b</cell>
   </row>
-  <row index="113">
+  <row index="127">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/53f23881-en</cell>
     <cell name="title">PISA 2022 Results (Volume I) (en)</cell>
@@ -2280,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3435f945</cell>
   </row>
-  <row index="114">
+  <row index="128">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/53f23881-en</cell>
     <cell name="title">PISA 2022 Results (Volume I) (en)</cell>
@@ -2300,7 +2580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dae2f1cd</cell>
   </row>
-  <row index="115">
+  <row index="129">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a97db61c-en</cell>
     <cell name="title">PISA 2022 Results (Volume II) (en)</cell>
@@ -2320,7 +2600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fcced04</cell>
   </row>
-  <row index="116">
+  <row index="130">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a97db61c-en</cell>
     <cell name="title">PISA 2022 Results (Volume II) (en)</cell>

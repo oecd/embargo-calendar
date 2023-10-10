@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 October 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 10 October 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessment of merger control in the Philippines](https://doi.org/10.1787/4f76f1a7-en)
 
@@ -107,11 +107,34 @@ Wednesday 11 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 October 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Roadmap for scaling up local school community engagement to inform education policy making in Ireland](https://doi.org/10.1787/8eb17b2c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -127,16 +150,16 @@ Thursday 12 October 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 6 October 2023 at 22:51
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 6 October 2023 at 22:30
+- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -150,16 +173,16 @@ Thursday 12 October 2023 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 October 2023 at 22:59
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 2 October 2023 at 22:34
+- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -174,17 +197,17 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
+- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -280,6 +303,29 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 
 ------
 
+## [Politiques agricoles : Suivi et évaluation 2023 (version abrégée) - Adapter l’agriculture au changement climatique](https://doi.org/10.1787/9dae6a9d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Agricultural Policy Monitoring and Evaluation 2023 - Adapting Agriculture to Climate Change](https://doi.org/10.1787/b14de474-en)
 
 Embargo date | Launch date
@@ -349,7 +395,7 @@ Monday 13 November 2023 at 8:00 | no launch event
 
 ------
 
-## [Built Environment through a Well-Being Lens](https://doi.org/10.1787/1b5bebf4-en)
+## [Built Environment through a Well-being Lens](https://doi.org/10.1787/1b5bebf4-en)
 
 Embargo date | Launch date
 -------------|:------------:
