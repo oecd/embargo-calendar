@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 11 October 2023 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 12 October 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Update to the economic impact assessment of pillar one - OECD/G20 Base Erosion and Profit Shifting Project](https://doi.org/10.1787/7c35a55c-en)
 
@@ -38,7 +38,7 @@ Thursday 12 October 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 October 2023 at 22:31
+- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 12 October 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 October 2023 at 22:31
+- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Thursday 12 October 2023 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 October 2023 at 22:31
+- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
 
 ### Additional Information
 
@@ -92,6 +92,52 @@ Thursday 12 October 2023 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Measuring governments’ R&D funding response to COVID-19 - An application of the OECD Fundstat infrastructure to the analysis of R&D directionality](https://doi.org/10.1787/4889f5f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 October 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 October 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Win-win solutions for well-being and mental health](https://doi.org/10.1787/93b79ccf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 12 October 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -257,6 +303,52 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 ------
 
+## [OECD Development Co-operation Peer Reviews: Czech Republic 2023](https://doi.org/10.1787/eba15a0b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 November 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : République tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 November 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Skills Outlook 2023 - Skills for a Resilient Green and Digital Transition](https://doi.org/10.1787/27452f29-en)
 
 Embargo date | Launch date
@@ -277,6 +369,29 @@ Monday 6 November 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Health at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/7a7afb35-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
