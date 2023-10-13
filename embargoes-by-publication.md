@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 October 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Update to the economic impact assessment of pillar one - OECD/G20 Base Erosion and Profit Shifting Project](https://doi.org/10.1787/7c35a55c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 October 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 13 October 2023 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Roadmap for scaling up local school community engagement to inform education policy making in Ireland](https://doi.org/10.1787/8eb17b2c-en)
 
@@ -165,6 +142,29 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 ------
 
+## [Des solutions gagnant-gagnant pour le bien-être et la santé mentale](https://doi.org/10.1787/05ce123c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
 
 Embargo date | Launch date
@@ -297,6 +297,29 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics in Africa 2023 (en) || Statistiques des recettes publiques en Afrique 2023](https://doi.org/10.1787/15bc5bc6-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*

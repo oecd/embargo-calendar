@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 October 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 October 2023 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 October 2023](#11-october-2023)
 * [12 October 2023](#12-october-2023)
 * [16 October 2023](#16-october-2023)
 * [17 October 2023](#17-october-2023)
 * [23 October 2023](#23-october-2023)
 * [25 October 2023](#25-october-2023)
 * [30 October 2023](#30-october-2023)
+* [31 October 2023](#31-october-2023)
 * [2 November 2023](#2-november-2023)
 * [6 November 2023](#6-november-2023)
 * [7 November 2023](#7-november-2023)
@@ -19,33 +19,6 @@ Data generated on | |
 * [15 November 2023](#15-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 11 October 2023
-
-## [Update to the economic impact assessment of pillar one - OECD/G20 Base Erosion and Profit Shifting Project](https://doi.org/10.1787/7c35a55c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 11 October 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -197,6 +170,29 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 ------
 
+## [Des solutions gagnant-gagnant pour le bien-être et la santé mentale](https://doi.org/10.1787/05ce123c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 October 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 23 October 2023
@@ -341,6 +337,33 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 October 2023
+
+## [Revenue Statistics in Africa 2023 (en) || Statistiques des recettes publiques en Afrique 2023](https://doi.org/10.1787/15bc5bc6-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English || French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
