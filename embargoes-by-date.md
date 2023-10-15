@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 October 2023 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 October 2023 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 October 2023](#12-october-2023)
 * [16 October 2023](#16-october-2023)
 * [17 October 2023](#17-october-2023)
 * [23 October 2023](#23-october-2023)
@@ -19,79 +18,6 @@ Data generated on | |
 * [15 November 2023](#15-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 12 October 2023
-
-## [Roadmap for scaling up local school community engagement to inform education policy making in Ireland](https://doi.org/10.1787/8eb17b2c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [La fiscalité internationale et l'Afrique - Rapport de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/e9726219-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 October 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [International Tax and Africa - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/6f19e5ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 October 2023 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
