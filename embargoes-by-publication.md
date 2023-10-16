@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 October 2023 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 October 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring governments’ R&D funding response to COVID-19 - An application of the OECD Fundstat infrastructure to the analysis of R&D directionality](https://doi.org/10.1787/4889f5f2-en)
 
@@ -13,9 +13,9 @@ Monday 16 October 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 October 2023 at 22:55
+- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 October 2023 at 22:55
+- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 12 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 10 October 2023 at 23:00
+- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 10 October 2023 at 22:34
+- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
 
 ### Additional Information
 
@@ -81,17 +81,40 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Review of the Belgian Federal Planning Bureau - An Assessment of Institutional, Operational and Analytical Capacity](https://doi.org/10.1787/60830e19-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 October 2023 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -238,7 +261,7 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 31 October 2023 at 10:00 | no launch event
+Tuesday 31 October 2023 at 8:00 | no launch event
 
 ### Status Information
 
