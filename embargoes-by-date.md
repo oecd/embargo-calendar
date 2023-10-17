@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 October 2023 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 17 October 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 October 2023](#16-october-2023)
 * [17 October 2023](#17-october-2023)
@@ -17,6 +17,7 @@ Data generated on | |
 * [8 November 2023](#8-november-2023)
 * [13 November 2023](#13-november-2023)
 * [15 November 2023](#15-november-2023)
+* [27 November 2023](#27-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
 
@@ -62,7 +63,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -85,7 +86,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -108,7 +109,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -132,18 +133,18 @@ Thursday 19 October 2023 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -159,7 +160,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -170,7 +171,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -182,7 +183,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -193,7 +194,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -712,6 +713,33 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 November 2023
+
+## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

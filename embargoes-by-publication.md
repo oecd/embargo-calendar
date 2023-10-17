@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 October 2023 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 17 October 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring governments’ R&D funding response to COVID-19 - An application of the OECD Fundstat infrastructure to the analysis of R&D directionality](https://doi.org/10.1787/4889f5f2-en)
 
@@ -38,7 +38,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 17 October 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 16 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
@@ -104,18 +104,18 @@ Thursday 19 October 2023 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -127,7 +127,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,7 +138,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -150,7 +150,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -161,7 +161,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -644,6 +644,29 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
