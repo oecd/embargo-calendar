@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 October 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring governments’ R&D funding response to COVID-19 - An application of the OECD Fundstat infrastructure to the analysis of R&D directionality](https://doi.org/10.1787/4889f5f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 October 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 16 October 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 18 October 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Win-win solutions for well-being and mental health](https://doi.org/10.1787/93b79ccf-en)
 
@@ -105,9 +82,9 @@ Thursday 19 October 2023 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 October 2023 at 23:02
+- [x] Exported to iLibrary Wednesday 18 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 18 October 2023 at 22:31
 
 ### Additional Information
 
@@ -208,6 +185,29 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Economic Surveys: Australia 2023](https://doi.org/10.1787/1794a7c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 October 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -372,6 +372,29 @@ Tuesday 7 November 2023 at 8:00 | no launch event
 
 ------
 
+## [Corporate Tax Statistics 2023](https://doi.org/10.1787/f1f07219-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Latvia 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b58002ef-en)
 
 Embargo date | Launch date
@@ -412,6 +435,29 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Mauritanie 2023 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/facc7860-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 8 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -602,6 +648,29 @@ Monday 13 November 2023 at 8:00 | no launch event
 
 ------
 
+## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Scaling Up Financing for Adaptation in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
 
 Embargo date | Launch date
@@ -641,6 +710,52 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Developing an Effective Online Dispute Resolution Concept in Latvia](https://doi.org/10.1787/75ef5c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
