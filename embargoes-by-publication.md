@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 October 2023 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Win-win solutions for well-being and mental health](https://doi.org/10.1787/93b79ccf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health](https://doi.org/10.1787/fc6b9844-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Des solutions gagnant-gagnant pour le bien-être et la santé mentale](https://doi.org/10.1787/05ce123c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 19 October 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of the Belgian Federal Planning Bureau - An Assessment of Institutional, Operational and Analytical Capacity](https://doi.org/10.1787/60830e19-en)
 
@@ -84,7 +15,7 @@ Thursday 19 October 2023 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 18 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 October 2023 at 22:31
+- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
 
 ### Additional Information
 
@@ -151,15 +82,15 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 October 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -192,7 +123,7 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 27 October 2023 at 10:00 | no launch event
+Thursday 26 October 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -851,6 +782,29 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

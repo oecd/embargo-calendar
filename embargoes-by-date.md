@@ -2,13 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 October 2023 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 October 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 October 2023](#17-october-2023)
 * [19 October 2023](#19-october-2023)
 * [23 October 2023](#23-october-2023)
 * [25 October 2023](#25-october-2023)
-* [27 October 2023](#27-october-2023)
+* [26 October 2023](#26-october-2023)
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
 * [2 November 2023](#2-november-2023)
@@ -22,79 +21,7 @@ Data generated on | |
 * [27 November 2023](#27-november-2023)
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
-
-------
-
-# 17 October 2023
-
-## [Win-win solutions for well-being and mental health](https://doi.org/10.1787/93b79ccf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [How to Make Societies Thrive? Coordinating Approaches to Promote Well-being and Mental Health](https://doi.org/10.1787/fc6b9844-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Des solutions gagnant-gagnant pour le bien-être et la santé mentale](https://doi.org/10.1787/05ce123c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 October 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 October 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 17 October 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+* [6 December 2023](#6-december-2023)
 
 ------
 
@@ -111,7 +38,7 @@ Thursday 19 October 2023 at 13:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 18 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 18 October 2023 at 22:31
+- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
 
 ### Additional Information
 
@@ -186,15 +113,15 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 October 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -225,13 +152,13 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 
 ------
 
-# 27 October 2023
+# 26 October 2023
 
 ## [OECD Economic Surveys: Australia 2023](https://doi.org/10.1787/1794a7c9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 27 October 2023 at 10:00 | no launch event
+Thursday 26 October 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -942,6 +869,33 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 December 2023
+
+## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
