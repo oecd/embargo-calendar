@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 October 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 October 2023 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of the Belgian Federal Planning Bureau - An Assessment of Institutional, Operational and Analytical Capacity](https://doi.org/10.1787/60830e19-en)
 
@@ -27,6 +27,75 @@ Thursday 19 October 2023 at 13:30 | no launch event
 
 ------
 
+## [Disruption of VEGFR signaling leading to developmental defects](https://doi.org/10.1787/c1116a35-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 22 October 2023 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on impaired interleukin-1 receptor type I (IL-1R1) signaling leading to impaired T-cell dependent antibody response](https://doi.org/10.1787/74834ad1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 October 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on deposition of energy leading to lung cancer](https://doi.org/10.1787/a8f262c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 October 2023 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
 
 Embargo date | Launch date
@@ -36,15 +105,15 @@ Monday 23 October 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -59,15 +128,15 @@ Monday 23 October 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -81,7 +150,7 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 19 October 2023 at 22:53
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
@@ -90,7 +159,7 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -220,15 +289,15 @@ Thursday 2 November 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -243,15 +312,15 @@ Thursday 2 November 2023 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -694,29 +763,6 @@ Monday 27 November 2023 at 7:00 | no launch event
 
 ------
 
-## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 November 2023 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
 
 Embargo date | Launch date
@@ -805,6 +851,29 @@ Wednesday 6 December 2023 at 17:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
