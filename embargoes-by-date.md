@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 October 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 22 October 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 October 2023](#19-october-2023)
 * [22 October 2023](#22-october-2023)
 * [23 October 2023](#23-october-2023)
 * [25 October 2023](#25-october-2023)
@@ -27,33 +26,6 @@ Data generated on | |
 
 ------
 
-# 19 October 2023
-
-## [OECD Review of the Belgian Federal Planning Bureau - An Assessment of Institutional, Operational and Analytical Capacity](https://doi.org/10.1787/60830e19-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 19 October 2023 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 18 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
 # 22 October 2023
 
 ## [Disruption of VEGFR signaling leading to developmental defects](https://doi.org/10.1787/c1116a35-en)
@@ -67,7 +39,7 @@ Sunday 22 October 2023 at 22:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
 
 ### Additional Information
 
@@ -94,7 +66,7 @@ Monday 23 October 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
 
 ### Additional Information
 
@@ -117,7 +89,7 @@ Monday 23 October 2023 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
 
 ### Additional Information
 
@@ -140,7 +112,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
 
 ### Additional Information
 
@@ -163,7 +135,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
 
 ### Additional Information
 
