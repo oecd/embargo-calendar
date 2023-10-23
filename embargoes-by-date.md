@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 October 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 October 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 October 2023](#22-october-2023)
 * [23 October 2023](#23-october-2023)
@@ -22,6 +22,7 @@ Data generated on | |
 * [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
+* [12 December 2023](#12-december-2023)
 * [14 December 2023](#14-december-2023)
 
 ------
@@ -37,9 +38,9 @@ Sunday 22 October 2023 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -64,9 +65,9 @@ Monday 23 October 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -87,9 +88,9 @@ Monday 23 October 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -112,7 +113,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -135,7 +136,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -820,6 +821,29 @@ Monday 27 November 2023 at 7:00 | no launch event
 
 ------
 
+## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 1 December 2023
@@ -920,6 +944,33 @@ Wednesday 6 December 2023 at 17:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 12 December 2023
+
+## [On Shaky Ground? Income Instability and Economic Insecurity in Europe](https://doi.org/10.1787/9bffeba6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 October 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 23 October 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Disruption of VEGFR signaling leading to developmental defects](https://doi.org/10.1787/c1116a35-en)
 
@@ -13,9 +13,9 @@ Sunday 22 October 2023 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Monday 23 October 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Monday 23 October 2023 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 23 October 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 20 October 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 22 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
 
 ### Additional Information
 
@@ -740,6 +740,29 @@ Monday 27 November 2023 at 7:00 | no launch event
 
 ------
 
+## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
 
 Embargo date | Launch date
@@ -828,6 +851,29 @@ Wednesday 6 December 2023 at 17:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [On Shaky Ground? Income Instability and Economic Insecurity in Europe](https://doi.org/10.1787/9bffeba6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
