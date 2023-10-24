@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 October 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 24 October 2023 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 October 2023](#22-october-2023)
 * [23 October 2023](#23-october-2023)
@@ -186,7 +186,7 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 October 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 9 October 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
 
 ### Additional Information
 
@@ -206,7 +206,7 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 26 October 2023 at 10:00 | no launch event
+Thursday 26 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
@@ -221,7 +221,7 @@ Thursday 26 October 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -238,15 +238,15 @@ Monday 30 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -261,15 +261,15 @@ Monday 30 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -676,15 +676,15 @@ Monday 13 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
