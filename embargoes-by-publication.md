@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 October 2023 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Disruption of VEGFR signaling leading to developmental defects](https://doi.org/10.1787/c1116a35-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 22 October 2023 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on impaired interleukin-1 receptor type I (IL-1R1) signaling leading to impaired T-cell dependent antibody response](https://doi.org/10.1787/74834ad1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 October 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on deposition of energy leading to lung cancer](https://doi.org/10.1787/a8f262c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 October 2023 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [International Migration Outlook 2023](https://doi.org/10.1787/b0f40584-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 October 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives des migrations internationales 2023](https://doi.org/10.1787/87c79978-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 October 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 23 October 2023 at 22:33
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 25 October 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Spain 2023](https://doi.org/10.1787/5b50cc51-en)
 
@@ -128,15 +13,15 @@ Wednesday 25 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 October 2023 at 22:53
+- [x] Exported to iLibrary Wednesday 25 October 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 19 October 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 25 October 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -153,7 +38,7 @@ Wednesday 25 October 2023 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 9 October 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
+- [x] Exported to OECD.org Wednesday 25 October 2023 at 22:31
 
 ### Additional Information
 
@@ -173,7 +58,7 @@ Thursday 26 October 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -197,7 +82,7 @@ Monday 30 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
+- [x] Exported to iLibrary Wednesday 25 October 2023 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
 
@@ -257,7 +142,7 @@ Tuesday 31 October 2023 at 8:00 | no launch event
 
 ------
 
-## [OECD Development Co-operation Peer Reviews: Czech Republic 2023](https://doi.org/10.1787/eba15a0b-en)
+## [OECD Development Co-operation Peer Reviews: Czechia 2023](https://doi.org/10.1787/eba15a0b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -274,13 +159,13 @@ Thursday 2 November 2023 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Examens de l'OCDE sur la coopération pour le développement : République tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
+## [Examens de l'OCDE sur la coopération pour le développement : Tchéquie 2023](https://doi.org/10.1787/1b11a21e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -297,7 +182,7 @@ Thursday 2 November 2023 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -871,6 +756,29 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
