@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 October 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 26 October 2023 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Spain 2023](https://doi.org/10.1787/5b50cc51-en)
 
@@ -59,15 +59,15 @@ Thursday 26 October 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -81,18 +81,18 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 25 October 2023 at 22:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
+- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -104,18 +104,18 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
+- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
