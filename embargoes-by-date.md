@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 October 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 October 2023 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 October 2023](#25-october-2023)
 * [26 October 2023](#26-october-2023)
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
@@ -22,56 +21,6 @@ Data generated on | |
 * [6 December 2023](#6-december-2023)
 * [12 December 2023](#12-december-2023)
 * [14 December 2023](#14-december-2023)
-
-------
-
-# 25 October 2023
-
-## [OECD Economic Surveys: Spain 2023](https://doi.org/10.1787/5b50cc51-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 October 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 October 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OCDE-FAO Perspectivas Agrícolas 2023-2032](https://doi.org/10.1787/2ad6c3ab-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 October 2023 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 October 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 25 October 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -154,6 +103,29 @@ Monday 30 October 2023 at 10:00 | no launch event
 
 # 31 October 2023
 
+## [Understanding international measures of health spending - Age-adjusting expenditure on health](https://doi.org/10.1787/043ed664-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 31 October 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 27 October 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Africa 2023 (en) || Statistiques des recettes publiques en Afrique 2023](https://doi.org/10.1787/15bc5bc6-en-fr)
 
 Embargo date | Launch date
@@ -162,7 +134,7 @@ Tuesday 31 October 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -181,7 +153,7 @@ Tuesday 31 October 2023 at 8:00 | no launch event
 
 # 2 November 2023
 
-## [OECD Development Co-operation Peer Reviews: Czechia 2023](https://doi.org/10.1787/eba15a0b-en)
+## [OECD Development Co-operation Peer Reviews: Czech Republic 2023](https://doi.org/10.1787/eba15a0b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -204,7 +176,7 @@ Thursday 2 November 2023 at 7:00 | no launch event
 
 ------
 
-## [Examens de l'OCDE sur la coopération pour le développement : Tchéquie 2023](https://doi.org/10.1787/1b11a21e-fr)
+## [Examens de l'OCDE sur la coopération pour le développement : République Tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -239,7 +211,7 @@ Monday 6 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -692,6 +664,29 @@ Monday 27 November 2023 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Taux effectifs sur le carbone 2023 - Tarifier les émissions de gaz à effet de serre au moyen de taxes et d'échanges de quotas d'émission](https://doi.org/10.1787/1b3d26f3-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
