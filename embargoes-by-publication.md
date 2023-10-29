@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 October 2023 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Australia 2023](https://doi.org/10.1787/1794a7c9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 October 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Sunday 29 October 2023 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Politiques agricoles : Suivi et évaluation 2023 (version abrégée) - Adapter l’agriculture au changement climatique](https://doi.org/10.1787/9dae6a9d-fr)
 
@@ -38,7 +15,7 @@ Monday 30 October 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
+- [x] Exported to OECD.org Sunday 29 October 2023 at 22:26
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 30 October 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 26 October 2023 at 22:28
+- [x] Exported to OECD.org Sunday 29 October 2023 at 22:26
 
 ### Additional Information
 
