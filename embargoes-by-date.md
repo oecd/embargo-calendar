@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 October 2023 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 30 October 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
@@ -12,7 +12,8 @@ Data generated on | |
 * [8 November 2023](#8-november-2023)
 * [13 November 2023](#13-november-2023)
 * [14 November 2023](#14-november-2023)
-* [15 November 2023](#15-november-2023)
+* [16 November 2023](#16-november-2023)
+* [20 November 2023](#20-november-2023)
 * [21 November 2023](#21-november-2023)
 * [27 November 2023](#27-november-2023)
 * [1 December 2023](#1-december-2023)
@@ -34,9 +35,9 @@ Monday 30 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
+- [x] Exported to iLibrary Monday 30 October 2023 at 10:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 October 2023 at 22:26
+- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
 
 ### Additional Information
 
@@ -57,9 +58,9 @@ Monday 30 October 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 October 2023 at 22:52
+- [x] Exported to iLibrary Monday 30 October 2023 at 10:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 29 October 2023 at 22:26
+- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
 
 ### Additional Information
 
@@ -84,9 +85,9 @@ Tuesday 31 October 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 30 October 2023 at 9:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 27 October 2023 at 22:28
+- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
 
 ### Additional Information
 
@@ -133,22 +134,22 @@ Thursday 2 November 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 30 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
-## [Examens de l'OCDE sur la coopération pour le développement : République Tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
+## [Examens de l'OCDE sur la coopération pour le développement : République tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -156,18 +157,18 @@ Thursday 2 November 2023 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 20 October 2023 at 23:02
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 30 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 20 October 2023 at 22:31
+- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -538,13 +539,13 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
-# 15 November 2023
+# 16 November 2023
 
-## [Scaling Up Financing for Adaptation in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 November 2023 at 10:00 | no launch event
+Thursday 16 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -558,7 +559,30 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Scaling Up Financing for Adaptation in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -567,7 +591,7 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 November 2023 at 10:00 | no launch event
+Thursday 16 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -581,7 +605,34 @@ Wednesday 15 November 2023 at 10:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 November 2023
+
+## [OECD Education Policy Outlook 2023 - Empowering All Learners to Go Green](https://doi.org/10.1787/f5063653-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -607,6 +658,29 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Statistiques des recettes publiques 2023 - Dynamisme des recettes fiscales dans les pays de l’OCDE](https://doi.org/10.1787/bcbdaf1a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -716,6 +790,29 @@ Friday 1 December 2023 at 7:00 | no launch event
 ------
 
 # 5 December 2023
+
+## [Résultats du PISA 2022 (Volume I) - Apprentissage et équité dans l’éducation](https://doi.org/10.1787/165f1d07-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [PISA 2022 Results (Volume I) - The State of Learning and Equity in Education](https://doi.org/10.1787/53f23881-en)
 
