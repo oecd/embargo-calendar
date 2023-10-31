@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 October 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 31 October 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
@@ -12,6 +12,7 @@ Data generated on | |
 * [8 November 2023](#8-november-2023)
 * [13 November 2023](#13-november-2023)
 * [14 November 2023](#14-november-2023)
+* [15 November 2023](#15-november-2023)
 * [16 November 2023](#16-november-2023)
 * [20 November 2023](#20-november-2023)
 * [21 November 2023](#21-november-2023)
@@ -20,6 +21,7 @@ Data generated on | |
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
 * [12 December 2023](#12-december-2023)
+* [13 December 2023](#13-december-2023)
 * [14 December 2023](#14-december-2023)
 
 ------
@@ -85,9 +87,9 @@ Tuesday 31 October 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2023 at 9:46
+- [x] Exported to iLibrary Tuesday 31 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
+- [x] Exported to OECD.org Tuesday 31 October 2023 at 22:28
 
 ### Additional Information
 
@@ -108,15 +110,15 @@ Tuesday 31 October 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 31 October 2023 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 31 October 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English || French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -539,6 +541,33 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
+# 15 November 2023
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 16 November 2023
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
@@ -564,7 +593,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 ------
 
-## [Scaling Up Financing for Adaptation in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
+## [Scaling Up Adaptation Finance in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -714,7 +743,7 @@ Monday 27 November 2023 at 7:00 | no launch event
 
 ------
 
-## [Taux effectifs sur le carbone 2023 - Tarifier les émissions de gaz à effet de serre au moyen de taxes et d'échanges de quotas d'émission](https://doi.org/10.1787/1b3d26f3-fr)
+## [Taux effectifs sur le carbone 2023 (version abrégée) - Tarifier les émissions de gaz à effet de serre au moyen de taxes et d'échanges de quotas d'émission](https://doi.org/10.1787/1b3d26f3-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -910,6 +939,33 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 13 December 2023
+
+## [Pensions at a Glance 2023 - OECD and G20 Indicators](https://doi.org/10.1787/678055dd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
