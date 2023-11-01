@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 31 October 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 November 2023 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 October 2023](#30-october-2023)
 * [31 October 2023](#31-october-2023)
 * [2 November 2023](#2-november-2023)
 * [6 November 2023](#6-november-2023)
@@ -23,56 +22,6 @@ Data generated on | |
 * [12 December 2023](#12-december-2023)
 * [13 December 2023](#13-december-2023)
 * [14 December 2023](#14-december-2023)
-
-------
-
-# 30 October 2023
-
-## [Politiques agricoles : Suivi et évaluation 2023 (version abrégée) - Adapter l’agriculture au changement climatique](https://doi.org/10.1787/9dae6a9d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2023 at 10:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Agricultural Policy Monitoring and Evaluation 2023 - Adapting Agriculture to Climate Change](https://doi.org/10.1787/b14de474-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 October 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2023 at 10:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -139,7 +88,7 @@ Thursday 2 November 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 1 November 2023 at 22:27
 
 ### Additional Information
 
@@ -162,7 +111,7 @@ Thursday 2 November 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 30 October 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 30 October 2023 at 22:29
+- [x] Exported to OECD.org Wednesday 1 November 2023 at 22:27
 
 ### Additional Information
 
