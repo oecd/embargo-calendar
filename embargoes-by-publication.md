@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 November 2023 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Understanding international measures of health spending - Age-adjusting expenditure on health](https://doi.org/10.1787/043ed664-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 October 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 October 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Africa 2023 (en) || Statistiques des recettes publiques en Afrique 2023](https://doi.org/10.1787/15bc5bc6-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 31 October 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 31 October 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 31 October 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English || French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 2 November 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co-operation Peer Reviews: Czech Republic 2023](https://doi.org/10.1787/eba15a0b-en)
 
@@ -59,9 +13,9 @@ Thursday 2 November 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2023 at 22:56
+- [x] Exported to iLibrary Thursday 2 November 2023 at 8:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 November 2023 at 22:27
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
 
 ### Additional Information
 
@@ -82,9 +36,9 @@ Thursday 2 November 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 October 2023 at 22:56
+- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 November 2023 at 22:27
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
 
 ### Additional Information
 
@@ -93,6 +47,29 @@ Thursday 2 November 2023 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Immigration in Iceland - Addressing challenges and unleashing the benefits](https://doi.org/10.1787/645ca1ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -105,15 +82,15 @@ Monday 6 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -128,40 +105,17 @@ Tuesday 7 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [Corporate Tax Statistics 2023](https://doi.org/10.1787/f1f07219-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -403,18 +357,18 @@ Monday 13 November 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 24 October 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 24 October 2023 at 22:30
+- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -438,6 +392,29 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Making Dispute Resolution Mechanisms More Effective – Annual High-Level MAP Report 2023 - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/69b789e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -556,7 +533,7 @@ Monday 20 November 2023 at 9:00 | no launch event
 
 ------
 
-## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
+## [Corporate Tax Statistics 2023](https://doi.org/10.1787/f1f07219-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -573,29 +550,6 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2023 - Dynamisme des recettes fiscales dans les pays de l’OCDE](https://doi.org/10.1787/bcbdaf1a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -763,6 +717,52 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ------
 
+## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Statistiques des recettes publiques 2023 - Dynamisme des recettes fiscales dans les pays de l’OCDE](https://doi.org/10.1787/bcbdaf1a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
 
 Embargo date | Launch date
@@ -805,6 +805,29 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [SME Policy Index: Eastern Partner Countries 2024 - Building Resilience in Challenging Times](https://doi.org/10.1787/3197420e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
