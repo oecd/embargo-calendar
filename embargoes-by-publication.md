@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Development Co-operation Peer Reviews: Czech Republic 2023](https://doi.org/10.1787/eba15a0b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 November 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2023 at 8:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : République tchèque 2023](https://doi.org/10.1787/1b11a21e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 November 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Immigration in Iceland - Addressing challenges and unleashing the benefits](https://doi.org/10.1787/645ca1ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 5 November 2023 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Environmental policy stringency and CO2 emissions - Evidence from cross-country sector-level data](https://doi.org/10.1787/53ddcef7-en)
 
@@ -84,7 +15,7 @@ Monday 6 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 6 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Monday 6 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
 
 ### Additional Information
 
