@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 November 2023 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 November 2023 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 November 2023](#6-november-2023)
 * [7 November 2023](#7-november-2023)
@@ -35,7 +35,7 @@ Monday 6 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Monday 6 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
 ### Additional Information
 
@@ -79,15 +79,15 @@ Monday 6 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
+- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 5 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -106,15 +106,15 @@ Tuesday 7 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
+- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -201,16 +201,16 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -431,7 +431,7 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution Mechanisms More Effective – Annual High-Level MAP Report 2023 - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/69b789e7-en)
+## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023 - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/69b789e7-en)
 
 Embargo date | Launch date
 -------------|:------------:
