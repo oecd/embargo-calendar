@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 November 2023 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Environmental policy stringency and CO2 emissions - Evidence from cross-country sector-level data](https://doi.org/10.1787/53ddcef7-en)
 
@@ -59,7 +59,7 @@ Monday 6 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 6 November 2023 at 22:28
 
@@ -82,9 +82,9 @@ Tuesday 7 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Wednesday 8 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -291,7 +291,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -314,7 +314,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
 
 ### Additional Information
 
@@ -326,7 +326,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 
 ------
 
-## [웰빙 렌즈를 통한 건조환경 연구](https://doi.org/10.1787/eac218d6-ko)
+## [웰빙 관점에서 본 건조 환경](https://doi.org/10.1787/eac218d6-ko)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -372,6 +372,29 @@ Monday 13 November 2023 at 8:00 | no launch event
 
 ------
 
+## [Production Transformation Policy Review of Egypt - Spotlight on the AfCFTA and Industrialisation](https://doi.org/10.1787/3ac95e0c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 November 2023 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
 
 Embargo date | Launch date
@@ -395,7 +418,7 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023 - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/69b789e7-en)
+## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
 
 Embargo date | Launch date
 -------------|:------------:
