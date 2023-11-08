@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Environmental policy stringency and CO2 emissions - Evidence from cross-country sector-level data](https://doi.org/10.1787/53ddcef7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [International trade in the wake of multiple shocks - OECD global trade monitor](https://doi.org/10.1787/9288b5bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Skills Outlook 2023 - Skills for a Resilient Green and Digital Transition](https://doi.org/10.1787/27452f29-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 8 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Health at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/7a7afb35-en)
 
@@ -107,7 +38,7 @@ Wednesday 8 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -176,7 +107,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -199,7 +130,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -222,7 +153,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -245,7 +176,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -268,7 +199,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -291,7 +222,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -314,7 +245,7 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -334,18 +265,18 @@ Monday 13 November 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *Korean*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -358,9 +289,9 @@ Monday 13 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 November 2023 at 22:53
+- [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 November 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
 
 ### Additional Information
 
@@ -438,29 +369,6 @@ Tuesday 14 November 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -665,6 +573,29 @@ Monday 27 November 2023 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Résultats du PISA 2022 (Volume II) - Apprentissage en période de crise et résilience](https://doi.org/10.1787/1dd8c965-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -921,5 +852,28 @@ Thursday 14 December 2023 at 23:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 January 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
