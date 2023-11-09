@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 November 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 9 November 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 November 2023](#7-november-2023)
 * [8 November 2023](#8-november-2023)
 * [13 November 2023](#13-november-2023)
 * [14 November 2023](#14-november-2023)
@@ -17,34 +16,8 @@ Data generated on | |
 * [12 December 2023](#12-december-2023)
 * [13 December 2023](#13-december-2023)
 * [14 December 2023](#14-december-2023)
+* [10 January 2024](#10-january-2024)
 * [17 January 2024](#17-january-2024)
-
-------
-
-# 7 November 2023
-
-## [Health at a Glance 2023 - OECD Indicators](https://doi.org/10.1787/7a7afb35-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 7 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -284,6 +257,29 @@ Wednesday 8 November 2023 at 10:00 | no launch event
 
 # 13 November 2023
 
+## [The cost of job loss in carbon-intensive sectors: Evidence from Germany - Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 9 November 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [웰빙 관점에서 본 건조 환경](https://doi.org/10.1787/eac218d6-ko)
 
 Embargo date | Launch date
@@ -388,16 +384,16 @@ Tuesday 14 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 9 November 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -438,7 +434,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -449,7 +445,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -549,7 +545,7 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -872,6 +868,29 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ------
 
+## [Harmful Tax Practices – 2022 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/22bbeacc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ------
 
 # 14 December 2023
@@ -918,6 +937,33 @@ Thursday 14 December 2023 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 January 2024
+
+## [OECD Economic Surveys: Japan 2024](https://doi.org/10.1787/41e807f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 January 2024 at 1:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
