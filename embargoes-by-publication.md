@@ -2,237 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 November 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Improving transparency of incentives for investment facilitation](https://doi.org/10.1787/ab40a2f1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Latvia 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/b58002ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Mauritania 2023 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/951c320f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Mauritanie 2023 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/facc7860-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 November 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Botswana 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1372013f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Poland 2023 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/aae8ac89-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Serbia 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ccb5184d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Pakistan 2023 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/81828107-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Thailand 2023 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/80703c33-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Dominica 2023 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/7624ec12-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 8 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 10 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The cost of job loss in carbon-intensive sectors: Evidence from Germany - Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
 
@@ -250,6 +20,29 @@ Monday 13 November 2023 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [What technologies are at the core of AI? - An exploration based on patent data](https://doi.org/10.1787/32406765-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 10 November 2023 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 10 November 2023 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -323,6 +116,29 @@ Monday 13 November 2023 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [L'Observateur de l'action climatique 2023 - Information sur le chemin parcouru vers la neutralité carbone](https://doi.org/10.1787/c9afa06c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -426,7 +242,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -437,11 +253,11 @@ Thursday 16 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
-## [OECD Education Policy Outlook 2023 - Empowering All Learners to Go Green](https://doi.org/10.1787/f5063653-en)
+## [Education Policy Outlook 2023 - Empowering All Learners to Go Green](https://doi.org/10.1787/f5063653-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -461,29 +277,6 @@ Monday 20 November 2023 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
