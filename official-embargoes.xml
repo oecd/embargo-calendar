@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-11-10T23:19:37.5975395+01:00">
+<report name="official-embargoes" generated="2023-11-12T23:13:12.545304+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-09T21:58:51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-09T21:32:51Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-10T21:56:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-10T21:30:12Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -153,7 +153,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-08T21:55:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-08T21:29:27Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -513,7 +513,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-08T21:55:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-08T21:29:27Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1173,7 +1173,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-08T21:55:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-08T21:29:27Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1593,7 +1593,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-08T21:55:09Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-08T21:29:27Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -1633,7 +1633,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-07T21:55:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-07T21:31:58Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1653,7 +1653,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-11-07T21:55:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-11-07T21:31:58Z</cell>
+    <cell name="oecd.org last export date">2023-11-12T21:27:14Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1721,26 +1721,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71b7bfbf</cell>
   </row>
   <row index="86">
-    <cell name="directorate">Environment Directorate</cell>
-    <cell name="doi">10.1787/60e338a2-en</cell>
-    <cell name="title">The Climate Action Monitor 2023 (en)</cell>
-    <cell name="subtitle">Providing Information to Monitor Progress Towards Net-Zero (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-11-14</cell>
-    <cell name="embargo date">2023-11-14T08:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73b29026</cell>
-  </row>
-  <row index="87">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/69b789e7-en</cell>
     <cell name="title">Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023 (en)</cell>
@@ -1760,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ac4f3a3</cell>
   </row>
-  <row index="88">
+  <row index="87">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/69b789e7-en</cell>
     <cell name="title">Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023 (en)</cell>
@@ -1779,6 +1759,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62c910f2</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/60e338a2-en</cell>
+    <cell name="title">The Climate Action Monitor 2023 (en)</cell>
+    <cell name="subtitle">Providing Information to Monitor Progress Towards Net-Zero (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2023-11-15</cell>
+    <cell name="embargo date">2023-11-15T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73b29026</cell>
   </row>
   <row index="89">
     <cell name="directorate">Environment Directorate</cell>

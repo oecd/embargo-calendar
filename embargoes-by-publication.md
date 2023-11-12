@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 12 November 2023 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The cost of job loss in carbon-intensive sectors: Evidence from Germany - Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
 
@@ -15,7 +15,7 @@ Monday 13 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 November 2023 at 22:32
+- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 13 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 November 2023 at 22:30
+- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 13 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
+- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 13 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 8 November 2023 at 22:29
+- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Monday 13 November 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 November 2023 at 22:31
+- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
 
 ### Additional Information
 
@@ -142,29 +142,6 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
-## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
 
 Embargo date | Launch date
@@ -185,6 +162,29 @@ Tuesday 14 November 2023 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
