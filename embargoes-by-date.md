@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 November 2023 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 November 2023 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 November 2023](#13-november-2023)
 * [14 November 2023](#14-november-2023)
@@ -18,12 +18,13 @@ Data generated on | |
 * [14 December 2023](#14-december-2023)
 * [10 January 2024](#10-january-2024)
 * [17 January 2024](#17-january-2024)
+* [31 January 2024](#31-january-2024)
 
 ------
 
 # 13 November 2023
 
-## [The cost of job loss in carbon-intensive sectors: Evidence from Germany - Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
+## [The cost of job loss in carbon-intensive sectors: Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -32,9 +33,9 @@ Monday 13 November 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
+- [x] Exported to iLibrary Monday 13 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
 
 ### Additional Information
 
@@ -57,7 +58,7 @@ Monday 13 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 10 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
 
 ### Additional Information
 
@@ -80,7 +81,7 @@ Monday 13 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
 
 ### Additional Information
 
@@ -103,7 +104,7 @@ Monday 13 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
 
 ### Additional Information
 
@@ -126,7 +127,7 @@ Monday 13 November 2023 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 November 2023 at 22:27
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
 
 ### Additional Information
 
@@ -142,11 +143,38 @@ Monday 13 November 2023 at 14:00 | no launch event
 
 # 14 November 2023
 
+## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 November 2023
+
 ## [L'Observateur de l'action climatique 2023 - Information sur le chemin parcouru vers la neutralité carbone](https://doi.org/10.1787/c9afa06c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 November 2023 at 8:00 | no launch event
+Wednesday 15 November 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -165,38 +193,11 @@ Tuesday 14 November 2023 at 8:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 November 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 15 November 2023
-
 ## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 November 2023 at 8:00 | no launch event
+Wednesday 15 November 2023 at 9:00 | no launch event
 
 ### Status Information
 
@@ -218,6 +219,29 @@ Wednesday 15 November 2023 at 8:00 | no launch event
 ------
 
 # 16 November 2023
+
+## [Boosting Social Entrepreneurship and Social Enterprise Development in Ireland - In-depth policy review](https://doi.org/10.1787/3115bcb6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 November 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
 
@@ -345,29 +369,6 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 ------
 
 # 27 November 2023
-
-## [Developing an Effective Online Dispute Resolution Concept in Latvia](https://doi.org/10.1787/75ef5c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 November 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
 
 ## [Taux effectifs sur le carbone 2023 (version abrégée) - Tarifier les émissions de gaz à effet de serre au moyen de taxes et d'échanges de quotas d'émission](https://doi.org/10.1787/1b3d26f3-fr)
 
@@ -784,6 +785,33 @@ Wednesday 17 January 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 January 2024
+
+## [Developing an Effective Online Dispute Resolution Concept in Latvia](https://doi.org/10.1787/75ef5c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 January 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
