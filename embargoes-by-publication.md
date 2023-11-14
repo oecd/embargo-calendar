@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 14 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The cost of job loss in carbon-intensive sectors: Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
 
@@ -128,9 +128,9 @@ Tuesday 14 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 9 November 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 14 November 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 14 November 2023 at 22:27
 
 ### Additional Information
 
@@ -139,52 +139,6 @@ Tuesday 14 November 2023 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [L'Observateur de l'action climatique 2023 - Information sur le chemin parcouru vers la neutralité carbone](https://doi.org/10.1787/c9afa06c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 November 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 November 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -211,7 +165,7 @@ Thursday 16 November 2023 at 6:00 | no launch event
 
 ------
 
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
+## [Financement climatique fourni et mobilisé par les pays développés en 2013-2021 - Tendances agrégées et opportunités pour accroître le financement de l'adaptation et la mobilisation de fonds privés](https://doi.org/10.1787/40558351-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -220,6 +174,29 @@ Thursday 16 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -277,6 +254,52 @@ Thursday 16 November 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [L'Observateur de l'action climatique 2023 - Information sur le chemin parcouru vers la neutralité carbone](https://doi.org/10.1787/c9afa06c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 November 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 November 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -368,6 +391,29 @@ Monday 27 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Carbon Management: Bioeconomy and Beyond](https://doi.org/10.1787/b5ace135-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 30 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
