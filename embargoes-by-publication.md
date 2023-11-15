@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The cost of job loss in carbon-intensive sectors: Evidence from Germany](https://doi.org/10.1787/6f636d3b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [What technologies are at the core of AI? - An exploration based on patent data](https://doi.org/10.1787/32406765-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 10 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [웰빙 관점에서 본 건조 환경](https://doi.org/10.1787/eac218d6-ko)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *Korean*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Built Environment through a Well-being Lens](https://doi.org/10.1787/1b5bebf4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 8 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Production Transformation Policy Review of Egypt - Spotlight on the AfCFTA and Industrialisation](https://doi.org/10.1787/3ac95e0c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 November 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 15 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
 
@@ -153,7 +38,7 @@ Thursday 16 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 November 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
 
 ### Additional Information
 
@@ -173,7 +58,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -303,11 +188,57 @@ Friday 17 November 2023 at 9:00 | no launch event
 
 ------
 
+## [Economic effects of the EU’s ‘Fit for 55’ climate mitigation policies: A computable general equilibrium analysis](https://doi.org/10.1787/f1a8cfa2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Education Policy Outlook 2023 - Empowering All Learners to Go Green](https://doi.org/10.1787/f5063653-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Monday 20 November 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Inventaire OCDE des mesures de soutien pour les combustibles fossiles 2023](https://doi.org/10.1787/9a234d8b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -318,11 +249,34 @@ Monday 20 November 2023 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Inventory of Support Measures for Fossil Fuels 2023](https://doi.org/10.1787/87dc4a55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -372,29 +326,6 @@ Monday 27 November 2023 at 10:00 | no launch event
 
 ------
 
-## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Carbon Management: Bioeconomy and Beyond](https://doi.org/10.1787/b5ace135-en)
 
 Embargo date | Launch date
@@ -414,6 +345,29 @@ Thursday 30 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 1 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -481,6 +435,29 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [PISA 2022 Ergebnisse (Band I) - Lernstände und Bildungsgerechtigkeit](https://doi.org/10.1787/b359f9ab-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -625,6 +602,29 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 
 ------
 
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2022 (version abrégée) - Cadre Inclusif sur le BEPS: Action 5](https://doi.org/10.1787/0ed92692-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Pensions at a Glance 2023 - OECD and G20 Indicators](https://doi.org/10.1787/678055dd-en)
 
 Embargo date | Launch date
@@ -645,6 +645,29 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Panorama des pensions 2023 (version abrégée) - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/91c89a7c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
