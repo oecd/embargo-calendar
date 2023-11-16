@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Making Dispute Resolution Mechanisms More Effective – Consolidated Information on Mutual Agreement Procedures 2023](https://doi.org/10.1787/69b789e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 November 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 16 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Boosting Social Entrepreneurship and Social Enterprise Development in Ireland - In-depth policy review](https://doi.org/10.1787/3115bcb6-en)
 
@@ -38,7 +15,7 @@ Thursday 16 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
@@ -59,17 +36,17 @@ Thursday 16 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -82,17 +59,17 @@ Thursday 16 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -105,15 +82,15 @@ Thursday 16 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -128,15 +105,15 @@ Thursday 16 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -146,7 +123,7 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 17 November 2023 at 9:00 | no launch event
+Friday 17 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -169,7 +146,7 @@ Friday 17 November 2023 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 17 November 2023 at 9:00 | no launch event
+Friday 17 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
@@ -208,6 +185,75 @@ Monday 20 November 2023 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
+
+------
+
+## [Accelerating the EU’s green transition](https://doi.org/10.1787/bed2b6df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Promoting gender equality to strengthen economic growth and resilience](https://doi.org/10.1787/54090c29-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 20 November 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -289,15 +335,15 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -556,6 +602,29 @@ Wednesday 6 December 2023 at 17:00 | no launch event
 
 ------
 
+## [Civic Space Review of Portugal - Towards People-Centred, Rights-Based Public Services](https://doi.org/10.1787/8241c5e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 December 2023 at 14:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [On Shaky Ground? Income Instability and Economic Insecurity in Europe](https://doi.org/10.1787/9bffeba6-en)
 
 Embargo date | Launch date
@@ -602,7 +671,7 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 
 ------
 
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2022 (version abrégée) - Cadre Inclusif sur le BEPS: Action 5](https://doi.org/10.1787/0ed92692-fr)
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2022 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/0ed92692-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -621,7 +690,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
