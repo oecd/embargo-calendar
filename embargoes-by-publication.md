@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 17 November 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Boosting Social Entrepreneurship and Social Enterprise Development in Ireland - In-depth policy review](https://doi.org/10.1787/3115bcb6-en)
 
@@ -119,52 +119,6 @@ Thursday 16 November 2023 at 10:00 | no launch event
 
 ------
 
-## [L'Observateur de l'action climatique 2023 - Information sur le chemin parcouru vers la neutralité carbone](https://doi.org/10.1787/c9afa06c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The Climate Action Monitor 2023 - Providing Information to Monitor Progress Towards Net-Zero](https://doi.org/10.1787/60e338a2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Economic effects of the EU’s ‘Fit for 55’ climate mitigation policies: A computable general equilibrium analysis](https://doi.org/10.1787/f1a8cfa2-en)
 
 Embargo date | Launch date
@@ -265,18 +219,18 @@ Monday 20 November 2023 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -334,10 +288,10 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
 
 ### Additional Information
 
@@ -345,6 +299,75 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Effective tax rates of MNEs - New evidence on global low-taxed profit](https://doi.org/10.1787/4a494083-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A territorial approach to the Sustainable Development Goals in Bolzano-Bozen, Italy](https://doi.org/10.1787/fb8e8ee0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 22 November 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Childhood socio-economic disadvantage in Austria - A snapshot of key challenges](https://doi.org/10.1787/c05f13f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -369,6 +392,52 @@ Monday 27 November 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Working hand in hand? Exploring people’s views of the role of different actors in fighting inequality](https://doi.org/10.1787/dbd54315-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Hard work, privilege or luck? Exploring people’s views of what matters most to get ahead in life](https://doi.org/10.1787/e1903ab2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -415,6 +484,29 @@ Friday 1 December 2023 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Drivers of Trust in Public Institutions in Brazil](https://doi.org/10.1787/fb0e1896-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
