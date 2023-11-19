@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 November 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Boosting Social Entrepreneurship and Social Enterprise Development in Ireland - In-depth policy review](https://doi.org/10.1787/3115bcb6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Financement climatique fourni et mobilisé par les pays développés en 2013-2021 - Tendances agrégées et opportunités pour accroître le financement de l'adaptation et la mobilisation de fonds privés](https://doi.org/10.1787/40558351-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2021 - Aggregate Trends and Opportunities for Scaling Up Adaptation and Mobilised Private Finance](https://doi.org/10.1787/e20d2bc7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Scaling Up Adaptation Finance in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/b0878862-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Scaling Up the Mobilisation of Private Finance for Climate Action in Developing Countries - Challenges and Opportunities for International Providers](https://doi.org/10.1787/17a88681-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 16 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 19 November 2023 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic effects of the EU’s ‘Fit for 55’ climate mitigation policies: A computable general equilibrium analysis](https://doi.org/10.1787/f1a8cfa2-en)
 
@@ -130,7 +15,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 November 2023 at 22:29
+- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
 
 ### Additional Information
 
@@ -153,7 +38,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
 
 ### Additional Information
 
@@ -176,7 +61,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
 
 ### Additional Information
 
@@ -199,7 +84,7 @@ Monday 20 November 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
 
 ### Additional Information
 
@@ -222,7 +107,7 @@ Monday 20 November 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
 
 ### Additional Information
 
