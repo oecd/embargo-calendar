@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 November 2023 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 November 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [20 November 2023](#20-november-2023)
 * [21 November 2023](#21-november-2023)
@@ -11,7 +11,6 @@ Data generated on | |
 * [27 November 2023](#27-november-2023)
 * [28 November 2023](#28-november-2023)
 * [30 November 2023](#30-november-2023)
-* [1 December 2023](#1-december-2023)
 * [4 December 2023](#4-december-2023)
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
@@ -38,7 +37,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -61,7 +60,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -84,7 +83,7 @@ Monday 20 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -107,7 +106,7 @@ Monday 20 November 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -130,7 +129,7 @@ Monday 20 November 2023 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 19 November 2023 at 22:26
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -150,7 +149,7 @@ Monday 20 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -173,7 +172,7 @@ Monday 20 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -201,17 +200,17 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [x] Exported to iLibrary Monday 20 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -226,7 +225,7 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
 
 ### Additional Information
 
@@ -296,7 +295,7 @@ Thursday 23 November 2023 at 8:00 | no launch event
 
 # 27 November 2023
 
-## [Taux effectifs sur le carbone 2023 (version abrégée) - Tarifier les émissions de gaz à effet de serre au moyen de taxes et d'échanges de quotas d'émission](https://doi.org/10.1787/1b3d26f3-fr)
+## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -312,7 +311,7 @@ Monday 27 November 2023 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -392,33 +391,6 @@ Thursday 30 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 1 December 2023
-
-## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 1 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
