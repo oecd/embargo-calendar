@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 November 2023 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 November 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Economic effects of the EU’s ‘Fit for 55’ climate mitigation policies: A computable general equilibrium analysis](https://doi.org/10.1787/f1a8cfa2-en)
 
@@ -176,7 +176,7 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 20 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 21 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
+- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
 
 ### Additional Information
 
@@ -222,11 +222,34 @@ Wednesday 22 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Policy pointers for equitable, effective and personalised upper secondary transitions](https://doi.org/10.1787/ac6c2095-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 November 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 November 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
