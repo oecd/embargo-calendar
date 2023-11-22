@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 November 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Economic effects of the EU’s ‘Fit for 55’ climate mitigation policies: A computable general equilibrium analysis](https://doi.org/10.1787/f1a8cfa2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 November 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Accelerating the EU’s green transition](https://doi.org/10.1787/bed2b6df-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Promoting gender equality to strengthen economic growth and resilience](https://doi.org/10.1787/54090c29-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Big Data Intelligence on Skills Demand and Training in Umbria](https://doi.org/10.1787/4bbbbfd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 16 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Education Policy Outlook 2023 - Empowering All Learners to Go Green](https://doi.org/10.1787/f5063653-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Inventaire OCDE des mesures de soutien pour les combustibles fossiles 2023](https://doi.org/10.1787/9a234d8b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Inventory of Support Measures for Fossil Fuels 2023](https://doi.org/10.1787/87dc4a55-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 20 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 22 November 2023 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Corporate Tax Statistics 2023](https://doi.org/10.1787/f1f07219-en)
 
@@ -222,7 +61,7 @@ Wednesday 22 November 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 22 November 2023 at 22:27
 
 ### Additional Information
 
@@ -245,7 +84,7 @@ Thursday 23 November 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 November 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 November 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 22 November 2023 at 22:27
 
 ### Additional Information
 
@@ -268,7 +107,7 @@ Thursday 23 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 November 2023 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 22 November 2023 at 22:27
 
 ### Additional Information
 
@@ -357,16 +196,16 @@ Thursday 30 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 22 November 2023 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 22 November 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -740,29 +579,6 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ------
 
-## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 December 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
 
 Embargo date | Launch date
@@ -852,5 +668,28 @@ Wednesday 31 January 2024 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 February 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
