@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 November 2023 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A territorial approach to the Sustainable Development Goals in Bolzano-Bozen, Italy](https://doi.org/10.1787/fb8e8ee0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 22 November 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 November 2023 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 24 November 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Policy pointers for equitable, effective and personalised upper secondary transitions](https://doi.org/10.1787/ac6c2095-en)
 
@@ -77,11 +54,11 @@ Thursday 23 November 2023 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 November 2023 at 10:00 | no launch event
+Monday 27 November 2023 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +69,7 @@ Monday 27 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -165,6 +142,29 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 
 ------
 
+## [Perspectives économiques de l'OCDE, Volume 2023 Numéro 2 - Version préliminaire](https://doi.org/10.1787/b07667cd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 November 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [Peer Review of the Automatic Exchange of Financial Account Information 2023 Update](https://doi.org/10.1787/5c9f58ae-en)
 
 Embargo date | Launch date
@@ -174,7 +174,7 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 November 2023 at 22:55
+- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 23 November 2023 at 22:28
 
@@ -220,17 +220,17 @@ Monday 4 December 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 November 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -349,6 +349,29 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
 
 Embargo date | Launch date
@@ -395,29 +418,6 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 December 2023 at 17:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Civic Space Review of Portugal - Towards People-Centred, Rights-Based Public Services](https://doi.org/10.1787/8241c5e3-en)
 
 Embargo date | Launch date
@@ -449,18 +449,18 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 November 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -579,6 +579,29 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ------
 
+## [OECD Digital Education Outlook 2023 - Towards an Effective Digital Education Ecosystem](https://doi.org/10.1787/c74f03de-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
 
 Embargo date | Launch date
@@ -603,6 +626,29 @@ Thursday 14 December 2023 at 23:00 | no launch event
 ------
 
 ## [Iceland: Country Health Profile 2023](https://doi.org/10.1787/f2868adb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Latvia: Country Health Profile 2023](https://doi.org/10.1787/bf2b15d6-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -671,7 +717,99 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Sweden: Country Health Profile 2023](https://doi.org/10.1787/ec938a6d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Portugal: Country Health Profile 2023](https://doi.org/10.1787/069af7b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Lithuania: Country Health Profile 2023](https://doi.org/10.1787/5ed683c8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Hungary: Country Health Profile 2023](https://doi.org/10.1787/8d398062-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Slovakia: Country Health Profile 2023](https://doi.org/10.1787/98f25a9b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -740,6 +878,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Poland: Country Health Profile 2023](https://doi.org/10.1787/f597c810-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Ireland: Country Health Profile 2023](https://doi.org/10.1787/3abe906b-en)
 
 Embargo date | Launch date
@@ -786,7 +947,99 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Malta: Country Health Profile 2023](https://doi.org/10.1787/2a821e8a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Finland: Country Health Profile 2023](https://doi.org/10.1787/e7af1b4d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Norway: Country Health Profile 2023](https://doi.org/10.1787/256fd7cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Romania: Country Health Profile 2023](https://doi.org/10.1787/f478769b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Luxembourg: Country Health Profile 2023](https://doi.org/10.1787/3cf98074-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -855,6 +1108,52 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Slovenia: Country Health Profile 2023](https://doi.org/10.1787/0eb17a30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Netherlands: Country Health Profile 2023](https://doi.org/10.1787/3110840c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Austria: Country Health Profile 2023](https://doi.org/10.1787/0f110d90-en)
 
 Embargo date | Launch date
@@ -879,6 +1178,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 ------
 
 ## [Croatia: Country Health Profile 2023](https://doi.org/10.1787/8a7eadc9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Spain: Country Health Profile 2023](https://doi.org/10.1787/71d029b2-en)
 
 Embargo date | Launch date
 -------------|:------------:
