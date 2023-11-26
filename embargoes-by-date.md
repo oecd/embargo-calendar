@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 November 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 26 November 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 November 2023](#23-november-2023)
 * [27 November 2023](#27-november-2023)
 * [28 November 2023](#28-november-2023)
 * [29 November 2023](#29-november-2023)
@@ -21,56 +20,6 @@ Data generated on | |
 * [17 January 2024](#17-january-2024)
 * [31 January 2024](#31-january-2024)
 * [1 February 2024](#1-february-2024)
-
-------
-
-# 23 November 2023
-
-## [Policy pointers for equitable, effective and personalised upper secondary transitions](https://doi.org/10.1787/ac6c2095-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 November 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 November 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Childhood socio-economic disadvantage in Austria - A snapshot of key challenges](https://doi.org/10.1787/c05f13f8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
