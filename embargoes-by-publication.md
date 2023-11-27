@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 November 2023 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 27 November 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
 
@@ -13,15 +13,15 @@ Monday 27 November 2023 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -36,9 +36,9 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
 
 ### Additional Information
 
@@ -59,14 +59,60 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 November 2023 at 22:57
+- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Travail, origine sociale, chance ? Explorer les opinions sur ce qui compte le plus pour réussir dans la vie](https://doi.org/10.1787/ac1a514f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Travailler main dans la main ? Explorer les opinions sur le rôle de différents acteurs dans la lutte contre les inégalités](https://doi.org/10.1787/0e7fb79f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 November 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
@@ -188,6 +234,52 @@ Monday 4 December 2023 at 7:00 | no launch event
 
 ------
 
+## [Inventaire OCDE des mesures de soutien pour les combustibles fossiles 2023](https://doi.org/10.1787/9a234d8b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Inventory of Support Measures for Fossil Fuels 2023](https://doi.org/10.1787/87dc4a55-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Résultats du PISA 2022 (Volume II) - Apprentissage en période de crise et résilience](https://doi.org/10.1787/1dd8c965-fr)
 
 Embargo date | Launch date
@@ -257,7 +349,7 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ------
 
-## [PISA 2022 Ergebnisse (Band I) - Lernstände und Bildungsgerechtigkeit](https://doi.org/10.1787/b359f9ab-de)
+## [PISA 2022 Ergebnisse (Band I) - Lernstände und Bildungsgerechtigkeit](https://doi.org/10.3278/6004956w)
 
 Embargo date | Launch date
 -------------|:------------:
