@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 November 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 November 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 November 2023](#27-november-2023)
 * [28 November 2023](#28-november-2023)
@@ -63,7 +63,7 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
 
 ### Additional Information
 
@@ -86,7 +86,7 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
 
 ### Additional Information
 
@@ -109,7 +109,7 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
 
 ### Additional Information
 
@@ -132,7 +132,7 @@ Tuesday 28 November 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 27 November 2023 at 23:00
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
 
 ### Additional Information
 
@@ -156,7 +156,7 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -167,7 +167,7 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -205,7 +205,7 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
 
 ### Additional Information
 
@@ -247,29 +247,6 @@ Thursday 30 November 2023 at 10:00 | no launch event
 ------
 
 # 4 December 2023
-
-## [Drivers of Trust in Public Institutions in Brazil](https://doi.org/10.1787/fb0e1896-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 December 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 November 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ## [Inventaire OCDE des mesures de soutien pour les combustibles fossiles 2023](https://doi.org/10.1787/9a234d8b-fr)
 
@@ -320,6 +297,29 @@ Monday 4 December 2023 at 10:00 | no launch event
 ------
 
 # 5 December 2023
+
+## [Drivers of Trust in Public Institutions in Brazil](https://doi.org/10.1787/fb0e1896-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 November 2023 at 23:01
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [Résultats du PISA 2022 (Volume II) - Apprentissage en période de crise et résilience](https://doi.org/10.1787/1dd8c965-fr)
 
