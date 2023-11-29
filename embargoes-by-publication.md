@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 November 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Effective Carbon Rates 2023 - Pricing Greenhouse Gas Emissions through Taxes and Emissions Trading](https://doi.org/10.1787/b84d5b36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 November 2023 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 November 2023 at 22:36
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 29 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Working hand in hand? Exploring people’s views of the role of different actors in fighting inequality](https://doi.org/10.1787/dbd54315-en)
 
@@ -128,15 +105,15 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *HTML, Paperback, PDF, ZXML*
 
@@ -150,18 +127,18 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
@@ -176,7 +153,7 @@ Wednesday 29 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
@@ -199,7 +176,7 @@ Thursday 30 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 November 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
@@ -335,15 +312,15 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -381,15 +358,15 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -427,15 +404,15 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -450,15 +427,15 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -644,6 +621,52 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Country Digital Education Ecosystem and Governance, A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Evaluation of Belgium’s COVID-19 Responses - Fostering Trust for a More Resilient Society](https://doi.org/10.1787/990b14aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
