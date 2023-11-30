@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 November 2023 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Working hand in hand? Exploring people’s views of the role of different actors in fighting inequality](https://doi.org/10.1787/dbd54315-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Hard work, privilege or luck? Exploring people’s views of what matters most to get ahead in life](https://doi.org/10.1787/e1903ab2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Travail, origine sociale, chance ? Explorer les opinions sur ce qui compte le plus pour réussir dans la vie](https://doi.org/10.1787/ac1a514f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Travailler main dans la main ? Explorer les opinions sur le rôle de différents acteurs dans la lutte contre les inégalités](https://doi.org/10.1787/0e7fb79f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 November 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 27 November 2023 at 23:00
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 30 November 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Outlook, Volume 2023 Issue 2 - Preliminary version](https://doi.org/10.1787/7a5f73ce-en)
 
@@ -176,7 +84,7 @@ Thursday 30 November 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 November 2023 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
+- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
 
 ### Additional Information
 
@@ -192,20 +100,20 @@ Thursday 30 November 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 4 December 2023 at 10:00 | no launch event
+Friday 1 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -215,20 +123,20 @@ Monday 4 December 2023 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 4 December 2023 at 10:00 | no launch event
+Friday 1 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -311,18 +219,18 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
+- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -427,7 +335,7 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
+- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
 
@@ -438,29 +346,6 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Civic Space Review of Portugal - Towards People-Centred, Rights-Based Public Services](https://doi.org/10.1787/8241c5e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 December 2023 at 14:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -625,7 +510,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 
 ------
 
-## [Country Digital Education Ecosystem and Governance, A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
+## [Country Digital Education Ecosystem and Governance - A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
 
 Embargo date | Launch date
 -------------|:------------:
