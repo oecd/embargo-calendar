@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 November 2023 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Outlook, Volume 2023 Issue 2 - Preliminary version](https://doi.org/10.1787/7a5f73ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2023 Numéro 2 - Version préliminaire](https://doi.org/10.1787/b07667cd-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZXML*
-
-------
-
-## [Peer Review of the Automatic Exchange of Financial Account Information 2023 Update](https://doi.org/10.1787/5c9f58ae-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 1 December 2023 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Carbon Management: Bioeconomy and Beyond](https://doi.org/10.1787/b5ace135-en)
 
@@ -107,7 +38,7 @@ Friday 1 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
+- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Friday 1 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
+- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
 
 ### Additional Information
 
@@ -138,6 +69,29 @@ Friday 1 December 2023 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Climate policies and Sweden’s green industrial revolution](https://doi.org/10.1787/c0f4fa26-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -265,41 +219,18 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
+- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 December 2023 at 2:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -346,6 +277,52 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 December 2023 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Dividend Tax Fraud - Raising Awareness of Dividend Stripping Schemes](https://doi.org/10.1787/70ee934c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -1223,6 +1200,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 January 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Japan 2024](https://doi.org/10.1787/41e807f9-en)
 
 Embargo date | Launch date
@@ -1246,6 +1246,29 @@ Wednesday 10 January 2024 at 1:00 | no launch event
 
 ------
 
+## [Developing Effective Online Dispute Resolution in Latvia](https://doi.org/10.1787/75ef5c4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 January 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
 
 Embargo date | Launch date
@@ -1265,29 +1288,6 @@ Wednesday 17 January 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Developing Effective Online Dispute Resolution in Latvia](https://doi.org/10.1787/75ef5c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 January 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
