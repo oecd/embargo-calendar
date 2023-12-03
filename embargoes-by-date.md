@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 December 2023 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 3 December 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 November 2023](#30-november-2023)
-* [1 December 2023](#1-december-2023)
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
 * [7 December 2023](#7-december-2023)
@@ -18,83 +16,6 @@ Data generated on | |
 * [11 January 2024](#11-january-2024)
 * [17 January 2024](#17-january-2024)
 * [1 February 2024](#1-february-2024)
-
-------
-
-# 30 November 2023
-
-## [Carbon Management: Bioeconomy and Beyond](https://doi.org/10.1787/b5ace135-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 30 November 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 November 2023 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 1 December 2023
-
-## [Inventaire OCDE des mesures de soutien pour les combustibles fossiles 2023](https://doi.org/10.1787/9a234d8b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 1 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Inventory of Support Measures for Fossil Fuels 2023](https://doi.org/10.1787/87dc4a55-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 1 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
