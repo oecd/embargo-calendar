@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 December 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 December 2023 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
@@ -32,7 +32,7 @@ Tuesday 5 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 December 2023 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
@@ -55,7 +55,7 @@ Tuesday 5 December 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 November 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 November 2023 at 22:32
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
@@ -122,9 +122,9 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
+- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 November 2023 at 22:31
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
@@ -144,16 +144,16 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -170,7 +170,7 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 December 2023 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
@@ -186,6 +186,29 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 
 # 6 December 2023
 
+## [Reorienting budgetary support to agriculture for climate change mitigation - A modelling analysis](https://doi.org/10.1787/28248b95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
 
 Embargo date | Launch date
@@ -194,18 +217,18 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 29 November 2023 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
+- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -244,7 +267,7 @@ Thursday 7 December 2023 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -524,6 +547,29 @@ Thursday 14 December 2023 at 23:00 | no launch event
 
 ------
 
+## [France : Profil de santé par pays 2023](https://doi.org/10.1787/7ff19969-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 15 December 2023
@@ -545,6 +591,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Ελλάδα: Προφίλ Υγείας 2023](https://doi.org/10.1787/5753e659-el)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Greek*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -574,6 +643,98 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Latvija: Valsts veselības pārskats 2023](https://doi.org/10.1787/20fcda00-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Latvian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Danmark: National sundhedsprofil 2023](https://doi.org/10.1787/81d97e43-da)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Danish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Česko: zdravotní profil země 2023](https://doi.org/10.1787/c0c44f04-cs)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Czech*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Portugal: Perfil de Saúde do País 2023](https://doi.org/10.1787/6be7d83c-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Belgium: Country Health Profile 2023](https://doi.org/10.1787/dd6df7bd-en)
 
 Embargo date | Launch date
@@ -591,6 +752,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Polska: Profil systemu ochrony zdrowia 2023](https://doi.org/10.1787/b12d3d03-pl)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Polish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -620,6 +804,52 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Slovensko: Zdravotný Profil Krajiny 2023](https://doi.org/10.1787/e1adf8cd-sk)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Slovak*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [España: Perfil Sanitario del País 2023](https://doi.org/10.1787/f12f0172-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Sweden: Country Health Profile 2023](https://doi.org/10.1787/ec938a6d-en)
 
 Embargo date | Launch date
@@ -637,6 +867,52 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Hrvatska: pregled stanja zdravlja i zdravstvene zaštite 2023](https://doi.org/10.1787/e5483d30-hr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Croatian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Deutschland: Ländergesundheitsprofil 2023](https://doi.org/10.1787/7fd88e75-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -689,6 +965,52 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Belgique : Profils de santé par pays 2023](https://doi.org/10.1787/ad46594b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Österreich: Länderprofil Gesundheit 2023](https://doi.org/10.1787/89c72ba6-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Hungary: Country Health Profile 2023](https://doi.org/10.1787/8d398062-en)
 
 Embargo date | Launch date
@@ -706,6 +1028,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [België: Landenprofiel Gezondheid 2023](https://doi.org/10.1787/e26c31a9-nl)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Dutch*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -758,6 +1103,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Eesti: Riigi terviseprofiil 2023](https://doi.org/10.1787/cee4e9bd-et)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Estonian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Germany: Country Health Profile 2023](https://doi.org/10.1787/21dd4679-en)
 
 Embargo date | Launch date
@@ -775,6 +1143,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Magyarország: Egészségügyi országprofil 2023](https://doi.org/10.1787/5adc0e05-hu)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Hungarian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -827,6 +1218,121 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Sverige: Landprofil hälsa 2023](https://doi.org/10.1787/7a6a9fc5-sv)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Swedish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Romania: Profilul Sănătății în 2023](https://doi.org/10.1787/37ca855a-ro)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Romanian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [България: Здравен профил за страната 2023](https://doi.org/10.1787/12bffa71-bg)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Bulgarian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Κύπρος: Προφίλ Υγείας 2023](https://doi.org/10.1787/4cfc5f43-el)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Greek*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Luxembourg : Profil de santé par pays 2023](https://doi.org/10.1787/651fedbb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Greece: Country Health Profile 2023](https://doi.org/10.1787/dd530c3e-en)
 
 Embargo date | Launch date
@@ -867,6 +1373,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Nederland: Landenprofiel Gezondheid 2023](https://doi.org/10.1787/effa20e2-nl)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Dutch*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -919,6 +1448,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Italia: Profilo della Sanità 2023](https://doi.org/10.1787/1e266bea-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Romania: Country Health Profile 2023](https://doi.org/10.1787/f478769b-en)
 
 Embargo date | Launch date
@@ -959,6 +1511,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Lietuva: Šalies sveikatos profilis 2023](https://doi.org/10.1787/39e5feaa-lt)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Luxembourgish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -1103,6 +1678,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Slovenija: Zdravstveni Profil Leta 2023](https://doi.org/10.1787/2d370464-sl)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Slovenian*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Spain: Country Health Profile 2023](https://doi.org/10.1787/71d029b2-en)
 
 Embargo date | Launch date
@@ -1143,6 +1741,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Suomi: Maan terveysprofiili 2023](https://doi.org/10.1787/dcbda54d-fi)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Finnish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
