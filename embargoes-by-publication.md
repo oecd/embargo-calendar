@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 December 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 December 2023 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Climate policies and Sweden’s green industrial revolution](https://doi.org/10.1787/c0f4fa26-en)
 
@@ -15,7 +15,7 @@ Tuesday 5 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 December 2023 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 5 December 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 28 November 2023 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 11:21
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -151,9 +151,9 @@ Tuesday 5 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Wednesday 6 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
@@ -219,18 +219,18 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 30 November 2023 at 23:04
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 November 2023 at 22:28
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -266,14 +266,37 @@ Thursday 7 December 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Fraude fiscale aux dividendes - Renforcer la sensibilisation aux montages d’arbitrage de dividendes](https://doi.org/10.1787/add0773b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 December 2023 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -358,15 +381,15 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -381,15 +404,15 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -441,7 +464,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 
 ------
 
-## [Country Digital Education Ecosystem and Governance - A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
+## [Country Digital Education Ecosystems and Governance - A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -461,6 +484,29 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Deliberative democracy in Lebanon - Prospects for democratic innovation](https://doi.org/10.1787/daf755e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -1492,7 +1538,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Luxembourgish*
+* Language: *Lithuanian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
