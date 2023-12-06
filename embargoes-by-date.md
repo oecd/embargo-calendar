@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 December 2023 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 December 2023 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 December 2023](#5-december-2023)
 * [6 December 2023](#6-december-2023)
 * [7 December 2023](#7-december-2023)
+* [8 December 2023](#8-december-2023)
 * [12 December 2023](#12-december-2023)
 * [13 December 2023](#13-december-2023)
 * [14 December 2023](#14-december-2023)
@@ -197,7 +198,7 @@ Wednesday 6 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
@@ -220,7 +221,7 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
@@ -243,7 +244,7 @@ Wednesday 6 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
@@ -268,15 +269,15 @@ Thursday 7 December 2023 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -293,7 +294,7 @@ Thursday 7 December 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
@@ -316,7 +317,7 @@ Thursday 7 December 2023 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
@@ -330,7 +331,80 @@ Thursday 7 December 2023 at 7:00 | no launch event
 
 ------
 
+# 8 December 2023
+
+## [Advancing strategic priorities through the SDGs in Córdoba, Argentina](https://doi.org/10.1787/8512bb99-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 12 December 2023
+
+## [Labour market and education reforms are needed to create more and better jobs in Türkiye](https://doi.org/10.1787/54657452-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The law of the strongest? Exploring the drivers of firm performance during the COVID-19 crisis](https://doi.org/10.1787/98397076-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [On Shaky Ground? Income Instability and Economic Insecurity in Europe](https://doi.org/10.1787/9bffeba6-en)
 
@@ -460,15 +534,15 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1579,7 +1653,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Lithuanian*
+* Language: *Luxembourgish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
