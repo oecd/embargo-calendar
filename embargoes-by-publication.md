@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 December 2023 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Climate policies and Sweden’s green industrial revolution](https://doi.org/10.1787/c0f4fa26-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 December 2023 at 23:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Drivers of Trust in Public Institutions in Brazil](https://doi.org/10.1787/fb0e1896-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 November 2023 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Résultats du PISA 2022 (Volume II) - Apprentissage en période de crise et résilience](https://doi.org/10.1787/1dd8c965-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Résultats du PISA 2022 (Volume I) - Apprentissage et équité dans l’éducation](https://doi.org/10.1787/165f1d07-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [PISA 2022 Results (Volume I) - The State of Learning and Equity in Education](https://doi.org/10.1787/53f23881-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [PISA 2022 Ergebnisse (Band I) - Lernstände und Bildungsgerechtigkeit](https://doi.org/10.3278/6004956w)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 11:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [PISA 2022 Results (Volume II) - Learning During – and From – Disruption](https://doi.org/10.1787/a97db61c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 7 December 2023 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Reorienting budgetary support to agriculture for climate change mitigation - A modelling analysis](https://doi.org/10.1787/28248b95-en)
 
@@ -243,9 +82,9 @@ Thursday 7 December 2023 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [x] Exported to iLibrary Thursday 7 December 2023 at 5:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
@@ -266,9 +105,9 @@ Thursday 7 December 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [x] Exported to iLibrary Thursday 7 December 2023 at 12:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
@@ -289,9 +128,9 @@ Thursday 7 December 2023 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [x] Exported to iLibrary Thursday 7 December 2023 at 12:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
@@ -314,11 +153,34 @@ Friday 8 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Doombot: a machine learning algorithm for predicting downturns in OECD countries](https://doi.org/10.1787/4ed7acc3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -335,7 +197,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
 
@@ -418,29 +280,6 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 
 ------
 
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2022 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/0ed92692-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Pensions at a Glance 2023 - OECD and G20 Indicators](https://doi.org/10.1787/678055dd-en)
 
 Embargo date | Launch date
@@ -449,18 +288,18 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -472,18 +311,18 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -495,18 +334,18 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -1607,7 +1446,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Luxembourgish*
+* Language: *Lithuanian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -1867,6 +1706,29 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Brazil 2023](https://doi.org/10.1787/a2d6acac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 December 2023 at 17:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
 Embargo date | Launch date
@@ -1978,6 +1840,29 @@ Thursday 1 February 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Impact Evaluations of Training and Wage Subsidies for the Unemployed in Greece](https://doi.org/10.1787/4b908517-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 8 February 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
