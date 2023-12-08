@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 December 2023 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Reorienting budgetary support to agriculture for climate change mitigation - A modelling analysis](https://doi.org/10.1787/28248b95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics 2023 - Tax Revenue Buoyancy in OECD Countries](https://doi.org/10.1787/9d0453d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 December 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Statistiques des recettes publiques 2023 - Dynamisme des recettes fiscales dans les pays de l’OCDE](https://doi.org/10.1787/bcbdaf1a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 8 December 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
 
@@ -188,6 +119,52 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 
 ------
 
+## [Improving the business environment to accelerate convergence in Croatia](https://doi.org/10.1787/3c89c005-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A better performing labour market for inclusive convergence in Croatia](https://doi.org/10.1787/cafd17cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Labour market and education reforms are needed to create more and better jobs in Türkiye](https://doi.org/10.1787/54657452-en)
 
 Embargo date | Launch date
@@ -227,6 +204,52 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Review of energy subsidies in the context of energy sector reforms in Ukraine](https://doi.org/10.1787/0fdb33b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Economic insecurity in Europe and potential policy responses](https://doi.org/10.1787/4323bb60-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -277,6 +300,29 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Gender diversity in senior management and firm productivity - Evidence from nine OECD countries](https://doi.org/10.1787/58ad664a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -358,7 +404,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -366,7 +412,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,7 +426,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -404,7 +450,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 December 2023 at 22:54
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
 
@@ -413,6 +459,52 @@ Thursday 14 December 2023 at 6:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Long-term scenarios: incorporating the energy transition](https://doi.org/10.1787/153ab87c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The return of industrial policies - Policy considerations in the current context](https://doi.org/10.1787/051ce36d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Paper*
 * Format: *PDF*
 
@@ -1446,7 +1538,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Lithuanian*
+* Language: *Luxembourgish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
