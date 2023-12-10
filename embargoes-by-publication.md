@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 December 2023 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Thailand 2023](https://doi.org/10.1787/4815cb4b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 December 2023 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 5:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Dividend Tax Fraud - Raising Awareness of Dividend Stripping Schemes](https://doi.org/10.1787/70ee934c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 December 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 12:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Fraude fiscale aux dividendes - Renforcer la sensibilisation aux montages d’arbitrage de dividendes](https://doi.org/10.1787/add0773b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 December 2023 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 12:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Advancing strategic priorities through the SDGs in Córdoba, Argentina](https://doi.org/10.1787/8512bb99-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 10 December 2023 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Doombot: a machine learning algorithm for predicting downturns in OECD countries](https://doi.org/10.1787/4ed7acc3-en)
 
@@ -112,6 +20,29 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Androgen receptor agonism leading to male-biased sex ratio](https://doi.org/10.1787/6f60dce3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 10 December 2023 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -158,6 +89,52 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 ### Additional Information
 
 * Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis](https://doi.org/10.1787/10372cb8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 10 December 2023 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Adverse Outcome Pathway on Aromatase inhibition leading to male-biased sex ratio via impacts on gonad differentiation](https://doi.org/10.1787/6a069853-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 10 December 2023 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -1538,7 +1515,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Luxembourgish*
+* Language: *Lithuanian*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
