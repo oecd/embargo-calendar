@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 December 2023 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 December 2023 at 23:33* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 December 2023](#12-december-2023)
 * [13 December 2023](#13-december-2023)
@@ -15,6 +15,7 @@ Data generated on | |
 * [17 January 2024](#17-january-2024)
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
+* [23 February 2024](#23-february-2024)
 
 ------
 
@@ -31,7 +32,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -54,7 +55,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 December 2023 at 23:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -77,7 +78,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -100,7 +101,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -123,7 +124,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 December 2023 at 23:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -146,7 +147,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 December 2023 at 23:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -169,7 +170,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -192,7 +193,7 @@ Tuesday 12 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -238,7 +239,7 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -261,7 +262,7 @@ Tuesday 12 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 November 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -285,10 +286,10 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 22:32
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -309,9 +310,9 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -334,7 +335,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -357,7 +358,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -380,7 +381,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 December 2023 at 22:31
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
@@ -400,18 +401,18 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 10:48
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -424,17 +425,17 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -474,7 +475,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 8 December 2023 at 22:33
 
@@ -492,20 +493,20 @@ Thursday 14 December 2023 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 14 December 2023 at 9:00 | no launch event
+Thursday 14 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -569,16 +570,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -615,16 +616,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -730,16 +731,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -776,16 +777,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -845,16 +846,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -914,16 +915,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -937,16 +938,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1006,16 +1007,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1052,16 +1053,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1075,16 +1076,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1121,16 +1122,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1167,16 +1168,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1190,16 +1191,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1328,16 +1329,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1351,16 +1352,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1397,16 +1398,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1420,16 +1421,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1466,16 +1467,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1489,16 +1490,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1535,16 +1536,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1558,16 +1559,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1581,16 +1582,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1604,16 +1605,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1627,16 +1628,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1650,16 +1651,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1696,16 +1697,39 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Italy: Country Health Profile 2023](https://doi.org/10.1787/633496ec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1719,16 +1743,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1765,16 +1789,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1965,6 +1989,33 @@ Thursday 8 February 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 February 2024
+
+## [OECD Economic Surveys: Egypt 2024 - Economic Assessment](https://doi.org/10.1787/af900de2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
