@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 December 2023 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 13 December 2023 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Doombot: a machine learning algorithm for predicting downturns in OECD countries](https://doi.org/10.1787/4ed7acc3-en)
 
@@ -266,15 +266,15 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -291,7 +291,7 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -314,7 +314,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -337,7 +337,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -360,7 +360,7 @@ Wednesday 13 December 2023 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -381,9 +381,9 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -406,7 +406,7 @@ Wednesday 13 December 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -429,7 +429,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -452,7 +452,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 December 2023 at 22:33
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
@@ -473,15 +473,15 @@ Thursday 14 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -529,6 +529,29 @@ Thursday 14 December 2023 at 23:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [G7 Gender Equality Implementation Report 2023 - Promoting Gender Equality Through G7 Policy](https://doi.org/10.1787/b7117089-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -988,29 +1011,6 @@ Friday 15 December 2023 at 8:00 | no launch event
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [België: Landenprofiel Gezondheid 2023](https://doi.org/10.1787/e26c31a9-nl)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 December 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Dutch*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1692,7 +1692,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
 
