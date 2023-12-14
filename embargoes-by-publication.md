@@ -2,260 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 December 2023 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Doombot: a machine learning algorithm for predicting downturns in OECD countries](https://doi.org/10.1787/4ed7acc3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on Androgen receptor agonism leading to male-biased sex ratio](https://doi.org/10.1787/6f60dce3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Improving the business environment to accelerate convergence in Croatia](https://doi.org/10.1787/3c89c005-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [A better performing labour market for inclusive convergence in Croatia](https://doi.org/10.1787/cafd17cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis](https://doi.org/10.1787/10372cb8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Adverse Outcome Pathway on Aromatase inhibition leading to male-biased sex ratio via impacts on gonad differentiation](https://doi.org/10.1787/6a069853-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Labour market and education reforms are needed to create more and better jobs in Türkiye](https://doi.org/10.1787/54657452-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The law of the strongest? Exploring the drivers of firm performance during the COVID-19 crisis](https://doi.org/10.1787/98397076-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 December 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Review of energy subsidies in the context of energy sector reforms in Ukraine](https://doi.org/10.1787/0fdb33b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Economic insecurity in Europe and potential policy responses](https://doi.org/10.1787/4323bb60-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 December 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [On Shaky Ground? Income Instability and Economic Insecurity in Europe](https://doi.org/10.1787/9bffeba6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 November 2023 at 22:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 14 December 2023 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [SME Policy Index: Eastern Partner Countries 2024 - Building Resilience in Challenging Times](https://doi.org/10.1787/3197420e-en)
 
@@ -289,7 +36,7 @@ Wednesday 13 December 2023 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
 
@@ -429,7 +176,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 December 2023 at 22:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -452,7 +199,7 @@ Thursday 14 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -473,9 +220,9 @@ Thursday 14 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -483,29 +230,6 @@ Thursday 14 December 2023 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 December 2023 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 11 December 2023 at 23:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 December 2023 at 22:32
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -518,16 +242,16 @@ Thursday 14 December 2023 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -542,14 +266,37 @@ Friday 15 December 2023 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport 2023 du G7 sur la mise en œuvre de l’égalité des genre - Promouvoir l’égalité des genres dans le cadre de l’action du G7](https://doi.org/10.1787/b2b7015e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 0:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -567,7 +314,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -613,7 +360,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -728,7 +475,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -774,7 +521,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -817,16 +564,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -843,7 +590,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -886,16 +633,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -912,7 +659,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -935,7 +682,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -970,29 +717,6 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
-## [Österreich: Länderprofil Gesundheit 2023](https://doi.org/10.1787/89c72ba6-de)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 December 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Hungary: Country Health Profile 2023](https://doi.org/10.1787/8d398062-en)
 
 Embargo date | Launch date
@@ -1004,7 +728,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1027,7 +751,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1050,7 +774,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1094,9 +818,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1142,7 +866,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1165,7 +889,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1254,16 +978,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Greek*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1303,7 +1027,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1326,7 +1050,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1372,7 +1096,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1395,7 +1119,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1415,16 +1139,16 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1441,7 +1165,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1464,7 +1188,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1510,7 +1234,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1531,9 +1255,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1556,7 +1280,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1579,7 +1303,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1602,7 +1326,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1625,7 +1349,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1669,9 +1393,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1692,9 +1416,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1715,9 +1439,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1763,7 +1487,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 December 2023 at 22:35
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1775,11 +1499,34 @@ Friday 15 December 2023 at 8:00 | no launch event
 
 ------
 
+## [Latin American Economic Outlook 2023 - Investing in Sustainable Development](https://doi.org/10.1787/8c93ff6e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 December 2023 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [OECD Economic Surveys: Brazil 2023](https://doi.org/10.1787/a2d6acac-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 18 December 2023 at 17:00 | no launch event
+Monday 18 December 2023 at 17:30 | no launch event
 
 ### Status Information
 
