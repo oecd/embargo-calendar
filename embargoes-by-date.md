@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 December 2023 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 December 2023 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 December 2023](#13-december-2023)
 * [14 December 2023](#14-december-2023)
 * [15 December 2023](#15-december-2023)
 * [18 December 2023](#18-december-2023)
@@ -15,171 +14,6 @@ Data generated on | |
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
-
-------
-
-# 13 December 2023
-
-## [SME Policy Index: Eastern Partner Countries 2024 - Building Resilience in Challenging Times](https://doi.org/10.1787/3197420e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Gender diversity in senior management and firm productivity - Evidence from nine OECD countries](https://doi.org/10.1787/58ad664a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Pensions at a Glance 2023 - OECD and G20 Indicators](https://doi.org/10.1787/678055dd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Panorama des pensions 2023 (version abrégée) - Les indicateurs de l'OCDE et du G20](https://doi.org/10.1787/91c89a7c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Harmful Tax Practices – 2022 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/22bbeacc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 December 2023 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Digital Education Outlook 2023 - Towards an Effective Digital Education Ecosystem](https://doi.org/10.1787/c74f03de-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 December 2023 at 23:03
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Country Digital Education Ecosystems and Governance - A Companion to Digital Education Outlook 2023](https://doi.org/10.1787/906134d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 December 2023 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 December 2023 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -265,7 +99,7 @@ Thursday 14 December 2023 at 23:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -290,9 +124,9 @@ Friday 15 December 2023 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
+- [x] Exported to iLibrary Friday 15 December 2023 at 10:14
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -304,7 +138,7 @@ Friday 15 December 2023 at 0:00 | no launch event
 
 ------
 
-## [Rapport 2023 du G7 sur la mise en œuvre de l’égalité des genre - Promouvoir l’égalité des genres dans le cadre de l’action du G7](https://doi.org/10.1787/b2b7015e-fr)
+## [Rapport 2023 du G7 sur la mise en œuvre de l’égalité des genres - Promouvoir l’égalité des genres dans le cadre de l’action du G7](https://doi.org/10.1787/b2b7015e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -313,9 +147,9 @@ Friday 15 December 2023 at 0:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
+- [x] Exported to iLibrary Friday 15 December 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -338,7 +172,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -384,7 +218,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -499,7 +333,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -545,7 +379,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -591,7 +425,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -614,7 +448,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -660,7 +494,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -681,9 +515,9 @@ Friday 15 December 2023 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
+- [x] Exported to iLibrary Friday 15 December 2023 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -706,36 +540,13 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Belgique : Profils de santé par pays 2023](https://doi.org/10.1787/ad46594b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 December 2023 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -752,7 +563,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -775,7 +586,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -798,7 +609,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -844,7 +655,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -890,7 +701,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -913,7 +724,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1005,7 +816,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1051,7 +862,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1074,7 +885,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1120,7 +931,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1143,7 +954,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1166,7 +977,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1189,7 +1000,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1212,7 +1023,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1258,7 +1069,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1281,7 +1092,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1304,7 +1115,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1327,7 +1138,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1350,7 +1161,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1373,7 +1184,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1419,7 +1230,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1442,7 +1253,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1465,7 +1276,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1511,7 +1322,7 @@ Friday 15 December 2023 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 December 2023 at 23:06
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1534,7 +1345,7 @@ Friday 15 December 2023 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 December 2023 at 22:59
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 December 2023 at 22:29
+- [x] Exported to OECD.org Friday 15 December 2023 at 22:29
 
 ### Additional Information
 
@@ -1558,7 +1369,7 @@ Monday 18 December 2023 at 17:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
