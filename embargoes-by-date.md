@@ -2,13 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 December 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 18 December 2023 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 December 2023](#18-december-2023)
+* [21 December 2023](#21-december-2023)
+* [22 December 2023](#22-december-2023)
 * [9 January 2024](#9-january-2024)
-* [10 January 2024](#10-january-2024)
 * [11 January 2024](#11-january-2024)
 * [17 January 2024](#17-january-2024)
+* [22 January 2024](#22-january-2024)
+* [29 January 2024](#29-january-2024)
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
@@ -26,17 +29,140 @@ Monday 18 December 2023 at 17:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 December 2023
+
+## [Do governments re-prioritise spending? - First insights from COFOG data on public spending reallocation in OECD countries](https://doi.org/10.1787/56dda017-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Addressing labour market challenges for sustainable and inclusive growth in Israel](https://doi.org/10.1787/dcdb1283-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Employment dynamics across firms during COVID-19 - The role of job retention schemes](https://doi.org/10.1787/33388537-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Identifying and tracking climate change mitigation strategies - A cluster-based assessment](https://doi.org/10.1787/a23b43c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
+# 22 December 2023
+
+## [Quantifying the effect of policies to promote educational performance on macroeconomic productivity](https://doi.org/10.1787/b00051cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -69,13 +195,13 @@ Tuesday 9 January 2024 at 11:00 | no launch event
 
 ------
 
-# 10 January 2024
+# 11 January 2024
 
 ## [OECD Economic Surveys: Japan 2024](https://doi.org/10.1787/41e807f9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 10 January 2024 at 1:00 | no launch event
+Thursday 11 January 2024 at 1:00 | no launch event
 
 ### Status Information
 
@@ -93,10 +219,6 @@ Wednesday 10 January 2024 at 1:00 | no launch event
 * Formats: *Paperback, PDF*
 
 ------
-
-------
-
-# 11 January 2024
 
 ## [Developing Effective Online Dispute Resolution in Latvia](https://doi.org/10.1787/75ef5c4c-en)
 
@@ -145,6 +267,60 @@ Wednesday 17 January 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 22 January 2024
+
+## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 29 January 2024
+
+## [Un équilibre précaire ? Instabilité des revenus et insécurité économique en Europe](https://doi.org/10.1787/5dd5d39e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 January 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
