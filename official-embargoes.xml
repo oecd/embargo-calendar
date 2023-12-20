@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2023-12-19T23:32:51.0292419+01:00">
+<report name="official-embargoes" generated="2023-12-20T23:16:54.0752086+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,46 +22,6 @@
   </row>
   <row index="1">
     <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a2d6acac-en</cell>
-    <cell name="title">OECD Economic Surveys: Brazil 2023 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2023-12-18</cell>
-    <cell name="embargo date">2023-12-18T17:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-12-18T21:52:20Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-12-18T21:28:19Z</cell>
-    <cell name="discoveryservice last export date">2023-12-18T22:39:39Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cb527fd</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a2d6acac-en</cell>
-    <cell name="title">OECD Economic Surveys: Brazil 2023 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2023-12-18</cell>
-    <cell name="embargo date">2023-12-18T17:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8bd5a73</cell>
-  </row>
-  <row index="3">
-    <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/56dda017-en</cell>
     <cell name="title">Do governments re-prioritise spending? (en)</cell>
     <cell name="subtitle">First insights from COFOG data on public spending reallocation in OECD countries (en)</cell>
@@ -73,34 +33,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-12-18T21:52:20Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-12-18T21:28:19Z</cell>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c68cde83</cell>
   </row>
-  <row index="4">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/dcdb1283-en</cell>
-    <cell name="title">Addressing labour market challenges for sustainable and inclusive growth in Israel (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2023-12-21</cell>
-    <cell name="embargo date">2023-12-21T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2023-12-18T21:52:20Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-12-18T21:28:19Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a545bbd9</cell>
-  </row>
-  <row index="5">
+  <row index="2">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/33388537-en</cell>
     <cell name="title">Employment dynamics across firms during COVID-19 (en)</cell>
@@ -113,14 +53,14 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-12-18T21:52:20Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-12-18T21:28:19Z</cell>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88782e86</cell>
   </row>
-  <row index="6">
+  <row index="3">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a23b43c5-en</cell>
     <cell name="title">Identifying and tracking climate change mitigation strategies (en)</cell>
@@ -133,12 +73,72 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2023-12-18T21:52:20Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2023-12-18T21:28:19Z</cell>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62287e82</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/a37f51c3-en</cell>
+    <cell name="title">2023 OECD Open, Useful and Re-usable data (OURdata) Index (en)</cell>
+    <cell name="subtitle">Results and Key Findings (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-12-22</cell>
+    <cell name="embargo date">2023-12-22T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-12-20T21:54:33Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/170f9cfb</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/2bbe45d2-en</cell>
+    <cell name="title">China's development co-operation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-12-22</cell>
+    <cell name="embargo date">2023-12-22T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-12-20T21:54:33Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7285bed</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/fd302760-en</cell>
+    <cell name="title">Co-ordination across the Humanitarian-Development-Peace Nexus (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2023-12-22</cell>
+    <cell name="embargo date">2023-12-22T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2023-12-20T21:54:33Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2023-12-20T21:29:07Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af9d3518</cell>
   </row>
   <row index="7">
     <cell name="directorate">Economics Department</cell>

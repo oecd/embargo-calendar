@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 December 2023 at 23:32* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 20 December 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 December 2023](#18-december-2023)
 * [21 December 2023](#21-december-2023)
 * [22 December 2023](#22-december-2023)
 * [9 January 2024](#9-january-2024)
@@ -15,33 +14,6 @@ Data generated on | |
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
-
-------
-
-# 18 December 2023
-
-## [OECD Economic Surveys: Brazil 2023](https://doi.org/10.1787/a2d6acac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 December 2023 at 17:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -58,30 +30,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Addressing labour market challenges for sustainable and inclusive growth in Israel](https://doi.org/10.1787/dcdb1283-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 December 2023 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 December 2023 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
 
 ### Additional Information
 
@@ -104,7 +53,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
 
 ### Additional Information
 
@@ -127,7 +76,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
 
 ### Additional Information
 
@@ -142,6 +91,75 @@ Thursday 21 December 2023 at 6:00 | no launch event
 ------
 
 # 22 December 2023
+
+## [2023 OECD Open, Useful and Re-usable data (OURdata) Index - Results and Key Findings](https://doi.org/10.1787/a37f51c3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [China's development co-operation](https://doi.org/10.1787/2bbe45d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Co-ordination across the Humanitarian-Development-Peace Nexus](https://doi.org/10.1787/fd302760-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 December 2023 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Quantifying the effect of policies to promote educational performance on macroeconomic productivity](https://doi.org/10.1787/b00051cc-en)
 
