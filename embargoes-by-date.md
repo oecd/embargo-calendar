@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 December 2023 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 December 2023 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 December 2023](#21-december-2023)
 * [22 December 2023](#22-december-2023)
@@ -30,7 +30,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -53,7 +53,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -76,7 +76,7 @@ Thursday 21 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -103,7 +103,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -126,7 +126,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -149,7 +149,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 December 2023 at 22:29
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -172,7 +172,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 December 2023 at 22:28
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
@@ -247,15 +247,15 @@ Thursday 11 January 2024 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 21 December 2023 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -373,7 +373,7 @@ Thursday 1 February 2024 at 7:00 | no launch event
 
 # 8 February 2024
 
-## [Impact Evaluations of Training and Wage Subsidies for the Unemployed in Greece](https://doi.org/10.1787/4b908517-en)
+## [Impact Evaluation of Training and Wage Subsidies for the Unemployed in Greece](https://doi.org/10.1787/4b908517-en)
 
 Embargo date | Launch date
 -------------|:------------:
