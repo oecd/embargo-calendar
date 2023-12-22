@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 December 2023 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 22 December 2023 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Do governments re-prioritise spending? - First insights from COFOG data on public spending reallocation in OECD countries](https://doi.org/10.1787/56dda017-en)
 
@@ -84,7 +84,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
+- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
+- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 20 December 2023 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
+- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Friday 22 December 2023 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 18 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
+- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
 
 ### Additional Information
 
@@ -219,18 +219,18 @@ Thursday 11 January 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 21 December 2023 at 22:50
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 December 2023 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 21 December 2023 at 22:28
+- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -303,6 +303,29 @@ Monday 29 January 2024 at 10:00 | no launch event
 
 ------
 
+## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 January 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
 
 Embargo date | Launch date
@@ -368,6 +391,29 @@ Friday 23 February 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Start-up Asia - Chasing the Innovation Frontier](https://doi.org/10.1787/a9b71040-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 June 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
