@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 December 2023 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 31 December 2023 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
