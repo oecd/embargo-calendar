@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 January 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 4 January 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+
+## [The Global Minimum Tax and the taxation of MNE profit](https://doi.org/10.1787/9a815d6b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 January 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 January 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 January 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
@@ -12,7 +35,7 @@ Tuesday 9 January 2024 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
