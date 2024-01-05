@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 January 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 January 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 January 2024](#9-january-2024)
 * [11 January 2024](#11-january-2024)
@@ -77,7 +77,7 @@ Thursday 11 January 2024 at 1:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,6 +92,29 @@ Thursday 11 January 2024 at 1:00 | no launch event
 
 ------
 
+## [Efektīvas strīdu izšķiršanas tiešsaistē attīstība Latvijā](https://doi.org/10.1787/03bf2cc4-lv)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 January 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 January 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 January 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Latvian*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Developing Effective Online Dispute Resolution in Latvia](https://doi.org/10.1787/75ef5c4c-en)
 
 Embargo date | Launch date
@@ -101,9 +124,9 @@ Thursday 11 January 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 December 2023 at 22:52
+- [x] Exported to iLibrary Friday 5 January 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 December 2023 at 22:27
+- [x] Exported to OECD.org Friday 5 January 2024 at 22:28
 
 ### Additional Information
 
@@ -146,6 +169,29 @@ Wednesday 17 January 2024 at 10:00 | no launch event
 
 # 22 January 2024
 
+## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
 
 Embargo date | Launch date
@@ -165,7 +211,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -173,7 +219,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 
 # 29 January 2024
 
-## [Un équilibre précaire ? Instabilité des revenus et insécurité économique en Europe](https://doi.org/10.1787/5dd5d39e-fr)
+## [Un équilibre précaire ? Instabilité des revenus et insécurité économique en Europe (version abrégée)](https://doi.org/10.1787/5dd5d39e-fr)
 
 Embargo date | Launch date
 -------------|:------------:
