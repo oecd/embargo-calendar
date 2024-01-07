@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 January 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 7 January 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Global Minimum Tax and the taxation of MNE profit](https://doi.org/10.1787/9a815d6b-en)
 
