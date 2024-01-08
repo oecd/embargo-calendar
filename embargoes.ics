@@ -2,48 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9a815d6b-end3e63
-SUMMARY:[Paper] The Global Minimum Tax and the t
- axation of MNE profit
-DESCRIPTION:*[Paper] The Global Minimum Tax and the 
- taxation of MNE profit*\n\nDirectorate: 
- Centre for Tax Policy and Administration
- \nLanguage: English\nDOI: https://doi.or
- g/10.1787/9a815d6b-en\nPublication type:
-  Paper\nReleased as: PDF\n\nEmbargo date
- /time: Tuesday, 9 January 2024, 10:00 (G
- MT)\n\n\niLibrary export: Thursday, 4 Ja
- nuary 2024, 21:48 (GMT)\nFreepreview exp
- ort: never\nOECD.org export: Thursday, 4
-  January 2024, 21:25 (GMT)\nFTI loaded: 
- ✓\n\nFor more information see: https://o
- ecd.github.io/embargo-calendar/embargoes
- -by-publication.html.\n\nPlease note: Th
- is information was correct as of this af
- ternoon at 23:17, it is updated each nig
- ht; therefore any subsequent updates may
-  not yet be visible here. Also, please b
- e aware that the different released medi
- a (PDF, HTML, etc.) are not necessarily 
- released at the same time. For complete 
- and up-to-date information see here: htt
- p://kappa.oecd.org/v3/search?term=9a815d
- 6b-en.
-DTSTAMP:20240107T231712Z
-DTSTART:20240109T100000Z
-DTEND:20240109T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Paper] The Global Minimum Tax
-  and the taxation of MNE profit
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/d5c6f307-end3e118
+UID:10.1787/d5c6f307-end3e63
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Denmark 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -59,7 +18,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:17, it is updated
+ f this afternoon at 23:09, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -68,7 +27,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=d5c6f307-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240109T123000Z
 DTEND:20240109T124500Z
 TRANSP:TRANSPARENT
@@ -79,6 +38,47 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Economic survey] OECD Economi
  c Surveys: Denmark 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9a815d6b-end3e168
+SUMMARY:[Paper] The Global Minimum Tax and the t
+ axation of MNE profit
+DESCRIPTION:*[Paper] The Global Minimum Tax and the 
+ taxation of MNE profit*\n\nDirectorate: 
+ Centre for Tax Policy and Administration
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/9a815d6b-en\nPublication type:
+  Paper\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 9 January 2024, 14:00 (G
+ MT)\n\n\niLibrary export: Monday, 8 Janu
+ ary 2024, 21:48 (GMT)\nFreepreview expor
+ t: never\nOECD.org export: Monday, 8 Jan
+ uary 2024, 21:25 (GMT)\nFTI loaded: ✓\n\
+ nFor more information see: https://oecd.
+ github.io/embargo-calendar/embargoes-by-
+ publication.html.\n\nPlease note: This i
+ nformation was correct as of this aftern
+ oon at 23:09, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=9a815d6b-e
+ n.
+DTSTAMP:20240108T230949Z
+DTSTART:20240109T140000Z
+DTEND:20240109T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Paper] The Global Minimum Tax
+  and the taxation of MNE profit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +98,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:17, it is updated 
+  this afternoon at 23:09, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -107,7 +107,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=41e807f9-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240111T010000Z
 DTEND:20240111T011500Z
 TRANSP:TRANSPARENT
@@ -121,7 +121,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/03bf2cc4-lvd3e708
+UID:10.1787/03bf2cc4-lvd3e980
 SUMMARY:[Stand-alone monograph] Efektīvas strīdu
   izšķiršanas tiešsaistē attīstība Latvij
  ā
@@ -131,25 +131,26 @@ DESCRIPTION:*[Stand-alone monograph] Efektīvas strīd
  ic Governance\nLanguage: Latvian\nDOI: h
  ttps://doi.org/10.1787/03bf2cc4-lv\nPubl
  ication type: Stand-alone monograph\nRel
- eased as: PDF\n\nEmbargo date/time: Thur
- sday, 11 January 2024, 7:00 (GMT)\n\n\ni
- Library export: Friday, 5 January 2024, 
- 21:49 (GMT)\nFreepreview export: never\n
- OECD.org export: Friday, 5 January 2024,
-  21:28 (GMT)\nFTI loaded: ✗\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 17, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=03bf2cc4-lv.
-DTSTAMP:20240107T231712Z
+ eased as: ePub, HTML, Paperback, PDF, ZX
+ ML\n\nEmbargo date/time: Thursday, 11 Ja
+ nuary 2024, 7:00 (GMT)\n\n\niLibrary exp
+ ort: Monday, 8 January 2024, 21:48 (GMT)
+ \nFreepreview export: never\nOECD.org ex
+ port: Monday, 8 January 2024, 21:25 (GMT
+ )\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 23:09, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=03bf2cc4-lv.
+DTSTAMP:20240108T230949Z
 DTSTART:20240111T070000Z
 DTEND:20240111T071500Z
 TRANSP:TRANSPARENT
@@ -164,7 +165,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Efektī
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/75ef5c4c-end3e1033
+UID:10.1787/75ef5c4c-end3e1522
 SUMMARY:[Stand-alone monograph] Developing Effec
  tive Online Dispute Resolution in Latvia
 DESCRIPTION:*[Stand-alone monograph] Developing Effe
@@ -176,14 +177,14 @@ DESCRIPTION:*[Stand-alone monograph] Developing Effe
  ased as: ePub, HTML, Paperback, PDF, ZXM
  L\n\nEmbargo date/time: Thursday, 11 Jan
  uary 2024, 7:00 (GMT)\n\n\niLibrary expo
- rt: Friday, 5 January 2024, 21:49 (GMT)\
+ rt: Monday, 8 January 2024, 21:48 (GMT)\
  nFreepreview export: never\nOECD.org exp
- ort: Friday, 5 January 2024, 21:28 (GMT)
+ ort: Monday, 8 January 2024, 21:25 (GMT)
  \nFTI loaded: ✓\n\nFor more information 
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:17, it is up
+  as of this afternoon at 23:09, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -192,7 +193,7 @@ DESCRIPTION:*[Stand-alone monograph] Developing Effe
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=75ef5c4c-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240111T070000Z
 DTEND:20240111T071500Z
 TRANSP:TRANSPARENT
@@ -207,7 +208,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Develo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b849f926-end3e1413
+UID:10.1787/b849f926-end3e2389
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Commentar
  y to the Global Anti-Base Erosion Model 
@@ -229,7 +230,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:17, i
+ correct as of this afternoon at 23:09, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -238,7 +239,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=b849f926-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240117T100000Z
 DTEND:20240117T101500Z
 TRANSP:TRANSPARENT
@@ -255,7 +256,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/82adc1ba-esd3e1466
+UID:10.1787/82adc1ba-esd3e2442
 SUMMARY:[Stand-alone monograph] Exámenes Inter-P
  ares sobre el Derecho y Política de Comp
  etencia: República Dominicana
@@ -275,7 +276,7 @@ DESCRIPTION:*[Stand-alone monograph] Exámenes Inter-
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:17, it is updated each night;
+ noon at 23:09, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -284,7 +285,7 @@ DESCRIPTION:*[Stand-alone monograph] Exámenes Inter-
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=82adc1ba-
  es.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240122T140000Z
 DTEND:20240122T141500Z
 TRANSP:TRANSPARENT
@@ -299,7 +300,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Exámen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/18f04007-end3e1998
+UID:10.1787/18f04007-end3e2974
 SUMMARY:[Stand-alone monograph] Peer Reviews of 
  Competition Law and Policy: Dominican Re
  public
@@ -318,7 +319,7 @@ DESCRIPTION:*[Stand-alone monograph] Peer Reviews of
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:17, it is up
+  as of this afternoon at 23:09, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -327,7 +328,7 @@ DESCRIPTION:*[Stand-alone monograph] Peer Reviews of
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=18f04007-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240122T140000Z
 DTEND:20240122T141500Z
 TRANSP:TRANSPARENT
@@ -342,7 +343,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Peer R
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5dd5d39e-frd3e3487
+UID:10.1787/5dd5d39e-frd3e4463
 SUMMARY:[Stand-alone monograph] Un équilibre pré
  caire ? Instabilité des revenus et inséc
  urité économique en Europe (version abré
@@ -363,7 +364,7 @@ DESCRIPTION:*[Stand-alone monograph] Un équilibre pr
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:17, it is u
+ t as of this afternoon at 23:09, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -372,7 +373,7 @@ DESCRIPTION:*[Stand-alone monograph] Un équilibre pr
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=5dd5d39e-fr.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240129T100000Z
 DTEND:20240129T101500Z
 TRANSP:TRANSPARENT
@@ -388,7 +389,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Un équ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/21ea168b-end3e3591
+UID:10.1787/21ea168b-end3e4567
 SUMMARY:[Book] Pillar One - Amount B - Inclusive
   Framework on BEPS
 DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
@@ -404,7 +405,7 @@ DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:17, it is upd
+ as of this afternoon at 23:09, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -413,7 +414,7 @@ DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=21ea168b-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240130T100000Z
 DTEND:20240130T101500Z
 TRANSP:TRANSPARENT
@@ -427,7 +428,7 @@ DESCRIPTION:Reminder: [Book] Pillar One - Amount B -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb556518-end3e3644
+UID:10.1787/bb556518-end3e4620
 SUMMARY:[Stand-alone monograph] OECD Justice Rev
  iew of Peru - Towards Effective and Tran
  sparent Justice Institutions for Inclusi
@@ -447,8 +448,8 @@ DESCRIPTION:*[Stand-alone monograph] OECD Justice Re
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:1
- 7, it is updated each night; therefore a
+ was correct as of this afternoon at 23:0
+ 9, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -456,7 +457,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Justice Re
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=bb556518-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240201T070000Z
 DTEND:20240201T071500Z
 TRANSP:TRANSPARENT
@@ -472,7 +473,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD J
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4b908517-end3e3750
+UID:10.1787/4b908517-end3e4726
 SUMMARY:[Book] Impact Evaluation of Training and
   Wage Subsidies for the Unemployed in Gr
  eece
@@ -490,7 +491,7 @@ DESCRIPTION:*[Book] Impact Evaluation of Training an
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:17,
+ s correct as of this afternoon at 23:09,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -499,7 +500,7 @@ DESCRIPTION:*[Book] Impact Evaluation of Training an
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=4b908517-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240208T080000Z
 DTEND:20240208T081500Z
 TRANSP:TRANSPARENT
@@ -514,7 +515,7 @@ DESCRIPTION:Reminder: [Book] Impact Evaluation of Tr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af900de2-end3e3855
+UID:10.1787/af900de2-end3e4831
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Egypt 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -531,7 +532,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:17, it is updated each night; theref
+  23:09, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -539,7 +540,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=af900de2-en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240223T100000Z
 DTEND:20240223T101500Z
 TRANSP:TRANSPARENT
@@ -554,7 +555,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e3961
+UID:10.1787/a9b71040-end3e4937
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -570,7 +571,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:17, it is updated each night;
+ noon at 23:09, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -579,7 +580,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240107T231712Z
+DTSTAMP:20240108T230949Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT

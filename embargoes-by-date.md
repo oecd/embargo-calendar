@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 January 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 8 January 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 January 2024](#9-january-2024)
 * [11 January 2024](#11-january-2024)
@@ -18,29 +18,6 @@ Data generated on | |
 ------
 
 # 9 January 2024
-
-## [The Global Minimum Tax and the taxation of MNE profit](https://doi.org/10.1787/9a815d6b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 January 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 January 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 January 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
@@ -62,6 +39,29 @@ Tuesday 9 January 2024 at 12:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The Global Minimum Tax and the taxation of MNE profit](https://doi.org/10.1787/9a815d6b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -100,18 +100,18 @@ Thursday 11 January 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 January 2024 at 22:49
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 January 2024 at 22:28
+- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Latvian*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -124,9 +124,9 @@ Thursday 11 January 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 January 2024 at 22:49
+- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 January 2024 at 22:28
+- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
 
 ### Additional Information
 
