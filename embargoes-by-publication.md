@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 January 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 January 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
@@ -13,15 +13,15 @@ Tuesday 9 January 2024 at 12:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 9 January 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 9 January 2024 at 22:31
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -38,7 +38,7 @@ Tuesday 9 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
+- [x] Exported to OECD.org Tuesday 9 January 2024 at 22:31
 
 ### Additional Information
 
@@ -262,6 +262,29 @@ Thursday 1 February 2024 at 7:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Thursday 8 February 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Securing Medical Supply Chains in a Post-Pandemic World](https://doi.org/10.1787/119c59d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 February 2024 at 8:30 | no launch event
 
 ### Status Information
 
