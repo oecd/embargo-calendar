@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 January 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 10 January 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
 
@@ -59,15 +59,15 @@ Thursday 11 January 2024 at 1:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -84,7 +84,7 @@ Thursday 11 January 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Thursday 11 January 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 8 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 January 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
 
 ### Additional Information
 
@@ -119,11 +119,11 @@ Thursday 11 January 2024 at 7:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 17 January 2024 at 10:00 | no launch event
+Friday 19 January 2024 at 9:30 | no launch event
 
 ### Status Information
 
@@ -134,10 +134,33 @@ Wednesday 17 January 2024 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Italy 2024](https://doi.org/10.1787/78add673-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 January 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
