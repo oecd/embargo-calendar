@@ -2,68 +2,17 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 January 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 January 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 January 2024](#9-january-2024)
 * [11 January 2024](#11-january-2024)
+* [15 January 2024](#15-january-2024)
 * [19 January 2024](#19-january-2024)
-* [22 January 2024](#22-january-2024)
 * [29 January 2024](#29-january-2024)
 * [30 January 2024](#30-january-2024)
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 9 January 2024
-
-## [OECD Economic Surveys: Denmark 2024](https://doi.org/10.1787/d5c6f307-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 January 2024 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 January 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 January 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The Global Minimum Tax and the taxation of MNE profit](https://doi.org/10.1787/9a815d6b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 January 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -80,7 +29,7 @@ Thursday 11 January 2024 at 1:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 January 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
+- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
 
 ### Additional Information
 
@@ -101,9 +50,9 @@ Thursday 11 January 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
+- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
+- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
 
 ### Additional Information
 
@@ -124,13 +73,63 @@ Thursday 11 January 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 January 2024 at 22:48
+- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 January 2024 at 22:27
+- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 15 January 2024
+
+## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
@@ -173,7 +172,7 @@ Friday 19 January 2024 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -185,56 +184,6 @@ Friday 19 January 2024 at 9:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
-
-------
-
-------
-
-# 22 January 2024
-
-## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
