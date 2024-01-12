@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 January 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 12 January 2024 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 January 2024](#11-january-2024)
 * [15 January 2024](#15-january-2024)
@@ -52,7 +52,7 @@ Thursday 11 January 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
+- [x] Exported to OECD.org Friday 12 January 2024 at 22:27
 
 ### Additional Information
 
