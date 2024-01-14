@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 January 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Japan 2024](https://doi.org/10.1787/41e807f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 January 2024 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 January 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Efektīvas strīdu izšķiršanas tiešsaistē attīstība Latvijā](https://doi.org/10.1787/03bf2cc4-lv)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 January 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 January 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Latvian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Developing Effective Online Dispute Resolution in Latvia](https://doi.org/10.1787/75ef5c4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 January 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 14 January 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
 
@@ -84,7 +15,7 @@ Monday 15 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
+- [x] Exported to OECD.org Sunday 14 January 2024 at 22:26
 
 ### Additional Information
 
@@ -107,7 +38,7 @@ Monday 15 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 January 2024 at 22:26
+- [x] Exported to OECD.org Sunday 14 January 2024 at 22:26
 
 ### Additional Information
 
