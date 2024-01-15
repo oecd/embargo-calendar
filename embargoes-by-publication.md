@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 14 January 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 January 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 January 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Monday 15 January 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
@@ -58,7 +12,7 @@ Friday 19 January 2024 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -93,6 +47,52 @@ Friday 19 January 2024 at 9:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 January 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 January 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 January 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 January 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 January 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
