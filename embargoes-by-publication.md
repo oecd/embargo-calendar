@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 January 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 January 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 19 January 2024 at 9:30 | no launch event
+Monday 22 January 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -23,7 +23,7 @@ Friday 19 January 2024 at 9:30 | no launch event
 * Language: *Italian*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -31,7 +31,7 @@ Friday 19 January 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 19 January 2024 at 9:30 | no launch event
+Monday 22 January 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -46,7 +46,7 @@ Friday 19 January 2024 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
