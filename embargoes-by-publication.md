@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 January 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 17 January 2024 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
