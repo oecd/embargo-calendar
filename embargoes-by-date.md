@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 January 2024 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 January 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 January 2024](#22-january-2024)
 * [29 January 2024](#29-january-2024)
@@ -120,18 +120,18 @@ Monday 29 January 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 January 2024 at 22:59
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 18 January 2024 at 22:33
 
 ### Additional Information
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
