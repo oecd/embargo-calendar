@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-01-18T23:23:44.9310038+01:00">
+<report name="official-embargoes" generated="2024-01-19T23:17:25.7572192+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -193,7 +193,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-01-15T21:51:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-01-15T21:26:58Z</cell>
+    <cell name="oecd.org last export date">2024-01-19T21:29:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -533,7 +533,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-01-15T21:51:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-01-15T21:26:58Z</cell>
+    <cell name="oecd.org last export date">2024-01-19T21:29:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -941,26 +941,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9b71790</cell>
   </row>
   <row index="47">
-    <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
-    <cell name="doi">10.1787/5dd5d39e-fr</cell>
-    <cell name="title">Un équilibre précaire ? Instabilité des revenus et insécurité économique en Europe (version abrégée) (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-01-19</cell>
-    <cell name="embargo date">2024-01-29T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-01-18T21:59:19Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-01-18T21:33:05Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73e24d0a</cell>
-  </row>
-  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/21ea168b-en</cell>
     <cell name="title">Pillar One - Amount B (en)</cell>
@@ -979,6 +959,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/524aae3c</cell>
+  </row>
+  <row index="48">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/2a736abb-fr</cell>
+    <cell name="title">Pilier un - montant B (fr)</cell>
+    <cell name="subtitle">Cadre Inclusif sur le BEPS (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-01-30T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0ab522a</cell>
   </row>
   <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
@@ -1141,6 +1141,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24e659b</cell>
   </row>
   <row index="57">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8578b75c</cell>
+  </row>
+  <row index="58">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>

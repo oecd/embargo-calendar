@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 January 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 19 January 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 January 2024](#22-january-2024)
-* [29 January 2024](#29-january-2024)
 * [30 January 2024](#30-january-2024)
 * [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
+* [6 March 2024](#6-march-2024)
 * [19 June 2024](#19-june-2024)
 
 ------
@@ -73,7 +73,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 January 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 January 2024 at 22:26
+- [x] Exported to OECD.org Friday 19 January 2024 at 22:29
 
 ### Additional Information
 
@@ -110,33 +110,6 @@ Monday 22 January 2024 at 14:00 | no launch event
 
 ------
 
-# 29 January 2024
-
-## [Un équilibre précaire ? Instabilité des revenus et insécurité économique en Europe (version abrégée)](https://doi.org/10.1787/5dd5d39e-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 January 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 January 2024 at 22:59
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 January 2024 at 22:33
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 30 January 2024
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
@@ -156,6 +129,29 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Pilier un - montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 30 January 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -263,6 +259,33 @@ Friday 23 February 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 6 March 2024
+
+## [OECD Competition Trends 2024](https://doi.org/10.1787/e69018f9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 March 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
