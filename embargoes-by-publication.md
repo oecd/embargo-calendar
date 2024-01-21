@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 January 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 21 January 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
@@ -61,7 +61,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 January 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 January 2024 at 22:29
+- [x] Exported to OECD.org Sunday 21 January 2024 at 22:24
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 January 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 January 2024 at 22:26
+- [x] Exported to OECD.org Sunday 21 January 2024 at 22:24
 
 ### Additional Information
 
