@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 January 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 22 January 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
 
@@ -13,15 +13,15 @@ Monday 22 January 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 22 January 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -36,15 +36,15 @@ Monday 22 January 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 22 January 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -61,7 +61,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 January 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 January 2024 at 22:24
+- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 22 January 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 January 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 January 2024 at 22:24
+- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
 
 ### Additional Information
 
