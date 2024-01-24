@@ -2,111 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 January 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 24 January 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 January 2024](#22-january-2024)
 * [30 January 2024](#30-january-2024)
-* [1 February 2024](#1-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
 * [6 March 2024](#6-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 22 January 2024
-
-## [Studi economici dell'OCSE: Italia 2024](https://doi.org/10.1787/68453d0b-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 January 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Italy 2024](https://doi.org/10.1787/78add673-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 January 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-## [Exámenes Inter-Pares sobre el Derecho y Política de Competencia: República Dominicana](https://doi.org/10.1787/82adc1ba-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 January 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Peer Reviews of Competition Law and Policy: Dominican Republic](https://doi.org/10.1787/18f04007-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 January 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 January 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 January 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -155,33 +57,6 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-------
-
-# 1 February 2024
-
-## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 February 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
