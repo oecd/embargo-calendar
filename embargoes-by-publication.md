@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 January 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 25 January 2024 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
@@ -46,6 +46,29 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Public administration in Ukraine - Assessment against the Principles of Public Administration](https://doi.org/10.1787/078d08d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -101,6 +124,29 @@ Friday 23 February 2024 at 8:30 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Friday 23 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
