@@ -2,15 +2,44 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 January 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 26 January 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [29 January 2024](#29-january-2024)
 * [30 January 2024](#30-january-2024)
-* [6 February 2024](#6-february-2024)
 * [8 February 2024](#8-february-2024)
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
+* [28 February 2024](#28-february-2024)
 * [6 March 2024](#6-march-2024)
+* [13 March 2024](#13-march-2024)
 * [19 June 2024](#19-june-2024)
+
+------
+
+# 29 January 2024
+
+## [OECD Handbook on the Compilation of Household Distributional Results on Income, Consumption and Saving in Line with National Accounts Totals](https://doi.org/10.1787/5a3b9119-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 January 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 January 2024 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 January 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ------
 
@@ -39,7 +68,7 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 
 ------
 
-## [Pilier un - montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
+## [Pilier un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -58,33 +87,6 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 6 February 2024
-
-## [Public administration in Ukraine - Assessment against the Principles of Public Administration](https://doi.org/10.1787/078d08d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -195,6 +197,56 @@ Tuesday 27 February 2024 at 10:00 | no launch event
 
 ------
 
+# 28 February 2024
+
+## [The Role of Guidelines in Fostering Competition Policy in Tunisia](https://doi.org/10.1787/82f72c0e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 February 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Le rôle des lignes directrices dans la promotion de la politique de concurrence en Tunisie](https://doi.org/10.1787/dfb1156d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 February 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 6 March 2024
 
 ## [OECD Competition Trends 2024](https://doi.org/10.1787/e69018f9-en)
@@ -217,6 +269,33 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 13 March 2024
+
+## [Government at a Glance: Latin America and the Caribbean 2024](https://doi.org/10.1787/4abdba16-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 March 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 

@@ -2,7 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/21ea168b-end3e63
+UID:10.1787/5a3b9119-end3e1417
+SUMMARY:[Stand-alone monograph] OECD Handbook on
+  the Compilation of Household Distributi
+ onal Results on Income, Consumption and 
+ Saving in Line with National Accounts To
+ tals
+DESCRIPTION:*[Stand-alone monograph] OECD Handbook o
+ n the Compilation of Household Distribut
+ ional Results on Income, Consumption and
+  Saving in Line with National Accounts T
+ otals*\n\nDirectorate: Statistics and Da
+ ta Directorate\nLanguage: English\nDOI: 
+ https://doi.org/10.1787/5a3b9119-en\nPub
+ lication type: Stand-alone monograph\nRe
+ leased as: ePub, HTML, Paperback, PDF, Z
+ XML\n\nEmbargo date/time: Monday, 29 Jan
+ uary 2024, 8:00 (GMT)\n\n\niLibrary expo
+ rt: Friday, 26 January 2024, 21:55 (GMT)
+ \nFreepreview export: never\nOECD.org ex
+ port: Friday, 26 January 2024, 21:28 (GM
+ T)\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:18, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=5a3b9119-en.
+DTSTAMP:20240126T231850Z
+DTSTART:20240129T080000Z
+DTEND:20240129T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] OECD H
+ andbook on the Compilation of Household 
+ Distributional Results on Income, Consum
+ ption and Saving in Line with National A
+ ccounts Totals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/21ea168b-end3e2176
 SUMMARY:[Book] Pillar One - Amount B - Inclusive
   Framework on BEPS
 DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
@@ -27,7 +77,7 @@ DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=21ea168b-en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240130T100000Z
 DTEND:20240130T101500Z
 TRANSP:TRANSPARENT
@@ -41,10 +91,10 @@ DESCRIPTION:Reminder: [Book] Pillar One - Amount B -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a736abb-frd3e116
-SUMMARY:[Book] Pilier un - montant B - Cadre Inc
+UID:10.1787/2a736abb-frd3e2230
+SUMMARY:[Book] Pilier un - Montant B - Cadre Inc
  lusif sur le BEPS
-DESCRIPTION:*[Book] Pilier un - montant B - Cadre In
+DESCRIPTION:*[Book] Pilier un - Montant B - Cadre In
  clusif sur le BEPS*\n\nDirectorate: Cent
  re for Tax Policy and Administration\nLa
  nguage: French\nDOI: https://doi.org/10.
@@ -66,7 +116,7 @@ DESCRIPTION:*[Book] Pilier un - montant B - Cadre In
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=2a736abb-fr.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240130T100000Z
 DTEND:20240130T101500Z
 TRANSP:TRANSPARENT
@@ -75,56 +125,12 @@ TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Pilier un - montant B -
+DESCRIPTION:Reminder: [Book] Pilier un - Montant B -
   Cadre Inclusif sur le BEPS
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/078d08d4-end3e169
-SUMMARY:[Stand-alone monograph] Public administr
- ation in Ukraine - Assessment against th
- e Principles of Public Administration
-DESCRIPTION:*[Stand-alone monograph] Public administ
- ration in Ukraine - Assessment against t
- he Principles of Public Administration*\
- n\nDirectorate: Directorate for Public G
- overnance\nLanguage: English\nDOI: https
- ://doi.org/10.1787/078d08d4-en\nPublicat
- ion type: Stand-alone monograph\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  6 February 2024, 10:00 (GMT)\n\n\niLibr
- ary export: never\nFreepreview export: n
- ever\nOECD.org export: never\nFTI loaded
- : ✗\n\nFor more information see: https:/
- /oecd.github.io/embargo-calendar/embargo
- es-by-publication.html.\n\nPlease note: 
- This information was correct as of this 
- afternoon at 23:18, it is updated each n
- ight; therefore any subsequent updates m
- ay not yet be visible here. Also, please
-  be aware that the different released me
- dia (PDF, HTML, etc.) are not necessaril
- y released at the same time. For complet
- e and up-to-date information see here: h
- ttp://kappa.oecd.org/v3/search?term=078d
- 08d4-en.
-DTSTAMP:20240125T231810Z
-DTSTART:20240206T100000Z
-DTEND:20240206T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Public
-  administration in Ukraine - Assessment 
- against the Principles of Public Adminis
- tration
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4b908517-end3e222
+UID:10.1787/4b908517-end3e2283
 SUMMARY:[Book] Impact Evaluation of Training and
   Wage Subsidies for the Unemployed in Gr
  eece
@@ -151,7 +157,7 @@ DESCRIPTION:*[Book] Impact Evaluation of Training an
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=4b908517-en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240208T080000Z
 DTEND:20240208T081500Z
 TRANSP:TRANSPARENT
@@ -166,7 +172,7 @@ DESCRIPTION:Reminder: [Book] Impact Evaluation of Tr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/119c59d9-end3e379
+UID:10.1787/119c59d9-end3e2439
 SUMMARY:[Book] Securing Medical Supply Chains in
   a Post-Pandemic World
 DESCRIPTION:*[Book] Securing Medical Supply Chains i
@@ -192,7 +198,7 @@ DESCRIPTION:*[Book] Securing Medical Supply Chains i
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=119c59
  d9-en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240223T083000Z
 DTEND:20240223T084500Z
 TRANSP:TRANSPARENT
@@ -206,7 +212,7 @@ DESCRIPTION:Reminder: [Book] Securing Medical Supply
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af900de2-end3e431
+UID:10.1787/af900de2-end3e2491
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Egypt 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -231,7 +237,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=af900de2-en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240223T100000Z
 DTEND:20240223T101500Z
 TRANSP:TRANSPARENT
@@ -246,7 +252,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b8d974db-end3e537
+UID:10.1787/b8d974db-end3e2598
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Mexico 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -271,7 +277,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=b8d974db-en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240227T100000Z
 DTEND:20240227T101500Z
 TRANSP:TRANSPARENT
@@ -285,7 +291,90 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e69018f9-end3e640
+UID:10.1787/82f72c0e-end3e2700
+SUMMARY:[Book] The Role of Guidelines in Fosteri
+ ng Competition Policy in Tunisia
+DESCRIPTION:*[Book] The Role of Guidelines in Foster
+ ing Competition Policy in Tunisia*\n\nDi
+ rectorate: Directorate for Financial and
+  Enterprise Affairs\nLanguage: English\n
+ DOI: https://doi.org/10.1787/82f72c0e-en
+ \nPublication type: Book\nReleased as: P
+ DF\n\nEmbargo date/time: Wednesday, 28 F
+ ebruary 2024, 7:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nOECD.org export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 23:18, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=82f72c0e-
+ en.
+DTSTAMP:20240126T231850Z
+DTSTART:20240228T070000Z
+DTEND:20240228T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] The Role of Guidelines 
+ in Fostering Competition Policy in Tunis
+ ia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dfb1156d-frd3e2752
+SUMMARY:[Book] Le rôle des lignes directrices da
+ ns la promotion de la politique de concu
+ rrence en Tunisie
+DESCRIPTION:*[Book] Le rôle des lignes directrices d
+ ans la promotion de la politique de conc
+ urrence en Tunisie*\n\nDirectorate: Dire
+ ctorate for Financial and Enterprise Aff
+ airs\nLanguage: French\nDOI: https://doi
+ .org/10.1787/dfb1156d-fr\nPublication ty
+ pe: Book\nReleased as: PDF\n\nEmbargo da
+ te/time: Wednesday, 28 February 2024, 7:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✗\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:18, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=dfb1156d-fr.
+DTSTAMP:20240126T231850Z
+DTSTART:20240228T070000Z
+DTEND:20240228T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Le rôle des lignes dire
+ ctrices dans la promotion de la politiqu
+ e de concurrence en Tunisie
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e69018f9-end3e2804
 SUMMARY:[Book] OECD Competition Trends 2024
 DESCRIPTION:*[Book] OECD Competition Trends 2024*\n\
  nDirectorate: Directorate for Financial 
@@ -309,7 +398,7 @@ DESCRIPTION:*[Book] OECD Competition Trends 2024*\n\
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=e69018f9-e
  n.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240306T070000Z
 DTEND:20240306T071500Z
 TRANSP:TRANSPARENT
@@ -323,7 +412,46 @@ DESCRIPTION:Reminder: [Book] OECD Competition Trends
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e691
+UID:10.1787/4abdba16-end3e2907
+SUMMARY:[Book] Government at a Glance: Latin Ame
+ rica and the Caribbean 2024
+DESCRIPTION:*[Book] Government at a Glance: Latin Am
+ erica and the Caribbean 2024*\n\nDirecto
+ rate: Directorate for Public Governance\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/4abdba16-en\nPublication type: 
+ Book\nReleased as: Paperback, PDF\n\nEmb
+ argo date/time: Wednesday, 13 March 2024
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✗\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 18, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=4abdba16-en.
+DTSTAMP:20240126T231850Z
+DTSTART:20240313T140000Z
+DTEND:20240313T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Government at a Glance:
+  Latin America and the Caribbean 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a9b71040-end3e2958
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -348,7 +476,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240125T231810Z
+DTSTAMP:20240126T231850Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT
