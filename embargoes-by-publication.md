@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 January 2024 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 28 January 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Handbook on the Compilation of Household Distributional Results on Income, Consumption and Saving in Line with National Accounts Totals](https://doi.org/10.1787/5a3b9119-en)
 
@@ -15,7 +15,7 @@ Monday 29 January 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 January 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 January 2024 at 22:28
+- [x] Exported to OECD.org Sunday 28 January 2024 at 22:26
 
 ### Additional Information
 
