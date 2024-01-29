@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 28 January 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 29 January 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Handbook on the Compilation of Household Distributional Results on Income, Consumption and Saving in Line with National Accounts Totals](https://doi.org/10.1787/5a3b9119-en)
 
@@ -13,9 +13,9 @@ Monday 29 January 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 January 2024 at 22:55
+- [x] Exported to iLibrary Monday 29 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 28 January 2024 at 22:26
+- [x] Exported to OECD.org Monday 29 January 2024 at 22:29
 
 ### Additional Information
 
@@ -27,11 +27,57 @@ Monday 29 January 2024 at 8:00 | no launch event
 
 ------
 
+## [Scaling-up infrastructure investment to strengthen sustainable development in Brazil](https://doi.org/10.1787/47d65b26-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 January 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 January 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 29 January 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Independent fiscal institutions - A typology of OECD institutions and a roadmap for Latin America](https://doi.org/10.1787/cbeaa057-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 January 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 29 January 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 29 January 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 January 2024 at 10:00 | no launch event
+Thursday 1 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -54,7 +100,7 @@ Tuesday 30 January 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 30 January 2024 at 10:00 | no launch event
+Thursday 1 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -92,6 +138,29 @@ Thursday 8 February 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Services Trade Restrictiveness Index - Policy Trends up to 2024](https://doi.org/10.1787/b9e5c870-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Formats: *Paperback, PDF*
 
 ------
