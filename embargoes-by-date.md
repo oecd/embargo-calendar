@@ -2,11 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 January 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 31 January 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 January 2024](#29-january-2024)
 * [31 January 2024](#31-january-2024)
-* [1 February 2024](#1-february-2024)
+* [5 February 2024](#5-february-2024)
 * [8 February 2024](#8-february-2024)
 * [12 February 2024](#12-february-2024)
 * [23 February 2024](#23-february-2024)
@@ -15,33 +14,6 @@ Data generated on | |
 * [6 March 2024](#6-march-2024)
 * [13 March 2024](#13-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 29 January 2024
-
-## [OECD Handbook on the Compilation of Household Distributional Results on Income, Consumption and Saving in Line with National Accounts Totals](https://doi.org/10.1787/5a3b9119-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 January 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 January 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -58,7 +30,7 @@ Wednesday 31 January 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 January 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 31 January 2024 at 22:27
 
 ### Additional Information
 
@@ -81,7 +53,7 @@ Wednesday 31 January 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 29 January 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 January 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 31 January 2024 at 22:27
 
 ### Additional Information
 
@@ -95,13 +67,13 @@ Wednesday 31 January 2024 at 6:00 | no launch event
 
 ------
 
-# 1 February 2024
+# 5 February 2024
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 1 February 2024 at 10:00 | no launch event
+Monday 5 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -120,11 +92,34 @@ Thursday 1 February 2024 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Outlook, Interim Report February 2024 - Strengthening the Foundations for Growth](https://doi.org/10.1787/0fd73462-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 1 February 2024 at 10:00 | no launch event
+Monday 5 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -139,6 +134,29 @@ Thursday 1 February 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, febbraio 2024](https://doi.org/10.1787/fd79beca-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Format: *PDF*
 
 ------
