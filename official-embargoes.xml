@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-02-01T23:10:13.2212004+01:00">
+<report name="official-embargoes" generated="2024-02-02T23:11:59.7230529+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -22,45 +22,25 @@
   </row>
   <row index="1">
     <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/47d65b26-en</cell>
-    <cell name="title">Scaling-up infrastructure investment to strengthen sustainable development in Brazil (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
+    <cell name="doi">10.1787/ea684538-fr</cell>
+    <cell name="title">Perspectives économiques de l'OCDE, Rapport intermédiaire, février 2024 (fr)</cell>
+    <cell name="subtitle">Consolider les fondements de la croissance (fr)</cell>
+    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-01-31</cell>
-    <cell name="embargo date">2024-01-31T06:00:00Z</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-05</cell>
+    <cell name="embargo date">2024-02-05T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-01-29T21:53:29Z</cell>
+    <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-01-31T21:27:48Z</cell>
-    <cell name="discoveryservice last export date">2024-01-31T22:32:01Z</cell>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
+    <cell name="catalogue type">Issue</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc7cfc02</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1d2c2ba</cell>
   </row>
   <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/cbeaa057-en</cell>
-    <cell name="title">Independent fiscal institutions (en)</cell>
-    <cell name="subtitle">A typology of OECD institutions and a roadmap for Latin America (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-01-31</cell>
-    <cell name="embargo date">2024-01-31T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-02-01T21:49:18Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-01-31T21:27:48Z</cell>
-    <cell name="discoveryservice last export date">2024-01-31T22:32:01Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd0e244e</cell>
-  </row>
-  <row index="3">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/21ea168b-en</cell>
     <cell name="title">Pillar One - Amount B (en)</cell>
@@ -80,7 +60,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/524aae3c</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0fd73462-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report February 2024 (en)</cell>
@@ -97,14 +77,14 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Issue</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05a7f1a8</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/fd79beca-it</cell>
     <cell name="title">Prospettive economiche dell'OCSE, Rapporto intermedio, febbraio 2024 (it)</cell>
-    <cell name="subtitle"/>
+    <cell name="subtitle">Consolidare le basi della crescita (it)</cell>
     <cell name="language">Italian</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbc4be76</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cdffe7eb-en</cell>
     <cell name="title">Making the grass greener (en)</cell>
@@ -140,7 +120,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc649034</cell>
   </row>
+  <row index="6">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/7e56527f-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30ae220b</cell>
+  </row>
   <row index="7">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/5c0c4082-en</cell>
+    <cell name="title">Evaluation of wage subsidy programmes for the unemployed in Greece (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa1a3ffb</cell>
+  </row>
+  <row index="8">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4b908517-en</cell>
     <cell name="title">Impact Evaluation of Training and Wage Subsidies for the Unemployed in Greece (en)</cell>
@@ -157,10 +177,30 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1daa4336</cell>
   </row>
-  <row index="8">
+  <row index="9">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/af130a9f-en</cell>
+    <cell name="title">Programmes evaluated, data used and approach adopted for counterfactual impact evaluation in Greece (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f081e68</cell>
+  </row>
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4b908517-en</cell>
     <cell name="title">Impact Evaluation of Training and Wage Subsidies for the Unemployed in Greece (en)</cell>
@@ -177,10 +217,90 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/090eec3d</cell>
   </row>
-  <row index="9">
+  <row index="11">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d51e7701-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb9869e2</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/16c1b234-en</cell>
+    <cell name="title">Recent trends in Greece’s labour market and the set-up of active labour market policies (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d24678b</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/6fd7dd77-en</cell>
+    <cell name="title">Evaluation of training programmes for unemployed workers in Greece (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20d0a5d5</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/78495b2d-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-08</cell>
+    <cell name="embargo date">2024-02-08T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc3f622c</cell>
+  </row>
+  <row index="15">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2a736abb-fr</cell>
     <cell name="title">Pilier Un - Montant B (fr)</cell>
@@ -200,7 +320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0ab522a</cell>
   </row>
-  <row index="10">
+  <row index="16">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b9e5c870-en</cell>
     <cell name="title">OECD Services Trade Restrictiveness Index (en)</cell>
@@ -220,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6ea8160</cell>
   </row>
-  <row index="11">
+  <row index="17">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/119c59d9-en</cell>
     <cell name="title">Securing Medical Supply Chains in a Post-Pandemic World (en)</cell>
@@ -240,7 +360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12895f1f</cell>
   </row>
-  <row index="12">
+  <row index="18">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/119c59d9-en</cell>
     <cell name="title">Securing Medical Supply Chains in a Post-Pandemic World (en)</cell>
@@ -260,7 +380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/571afec9</cell>
   </row>
-  <row index="13">
+  <row index="19">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
@@ -280,7 +400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3a3f688</cell>
   </row>
-  <row index="14">
+  <row index="20">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
@@ -300,7 +420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24e659b</cell>
   </row>
-  <row index="15">
+  <row index="21">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b8d974db-en</cell>
     <cell name="title">OECD Economic Surveys: Mexico 2024 (en)</cell>
@@ -320,7 +440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06245a25</cell>
   </row>
-  <row index="16">
+  <row index="22">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b8d974db-en</cell>
     <cell name="title">OECD Economic Surveys: Mexico 2024 (en)</cell>
@@ -340,7 +460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ddfaa79</cell>
   </row>
-  <row index="17">
+  <row index="23">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/82f72c0e-en</cell>
     <cell name="title">The Role of Guidelines in Fostering Competition Policy in Tunisia (en)</cell>
@@ -360,7 +480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/000985a5</cell>
   </row>
-  <row index="18">
+  <row index="24">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dfb1156d-fr</cell>
     <cell name="title">Le rôle des lignes directrices dans la promotion de la politique de concurrence en Tunisie (fr)</cell>
@@ -380,7 +500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7b0118c</cell>
   </row>
-  <row index="19">
+  <row index="25">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -400,7 +520,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8578b75c</cell>
   </row>
-  <row index="20">
+  <row index="26">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/5bc65d36-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-07T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22d9b2a5</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/5bc65d36-en</cell>
+    <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-07T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e6f8139</cell>
+  </row>
+  <row index="28">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -420,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f30a3bae</cell>
   </row>
-  <row index="21">
+  <row index="29">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -440,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a1a5d5b</cell>
   </row>
-  <row index="22">
+  <row index="30">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -460,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="23">
+  <row index="31">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>

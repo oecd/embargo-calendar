@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 February 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 January 2024](#31-january-2024)
 * [5 February 2024](#5-february-2024)
 * [8 February 2024](#8-february-2024)
 * [12 February 2024](#12-february-2024)
@@ -12,62 +11,36 @@ Data generated on | |
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
 * [6 March 2024](#6-march-2024)
+* [7 March 2024](#7-march-2024)
 * [13 March 2024](#13-march-2024)
 * [19 June 2024](#19-june-2024)
 
 ------
 
-# 31 January 2024
-
-## [Scaling-up infrastructure investment to strengthen sustainable development in Brazil](https://doi.org/10.1787/47d65b26-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 January 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 29 January 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 January 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Independent fiscal institutions - A typology of OECD institutions and a roadmap for Latin America](https://doi.org/10.1787/cbeaa057-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 January 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 31 January 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-------
-
 # 5 February 2024
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, février 2024 - Consolider les fondements de la croissance](https://doi.org/10.1787/ea684538-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
@@ -100,7 +73,7 @@ Monday 5 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -115,7 +88,7 @@ Monday 5 February 2024 at 10:00 | no launch event
 
 ------
 
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, febbraio 2024](https://doi.org/10.1787/fd79beca-it)
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, febbraio 2024 - Consolidare le basi della crescita](https://doi.org/10.1787/fd79beca-it)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -173,7 +146,7 @@ Thursday 8 February 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -389,6 +362,33 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 7 March 2024
+
+## [OECD Environmental Performance Reviews: Chile 2024](https://doi.org/10.1787/5bc65d36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 March 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
