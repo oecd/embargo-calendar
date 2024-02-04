@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 February 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 4 February 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives économiques de l'OCDE, Rapport intermédiaire, février 2024 - Consolider les fondements de la croissance](https://doi.org/10.1787/ea684538-fr)
 
