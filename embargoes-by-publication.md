@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 February 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 February 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives économiques de l'OCDE, Rapport intermédiaire, février 2024 - Consolider les fondements de la croissance](https://doi.org/10.1787/ea684538-fr)
 
@@ -13,17 +13,17 @@ Monday 5 February 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -59,17 +59,17 @@ Monday 5 February 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -81,17 +81,63 @@ Monday 5 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
+* Formats: *ePub, HTML, PDF, ZXML*
+
+------
+
+## [Державне управління в Україні - Оцінювання на відповідність Принципам державного управління](https://doi.org/10.1787/b0dd70ef-uk)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 February 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Ukrainian*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Public Administration in Ukraine - Assessment against the Principles of Public Administration](https://doi.org/10.1787/078d08d4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 February 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -128,17 +174,17 @@ Thursday 8 February 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
