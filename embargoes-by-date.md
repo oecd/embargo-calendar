@@ -2,15 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 February 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 February 2024](#5-february-2024)
 * [6 February 2024](#6-february-2024)
+* [7 February 2024](#7-february-2024)
 * [8 February 2024](#8-february-2024)
+* [9 February 2024](#9-february-2024)
 * [12 February 2024](#12-february-2024)
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
+* [5 March 2024](#5-march-2024)
 * [6 March 2024](#6-march-2024)
 * [7 March 2024](#7-march-2024)
 * [13 March 2024](#13-march-2024)
@@ -40,29 +43,6 @@ Monday 5 February 2024 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Issue*
 * Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -127,7 +107,7 @@ Tuesday 6 February 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
 
 ### Additional Information
 
@@ -150,7 +130,7 @@ Tuesday 6 February 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
 
 ### Additional Information
 
@@ -158,6 +138,33 @@ Tuesday 6 February 2024 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 7 February 2024
+
+## [Developing skills for digital government - A review of good practices across OECD governments](https://doi.org/10.1787/f4dab2e9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 February 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 6 February 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -212,11 +219,38 @@ Thursday 8 February 2024 at 8:00 | no launch event
 
 ------
 
+------
+
+# 9 February 2024
+
+## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 9 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 8 February 2024 at 10:00 | no launch event
+Friday 9 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -386,6 +420,56 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 5 March 2024
+
+## [OECD Economic Surveys: Hungary 2024](https://doi.org/10.1787/795451e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Artificial Intelligence Country Review of Egypt](https://doi.org/10.1787/2a282726-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 March 2024 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
