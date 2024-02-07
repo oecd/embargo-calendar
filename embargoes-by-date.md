@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 February 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 7 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 February 2024](#5-february-2024)
 * [6 February 2024](#6-february-2024)
 * [7 February 2024](#7-february-2024)
 * [8 February 2024](#8-february-2024)
@@ -17,80 +16,8 @@ Data generated on | |
 * [6 March 2024](#6-march-2024)
 * [7 March 2024](#7-march-2024)
 * [13 March 2024](#13-march-2024)
+* [18 March 2024](#18-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 5 February 2024
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, février 2024 - Consolider les fondements de la croissance](https://doi.org/10.1787/ea684538-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report February 2024 - Strengthening the Foundations for Growth](https://doi.org/10.1787/0fd73462-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, febbraio 2024 - Consolidare le basi della crescita](https://doi.org/10.1787/fd79beca-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
 
 ------
 
@@ -105,7 +32,7 @@ Tuesday 6 February 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
+- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
 
@@ -128,7 +55,7 @@ Tuesday 6 February 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
+- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
 
@@ -155,9 +82,9 @@ Wednesday 7 February 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 6 February 2024 at 22:53
+- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
 
 ### Additional Information
 
@@ -184,7 +111,7 @@ Thursday 8 February 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 1 February 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
 
 ### Additional Information
 
@@ -207,7 +134,7 @@ Thursday 8 February 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 5 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 5 February 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
 
 ### Additional Information
 
@@ -291,7 +218,7 @@ Monday 12 February 2024 at 10:00 | no launch event
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Report*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -477,6 +404,29 @@ Tuesday 5 March 2024 at 23:00 | no launch event
 
 # 6 March 2024
 
+## [Tendances de l’OCDE sur la concurrence 2024 (version abrégée)](https://doi.org/10.1787/83258053-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 March 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Competition Trends 2024](https://doi.org/10.1787/e69018f9-en)
 
 Embargo date | Launch date
@@ -547,6 +497,33 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 March 2024
+
+## [SIGI 2024 Regional Report for Southeast Asia - Time to Care](https://doi.org/10.1787/7fc15e1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2024 at 13:15 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
