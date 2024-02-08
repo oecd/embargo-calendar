@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 8 February 2024 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 February 2024](#6-february-2024)
 * [7 February 2024](#7-february-2024)
 * [8 February 2024](#8-february-2024)
 * [9 February 2024](#9-february-2024)
@@ -15,59 +14,10 @@ Data generated on | |
 * [5 March 2024](#5-march-2024)
 * [6 March 2024](#6-march-2024)
 * [7 March 2024](#7-march-2024)
+* [11 March 2024](#11-march-2024)
 * [13 March 2024](#13-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 6 February 2024
-
-## [Державне управління в Україні - Оцінювання на відповідність Принципам державного управління](https://doi.org/10.1787/b0dd70ef-uk)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 February 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Ukrainian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Public Administration in Ukraine - Assessment against the Principles of Public Administration](https://doi.org/10.1787/078d08d4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 February 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 6 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -82,9 +32,9 @@ Wednesday 7 February 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 7 February 2024 at 22:50
+- [x] Exported to iLibrary Thursday 8 February 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
+- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
 
 ### Additional Information
 
@@ -111,7 +61,7 @@ Thursday 8 February 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 1 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
+- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
 
 ### Additional Information
 
@@ -132,9 +82,9 @@ Thursday 8 February 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 5 February 2024 at 22:49
+- [x] Exported to iLibrary Thursday 8 February 2024 at 9:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 7 February 2024 at 22:28
+- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
 
 ### Additional Information
 
@@ -474,6 +424,33 @@ Thursday 7 March 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 11 March 2024
+
+## [Towards Greener and More Inclusive Societies in Southeast Asia](https://doi.org/10.1787/294ce081-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 

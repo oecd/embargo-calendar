@@ -2,97 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/b0dd70ef-ukd3e63
-SUMMARY:[Stand-alone monograph] Державне управлі
- ння в Україні - Оцінювання на відповідні
- сть Принципам державного управління
-DESCRIPTION:*[Stand-alone monograph] Державне управл
- іння в Україні - Оцінювання на відповідн
- ість Принципам державного управління*\n\
- nDirectorate: Directorate for Public Gov
- ernance\nLanguage: Ukrainian\nDOI: https
- ://doi.org/10.1787/b0dd70ef-uk\nPublicat
- ion type: Stand-alone monograph\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  6 February 2024, 11:00 (GMT)\n\n\niLibr
- ary export: Wednesday, 7 February 2024, 
- 21:50 (GMT)\nFreepreview export: never\n
- OECD.org export: Tuesday, 6 February 202
- 4, 21:26 (GMT)\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 3:10, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=b0dd70ef-uk.
-DTSTAMP:20240207T231026Z
-DTSTART:20240206T110000Z
-DTEND:20240206T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Держав
- не управління в Україні - Оцінювання на 
- відповідність Принципам державного управ
- ління
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/078d08d4-end3e120
-SUMMARY:[Stand-alone monograph] Public Administr
- ation in Ukraine - Assessment against th
- e Principles of Public Administration
-DESCRIPTION:*[Stand-alone monograph] Public Administ
- ration in Ukraine - Assessment against t
- he Principles of Public Administration*\
- n\nDirectorate: Directorate for Public G
- overnance\nLanguage: English\nDOI: https
- ://doi.org/10.1787/078d08d4-en\nPublicat
- ion type: Stand-alone monograph\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  6 February 2024, 11:00 (GMT)\n\n\niLibr
- ary export: Wednesday, 7 February 2024, 
- 21:50 (GMT)\nFreepreview export: never\n
- OECD.org export: Tuesday, 6 February 202
- 4, 21:26 (GMT)\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 3:10, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=078d08d4-en.
-DTSTAMP:20240207T231026Z
-DTSTART:20240206T110000Z
-DTEND:20240206T111500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Public
-  Administration in Ukraine - Assessment 
- against the Principles of Public Adminis
- tration
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f4dab2e9-end3e177
+UID:10.1787/f4dab2e9-end3e63
 SUMMARY:[Paper] Developing skills for digital go
  vernment - A review of good practices ac
  ross OECD governments
@@ -105,23 +15,23 @@ DESCRIPTION:*[Paper] Developing skills for digital g
  ication type: Paper\nReleased as: PDF\n\
  nEmbargo date/time: Wednesday, 7 Februar
  y 2024, 6:00 (GMT)\n\n\niLibrary export:
-  Wednesday, 7 February 2024, 21:50 (GMT)
- \nFreepreview export: never\nOECD.org ex
- port: Wednesday, 7 February 2024, 21:28 
- (GMT)\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:10, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=f4dab2e9-en.
-DTSTAMP:20240207T231026Z
+  Thursday, 8 February 2024, 21:53 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: Thursday, 8 February 2024, 21:28 (G
+ MT)\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 23:21, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=f4dab2e9-en.
+DTSTAMP:20240208T232135Z
 DTSTART:20240207T060000Z
 DTEND:20240207T061500Z
 TRANSP:TRANSPARENT
@@ -136,7 +46,7 @@ DESCRIPTION:Reminder: [Paper] Developing skills for
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cdffe7eb-end3e233
+UID:10.1787/cdffe7eb-end3e120
 SUMMARY:[Paper] Making the grass greener - The r
  ole of firm’s financial and managerial c
  apacity in paving the way for the green 
@@ -152,21 +62,21 @@ DESCRIPTION:*[Paper] Making the grass greener - The
  4, 6:00 (GMT)\n\n\niLibrary export: Thur
  sday, 1 February 2024, 21:49 (GMT)\nFree
  preview export: never\nOECD.org export: 
- Wednesday, 7 February 2024, 21:28 (GMT)\
- nFTI loaded: ✓\n\nFor more information s
- ee: https://oecd.github.io/embargo-calen
- dar/embargoes-by-publication.html.\n\nPl
- ease note: This information was correct 
- as of this afternoon at 23:10, it is upd
- ated each night; therefore any subsequen
- t updates may not yet be visible here. A
- lso, please be aware that the different 
- released media (PDF, HTML, etc.) are not
-  necessarily released at the same time. 
- For complete and up-to-date information 
- see here: http://kappa.oecd.org/v3/searc
- h?term=cdffe7eb-en.
-DTSTAMP:20240207T231026Z
+ Thursday, 8 February 2024, 21:28 (GMT)\n
+ FTI loaded: ✓\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 23:21, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=cdffe7eb-en.
+DTSTAMP:20240208T232135Z
 DTSTART:20240208T060000Z
 DTEND:20240208T061500Z
 TRANSP:TRANSPARENT
@@ -182,7 +92,7 @@ DESCRIPTION:Reminder: [Paper] Making the grass green
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4b908517-end3e729
+UID:10.1787/4b908517-end3e616
 SUMMARY:[Book] Impact Evaluation of Training and
   Wage Subsidies for the Unemployed in Gr
  eece
@@ -195,15 +105,15 @@ DESCRIPTION:*[Book] Impact Evaluation of Training an
  k\nReleased as: ePub, HTML, Paperback, P
  DF, ZXML\n\nEmbargo date/time: Thursday,
   8 February 2024, 8:00 (GMT)\n\n\niLibra
- ry export: Monday, 5 February 2024, 21:4
- 9 (GMT)\nFreepreview export: never\nOECD
- .org export: Wednesday, 7 February 2024,
+ ry export: Thursday, 8 February 2024, 8:
+ 50 (GMT)\nFreepreview export: never\nOEC
+ D.org export: Thursday, 8 February 2024,
   21:28 (GMT)\nFTI loaded: ✓\n\nFor more 
  information see: https://oecd.github.io/
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 10, it is updated each night; therefore 
+ 21, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -211,7 +121,7 @@ DESCRIPTION:*[Book] Impact Evaluation of Training an
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=4b908517-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240208T080000Z
 DTEND:20240208T081500Z
 TRANSP:TRANSPARENT
@@ -226,7 +136,7 @@ DESCRIPTION:Reminder: [Book] Impact Evaluation of Tr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/21ea168b-end3e2864
+UID:10.1787/21ea168b-end3e2751
 SUMMARY:[Book] Pillar One - Amount B - Inclusive
   Framework on BEPS
 DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
@@ -242,7 +152,7 @@ DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:10, it is upda
+ s of this afternoon at 23:21, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -251,7 +161,7 @@ DESCRIPTION:*[Book] Pillar One - Amount B - Inclusiv
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=21ea168b-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240209T100000Z
 DTEND:20240209T101500Z
 TRANSP:TRANSPARENT
@@ -265,7 +175,7 @@ DESCRIPTION:Reminder: [Book] Pillar One - Amount B -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a736abb-frd3e2918
+UID:10.1787/2a736abb-frd3e2804
 SUMMARY:[Book] Pilier Un - Montant B - Cadre Inc
  lusif sur le BEPS
 DESCRIPTION:*[Book] Pilier Un - Montant B - Cadre In
@@ -281,7 +191,7 @@ DESCRIPTION:*[Book] Pilier Un - Montant B - Cadre In
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:10, it is update
+ of this afternoon at 23:21, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -290,7 +200,7 @@ DESCRIPTION:*[Book] Pilier Un - Montant B - Cadre In
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=2a736abb-fr.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240209T100000Z
 DTEND:20240209T101500Z
 TRANSP:TRANSPARENT
@@ -304,7 +214,7 @@ DESCRIPTION:Reminder: [Book] Pilier Un - Montant B -
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b9e5c870-end3e2971
+UID:10.1787/b9e5c870-end3e2857
 SUMMARY:[Stand-alone monograph] OECD Services Tr
  ade Restrictiveness Index - Policy Trend
  s up to 2024
@@ -322,7 +232,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:10, it is
+ ect as of this afternoon at 23:21, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -331,7 +241,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=b9e5c870-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240212T100000Z
 DTEND:20240212T101500Z
 TRANSP:TRANSPARENT
@@ -346,7 +256,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/119c59d9-end3e3077
+UID:10.1787/119c59d9-end3e2964
 SUMMARY:[Book] Securing Medical Supply Chains in
   a Post-Pandemic World
 DESCRIPTION:*[Book] Securing Medical Supply Chains i
@@ -363,7 +273,7 @@ DESCRIPTION:*[Book] Securing Medical Supply Chains i
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:10, it is updated each nig
+ ternoon at 23:21, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -372,7 +282,7 @@ DESCRIPTION:*[Book] Securing Medical Supply Chains i
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=119c59
  d9-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240223T083000Z
 DTEND:20240223T084500Z
 TRANSP:TRANSPARENT
@@ -386,7 +296,7 @@ DESCRIPTION:Reminder: [Book] Securing Medical Supply
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/af900de2-end3e3129
+UID:10.1787/af900de2-end3e3016
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Egypt 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -403,7 +313,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  .io/embargo-calendar/embargoes-by-public
  ation.html.\n\nPlease note: This informa
  tion was correct as of this afternoon at
-  23:10, it is updated each night; theref
+  23:21, it is updated each night; theref
  ore any subsequent updates may not yet b
  e visible here. Also, please be aware th
  at the different released media (PDF, HT
@@ -411,7 +321,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=af900de2-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240223T100000Z
 DTEND:20240223T101500Z
 TRANSP:TRANSPARENT
@@ -426,7 +336,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b8d974db-end3e3236
+UID:10.1787/b8d974db-end3e3122
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Mexico 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -442,7 +352,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:10, it is update
+ of this afternoon at 23:21, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -451,7 +361,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=b8d974db-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240227T100000Z
 DTEND:20240227T101500Z
 TRANSP:TRANSPARENT
@@ -465,7 +375,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/82f72c0e-end3e3338
+UID:10.1787/82f72c0e-end3e3225
 SUMMARY:[Book] The Role of Guidelines in Fosteri
  ng Competition Policy in Tunisia
 DESCRIPTION:*[Book] The Role of Guidelines in Foster
@@ -482,7 +392,7 @@ DESCRIPTION:*[Book] The Role of Guidelines in Foster
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:10, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -491,7 +401,7 @@ DESCRIPTION:*[Book] The Role of Guidelines in Foster
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=82f72c0e-
  en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240228T070000Z
 DTEND:20240228T071500Z
 TRANSP:TRANSPARENT
@@ -506,7 +416,7 @@ DESCRIPTION:Reminder: [Book] The Role of Guidelines
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dfb1156d-frd3e3390
+UID:10.1787/dfb1156d-frd3e3277
 SUMMARY:[Book] Le rôle des lignes directrices da
  ns la promotion de la politique de concu
  rrence en Tunisie
@@ -524,7 +434,7 @@ DESCRIPTION:*[Book] Le rôle des lignes directrices d
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:10, i
+ correct as of this afternoon at 23:21, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -533,7 +443,7 @@ DESCRIPTION:*[Book] Le rôle des lignes directrices d
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=dfb1156d-fr.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240228T070000Z
 DTEND:20240228T071500Z
 TRANSP:TRANSPARENT
@@ -548,7 +458,7 @@ DESCRIPTION:Reminder: [Book] Le rôle des lignes dire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/795451e5-end3e3494
+UID:10.1787/795451e5-end3e3381
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Hungary 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -564,7 +474,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:10, it is updated ea
+ his afternoon at 23:21, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -573,7 +483,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  795451e5-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240305T090000Z
 DTEND:20240305T091500Z
 TRANSP:TRANSPARENT
@@ -587,7 +497,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a282726-end3e3599
+UID:10.1787/2a282726-end3e3485
 SUMMARY:[Stand-alone monograph] OECD Artificial 
  Intelligence Country Review of Egypt
 DESCRIPTION:*[Stand-alone monograph] OECD Artificial
@@ -604,7 +514,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Artificial
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:10
+ as correct as of this afternoon at 23:21
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -613,7 +523,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Artificial
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=2a282726-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240305T230000Z
 DTEND:20240305T231500Z
 TRANSP:TRANSPARENT
@@ -628,7 +538,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83258053-frd3e3651
+UID:10.1787/83258053-frd3e3538
 SUMMARY:[Book] Tendances de l’OCDE sur la concur
  rence 2024 (version abrégée)
 DESCRIPTION:*[Book] Tendances de l’OCDE sur la concu
@@ -645,7 +555,7 @@ DESCRIPTION:*[Book] Tendances de l’OCDE sur la concu
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:10, it is updated each night; therefor
+ 3:21, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -653,7 +563,7 @@ DESCRIPTION:*[Book] Tendances de l’OCDE sur la concu
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=83258053-fr.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240306T070000Z
 DTEND:20240306T071500Z
 TRANSP:TRANSPARENT
@@ -667,7 +577,7 @@ DESCRIPTION:Reminder: [Book] Tendances de l’OCDE sur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e69018f9-end3e3703
+UID:10.1787/e69018f9-end3e3590
 SUMMARY:[Book] OECD Competition Trends 2024
 DESCRIPTION:*[Book] OECD Competition Trends 2024*\n\
  nDirectorate: Directorate for Financial 
@@ -682,7 +592,7 @@ DESCRIPTION:*[Book] OECD Competition Trends 2024*\n\
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 23:10, it is updated each night; 
+ oon at 23:21, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -691,7 +601,7 @@ DESCRIPTION:*[Book] OECD Competition Trends 2024*\n\
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=e69018f9-e
  n.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240306T070000Z
 DTEND:20240306T071500Z
 TRANSP:TRANSPARENT
@@ -705,7 +615,7 @@ DESCRIPTION:Reminder: [Book] OECD Competition Trends
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5bc65d36-end3e3755
+UID:10.1787/5bc65d36-end3e3642
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Chile 2024
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -721,7 +631,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:10, it is updated each 
+  afternoon at 23:21, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -730,7 +640,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=5bc
  65d36-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240307T080000Z
 DTEND:20240307T081500Z
 TRANSP:TRANSPARENT
@@ -744,7 +654,46 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4abdba16-end3e3910
+UID:10.1787/294ce081-end3e3744
+SUMMARY:[Book] Towards Greener and More Inclusiv
+ e Societies in Southeast Asia
+DESCRIPTION:*[Book] Towards Greener and More Inclusi
+ ve Societies in Southeast Asia*\n\nDirec
+ torate: Development Centre\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/294c
+ e081-en\nPublication type: Book\nRelease
+ d as: PDF\n\nEmbargo date/time: Monday, 
+ 11 March 2024, 9:00 (GMT)\n\n\niLibrary 
+ export: never\nFreepreview export: never
+ \nOECD.org export: never\nFTI loaded: ✗\
+ n\nFor more information see: https://oec
+ d.github.io/embargo-calendar/embargoes-b
+ y-publication.html.\n\nPlease note: This
+  information was correct as of this afte
+ rnoon at 23:21, it is updated each night
+ ; therefore any subsequent updates may n
+ ot yet be visible here. Also, please be 
+ aware that the different released media 
+ (PDF, HTML, etc.) are not necessarily re
+ leased at the same time. For complete an
+ d up-to-date information see here: http:
+ //kappa.oecd.org/v3/search?term=294ce081
+ -en.
+DTSTAMP:20240208T232135Z
+DTSTART:20240311T090000Z
+DTEND:20240311T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Towards Greener and Mor
+ e Inclusive Societies in Southeast Asia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4abdba16-end3e3849
 SUMMARY:[Book] Government at a Glance: Latin Ame
  rica and the Caribbean 2024
 DESCRIPTION:*[Book] Government at a Glance: Latin Am
@@ -761,7 +710,7 @@ DESCRIPTION:*[Book] Government at a Glance: Latin Am
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 10, it is updated each night; therefore 
+ 21, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -769,7 +718,7 @@ DESCRIPTION:*[Book] Government at a Glance: Latin Am
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=4abdba16-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240313T140000Z
 DTEND:20240313T141500Z
 TRANSP:TRANSPARENT
@@ -783,7 +732,7 @@ DESCRIPTION:Reminder: [Book] Government at a Glance:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7fc15e1c-end3e4015
+UID:10.1787/7fc15e1c-end3e3954
 SUMMARY:[Book] SIGI 2024 Regional Report for Sou
  theast Asia - Time to Care
 DESCRIPTION:*[Book] SIGI 2024 Regional Report for So
@@ -799,7 +748,7 @@ DESCRIPTION:*[Book] SIGI 2024 Regional Report for So
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:10, it is updated e
+ this afternoon at 23:21, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -808,7 +757,7 @@ DESCRIPTION:*[Book] SIGI 2024 Regional Report for So
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7fc15e1c-en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240318T131500Z
 DTEND:20240318T133000Z
 TRANSP:TRANSPARENT
@@ -822,7 +771,7 @@ DESCRIPTION:Reminder: [Book] SIGI 2024 Regional Repo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e4068
+UID:10.1787/a9b71040-end3e4007
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -838,7 +787,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:10, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -847,7 +796,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240207T231026Z
+DTSTAMP:20240208T232135Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT
