@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 February 2024 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 February 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 February 2024](#7-february-2024)
 * [8 February 2024](#8-february-2024)
 * [9 February 2024](#9-february-2024)
 * [12 February 2024](#12-february-2024)
+* [19 February 2024](#19-february-2024)
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
@@ -18,33 +18,6 @@ Data generated on | |
 * [13 March 2024](#13-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 7 February 2024
-
-## [Developing skills for digital government - A review of good practices across OECD governments](https://doi.org/10.1787/f4dab2e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 February 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -168,6 +141,33 @@ Monday 12 February 2024 at 10:00 | no launch event
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 19 February 2024
+
+## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 February 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 9 February 2024 at 22:46
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 February 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -362,7 +362,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -385,7 +385,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org

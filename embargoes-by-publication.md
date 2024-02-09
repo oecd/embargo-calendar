@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 February 2024 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Developing skills for digital government - A review of good practices across OECD governments](https://doi.org/10.1787/f4dab2e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 February 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 9 February 2024 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making the grass greener - The role of firm’s financial and managerial capacity in paving the way for the green transition](https://doi.org/10.1787/cdffe7eb-en)
 
@@ -137,6 +114,29 @@ Monday 12 February 2024 at 10:00 | no launch event
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 February 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 9 February 2024 at 22:46
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 9 February 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -311,7 +311,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -334,7 +334,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
