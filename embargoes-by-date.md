@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 February 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 11 February 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [8 February 2024](#8-february-2024)
-* [9 February 2024](#9-february-2024)
 * [12 February 2024](#12-february-2024)
 * [19 February 2024](#19-february-2024)
 * [23 February 2024](#23-february-2024)
@@ -18,106 +16,6 @@ Data generated on | |
 * [13 March 2024](#13-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 8 February 2024
-
-## [Making the grass greener - The role of firm’s financial and managerial capacity in paving the way for the green transition](https://doi.org/10.1787/cdffe7eb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 February 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 1 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Impact Evaluation of Training and Wage Subsidies for the Unemployed in Greece](https://doi.org/10.1787/4b908517-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 8 February 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 February 2024 at 9:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 8 February 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 9 February 2024
-
-## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
