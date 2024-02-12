@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 February 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 12 February 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Services Trade Restrictiveness Index - Policy Trends up to 2024](https://doi.org/10.1787/b9e5c870-en)
 
@@ -13,16 +13,62 @@ Monday 12 February 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
+- [x] Exported to iLibrary Monday 12 February 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 12 February 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 16 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
