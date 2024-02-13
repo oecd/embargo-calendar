@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-02-12T23:12:46.6201325+01:00">
+<report name="official-embargoes" generated="2024-02-13T23:16:19.7254824+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2024-02-12T21:51:24Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2024-02-12T21:27:47Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-02-12T22:33:55Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -188,7 +188,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2024-02-27</cell>
     <cell name="embargo date">2024-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -208,7 +208,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2024-02-27</cell>
     <cell name="embargo date">2024-02-27T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -347,13 +347,13 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-03-06</cell>
     <cell name="embargo date">2024-03-06T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-02-13T21:28:56Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -362,12 +362,12 @@
   </row>
   <row index="18">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/e69018f9-en</cell>
-    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="doi">10.1787/83258053-fr</cell>
+    <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
     <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-03-06</cell>
     <cell name="embargo date">2024-03-06T07:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -378,9 +378,149 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8578b75c</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57b76f9a</cell>
   </row>
   <row index="19">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3561223</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-02-13T21:28:56Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8578b75c</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/83258053-fr</cell>
+    <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/944fa06f</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/418b08fa</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/83258053-fr</cell>
+    <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-02-13T21:28:56Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89efaebd</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb91a3d7</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e69018f9-en</cell>
+    <cell name="title">OECD Competition Trends 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-03-06</cell>
+    <cell name="embargo date">2024-03-06T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-13T21:54:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-02-13T21:28:56Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c318b17</cell>
+  </row>
+  <row index="26">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5bc65d36-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
@@ -400,7 +540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22d9b2a5</cell>
   </row>
-  <row index="20">
+  <row index="27">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5bc65d36-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
@@ -420,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e6f8139</cell>
   </row>
-  <row index="21">
+  <row index="28">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/294ce081-en</cell>
     <cell name="title">Towards Greener and More Inclusive Societies in Southeast Asia (en)</cell>
@@ -440,7 +580,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff0cbf57</cell>
   </row>
-  <row index="22">
+  <row index="29">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/106b32c4-en</cell>
+    <cell name="title">OECD Economic Surveys: Romania 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-03-12</cell>
+    <cell name="embargo date">2024-03-12T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5b5c767</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/106b32c4-en</cell>
+    <cell name="title">OECD Economic Surveys: Romania 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-03-12</cell>
+    <cell name="embargo date">2024-03-12T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20d24ad9</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -460,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f30a3bae</cell>
   </row>
-  <row index="23">
+  <row index="32">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -480,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a1a5d5b</cell>
   </row>
-  <row index="24">
+  <row index="33">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -500,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a6103cb</cell>
   </row>
-  <row index="25">
+  <row index="34">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -520,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279c9e27</cell>
   </row>
-  <row index="26">
+  <row index="35">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -540,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="27">
+  <row index="36">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>

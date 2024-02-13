@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 February 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 February 2024 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 February 2024](#12-february-2024)
 * [16 February 2024](#16-february-2024)
@@ -14,6 +14,7 @@ Data generated on | |
 * [6 March 2024](#6-march-2024)
 * [7 March 2024](#7-march-2024)
 * [11 March 2024](#11-march-2024)
+* [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 June 2024](#19-june-2024)
@@ -312,17 +313,17 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 February 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -335,17 +336,17 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 13 February 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -400,6 +401,33 @@ Monday 11 March 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 12 March 2024
+
+## [OECD Economic Surveys: Romania 2024](https://doi.org/10.1787/106b32c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
