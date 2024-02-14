@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-02-13T23:16:19.7254824+01:00">
+<report name="official-embargoes" generated="2024-02-14T23:14:42.9027977+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/b9e5c870-en</cell>
-    <cell name="title">OECD Services Trade Restrictiveness Index (en)</cell>
-    <cell name="subtitle">Policy Trends up to 2024 (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-02-12</cell>
-    <cell name="embargo date">2024-02-12T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-02-12T21:51:24Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-02-12T21:27:47Z</cell>
-    <cell name="discoveryservice last export date">2024-02-12T22:33:55Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f6ea8160</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/21ea168b-en</cell>
     <cell name="title">Pillar One - Amount B (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/524aae3c</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2a736abb-fr</cell>
     <cell name="title">Pilier Un - Montant B (fr)</cell>
@@ -80,27 +60,567 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0ab522a</cell>
   </row>
+  <row index="3">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/db3ab5fe-en</cell>
+    <cell name="title">The case of Ireland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9131265d</cell>
+  </row>
   <row index="4">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/ea80d61d-en</cell>
     <cell name="title">Addressing Inequality in Budgeting (en)</cell>
     <cell name="subtitle">Lessons from Recent Country Experience (en)</cell>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-02-19</cell>
     <cell name="embargo date">2024-02-19T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-02-09T21:46:45Z</cell>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-02-09T21:25:03Z</cell>
+    <cell name="oecd.org last export date">2024-02-14T21:27:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa9028b4</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d68446e1</cell>
   </row>
   <row index="5">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1580f1a5-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0aac2e1e</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ea80d61d-en</cell>
+    <cell name="title">Addressing Inequality in Budgeting (en)</cell>
+    <cell name="subtitle">Lessons from Recent Country Experience (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-02-14T21:27:41Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa9028b4</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/10e66d88-en</cell>
+    <cell name="title">The case of Italy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7477a3c3</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/7421a02e-en</cell>
+    <cell name="title">The case of Sweden (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/735a0763</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/10e66d88-en</cell>
+    <cell name="title">The case of Italy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bd4d954</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/af00f8a5-en</cell>
+    <cell name="title">The case of Canada (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/257441a8</cell>
+  </row>
+  <row index="11">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/67e64474-en</cell>
+    <cell name="title">The case of New Zealand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac82c467</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/732006fb-en</cell>
+    <cell name="title">The case of France (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b841ae8</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/db3ab5fe-en</cell>
+    <cell name="title">The case of Ireland (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5961be2</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/03b17367-en</cell>
+    <cell name="title">The case of Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd795eab</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/7421a02e-en</cell>
+    <cell name="title">The case of Sweden (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/708fcba1</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/732006fb-en</cell>
+    <cell name="title">The case of France (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/626fa112</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/221c1d81-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c6a297a</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1580f1a5-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6e3bd5c</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ea80d61d-en</cell>
+    <cell name="title">Addressing Inequality in Budgeting (en)</cell>
+    <cell name="subtitle">Lessons from Recent Country Experience (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04a16201</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/752324c7-en</cell>
+    <cell name="title">Using budgeting to address inequality: Overview of findings (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55a17e1b</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1b8c69e6-en</cell>
+    <cell name="title">The case of the Netherlands (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a446f15f</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ea80d61d-en</cell>
+    <cell name="title">Addressing Inequality in Budgeting (en)</cell>
+    <cell name="subtitle">Lessons from Recent Country Experience (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00d03371</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/752324c7-en</cell>
+    <cell name="title">Using budgeting to address inequality: Overview of findings (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eaee1ee8</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/03b17367-en</cell>
+    <cell name="title">The case of Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/079d14bf</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/67e64474-en</cell>
+    <cell name="title">The case of New Zealand (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d74f1275</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1b8c69e6-en</cell>
+    <cell name="title">The case of the Netherlands (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54562550</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/af00f8a5-en</cell>
+    <cell name="title">The case of Canada (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/374a84d0</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/ea80d61d-en</cell>
+    <cell name="title">Addressing Inequality in Budgeting (en)</cell>
+    <cell name="subtitle">Lessons from Recent Country Experience (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f93496a</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/221c1d81-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-02-19</cell>
+    <cell name="embargo date">2024-02-19T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-02-14T21:52:25Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1dffc3b0</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/3bb1b2f7-fr</cell>
+    <cell name="title">Sécuriser les chaînes d’approvisionnement en produits médicaux après la pandémie (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-02-23</cell>
+    <cell name="embargo date">2024-02-23T08:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef912376</cell>
+  </row>
+  <row index="31">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/119c59d9-en</cell>
     <cell name="title">Securing Medical Supply Chains in a Post-Pandemic World (en)</cell>
@@ -120,7 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12895f1f</cell>
   </row>
-  <row index="6">
+  <row index="32">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/119c59d9-en</cell>
     <cell name="title">Securing Medical Supply Chains in a Post-Pandemic World (en)</cell>
@@ -140,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/571afec9</cell>
   </row>
-  <row index="7">
+  <row index="33">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
@@ -160,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3a3f688</cell>
   </row>
-  <row index="8">
+  <row index="34">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
@@ -180,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a24e659b</cell>
   </row>
-  <row index="9">
+  <row index="35">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b8d974db-en</cell>
     <cell name="title">OECD Economic Surveys: Mexico 2024 (en)</cell>
@@ -200,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06245a25</cell>
   </row>
-  <row index="10">
+  <row index="36">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b8d974db-en</cell>
     <cell name="title">OECD Economic Surveys: Mexico 2024 (en)</cell>
@@ -220,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ddfaa79</cell>
   </row>
-  <row index="11">
+  <row index="37">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/82f72c0e-en</cell>
     <cell name="title">The Role of Guidelines in Fostering Competition Policy in Tunisia (en)</cell>
@@ -240,7 +760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/000985a5</cell>
   </row>
-  <row index="12">
+  <row index="38">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/dfb1156d-fr</cell>
     <cell name="title">Le rôle des lignes directrices dans la promotion de la politique de concurrence en Tunisie (fr)</cell>
@@ -260,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7b0118c</cell>
   </row>
-  <row index="13">
+  <row index="39">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/795451e5-en</cell>
     <cell name="title">OECD Economic Surveys: Hungary 2024 (en)</cell>
@@ -280,7 +800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54f77c07</cell>
   </row>
-  <row index="14">
+  <row index="40">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/795451e5-en</cell>
     <cell name="title">OECD Economic Surveys: Hungary 2024 (en)</cell>
@@ -300,7 +820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd547026</cell>
   </row>
-  <row index="15">
+  <row index="41">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2a282726-en</cell>
     <cell name="title">OECD Artificial Intelligence Country Review of Egypt (en)</cell>
@@ -320,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5035181</cell>
   </row>
-  <row index="16">
+  <row index="42">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/2a282726-en</cell>
     <cell name="title">OECD Artificial Intelligence Country Review of Egypt (en)</cell>
@@ -340,7 +860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f3e559e1</cell>
   </row>
-  <row index="17">
+  <row index="43">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/83258053-fr</cell>
     <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
@@ -360,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bb6228ba</cell>
   </row>
-  <row index="18">
+  <row index="44">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/83258053-fr</cell>
     <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
@@ -380,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57b76f9a</cell>
   </row>
-  <row index="19">
+  <row index="45">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -400,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3561223</cell>
   </row>
-  <row index="20">
+  <row index="46">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -420,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8578b75c</cell>
   </row>
-  <row index="21">
+  <row index="47">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/83258053-fr</cell>
     <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
@@ -440,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/944fa06f</cell>
   </row>
-  <row index="22">
+  <row index="48">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -460,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/418b08fa</cell>
   </row>
-  <row index="23">
+  <row index="49">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/83258053-fr</cell>
     <cell name="title">Tendances de l’OCDE sur la concurrence 2024 (version abrégée) (fr)</cell>
@@ -480,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89efaebd</cell>
   </row>
-  <row index="24">
+  <row index="50">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -500,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cb91a3d7</cell>
   </row>
-  <row index="25">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/e69018f9-en</cell>
     <cell name="title">OECD Competition Trends 2024 (en)</cell>
@@ -520,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c318b17</cell>
   </row>
-  <row index="26">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5bc65d36-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
@@ -540,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22d9b2a5</cell>
   </row>
-  <row index="27">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/5bc65d36-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Chile 2024 (en)</cell>
@@ -560,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e6f8139</cell>
   </row>
-  <row index="28">
+  <row index="54">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/294ce081-en</cell>
     <cell name="title">Towards Greener and More Inclusive Societies in Southeast Asia (en)</cell>
@@ -580,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ff0cbf57</cell>
   </row>
-  <row index="29">
+  <row index="55">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/106b32c4-en</cell>
     <cell name="title">OECD Economic Surveys: Romania 2024 (en)</cell>
@@ -600,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5b5c767</cell>
   </row>
-  <row index="30">
+  <row index="56">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/106b32c4-en</cell>
     <cell name="title">OECD Economic Surveys: Romania 2024 (en)</cell>
@@ -620,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20d24ad9</cell>
   </row>
-  <row index="31">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -640,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f30a3bae</cell>
   </row>
-  <row index="32">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
@@ -660,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a1a5d5b</cell>
   </row>
-  <row index="33">
+  <row index="59">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -680,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a6103cb</cell>
   </row>
-  <row index="34">
+  <row index="60">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -700,7 +1220,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279c9e27</cell>
   </row>
-  <row index="35">
+  <row index="61">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/36cebf8e-en</cell>
+    <cell name="title">Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 6 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/952b6f80</cell>
+  </row>
+  <row index="62">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/36cebf8e-en</cell>
+    <cell name="title">Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS: Action 6 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e2c779b</cell>
+  </row>
+  <row index="63">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -720,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="36">
+  <row index="64">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>

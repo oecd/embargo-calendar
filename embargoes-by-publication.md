@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 February 2024 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Services Trade Restrictiveness Index - Policy Trends up to 2024](https://doi.org/10.1787/b9e5c870-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 February 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 12 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Wednesday 14 February 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
@@ -81,17 +58,40 @@ Monday 19 February 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 9 February 2024 at 22:46
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 9 February 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 14 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Sécuriser les chaînes d’approvisionnement en produits médicaux après la pandémie](https://doi.org/10.1787/3bb1b2f7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 February 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -411,6 +411,29 @@ Monday 18 March 2024 at 13:15 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/36cebf8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
