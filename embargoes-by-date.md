@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 February 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 15 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 February 2024](#16-february-2024)
 * [19 February 2024](#19-february-2024)
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
@@ -18,56 +17,6 @@ Data generated on | |
 * [18 March 2024](#18-march-2024)
 * [20 March 2024](#20-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 16 February 2024
-
-## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 16 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -93,6 +42,52 @@ Monday 19 February 2024 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 February 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -131,18 +126,18 @@ Friday 23 February 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 15 February 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 

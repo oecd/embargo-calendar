@@ -2,13 +2,36 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 February 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 15 February 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 February 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 14 February 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 16 February 2024 at 10:00 | no launch event
+Monday 19 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -31,7 +54,7 @@ Friday 16 February 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 16 February 2024 at 10:00 | no launch event
+Monday 19 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -47,29 +70,6 @@ Friday 16 February 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 February 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -104,18 +104,18 @@ Friday 23 February 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 15 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 15 February 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
