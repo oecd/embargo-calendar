@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-02-15T23:10:57.2225268+01:00">
+<report name="official-embargoes" generated="2024-02-16T23:09:03.6335339+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -569,7 +569,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-02-19</cell>
-    <cell name="embargo date">2024-02-19T10:00:00Z</cell>
+    <cell name="embargo date">2024-02-19T14:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -589,7 +589,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-02-19</cell>
-    <cell name="embargo date">2024-02-19T10:00:00Z</cell>
+    <cell name="embargo date">2024-02-19T14:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -964,7 +964,7 @@
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -984,7 +984,7 @@
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/af900de2-en</cell>
     <cell name="title">OECD Economic Surveys: Egypt 2024 (en)</cell>
-    <cell name="subtitle">Economic Assessment (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
@@ -1017,7 +1017,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06245a25</cell>
   </row>
   <row index="51">
@@ -1462,6 +1462,26 @@
   </row>
   <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/0f191dcb-es</cell>
+    <cell name="title">Panorama de las Administraciones Públicas: América Latina y el Caribe 2024 (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-13T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84c96306</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4abdba16-en</cell>
     <cell name="title">Government at a Glance: Latin America and the Caribbean 2024 (en)</cell>
     <cell name="subtitle"/>
@@ -1480,7 +1500,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a1a5d5b</cell>
   </row>
-  <row index="74">
+  <row index="75">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/0f191dcb-es</cell>
+    <cell name="title">Panorama de las Administraciones Públicas: América Latina y el Caribe 2024 (es)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Spanish</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-03-13T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ea65b28</cell>
+  </row>
+  <row index="76">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3a6103cb</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/7fc15e1c-en</cell>
     <cell name="title">SIGI 2024 Regional Report for Southeast Asia (en)</cell>
@@ -1520,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/279c9e27</cell>
   </row>
-  <row index="76">
+  <row index="78">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/36cebf8e-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping (en)</cell>
@@ -1540,7 +1580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/952b6f80</cell>
   </row>
-  <row index="77">
+  <row index="79">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/36cebf8e-en</cell>
     <cell name="title">Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping (en)</cell>
@@ -1560,7 +1600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e2c779b</cell>
   </row>
-  <row index="78">
+  <row index="80">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1580,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="79">
+  <row index="81">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>

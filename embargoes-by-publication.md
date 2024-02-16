@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 February 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 16 February 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
 
@@ -31,7 +31,7 @@ Monday 19 February 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 February 2024 at 10:00 | no launch event
+Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
@@ -54,7 +54,7 @@ Monday 19 February 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 19 February 2024 at 10:00 | no launch event
+Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
@@ -119,7 +119,7 @@ Friday 23 February 2024 at 8:30 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Egypt 2024 - Economic Assessment](https://doi.org/10.1787/af900de2-en)
+## [OECD Economic Surveys: Egypt 2024](https://doi.org/10.1787/af900de2-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -150,7 +150,7 @@ Tuesday 27 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -368,6 +368,29 @@ Tuesday 12 March 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Panorama de las Administraciones Públicas: América Latina y el Caribe 2024](https://doi.org/10.1787/0f191dcb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 March 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
