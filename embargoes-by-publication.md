@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 February 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 18 February 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
 
@@ -15,7 +15,7 @@ Monday 19 February 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 14 February 2024 at 22:27
+- [x] Exported to OECD.org Sunday 18 February 2024 at 22:27
 
 ### Additional Information
 
