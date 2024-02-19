@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 February 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 February 2024 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 February 2024](#19-february-2024)
 * [23 February 2024](#23-february-2024)
@@ -15,6 +15,7 @@ Data generated on | |
 * [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
 * [18 March 2024](#18-march-2024)
+* [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
 * [19 June 2024](#19-june-2024)
 
@@ -31,9 +32,9 @@ Monday 19 February 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 February 2024 at 22:27
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
@@ -53,16 +54,16 @@ Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -76,16 +77,16 @@ Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -492,6 +493,33 @@ Monday 18 March 2024 at 13:15 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 March 2024
+
+## [PISA Vocational Education and Training (VET) - Assessment and Analytical Framework](https://doi.org/10.1787/b0d5aaf9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 February 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 19 February 2024 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
 
@@ -13,9 +13,9 @@ Monday 19 February 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 14 February 2024 at 22:52
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 18 February 2024 at 22:27
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
@@ -35,16 +35,16 @@ Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -58,16 +58,16 @@ Monday 19 February 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -434,6 +434,29 @@ Monday 18 March 2024 at 13:15 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [PISA Vocational Education and Training (VET) - Assessment and Analytical Framework](https://doi.org/10.1787/b0d5aaf9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
