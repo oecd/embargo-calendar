@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 20 February 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 21 February 2024 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 February 2024](#19-february-2024)
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
@@ -21,103 +20,7 @@ Data generated on | |
 
 ------
 
-# 19 February 2024
-
-## [Addressing Inequality in Budgeting - Lessons from Recent Country Experience](https://doi.org/10.1787/ea80d61d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 February 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Pillar One - Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/21ea168b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 February 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Pilier Un - Montant B - Cadre Inclusif sur le BEPS](https://doi.org/10.1787/2a736abb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 February 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 19 February 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 19 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 23 February 2024
-
-## [Sécuriser les chaînes d’approvisionnement en produits médicaux après la pandémie](https://doi.org/10.1787/3bb1b2f7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 February 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ## [Securing Medical Supply Chains in a Post-Pandemic World](https://doi.org/10.1787/119c59d9-en)
 
@@ -128,7 +31,7 @@ Friday 23 February 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 15 February 2024 at 22:49
+- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 15 February 2024 at 22:25
 
@@ -150,7 +53,7 @@ Friday 23 February 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -204,10 +107,10 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 20 February 2024 at 22:52
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 20 February 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 21 February 2024 at 22:29
 
 ### Additional Information
 
@@ -227,7 +130,7 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -350,20 +253,20 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 7 March 2024 at 8:00 | no launch event
+Thursday 7 March 2024 at 12:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 21 February 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -423,7 +326,7 @@ Tuesday 12 March 2024 at 10:00 | no launch event
 
 ------
 
-## [Études économiques de l'OCDE : Roumanie 2024](https://doi.org/10.1787/9eebcd25-fr)
+## [Études économiques de l'OCDE : Roumanie 2024 (version abrégée)](https://doi.org/10.1787/9eebcd25-fr)
 
 Embargo date | Launch date
 -------------|:------------:
