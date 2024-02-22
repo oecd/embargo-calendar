@@ -2,14 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 February 2024 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 February 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
 * [5 March 2024](#5-march-2024)
 * [6 March 2024](#6-march-2024)
-* [7 March 2024](#7-march-2024)
 * [11 March 2024](#11-march-2024)
 * [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
@@ -33,7 +32,7 @@ Friday 23 February 2024 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 15 February 2024 at 22:25
+- [x] Exported to OECD.org Thursday 22 February 2024 at 22:29
 
 ### Additional Information
 
@@ -247,33 +246,6 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 ------
 
-# 7 March 2024
-
-## [OECD Environmental Performance Reviews: Chile 2024](https://doi.org/10.1787/5bc65d36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 March 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 February 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 11 March 2024
 
 ## [Towards Greener and More Inclusive Societies in Southeast Asia](https://doi.org/10.1787/294ce081-en)
@@ -456,6 +428,29 @@ Tuesday 19 March 2024 at 10:00 | no launch event
 ------
 
 # 20 March 2024
+
+## [Prévention de l’utilisation abusive des conventions fiscales – Sixième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6](https://doi.org/10.1787/0cf5a79a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 20 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/36cebf8e-en)
 
