@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 February 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 23 February 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Securing Medical Supply Chains in a Post-Pandemic World](https://doi.org/10.1787/119c59d9-en)
 
@@ -13,9 +13,9 @@ Friday 23 February 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
+- [x] Exported to iLibrary Friday 23 February 2024 at 9:20
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 22 February 2024 at 22:29
+- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
 
 ### Additional Information
 
@@ -36,15 +36,15 @@ Friday 23 February 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 23 February 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
