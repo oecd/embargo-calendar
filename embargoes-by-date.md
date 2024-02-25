@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 February 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 25 February 2024 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 February 2024](#23-february-2024)
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
 * [5 March 2024](#5-march-2024)
@@ -16,56 +15,6 @@ Data generated on | |
 * [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 23 February 2024
-
-## [Securing Medical Supply Chains in a Post-Pandemic World](https://doi.org/10.1787/119c59d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 February 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2024 at 9:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Egypt 2024](https://doi.org/10.1787/af900de2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 

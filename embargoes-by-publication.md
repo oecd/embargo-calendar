@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 February 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Securing Medical Supply Chains in a Post-Pandemic World](https://doi.org/10.1787/119c59d9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 February 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2024 at 9:20
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Egypt 2024](https://doi.org/10.1787/af900de2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 February 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 23 February 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 23 February 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 25 February 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
 
