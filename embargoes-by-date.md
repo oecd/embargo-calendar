@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 February 2024 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 26 February 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
+* [4 March 2024](#4-march-2024)
 * [5 March 2024](#5-march-2024)
 * [6 March 2024](#6-march-2024)
 * [11 March 2024](#11-march-2024)
@@ -24,7 +25,7 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 February 2024 at 10:00 | no launch event
+Tuesday 27 February 2024 at 17:00 | no launch event
 
 ### Status Information
 
@@ -95,13 +96,13 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 
 ------
 
-# 5 March 2024
+# 4 March 2024
 
-## [OECD Economic Surveys: Hungary 2024](https://doi.org/10.1787/795451e5-en)
+## [Les faits sans le faux : Lutter contre la désinformation, renforcer l’intégrité de l’information](https://doi.org/10.1787/4078bb32-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 5 March 2024 at 9:00 | no launch event
+Monday 4 March 2024 at 13:00 | no launch event
 
 ### Status Information
 
@@ -112,13 +113,40 @@ Tuesday 5 March 2024 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Economic survey*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
+
+## [Facts not Fakes: Tackling Disinformation, Strengthening Information Integrity](https://doi.org/10.1787/d909ff7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 March 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 5 March 2024
 
 ## [OECD Artificial Intelligence Country Review of Egypt](https://doi.org/10.1787/2a282726-en)
 
@@ -190,6 +218,29 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Economic Surveys: Hungary 2024](https://doi.org/10.1787/795451e5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
