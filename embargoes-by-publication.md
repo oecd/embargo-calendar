@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 February 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 27 February 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
 
@@ -13,15 +13,15 @@ Tuesday 27 February 2024 at 17:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -36,15 +36,15 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 21 February 2024 at 22:51
+- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 21 February 2024 at 22:29
+- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -59,15 +59,15 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -211,11 +211,11 @@ Wednesday 6 March 2024 at 9:00 | no launch event
 
 ------
 
-## [Towards Greener and More Inclusive Societies in Southeast Asia](https://doi.org/10.1787/294ce081-en)
+## [Global Debt Report 2024 - Bond Markets in a High-debt Environment](https://doi.org/10.1787/91844ea2-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 11 March 2024 at 9:00 | no launch event
+Thursday 7 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -226,9 +226,55 @@ Monday 11 March 2024 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Chile 2024](https://doi.org/10.1787/5bc65d36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 March 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Towards Greener and More Inclusive Societies in Southeast Asia](https://doi.org/10.1787/294ce081-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -414,6 +460,29 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version](https://doi.org/10.1787/69a0c310-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
 * Formats: *Paperback, PDF*
 
 ------
