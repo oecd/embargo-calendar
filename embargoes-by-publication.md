@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 February 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 28 February 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
 
@@ -38,7 +38,7 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
 
 ### Additional Information
 
@@ -69,6 +69,29 @@ Wednesday 28 February 2024 at 7:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Performance-Informed Budgeting in Flanders, Belgium](https://doi.org/10.1787/425a9e96-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 March 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -265,18 +288,18 @@ Monday 11 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -460,6 +483,29 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Anti-Corruption and Integrity Outlook 2024](https://doi.org/10.1787/968587cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 March 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
