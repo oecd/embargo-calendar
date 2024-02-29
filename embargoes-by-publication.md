@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 February 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 February 2024 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 29 February 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Role of Guidelines in Fostering Competition Policy in Tunisia](https://doi.org/10.1787/82f72c0e-en)
 
@@ -82,17 +59,17 @@ Monday 4 March 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
+- [x] Exported to iLibrary Thursday 29 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
+- [x] Exported to OECD.org Thursday 29 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -215,7 +192,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 6 March 2024 at 9:00 | no launch event
+Wednesday 6 March 2024 at 8:30 | no launch event
 
 ### Status Information
 
@@ -395,6 +372,52 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Switzerland 2024](https://doi.org/10.1787/070d119b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Slovak Republic 2024](https://doi.org/10.1787/397ca086-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [SIGI 2024 Regional Report for Southeast Asia - Time to Care](https://doi.org/10.1787/7fc15e1c-en)
 
 Embargo date | Launch date
@@ -504,6 +527,29 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l'OCDE sur la lutte contre la corruption et l'intégrité 2024](https://doi.org/10.1787/2755ec0c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 March 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*

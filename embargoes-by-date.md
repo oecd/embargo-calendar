@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 28 February 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 29 February 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 February 2024](#27-february-2024)
 * [28 February 2024](#28-february-2024)
 * [4 March 2024](#4-march-2024)
 * [5 March 2024](#5-march-2024)
@@ -13,39 +12,13 @@ Data generated on | |
 * [11 March 2024](#11-march-2024)
 * [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
+* [14 March 2024](#14-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
 * [26 March 2024](#26-march-2024)
 * [2 May 2024](#2-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 27 February 2024
-
-## [OECD Economic Surveys: Mexico 2024](https://doi.org/10.1787/b8d974db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 27 February 2024 at 17:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -110,17 +83,17 @@ Monday 4 March 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
+- [x] Exported to iLibrary Thursday 29 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
+- [x] Exported to OECD.org Thursday 29 February 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -251,7 +224,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 6 March 2024 at 9:00 | no launch event
+Wednesday 6 March 2024 at 8:30 | no launch event
 
 ### Status Information
 
@@ -449,7 +422,57 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 
 ------
 
+# 14 March 2024
+
+## [OECD Economic Surveys: Switzerland 2024](https://doi.org/10.1787/070d119b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 18 March 2024
+
+## [OECD Economic Surveys: Slovak Republic 2024](https://doi.org/10.1787/397ca086-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [SIGI 2024 Regional Report for Southeast Asia - Time to Care](https://doi.org/10.1787/7fc15e1c-en)
 
@@ -572,6 +595,29 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l'OCDE sur la lutte contre la corruption et l'intégrité 2024](https://doi.org/10.1787/2755ec0c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 March 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
