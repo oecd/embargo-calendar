@@ -2,73 +2,25 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 February 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 1 March 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 February 2024](#28-february-2024)
 * [4 March 2024](#4-march-2024)
 * [5 March 2024](#5-march-2024)
 * [6 March 2024](#6-march-2024)
 * [7 March 2024](#7-march-2024)
+* [8 March 2024](#8-march-2024)
 * [11 March 2024](#11-march-2024)
 * [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
 * [14 March 2024](#14-march-2024)
+* [15 March 2024](#15-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
 * [26 March 2024](#26-march-2024)
+* [4 April 2024](#4-april-2024)
 * [2 May 2024](#2-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 28 February 2024
-
-## [The Role of Guidelines in Fostering Competition Policy in Tunisia](https://doi.org/10.1787/82f72c0e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 February 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Le rôle des lignes directrices dans la promotion de la politique de concurrence en Tunisie](https://doi.org/10.1787/dfb1156d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 28 February 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -106,15 +58,15 @@ Monday 4 March 2024 at 13:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -128,18 +80,18 @@ Monday 4 March 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -147,26 +99,26 @@ Monday 4 March 2024 at 13:00 | no launch event
 
 # 5 March 2024
 
-## [OECD Artificial Intelligence Country Review of Egypt](https://doi.org/10.1787/2a282726-en)
+## [Πολιτισμός και τοπική ανάπτυξη - EΝΑΣ ΟΔΗΓΟΣ ΓΙΑ ΤΟΥΣ ΦΟΡΕΙΣ ΤΗΣ ΤΟΠΙΚΗΣΑΥΤΟΔΙΟΙΚΗΣΗΣ, ΤΙΣ ΚΟΙΝOΤΗΤΕΣ ΚΑΙ ΤΑ ΜΟΥΣΕIΑ](https://doi.org/10.1787/ef748efe-el)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 5 March 2024 at 23:00 | no launch event
+Tuesday 5 March 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *Greek*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -228,7 +180,7 @@ Wednesday 6 March 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -290,6 +242,33 @@ Thursday 7 March 2024 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 8 March 2024
+
+## [Voices in Europe - Experiences, Hopes and Aspirations of Forcibly Displaced Persons from Ukraine](https://doi.org/10.1787/ae33637c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -443,6 +422,33 @@ Thursday 14 March 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 March 2024
+
+## [Implementing the OECD Anti-Bribery Convention in Luxembourg - Phase 4 Report](https://doi.org/10.1787/c328b3e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -620,6 +626,33 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 April 2024
+
+## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 4 April 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
