@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 3 March 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Performance-Informed Budgeting in Flanders, Belgium](https://doi.org/10.1787/425a9e96-en)
 
@@ -15,7 +15,7 @@ Monday 4 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 29 February 2024 at 22:27
+- [x] Exported to OECD.org Sunday 3 March 2024 at 22:26
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 4 March 2024 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 1 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
+- [x] Exported to OECD.org Sunday 3 March 2024 at 22:26
 
 ### Additional Information
 
