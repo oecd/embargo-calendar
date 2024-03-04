@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 March 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 4 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Performance-Informed Budgeting in Flanders, Belgium](https://doi.org/10.1787/425a9e96-en)
 
@@ -15,7 +15,7 @@ Monday 4 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 29 February 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 March 2024 at 22:26
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
@@ -35,18 +35,18 @@ Monday 4 March 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -59,9 +59,9 @@ Monday 4 March 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
+- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 3 March 2024 at 22:26
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
@@ -82,9 +82,9 @@ Tuesday 5 March 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 1 March 2024 at 22:54
+- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 1 March 2024 at 22:29
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 February 2024 at 22:28
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
@@ -173,7 +173,7 @@ Thursday 7 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -184,7 +184,7 @@ Thursday 7 March 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -199,7 +199,7 @@ Thursday 7 March 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 27 February 2024 at 22:26
+- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
 
 ### Additional Information
 
@@ -422,7 +422,7 @@ Monday 18 March 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 18 March 2024 at 13:15 | no launch event
+Monday 18 March 2024 at 16:00 | no launch event
 
 ### Status Information
 
@@ -572,6 +572,52 @@ Thursday 4 April 2024 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Together for Children and Young People in Ireland - Towards a New Governance Framework](https://doi.org/10.1787/12f4dfb2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 12 April 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
