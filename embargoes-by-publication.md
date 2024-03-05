@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Performance-Informed Budgeting in Flanders, Belgium](https://doi.org/10.1787/425a9e96-en)
 
@@ -84,7 +84,7 @@ Tuesday 5 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 4 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
+- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 13 February 2024 at 22:28
+- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
+- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
 
 ### Additional Information
 
@@ -174,15 +174,15 @@ Thursday 7 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 5 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -208,6 +208,29 @@ Thursday 7 March 2024 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [A profile of an evaluation and assessment agency - Saudi Arabia’s Education and Training Evaluation Commission (ETEC)](https://doi.org/10.1787/318266a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 8 March 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -299,7 +322,7 @@ Tuesday 12 March 2024 at 12:45 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -552,6 +575,190 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Bulgaria 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/62fefba0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Romania 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/a01f0330-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Armenia 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/688ccd9d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2024 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/8145f488-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Kenya 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/348052b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Egypt 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f71584b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Georgia 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/40424254-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Cameroon 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/495bcba9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
