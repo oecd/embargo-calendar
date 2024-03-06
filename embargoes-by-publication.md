@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Performance-Informed Budgeting in Flanders, Belgium](https://doi.org/10.1787/425a9e96-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 March 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 February 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Les faits sans le faux : Lutter contre la désinformation, renforcer l’intégrité de l’information](https://doi.org/10.1787/4078bb32-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 March 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Facts not Fakes: Tackling Disinformation, Strengthening Information Integrity](https://doi.org/10.1787/d909ff7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 March 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 6 March 2024 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Πολιτισμός και τοπική ανάπτυξη - EΝΑΣ ΟΔΗΓΟΣ ΓΙΑ ΤΟΥΣ ΦΟΡΕΙΣ ΤΗΣ ΤΟΠΙΚΗΣΑΥΤΟΔΙΟΙΚΗΣΗΣ, ΤΙΣ ΚΟΙΝOΤΗΤΕΣ ΚΑΙ ΤΑ ΜΟΥΣΕIΑ](https://doi.org/10.1787/ef748efe-el)
 
@@ -107,7 +38,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
 
 ### Additional Information
 
@@ -130,7 +61,7 @@ Wednesday 6 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
 
 ### Additional Information
 
@@ -151,21 +82,21 @@ Wednesday 6 March 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
 
-## [Global Debt Report 2024 - Bond Markets in a High-debt Environment](https://doi.org/10.1787/91844ea2-en)
+## [Global Debt Report 2024 - Bond Markets in a High-Debt Environment](https://doi.org/10.1787/91844ea2-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -174,9 +105,9 @@ Thursday 7 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 March 2024 at 22:57
+- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
 
 ### Additional Information
 
@@ -199,7 +130,7 @@ Thursday 7 March 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 4 March 2024 at 22:29
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
 
 ### Additional Information
 
@@ -242,7 +173,30 @@ Friday 8 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [An integrated approach to service delivery for people with multiple and complex needs](https://doi.org/10.1787/d837a06a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -251,8 +205,8 @@ Friday 8 March 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -642,6 +596,29 @@ Thursday 28 March 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Cameroun 2024 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/09ffaf2e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 28 March 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
