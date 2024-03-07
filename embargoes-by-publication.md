@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 March 2024 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Πολιτισμός και τοπική ανάπτυξη - EΝΑΣ ΟΔΗΓΟΣ ΓΙΑ ΤΟΥΣ ΦΟΡΕΙΣ ΤΗΣ ΤΟΠΙΚΗΣΑΥΤΟΔΙΟΙΚΗΣΗΣ, ΤΙΣ ΚΟΙΝOΤΗΤΕΣ ΚΑΙ ΤΑ ΜΟΥΣΕIΑ](https://doi.org/10.1787/ef748efe-el)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 March 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 5 March 2024 at 22:32
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *Greek*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 7 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tendances de l’OCDE sur la concurrence 2024 (version abrégée)](https://doi.org/10.1787/83258053-fr)
 
@@ -105,9 +82,9 @@ Thursday 7 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
+- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
 
 ### Additional Information
 
@@ -130,7 +107,7 @@ Thursday 7 March 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
 
 ### Additional Information
 
@@ -176,7 +153,7 @@ Friday 8 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
 
 ### Additional Information
 
@@ -185,6 +162,29 @@ Friday 8 March 2024 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Promoting Better Career Choices for Longer Working Lives - Stepping Up Not Stepping Out](https://doi.org/10.1787/1ef9a0d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -197,9 +197,9 @@ Monday 11 March 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
 
 ### Additional Information
 
@@ -312,15 +312,15 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -368,7 +368,7 @@ Friday 15 March 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -802,6 +802,29 @@ Friday 12 April 2024 at 11:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Taxing Wages 2024 - Tax and Gender through the Lens of the Second Earner](https://doi.org/10.1787/dbcbac85-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
