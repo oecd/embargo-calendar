@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 7 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tendances de l’OCDE sur la concurrence 2024 (version abrégée)](https://doi.org/10.1787/83258053-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 March 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [OECD Competition Trends 2024](https://doi.org/10.1787/e69018f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 March 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 13 February 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Hungary 2024](https://doi.org/10.1787/795451e5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 6 March 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 6 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Friday 8 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Debt Report 2024 - Bond Markets in a High-Debt Environment](https://doi.org/10.1787/91844ea2-en)
 
@@ -119,7 +50,7 @@ Thursday 7 March 2024 at 12:00 | no launch event
 
 ------
 
-## [A profile of an evaluation and assessment agency - Saudi Arabia’s Education and Training Evaluation Commission (ETEC)](https://doi.org/10.1787/318266a4-en)
+## [A profile of an evaluation and assessment agency: Saudi Arabia’s Education and Training Evaluation Commission (ETEC)](https://doi.org/10.1787/318266a4-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -128,9 +59,9 @@ Friday 8 March 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
 
 ### Additional Information
 
@@ -153,7 +84,7 @@ Friday 8 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
 
 ### Additional Information
 
@@ -197,9 +128,32 @@ Monday 11 March 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
+- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Gender equality and economic growth - Past progress and future potential](https://doi.org/10.1787/fb0a0a93-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 March 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
 
 ### Additional Information
 
@@ -242,7 +196,7 @@ Tuesday 12 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -254,29 +208,6 @@ Tuesday 12 March 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l'OCDE : Roumanie 2024 (version abrégée)](https://doi.org/10.1787/9eebcd25-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2024 at 12:45 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
