@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 March 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 10 March 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 March 2024](#7-march-2024)
-* [8 March 2024](#8-march-2024)
 * [11 March 2024](#11-march-2024)
 * [12 March 2024](#12-march-2024)
 * [13 March 2024](#13-march-2024)
@@ -25,106 +23,6 @@ Data generated on | |
 
 ------
 
-# 7 March 2024
-
-## [Global Debt Report 2024 - Bond Markets in a High-Debt Environment](https://doi.org/10.1787/91844ea2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Environmental Performance Reviews: Chile 2024](https://doi.org/10.1787/5bc65d36-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 March 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 27 February 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 8 March 2024
-
-## [A profile of an evaluation and assessment agency: Saudi Arabia’s Education and Training Evaluation Commission (ETEC)](https://doi.org/10.1787/318266a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 March 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Voices in Europe - Experiences, Hopes and Aspirations of Forcibly Displaced Persons from Ukraine](https://doi.org/10.1787/ae33637c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 8 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 11 March 2024
 
 ## [Promoting Better Career Choices for Longer Working Lives - Stepping Up Not Stepping Out](https://doi.org/10.1787/1ef9a0d0-en)
@@ -138,7 +36,7 @@ Monday 11 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
 
 ### Additional Information
 
@@ -161,7 +59,7 @@ Monday 11 March 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
 
 ### Additional Information
 
@@ -184,7 +82,7 @@ Monday 11 March 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 8 March 2024 at 22:31
+- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
 
 ### Additional Information
 
@@ -207,7 +105,7 @@ Monday 11 March 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 28 February 2024 at 22:31
+- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
 
 ### Additional Information
 
