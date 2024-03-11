@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 10 Mar 2024 23:11:42 GMT</pubDate>
+      <pubDate>Mon, 11 Mar 2024 23:15:10 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -26,7 +26,7 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Thursday, 7 March 2024, 22:57 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Sunday, 10 March 2024, 22:27 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Monday, 11 March 2024, 22:28 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
@@ -40,9 +40,9 @@
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Employment, Labour and Social Affairs</oe:directorate>
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
-         <oe:iLibraryExport>Friday, 8 March 2024, 22:54 (GMT)</oe:iLibraryExport>
+         <oe:iLibraryExport>Monday, 11 March 2024, 22:52 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Sunday, 10 March 2024, 22:27 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Monday, 11 March 2024, 22:28 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Paper</oe:catalogueType>
       </item>
       <item>
@@ -58,7 +58,7 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Friday, 8 March 2024, 22:54 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Sunday, 10 March 2024, 22:27 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Monday, 11 March 2024, 22:28 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Paper</oe:catalogueType>
       </item>
       <item>
@@ -74,7 +74,7 @@
          <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport>Wednesday, 28 February 2024, 22:55 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport>Sunday, 10 March 2024, 22:27 (GMT)</oe:oecdOrgExport>
+         <oe:oecdOrgExport>Monday, 11 March 2024, 22:28 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
@@ -126,7 +126,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/070d119b-en-d3e5635</guid>
+         <guid isPermaLink="false">10.1787/070d119b-en-d3e5687</guid>
          <pubDate>Thu, 14 Mar 2024 10:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Switzerland 2024</title>
          <link>https://doi.org/10.1787/070d119b-en</link>
@@ -135,6 +135,22 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/03597fee-fr-d3e5792</guid>
+         <pubDate>Thu, 14 Mar 2024 10:00:00 GMT</pubDate>
+         <title>Études économiques de l’OCDE : Suisse 2024</title>
+         <link>https://doi.org/10.1787/03597fee-fr</link>
+         <description>Études économiques de l’OCDE : Suisse 2024 by Economics Department has an embargo on Thursday 14 March 2024 at 10:00.</description>
+         <oe:embargoTime>Thu, 14 Mar 2024 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
@@ -142,7 +158,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c328b3e7-en-d3e5739</guid>
+         <guid isPermaLink="false">10.1787/c328b3e7-en-d3e5845</guid>
          <pubDate>Fri, 15 Mar 2024 10:00:00 GMT</pubDate>
          <title>Implementing the OECD Anti-Bribery Convention in Luxembourg - Phase 4 Report</title>
          <link>https://doi.org/10.1787/c328b3e7-en</link>
@@ -158,7 +174,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/397ca086-en-d3e5845</guid>
+         <guid isPermaLink="false">10.1787/397ca086-en-d3e5950</guid>
          <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Slovak Republic 2024</title>
          <link>https://doi.org/10.1787/397ca086-en</link>
@@ -174,7 +190,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7fc15e1c-en-d3e5950</guid>
+         <guid isPermaLink="false">10.1787/7fc15e1c-en-d3e9704</guid>
          <pubDate>Mon, 18 Mar 2024 17:00:00 GMT</pubDate>
          <title>SIGI 2024 Regional Report for Southeast Asia - Time to Care</title>
          <link>https://doi.org/10.1787/7fc15e1c-en</link>
@@ -183,14 +199,14 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Development Centre</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Monday, 11 March 2024, 22:52 (GMT)</oe:iLibraryExport>
          <oe:freePreviewExport/>
-         <oe:oecdOrgExport/>
+         <oe:oecdOrgExport>Monday, 11 March 2024, 22:28 (GMT)</oe:oecdOrgExport>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b0d5aaf9-en-d3e6055</guid>
+         <guid isPermaLink="false">10.1787/b0d5aaf9-en-d3e10195</guid>
          <pubDate>Tue, 19 Mar 2024 11:00:00 GMT</pubDate>
          <title>PISA Vocational Education and Training (VET) - Assessment and Analytical Framework</title>
          <link>https://doi.org/10.1787/b0d5aaf9-en</link>
@@ -206,7 +222,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0cf5a79a-fr-d3e6161</guid>
+         <guid isPermaLink="false">10.1787/0cf5a79a-fr-d3e10301</guid>
          <pubDate>Wed, 20 Mar 2024 11:00:00 GMT</pubDate>
          <title>Prévention de l’utilisation abusive des conventions fiscales – Sixième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6</title>
          <link>https://doi.org/10.1787/0cf5a79a-fr</link>
@@ -222,7 +238,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/36cebf8e-en-d3e6267</guid>
+         <guid isPermaLink="false">10.1787/36cebf8e-en-d3e10408</guid>
          <pubDate>Wed, 20 Mar 2024 11:00:00 GMT</pubDate>
          <title>Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6</title>
          <link>https://doi.org/10.1787/36cebf8e-en</link>
@@ -238,7 +254,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/968587cd-en-d3e6424</guid>
+         <guid isPermaLink="false">10.1787/968587cd-en-d3e10565</guid>
          <pubDate>Tue, 26 Mar 2024 09:30:00 GMT</pubDate>
          <title>Anti-Corruption and Integrity Outlook 2024</title>
          <link>https://doi.org/10.1787/968587cd-en</link>
@@ -254,7 +270,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2755ec0c-fr-d3e6477</guid>
+         <guid isPermaLink="false">10.1787/2755ec0c-fr-d3e10617</guid>
          <pubDate>Tue, 26 Mar 2024 09:30:00 GMT</pubDate>
          <title>Perspectives de l'OCDE sur la lutte contre la corruption et l'intégrité 2024</title>
          <link>https://doi.org/10.1787/2755ec0c-fr</link>
@@ -270,7 +286,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/62fefba0-en-d3e6529</guid>
+         <guid isPermaLink="false">10.1787/62fefba0-en-d3e10669</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Bulgaria 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/62fefba0-en</link>
@@ -286,7 +302,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a01f0330-en-d3e6688</guid>
+         <guid isPermaLink="false">10.1787/a01f0330-en-d3e10829</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Romania 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/a01f0330-en</link>
@@ -302,7 +318,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/688ccd9d-en-d3e6795</guid>
+         <guid isPermaLink="false">10.1787/688ccd9d-en-d3e10935</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Armenia 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/688ccd9d-en</link>
@@ -318,7 +334,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/09ffaf2e-fr-d3e6848</guid>
+         <guid isPermaLink="false">10.1787/09ffaf2e-fr-d3e10988</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Cameroun 2024 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande</title>
          <link>https://doi.org/10.1787/09ffaf2e-fr</link>
@@ -334,7 +350,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8145f488-en-d3e6901</guid>
+         <guid isPermaLink="false">10.1787/8145f488-en-d3e11042</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Malta 2024 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/8145f488-en</link>
@@ -350,7 +366,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/348052b1-en-d3e6954</guid>
+         <guid isPermaLink="false">10.1787/348052b1-en-d3e11095</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Kenya 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/348052b1-en</link>
@@ -366,7 +382,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f71584b9-en-d3e7220</guid>
+         <guid isPermaLink="false">10.1787/f71584b9-en-d3e11361</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Egypt 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/f71584b9-en</link>
@@ -382,7 +398,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/40424254-en-d3e7379</guid>
+         <guid isPermaLink="false">10.1787/40424254-en-d3e11520</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Georgia 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/40424254-en</link>
@@ -398,7 +414,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/495bcba9-en-d3e7433</guid>
+         <guid isPermaLink="false">10.1787/495bcba9-en-d3e11573</guid>
          <pubDate>Thu, 28 Mar 2024 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Cameroon 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/495bcba9-en</link>
@@ -414,7 +430,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0c475a23-en-d3e7486</guid>
+         <guid isPermaLink="false">10.1787/0c475a23-en-d3e11626</guid>
          <pubDate>Thu, 04 Apr 2024 12:00:00 GMT</pubDate>
          <title>Illicit Trade in Fakes under the COVID-19</title>
          <link>https://doi.org/10.1787/0c475a23-en</link>
@@ -430,7 +446,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/12f4dfb2-en-d3e7590</guid>
+         <guid isPermaLink="false">10.1787/12f4dfb2-en-d3e11731</guid>
          <pubDate>Tue, 09 Apr 2024 09:00:00 GMT</pubDate>
          <title>Together for Children and Young People in Ireland - Towards a New Governance Framework</title>
          <link>https://doi.org/10.1787/12f4dfb2-en</link>
@@ -446,7 +462,39 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bd929b7d-en-d3e7694</guid>
+         <guid isPermaLink="false">10.1787/a74a45b0-en-d3e11835</guid>
+         <pubDate>Tue, 09 Apr 2024 09:30:00 GMT</pubDate>
+         <title>Infrastructure for a Climate-Resilient Future</title>
+         <link>https://doi.org/10.1787/a74a45b0-en</link>
+         <description>Infrastructure for a Climate-Resilient Future by Directorate for Financial and Enterprise Affairs has an embargo on Tuesday 9 April 2024 at 9:30.</description>
+         <oe:embargoTime>Tue, 09 Apr 2024 09:30:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/54d26e88-en-d3e11993</guid>
+         <pubDate>Tue, 09 Apr 2024 10:00:00 GMT</pubDate>
+         <title>Compendium of Good Practices on Quality Infrastructure 2024 - Building Resilience to Natural Disasters</title>
+         <link>https://doi.org/10.1787/54d26e88-en</link>
+         <description>Compendium of Good Practices on Quality Infrastructure 2024 - Building Resilience to Natural Disasters by Development Centre has an embargo on Tuesday 9 April 2024 at 10:00.</description>
+         <oe:embargoTime>Tue, 09 Apr 2024 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Development Centre</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bd929b7d-en-d3e12046</guid>
          <pubDate>Fri, 12 Apr 2024 13:00:00 GMT</pubDate>
          <title>The Blue Economy in Cities and Regions - A Territorial Approach</title>
          <link>https://doi.org/10.1787/bd929b7d-en</link>
@@ -462,7 +510,39 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/dbcbac85-en-d3e7852</guid>
+         <guid isPermaLink="false">10.1787/108238e8-en-d3e12202</guid>
+         <pubDate>Thu, 18 Apr 2024 10:00:00 GMT</pubDate>
+         <title>OECD Environmental Performance Reviews: Slovak Republic 2024</title>
+         <link>https://doi.org/10.1787/108238e8-en</link>
+         <description>OECD Environmental Performance Reviews: Slovak Republic 2024 by Environment Directorate has an embargo on Thursday 18 April 2024 at 10:00.</description>
+         <oe:embargoTime>Thu, 18 Apr 2024 10:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Environment Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/69b1f129-en-d3e12254</guid>
+         <pubDate>Fri, 19 Apr 2024 09:00:00 GMT</pubDate>
+         <title>Steering from the Centre of Government in Times of Complexity - Compendium of Practices</title>
+         <link>https://doi.org/10.1787/69b1f129-en</link>
+         <description>Steering from the Centre of Government in Times of Complexity - Compendium of Practices by Directorate for Public Governance has an embargo on Friday 19 April 2024 at 9:00.</description>
+         <oe:embargoTime>Fri, 19 Apr 2024 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/dbcbac85-en-d3e12414</guid>
          <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
          <title>Taxing Wages 2024 - Tax and Gender through the Lens of the Second Earner</title>
          <link>https://doi.org/10.1787/dbcbac85-en</link>
@@ -478,7 +558,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/69a0c310-en-d3e7958</guid>
+         <guid isPermaLink="false">10.1787/69a0c310-en-d3e12520</guid>
          <pubDate>Thu, 02 May 2024 09:00:00 GMT</pubDate>
          <title>OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version</title>
          <link>https://doi.org/10.1787/69a0c310-en</link>
@@ -494,7 +574,7 @@
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a9b71040-en-d3e8011</guid>
+         <guid isPermaLink="false">10.1787/a9b71040-en-d3e12573</guid>
          <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
          <title>Start-up Asia - Chasing the Innovation Frontier</title>
          <link>https://doi.org/10.1787/a9b71040-en</link>

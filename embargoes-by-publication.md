@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 March 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 11 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Promoting Better Career Choices for Longer Working Lives - Stepping Up Not Stepping Out](https://doi.org/10.1787/1ef9a0d0-en)
 
@@ -15,7 +15,7 @@ Monday 11 March 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
+- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Monday 11 March 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
+- [x] Exported to iLibrary Monday 11 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
+- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 11 March 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 8 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
+- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 11 March 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 10 March 2024 at 22:27
+- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
 
 ### Additional Information
 
@@ -173,7 +173,7 @@ Thursday 14 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,6 +182,29 @@ Thursday 14 March 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Suisse 2024](https://doi.org/10.1787/03597fee-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
@@ -242,18 +265,18 @@ Monday 18 March 2024 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 11 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -625,6 +648,52 @@ Tuesday 9 April 2024 at 7:00 | no launch event
 
 ------
 
+## [Infrastructure for a Climate-Resilient Future](https://doi.org/10.1787/a74a45b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 April 2024 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Compendium of Good Practices on Quality Infrastructure 2024 - Building Resilience to Natural Disasters](https://doi.org/10.1787/54d26e88-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
 
 Embargo date | Launch date
@@ -644,6 +713,52 @@ Friday 12 April 2024 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Slovak Republic 2024](https://doi.org/10.1787/108238e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Steering from the Centre of Government in Times of Complexity - Compendium of Practices](https://doi.org/10.1787/69b1f129-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
