@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 12 March 2024 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Promoting Better Career Choices for Longer Working Lives - Stepping Up Not Stepping Out](https://doi.org/10.1787/1ef9a0d0-en)
 
@@ -105,15 +105,15 @@ Tuesday 12 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -127,18 +127,18 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -150,18 +150,18 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 7 March 2024 at 22:34
+- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -234,7 +234,7 @@ Friday 15 March 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Slovak Republic 2024](https://doi.org/10.1787/397ca086-en)
+## [Études économiques de l'OCDE : République slovaque 2024 (version abrégée)](https://doi.org/10.1787/0d793d0d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -243,6 +243,29 @@ Monday 18 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Slovak Republic 2024](https://doi.org/10.1787/397ca086-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
