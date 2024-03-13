@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 March 2024 at 23:30* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Promoting Better Career Choices for Longer Working Lives - Stepping Up Not Stepping Out](https://doi.org/10.1787/1ef9a0d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 March 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 March 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [An integrated approach to service delivery for people with multiple and complex needs](https://doi.org/10.1787/d837a06a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 March 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Gender equality and economic growth - Past progress and future potential](https://doi.org/10.1787/fb0a0a93-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 March 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 March 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Towards Greener and More Inclusive Societies in Southeast Asia](https://doi.org/10.1787/294ce081-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 February 2024 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 13 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Romania 2024](https://doi.org/10.1787/106b32c4-en)
 
@@ -130,7 +38,7 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
 
 ### Additional Information
 
@@ -153,7 +61,7 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
 
 ### Additional Information
 
@@ -161,6 +69,29 @@ Wednesday 13 March 2024 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Global Corporate Sustainability Report 2024](https://doi.org/10.1787/8416b635-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 March 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
@@ -196,7 +127,7 @@ Thursday 14 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -219,16 +150,39 @@ Friday 15 March 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Mise en œuvre de la Convention de l'OCDE sur la lutte contre la corruption par le Luxembourg - Rapport de Phase 4](https://doi.org/10.1787/3df3cde6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 March 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -335,15 +289,15 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -358,15 +312,15 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
