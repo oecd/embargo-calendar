@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Romania 2024](https://doi.org/10.1787/106b32c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 12 March 2024 at 22:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Thursday 14 March 2024 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Panorama de las Administraciones Públicas: América Latina y el Caribe 2024](https://doi.org/10.1787/0f191dcb-es)
 
@@ -82,9 +59,9 @@ Thursday 14 March 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [x] Exported to iLibrary Thursday 14 March 2024 at 8:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
@@ -105,15 +82,15 @@ Thursday 14 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -128,15 +105,15 @@ Thursday 14 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -151,9 +128,9 @@ Friday 15 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
@@ -174,9 +151,9 @@ Friday 15 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [x] Exported to iLibrary Thursday 14 March 2024 at 17:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
@@ -265,18 +242,18 @@ Tuesday 19 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
