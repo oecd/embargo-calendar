@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 March 2024 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 15 March 2024 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 March 2024](#13-march-2024)
 * [14 March 2024](#14-march-2024)
 * [15 March 2024](#15-march-2024)
 * [18 March 2024](#18-march-2024)
@@ -20,56 +19,6 @@ Data generated on | |
 * [23 April 2024](#23-april-2024)
 * [2 May 2024](#2-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 13 March 2024
-
-## [Panorama de las Administraciones Públicas: América Latina y el Caribe 2024](https://doi.org/10.1787/0f191dcb-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 March 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Government at a Glance: Latin America and the Caribbean 2024](https://doi.org/10.1787/4abdba16-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 March 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 March 2024 at 23:01
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -157,9 +106,9 @@ Friday 15 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
+- [x] Exported to iLibrary Friday 15 March 2024 at 10:23
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
+- [x] Exported to OECD.org Friday 15 March 2024 at 22:27
 
 ### Additional Information
 
@@ -180,9 +129,9 @@ Friday 15 March 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 17:23
+- [x] Exported to iLibrary Friday 15 March 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
+- [x] Exported to OECD.org Friday 15 March 2024 at 22:27
 
 ### Additional Information
 
@@ -789,6 +738,29 @@ Friday 19 April 2024 at 7:00 | no launch event
 ------
 
 # 23 April 2024
+
+## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Taxing Wages 2024 - Tax and Gender through the Lens of the Second Earner](https://doi.org/10.1787/dbcbac85-en)
 
