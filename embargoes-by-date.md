@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 March 2024 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 17 March 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 March 2024](#14-march-2024)
-* [15 March 2024](#15-march-2024)
 * [18 March 2024](#18-march-2024)
 * [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
@@ -19,129 +17,6 @@ Data generated on | |
 * [23 April 2024](#23-april-2024)
 * [2 May 2024](#2-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 14 March 2024
-
-## [Global Corporate Sustainability Report 2024](https://doi.org/10.1787/8416b635-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 8:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Switzerland 2024](https://doi.org/10.1787/070d119b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l’OCDE : Suisse 2024](https://doi.org/10.1787/03597fee-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 15 March 2024
-
-## [Implementing the OECD Anti-Bribery Convention in Luxembourg - Phase 4 Report](https://doi.org/10.1787/c328b3e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 March 2024 at 10:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Mise en œuvre de la Convention de l'OCDE sur la lutte contre la corruption par le Luxembourg - Rapport de Phase 4](https://doi.org/10.1787/3df3cde6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 March 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 15 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -204,7 +79,7 @@ Monday 18 March 2024 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 11 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 11 March 2024 at 22:28
+- [x] Exported to OECD.org Sunday 17 March 2024 at 22:28
 
 ### Additional Information
 
