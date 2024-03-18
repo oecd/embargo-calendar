@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 March 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 18 March 2024 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 March 2024](#18-march-2024)
 * [19 March 2024](#19-march-2024)
@@ -49,22 +49,22 @@ Monday 18 March 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 18 March 2024 at 9:00 | no launch event
+Monday 18 March 2024 at 12:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -77,9 +77,9 @@ Monday 18 March 2024 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 11 March 2024 at 22:52
+- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 17 March 2024 at 22:28
+- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
 ### Additional Information
 
@@ -106,7 +106,7 @@ Tuesday 19 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 14 March 2024 at 22:38
+- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
 ### Additional Information
 
@@ -130,18 +130,18 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -153,18 +153,18 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 13 March 2024 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 13 March 2024 at 22:26
+- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
