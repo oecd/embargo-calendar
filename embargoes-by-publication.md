@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 March 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : République slovaque 2024 (version abrégée)](https://doi.org/10.1787/0d793d0d-fr)
 
@@ -59,7 +59,7 @@ Monday 18 March 2024 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
+- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 18 March 2024 at 22:30
 
@@ -82,9 +82,9 @@ Tuesday 19 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 March 2024 at 22:57
+- [x] Exported to iLibrary Tuesday 19 March 2024 at 9:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
+- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
+- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
+- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
+- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
+- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
 
 ### Additional Information
 
