@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 19 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Études économiques de l'OCDE : République slovaque 2024 (version abrégée)](https://doi.org/10.1787/0d793d0d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Slovak Republic 2024](https://doi.org/10.1787/397ca086-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 18 March 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [SIGI 2024 Regional Report for Southeast Asia - Time to Care](https://doi.org/10.1787/7fc15e1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 March 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 18 March 2024 at 22:30
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Wednesday 20 March 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [PISA Vocational Education and Training (VET) - Assessment and Analytical Framework](https://doi.org/10.1787/b0d5aaf9-en)
 
@@ -84,7 +15,7 @@ Tuesday 19 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 19 March 2024 at 9:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
 
 ### Additional Information
 
@@ -105,9 +36,9 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
+- [x] Exported to iLibrary Wednesday 20 March 2024 at 11:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
 
 ### Additional Information
 
@@ -128,9 +59,9 @@ Wednesday 20 March 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 March 2024 at 22:55
+- [x] Exported to iLibrary Wednesday 20 March 2024 at 11:25
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 19 March 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
 
 ### Additional Information
 
@@ -598,6 +529,29 @@ Tuesday 23 April 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Social and Emotional Skills for Better Lives - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/35ca7b7c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
