@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 March 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [PISA Vocational Education and Training (VET) - Assessment and Analytical Framework](https://doi.org/10.1787/b0d5aaf9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 March 2024 at 9:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 21 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Prévention de l’utilisation abusive des conventions fiscales – Sixième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6](https://doi.org/10.1787/0cf5a79a-fr)
 
@@ -326,6 +303,29 @@ Thursday 28 March 2024 at 10:00 | no launch event
 
 ------
 
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
 
 Embargo date | Launch date
@@ -334,7 +334,7 @@ Thursday 4 April 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org

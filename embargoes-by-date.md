@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 March 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 21 March 2024 at 23:20* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [19 March 2024](#19-march-2024)
 * [20 March 2024](#20-march-2024)
 * [26 March 2024](#26-march-2024)
 * [28 March 2024](#28-march-2024)
+* [2 April 2024](#2-april-2024)
 * [4 April 2024](#4-april-2024)
 * [9 April 2024](#9-april-2024)
 * [12 April 2024](#12-april-2024)
@@ -17,33 +17,6 @@ Data generated on | |
 * [26 April 2024](#26-april-2024)
 * [2 May 2024](#2-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 19 March 2024
-
-## [PISA Vocational Education and Training (VET) - Assessment and Analytical Framework](https://doi.org/10.1787/b0d5aaf9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 March 2024 at 9:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -358,6 +331,33 @@ Thursday 28 March 2024 at 10:00 | no launch event
 
 ------
 
+# 2 April 2024
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 4 April 2024
 
 ## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
@@ -368,7 +368,7 @@ Thursday 4 April 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
