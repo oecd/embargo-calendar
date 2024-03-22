@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 March 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Prévention de l’utilisation abusive des conventions fiscales – Sixième rapport d’examen par les pairs sur le chalandage fiscal - Cadre inclusif sur le BEPS : Action 6](https://doi.org/10.1787/0cf5a79a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 March 2024 at 11:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Prevention of Tax Treaty Abuse – Sixth Peer Review Report on Treaty Shopping - Inclusive Framework on BEPS: Action 6](https://doi.org/10.1787/36cebf8e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 20 March 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 March 2024 at 11:25
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 20 March 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 22 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anti-Corruption and Integrity Outlook 2024](https://doi.org/10.1787/968587cd-en)
 
@@ -335,17 +289,17 @@ Thursday 4 April 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 22 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 22 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -483,6 +437,29 @@ Friday 19 April 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------

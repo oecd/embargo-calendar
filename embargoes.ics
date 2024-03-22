@@ -2,104 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/0cf5a79a-frd3e8437
-SUMMARY:[Book] Prévention de l’utilisation abusi
- ve des conventions fiscales – Sixième ra
- pport d’examen par les pairs sur le chal
- andage fiscal - Cadre inclusif sur le BE
- PS : Action 6
-DESCRIPTION:*[Book] Prévention de l’utilisation abus
- ive des conventions fiscales – Sixième r
- apport d’examen par les pairs sur le cha
- landage fiscal - Cadre inclusif sur le B
- EPS : Action 6*\n\nDirectorate: Centre f
- or Tax Policy and Administration\nLangua
- ge: French\nDOI: https://doi.org/10.1787
- /0cf5a79a-fr\nPublication type: Book\nRe
- leased as: ePub, HTML, Paperback, PDF, Z
- XML\n\nEmbargo date/time: Wednesday, 20 
- March 2024, 10:00 (GMT)\n\n\niLibrary ex
- port: Wednesday, 20 March 2024, 10:25 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: Wednesday, 20 March 2024, 21:27
-  (GMT)\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:20, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=0cf5a79a-fr.
-DTSTAMP:20240321T232017Z
-DTSTART:20240320T100000Z
-DTEND:20240320T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Prévention de l’utilisa
- tion abusive des conventions fiscales – 
- Sixième rapport d’examen par les pairs s
- ur le chalandage fiscal - Cadre inclusif
-  sur le BEPS : Action 6
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/36cebf8e-end3e13527
-SUMMARY:[Book] Prevention of Tax Treaty Abuse – 
- Sixth Peer Review Report on Treaty Shopp
- ing - Inclusive Framework on BEPS: Actio
- n 6
-DESCRIPTION:*[Book] Prevention of Tax Treaty Abuse –
-  Sixth Peer Review Report on Treaty Shop
- ping - Inclusive Framework on BEPS: Acti
- on 6*\n\nDirectorate: Centre for Tax Pol
- icy and Administration\nLanguage: Englis
- h\nDOI: https://doi.org/10.1787/36cebf8e
- -en\nPublication type: Book\nReleased as
- : ePub, HTML, Paperback, PDF, ZXML\n\nEm
- bargo date/time: Wednesday, 20 March 202
- 4, 10:00 (GMT)\n\n\niLibrary export: Wed
- nesday, 20 March 2024, 10:25 (GMT)\nFree
- preview export: never\nOECD.org export: 
- Wednesday, 20 March 2024, 21:27 (GMT)\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 23:20, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=36cebf8e-en.
-DTSTAMP:20240321T232017Z
-DTSTART:20240320T100000Z
-DTEND:20240320T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Prevention of Tax Treat
- y Abuse – Sixth Peer Review Report on Tr
- eaty Shopping - Inclusive Framework on B
- EPS: Action 6
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/968587cd-end3e29958
+UID:10.1787/968587cd-end3e167
 SUMMARY:[Stand-alone monograph] Anti-Corruption 
  and Integrity Outlook 2024
 DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
@@ -116,7 +19,7 @@ DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:20, it is updated each nigh
+ ernoon at 23:15, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -125,7 +28,7 @@ DESCRIPTION:*[Stand-alone monograph] Anti-Corruption
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=968587c
  d-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240326T083000Z
 DTEND:20240326T084500Z
 TRANSP:TRANSPARENT
@@ -139,7 +42,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Anti-C
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2755ec0c-frd3e30010
+UID:10.1787/2755ec0c-frd3e219
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l'OCDE sur la lutte contre la corruption
   et l'intégrité 2024
@@ -158,7 +61,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:20, it is updated each night; ther
+ at 23:15, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -166,7 +69,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=2755ec0c-fr.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240326T083000Z
 DTEND:20240326T084500Z
 TRANSP:TRANSPARENT
@@ -181,7 +84,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/62fefba0-end3e30062
+UID:10.1787/62fefba0-end3e272
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Bulgaria 2024 (Second Round) - Peer Re
@@ -203,7 +106,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:20, it i
+ rect as of this afternoon at 23:15, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -212,7 +115,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=62fefba0-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -229,7 +132,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a01f0330-end3e30222
+UID:10.1787/a01f0330-end3e431
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Romania 2024 (Second Round) - Peer Rev
@@ -251,7 +154,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:20, it is
+ ect as of this afternoon at 23:15, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -260,7 +163,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=a01f0330-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -277,7 +180,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/688ccd9d-end3e30328
+UID:10.1787/688ccd9d-end3e537
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Armenia 2024 (Second Round, Phase 1) -
@@ -300,7 +203,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 20, it is updated each night; therefore 
+ 15, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -308,7 +211,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=688ccd9d-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -325,7 +228,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09ffaf2e-frd3e30381
+UID:10.1787/09ffaf2e-frd3e591
 SUMMARY:[Book] Forum mondial sur la transparence
   et l’échange de renseignements à des fi
  ns fiscales : Cameroun 2024 (Deuxième cy
@@ -349,7 +252,7 @@ DESCRIPTION:*[Book] Forum mondial sur la transparenc
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:20, it is updated eac
+ is afternoon at 23:15, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -358,7 +261,7 @@ DESCRIPTION:*[Book] Forum mondial sur la transparenc
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  9ffaf2e-fr.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -376,7 +279,7 @@ DESCRIPTION:Reminder: [Book] Forum mondial sur la tr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8145f488-end3e30434
+UID:10.1787/8145f488-end3e644
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Malta 2024 (Second Round, Supplementar
@@ -399,7 +302,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:20, it is updated each night;
+ noon at 23:15, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -408,7 +311,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=8145f488-
  en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -426,7 +329,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/348052b1-end3e30488
+UID:10.1787/348052b1-end3e697
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Kenya 2024 (Second Round, Combined Rev
@@ -449,7 +352,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 23:20, it is updated each night; ther
+ at 23:15, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -457,7 +360,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=348052b1-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -474,7 +377,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f71584b9-end3e30753
+UID:10.1787/f71584b9-end3e963
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Egypt 2024 (Second Round) - Peer Revie
@@ -496,7 +399,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:20, it is u
+ t as of this afternoon at 23:15, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -505,7 +408,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=f71584b9-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -522,7 +425,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/40424254-end3e30913
+UID:10.1787/40424254-end3e1122
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Georgia 2024 (Second Round) - Peer Rev
@@ -544,7 +447,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:20, it is
+ ect as of this afternoon at 23:15, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -553,7 +456,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=40424254-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -570,7 +473,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/495bcba9-end3e30966
+UID:10.1787/495bcba9-end3e1175
 SUMMARY:[Book] Global Forum on Transparency and 
  Exchange of Information for Tax Purposes
  : Cameroon 2024 (Second Round) - Peer Re
@@ -592,7 +495,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:20, it i
+ rect as of this afternoon at 23:15, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -601,7 +504,7 @@ DESCRIPTION:*[Book] Global Forum on Transparency and
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=495bcba9-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240328T100000Z
 DTEND:20240328T101500Z
 TRANSP:TRANSPARENT
@@ -618,7 +521,7 @@ DESCRIPTION:Reminder: [Book] Global Forum on Transpa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b849f926-end3e31019
+UID:10.1787/b849f926-end3e1229
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Commentar
  y to the Global Anti-Base Erosion Model 
@@ -640,7 +543,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:20, it is u
+ t as of this afternoon at 23:15, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -649,7 +552,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=b849f926-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240402T090000Z
 DTEND:20240402T091500Z
 TRANSP:TRANSPARENT
@@ -666,7 +569,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0c475a23-end3e31126
+UID:10.1787/0c475a23-end3e1390
 SUMMARY:[Book] Illicit Trade in Fakes under the 
  COVID-19
 DESCRIPTION:*[Book] Illicit Trade in Fakes under the
@@ -674,24 +577,26 @@ DESCRIPTION:*[Book] Illicit Trade in Fakes under the
  iculture Directorate\nLanguage: English\
  nDOI: https://doi.org/10.1787/0c475a23-e
  n\nPublication type: Book\nReleased as: 
- Paperback, PDF\n\nEmbargo date/time: Thu
- rsday, 4 April 2024, 10:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:20, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=0
- c475a23-en.
-DTSTAMP:20240321T232017Z
+ ePub, HTML, Paperback, PDF, ZXML\n\nEmba
+ rgo date/time: Thursday, 4 April 2024, 1
+ 0:00 (GMT)\n\n\niLibrary export: Friday,
+  22 March 2024, 21:52 (GMT)\nFreepreview
+  export: never\nOECD.org export: Friday,
+  22 March 2024, 21:26 (GMT)\nFTI loaded:
+  ✓\n\nFor more information see: https://
+ oecd.github.io/embargo-calendar/embargoe
+ s-by-publication.html.\n\nPlease note: T
+ his information was correct as of this a
+ fternoon at 23:15, it is updated each ni
+ ght; therefore any subsequent updates ma
+ y not yet be visible here. Also, please 
+ be aware that the different released med
+ ia (PDF, HTML, etc.) are not necessarily
+  released at the same time. For complete
+  and up-to-date information see here: ht
+ tp://kappa.oecd.org/v3/search?term=0c475
+ a23-en.
+DTSTAMP:20240322T231543Z
 DTSTART:20240404T100000Z
 DTEND:20240404T101500Z
 TRANSP:TRANSPARENT
@@ -705,7 +610,7 @@ DESCRIPTION:Reminder: [Book] Illicit Trade in Fakes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/12f4dfb2-end3e31551
+UID:10.1787/12f4dfb2-end3e2312
 SUMMARY:[Book] Together for Children and Young P
  eople in Ireland - Towards a New Governa
  nce Framework
@@ -723,7 +628,7 @@ DESCRIPTION:*[Book] Together for Children and Young
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:20, it is updated 
+  this afternoon at 23:15, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -732,7 +637,7 @@ DESCRIPTION:*[Book] Together for Children and Young
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=12f4dfb2-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240409T070000Z
 DTEND:20240409T071500Z
 TRANSP:TRANSPARENT
@@ -747,7 +652,7 @@ DESCRIPTION:Reminder: [Book] Together for Children a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a74a45b0-end3e31655
+UID:10.1787/a74a45b0-end3e2416
 SUMMARY:[Stand-alone monograph] Infrastructure f
  or a Climate-Resilient Future
 DESCRIPTION:*[Stand-alone monograph] Infrastructure 
@@ -764,7 +669,7 @@ DESCRIPTION:*[Stand-alone monograph] Infrastructure
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:20, it is 
+ ct as of this afternoon at 23:15, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -773,7 +678,7 @@ DESCRIPTION:*[Stand-alone monograph] Infrastructure
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=a74a45b0-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240409T073000Z
 DTEND:20240409T074500Z
 TRANSP:TRANSPARENT
@@ -787,7 +692,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Infras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/54d26e88-end3e31813
+UID:10.1787/54d26e88-end3e2574
 SUMMARY:[Stand-alone monograph] Compendium of Go
  od Practices on Quality Infrastructure 2
  024 - Building Resilience to Natural Dis
@@ -807,7 +712,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendium of G
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:20, it is updated each 
+  afternoon at 23:15, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -816,7 +721,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendium of G
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=54d
  26e88-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240409T080000Z
 DTEND:20240409T081500Z
 TRANSP:TRANSPARENT
@@ -832,7 +737,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd929b7d-end3e31866
+UID:10.1787/bd929b7d-end3e2627
 SUMMARY:[Book] The Blue Economy in Cities and Re
  gions - A Territorial Approach
 DESCRIPTION:*[Book] The Blue Economy in Cities and R
@@ -849,7 +754,7 @@ DESCRIPTION:*[Book] The Blue Economy in Cities and R
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:20, it is updated ea
+ his afternoon at 23:15, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -858,7 +763,7 @@ DESCRIPTION:*[Book] The Blue Economy in Cities and R
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  bd929b7d-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240412T110000Z
 DTEND:20240412T111500Z
 TRANSP:TRANSPARENT
@@ -872,7 +777,7 @@ DESCRIPTION:Reminder: [Book] The Blue Economy in Cit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/108238e8-end3e32024
+UID:10.1787/108238e8-end3e2785
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Slovak Republic 2024
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -888,7 +793,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:20, it is up
+  as of this afternoon at 23:15, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -897,7 +802,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=108238e8-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240418T080000Z
 DTEND:20240418T081500Z
 TRANSP:TRANSPARENT
@@ -911,7 +816,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69b1f129-end3e32077
+UID:10.1787/69b1f129-end3e2838
 SUMMARY:[Stand-alone monograph] Steering from th
  e Centre of Government in Times of Compl
  exity - Compendium of Practices
@@ -930,7 +835,7 @@ DESCRIPTION:*[Stand-alone monograph] Steering from t
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:20, it is updated each 
+  afternoon at 23:15, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -939,7 +844,7 @@ DESCRIPTION:*[Stand-alone monograph] Steering from t
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=69b
  1f129-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240419T070000Z
 DTEND:20240419T071500Z
 TRANSP:TRANSPARENT
@@ -955,7 +860,46 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Steeri
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd96e2ed-end3e32183
+UID:10.1787/a28c2090-frd3e2944
+SUMMARY:[Economic survey] Études économiques de 
+ l’OCDE : France 2024
+DESCRIPTION:*[Economic survey] Études économiques de
+  l’OCDE : France 2024*\n\nDirectorate: E
+ conomics Department\nLanguage: French\nD
+ OI: https://doi.org/10.1787/a28c2090-fr\
+ nPublication type: Economic survey\nRele
+ ased as: Paperback, PDF\n\nEmbargo date/
+ time: Tuesday, 23 April 2024, 8:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✗\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this afternoon at 23:15, it is upd
+ ated each night; therefore any subsequen
+ t updates may not yet be visible here. A
+ lso, please be aware that the different 
+ released media (PDF, HTML, etc.) are not
+  necessarily released at the same time. 
+ For complete and up-to-date information 
+ see here: http://kappa.oecd.org/v3/searc
+ h?term=a28c2090-fr.
+DTSTAMP:20240322T231543Z
+DTSTART:20240423T080000Z
+DTEND:20240423T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] Études écono
+ miques de l’OCDE : France 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bd96e2ed-end3e2996
 SUMMARY:[Economic survey] OECD Economic Surveys:
   France 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -971,7 +915,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:20, it is updated ea
+ his afternoon at 23:15, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -980,7 +924,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  bd96e2ed-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240423T080000Z
 DTEND:20240423T081500Z
 TRANSP:TRANSPARENT
@@ -994,7 +938,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dbcbac85-end3e32340
+UID:10.1787/dbcbac85-end3e3206
 SUMMARY:[Book] Taxing Wages 2024 - Tax and Gende
  r through the Lens of the Second Earner
 DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
@@ -1011,7 +955,7 @@ DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:20, it is updated each n
+ afternoon at 23:15, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -1020,7 +964,7 @@ DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=dbcb
  ac85-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240423T090000Z
 DTEND:20240423T091500Z
 TRANSP:TRANSPARENT
@@ -1035,7 +979,7 @@ DESCRIPTION:Reminder: [Book] Taxing Wages 2024 - Tax
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/35ca7b7c-end3e32447
+UID:10.1787/35ca7b7c-end3e3312
 SUMMARY:[Stand-alone monograph] Social and Emoti
  onal Skills for Better Lives - Findings 
  from the OECD Survey on Social and Emoti
@@ -1056,7 +1000,7 @@ DESCRIPTION:*[Stand-alone monograph] Social and Emot
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 23:20, it is updated each night; there
+ t 23:15, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1064,7 +1008,7 @@ DESCRIPTION:*[Stand-alone monograph] Social and Emot
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=35ca7b7c-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240426T090000Z
 DTEND:20240426T091500Z
 TRANSP:TRANSPARENT
@@ -1080,7 +1024,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Social
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69a0c310-end3e32553
+UID:10.1787/69a0c310-end3e3418
 SUMMARY:[Issue] OECD Economic Outlook, Volume 20
  24 Issue 1 - Preliminary version
 DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
@@ -1096,7 +1040,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:20, it is up
+  as of this afternoon at 23:15, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1105,7 +1049,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=69a0c310-en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240502T070000Z
 DTEND:20240502T071500Z
 TRANSP:TRANSPARENT
@@ -1120,7 +1064,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e32606
+UID:10.1787/a9b71040-end3e3472
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -1136,7 +1080,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:20, it is updated each night;
+ noon at 23:15, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1145,7 +1089,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240321T232017Z
+DTSTAMP:20240322T231543Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT
