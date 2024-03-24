@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 22 March 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 24 March 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anti-Corruption and Integrity Outlook 2024](https://doi.org/10.1787/968587cd-en)
 
