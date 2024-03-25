@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 March 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 25 March 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anti-Corruption and Integrity Outlook 2024](https://doi.org/10.1787/968587cd-en)
 
@@ -12,18 +12,18 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 March 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 25 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -35,18 +35,41 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 March 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 25 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Resource Guide on State Measures for Strengthening Business Integrity](https://doi.org/10.1787/c76d7513-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 March 2024 at 15:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 March 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 25 March 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
