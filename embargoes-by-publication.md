@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 March 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 27 March 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Anti-Corruption and Integrity Outlook 2024](https://doi.org/10.1787/968587cd-en)
 
@@ -15,7 +15,7 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 9:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Tuesday 26 March 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
+- [x] Exported to iLibrary Wednesday 27 March 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -81,16 +81,16 @@ Thursday 28 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -107,7 +107,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -127,16 +127,16 @@ Thursday 28 March 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 March 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -153,7 +153,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Thursday 28 March 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 26 March 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 26 March 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 27 March 2024 at 22:26
 
 ### Additional Information
 
@@ -426,7 +426,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -437,7 +437,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
