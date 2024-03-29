@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 March 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 March 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 March 2024](#28-march-2024)
 * [4 April 2024](#4-april-2024)
@@ -346,6 +346,29 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Des infrastructures pour un avenir résilient au changement climatique](https://doi.org/10.1787/464404b3-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 April 2024 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
