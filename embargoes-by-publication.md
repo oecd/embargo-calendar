@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 31 March 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 1 April 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
 
