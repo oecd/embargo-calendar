@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 April 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 2 April 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
 
@@ -81,7 +81,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,11 +92,11 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
-## [Des infrastructures pour un avenir résilient au changement climatique](https://doi.org/10.1787/464404b3-fr)
+## [Des infrastructures pour un avenir résilient face au changement climatique](https://doi.org/10.1787/464404b3-fr)
 
 Embargo date | Launch date
 -------------|:------------:

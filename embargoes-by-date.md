@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 April 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 2 April 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 April 2024](#4-april-2024)
 * [9 April 2024](#9-april-2024)
@@ -99,7 +99,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -110,11 +110,11 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
-## [Des infrastructures pour un avenir résilient au changement climatique](https://doi.org/10.1787/464404b3-fr)
+## [Des infrastructures pour un avenir résilient face au changement climatique](https://doi.org/10.1787/464404b3-fr)
 
 Embargo date | Launch date
 -------------|:------------:
