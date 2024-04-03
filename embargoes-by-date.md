@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 April 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 April 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 April 2024](#4-april-2024)
 * [9 April 2024](#9-april-2024)
+* [10 April 2024](#10-april-2024)
 * [12 April 2024](#12-april-2024)
 * [19 April 2024](#19-april-2024)
 * [23 April 2024](#23-april-2024)
@@ -18,29 +19,6 @@ Data generated on | |
 
 # 4 April 2024
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
 
 Embargo date | Launch date
@@ -52,7 +30,7 @@ Thursday 4 April 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 22 March 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 3 April 2024 at 22:24
 
 ### Additional Information
 
@@ -146,17 +124,44 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 3 April 2024 at 22:44
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 3 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 10 April 2024
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Development Centre*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
