@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 April 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 4 April 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
 
@@ -15,7 +15,7 @@ Thursday 4 April 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
 
 ### Additional Information
 
@@ -35,18 +35,18 @@ Tuesday 9 April 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -81,7 +81,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +92,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -104,18 +104,18 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 3 April 2024 at 22:44
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -296,6 +296,29 @@ Friday 26 April 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 1 May 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
