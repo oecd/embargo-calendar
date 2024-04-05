@@ -2,18 +2,19 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 April 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 April 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 April 2024](#4-april-2024)
 * [9 April 2024](#9-april-2024)
 * [10 April 2024](#10-april-2024)
 * [12 April 2024](#12-april-2024)
 * [19 April 2024](#19-april-2024)
+* [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
 * [25 April 2024](#25-april-2024)
 * [26 April 2024](#26-april-2024)
-* [1 May 2024](#1-may-2024)
 * [2 May 2024](#2-may-2024)
+* [3 May 2024](#3-may-2024)
 * [19 June 2024](#19-june-2024)
 
 ------
@@ -31,7 +32,7 @@ Thursday 4 April 2024 at 10:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 22 March 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
+- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
 
 ### Additional Information
 
@@ -79,15 +80,15 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -102,15 +103,15 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -216,6 +217,33 @@ Friday 19 April 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 April 2024
+
+## [Strengthening Transparency and Integrity of Foreign Influence Activities in France - A Tool for Combatting Foreign Interference Risks](https://doi.org/10.1787/438da77f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 April 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -349,33 +377,6 @@ Friday 26 April 2024 at 9:00 | no launch event
 
 ------
 
-# 1 May 2024
-
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 1 May 2024 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 2 May 2024
 
 ## [OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version](https://doi.org/10.1787/69a0c310-en)
@@ -397,6 +398,56 @@ Thursday 2 May 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 3 May 2024
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
