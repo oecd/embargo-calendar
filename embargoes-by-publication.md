@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 April 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 April 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 7 April 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Together for Children and Young People in Ireland - Towards a New Governance Framework](https://doi.org/10.1787/12f4dfb2-en)
 

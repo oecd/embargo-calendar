@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 April 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 7 April 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 April 2024](#4-april-2024)
 * [9 April 2024](#9-april-2024)
 * [10 April 2024](#10-april-2024)
 * [12 April 2024](#12-april-2024)
@@ -16,33 +15,6 @@ Data generated on | |
 * [2 May 2024](#2-may-2024)
 * [3 May 2024](#3-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 4 April 2024
-
-## [Illicit Trade in Fakes under the COVID-19](https://doi.org/10.1787/0c475a23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 4 April 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 March 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
