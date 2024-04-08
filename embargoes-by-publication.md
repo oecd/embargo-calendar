@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 April 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 8 April 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Together for Children and Young People in Ireland - Towards a New Governance Framework](https://doi.org/10.1787/12f4dfb2-en)
 
@@ -15,7 +15,7 @@ Tuesday 9 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
+- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 April 2024 at 22:25
+- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
 
 ### Additional Information
 
@@ -128,15 +128,15 @@ Friday 12 April 2024 at 11:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 April 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -192,7 +192,7 @@ Monday 22 April 2024 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 April 2024 at 8:00 | no launch event
+Tuesday 23 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -215,7 +215,7 @@ Tuesday 23 April 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 April 2024 at 8:00 | no launch event
+Tuesday 23 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -234,11 +234,11 @@ Tuesday 23 April 2024 at 8:00 | no launch event
 
 ------
 
-## [Les impôts sur les salaires 2024 (version abrégée) - La fiscalité et le genre sous l’angle du deuxième apporteur de revenu](https://doi.org/10.1787/bb9d7ef8-fr)
+## [OECD Economic Surveys: Latvia 2024](https://doi.org/10.1787/dfeae75b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 April 2024 at 9:00 | no launch event
+Thursday 25 April 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -249,11 +249,11 @@ Tuesday 23 April 2024 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -277,6 +277,29 @@ Thursday 25 April 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Les impôts sur les salaires 2024 (version abrégée) - La fiscalité et le genre sous l’angle du deuxième apporteur de revenu](https://doi.org/10.1787/bb9d7ef8-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
