@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 April 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 April 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Together for Children and Young People in Ireland - Towards a New Governance Framework](https://doi.org/10.1787/12f4dfb2-en)
 
@@ -15,7 +15,7 @@ Tuesday 9 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -96,11 +96,34 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 10 April 2024 at 9:00 | no launch event
+Friday 12 April 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -116,29 +139,6 @@ Wednesday 10 April 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 April 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 April 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 

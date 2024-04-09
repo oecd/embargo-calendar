@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 April 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 9 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2024](#9-april-2024)
-* [10 April 2024](#10-april-2024)
 * [12 April 2024](#12-april-2024)
+* [17 April 2024](#17-april-2024)
 * [19 April 2024](#19-april-2024)
 * [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
@@ -31,7 +31,7 @@ Tuesday 9 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -54,7 +54,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -77,7 +77,7 @@ Tuesday 9 April 2024 at 7:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -100,7 +100,7 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
@@ -109,33 +109,6 @@ Tuesday 9 April 2024 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 10 April 2024
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Commentary to the Global Anti-Base Erosion Model Rules (Pillar Two), Second Edition - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 10 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -151,18 +124,45 @@ Friday 12 April 2024 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 8 April 2024 at 22:46
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 17 April 2024
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
