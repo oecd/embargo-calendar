@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 10 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2024](#9-april-2024)
 * [12 April 2024](#12-april-2024)
 * [17 April 2024](#17-april-2024)
+* [18 April 2024](#18-april-2024)
 * [19 April 2024](#19-april-2024)
 * [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
@@ -14,6 +15,7 @@ Data generated on | |
 * [26 April 2024](#26-april-2024)
 * [2 May 2024](#2-may-2024)
 * [3 May 2024](#3-may-2024)
+* [7 May 2024](#7-may-2024)
 * [19 June 2024](#19-june-2024)
 
 ------
@@ -168,6 +170,33 @@ Wednesday 17 April 2024 at 9:00 | no launch event
 
 ------
 
+# 18 April 2024
+
+## [OECD Environmental Performance Reviews: Slovak Republic 2024](https://doi.org/10.1787/108238e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 10 April 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
 # 19 April 2024
 
 ## [Steering from the Centre of Government in Times of Complexity - Compendium of Practices](https://doi.org/10.1787/69b1f129-en)
@@ -178,18 +207,18 @@ Friday 19 April 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 April 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -443,6 +472,33 @@ Friday 3 May 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 7 May 2024
+
+## [Revenue Statistics in Latin America and the Caribbean 2024](https://doi.org/10.1787/33e226ae-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

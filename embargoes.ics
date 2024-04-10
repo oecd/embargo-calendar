@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/12f4dfb2-end3e551
+UID:10.1787/12f4dfb2-end3e556
 SUMMARY:[Book] Together for Children and Young P
  eople in Ireland - Towards a New Governa
  nce Framework
@@ -31,7 +31,7 @@ DESCRIPTION:*[Book] Together for Children and Young
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=1
  2f4dfb2-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240409T070000Z
 DTEND:20240409T071500Z
 TRANSP:TRANSPARENT
@@ -46,7 +46,7 @@ DESCRIPTION:Reminder: [Book] Together for Children a
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a74a45b0-end3e1748
+UID:10.1787/a74a45b0-end3e1766
 SUMMARY:[Stand-alone monograph] Infrastructure f
  or a Climate-Resilient Future
 DESCRIPTION:*[Stand-alone monograph] Infrastructure 
@@ -74,7 +74,7 @@ DESCRIPTION:*[Stand-alone monograph] Infrastructure
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=a74a45b0-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240409T073000Z
 DTEND:20240409T074500Z
 TRANSP:TRANSPARENT
@@ -88,7 +88,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Infras
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/464404b3-frd3e2669
+UID:10.1787/464404b3-frd3e2698
 SUMMARY:[Stand-alone monograph] Des infrastructu
  res pour un avenir résilient face au cha
  ngement climatique
@@ -118,7 +118,7 @@ DESCRIPTION:*[Stand-alone monograph] Des infrastruct
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=464404b
  3-fr.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240409T073000Z
 DTEND:20240409T074500Z
 TRANSP:TRANSPARENT
@@ -133,7 +133,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Des in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/54d26e88-end3e5004
+UID:10.1787/54d26e88-end3e5058
 SUMMARY:[Stand-alone monograph] Compendium of Go
  od Practices on Quality Infrastructure 2
  024 - Building Resilience to Natural Dis
@@ -164,7 +164,7 @@ DESCRIPTION:*[Stand-alone monograph] Compendium of G
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=54d26e
  88-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240409T080000Z
 DTEND:20240409T081500Z
 TRANSP:TRANSPARENT
@@ -180,7 +180,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Compen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd929b7d-end3e5602
+UID:10.1787/bd929b7d-end3e5712
 SUMMARY:[Book] The Blue Economy in Cities and Re
  gions - A Territorial Approach
 DESCRIPTION:*[Book] The Blue Economy in Cities and R
@@ -208,7 +208,7 @@ DESCRIPTION:*[Book] The Blue Economy in Cities and R
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=bd92
  9b7d-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240412T110000Z
 DTEND:20240412T111500Z
 TRANSP:TRANSPARENT
@@ -222,7 +222,7 @@ DESCRIPTION:Reminder: [Book] The Blue Economy in Cit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b849f926-end3e6366
+UID:10.1787/b849f926-end3e6476
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Consolida
  ted Commentary to the Global Anti-Base E
@@ -253,7 +253,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=b849f926-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240417T090000Z
 DTEND:20240417T091500Z
 TRANSP:TRANSPARENT
@@ -270,7 +270,47 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69b1f129-end3e6419
+UID:10.1787/108238e8-end3e6530
+SUMMARY:[Book] OECD Environmental Performance Re
+ views: Slovak Republic 2024
+DESCRIPTION:*[Book] OECD Environmental Performance R
+ eviews: Slovak Republic 2024*\n\nDirecto
+ rate: Environment Directorate\nLanguage:
+  English\nDOI: https://doi.org/10.1787/1
+ 08238e8-en\nPublication type: Book\nRele
+ ased as: PDF\n\nEmbargo date/time: Thurs
+ day, 18 April 2024, 8:00 (GMT)\n\n\niLib
+ rary export: Wednesday, 10 April 2024, 2
+ 0:49 (GMT)\nFreepreview export: never\nO
+ ECD.org export: Wednesday, 10 April 2024
+ , 20:25 (GMT)\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :10, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=108238e8-en.
+DTSTAMP:20240410T231038Z
+DTSTART:20240418T080000Z
+DTEND:20240418T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] OECD Environmental Perf
+ ormance Reviews: Slovak Republic 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/69b1f129-end3e7887
 SUMMARY:[Stand-alone monograph] Steering from th
  e Centre of Government in Times of Compl
  exity - Compendium of Practices
@@ -281,24 +321,26 @@ DESCRIPTION:*[Stand-alone monograph] Steering from t
  nce\nLanguage: English\nDOI: https://doi
  .org/10.1787/69b1f129-en\nPublication ty
  pe: Stand-alone monograph\nReleased as: 
- Paperback, PDF\n\nEmbargo date/time: Fri
- day, 19 April 2024, 7:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 23:10, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=69b
- 1f129-en.
-DTSTAMP:20240409T231049Z
+ ePub, HTML, Paperback, PDF, ZXML\n\nEmba
+ rgo date/time: Friday, 19 April 2024, 7:
+ 00 (GMT)\n\n\niLibrary export: Wednesday
+ , 10 April 2024, 20:49 (GMT)\nFreeprevie
+ w export: never\nOECD.org export: Wednes
+ day, 10 April 2024, 20:25 (GMT)\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 23:10, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=6
+ 9b1f129-en.
+DTSTAMP:20240410T231038Z
 DTSTART:20240419T070000Z
 DTEND:20240419T071500Z
 TRANSP:TRANSPARENT
@@ -314,7 +356,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Steeri
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/438da77f-end3e6526
+UID:10.1787/438da77f-end3e8162
 SUMMARY:[Book] Strengthening Transparency and In
  tegrity of Foreign Influence Activities 
  in France - A Tool for Combatting Foreig
@@ -343,7 +385,7 @@ DESCRIPTION:*[Book] Strengthening Transparency and I
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=438da77f-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240422T120000Z
 DTEND:20240422T121500Z
 TRANSP:TRANSPARENT
@@ -359,7 +401,7 @@ DESCRIPTION:Reminder: [Book] Strengthening Transpare
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a28c2090-frd3e6632
+UID:10.1787/a28c2090-frd3e8268
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : France 2024
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -384,7 +426,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a28c2090-fr.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240423T090000Z
 DTEND:20240423T091500Z
 TRANSP:TRANSPARENT
@@ -398,7 +440,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd96e2ed-end3e6684
+UID:10.1787/bd96e2ed-end3e8320
 SUMMARY:[Economic survey] OECD Economic Surveys:
   France 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -423,7 +465,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  bd96e2ed-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240423T090000Z
 DTEND:20240423T091500Z
 TRANSP:TRANSPARENT
@@ -437,7 +479,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dfeae75b-end3e6947
+UID:10.1787/dfeae75b-end3e8583
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Latvia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -462,7 +504,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =dfeae75b-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240425T080000Z
 DTEND:20240425T081500Z
 TRANSP:TRANSPARENT
@@ -476,7 +518,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dbcbac85-end3e7158
+UID:10.1787/dbcbac85-end3e8794
 SUMMARY:[Book] Taxing Wages 2024 - Tax and Gende
  r through the Lens of the Second Earner
 DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
@@ -502,7 +544,7 @@ DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=dbc
  bac85-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240425T090000Z
 DTEND:20240425T091500Z
 TRANSP:TRANSPARENT
@@ -517,7 +559,7 @@ DESCRIPTION:Reminder: [Book] Taxing Wages 2024 - Tax
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb9d7ef8-frd3e7211
+UID:10.1787/bb9d7ef8-frd3e8847
 SUMMARY:[Book] Les impôts sur les salaires 2024 
  (version abrégée) - La fiscalité et le g
  enre sous l’angle du deuxième apporteur 
@@ -546,7 +588,7 @@ DESCRIPTION:*[Book] Les impôts sur les salaires 2024
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=bb9d7ef8-fr.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240425T090000Z
 DTEND:20240425T091500Z
 TRANSP:TRANSPARENT
@@ -562,7 +604,7 @@ DESCRIPTION:Reminder: [Book] Les impôts sur les sala
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/35ca7b7c-end3e7317
+UID:10.1787/35ca7b7c-end3e8953
 SUMMARY:[Stand-alone monograph] Social and Emoti
  onal Skills for Better Lives - Findings 
  from the OECD Survey on Social and Emoti
@@ -591,7 +633,7 @@ DESCRIPTION:*[Stand-alone monograph] Social and Emot
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=35ca7b7c-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240426T090000Z
 DTEND:20240426T091500Z
 TRANSP:TRANSPARENT
@@ -607,7 +649,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Social
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69a0c310-end3e7424
+UID:10.1787/69a0c310-end3e9059
 SUMMARY:[Issue] OECD Economic Outlook, Volume 20
  24 Issue 1 - Preliminary version
 DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
@@ -632,7 +674,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=69a0c310-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240502T070000Z
 DTEND:20240502T071500Z
 TRANSP:TRANSPARENT
@@ -647,7 +689,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1689dc5-end3e7583
+UID:10.1787/a1689dc5-end3e9219
 SUMMARY:[Stand-alone monograph] OECD Digital Eco
  nomy Outlook 2024 (Volume 1) - Embracing
   the Technology Frontier
@@ -675,7 +717,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a1689dc5-en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240503T100000Z
 DTEND:20240503T101500Z
 TRANSP:TRANSPARENT
@@ -690,7 +732,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e34abd55-frd3e7636
+UID:10.1787/e34abd55-frd3e9272
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l’économie numérique de l’OCDE 2024 (Vol
  ume 1) - Cap sur la frontière technologi
@@ -719,7 +761,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=e34abd55-fr.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240503T100000Z
 DTEND:20240503T101500Z
 TRANSP:TRANSPARENT
@@ -735,7 +777,46 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e7689
+UID:10.1787/33e226ae-end3e9325
+SUMMARY:[Book] Revenue Statistics in Latin Ameri
+ ca and the Caribbean 2024
+DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
+ ica and the Caribbean 2024*\n\nDirectora
+ te: Centre for Tax Policy and Administra
+ tion\nLanguage: English\nDOI: https://do
+ i.org/10.1787/33e226ae-en\nPublication t
+ ype: Book\nReleased as: Paperback, PDF\n
+ \nEmbargo date/time: Tuesday, 7 May 2024
+ , 14:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✗\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 10, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=33e226ae-en.
+DTSTAMP:20240410T231038Z
+DTSTART:20240507T140000Z
+DTEND:20240507T141500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Revenue Statistics in L
+ atin America and the Caribbean 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a9b71040-end3e9430
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -760,7 +841,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240409T231049Z
+DTSTAMP:20240410T231038Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT
