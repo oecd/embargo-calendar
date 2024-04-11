@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 April 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 April 2024](#9-april-2024)
 * [12 April 2024](#12-april-2024)
 * [17 April 2024](#17-april-2024)
 * [18 April 2024](#18-april-2024)
@@ -17,102 +16,6 @@ Data generated on | |
 * [3 May 2024](#3-may-2024)
 * [7 May 2024](#7-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 9 April 2024
-
-## [Together for Children and Young People in Ireland - Towards a New Governance Framework](https://doi.org/10.1787/12f4dfb2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Infrastructure for a Climate-Resilient Future](https://doi.org/10.1787/a74a45b0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 April 2024 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Des infrastructures pour un avenir résilient face au changement climatique](https://doi.org/10.1787/464404b3-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 April 2024 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Compendium of Good Practices on Quality Infrastructure 2024 - Building Resilience to Natural Disasters](https://doi.org/10.1787/54d26e88-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 April 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -129,7 +32,7 @@ Friday 12 April 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 April 2024 at 22:27
+- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
 
 ### Additional Information
 
@@ -183,7 +86,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 April 2024 at 22:25
+- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
 
 ### Additional Information
 
@@ -191,7 +94,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -210,7 +113,7 @@ Friday 19 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 April 2024 at 22:25
+- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
 
 ### Additional Information
 
