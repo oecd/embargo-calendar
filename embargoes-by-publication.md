@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 11 April 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 12 April 2024 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
 
@@ -15,7 +15,30 @@ Friday 12 April 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
+- [x] Exported to OECD.org Friday 12 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Measure, Manage and Maximise Your Impact - A Guide for the Social Economy](https://doi.org/10.1787/2238c1f1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 15 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 12 April 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 12 April 2024 at 22:24
 
 ### Additional Information
 
@@ -82,7 +105,7 @@ Friday 19 April 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
+- [x] Exported to iLibrary Friday 12 April 2024 at 22:48
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
 
