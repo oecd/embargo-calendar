@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 12 April 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 14 April 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 April 2024](#12-april-2024)
 * [15 April 2024](#15-april-2024)
 * [17 April 2024](#17-april-2024)
 * [18 April 2024](#18-april-2024)
@@ -17,33 +16,6 @@ Data generated on | |
 * [3 May 2024](#3-may-2024)
 * [7 May 2024](#7-may-2024)
 * [19 June 2024](#19-june-2024)
-
-------
-
-# 12 April 2024
-
-## [The Blue Economy in Cities and Regions - A Territorial Approach](https://doi.org/10.1787/bd929b7d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 12 April 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -60,7 +32,7 @@ Monday 15 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 April 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 12 April 2024 at 22:24
+- [x] Exported to OECD.org Sunday 14 April 2024 at 22:23
 
 ### Additional Information
 
