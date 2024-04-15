@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 14 April 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 15 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 April 2024](#15-april-2024)
+* [16 April 2024](#16-april-2024)
 * [17 April 2024](#17-april-2024)
 * [18 April 2024](#18-april-2024)
 * [19 April 2024](#19-april-2024)
@@ -15,6 +16,7 @@ Data generated on | |
 * [2 May 2024](#2-may-2024)
 * [3 May 2024](#3-may-2024)
 * [7 May 2024](#7-may-2024)
+* [14 May 2024](#14-may-2024)
 * [19 June 2024](#19-june-2024)
 
 ------
@@ -32,7 +34,7 @@ Monday 15 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 April 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 14 April 2024 at 22:23
+- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
 
 ### Additional Information
 
@@ -46,7 +48,57 @@ Monday 15 April 2024 at 7:00 | no launch event
 
 ------
 
+# 16 April 2024
+
+## [The impact of Artificial Intelligence on productivity, distribution and growth - Key mechanisms, initial evidence and policy challenges](https://doi.org/10.1787/8d900037-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 17 April 2024
+
+## [Extended Producer Responsibility - Basic facts and key principles](https://doi.org/10.1787/67587b0b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
 
@@ -352,30 +404,7 @@ Friday 3 May 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -402,6 +431,33 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 May 2024
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
