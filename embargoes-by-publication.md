@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 April 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 16 April 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measure, Manage and Maximise Your Impact - A Guide for the Social Economy](https://doi.org/10.1787/2238c1f1-en)
 
@@ -36,9 +36,9 @@ Tuesday 16 April 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 April 2024 at 22:50
+- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Wednesday 17 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 15 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
 
 ### Additional Information
 
@@ -69,29 +69,6 @@ Wednesday 17 April 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -107,7 +84,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
 
 ### Additional Information
 
@@ -115,7 +92,30 @@ Thursday 18 April 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [OECD Agenda for Transformative Science, Technology and Innovation Policies](https://doi.org/10.1787/ba2aaf7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -139,6 +139,52 @@ Friday 19 April 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -303,6 +349,29 @@ Friday 26 April 2024 at 9:00 | no launch event
 
 ------
 
+## [Tax Inspectors Without Borders Annual Report 2024](https://doi.org/10.1787/8968125d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version](https://doi.org/10.1787/69a0c310-en)
 
 Embargo date | Launch date
@@ -395,6 +464,29 @@ Tuesday 14 May 2024 at 10:00 | no launch event
 
 ------
 
+## [What Does Child Empowerment Mean Today? - Implications for Education and Well-being](https://doi.org/10.1787/8f80ce38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 May 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Start-up Asia - Chasing the Innovation Frontier](https://doi.org/10.1787/a9b71040-en)
 
 Embargo date | Launch date
@@ -411,6 +503,29 @@ Wednesday 19 June 2024 at 22:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: Regional Profile](https://doi.org/10.1787/170b0e53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
