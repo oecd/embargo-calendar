@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 16 April 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 17 April 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 April 2024](#15-april-2024)
 * [16 April 2024](#16-april-2024)
 * [17 April 2024](#17-april-2024)
 * [18 April 2024](#18-april-2024)
 * [19 April 2024](#19-april-2024)
 * [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
+* [24 April 2024](#24-april-2024)
 * [25 April 2024](#25-april-2024)
 * [26 April 2024](#26-april-2024)
 * [29 April 2024](#29-april-2024)
@@ -21,33 +21,6 @@ Data generated on | |
 * [15 May 2024](#15-may-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 15 April 2024
-
-## [Measure, Manage and Maximise Your Impact - A Guide for the Social Economy](https://doi.org/10.1787/2238c1f1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 15 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 April 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -89,9 +62,9 @@ Wednesday 17 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 April 2024 at 22:50
+- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
 
 ### Additional Information
 
@@ -118,7 +91,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
 
 ### Additional Information
 
@@ -143,9 +116,9 @@ Friday 19 April 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
+- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
 
 ### Additional Information
 
@@ -180,52 +153,6 @@ Friday 19 April 2024 at 7:00 | no launch event
 
 ------
 
-## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ------
 
 # 22 April 2024
@@ -256,6 +183,29 @@ Monday 22 April 2024 at 12:00 | no launch event
 ------
 
 # 23 April 2024
+
+## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
 
@@ -300,6 +250,33 @@ Tuesday 23 April 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 24 April 2024
+
+## [Digital adoption during COVID-19 - Cross-country evidence from microdata](https://doi.org/10.1787/f63ca261-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -380,7 +357,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 
 # 26 April 2024
 
-## [Social and Emotional Skills for Better Lives - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/35ca7b7c-en)
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -395,9 +372,32 @@ Friday 26 April 2024 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Social and Emotional Skills for Better Lives - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/35ca7b7c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -505,6 +505,29 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estadísticas tributarias en América Latina y el Caribe 2024](https://doi.org/10.1787/ec57392c-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
