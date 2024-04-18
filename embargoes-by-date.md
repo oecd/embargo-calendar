@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 April 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 April 2024](#16-april-2024)
 * [17 April 2024](#17-april-2024)
 * [18 April 2024](#18-april-2024)
 * [19 April 2024](#19-april-2024)
@@ -19,35 +18,9 @@ Data generated on | |
 * [7 May 2024](#7-may-2024)
 * [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
+* [23 May 2024](#23-may-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 16 April 2024
-
-## [The impact of Artificial Intelligence on productivity, distribution and growth - Key mechanisms, initial evidence and policy challenges](https://doi.org/10.1787/8d900037-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 April 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 16 April 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -91,7 +64,7 @@ Thursday 18 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
 ### Additional Information
 
@@ -107,29 +80,6 @@ Thursday 18 April 2024 at 8:00 | no launch event
 
 # 19 April 2024
 
-## [OECD Agenda for Transformative Science, Technology and Innovation Policies](https://doi.org/10.1787/ba2aaf7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [Steering from the Centre of Government in Times of Complexity - Compendium of Practices](https://doi.org/10.1787/69b1f129-en)
 
 Embargo date | Launch date
@@ -141,7 +91,7 @@ Friday 19 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 April 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 April 2024 at 22:26
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
 ### Additional Information
 
@@ -184,6 +134,29 @@ Monday 22 April 2024 at 12:00 | no launch event
 
 # 23 April 2024
 
+## [OECD Agenda for Transformative Science, Technology and Innovation Policies](https://doi.org/10.1787/ba2aaf7b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 23 April 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
 
 Embargo date | Launch date
@@ -193,9 +166,9 @@ Tuesday 23 April 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
+- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
 ### Additional Information
 
@@ -316,15 +289,15 @@ Thursday 25 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -339,15 +312,15 @@ Thursday 25 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -433,6 +406,29 @@ Monday 29 April 2024 at 9:00 | no launch event
 ------
 
 # 2 May 2024
+
+## [Perspectives économiques de l'OCDE, Volume 2024 Numéro 1 - Version préliminaire](https://doi.org/10.1787/bd18c5ae-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version](https://doi.org/10.1787/69a0c310-en)
 
@@ -584,6 +580,33 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 May 2024
+
+## [Ownership and Governance of State-Owned Enterprises 2024 - A Compendium of National Practices](https://doi.org/10.1787/395c9956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
