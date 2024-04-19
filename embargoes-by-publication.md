@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 April 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Extended Producer Responsibility - Basic facts and key principles](https://doi.org/10.1787/67587b0b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 19 April 2024 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Environmental Performance Reviews: Slovak Republic 2024](https://doi.org/10.1787/108238e8-en)
 
@@ -61,7 +38,7 @@ Friday 19 April 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 12 April 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
+- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
 
 ### Additional Information
 
@@ -73,7 +50,7 @@ Friday 19 April 2024 at 7:00 | no launch event
 
 ------
 
-## [Strengthening Transparency and Integrity of Foreign Influence Activities in France - A Tool for Combatting Foreign Interference Risks](https://doi.org/10.1787/438da77f-en)
+## [Strengthening the Transparency and Integrity of Foreign Influence Activities in France - A Tool for Tackling Foreign Interference Risks](https://doi.org/10.1787/438da77f-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -81,18 +58,41 @@ Monday 22 April 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Renforcer la transparence et l’intégrité des activités d’influence étrangère en France - Un outil pour lutter contre les risques d’ingérences étrangères](https://doi.org/10.1787/d6e6e8e9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 April 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -105,7 +105,7 @@ Tuesday 23 April 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
@@ -242,8 +242,8 @@ Thursday 25 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
@@ -253,7 +253,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -265,8 +265,8 @@ Thursday 25 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
 
@@ -276,7 +276,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -312,7 +312,7 @@ Friday 26 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
+- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
 
@@ -323,6 +323,52 @@ Friday 26 April 2024 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Inspecteurs des impôts sans frontières – Rapport annuel 2024](https://doi.org/10.1787/a614997d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Inspectores fiscales sin fronteras - Informe anual 2024](https://doi.org/10.1787/6756fbdb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -395,29 +441,6 @@ Thursday 2 May 2024 at 7:00 | no launch event
 
 ------
 
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Revenue Statistics in Latin America and the Caribbean 2024](https://doi.org/10.1787/33e226ae-en)
 
 Embargo date | Launch date
@@ -461,6 +484,29 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -529,6 +575,75 @@ Thursday 23 May 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Environmental Justice - Context, Challenges and National Approaches](https://doi.org/10.1787/57616eb4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 May 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 June 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil](https://doi.org/10.1787/976bf5d2-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 June 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
