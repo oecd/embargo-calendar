@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 19 April 2024 at 23:21* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Slovak Republic 2024](https://doi.org/10.1787/108238e8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 18 April 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 April 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Steering from the Centre of Government in Times of Complexity - Compendium of Practices](https://doi.org/10.1787/69b1f129-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 April 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Sunday 21 April 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strengthening the Transparency and Integrity of Foreign Influence Activities in France - A Tool for Tackling Foreign Interference Risks](https://doi.org/10.1787/438da77f-en)
 
@@ -61,7 +15,7 @@ Monday 22 April 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
+- [x] Exported to OECD.org Sunday 21 April 2024 at 22:26
 
 ### Additional Information
 
@@ -84,7 +38,7 @@ Monday 22 April 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 19 April 2024 at 22:30
+- [x] Exported to OECD.org Sunday 21 April 2024 at 22:26
 
 ### Additional Information
 
