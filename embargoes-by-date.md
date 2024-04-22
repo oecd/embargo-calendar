@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 April 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
@@ -35,7 +35,7 @@ Monday 22 April 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
 
 ### Additional Information
 
@@ -58,7 +58,7 @@ Monday 22 April 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 19 April 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 21 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
 
 ### Additional Information
 
@@ -78,14 +78,14 @@ Monday 22 April 2024 at 12:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 23 April 2024 at 7:00 | no launch event
+Tuesday 23 April 2024 at 16:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
+- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
 
 ### Additional Information
 
@@ -94,75 +94,6 @@ Tuesday 23 April 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Paper*
 * Format: *PDF*
-
-------
-
-## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 18 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -193,6 +124,29 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 
 ------
 
+## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 25 April 2024
@@ -201,7 +155,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 25 April 2024 at 8:00 | no launch event
+Thursday 25 April 2024 at 7:00 | no launch event
 
 ### Status Information
 
@@ -216,7 +170,7 @@ Thursday 25 April 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -229,15 +183,15 @@ Thursday 25 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
+- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -252,15 +206,15 @@ Thursday 25 April 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
+- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 18 April 2024 at 22:26
+- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -439,6 +393,29 @@ Thursday 2 May 2024 at 7:00 | no launch event
 
 ------
 
+## [Economic Outlook for Southeast Asia, China and India 2024 - Developing amid Disaster Risks](https://doi.org/10.1787/3bbe7dfe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
 ------
 
 # 7 May 2024
@@ -497,7 +474,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 May 2024 at 10:00 | no launch event
+Tuesday 14 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -542,6 +519,52 @@ Tuesday 14 May 2024 at 10:00 | no launch event
 ------
 
 # 15 May 2024
+
+## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
 
 ## [What Does Child Empowerment Mean Today? - Implications for Education and Well-being](https://doi.org/10.1787/8f80ce38-en)
 
