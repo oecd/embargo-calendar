@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 April 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 April 2024](#22-april-2024)
 * [23 April 2024](#23-april-2024)
 * [24 April 2024](#24-april-2024)
 * [25 April 2024](#25-april-2024)
 * [26 April 2024](#26-april-2024)
+* [28 April 2024](#28-april-2024)
 * [29 April 2024](#29-april-2024)
 * [2 May 2024](#2-may-2024)
 * [7 May 2024](#7-may-2024)
@@ -85,7 +86,7 @@ Tuesday 23 April 2024 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
 
 ### Additional Information
 
@@ -101,6 +102,98 @@ Tuesday 23 April 2024 at 16:00 | no launch event
 
 # 24 April 2024
 
+## [Fully realising the economic potential of women in Australia](https://doi.org/10.1787/3470e5d8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A new measurement approach for identifying high-polluting jobs across European countries](https://doi.org/10.1787/f5127e4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Achieving the transition to net zero in Australia](https://doi.org/10.1787/9a56c9d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Lost in the green transition? Measurement and stylized facts](https://doi.org/10.1787/dce1d5fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Digital adoption during COVID-19 - Cross-country evidence from microdata](https://doi.org/10.1787/f63ca261-en)
 
 Embargo date | Launch date
@@ -112,11 +205,34 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Addressing demographic headwinds in Japan: A long-term perspective](https://doi.org/10.1787/96648955-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 24 April 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -135,7 +251,7 @@ Wednesday 24 April 2024 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
 
 ### Additional Information
 
@@ -159,7 +275,7 @@ Thursday 25 April 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -224,29 +340,6 @@ Thursday 25 April 2024 at 9:00 | no launch event
 
 # 26 April 2024
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2023) - Inclusive Framework on BEPS](https://doi.org/10.1787/b849f926-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Social and Emotional Skills for Better Lives - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/35ca7b7c-en)
 
 Embargo date | Launch date
@@ -267,6 +360,33 @@ Friday 26 April 2024 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 28 April 2024
+
+## [Glossary of Key Terms in Evaluation and Results-Based Management for Sustainable Development (Second Edition) (en) || Glossaire des principaux termes relatifs à l’évaluation et la gestion axée sur les résultats pour le développement durable (Deuxième édition) (fr) || مسرد المصطلحات الأساسية في التقييم والإدارة القائمة على النتائج من أجل التنمية المستدامة الطبعة الثانية](https://doi.org/10.1787/b98b182b-ar-en-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 28 April 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English || French || Arabic*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
