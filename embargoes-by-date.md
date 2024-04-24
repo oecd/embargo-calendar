@@ -2,101 +2,24 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 April 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 24 April 2024 at 23:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 April 2024](#22-april-2024)
-* [23 April 2024](#23-april-2024)
 * [24 April 2024](#24-april-2024)
 * [25 April 2024](#25-april-2024)
 * [26 April 2024](#26-april-2024)
 * [28 April 2024](#28-april-2024)
 * [29 April 2024](#29-april-2024)
 * [2 May 2024](#2-may-2024)
+* [3 May 2024](#3-may-2024)
+* [5 May 2024](#5-may-2024)
 * [7 May 2024](#7-may-2024)
-* [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
+* [17 May 2024](#17-may-2024)
 * [23 May 2024](#23-may-2024)
 * [28 May 2024](#28-may-2024)
 * [4 June 2024](#4-june-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 22 April 2024
-
-## [Strengthening the Transparency and Integrity of Foreign Influence Activities in France - A Tool for Tackling Foreign Interference Risks](https://doi.org/10.1787/438da77f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 April 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Renforcer la transparence et l’intégrité des activités d’influence étrangère en France - Un outil pour lutter contre les risques d’ingérences étrangères](https://doi.org/10.1787/d6e6e8e9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 April 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 23 April 2024
-
-## [OECD Agenda for Transformative Science, Technology and Innovation Policies](https://doi.org/10.1787/ba2aaf7b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 23 April 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -113,7 +36,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -136,7 +59,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -159,7 +82,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -182,7 +105,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -205,7 +128,7 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -228,34 +151,11 @@ Wednesday 24 April 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Framework for Anticipatory Governance of Emerging Technologies](https://doi.org/10.1787/0248ead5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 23 April 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -301,7 +201,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -324,7 +224,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 22 April 2024 at 22:24
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
@@ -348,18 +248,18 @@ Friday 26 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 19 April 2024 at 22:56
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 17 April 2024 at 22:24
+- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -371,7 +271,7 @@ Friday 26 April 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 28 April 2024 at 9:00 | no launch event
+Sunday 28 April 2024 at 6:00 | no launch event
 
 ### Status Information
 
@@ -538,6 +438,83 @@ Thursday 2 May 2024 at 10:00 | no launch event
 
 ------
 
+# 3 May 2024
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 May 2024
+
+## [OECD Economic Surveys: New Zealand 2024](https://doi.org/10.1787/603809f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 5 May 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 7 May 2024
 
 ## [Revenue Statistics in Latin America and the Caribbean 2024](https://doi.org/10.1787/33e226ae-en)
@@ -582,56 +559,6 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 14 May 2024
-
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -706,6 +633,33 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 17 May 2024
+
+## [Tackling Violence Against Women in the Middle East and North Africa - Governance and Victim/Survivor-Centred Approaches](https://doi.org/10.1787/e359bcfc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
