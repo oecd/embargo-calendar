@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 April 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 25 April 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Fully realising the economic potential of women in Australia](https://doi.org/10.1787/3470e5d8-en)
 
@@ -151,15 +151,15 @@ Thursday 25 April 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -176,7 +176,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
+- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Thursday 25 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 22 April 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
+- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Friday 26 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
+- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
 
 ### Additional Information
 
@@ -242,16 +242,16 @@ Sunday 28 April 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English || French || Arabic*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -265,7 +265,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,7 +274,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -288,7 +288,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -297,7 +297,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -311,7 +311,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -320,7 +320,7 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -648,11 +648,34 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 
 ------
 
+## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2022](https://doi.org/10.1787/19150727-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 4 June 2024 at 13:00 | no launch event
+Wednesday 5 June 2024 at 11:00 | no launch event
 
 ### Status Information
 
@@ -667,7 +690,7 @@ Tuesday 4 June 2024 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -675,7 +698,7 @@ Tuesday 4 June 2024 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 4 June 2024 at 13:00 | no launch event
+Wednesday 5 June 2024 at 11:00 | no launch event
 
 ### Status Information
 
@@ -690,7 +713,7 @@ Tuesday 4 June 2024 at 13:00 | no launch event
 * Language: *Portuguese*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
