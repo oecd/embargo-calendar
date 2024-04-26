@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 April 2024 at 23:17* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Fully realising the economic potential of women in Australia](https://doi.org/10.1787/3470e5d8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [A new measurement approach for identifying high-polluting jobs across European countries](https://doi.org/10.1787/f5127e4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Achieving the transition to net zero in Australia](https://doi.org/10.1787/9a56c9d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Lost in the green transition? Measurement and stylized facts](https://doi.org/10.1787/dce1d5fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Digital adoption during COVID-19 - Cross-country evidence from microdata](https://doi.org/10.1787/f63ca261-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Addressing demographic headwinds in Japan: A long-term perspective](https://doi.org/10.1787/96648955-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 24 April 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 23 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 24 April 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Friday 26 April 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Latvia 2024](https://doi.org/10.1787/dfeae75b-en)
 
@@ -222,7 +84,7 @@ Friday 26 April 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 24 April 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
+- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
 
 ### Additional Information
 
@@ -245,7 +107,7 @@ Sunday 28 April 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
+- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
 
 ### Additional Information
 
@@ -253,6 +115,52 @@ Sunday 28 April 2024 at 6:00 | no launch event
 * Language: *English || French || Arabic*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Towards Balanced Regional Development in Croatia - From Strategy Design to Implementation](https://doi.org/10.1787/3c0779cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Increasing the impact of supreme audit institutions through external engagement - Compendium of European experiences with developing effective relationships between SAIs and non-governmental stakeholders](https://doi.org/10.1787/5d25341e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 April 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -368,7 +276,7 @@ Thursday 2 May 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -446,6 +354,29 @@ Friday 3 May 2024 at 9:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Sunday 5 May 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Estonia 2024](https://doi.org/10.1787/33e6beee-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
