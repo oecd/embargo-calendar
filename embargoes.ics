@@ -2,184 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/dfeae75b-end3e63
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Latvia 2024
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Latvia 2024*\n\nDirectorate: Economics
-  Department\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/dfeae75b-en\nPublic
- ation type: Economic survey\nReleased as
- : PDF\n\nEmbargo date/time: Thursday, 25
-  April 2024, 7:00 (GMT)\n\n\niLibrary ex
- port: Thursday, 25 April 2024, 20:54 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: Thursday, 25 April 2024, 20:29 (
- GMT)\nFTI loaded: ✓\n\nFor more informat
- ion see: https://oecd.github.io/embargo-
- calendar/embargoes-by-publication.html.\
- n\nPlease note: This information was cor
- rect as of this afternoon at 23:13, it i
- s updated each night; therefore any subs
- equent updates may not yet be visible he
- re. Also, please be aware that the diffe
- rent released media (PDF, HTML, etc.) ar
- e not necessarily released at the same t
- ime. For complete and up-to-date informa
- tion see here: http://kappa.oecd.org/v3/
- search?term=dfeae75b-en.
-DTSTAMP:20240426T231328Z
-DTSTART:20240425T070000Z
-DTEND:20240425T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Latvia 2024
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/dbcbac85-end3e14022
-SUMMARY:[Book] Taxing Wages 2024 - Tax and Gende
- r through the Lens of the Second Earner
-DESCRIPTION:*[Book] Taxing Wages 2024 - Tax and Gend
- er through the Lens of the Second Earner
- *\n\nDirectorate: Centre for Tax Policy 
- and Administration\nLanguage: English\nD
- OI: https://doi.org/10.1787/dbcbac85-en\
- nPublication type: Book\nReleased as: eP
- ub, HTML, Paperback, PDF, ZXML\n\nEmbarg
- o date/time: Thursday, 25 April 2024, 9:
- 00 (GMT)\n\n\niLibrary export: Monday, 2
- 2 April 2024, 20:47 (GMT)\nFreepreview e
- xport: never\nOECD.org export: Thursday,
-  25 April 2024, 20:29 (GMT)\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 23:13, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=dbcba
- c85-en.
-DTSTAMP:20240426T231328Z
-DTSTART:20240425T090000Z
-DTEND:20240425T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Taxing Wages 2024 - Tax
-  and Gender through the Lens of the Seco
- nd Earner
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/bb9d7ef8-frd3e16719
-SUMMARY:[Book] Les impôts sur les salaires 2024 
- (version abrégée) - La fiscalité et le g
- enre sous l’angle du deuxième apporteur 
- de revenu
-DESCRIPTION:*[Book] Les impôts sur les salaires 2024
-  (version abrégée) - La fiscalité et le 
- genre sous l’angle du deuxième apporteur
-  de revenu*\n\nDirectorate: Centre for T
- ax Policy and Administration\nLanguage: 
- French\nDOI: https://doi.org/10.1787/bb9
- d7ef8-fr\nPublication type: Book\nReleas
- ed as: ePub, HTML, Paperback, PDF, ZXML\
- n\nEmbargo date/time: Thursday, 25 April
-  2024, 9:00 (GMT)\n\n\niLibrary export: 
- Monday, 22 April 2024, 20:47 (GMT)\nFree
- preview export: never\nOECD.org export: 
- Thursday, 25 April 2024, 20:29 (GMT)\nFT
- I loaded: ✓\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 23:13, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=bb9d7ef8-fr.
-DTSTAMP:20240426T231328Z
-DTSTART:20240425T090000Z
-DTEND:20240425T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Les impôts sur les sala
- ires 2024 (version abrégée) - La fiscali
- té et le genre sous l’angle du deuxième 
- apporteur de revenu
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/35ca7b7c-end3e22532
-SUMMARY:[Stand-alone monograph] Social and Emoti
- onal Skills for Better Lives - Findings 
- from the OECD Survey on Social and Emoti
- onal Skills 2023
-DESCRIPTION:*[Stand-alone monograph] Social and Emot
- ional Skills for Better Lives - Findings
-  from the OECD Survey on Social and Emot
- ional Skills 2023*\n\nDirectorate: Direc
- torate for Education and Skills\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /35ca7b7c-en\nPublication type: Stand-al
- one monograph\nReleased as: ePub, HTML, 
- Paperback, PDF, ZXML\n\nEmbargo date/tim
- e: Friday, 26 April 2024, 9:00 (GMT)\n\n
- \niLibrary export: Wednesday, 24 April 2
- 024, 20:52 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: Friday, 26 April 2
- 024, 20:24 (GMT)\nFTI loaded: ✓\n\nFor m
- ore information see: https://oecd.github
- .io/embargo-calendar/embargoes-by-public
- ation.html.\n\nPlease note: This informa
- tion was correct as of this afternoon at
-  23:13, it is updated each night; theref
- ore any subsequent updates may not yet b
- e visible here. Also, please be aware th
- at the different released media (PDF, HT
- ML, etc.) are not necessarily released a
- t the same time. For complete and up-to-
- date information see here: http://kappa.
- oecd.org/v3/search?term=35ca7b7c-en.
-DTSTAMP:20240426T231328Z
-DTSTART:20240426T090000Z
-DTEND:20240426T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Social
-  and Emotional Skills for Better Lives -
-  Findings from the OECD Survey on Social
-  and Emotional Skills 2023
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/b98b182b-ar-en-frd3e22918
+UID:10.1787/b98b182b-ar-en-frd3e63
 SUMMARY:[Stand-alone monograph] Glossary of Key 
  Terms in Evaluation and Results-Based Ma
  nagement for Sustainable Development (Se
@@ -208,13 +31,13 @@ DESCRIPTION:*[Stand-alone monograph] Glossary of Key
  Embargo date/time: Sunday, 28 April 2024
  , 6:00 (GMT)\n\n\niLibrary export: Thurs
  day, 25 April 2024, 20:54 (GMT)\nFreepre
- view export: never\nOECD.org export: Fri
- day, 26 April 2024, 20:24 (GMT)\nFTI loa
+ view export: never\nOECD.org export: Sun
+ day, 28 April 2024, 20:38 (GMT)\nFTI loa
  ded: ✓\n\nFor more information see: http
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:13, it is updated eac
+ is afternoon at 23:21, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -223,7 +46,7 @@ DESCRIPTION:*[Stand-alone monograph] Glossary of Key
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=b
  98b182b-ar-en-fr.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240428T060000Z
 DTEND:20240428T061500Z
 TRANSP:TRANSPARENT
@@ -246,7 +69,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Glossa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3c0779cf-end3e23518
+UID:10.1787/3c0779cf-end3e663
 SUMMARY:[Book] Towards Balanced Regional Develop
  ment in Croatia - From Strategy Design t
  o Implementation
@@ -261,13 +84,13 @@ DESCRIPTION:*[Book] Towards Balanced Regional Develo
  e: Monday, 29 April 2024, 6:00 (GMT)\n\n
  \niLibrary export: Friday, 26 April 2024
  , 20:50 (GMT)\nFreepreview export: never
- \nOECD.org export: Friday, 26 April 2024
- , 20:24 (GMT)\nFTI loaded: ✓\n\nFor more
+ \nOECD.org export: Sunday, 28 April 2024
+ , 20:38 (GMT)\nFTI loaded: ✓\n\nFor more
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :13, it is updated each night; therefore
+ :21, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -275,7 +98,7 @@ DESCRIPTION:*[Book] Towards Balanced Regional Develo
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=3c0779cf-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240429T060000Z
 DTEND:20240429T061500Z
 TRANSP:TRANSPARENT
@@ -290,7 +113,7 @@ DESCRIPTION:Reminder: [Book] Towards Balanced Region
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5d25341e-end3e24117
+UID:10.1787/5d25341e-end3e1262
 SUMMARY:[Paper] Increasing the impact of supreme
   audit institutions through external eng
  agement - Compendium of European experie
@@ -310,12 +133,12 @@ DESCRIPTION:*[Paper] Increasing the impact of suprem
   April 2024, 8:00 (GMT)\n\n\niLibrary ex
  port: Friday, 26 April 2024, 20:50 (GMT)
  \nFreepreview export: never\nOECD.org ex
- port: Friday, 26 April 2024, 20:24 (GMT)
+ port: Sunday, 28 April 2024, 20:38 (GMT)
  \nFTI loaded: ✓\n\nFor more information 
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:13, it is up
+  as of this afternoon at 23:21, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -324,7 +147,7 @@ DESCRIPTION:*[Paper] Increasing the impact of suprem
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=5d25341e-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240429T080000Z
 DTEND:20240429T081500Z
 TRANSP:TRANSPARENT
@@ -342,7 +165,7 @@ DESCRIPTION:Reminder: [Paper] Increasing the impact
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a614997d-frd3e24173
+UID:10.1787/a614997d-frd3e1318
 SUMMARY:[Book] Inspecteurs des impôts sans front
  ières – Rapport annuel 2024
 DESCRIPTION:*[Book] Inspecteurs des impôts sans fron
@@ -358,7 +181,7 @@ DESCRIPTION:*[Book] Inspecteurs des impôts sans fron
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:13, it is
+ ect as of this afternoon at 23:21, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -367,7 +190,7 @@ DESCRIPTION:*[Book] Inspecteurs des impôts sans fron
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=a614997d-fr.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240429T090000Z
 DTEND:20240429T091500Z
 TRANSP:TRANSPARENT
@@ -381,7 +204,7 @@ DESCRIPTION:Reminder: [Book] Inspecteurs des impôts
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/6756fbdb-esd3e24226
+UID:10.1787/6756fbdb-esd3e1371
 SUMMARY:[Book] Inspectores fiscales sin frontera
  s - Informe anual 2024
 DESCRIPTION:*[Book] Inspectores fiscales sin fronter
@@ -397,7 +220,7 @@ DESCRIPTION:*[Book] Inspectores fiscales sin fronter
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:13, it is upd
+ as of this afternoon at 23:21, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -406,7 +229,7 @@ DESCRIPTION:*[Book] Inspectores fiscales sin fronter
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=6756fbdb-es.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240429T090000Z
 DTEND:20240429T091500Z
 TRANSP:TRANSPARENT
@@ -420,7 +243,7 @@ DESCRIPTION:Reminder: [Book] Inspectores fiscales si
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8968125d-end3e24279
+UID:10.1787/8968125d-end3e1424
 SUMMARY:[Book] Tax Inspectors Without Borders An
  nual Report 2024
 DESCRIPTION:*[Book] Tax Inspectors Without Borders A
@@ -436,7 +259,7 @@ DESCRIPTION:*[Book] Tax Inspectors Without Borders A
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:13, it is updated e
+ this afternoon at 23:21, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -445,7 +268,7 @@ DESCRIPTION:*[Book] Tax Inspectors Without Borders A
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =8968125d-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240429T090000Z
 DTEND:20240429T091500Z
 TRANSP:TRANSPARENT
@@ -459,7 +282,7 @@ DESCRIPTION:Reminder: [Book] Tax Inspectors Without
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd18c5ae-frd3e24333
+UID:10.1787/bd18c5ae-frd3e1477
 SUMMARY:[Issue] Perspectives économiques de l'OC
  DE, Volume 2024 Numéro 1 - Version préli
  minaire
@@ -477,7 +300,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:13, it is updated each night; therefor
+ 3:21, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -485,7 +308,7 @@ DESCRIPTION:*[Issue] Perspectives économiques de l'O
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=bd18c5ae-fr.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240502T070000Z
 DTEND:20240502T071500Z
 TRANSP:TRANSPARENT
@@ -500,7 +323,7 @@ DESCRIPTION:Reminder: [Issue] Perspectives économiqu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69a0c310-end3e24439
+UID:10.1787/69a0c310-end3e1584
 SUMMARY:[Issue] OECD Economic Outlook, Volume 20
  24 Issue 1 - Preliminary version
 DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
@@ -516,7 +339,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:13, it is updated each 
+  afternoon at 23:21, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -525,7 +348,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Volume 2
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=69a
  0c310-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240502T070000Z
 DTEND:20240502T071500Z
 TRANSP:TRANSPARENT
@@ -540,7 +363,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3bbe7dfe-end3e24492
+UID:10.1787/3bbe7dfe-end3e1637
 SUMMARY:[Issue] Economic Outlook for Southeast A
  sia, China and India 2024 - Developing a
  mid Disaster Risks
@@ -558,7 +381,7 @@ DESCRIPTION:*[Issue] Economic Outlook for Southeast
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:13, it is updated each night; therefor
+ 3:21, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -566,7 +389,7 @@ DESCRIPTION:*[Issue] Economic Outlook for Southeast
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=3bbe7dfe-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240502T100000Z
 DTEND:20240502T101500Z
 TRANSP:TRANSPARENT
@@ -581,7 +404,7 @@ DESCRIPTION:Reminder: [Issue] Economic Outlook for S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1689dc5-end3e24545
+UID:10.1787/a1689dc5-end3e1690
 SUMMARY:[Stand-alone monograph] OECD Digital Eco
  nomy Outlook 2024 (Volume 1) - Embracing
   the Technology Frontier
@@ -600,7 +423,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:13, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -609,7 +432,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a1689dc5-
  en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240503T090000Z
 DTEND:20240503T091500Z
 TRANSP:TRANSPARENT
@@ -624,7 +447,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e34abd55-frd3e24598
+UID:10.1787/e34abd55-frd3e1743
 SUMMARY:[Stand-alone monograph] Perspectives de 
  l’économie numérique de l’OCDE 2024 (Vol
  ume 1) - Cap sur la frontière technologi
@@ -645,7 +468,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 13, it is updated each night; therefore 
+ 21, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -653,7 +476,7 @@ DESCRIPTION:*[Stand-alone monograph] Perspectives de
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=e34abd55-fr.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240503T090000Z
 DTEND:20240503T091500Z
 TRANSP:TRANSPARENT
@@ -669,7 +492,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Perspe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/603809f2-end3e24704
+UID:10.1787/603809f2-end3e1848
 SUMMARY:[Economic survey] OECD Economic Surveys:
   New Zealand 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -685,7 +508,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:13, it is updated 
+  this afternoon at 23:21, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -694,7 +517,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=603809f2-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240505T220000Z
 DTEND:20240505T221500Z
 TRANSP:TRANSPARENT
@@ -708,7 +531,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/33e6beee-end3e24756
+UID:10.1787/33e6beee-end3e1901
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Estonia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -724,7 +547,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:13, it is updated each
+ s afternoon at 23:21, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -733,7 +556,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=33
  e6beee-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240507T090000Z
 DTEND:20240507T091500Z
 TRANSP:TRANSPARENT
@@ -747,7 +570,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/33e226ae-end3e24860
+UID:10.1787/33e226ae-end3e2005
 SUMMARY:[Book] Revenue Statistics in Latin Ameri
  ca and the Caribbean 2024
 DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
@@ -764,7 +587,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 23:
- 13, it is updated each night; therefore 
+ 21, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -772,7 +595,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=33e226ae-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240507T140000Z
 DTEND:20240507T141500Z
 TRANSP:TRANSPARENT
@@ -786,7 +609,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ec57392c-esd3e24912
+UID:10.1787/ec57392c-esd3e2057
 SUMMARY:[Book] Estadísticas tributarias en Améri
  ca Latina y el Caribe 2024
 DESCRIPTION:*[Book] Estadísticas tributarias en Amér
@@ -803,7 +626,7 @@ DESCRIPTION:*[Book] Estadísticas tributarias en Amér
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :13, it is updated each night; therefore
+ :21, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -811,7 +634,7 @@ DESCRIPTION:*[Book] Estadísticas tributarias en Amér
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=ec57392c-es.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240507T140000Z
 DTEND:20240507T141500Z
 TRANSP:TRANSPARENT
@@ -825,7 +648,7 @@ DESCRIPTION:Reminder: [Book] Estadísticas tributaria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a28c2090-frd3e25122
+UID:10.1787/a28c2090-frd3e2267
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : France 2024
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -841,7 +664,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:13, it is updated each n
+ afternoon at 23:21, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -850,7 +673,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=a28c
  2090-fr.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240515T090000Z
 DTEND:20240515T091500Z
 TRANSP:TRANSPARENT
@@ -864,7 +687,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bd96e2ed-end3e25174
+UID:10.1787/bd96e2ed-end3e2319
 SUMMARY:[Economic survey] OECD Economic Surveys:
   France 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -880,7 +703,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:13, it is updated each night; t
+ on at 23:21, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -889,7 +712,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=bd96e2ed-en
  .
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240515T090000Z
 DTEND:20240515T091500Z
 TRANSP:TRANSPARENT
@@ -903,7 +726,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f80ce38-end3e25280
+UID:10.1787/8f80ce38-end3e2424
 SUMMARY:[Book] What Does Child Empowerment Mean 
  Today? - Implications for Education and 
  Well-being
@@ -921,7 +744,7 @@ DESCRIPTION:*[Book] What Does Child Empowerment Mean
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:13, it is update
+ of this afternoon at 23:21, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -930,7 +753,7 @@ DESCRIPTION:*[Book] What Does Child Empowerment Mean
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=8f80ce38-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240515T120000Z
 DTEND:20240515T121500Z
 TRANSP:TRANSPARENT
@@ -945,7 +768,7 @@ DESCRIPTION:Reminder: [Book] What Does Child Empower
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e359bcfc-end3e25333
+UID:10.1787/e359bcfc-end3e2477
 SUMMARY:[Stand-alone monograph] Tackling Violenc
  e Against Women in the Middle East and N
  orth Africa - Governance and Victim/Surv
@@ -965,7 +788,7 @@ DESCRIPTION:*[Stand-alone monograph] Tackling Violen
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:13, 
+  correct as of this afternoon at 23:21, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -974,7 +797,7 @@ DESCRIPTION:*[Stand-alone monograph] Tackling Violen
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=e359bcfc-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240517T050000Z
 DTEND:20240517T051500Z
 TRANSP:TRANSPARENT
@@ -990,7 +813,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Tackli
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/395c9956-end3e25386
+UID:10.1787/395c9956-end3e2531
 SUMMARY:[Stand-alone monograph] Ownership and Go
  vernance of State-Owned Enterprises 2024
   - A Compendium of National Practices
@@ -1009,7 +832,7 @@ DESCRIPTION:*[Stand-alone monograph] Ownership and G
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:13
+ as correct as of this afternoon at 23:21
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1018,7 +841,7 @@ DESCRIPTION:*[Stand-alone monograph] Ownership and G
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=395c9956-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240523T090000Z
 DTEND:20240523T091500Z
 TRANSP:TRANSPARENT
@@ -1034,7 +857,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Owners
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/57616eb4-end3e25545
+UID:10.1787/57616eb4-end3e2690
 SUMMARY:[Stand-alone monograph] Environmental Ju
  stice - Context, Challenges and National
   Approaches
@@ -1052,7 +875,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental J
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:13, it is upd
+ as of this afternoon at 23:21, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1061,7 +884,7 @@ DESCRIPTION:*[Stand-alone monograph] Environmental J
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=57616eb4-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240528T120000Z
 DTEND:20240528T121500Z
 TRANSP:TRANSPARENT
@@ -1076,7 +899,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Enviro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/19150727-end3e25599
+UID:10.1787/19150727-end3e2743
 SUMMARY:[Book] Climate Finance Provided and Mobi
  lised by Developed Countries in 2013-202
  2
@@ -1093,7 +916,7 @@ DESCRIPTION:*[Book] Climate Finance Provided and Mob
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:13, it is 
+ ct as of this afternoon at 23:21, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1102,7 +925,7 @@ DESCRIPTION:*[Book] Climate Finance Provided and Mob
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=19150727-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240529T090000Z
 DTEND:20240529T091500Z
 TRANSP:TRANSPARENT
@@ -1117,7 +940,7 @@ DESCRIPTION:Reminder: [Book] Climate Finance Provide
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5b7dffa0-end3e25807
+UID:10.1787/5b7dffa0-end3e2952
 SUMMARY:[Book] Driving Performance at Brazil’s N
  ational Agency for Water and Basic Sanit
  ation
@@ -1135,7 +958,7 @@ DESCRIPTION:*[Book] Driving Performance at Brazil’s
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:13, it is up
+  as of this afternoon at 23:21, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1144,7 +967,7 @@ DESCRIPTION:*[Book] Driving Performance at Brazil’s
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=5b7dffa0-en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240605T110000Z
 DTEND:20240605T111500Z
 TRANSP:TRANSPARENT
@@ -1159,7 +982,7 @@ DESCRIPTION:Reminder: [Book] Driving Performance at
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/976bf5d2-ptd3e25964
+UID:10.1787/976bf5d2-ptd3e3108
 SUMMARY:[Book] Impulsionando o desempenho da Agê
  ncia Nacional de Águas e Saneamento Bási
  co do Brasil
@@ -1177,7 +1000,7 @@ DESCRIPTION:*[Book] Impulsionando o desempenho da Ag
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:13
+ as correct as of this afternoon at 23:21
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1186,7 +1009,7 @@ DESCRIPTION:*[Book] Impulsionando o desempenho da Ag
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=976bf5d2-pt.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240605T110000Z
 DTEND:20240605T111500Z
 TRANSP:TRANSPARENT
@@ -1201,7 +1024,7 @@ DESCRIPTION:Reminder: [Book] Impulsionando o desempe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9b71040-end3e26068
+UID:10.1787/a9b71040-end3e3213
 SUMMARY:[Book] Start-up Asia - Chasing the Innov
  ation Frontier
 DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
@@ -1217,7 +1040,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:13, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1226,7 +1049,7 @@ DESCRIPTION:*[Book] Start-up Asia - Chasing the Inno
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=a9b71040-
  en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240619T220000Z
 DTEND:20240619T221500Z
 TRANSP:TRANSPARENT
@@ -1240,7 +1063,7 @@ DESCRIPTION:Reminder: [Book] Start-up Asia - Chasing
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/170b0e53-end3e26174
+UID:10.1787/170b0e53-end3e3319
 SUMMARY:[Book] Western Balkans Competitiveness O
  utlook 2024: Regional Profile
 DESCRIPTION:*[Book] Western Balkans Competitiveness 
@@ -1257,7 +1080,7 @@ DESCRIPTION:*[Book] Western Balkans Competitiveness
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:13, it is updated each night;
+ noon at 23:21, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1266,7 +1089,7 @@ DESCRIPTION:*[Book] Western Balkans Competitiveness
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=170b0e53-
  en.
-DTSTAMP:20240426T231328Z
+DTSTAMP:20240428T232103Z
 DTSTART:20240626T093000Z
 DTEND:20240626T094500Z
 TRANSP:TRANSPARENT

@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 26 April 2024 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 28 April 2024 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 April 2024](#25-april-2024)
-* [26 April 2024](#26-april-2024)
 * [28 April 2024](#28-april-2024)
 * [29 April 2024](#29-april-2024)
 * [2 May 2024](#2-may-2024)
@@ -23,106 +21,6 @@ Data generated on | |
 
 ------
 
-# 25 April 2024
-
-## [OECD Economic Surveys: Latvia 2024](https://doi.org/10.1787/dfeae75b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 April 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Taxing Wages 2024 - Tax and Gender through the Lens of the Second Earner](https://doi.org/10.1787/dbcbac85-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Les impôts sur les salaires 2024 (version abrégée) - La fiscalité et le genre sous l’angle du deuxième apporteur de revenu](https://doi.org/10.1787/bb9d7ef8-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 25 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 April 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 25 April 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
-# 26 April 2024
-
-## [Social and Emotional Skills for Better Lives - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/35ca7b7c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 26 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 April 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
 # 28 April 2024
 
 ## [Glossary of Key Terms in Evaluation and Results-Based Management for Sustainable Development (Second Edition) (en) || Glossaire des principaux termes relatifs à l’évaluation et la gestion axée sur les résultats pour le développement durable (Deuxième édition) (fr) || مسرد المصطلحات الأساسية في التقييم والإدارة القائمة على النتائج من أجل التنمية المستدامة الطبعة الثانية](https://doi.org/10.1787/b98b182b-ar-en-fr)
@@ -136,7 +34,7 @@ Sunday 28 April 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
+- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
 
 ### Additional Information
 
@@ -163,7 +61,7 @@ Monday 29 April 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
+- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
 
 ### Additional Information
 
@@ -186,7 +84,7 @@ Monday 29 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 26 April 2024 at 22:24
+- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
 
 ### Additional Information
 
