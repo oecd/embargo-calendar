@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-04-28T23:21:00.0197714+02:00">
+<report name="official-embargoes" generated="2024-04-29T23:10:31.3877161+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2024-04-25T20:54:51Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2024-04-28T20:38:55Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-04-28T21:42:34Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
@@ -113,7 +113,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-04-26T20:50:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-04-28T20:38:55Z</cell>
+    <cell name="oecd.org last export date">2024-04-29T20:24:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -253,7 +253,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-04-26T20:50:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-04-28T20:38:55Z</cell>
+    <cell name="oecd.org last export date">2024-04-29T20:24:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -473,7 +473,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-04-26T20:50:08Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-04-28T20:38:55Z</cell>
+    <cell name="oecd.org last export date">2024-04-29T20:24:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -481,6 +481,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46ac18c3</cell>
   </row>
   <row index="24">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/609808d6-en</cell>
+    <cell name="title">OECD Artificial Intelligence Country Review of Germany (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-04-29T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/574f6e73</cell>
+  </row>
+  <row index="25">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a614997d-fr</cell>
     <cell name="title">Inspecteurs des impôts sans frontières – Rapport annuel 2024 (fr)</cell>
@@ -500,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec4872b5</cell>
   </row>
-  <row index="25">
+  <row index="26">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/6756fbdb-es</cell>
     <cell name="title">Inspectores fiscales sin fronteras - Informe anual 2024 (es)</cell>
@@ -520,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4959ff92</cell>
   </row>
-  <row index="26">
+  <row index="27">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8968125d-en</cell>
     <cell name="title">Tax Inspectors Without Borders Annual Report 2024 (en)</cell>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bcf7f98d</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd18c5ae-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 1 (fr)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7647351</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd18c5ae-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 1 (fr)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2750879</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/69a0c310-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 1 (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88cc287f</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/3bbe7dfe-en</cell>
     <cell name="title">Economic Outlook for Southeast Asia, China and India 2024 (en)</cell>
@@ -620,67 +640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9e88cf8</cell>
   </row>
-  <row index="31">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/a1689dc5-en</cell>
-    <cell name="title">OECD Digital Economy Outlook 2024 (Volume 1) (en)</cell>
-    <cell name="subtitle">Embracing the Technology Frontier (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-05-03</cell>
-    <cell name="embargo date">2024-05-03T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33e3e76d</cell>
-  </row>
   <row index="32">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/e34abd55-fr</cell>
-    <cell name="title">Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) (fr)</cell>
-    <cell name="subtitle">Cap sur la frontière technologique (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-05-03</cell>
-    <cell name="embargo date">2024-05-03T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f5c1ab2</cell>
-  </row>
-  <row index="33">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/603809f2-en</cell>
-    <cell name="title">OECD Economic Surveys: New Zealand 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-05-06</cell>
-    <cell name="embargo date">2024-05-05T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7442ef94</cell>
-  </row>
-  <row index="34">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/603809f2-en</cell>
     <cell name="title">OECD Economic Surveys: New Zealand 2024 (en)</cell>
@@ -700,7 +660,67 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/574118f2</cell>
   </row>
+  <row index="33">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/603809f2-en</cell>
+    <cell name="title">OECD Economic Surveys: New Zealand 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-05-06</cell>
+    <cell name="embargo date">2024-05-06T02:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7442ef94</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/603809f2-en</cell>
+    <cell name="title">OECD Economic Surveys: New Zealand 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-05-06</cell>
+    <cell name="embargo date">2024-05-06T02:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef0884ca</cell>
+  </row>
   <row index="35">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/603809f2-en</cell>
+    <cell name="title">OECD Economic Surveys: New Zealand 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-05-06</cell>
+    <cell name="embargo date">2024-05-06T02:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2580ea7</cell>
+  </row>
+  <row index="36">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/33e6beee-en</cell>
     <cell name="title">OECD Economic Surveys: Estonia 2024 (en)</cell>
@@ -720,7 +740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0884ea6e</cell>
   </row>
-  <row index="36">
+  <row index="37">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/33e6beee-en</cell>
     <cell name="title">OECD Economic Surveys: Estonia 2024 (en)</cell>
@@ -740,47 +760,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6fcd47f1</cell>
   </row>
-  <row index="37">
+  <row index="38">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/33e226ae-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2024 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2024-05-07</cell>
     <cell name="embargo date">2024-05-07T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-04-29T20:49:17Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-04-29T20:24:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc4c696a</cell>
   </row>
-  <row index="38">
+  <row index="39">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec57392c-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2024 (es)</cell>
     <cell name="subtitle"/>
     <cell name="language">Spanish</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2024-05-07</cell>
     <cell name="embargo date">2024-05-07T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-04-29T20:49:17Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-04-29T20:24:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9849cf7d</cell>
   </row>
-  <row index="39">
+  <row index="40">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ec57392c-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2024 (es)</cell>
@@ -800,7 +820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c1e5e44</cell>
   </row>
-  <row index="40">
+  <row index="41">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/33e226ae-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2024 (en)</cell>
@@ -820,7 +840,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e72a9871</cell>
   </row>
-  <row index="41">
+  <row index="42">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a1689dc5-en</cell>
+    <cell name="title">OECD Digital Economy Outlook 2024 (Volume 1) (en)</cell>
+    <cell name="subtitle">Embracing the Technology Frontier (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-05-14</cell>
+    <cell name="embargo date">2024-05-14T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33e3e76d</cell>
+  </row>
+  <row index="43">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/e34abd55-fr</cell>
+    <cell name="title">Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) (fr)</cell>
+    <cell name="subtitle">Cap sur la frontière technologique (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-05-14</cell>
+    <cell name="embargo date">2024-05-14T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f5c1ab2</cell>
+  </row>
+  <row index="44">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/e34abd55-fr</cell>
     <cell name="title">Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) (fr)</cell>
@@ -828,7 +888,7 @@
     <cell name="language">French</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-05-03</cell>
+    <cell name="date of publication">2024-05-14</cell>
     <cell name="embargo date">2024-05-14T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -840,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bddedf8</cell>
   </row>
-  <row index="42">
+  <row index="45">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -860,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
   </row>
-  <row index="43">
+  <row index="46">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd96e2ed-en</cell>
     <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
@@ -880,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
   </row>
-  <row index="44">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f80ce38-en</cell>
     <cell name="title">What Does Child Empowerment Mean Today? (en)</cell>
@@ -900,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/794b7fe3</cell>
   </row>
-  <row index="45">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8f80ce38-en</cell>
     <cell name="title">What Does Child Empowerment Mean Today? (en)</cell>
@@ -920,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8845466a</cell>
   </row>
-  <row index="46">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e359bcfc-en</cell>
     <cell name="title">Tackling Violence Against Women in the Middle East and North Africa (en)</cell>
@@ -940,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/341dae85</cell>
   </row>
-  <row index="47">
+  <row index="50">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -960,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
   </row>
-  <row index="48">
+  <row index="51">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -980,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59375f7</cell>
   </row>
-  <row index="49">
+  <row index="52">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/57616eb4-en</cell>
     <cell name="title">Environmental Justice (en)</cell>
@@ -1000,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2e6b2fe</cell>
   </row>
-  <row index="50">
+  <row index="53">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/57616eb4-en</cell>
     <cell name="title">Environmental Justice (en)</cell>
@@ -1020,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fedf17c</cell>
   </row>
-  <row index="51">
+  <row index="54">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/19150727-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2022 (en)</cell>
@@ -1040,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ef7ad55</cell>
   </row>
-  <row index="52">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1060,7 +1120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac7a1cc8</cell>
   </row>
-  <row index="53">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1080,7 +1140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f43fa383</cell>
   </row>
-  <row index="54">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1100,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30429927</cell>
   </row>
-  <row index="55">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1120,7 +1180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a71ca6a</cell>
   </row>
-  <row index="56">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1140,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7796bd06</cell>
   </row>
-  <row index="57">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1160,7 +1220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e5c1197</cell>
   </row>
-  <row index="58">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1180,7 +1240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af6d030</cell>
   </row>
-  <row index="59">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1200,7 +1260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60c2ab7a</cell>
   </row>
-  <row index="60">
+  <row index="63">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1220,7 +1280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dee98371</cell>
   </row>
-  <row index="61">
+  <row index="64">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1240,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c7df7e3</cell>
   </row>
-  <row index="62">
+  <row index="65">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -1260,7 +1320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="63">
+  <row index="66">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>

@@ -2,14 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 28 April 2024 at 23:21* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 29 April 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 April 2024](#28-april-2024)
 * [29 April 2024](#29-april-2024)
 * [2 May 2024](#2-may-2024)
-* [3 May 2024](#3-may-2024)
 * [5 May 2024](#5-may-2024)
 * [7 May 2024](#7-may-2024)
+* [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
 * [17 May 2024](#17-may-2024)
 * [23 May 2024](#23-may-2024)
@@ -61,7 +61,7 @@ Monday 29 April 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
+- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 29 April 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 26 April 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
+- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
 
 ### Additional Information
 
@@ -92,6 +92,29 @@ Monday 29 April 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Artificial Intelligence Country Review of Germany](https://doi.org/10.1787/609808d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 April 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -240,56 +263,6 @@ Thursday 2 May 2024 at 10:00 | no launch event
 
 ------
 
-# 3 May 2024
-
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 5 May 2024
 
 ## [OECD Economic Surveys: New Zealand 2024](https://doi.org/10.1787/603809f2-en)
@@ -311,7 +284,7 @@ Sunday 5 May 2024 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -351,15 +324,15 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 29 April 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -374,16 +347,66 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Monday 29 April 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 May 2024
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
