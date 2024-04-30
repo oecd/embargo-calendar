@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 April 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Glossary of Key Terms in Evaluation and Results-Based Management for Sustainable Development (Second Edition) (en) || Glossaire des principaux termes relatifs à l’évaluation et la gestion axée sur les résultats pour le développement durable (Deuxième édition) (fr) || مسرد المصطلحات الأساسية في التقييم والإدارة القائمة على النتائج من أجل التنمية المستدامة الطبعة الثانية](https://doi.org/10.1787/b98b182b-ar-en-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 28 April 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 April 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 28 April 2024 at 22:38
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English || French || Arabic*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Tuesday 30 April 2024 at 23:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Towards Balanced Regional Development in Croatia - From Strategy Design to Implementation](https://doi.org/10.1787/3c0779cf-en)
 
@@ -165,6 +142,29 @@ Monday 29 April 2024 at 9:00 | no launch event
 
 ------
 
+## [Mobilising ASEAN Capital Markets for Sustainable Growth](https://doi.org/10.1787/196b5bde-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 2 May 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
 ## [Perspectives économiques de l'OCDE, Volume 2024 Numéro 1 - Version préliminaire](https://doi.org/10.1787/bd18c5ae-fr)
 
 Embargo date | Launch date
@@ -173,18 +173,18 @@ Thursday 2 May 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
@@ -196,18 +196,18 @@ Thursday 2 May 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
@@ -238,11 +238,11 @@ Thursday 2 May 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 5 May 2024 at 22:00 | no launch event
+Monday 6 May 2024 at 2:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -265,7 +265,7 @@ Tuesday 7 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -276,7 +276,7 @@ Tuesday 7 May 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -335,15 +335,15 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -602,7 +602,145 @@ Wednesday 19 June 2024 at 22:00 | no launch event
 
 ------
 
+## [Western Balkans Competitiveness Outlook 2024: Serbia](https://doi.org/10.1787/3699c0d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Western Balkans Competitiveness Outlook 2024: Regional Profile](https://doi.org/10.1787/170b0e53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: Kosovo](https://doi.org/10.1787/ff74ae0e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: Albania](https://doi.org/10.1787/541ec4e7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: Montenegro](https://doi.org/10.1787/ead1588e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina](https://doi.org/10.1787/82e0432e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Western Balkans Competitiveness Outlook 2024: North Macedonia](https://doi.org/10.1787/8207326d-en)
 
 Embargo date | Launch date
 -------------|:------------:
