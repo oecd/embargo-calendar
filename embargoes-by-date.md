@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 30 April 2024 at 23:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 1 May 2024 at 23:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 April 2024](#29-april-2024)
 * [2 May 2024](#2-may-2024)
 * [6 May 2024](#6-may-2024)
 * [7 May 2024](#7-may-2024)
@@ -17,148 +16,6 @@ Data generated on | |
 * [5 June 2024](#5-june-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 29 April 2024
-
-## [Towards Balanced Regional Development in Croatia - From Strategy Design to Implementation](https://doi.org/10.1787/3c0779cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Increasing the impact of supreme audit institutions through external engagement - Compendium of European experiences with developing effective relationships between SAIs and non-governmental stakeholders](https://doi.org/10.1787/5d25341e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 April 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Artificial Intelligence Country Review of Germany](https://doi.org/10.1787/609808d6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Inspecteurs des impôts sans frontières – Rapport annuel 2024](https://doi.org/10.1787/a614997d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Inspectores fiscales sin fronteras - Informe anual 2024](https://doi.org/10.1787/6756fbdb-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Tax Inspectors Without Borders Annual Report 2024](https://doi.org/10.1787/8968125d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 April 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -175,7 +32,7 @@ Thursday 2 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
+- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
 
 ### Additional Information
 
@@ -198,7 +55,7 @@ Thursday 2 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
+- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
 
 ### Additional Information
 
@@ -221,7 +78,7 @@ Thursday 2 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
+- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
 
 ### Additional Information
 
