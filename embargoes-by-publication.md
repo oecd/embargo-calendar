@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 1 May 2024 at 23:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 3 May 2024 at 0:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Mobilising ASEAN Capital Markets for Sustainable Growth](https://doi.org/10.1787/196b5bde-en)
 
@@ -15,7 +15,7 @@ Thursday 2 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
@@ -36,9 +36,9 @@ Thursday 2 May 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Thursday 2 May 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 1 May 2024 at 22:20
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
@@ -81,17 +81,63 @@ Thursday 2 May 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Trade impacts of economic coercion](https://doi.org/10.1787/d4ab39b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Les effets de la coercition économique sur les échanges internationaux](https://doi.org/10.1787/6a63fe16-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 3 May 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -150,18 +196,18 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 April 2024 at 22:49
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -173,18 +219,18 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 29 April 2024 at 22:49
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 29 April 2024 at 22:24
+- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -438,6 +484,29 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Multi-dimensional Review of Lao PDR - Financing Sustainable Development](https://doi.org/10.1787/756b6663-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 6 June 2024 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
