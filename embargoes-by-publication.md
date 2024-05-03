@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 May 2024 at 0:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 3 May 2024 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Mobilising ASEAN Capital Markets for Sustainable Growth](https://doi.org/10.1787/196b5bde-en)
 
@@ -82,9 +82,9 @@ Thursday 2 May 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
 
 ### Additional Information
 
@@ -105,9 +105,9 @@ Friday 3 May 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
 
 ### Additional Information
 
@@ -128,9 +128,9 @@ Friday 3 May 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
 
 ### Additional Information
 
@@ -151,15 +151,15 @@ Monday 6 May 2024 at 2:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
 
@@ -197,7 +197,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
+- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
 
