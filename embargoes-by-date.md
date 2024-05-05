@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 3 May 2024 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 5 May 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 May 2024](#2-may-2024)
-* [3 May 2024](#3-may-2024)
 * [6 May 2024](#6-may-2024)
 * [7 May 2024](#7-may-2024)
 * [14 May 2024](#14-may-2024)
@@ -18,152 +16,6 @@ Data generated on | |
 * [6 June 2024](#6-june-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 2 May 2024
-
-## [Mobilising ASEAN Capital Markets for Sustainable Growth](https://doi.org/10.1787/196b5bde-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 May 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Volume 2024 Numéro 1 - Version préliminaire](https://doi.org/10.1787/bd18c5ae-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZXML*
-
-------
-
-## [OECD Economic Outlook, Volume 2024 Issue 1 - Preliminary version](https://doi.org/10.1787/69a0c310-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZXML*
-
-------
-
-## [Economic Outlook for Southeast Asia, China and India 2024 - Developing amid Disaster Risks](https://doi.org/10.1787/3bbe7dfe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 2 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Format: *PDF*
-
-------
-
-------
-
-# 3 May 2024
-
-## [Trade impacts of economic coercion](https://doi.org/10.1787/d4ab39b9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Les effets de la coercition économique sur les échanges internationaux](https://doi.org/10.1787/6a63fe16-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 3 May 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -180,7 +32,7 @@ Monday 6 May 2024 at 2:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 3 May 2024 at 22:22
+- [x] Exported to OECD.org Sunday 5 May 2024 at 22:21
 
 ### Additional Information
 
