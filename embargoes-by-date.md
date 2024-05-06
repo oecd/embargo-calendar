@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 5 May 2024 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 6 May 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 May 2024](#6-may-2024)
 * [7 May 2024](#7-may-2024)
+* [13 May 2024](#13-may-2024)
 * [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
 * [17 May 2024](#17-may-2024)
@@ -32,7 +33,7 @@ Monday 6 May 2024 at 2:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 5 May 2024 at 22:21
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
 
 ### Additional Information
 
@@ -47,6 +48,167 @@ Monday 6 May 2024 at 2:30 | no launch event
 ------
 
 # 7 May 2024
+
+## [A review of Mexico’s participation in global value chains](https://doi.org/10.1787/1ab1e52e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [A growth-friendly and inclusive green transition strategy for Thailand](https://doi.org/10.1787/35b34175-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Strengthening economic resilience within global value chains in Switzerland](https://doi.org/10.1787/a5d115a8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Harnessing nearshoring opportunities in Mexico by boosting productivity and fighting climate change](https://doi.org/10.1787/0ca7fc0a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Labour markets transitions in the greening economy - Structural drivers and the role of policies](https://doi.org/10.1787/d8007e8f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Improving housing and urban development policies in Mexico](https://doi.org/10.1787/c2229c19-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Reducing inequalities and bolstering growth in Mexico](https://doi.org/10.1787/9bfe9ee5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 7 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Estonia 2024](https://doi.org/10.1787/33e6beee-en)
 
@@ -82,7 +244,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
 
 ### Additional Information
 
@@ -105,7 +267,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 2 May 2024 at 22:28
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
 
 ### Additional Information
 
@@ -114,6 +276,33 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 13 May 2024
+
+## [Financial literacy in Germany - Supporting financial resilience and well-being](https://doi.org/10.1787/c7a28393-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -130,9 +319,9 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 30 April 2024 at 23:05
+- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 30 April 2024 at 22:23
+- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
 
 ### Additional Information
 
@@ -267,11 +456,57 @@ Friday 17 May 2024 at 5:00 | no launch event
 
 ------
 
+## [La Regulación del Lobby y de la Influencia en Chile - Recomendaciones para fortalecer la transparencia y la integridad en la toma de decisiones públicas](https://doi.org/10.1787/2b5b18b8-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The Regulation of Lobbying and Influence in Chile - Recommendations for Strengthening Transparency and Integrity in Decision Making](https://doi.org/10.1787/e84a846f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 23 May 2024
 
-## [Ownership and Governance of State-Owned Enterprises 2024 - A Compendium of National Practices](https://doi.org/10.1787/395c9956-en)
+## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
 
 Embargo date | Launch date
 -------------|:------------:
