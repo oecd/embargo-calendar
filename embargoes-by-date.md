@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 May 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 7 May 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [6 May 2024](#6-may-2024)
 * [7 May 2024](#7-may-2024)
+* [10 May 2024](#10-may-2024)
 * [13 May 2024](#13-may-2024)
 * [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
@@ -13,6 +14,7 @@ Data generated on | |
 * [23 May 2024](#23-may-2024)
 * [28 May 2024](#28-may-2024)
 * [29 May 2024](#29-may-2024)
+* [31 May 2024](#31-may-2024)
 * [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
 * [19 June 2024](#19-june-2024)
@@ -60,7 +62,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -83,7 +85,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -106,7 +108,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -129,7 +131,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -152,7 +154,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -175,7 +177,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -198,7 +200,7 @@ Tuesday 7 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 6 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -219,15 +221,15 @@ Tuesday 7 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -244,7 +246,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 3 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -267,7 +269,7 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 2 May 2024 at 23:11
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -281,7 +283,57 @@ Tuesday 7 May 2024 at 14:00 | no launch event
 
 ------
 
+# 10 May 2024
+
+## [Dividend payments by state-owned enterprises - Policies and practices](https://doi.org/10.1787/975b5e78-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 13 May 2024
+
+## [Finanzbildung in Deutschland - Finanzielle Resilienz und finanzielles Wohlergehen verbessern](https://doi.org/10.1787/c20b27ac-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [Financial literacy in Germany - Supporting financial resilience and well-being](https://doi.org/10.1787/c7a28393-en)
 
@@ -292,9 +344,9 @@ Monday 13 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
@@ -314,20 +366,20 @@ Monday 13 May 2024 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
+Tuesday 14 May 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 6 May 2024 at 22:48
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -337,7 +389,7 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
+Tuesday 14 May 2024 at 7:00 | no launch event
 
 ### Status Information
 
@@ -359,52 +411,6 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 ------
 
 # 15 May 2024
-
-## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ## [What Does Child Empowerment Mean Today? - Implications for Education and Well-being](https://doi.org/10.1787/8f80ce38-en)
 
@@ -533,6 +539,29 @@ Thursday 23 May 2024 at 9:00 | no launch event
 
 # 28 May 2024
 
+## [Justice environnementale - Contexte, défis et approches nationales](https://doi.org/10.1787/d96d644d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 May 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Environmental Justice - Context, Challenges and National Approaches](https://doi.org/10.1787/57616eb4-en)
 
 Embargo date | Launch date
@@ -579,6 +608,56 @@ Wednesday 29 May 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 31 May 2024
+
+## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
