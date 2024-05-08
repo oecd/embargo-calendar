@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 May 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 8 May 2024 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [6 May 2024](#6-may-2024)
 * [7 May 2024](#7-may-2024)
 * [10 May 2024](#10-may-2024)
 * [13 May 2024](#13-may-2024)
@@ -19,33 +18,6 @@ Data generated on | |
 * [6 June 2024](#6-june-2024)
 * [19 June 2024](#19-june-2024)
 * [26 June 2024](#26-june-2024)
-
-------
-
-# 6 May 2024
-
-## [OECD Economic Surveys: New Zealand 2024](https://doi.org/10.1787/603809f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 May 2024 at 2:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
 
 ------
 

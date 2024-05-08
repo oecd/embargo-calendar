@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 May 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: New Zealand 2024](https://doi.org/10.1787/603809f2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 6 May 2024 at 2:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 3 May 2024 at 23:02
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 6 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Wednesday 8 May 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A review of Mexico’s participation in global value chains](https://doi.org/10.1787/1ab1e52e-en)
 
