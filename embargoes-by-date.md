@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 May 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 10 May 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 May 2024](#10-may-2024)
 * [13 May 2024](#13-may-2024)
@@ -33,7 +33,7 @@ Friday 10 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 May 2024 at 22:22
+- [x] Exported to OECD.org Friday 10 May 2024 at 22:21
 
 ### Additional Information
 

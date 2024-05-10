@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 9 May 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 10 May 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Dividend payments by state-owned enterprises - Policies and practices](https://doi.org/10.1787/975b5e78-en)
 
@@ -15,7 +15,7 @@ Friday 10 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 9 May 2024 at 22:22
+- [x] Exported to OECD.org Friday 10 May 2024 at 22:21
 
 ### Additional Information
 
