@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 10 May 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Dividend payments by state-owned enterprises - Policies and practices](https://doi.org/10.1787/975b5e78-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 10 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 10 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 12 May 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Finanzbildung in Deutschland - Finanzielle Resilienz und finanzielles Wohlergehen verbessern](https://doi.org/10.1787/c20b27ac-de)
 
@@ -38,7 +15,7 @@ Monday 13 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
+- [x] Exported to OECD.org Sunday 12 May 2024 at 22:20
 
 ### Additional Information
 
@@ -61,7 +38,7 @@ Monday 13 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
+- [x] Exported to OECD.org Sunday 12 May 2024 at 22:20
 
 ### Additional Information
 
