@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 May 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 May 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Finanzbildung in Deutschland - Finanzielle Resilienz und finanzielles Wohlergehen verbessern](https://doi.org/10.1787/c20b27ac-de)
 
@@ -15,7 +15,7 @@ Monday 13 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 May 2024 at 22:20
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 13 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 12 May 2024 at 22:20
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
 
 ### Additional Information
 
@@ -50,18 +50,87 @@ Monday 13 May 2024 at 5:00 | no launch event
 
 ------
 
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+## [Nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/eb4938a0-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 May 2024 at 7:00 | no launch event
+Tuesday 14 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 7 May 2024 at 22:23
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Artificial Intelligence Review of Egypt](https://doi.org/10.1787/2a282726-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 14 May 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
 
 ### Additional Information
 
@@ -70,29 +139,6 @@ Tuesday 14 May 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -105,40 +151,17 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Tackling Violence Against Women in the Middle East and North Africa - Governance and Victim/Survivor-Centred Approaches](https://doi.org/10.1787/e359bcfc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 17 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
 
 ------
 
@@ -197,15 +220,15 @@ Thursday 23 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
