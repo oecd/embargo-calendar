@@ -2,12 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 May 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 May 2024 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 May 2024](#13-may-2024)
 * [14 May 2024](#14-may-2024)
 * [15 May 2024](#15-may-2024)
 * [17 May 2024](#17-may-2024)
+* [21 May 2024](#21-may-2024)
 * [23 May 2024](#23-may-2024)
 * [28 May 2024](#28-may-2024)
 * [29 May 2024](#29-may-2024)
@@ -82,7 +83,7 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
@@ -103,9 +104,9 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
@@ -126,9 +127,9 @@ Tuesday 14 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 15:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
@@ -151,7 +152,7 @@ Tuesday 14 May 2024 at 13:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 13 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
@@ -175,24 +176,47 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 17 May 2024
+
+## [Occupational reallocation and mismatch in the wake of the Covid-19 pandemic - Cross-country evidence from an online job site](https://doi.org/10.1787/128b92aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 17 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [La Regulación del Lobby y de la Influencia en Chile - Recomendaciones para fortalecer la transparencia y la integridad en la toma de decisiones públicas](https://doi.org/10.1787/2b5b18b8-es)
 
@@ -203,15 +227,15 @@ Friday 17 May 2024 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -226,17 +250,67 @@ Friday 17 May 2024 at 12:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 21 May 2024
+
+## [Examens de l'OCDE sur la coopération pour le développement : Corée 2024](https://doi.org/10.1787/3547c1cc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [OECD Development Co‑operation Peer Reviews: Korea 2024](https://doi.org/10.1787/889c6564-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 21 May 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
