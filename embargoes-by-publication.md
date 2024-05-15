@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 14 May 2024 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Finanzbildung in Deutschland - Finanzielle Resilienz und finanzielles Wohlergehen verbessern](https://doi.org/10.1787/c20b27ac-de)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Financial literacy in Germany - Supporting financial resilience and well-being](https://doi.org/10.1787/c7a28393-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 7 May 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Wednesday 15 May 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/eb4938a0-en)
 
@@ -153,7 +107,7 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
 
 ### Additional Information
 
@@ -219,18 +173,18 @@ Friday 17 May 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -242,18 +196,18 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -266,9 +220,9 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
 
 ### Additional Information
 
@@ -483,6 +437,29 @@ Thursday 6 June 2024 at 2:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://doi.org/10.1787/8fd1bd9d-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
