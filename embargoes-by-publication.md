@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 May 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Nowcasting the growth rate of the ICT sector](https://doi.org/10.1787/eb4938a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Digital Economy Outlook 2024 (Volume 1) - Embracing the Technology Frontier](https://doi.org/10.1787/a1689dc5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 1) - Cap sur la frontière technologique](https://doi.org/10.1787/e34abd55-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 15:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Artificial Intelligence Review of Egypt](https://doi.org/10.1787/2a282726-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 14 May 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Thursday 16 May 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [What Does Child Empowerment Mean Today? - Implications for Education and Well-being](https://doi.org/10.1787/8f80ce38-en)
 
@@ -119,6 +27,29 @@ Wednesday 15 May 2024 at 12:00 | no launch event
 
 ------
 
+## [Assessing the enabling conditions for investment in water security - Scorecard pilot test in Asian countries](https://doi.org/10.1787/b96936c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 16 May 2024 at 13:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2024 at 22:50
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Occupational reallocation and mismatch in the wake of the Covid-19 pandemic - Cross-country evidence from an online job site](https://doi.org/10.1787/128b92aa-en)
 
 Embargo date | Launch date
@@ -130,7 +61,7 @@ Friday 17 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
 
 ### Additional Information
 
@@ -150,18 +81,18 @@ Friday 17 May 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 16 May 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 14 May 2024 at 22:22
+- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -176,7 +107,7 @@ Friday 17 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
+- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
 
 ### Additional Information
 
@@ -234,6 +165,29 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 
 ------
 
+## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 23 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
 
 Embargo date | Launch date
@@ -243,9 +197,9 @@ Thursday 23 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 13 May 2024 at 22:45
+- [x] Exported to iLibrary Thursday 16 May 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 13 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
 
 ### Additional Information
 
