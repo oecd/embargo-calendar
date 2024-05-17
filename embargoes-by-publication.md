@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 May 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
-
-## [What Does Child Empowerment Mean Today? - Implications for Education and Well-being](https://doi.org/10.1787/8f80ce38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 May 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Friday 17 May 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing the enabling conditions for investment in water security - Scorecard pilot test in Asian countries](https://doi.org/10.1787/b96936c4-en)
 
@@ -61,7 +38,7 @@ Friday 17 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 14 May 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
@@ -84,7 +61,7 @@ Friday 17 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 16 May 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
@@ -107,7 +84,7 @@ Friday 17 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
@@ -173,22 +150,22 @@ Thursday 23 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
+## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -196,18 +173,18 @@ Thursday 23 May 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 16 May 2024 at 22:50
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 16 May 2024 at 22:23
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -242,18 +219,18 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -598,6 +575,52 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 June 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
