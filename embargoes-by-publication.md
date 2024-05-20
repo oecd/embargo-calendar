@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 May 2024 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 20 May 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examens de l'OCDE sur la coopération pour le développement : Corée 2024](https://doi.org/10.1787/3547c1cc-fr)
 
@@ -15,7 +15,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
+- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 15 May 2024 at 22:23
+- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
 
 ### Additional Information
 
