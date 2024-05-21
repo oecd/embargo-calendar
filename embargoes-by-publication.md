@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 May 2024 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 May 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examens de l'OCDE sur la coopération pour le développement : Corée 2024](https://doi.org/10.1787/3547c1cc-fr)
 
@@ -15,7 +15,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
 
 ### Additional Information
 
@@ -47,29 +47,6 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
 
 ------
 
@@ -91,6 +68,75 @@ Thursday 23 May 2024 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The economic cost of childhood socio-economic disadvantage in Canada](https://doi.org/10.1787/7abf1837-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Artificial intelligence, data and competition](https://doi.org/10.1787/e7e88884-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 

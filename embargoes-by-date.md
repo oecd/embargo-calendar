@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 May 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 May 2024 at 23:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 May 2024](#21-may-2024)
 * [23 May 2024](#23-may-2024)
+* [24 May 2024](#24-may-2024)
 * [28 May 2024](#28-may-2024)
 * [29 May 2024](#29-may-2024)
 * [31 May 2024](#31-may-2024)
@@ -32,7 +33,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
 
 ### Additional Information
 
@@ -55,7 +56,7 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 20 May 2024 at 22:20
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
 
 ### Additional Information
 
@@ -70,29 +71,6 @@ Tuesday 21 May 2024 at 6:00 | no launch event
 ------
 
 # 23 May 2024
-
-## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
 
@@ -112,6 +90,79 @@ Thursday 23 May 2024 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Forthcoming*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 24 May 2024
+
+## [The economic cost of childhood socio-economic disadvantage in Canada](https://doi.org/10.1787/7abf1837-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Artificial intelligence, data and competition](https://doi.org/10.1787/e7e88884-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
