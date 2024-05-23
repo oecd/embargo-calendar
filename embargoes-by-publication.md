@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 May 2024 at 9:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 May 2024 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
 
@@ -15,7 +15,7 @@ Thursday 23 May 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 17 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
@@ -23,6 +23,98 @@ Thursday 23 May 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The economics of water scarcity](https://doi.org/10.1787/81d1bc0a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [The implementation of the Polluter Pays principle in the context of the Water Framework Directive](https://doi.org/10.1787/699601fc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Water investment planning and financing](https://doi.org/10.1787/0342dc17-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Cost recovery for water services under the Water Framework Directive](https://doi.org/10.1787/e2a363e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -38,7 +130,7 @@ Friday 24 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
@@ -61,7 +153,7 @@ Friday 24 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
@@ -84,7 +176,7 @@ Friday 24 May 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
@@ -92,6 +184,52 @@ Friday 24 May 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The New Collective Quantified Goal on climate finance - Options for reflecting the role of different sources, actors, and qualitative considerations](https://doi.org/10.1787/7b28309b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Insights for designing mitigation elements in the next round of Nationally Determined Contributions (NDCs)](https://doi.org/10.1787/b70a88ef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -119,48 +257,25 @@ Monday 27 May 2024 at 7:00 | no launch event
 
 ------
 
-## [Élèves et écrans - Performance académique et bien-être](https://doi.org/10.1787/b3c4552d-fr)
+## [Labor Migration in Asia - Trends, Skills Certification and Seasonal Work](https://doi.org/10.1787/9b45c5c4-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 27 May 2024 at 10:00 | no launch event
+Tuesday 28 May 2024 at 1:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 May 2024 at 22:21
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Students, digital devices and success](https://doi.org/10.1787/9e4c0624-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -243,17 +358,17 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -265,18 +380,18 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -597,6 +712,29 @@ Friday 28 June 2024 at 9:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [The Economic Case for Greater LGBTI+ Equality in the United States](https://doi.org/10.1787/5adfe3a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 June 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
