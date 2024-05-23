@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 May 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 May 2024 at 9:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 May 2024](#21-may-2024)
 * [23 May 2024](#23-may-2024)
 * [24 May 2024](#24-may-2024)
 * [27 May 2024](#27-may-2024)
@@ -18,56 +17,6 @@ Data generated on | |
 * [26 June 2024](#26-june-2024)
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
-
-------
-
-# 21 May 2024
-
-## [Examens de l'OCDE sur la coopération pour le développement : Corée 2024](https://doi.org/10.1787/3547c1cc-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 May 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Development Co‑operation Peer Reviews: Korea 2024](https://doi.org/10.1787/889c6564-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 May 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 15 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 21 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
