@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 May 2024 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 25 May 2024 at 1:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 May 2024](#23-may-2024)
 * [24 May 2024](#24-may-2024)
 * [27 May 2024](#27-may-2024)
 * [28 May 2024](#28-may-2024)
@@ -13,37 +12,11 @@ Data generated on | |
 * [6 June 2024](#6-june-2024)
 * [11 June 2024](#11-june-2024)
 * [18 June 2024](#18-june-2024)
-* [19 June 2024](#19-june-2024)
+* [20 June 2024](#20-june-2024)
 * [26 June 2024](#26-june-2024)
+* [27 June 2024](#27-june-2024)
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
-
-------
-
-# 23 May 2024
-
-## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 23 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -58,9 +31,9 @@ Friday 24 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -81,9 +54,9 @@ Friday 24 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -104,9 +77,9 @@ Friday 24 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -127,9 +100,9 @@ Friday 24 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -152,7 +125,7 @@ Friday 24 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -175,7 +148,7 @@ Friday 24 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -196,14 +169,37 @@ Friday 24 May 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
+- [x] Exported to iLibrary Friday 24 May 2024 at 14:22
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 24 May 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -318,18 +314,18 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -342,9 +338,9 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
 
 ### Additional Information
 
@@ -353,6 +349,29 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Tax and Development at the OECD - A Retrospective (2009-2024)](https://doi.org/10.1787/9db734bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 May 2024 at 15:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -516,13 +535,13 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 
 ------
 
-# 19 June 2024
+# 20 June 2024
 
-## [Start-up Asia - Chasing the Innovation Frontier](https://doi.org/10.1787/a9b71040-en)
+## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 19 June 2024 at 22:00 | no launch event
+Thursday 20 June 2024 at 5:00 | no launch event
 
 ### Status Information
 
@@ -533,10 +552,10 @@ Wednesday 19 June 2024 at 22:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Centre*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -703,6 +722,33 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 27 June 2024
+
+## [PISA 2022 Results (Volume IV) - How Financially Smart are Students?](https://doi.org/10.1787/5a849c2a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
