@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 25 May 2024 at 1:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 26 May 2024 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 May 2024](#24-may-2024)
 * [27 May 2024](#27-may-2024)
 * [28 May 2024](#28-may-2024)
 * [29 May 2024](#29-may-2024)
@@ -17,194 +16,6 @@ Data generated on | |
 * [27 June 2024](#27-june-2024)
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
-
-------
-
-# 24 May 2024
-
-## [The economics of water scarcity](https://doi.org/10.1787/81d1bc0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The implementation of the Polluter Pays principle in the context of the Water Framework Directive](https://doi.org/10.1787/699601fc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Water investment planning and financing](https://doi.org/10.1787/0342dc17-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Cost recovery for water services under the Water Framework Directive](https://doi.org/10.1787/e2a363e3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [The economic cost of childhood socio-economic disadvantage in Canada](https://doi.org/10.1787/7abf1837-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Artificial intelligence, data and competition](https://doi.org/10.1787/e7e88884-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 21 May 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [2024 Progress Report on Tax Co-operation for the 21st Century - OECD Report for the G7 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/24adfedf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 14:22
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Rapport d’étape 2024 sur la coopération fiscale au XXIe siècle - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G7](https://doi.org/10.1787/2f69cb53-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 24 May 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -244,7 +55,7 @@ Monday 27 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Sunday 26 May 2024 at 22:21
 
 ### Additional Information
 
@@ -267,7 +78,7 @@ Monday 27 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 22 May 2024 at 22:21
+- [x] Exported to OECD.org Sunday 26 May 2024 at 22:21
 
 ### Additional Information
 
