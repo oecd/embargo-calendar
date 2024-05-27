@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 May 2024 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 27 May 2024 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The New Collective Quantified Goal on climate finance - Options for reflecting the role of different sources, actors, and qualitative considerations](https://doi.org/10.1787/7b28309b-en)
 
@@ -38,7 +38,7 @@ Monday 27 May 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 May 2024 at 22:21
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 27 May 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 26 May 2024 at 22:21
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 28 May 2024 at 1:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 24 May 2024 at 22:24
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
@@ -169,20 +169,20 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 29 May 2024 at 9:00 | no launch event
+Wednesday 29 May 2024 at 10:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 27 May 2024 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -277,6 +277,29 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Artificial Intelligence Review of Germany](https://doi.org/10.1787/609808d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 

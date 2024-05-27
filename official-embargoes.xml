@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-05-26T23:19:00.5777233+02:00">
+<report name="official-embargoes" generated="2024-05-27T23:25:06.0875442+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-26T20:21:25Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -73,7 +73,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-22T20:45:04Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-26T20:21:25Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-23T20:21:46Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -213,7 +213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-24T20:24:59Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -393,7 +393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-24T20:24:59Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -653,7 +653,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-24T20:24:59Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -813,7 +813,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-24T20:24:59Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -873,7 +873,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-24T20:24:59Z</cell>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -887,13 +887,13 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2024-05-29</cell>
-    <cell name="embargo date">2024-05-29T09:00:00Z</cell>
+    <cell name="embargo date">2024-05-29T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-05-27T20:53:12Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1761,6 +1761,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf36a95d</cell>
   </row>
   <row index="88">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/609808d6-en</cell>
+    <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/574f6e73</cell>
+  </row>
+  <row index="89">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00e9b3fd</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe822d4f</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c7df7e3</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77503beb</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b01d77</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca00e352</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e523a97</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82a111fb</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2da11d0</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748583c7</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce978234</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d0490a</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79e5438</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6fedfff</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e1a14b3</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be4a569d</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58d94f5</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6476d</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5a849c2a-en</cell>
     <cell name="title">PISA 2022 Results (Volume IV) (en)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1498d8</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd96e2ed-en</cell>
     <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -2220,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59375f7</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec715c4f</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -2280,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423f1386</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -2300,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f515d2d4</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
