@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-05-27T23:25:06.0875442+02:00">
+<report name="official-embargoes" generated="2024-05-28T23:42:56.0137646+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-05-27T21:48:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -54,7 +54,7 @@
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-05-27T21:48:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -74,7 +74,7 @@
     <cell name="ilibrary last export date">2024-05-22T20:45:04Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-05-27T21:48:32Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -93,7 +93,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -213,7 +213,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -393,7 +393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -653,7 +653,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -813,7 +813,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -873,7 +873,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-24T20:51:33Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -882,25 +882,45 @@
   </row>
   <row index="44">
     <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/be989b9c-en</cell>
+    <cell name="title">Assessing the enabling conditions for investment in Armenia's water security (en)</cell>
+    <cell name="subtitle">Scorecard pilot test (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-05-29</cell>
+    <cell name="embargo date">2024-05-29T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-05-28T21:02:32Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9957faa</cell>
+  </row>
+  <row index="45">
+    <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/19150727-en</cell>
     <cell name="title">Climate Finance Provided and Mobilised by Developed Countries in 2013-2022 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-05-29</cell>
     <cell name="embargo date">2024-05-29T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-05-27T20:53:12Z</cell>
+    <cell name="ilibrary last export date">2024-05-28T21:02:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-27T20:23:00Z</cell>
+    <cell name="oecd.org last export date">2024-05-28T20:28:41Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ef7ad55</cell>
   </row>
-  <row index="45">
+  <row index="46">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/563b4979-pt</cell>
     <cell name="title">Metodologia (pt)</cell>
@@ -920,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c17eb922</cell>
   </row>
-  <row index="46">
+  <row index="47">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4ffd27ee-pt</cell>
     <cell name="title">Contexto institucional e setorial (pt)</cell>
@@ -940,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1776ff</cell>
   </row>
-  <row index="47">
+  <row index="48">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2147b6a-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -960,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7022f264</cell>
   </row>
-  <row index="48">
+  <row index="49">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/42a85c11-pt</cell>
     <cell name="title">Governança da ANA (pt)</cell>
@@ -980,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f32a7ca0</cell>
   </row>
-  <row index="49">
+  <row index="50">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f3c9f63b-en</cell>
     <cell name="title">Governance of ANA (en)</cell>
@@ -1000,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/26416b30</cell>
   </row>
-  <row index="50">
+  <row index="51">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/c8f11696-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1020,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7d0d265</cell>
   </row>
-  <row index="51">
+  <row index="52">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1040,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac7a1cc8</cell>
   </row>
-  <row index="52">
+  <row index="53">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/74298383-pt</cell>
     <cell name="title">Avaliação e recomendações (pt)</cell>
@@ -1060,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f2d42b7</cell>
   </row>
-  <row index="53">
+  <row index="54">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/86defe63-pt</cell>
     <cell name="title">Abreviaturas e siglas (pt)</cell>
@@ -1080,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be5fce8c</cell>
   </row>
-  <row index="54">
+  <row index="55">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5e781230-pt</cell>
     <cell name="title">Sumário executivo (pt)</cell>
@@ -1100,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/008d51ba</cell>
   </row>
-  <row index="55">
+  <row index="56">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1120,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f43fa383</cell>
   </row>
-  <row index="56">
+  <row index="57">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cf57b8c5-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1140,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8515c85d</cell>
   </row>
-  <row index="57">
+  <row index="58">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1160,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30429927</cell>
   </row>
-  <row index="58">
+  <row index="59">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/d2147b6a-en</cell>
     <cell name="title">Methodology (en)</cell>
@@ -1180,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a8a96d2a</cell>
   </row>
-  <row index="59">
+  <row index="60">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1200,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97af2c4c</cell>
   </row>
-  <row index="60">
+  <row index="61">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/42a85c11-pt</cell>
     <cell name="title">Governança da ANA (pt)</cell>
@@ -1220,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d13b6cef</cell>
   </row>
-  <row index="61">
+  <row index="62">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1240,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a71ca6a</cell>
   </row>
-  <row index="62">
+  <row index="63">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e23927fa-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1260,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2064ca74</cell>
   </row>
-  <row index="63">
+  <row index="64">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5e781230-pt</cell>
     <cell name="title">Sumário executivo (pt)</cell>
@@ -1280,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8ea2323</cell>
   </row>
-  <row index="64">
+  <row index="65">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0c341b62-pt</cell>
     <cell name="title">Prefácio (pt)</cell>
@@ -1300,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bce83954</cell>
   </row>
-  <row index="65">
+  <row index="66">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1320,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7796bd06</cell>
   </row>
-  <row index="66">
+  <row index="67">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/563b4979-pt</cell>
     <cell name="title">Metodologia (pt)</cell>
@@ -1340,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5232a904</cell>
   </row>
-  <row index="67">
+  <row index="68">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1360,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e5c1197</cell>
   </row>
-  <row index="68">
+  <row index="69">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1380,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2af6d030</cell>
   </row>
-  <row index="69">
+  <row index="70">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a35039c-en</cell>
     <cell name="title">Institutional and sector context (en)</cell>
@@ -1400,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5ccfde6</cell>
   </row>
-  <row index="70">
+  <row index="71">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/f3c9f63b-en</cell>
     <cell name="title">Governance of ANA (en)</cell>
@@ -1420,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8822a802</cell>
   </row>
-  <row index="71">
+  <row index="72">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/86defe63-pt</cell>
     <cell name="title">Abreviaturas e siglas (pt)</cell>
@@ -1440,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bf5815d</cell>
   </row>
-  <row index="72">
+  <row index="73">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0c341b62-pt</cell>
     <cell name="title">Prefácio (pt)</cell>
@@ -1460,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07fca86f</cell>
   </row>
-  <row index="73">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/4ffd27ee-pt</cell>
     <cell name="title">Contexto institucional e setorial (pt)</cell>
@@ -1480,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37faa9fb</cell>
   </row>
-  <row index="74">
+  <row index="75">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/976bf5d2-pt</cell>
     <cell name="title">Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil (pt)</cell>
@@ -1500,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60c2ab7a</cell>
   </row>
-  <row index="75">
+  <row index="76">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e23927fa-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1520,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef6f9ce6</cell>
   </row>
-  <row index="76">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3a917149-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1540,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d97d6369</cell>
   </row>
-  <row index="77">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/5b7dffa0-en</cell>
     <cell name="title">Driving Performance at Brazil’s National Agency for Water and Basic Sanitation (en)</cell>
@@ -1560,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c3e6e6a</cell>
   </row>
-  <row index="78">
+  <row index="79">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0a35039c-en</cell>
     <cell name="title">Institutional and sector context (en)</cell>
@@ -1580,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f247c12</cell>
   </row>
-  <row index="79">
+  <row index="80">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/3a917149-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1600,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a74c5dad</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/74298383-pt</cell>
     <cell name="title">Avaliação e recomendações (pt)</cell>
@@ -1620,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c46c500b</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cf57b8c5-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1640,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efffe0cc</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6bb8108c-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1660,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfeb86bb</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/6bb8108c-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82956bd9</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/756b6663-en</cell>
     <cell name="title">Multi-dimensional Review of Lao PDR (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/921515af</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/756b6663-en</cell>
     <cell name="title">Multi-dimensional Review of Lao PDR (en)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dad4a933</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8fd1bd9d-de</cell>
     <cell name="title">OECD-Bericht zu Künstlicher Intelligenz in Deutschland (de)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/583bfc3e</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8fd1bd9d-de</cell>
     <cell name="title">OECD-Bericht zu Künstlicher Intelligenz in Deutschland (de)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf36a95d</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/574f6e73</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00e9b3fd</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe822d4f</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c7df7e3</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77503beb</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b01d77</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca00e352</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e523a97</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82a111fb</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2da11d0</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748583c7</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce978234</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d0490a</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79e5438</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6fedfff</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e1a14b3</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -2120,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be4a569d</cell>
   </row>
-  <row index="106">
+  <row index="107">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -2140,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58d94f5</cell>
   </row>
-  <row index="107">
+  <row index="108">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -2160,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6476d</cell>
   </row>
-  <row index="108">
+  <row index="109">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5a849c2a-en</cell>
     <cell name="title">PISA 2022 Results (Volume IV) (en)</cell>
@@ -2180,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1498d8</cell>
   </row>
-  <row index="109">
+  <row index="110">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -2200,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
   </row>
-  <row index="110">
+  <row index="111">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd96e2ed-en</cell>
     <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
@@ -2220,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
   </row>
-  <row index="111">
+  <row index="112">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -2240,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
   </row>
-  <row index="112">
+  <row index="113">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -2260,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59375f7</cell>
   </row>
-  <row index="113">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -2280,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec715c4f</cell>
   </row>
-  <row index="114">
+  <row index="115">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -2300,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423f1386</cell>
   </row>
-  <row index="115">
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -2320,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f515d2d4</cell>
   </row>
-  <row index="116">
+  <row index="117">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 May 2024 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 28 May 2024 at 23:42* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The New Collective Quantified Goal on climate finance - Options for reflecting the role of different sources, actors, and qualitative considerations](https://doi.org/10.1787/7b28309b-en)
 
@@ -84,7 +84,7 @@ Tuesday 28 May 2024 at 1:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -161,6 +161,29 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Assessing the enabling conditions for investment in Armenia's water security - Scorecard pilot test](https://doi.org/10.1787/be989b9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -173,16 +196,16 @@ Wednesday 29 May 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 May 2024 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 

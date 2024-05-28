@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 27 May 2024 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 28 May 2024 at 23:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 May 2024](#27-may-2024)
 * [28 May 2024](#28-may-2024)
@@ -105,7 +105,7 @@ Tuesday 28 May 2024 at 1:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -128,7 +128,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -151,7 +151,7 @@ Tuesday 28 May 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -174,7 +174,7 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 24 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
@@ -190,6 +190,29 @@ Tuesday 28 May 2024 at 15:00 | no launch event
 
 # 29 May 2024
 
+## [Assessing the enabling conditions for investment in Armenia's water security - Scorecard pilot test](https://doi.org/10.1787/be989b9c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
 ## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2022](https://doi.org/10.1787/19150727-en)
 
 Embargo date | Launch date
@@ -198,16 +221,16 @@ Wednesday 29 May 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 27 May 2024 at 22:53
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
