@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 May 2024 at 23:42* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The New Collective Quantified Goal on climate finance - Options for reflecting the role of different sources, actors, and qualitative considerations](https://doi.org/10.1787/7b28309b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Insights for designing mitigation elements in the next round of Nationally Determined Contributions (NDCs)](https://doi.org/10.1787/b70a88ef-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Managing screen time - How to protect and equip students against distraction](https://doi.org/10.1787/7c225af4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 May 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 22 May 2024 at 22:45
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 30 May 2024 at 0:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Labor Migration in Asia - Trends, Skills Certification and Seasonal Work](https://doi.org/10.1787/9b45c5c4-en)
 
@@ -174,9 +105,9 @@ Wednesday 29 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
+- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
 
 ### Additional Information
 
@@ -197,9 +128,9 @@ Wednesday 29 May 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 28 May 2024 at 23:02
+- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
 
 ### Additional Information
 
@@ -208,6 +139,29 @@ Wednesday 29 May 2024 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Financement climatique fourni et mobilisé par les pays développés en 2013-2022](https://doi.org/10.1787/9db2b91d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 29 May 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
 
 ------
 
@@ -369,6 +323,29 @@ Thursday 20 June 2024 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Society at a Glance 2024 - OECD Social Indicators](https://doi.org/10.1787/918d8db3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 June 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
