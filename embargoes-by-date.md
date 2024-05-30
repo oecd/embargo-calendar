@@ -2,115 +2,22 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 May 2024 at 0:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 May 2024 at 23:28* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 May 2024](#28-may-2024)
 * [29 May 2024](#29-may-2024)
+* [31 May 2024](#31-may-2024)
 * [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
 * [11 June 2024](#11-june-2024)
 * [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
+* [24 June 2024](#24-june-2024)
+* [25 June 2024](#25-june-2024)
 * [26 June 2024](#26-june-2024)
 * [27 June 2024](#27-june-2024)
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
-
-------
-
-# 28 May 2024
-
-## [Labor Migration in Asia - Trends, Skills Certification and Seasonal Work](https://doi.org/10.1787/9b45c5c4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 May 2024 at 1:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Justice environnementale - Contexte, défis et approches nationales](https://doi.org/10.1787/d96d644d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 May 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Environmental Justice - Context, Challenges and National Approaches](https://doi.org/10.1787/57616eb4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 May 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Tax and Development at the OECD - A Retrospective (2009-2024)](https://doi.org/10.1787/9db734bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 May 2024 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 24 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 28 May 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+* [2 July 2024](#2-july-2024)
 
 ------
 
@@ -182,6 +89,33 @@ Wednesday 29 May 2024 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, PDF*
+
+------
+
+------
+
+# 31 May 2024
+
+## [The return of industrial policies - Policy considerations in the current context](https://doi.org/10.1787/051ce36d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 31 May 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 30 May 2024 at 22:52
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 30 May 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -391,7 +325,84 @@ Thursday 20 June 2024 at 9:00 | no launch event
 
 ------
 
+# 24 June 2024
+
+## [OECD Economic Surveys: United States 2024](https://doi.org/10.1787/cdfff156-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 June 2024
+
+## [Revenue Statistics in Asia and the Pacific 2024 - Tax Revenue Buoyancy in Asia](https://doi.org/10.1787/e4681bfa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 26 June 2024
+
+## [Strengthening Active Labour Market Policies in Korea](https://doi.org/10.1787/44cb97d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Western Balkans Competitiveness Outlook 2024: Serbia](https://doi.org/10.1787/3699c0d5-en)
 
@@ -700,6 +711,33 @@ Monday 1 July 2024 at 6:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 2 July 2024
+
+## [OECD Green Growth Policy Reviews: Egypt 2024](https://doi.org/10.1787/b9096cec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
