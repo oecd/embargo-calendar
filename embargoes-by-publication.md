@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 May 2024 at 23:28* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Assessing the enabling conditions for investment in Armenia's water security - Scorecard pilot test](https://doi.org/10.1787/be989b9c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Climate Finance Provided and Mobilised by Developed Countries in 2013-2022](https://doi.org/10.1787/19150727-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Financement climatique fourni et mobilisé par les pays développés en 2013-2022](https://doi.org/10.1787/9db2b91d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 29 May 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 29 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 29 May 2024 at 22:22
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF*
-
-------
+| *Friday 31 May 2024 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The return of industrial policies - Policy considerations in the current context](https://doi.org/10.1787/051ce36d-en)
 
@@ -82,9 +13,9 @@ Friday 31 May 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 30 May 2024 at 22:52
+- [x] Exported to iLibrary Friday 31 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 30 May 2024 at 22:23
+- [x] Exported to OECD.org Friday 31 May 2024 at 22:24
 
 ### Additional Information
 
@@ -150,18 +81,18 @@ Thursday 6 June 2024 at 2:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 31 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 31 May 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -353,7 +284,7 @@ Wednesday 26 June 2024 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -376,7 +307,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -399,7 +330,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -422,7 +353,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -445,7 +376,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -468,7 +399,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -491,7 +422,7 @@ Wednesday 26 June 2024 at 9:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 9:30 | no launch event
+Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
