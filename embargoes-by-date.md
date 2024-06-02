@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 May 2024 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 2 June 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 May 2024](#31-may-2024)
 * [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
 * [11 June 2024](#11-june-2024)
@@ -17,33 +16,6 @@ Data generated on | |
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
 * [2 July 2024](#2-july-2024)
-
-------
-
-# 31 May 2024
-
-## [The return of industrial policies - Policy considerations in the current context](https://doi.org/10.1787/051ce36d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
 
 ------
 

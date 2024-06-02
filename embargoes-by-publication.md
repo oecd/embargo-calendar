@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 May 2024 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The return of industrial policies - Policy considerations in the current context](https://doi.org/10.1787/051ce36d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 May 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 May 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 2 June 2024 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
 
