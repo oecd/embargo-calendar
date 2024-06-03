@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 June 2024 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 June 2024 at 1:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
 
@@ -104,6 +104,29 @@ Tuesday 11 June 2024 at 6:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 3 June 2024 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 3 June 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Résultats du PISA 2022 (Volume III) - La pensée créative en milieu scolaire (version abrégée)](https://doi.org/10.1787/b04a0009-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 June 2024 at 8:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -111,10 +134,10 @@ Tuesday 11 June 2024 at 6:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -572,6 +595,52 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Corporate Tax Statistics 2024](https://doi.org/10.1787/9c27d6e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
