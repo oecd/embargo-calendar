@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 June 2024 at 1:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 June 2024 at 23:25* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
@@ -16,8 +16,10 @@ Data generated on | |
 * [28 June 2024](#28-june-2024)
 * [1 July 2024](#1-july-2024)
 * [2 July 2024](#2-july-2024)
+* [5 July 2024](#5-july-2024)
 * [9 July 2024](#9-july-2024)
 * [10 July 2024](#10-july-2024)
+* [25 September 2024](#25-september-2024)
 
 ------
 
@@ -34,7 +36,7 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 4 June 2024 at 22:26
 
 ### Additional Information
 
@@ -57,7 +59,7 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 23 May 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 4 June 2024 at 22:26
 
 ### Additional Information
 
@@ -150,7 +152,7 @@ Tuesday 11 June 2024 at 6:00 | no launch event
 
 # 18 June 2024
 
-## [Résultats du PISA 2022 (Volume III) - La pensée créative en milieu scolaire (version abrégée)](https://doi.org/10.1787/b04a0009-fr)
+## [Résultats du PISA 2022 (Volume III - version abrégée) - La pensée créative en milieu scolaire](https://doi.org/10.1787/b04a0009-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -615,6 +617,29 @@ Friday 28 June 2024 at 14:00 | no launch event
 
 # 1 July 2024
 
+## [Illicit Trade and the Korean Economy](https://doi.org/10.1787/bc0bdd4a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
 
 Embargo date | Launch date
@@ -662,6 +687,33 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 July 2024
+
+## [Africa's Development Dynamics 2024 - Skills, Jobs and Productivity](https://doi.org/10.1787/df06c7a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 July 2024 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -716,5 +768,32 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 25 September 2024
+
+## [Second Progress Review of Latvia’s Public Utilities Commission - Driving Performance](https://doi.org/10.1787/cbc2afd5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 September 2024 at 7:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------

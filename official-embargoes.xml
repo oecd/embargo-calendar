@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-06-04T01:36:01.7538263+02:00">
+<report name="official-embargoes" generated="2024-06-04T23:25:45.8413023+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -273,7 +273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-23T20:21:46Z</cell>
+    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -353,7 +353,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-23T20:21:46Z</cell>
+    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -493,7 +493,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-23T20:21:46Z</cell>
+    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -613,7 +613,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-23T20:21:46Z</cell>
+    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3963,8 +3963,8 @@
   <row index="198">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b04a0009-fr</cell>
-    <cell name="title">Résultats du PISA 2022 (Volume III) (fr)</cell>
-    <cell name="subtitle">La pensée créative en milieu scolaire (version abrégée) (fr)</cell>
+    <cell name="title">Résultats du PISA 2022 (Volume III - version abrégée) (fr)</cell>
+    <cell name="subtitle">La pensée créative en milieu scolaire (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -4188,7 +4188,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2024-06-25</cell>
     <cell name="embargo date">2024-06-25T13:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -4208,7 +4208,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2024-06-25</cell>
     <cell name="embargo date">2024-06-25T13:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -4681,6 +4681,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423f1386</cell>
   </row>
   <row index="234">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/bc0bdd4a-en</cell>
+    <cell name="title">Illicit Trade and the Korean Economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-07-01</cell>
+    <cell name="embargo date">2024-07-01T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef44f8ba</cell>
+  </row>
+  <row index="235">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -4700,7 +4720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f515d2d4</cell>
   </row>
-  <row index="235">
+  <row index="236">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -4720,7 +4740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8ca587a</cell>
   </row>
-  <row index="236">
+  <row index="237">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -4740,7 +4760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b880821</cell>
   </row>
-  <row index="237">
+  <row index="238">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -4760,7 +4780,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12df80b6</cell>
   </row>
-  <row index="238">
+  <row index="239">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/df06c7a4-en</cell>
+    <cell name="title">Africa's Development Dynamics 2024 (en)</cell>
+    <cell name="subtitle">Skills, Jobs and Productivity (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-07-05</cell>
+    <cell name="embargo date">2024-07-05T06:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c60eff03</cell>
+  </row>
+  <row index="240">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4780,7 +4820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f693883</cell>
   </row>
-  <row index="239">
+  <row index="241">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4800,7 +4840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52e2d04</cell>
   </row>
-  <row index="240">
+  <row index="242">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4820,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec7afa20</cell>
   </row>
-  <row index="241">
+  <row index="243">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4839,5 +4879,25 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37dfc9bb</cell>
+  </row>
+  <row index="244">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/cbc2afd5-en</cell>
+    <cell name="title">Second Progress Review of Latvia’s Public Utilities Commission (en)</cell>
+    <cell name="subtitle">Driving Performance (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-25</cell>
+    <cell name="embargo date">2024-09-25T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea322959</cell>
   </row>
 </report>
