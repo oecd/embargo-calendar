@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 June 2024 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 June 2024 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
 
@@ -15,7 +15,7 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 June 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Wednesday 5 June 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 4 June 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Thursday 6 June 2024 at 2:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 31 May 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 31 May 2024 at 22:24
+- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
 
 ### Additional Information
 
@@ -81,7 +81,7 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -119,7 +119,7 @@ Tuesday 11 June 2024 at 6:00 | no launch event
 
 ------
 
-## [Résultats du PISA 2022 (Volume III - version abrégée) - La pensée créative en milieu scolaire](https://doi.org/10.1787/b04a0009-fr)
+## [Résultats du PISA 2022 (Volume III – version abrégée) - La pensée créative en milieu scolaire](https://doi.org/10.1787/b04a0009-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -441,7 +441,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ------
 
-## [PISA 2022 Results (Volume IV) - How Financially Smart are Students?](https://doi.org/10.1787/5a849c2a-en)
+## [PISA 2022 Results (Volume IV) - How Financially Smart Are Students?](https://doi.org/10.1787/5a849c2a-en)
 
 Embargo date | Launch date
 -------------|:------------:

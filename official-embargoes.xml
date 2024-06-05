@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-06-04T23:25:45.8413023+02:00">
+<report name="official-embargoes" generated="2024-06-05T23:19:51.2928295+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -273,7 +273,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -353,7 +353,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -493,7 +493,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -613,7 +613,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-23T20:48:36Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-04T20:26:36Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -993,7 +993,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-31T20:51:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-31T20:24:05Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1653,7 +1653,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-05-31T20:51:32Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-31T20:24:05Z</cell>
+    <cell name="oecd.org last export date">2024-06-05T20:23:43Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -3202,6 +3202,166 @@
   </row>
   <row index="160">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/c1841cac-de</cell>
+    <cell name="title">Spotlight: KI und ökologische Nachhaltigkeit (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/463d8d65</cell>
+  </row>
+  <row index="161">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/f967edba-de</cell>
+    <cell name="title">Abkürzungen und Akronyme (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6e4b0cc</cell>
+  </row>
+  <row index="162">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/3f423959-de</cell>
+    <cell name="title">Gesellschaft (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99407e2b</cell>
+  </row>
+  <row index="163">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/057bb87f-de</cell>
+    <cell name="title">Wichtigste Ergebnisse (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eaad80d7</cell>
+  </row>
+  <row index="164">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/46059e95-de</cell>
+    <cell name="title">Kurzfassung (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d0dd36e</cell>
+  </row>
+  <row index="165">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/bb15c853-de</cell>
+    <cell name="title">Zusätzliche Abbildungen (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1bcc937f</cell>
+  </row>
+  <row index="166">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/15353e45-de</cell>
+    <cell name="title">Spotlight: KI und Gesundheitswesen (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d7a757a</cell>
+  </row>
+  <row index="167">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/7b4348e5-de</cell>
+    <cell name="title">Tabelle Liste der Befragten (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b18b866</cell>
+  </row>
+  <row index="168">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8fd1bd9d-de</cell>
     <cell name="title">OECD-Bericht zu Künstlicher Intelligenz in Deutschland (de)</cell>
     <cell name="subtitle"/>
@@ -3217,10 +3377,150 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/583bfc3e</cell>
   </row>
-  <row index="161">
+  <row index="169">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/02eb9d2a-de</cell>
+    <cell name="title">KI-Transfer, -Anwendungen und -Recheninfrastruktur (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0196e4c</cell>
+  </row>
+  <row index="170">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/eddfccb1-de</cell>
+    <cell name="title">Forschung (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1d60f4f</cell>
+  </row>
+  <row index="171">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/572df772-de</cell>
+    <cell name="title">Spotlight: KI im öffentlichen Sektor (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6251060d</cell>
+  </row>
+  <row index="172">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a6c5ff44-de</cell>
+    <cell name="title">Politik- und Ordnungsrahmen (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2e5493c</cell>
+  </row>
+  <row index="173">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/6e3ee5a2-de</cell>
+    <cell name="title">Vorwort (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39eaf3b3</cell>
+  </row>
+  <row index="174">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/c6244440-de</cell>
+    <cell name="title">Die Arbeitswelt (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5f7b7a2</cell>
+  </row>
+  <row index="175">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9967bc52-de</cell>
+    <cell name="title">Köpfe (de)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">German</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-11</cell>
+    <cell name="embargo date">2024-06-11T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57f40820</cell>
+  </row>
+  <row index="176">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/8fd1bd9d-de</cell>
     <cell name="title">OECD-Bericht zu Künstlicher Intelligenz in Deutschland (de)</cell>
@@ -3240,7 +3540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf36a95d</cell>
   </row>
-  <row index="162">
+  <row index="177">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bbfdb861-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3260,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db195750</cell>
   </row>
-  <row index="163">
+  <row index="178">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -3280,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7764e9d3</cell>
   </row>
-  <row index="164">
+  <row index="179">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f4921c4a-en</cell>
     <cell name="title">Minds (en)</cell>
@@ -3300,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0552ece</cell>
   </row>
-  <row index="165">
+  <row index="180">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9495b9be-en</cell>
     <cell name="title">AI transfer, applications and computing infrastructure (en)</cell>
@@ -3320,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b5e94bc</cell>
   </row>
-  <row index="166">
+  <row index="181">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/1f5040a4-en</cell>
     <cell name="title">Spotlight: AI in the public sector (en)</cell>
@@ -3340,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a61617fd</cell>
   </row>
-  <row index="167">
+  <row index="182">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0361c709-en</cell>
     <cell name="title">List of interviewees (en)</cell>
@@ -3360,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aa61068e</cell>
   </row>
-  <row index="168">
+  <row index="183">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/300481d1-en</cell>
     <cell name="title">Additional figures (en)</cell>
@@ -3380,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ff331f2</cell>
   </row>
-  <row index="169">
+  <row index="184">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c8df83a2-en</cell>
     <cell name="title">Key findings (en)</cell>
@@ -3400,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e76e0ef6</cell>
   </row>
-  <row index="170">
+  <row index="185">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -3420,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6caf5a1c</cell>
   </row>
-  <row index="171">
+  <row index="186">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/0361c709-en</cell>
     <cell name="title">List of interviewees (en)</cell>
@@ -3440,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec15cb39</cell>
   </row>
-  <row index="172">
+  <row index="187">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -3460,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/574f6e73</cell>
   </row>
-  <row index="173">
+  <row index="188">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/78122b0d-en</cell>
     <cell name="title">Policy and regulatory frameworks (en)</cell>
@@ -3480,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc6aaefa</cell>
   </row>
-  <row index="174">
+  <row index="189">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/1f5040a4-en</cell>
     <cell name="title">Spotlight: AI in the public sector (en)</cell>
@@ -3500,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/afd36a0f</cell>
   </row>
-  <row index="175">
+  <row index="190">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b0c7f02c-en</cell>
     <cell name="title">Spotlight: AI and healthcare (en)</cell>
@@ -3520,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd2bec8f</cell>
   </row>
-  <row index="176">
+  <row index="191">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b279fec4-en</cell>
     <cell name="title">Spotlight: AI and environmental sustainability (en)</cell>
@@ -3540,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ee4c3ec</cell>
   </row>
-  <row index="177">
+  <row index="192">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/323ca423-en</cell>
     <cell name="title">The world of work (en)</cell>
@@ -3560,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cd08c7e</cell>
   </row>
-  <row index="178">
+  <row index="193">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b279fec4-en</cell>
     <cell name="title">Spotlight: AI and environmental sustainability (en)</cell>
@@ -3580,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2407e60</cell>
   </row>
-  <row index="179">
+  <row index="194">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/323ca423-en</cell>
     <cell name="title">The world of work (en)</cell>
@@ -3600,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23d3b018</cell>
   </row>
-  <row index="180">
+  <row index="195">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -3620,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71180c70</cell>
   </row>
-  <row index="181">
+  <row index="196">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/955fa762-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3640,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22a51113</cell>
   </row>
-  <row index="182">
+  <row index="197">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f4921c4a-en</cell>
     <cell name="title">Minds (en)</cell>
@@ -3660,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d64817e5</cell>
   </row>
-  <row index="183">
+  <row index="198">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/9495b9be-en</cell>
     <cell name="title">AI transfer, applications and computing infrastructure (en)</cell>
@@ -3680,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81cbe6bd</cell>
   </row>
-  <row index="184">
+  <row index="199">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/b0c7f02c-en</cell>
     <cell name="title">Spotlight: AI and healthcare (en)</cell>
@@ -3700,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec4a68a3</cell>
   </row>
-  <row index="185">
+  <row index="200">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/955fa762-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3720,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0532a7d4</cell>
   </row>
-  <row index="186">
+  <row index="201">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/78122b0d-en</cell>
     <cell name="title">Policy and regulatory frameworks (en)</cell>
@@ -3740,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84f2e153</cell>
   </row>
-  <row index="187">
+  <row index="202">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/300481d1-en</cell>
     <cell name="title">Additional figures (en)</cell>
@@ -3760,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6793c80</cell>
   </row>
-  <row index="188">
+  <row index="203">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d2c60555-en</cell>
     <cell name="title">Society (en)</cell>
@@ -3780,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03b44d2f</cell>
   </row>
-  <row index="189">
+  <row index="204">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f8137552-en</cell>
     <cell name="title">Research (en)</cell>
@@ -3800,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a7f2175</cell>
   </row>
-  <row index="190">
+  <row index="205">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/bbfdb861-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -3820,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e2255f8</cell>
   </row>
-  <row index="191">
+  <row index="206">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/01465a4a-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3840,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3bb4d56</cell>
   </row>
-  <row index="192">
+  <row index="207">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/f8137552-en</cell>
     <cell name="title">Research (en)</cell>
@@ -3860,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2e7fcdc</cell>
   </row>
-  <row index="193">
+  <row index="208">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/c8df83a2-en</cell>
     <cell name="title">Key findings (en)</cell>
@@ -3880,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76cd4977</cell>
   </row>
-  <row index="194">
+  <row index="209">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/609808d6-en</cell>
     <cell name="title">OECD Artificial Intelligence Review of Germany (en)</cell>
@@ -3900,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d63b1ae7</cell>
   </row>
-  <row index="195">
+  <row index="210">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d2c60555-en</cell>
     <cell name="title">Society (en)</cell>
@@ -3920,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d65d9350</cell>
   </row>
-  <row index="196">
+  <row index="211">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/01465a4a-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -3940,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da3cbad7</cell>
   </row>
-  <row index="197">
+  <row index="212">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -3960,10 +4260,10 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/00e9b3fd</cell>
   </row>
-  <row index="198">
+  <row index="213">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b04a0009-fr</cell>
-    <cell name="title">Résultats du PISA 2022 (Volume III - version abrégée) (fr)</cell>
+    <cell name="title">Résultats du PISA 2022 (Volume III – version abrégée) (fr)</cell>
     <cell name="subtitle">La pensée créative en milieu scolaire (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
@@ -3980,7 +4280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8283305e</cell>
   </row>
-  <row index="199">
+  <row index="214">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/765ee8c2-en</cell>
     <cell name="title">PISA 2022 Results (Volume III) (en)</cell>
@@ -4000,7 +4300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe822d4f</cell>
   </row>
-  <row index="200">
+  <row index="215">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a9b71040-en</cell>
     <cell name="title">Start-up Asia (en)</cell>
@@ -4020,7 +4320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5c7df7e3</cell>
   </row>
-  <row index="201">
+  <row index="216">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -4040,7 +4340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77503beb</cell>
   </row>
-  <row index="202">
+  <row index="217">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -4060,7 +4360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b01d77</cell>
   </row>
-  <row index="203">
+  <row index="218">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -4080,7 +4380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50dfb048</cell>
   </row>
-  <row index="204">
+  <row index="219">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -4100,7 +4400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c4ab70c</cell>
   </row>
-  <row index="205">
+  <row index="220">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -4120,7 +4420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f150b51</cell>
   </row>
-  <row index="206">
+  <row index="221">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -4140,7 +4440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/146c40b5</cell>
   </row>
-  <row index="207">
+  <row index="222">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cdfff156-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2024 (en)</cell>
@@ -4160,7 +4460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d699d83b</cell>
   </row>
-  <row index="208">
+  <row index="223">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cdfff156-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2024 (en)</cell>
@@ -4180,7 +4480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6431f0</cell>
   </row>
-  <row index="209">
+  <row index="224">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -4200,7 +4500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c80774</cell>
   </row>
-  <row index="210">
+  <row index="225">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -4220,7 +4520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a06c1c2f</cell>
   </row>
-  <row index="211">
+  <row index="226">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
@@ -4240,7 +4540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4faa3dca</cell>
   </row>
-  <row index="212">
+  <row index="227">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
@@ -4260,7 +4560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7781fbff</cell>
   </row>
-  <row index="213">
+  <row index="228">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -4280,7 +4580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e523a97</cell>
   </row>
-  <row index="214">
+  <row index="229">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -4300,7 +4600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="215">
+  <row index="230">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -4320,7 +4620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748583c7</cell>
   </row>
-  <row index="216">
+  <row index="231">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -4340,7 +4640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d0490a</cell>
   </row>
-  <row index="217">
+  <row index="232">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -4360,7 +4660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79e5438</cell>
   </row>
-  <row index="218">
+  <row index="233">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -4380,7 +4680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e1a14b3</cell>
   </row>
-  <row index="219">
+  <row index="234">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -4400,7 +4700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58d94f5</cell>
   </row>
-  <row index="220">
+  <row index="235">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -4420,7 +4720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca00e352</cell>
   </row>
-  <row index="221">
+  <row index="236">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -4440,7 +4740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82a111fb</cell>
   </row>
-  <row index="222">
+  <row index="237">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -4460,7 +4760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2da11d0</cell>
   </row>
-  <row index="223">
+  <row index="238">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -4480,7 +4780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce978234</cell>
   </row>
-  <row index="224">
+  <row index="239">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -4500,7 +4800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6fedfff</cell>
   </row>
-  <row index="225">
+  <row index="240">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -4520,7 +4820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be4a569d</cell>
   </row>
-  <row index="226">
+  <row index="241">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -4540,11 +4840,11 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6476d</cell>
   </row>
-  <row index="227">
+  <row index="242">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5a849c2a-en</cell>
     <cell name="title">PISA 2022 Results (Volume IV) (en)</cell>
-    <cell name="subtitle">How Financially Smart are Students? (en)</cell>
+    <cell name="subtitle">How Financially Smart Are Students? (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -4560,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1498d8</cell>
   </row>
-  <row index="228">
+  <row index="243">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -4580,7 +4880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
   </row>
-  <row index="229">
+  <row index="244">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd96e2ed-en</cell>
     <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
@@ -4600,7 +4900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
   </row>
-  <row index="230">
+  <row index="245">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -4620,7 +4920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
   </row>
-  <row index="231">
+  <row index="246">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -4640,7 +4940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59375f7</cell>
   </row>
-  <row index="232">
+  <row index="247">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -4660,7 +4960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec715c4f</cell>
   </row>
-  <row index="233">
+  <row index="248">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -4680,7 +4980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423f1386</cell>
   </row>
-  <row index="234">
+  <row index="249">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bc0bdd4a-en</cell>
     <cell name="title">Illicit Trade and the Korean Economy (en)</cell>
@@ -4700,7 +5000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef44f8ba</cell>
   </row>
-  <row index="235">
+  <row index="250">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -4720,7 +5020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f515d2d4</cell>
   </row>
-  <row index="236">
+  <row index="251">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -4740,7 +5040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8ca587a</cell>
   </row>
-  <row index="237">
+  <row index="252">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -4760,7 +5060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b880821</cell>
   </row>
-  <row index="238">
+  <row index="253">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -4780,7 +5080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12df80b6</cell>
   </row>
-  <row index="239">
+  <row index="254">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/df06c7a4-en</cell>
     <cell name="title">Africa's Development Dynamics 2024 (en)</cell>
@@ -4800,7 +5100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c60eff03</cell>
   </row>
-  <row index="240">
+  <row index="255">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4820,7 +5120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f693883</cell>
   </row>
-  <row index="241">
+  <row index="256">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4840,7 +5140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52e2d04</cell>
   </row>
-  <row index="242">
+  <row index="257">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4860,7 +5160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec7afa20</cell>
   </row>
-  <row index="243">
+  <row index="258">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4880,7 +5180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37dfc9bb</cell>
   </row>
-  <row index="244">
+  <row index="259">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cbc2afd5-en</cell>
     <cell name="title">Second Progress Review of Latvia’s Public Utilities Commission (en)</cell>
