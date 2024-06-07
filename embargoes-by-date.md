@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 June 2024 at 2:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 June 2024 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
 * [10 June 2024](#10-june-2024)
 * [11 June 2024](#11-june-2024)
@@ -21,56 +20,6 @@ Data generated on | |
 * [9 July 2024](#9-july-2024)
 * [10 July 2024](#10-july-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 5 June 2024
-
-## [Driving Performance at Brazil’s National Agency for Water and Basic Sanitation](https://doi.org/10.1787/5b7dffa0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 June 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Impulsionando o desempenho da Agência Nacional de Águas e Saneamento Básico do Brasil](https://doi.org/10.1787/976bf5d2-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 5 June 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 23 May 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -112,7 +61,7 @@ Monday 10 June 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
+- [x] Exported to iLibrary Friday 7 June 2024 at 22:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
 
@@ -742,6 +691,29 @@ Friday 5 July 2024 at 6:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Dynamiques du développement en Afrique 2024 - Compétences, emplois et productivité](https://doi.org/10.1787/b25ee3a9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 5 July 2024 at 6:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
