@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 June 2024 at 23:19* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 7 June 2024 at 2:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 June 2024](#5-june-2024)
 * [6 June 2024](#6-june-2024)
+* [10 June 2024](#10-june-2024)
 * [11 June 2024](#11-june-2024)
 * [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
@@ -84,9 +85,9 @@ Thursday 6 June 2024 at 2:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 31 May 2024 at 22:51
+- [x] Exported to iLibrary Thursday 6 June 2024 at 16:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 5 June 2024 at 22:23
+- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
 
 ### Additional Information
 
@@ -100,7 +101,57 @@ Thursday 6 June 2024 at 2:00 | no launch event
 
 ------
 
+# 10 June 2024
+
+## [Clean Energy Finance and Investment Roadmap of Thailand](https://doi.org/10.1787/d0cd6ffc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
 # 11 June 2024
+
+## [OECD Artificial Intelligence Review of Germany](https://doi.org/10.1787/609808d6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
 
 ## [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://doi.org/10.1787/8fd1bd9d-de)
 
@@ -111,37 +162,14 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *German*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Artificial Intelligence Review of Germany](https://doi.org/10.1787/609808d6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 June 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 3 June 2024 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 3 June 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
