@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 June 2024 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Multi-dimensional Review of Lao PDR - Financing Sustainable Development](https://doi.org/10.1787/756b6663-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 6 June 2024 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 June 2024 at 16:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
+| *Sunday 9 June 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Clean Energy Finance and Investment Roadmap of Thailand](https://doi.org/10.1787/d0cd6ffc-en)
 
@@ -38,7 +15,7 @@ Monday 10 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
+- [x] Exported to OECD.org Sunday 9 June 2024 at 22:22
 
 ### Additional Information
 
