@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 9 June 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 June 2024 at 1:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [10 June 2024](#10-june-2024)
 * [11 June 2024](#11-june-2024)
@@ -35,7 +35,7 @@ Monday 10 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 7 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 9 June 2024 at 22:22
+- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
 
 ### Additional Information
 
@@ -62,7 +62,7 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
+- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
 
 ### Additional Information
 
@@ -85,7 +85,7 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 6 June 2024 at 22:23
+- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
 
 ### Additional Information
 
@@ -100,6 +100,29 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 ------
 
 # 18 June 2024
+
+## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [Résultats du PISA 2022 (Volume III – version abrégée) - La pensée créative en milieu scolaire](https://doi.org/10.1787/b04a0009-fr)
 
@@ -200,6 +223,29 @@ Thursday 20 June 2024 at 9:00 | no launch event
 ------
 
 # 24 June 2024
+
+## [Revitalising Services Trade for Global Growth - Evidence from Ten Years of Monitoring Services Trade Policies through the OECD STRI](https://doi.org/10.1787/3cc371ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: United States 2024](https://doi.org/10.1787/cdfff156-en)
 
