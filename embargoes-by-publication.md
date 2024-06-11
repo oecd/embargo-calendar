@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 June 2024 at 1:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 June 2024 at 23:29* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Clean Energy Finance and Investment Roadmap of Thailand](https://doi.org/10.1787/d0cd6ffc-en)
 
@@ -36,9 +36,9 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
+- [x] Exported to iLibrary Tuesday 11 June 2024 at 9:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
 ### Additional Information
 
@@ -59,9 +59,9 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 6 June 2024 at 22:47
+- [x] Exported to iLibrary Tuesday 11 June 2024 at 9:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
+- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
 ### Additional Information
 
@@ -127,7 +127,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,29 +138,6 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
 ------
@@ -188,15 +165,38 @@ Thursday 20 June 2024 at 9:00 | no launch event
 
 ------
 
-## [Revitalising Services Trade for Global Growth - Evidence from Ten Years of Monitoring Services Trade Policies through the OECD STRI](https://doi.org/10.1787/3cc371ac-en)
+## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 June 2024 at 7:00 | no launch event
+Thursday 20 June 2024 at 9:00 | no launch event
 
 ### Status Information
 
 - [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Revitalising Services Trade for Global Growth - Evidence from Ten Years of Monitoring Services Trade Policies through the OECD STRI](https://doi.org/10.1787/3cc371ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -288,7 +288,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -357,16 +357,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -380,16 +380,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -426,16 +426,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -714,6 +714,75 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29ce1684-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ad7c3811-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f4b804-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
