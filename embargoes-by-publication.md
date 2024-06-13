@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 June 2024 at 2:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Artificial Intelligence Review of Germany](https://doi.org/10.1787/609808d6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 June 2024 at 9:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://doi.org/10.1787/8fd1bd9d-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 June 2024 at 9:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [A new dawn for public employment services - Service delivery in the age of artificial intelligence](https://doi.org/10.1787/5dc3eb8e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 June 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Thursday 13 June 2024 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
 
@@ -92,6 +23,29 @@ Tuesday 18 June 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [New PISA results on creative thinking - Can students think outside the box?](https://doi.org/10.1787/b3a46696-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 13 June 2024 at 22:56
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 13 June 2024 at 22:30
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -184,7 +138,7 @@ Thursday 20 June 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -238,7 +192,7 @@ Monday 24 June 2024 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 25 June 2024 at 13:00 | no launch event
+Tuesday 25 June 2024 at 11:00 | no launch event
 
 ### Status Information
 
@@ -253,7 +207,7 @@ Tuesday 25 June 2024 at 13:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -464,29 +418,6 @@ Thursday 27 June 2024 at 9:00 | no launch event
 
 ------
 
-## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
 
 Embargo date | Launch date
@@ -556,29 +487,6 @@ Friday 28 June 2024 at 14:00 | no launch event
 
 ------
 
-## [Illicit Trade and the Korean Economy](https://doi.org/10.1787/bc0bdd4a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
 
 Embargo date | Launch date
@@ -622,6 +530,52 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD-FAO Agricultural Outlook 2024-2033](https://doi.org/10.1787/4c5d2cfb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Illicit Trade and the Korean Economy](https://doi.org/10.1787/bc0bdd4a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -805,6 +759,29 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
