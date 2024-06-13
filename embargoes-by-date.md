@@ -2,10 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 June 2024 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 13 June 2024 at 2:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 June 2024](#10-june-2024)
 * [11 June 2024](#11-june-2024)
+* [17 June 2024](#17-june-2024)
 * [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
 * [24 June 2024](#24-june-2024)
@@ -20,33 +20,6 @@ Data generated on | |
 * [10 July 2024](#10-july-2024)
 * [16 July 2024](#16-july-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 10 June 2024
-
-## [Clean Energy Finance and Investment Roadmap of Thailand](https://doi.org/10.1787/d0cd6ffc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 7 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 10 June 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
@@ -100,6 +73,33 @@ Tuesday 11 June 2024 at 5:00 | no launch event
 
 ------
 
+# 17 June 2024
+
+## [A new dawn for public employment services - Service delivery in the age of artificial intelligence](https://doi.org/10.1787/5dc3eb8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 12 June 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 18 June 2024
 
 ## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
@@ -133,7 +133,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -175,34 +175,11 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 
 # 20 June 2024
 
-## [Society at a Glance 2024 - OECD Social Indicators](https://doi.org/10.1787/918d8db3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
 ## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 June 2024 at 9:00 | no launch event
+Thursday 20 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -218,6 +195,29 @@ Thursday 20 June 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Society at a Glance 2024 - OECD Social Indicators](https://doi.org/10.1787/918d8db3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 June 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -334,15 +334,15 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 12 June 2024 at 22:23
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -472,7 +472,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
+- [x] Exported to iLibrary Wednesday 12 June 2024 at 9:24
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
 
