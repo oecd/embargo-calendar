@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-06-13T23:32:40.8071827+02:00">
+<report name="official-embargoes" generated="2024-06-14T23:41:19.0070097+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -27,17 +27,17 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-06-18</cell>
     <cell name="embargo date">2024-06-18T05:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-06-14T20:54:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-06-14T20:29:05Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24d81600</cell>
   </row>
   <row index="2">
@@ -677,7 +677,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b01d77</cell>
   </row>
   <row index="34">
@@ -4161,15 +4161,15 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6431f0</cell>
   </row>
   <row index="208">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/e4681bfa-en</cell>
-    <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
-    <cell name="subtitle">Tax Revenue Buoyancy in Asia (en)</cell>
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/8ac30c4e-en</cell>
+    <cell name="title">Test No. 321: Hyallela Azteca Bioconcentration Test (HYBIT) (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-06-25</cell>
-    <cell name="embargo date">2024-06-25T11:00:00Z</cell>
+    <cell name="embargo date">2024-06-25T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -4178,9 +4178,69 @@
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c80774</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7ac251f</cell>
   </row>
   <row index="209">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/54066090-en</cell>
+    <cell name="title">Test No. 252: Rapid Estrogen Activity In Vitro (REACTIV) assay (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-25</cell>
+    <cell name="embargo date">2024-06-25T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a19d82f</cell>
+  </row>
+  <row index="210">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/03cb5c08-en</cell>
+    <cell name="title">Test No. 253: Short-term juvenile hormone (JH) activity screening assay in Daphnia magna (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-06-25</cell>
+    <cell name="embargo date">2024-06-25T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25b25897</cell>
+  </row>
+  <row index="211">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/e4681bfa-en</cell>
+    <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
+    <cell name="subtitle">Tax Revenue Buoyancy in Asia (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2024-06-25</cell>
+    <cell name="embargo date">2024-06-25T11:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-14T20:54:37Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-14T20:29:05Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c80774</cell>
+  </row>
+  <row index="212">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
@@ -4200,7 +4260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4faa3dca</cell>
   </row>
-  <row index="210">
+  <row index="213">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
@@ -4220,7 +4280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7781fbff</cell>
   </row>
-  <row index="211">
+  <row index="214">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -4240,27 +4300,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e523a97</cell>
   </row>
-  <row index="212">
+  <row index="215">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-06-26</cell>
     <cell name="embargo date">2024-06-26T08:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-06-14T20:54:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
+    <cell name="oecd.org last export date">2024-06-14T20:29:05Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="213">
+  <row index="216">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -4280,7 +4340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748583c7</cell>
   </row>
-  <row index="214">
+  <row index="217">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -4300,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d0490a</cell>
   </row>
-  <row index="215">
+  <row index="218">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -4320,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79e5438</cell>
   </row>
-  <row index="216">
+  <row index="219">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -4340,7 +4400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e1a14b3</cell>
   </row>
-  <row index="217">
+  <row index="220">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -4360,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58d94f5</cell>
   </row>
-  <row index="218">
+  <row index="221">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -4380,7 +4440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca00e352</cell>
   </row>
-  <row index="219">
+  <row index="222">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -4400,7 +4460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82a111fb</cell>
   </row>
-  <row index="220">
+  <row index="223">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -4420,7 +4480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2da11d0</cell>
   </row>
-  <row index="221">
+  <row index="224">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -4440,7 +4500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce978234</cell>
   </row>
-  <row index="222">
+  <row index="225">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -4460,7 +4520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6fedfff</cell>
   </row>
-  <row index="223">
+  <row index="226">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -4480,7 +4540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be4a569d</cell>
   </row>
-  <row index="224">
+  <row index="227">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -4500,7 +4560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6476d</cell>
   </row>
-  <row index="225">
+  <row index="228">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5a849c2a-en</cell>
     <cell name="title">PISA 2022 Results (Volume IV) (en)</cell>
@@ -4519,66 +4579,6 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1498d8</cell>
-  </row>
-  <row index="226">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/bd96e2ed-en</cell>
-    <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-06-28</cell>
-    <cell name="embargo date">2024-06-28T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
-  </row>
-  <row index="227">
-    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/395c9956-en</cell>
-    <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2024-06-28</cell>
-    <cell name="embargo date">2024-06-28T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-05-17T20:52:02Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-05-17T20:24:37Z</cell>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
-  </row>
-  <row index="228">
-    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
-    <cell name="doi">10.1787/395c9956-en</cell>
-    <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-06-28</cell>
-    <cell name="embargo date">2024-06-28T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a59375f7</cell>
   </row>
   <row index="229">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
@@ -4722,6 +4722,26 @@
   </row>
   <row index="236">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/96f19970-fr</cell>
+    <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2024-2033 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-07-02</cell>
+    <cell name="embargo date">2024-07-02T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da3af5bc</cell>
+  </row>
+  <row index="237">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4c5d2cfb-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2024-2033 (en)</cell>
     <cell name="subtitle"/>
@@ -4740,7 +4760,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/224bb969</cell>
   </row>
-  <row index="237">
+  <row index="238">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/96f19970-fr</cell>
+    <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2024-2033 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-07-02</cell>
+    <cell name="embargo date">2024-07-02T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/935cc30a</cell>
+  </row>
+  <row index="239">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bc0bdd4a-en</cell>
     <cell name="title">Illicit Trade and the Korean Economy (en)</cell>
@@ -4760,7 +4800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef44f8ba</cell>
   </row>
-  <row index="238">
+  <row index="240">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/df06c7a4-en</cell>
     <cell name="title">Africa's Development Dynamics 2024 (en)</cell>
@@ -4780,7 +4820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c60eff03</cell>
   </row>
-  <row index="239">
+  <row index="241">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b25ee3a9-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2024 (fr)</cell>
@@ -4800,7 +4840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ee82763</cell>
   </row>
-  <row index="240">
+  <row index="242">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b25ee3a9-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2024 (fr)</cell>
@@ -4820,7 +4860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/945042ae</cell>
   </row>
-  <row index="241">
+  <row index="243">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4840,7 +4880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f693883</cell>
   </row>
-  <row index="242">
+  <row index="244">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -4860,7 +4900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52e2d04</cell>
   </row>
-  <row index="243">
+  <row index="245">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4880,7 +4920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec7afa20</cell>
   </row>
-  <row index="244">
+  <row index="246">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -4900,7 +4940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37dfc9bb</cell>
   </row>
-  <row index="245">
+  <row index="247">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/29ce1684-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) (en)</cell>
@@ -4920,7 +4960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b76ad52</cell>
   </row>
-  <row index="246">
+  <row index="248">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad7c3811-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) (en)</cell>
@@ -4940,7 +4980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd3783c9</cell>
   </row>
-  <row index="247">
+  <row index="249">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a4f4b804-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) (en)</cell>
@@ -4960,7 +5000,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e4c0b</cell>
   </row>
-  <row index="248">
+  <row index="250">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/395c9956-en</cell>
+    <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2024-07-19</cell>
+    <cell name="embargo date">2024-07-19T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-14T20:54:37Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-14T20:29:05Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
+  </row>
+  <row index="251">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cbc2afd5-en</cell>
     <cell name="title">Second Progress Review of Latvia’s Public Utilities Commission (en)</cell>
@@ -4980,7 +5040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea322959</cell>
   </row>
-  <row index="249">
+  <row index="252">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -4999,5 +5059,25 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
+  </row>
+  <row index="253">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/bd96e2ed-en</cell>
+    <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-27</cell>
+    <cell name="embargo date">2024-09-27T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28ab4949</cell>
   </row>
 </report>

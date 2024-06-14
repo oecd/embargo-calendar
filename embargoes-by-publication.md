@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 June 2024 at 23:32* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 14 June 2024 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
 
@@ -12,16 +12,16 @@ Tuesday 18 June 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -104,7 +104,7 @@ Thursday 20 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -188,11 +188,11 @@ Monday 24 June 2024 at 22:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Asia and the Pacific 2024 - Tax Revenue Buoyancy in Asia](https://doi.org/10.1787/e4681bfa-en)
+## [Test No. 321: Hyallela Azteca Bioconcentration Test (HYBIT)](https://doi.org/10.1787/8ac30c4e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 25 June 2024 at 11:00 | no launch event
+Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -203,9 +203,78 @@ Tuesday 25 June 2024 at 11:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 252: Rapid Estrogen Activity In Vitro (REACTIV) assay](https://doi.org/10.1787/54066090-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Test No. 253: Short-term juvenile hormone (JH) activity screening assay in Daphnia magna](https://doi.org/10.1787/03cb5c08-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Asia and the Pacific 2024 - Tax Revenue Buoyancy in Asia](https://doi.org/10.1787/e4681bfa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -265,16 +334,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -418,52 +487,6 @@ Thursday 27 June 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 17 May 2024 at 22:52
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 17 May 2024 at 22:24
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [The Economic Case for Greater LGBTI+ Equality in the United States](https://doi.org/10.1787/5adfe3a5-en)
 
 Embargo date | Launch date
@@ -550,6 +573,29 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives agricoles de l’OCDE et de la FAO 2024-2033](https://doi.org/10.1787/96f19970-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
@@ -740,6 +786,29 @@ Tuesday 16 July 2024 at 9:00 | no launch event
 
 ------
 
+## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Second Progress Review of Latvia’s Public Utilities Commission - Driving Performance](https://doi.org/10.1787/cbc2afd5-en)
 
 Embargo date | Launch date
@@ -780,6 +849,29 @@ Friday 27 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
