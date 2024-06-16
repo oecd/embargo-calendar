@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 June 2024 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 16 June 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
 
