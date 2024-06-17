@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 June 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 June 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
@@ -36,7 +36,7 @@ Tuesday 18 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 June 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 13 June 2024 at 22:30
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
@@ -80,17 +80,17 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -103,17 +103,17 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -244,6 +244,52 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ------
 
+## [Essai No. 252: Essai rapide d'activité estrogen in vivo (REACTIV, Rapid Estrogen ACTivity In Vivo)](https://doi.org/10.1787/903c3247-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Essai n°253: Dépistage à court terme de l’activité de l’hormone juvénile sur Daphnia magna](https://doi.org/10.1787/375935f4-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Test No. 252: Rapid Estrogen Activity In Vitro (REACTIV) assay](https://doi.org/10.1787/54066090-en)
 
 Embargo date | Launch date
@@ -290,6 +336,29 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ------
 
+## [Essai No. 321: Bioconcentration chez Hyalella azteca (HYBIT)](https://doi.org/10.1787/6e6a9b3c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics in Asia and the Pacific 2024 - Tax Revenue Buoyancy in Asia](https://doi.org/10.1787/e4681bfa-en)
 
 Embargo date | Launch date
@@ -298,18 +367,18 @@ Tuesday 25 June 2024 at 11:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -394,16 +463,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -603,6 +672,29 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [مراجعات سياسات النمو الأخضر في منظمة التعاون الاقتصادي والتنمية: مصر 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *Arabic*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
