@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-06-17T23:23:17.5299858+02:00">
+<report name="official-embargoes" generated="2024-06-19T01:17:03.5066486+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -33,7 +33,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-14T20:54:37Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
@@ -53,7 +53,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-17T20:50:29Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -153,7 +153,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-13T20:56:51Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Paper</cell>
@@ -773,7 +773,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-17T20:50:29Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1113,7 +1113,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-17T20:50:29Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1393,7 +1393,7 @@
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date">2024-06-17T20:50:29Z</cell>
     <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date">2024-06-17T20:24:43Z</cell>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
@@ -1581,6 +1581,66 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77503beb</cell>
   </row>
   <row index="79">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/a3c117d5-en</cell>
+    <cell name="title">Implementing the OECD Anti-Bribery Convention Phase 4 Report Two-Year Written Follow-Up Report: Greece (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-20</cell>
+    <cell name="embargo date">2024-06-20T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bad74dd1</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/2db5c502-en</cell>
+    <cell name="title">Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-20</cell>
+    <cell name="embargo date">2024-06-20T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/940edc83</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/eafc728b-en</cell>
+    <cell name="title">Financing broadband networks of the future (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-20</cell>
+    <cell name="embargo date">2024-06-20T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d8a1e02</cell>
+  </row>
+  <row index="82">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cb13475f-en</cell>
     <cell name="title">OECD Economic Surveys: Norway 2024 (en)</cell>
@@ -1600,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b01d77</cell>
   </row>
-  <row index="80">
+  <row index="83">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b11e50eb-en</cell>
     <cell name="title">A majority in many countries think that today’s children will miss out on progress (en)</cell>
@@ -1620,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ef8aeab</cell>
   </row>
-  <row index="81">
+  <row index="84">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -1640,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50dfb048</cell>
   </row>
-  <row index="82">
+  <row index="85">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b08fa75e-en</cell>
     <cell name="title">Income poverty (en)</cell>
@@ -1660,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99907fdb</cell>
   </row>
-  <row index="83">
+  <row index="86">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2f147ef6-en</cell>
     <cell name="title">More than half of the population perceives corruption in government (en)</cell>
@@ -1680,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07d4c5bb</cell>
   </row>
-  <row index="84">
+  <row index="87">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/66c98ef2-en</cell>
     <cell name="title">Voting (en)</cell>
@@ -1700,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8249aeb3</cell>
   </row>
-  <row index="85">
+  <row index="88">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e058a977-en</cell>
     <cell name="title">Almost one in five 15‑year‑olds have been drunk at least twice in their life (en)</cell>
@@ -1720,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1e7cbf6</cell>
   </row>
-  <row index="86">
+  <row index="89">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e01b0e44-en</cell>
     <cell name="title">Online activities (en)</cell>
@@ -1740,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75df7b95</cell>
   </row>
-  <row index="87">
+  <row index="90">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/65df6e97-en</cell>
     <cell name="title">Respondents want to see more spending on healthcare and support for older adults, when respondents are asked to make an increase of 2% of their income in tax and social contributions for better access (en)</cell>
@@ -1760,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f265512</cell>
   </row>
-  <row index="88">
+  <row index="91">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8ccad5a8-en</cell>
     <cell name="title">Korea has the highest share of first-borns and the lowest share of higher order children (en)</cell>
@@ -1780,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a1e2571a</cell>
   </row>
-  <row index="89">
+  <row index="92">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fa367bad-en</cell>
     <cell name="title">Fertility trends across the OECD: Underlying drivers and the role for policy (en)</cell>
@@ -1800,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/569f9821</cell>
   </row>
-  <row index="90">
+  <row index="93">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e7a86480-en</cell>
     <cell name="title">One in four young people in OECD are not at all interested in politics (en)</cell>
@@ -1820,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a47f2f3</cell>
   </row>
-  <row index="91">
+  <row index="94">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2ddeca93-en</cell>
     <cell name="title">Looking back, under half of respondents are happy with their government’s actions during the COVID‑19 pandemic (en)</cell>
@@ -1840,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e838e77</cell>
   </row>
-  <row index="92">
+  <row index="95">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/97b3317d-en</cell>
     <cell name="title">Maternal employment rates tend to increase with the age of the youngest child (en)</cell>
@@ -1860,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5819b6f6</cell>
   </row>
-  <row index="93">
+  <row index="96">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fa367bad-en</cell>
     <cell name="title">Fertility trends across the OECD: Underlying drivers and the role for policy (en)</cell>
@@ -1880,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b565301</cell>
   </row>
-  <row index="94">
+  <row index="97">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ed01da5e-en</cell>
     <cell name="title">On average one in eight persons (12%) in the workforce is “underutilised” (en)</cell>
@@ -1900,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92d94efa</cell>
   </row>
-  <row index="95">
+  <row index="98">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/797e2ab9-en</cell>
     <cell name="title">One‑third of all doctors and a quarter of nurses in OECD countries were over 55 years of age (en)</cell>
@@ -1920,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4988334</cell>
   </row>
-  <row index="96">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bd399581-en</cell>
     <cell name="title">Marriage and divorce (en)</cell>
@@ -1940,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa8c9730</cell>
   </row>
-  <row index="97">
+  <row index="100">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ef1a25e-en</cell>
     <cell name="title">The link between family policy and fertility outcomes (en)</cell>
@@ -1960,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33b404f9</cell>
   </row>
-  <row index="98">
+  <row index="101">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aee7245a-en</cell>
     <cell name="title">On average, one in eight young people (12%) are not employed nor in education or training (en)</cell>
@@ -1980,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abc37b3e</cell>
   </row>
-  <row index="99">
+  <row index="102">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/9551fffd-en</cell>
     <cell name="title">Score differences in mathematics, reading, and science between the top and bottom quarter of the ESCS have widened since 2018, but significance varies across countries (en)</cell>
@@ -2000,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec5108ff</cell>
   </row>
-  <row index="100">
+  <row index="103">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8fc2d203-en</cell>
     <cell name="title">Slight decline in alcohol consumption among adults in many OECD countries (en)</cell>
@@ -2020,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/517db302</cell>
   </row>
-  <row index="101">
+  <row index="104">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/89e94566-en</cell>
     <cell name="title">Preferences for government intervention and social policies (en)</cell>
@@ -2040,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9bb794e</cell>
   </row>
-  <row index="102">
+  <row index="105">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8b14e9ab-en</cell>
     <cell name="title">In most OECD countries, women participate more than men in education and training (en)</cell>
@@ -2060,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/089420e4</cell>
   </row>
-  <row index="103">
+  <row index="106">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/972cb357-en</cell>
     <cell name="title">Migration (en)</cell>
@@ -2080,7 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc396de1</cell>
   </row>
-  <row index="104">
+  <row index="107">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5e988e06-en</cell>
     <cell name="title">Levels and trends of life satisfaction vary considerably across countries (en)</cell>
@@ -2100,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/697fccbe</cell>
   </row>
-  <row index="105">
+  <row index="108">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a959db2d-en</cell>
     <cell name="title">Violence against women (en)</cell>
@@ -2120,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/645a3989</cell>
   </row>
-  <row index="106">
+  <row index="109">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a63f6e7f-en</cell>
     <cell name="title">Unemployment (en)</cell>
@@ -2140,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3afad0ed</cell>
   </row>
-  <row index="107">
+  <row index="110">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3c0833e8-en</cell>
     <cell name="title">Wealth is more concentrated at the top than income (en)</cell>
@@ -2160,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58366504</cell>
   </row>
-  <row index="108">
+  <row index="111">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e01b0e44-en</cell>
     <cell name="title">Online activities (en)</cell>
@@ -2180,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b546a347</cell>
   </row>
-  <row index="109">
+  <row index="112">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f0dbcd33-en</cell>
     <cell name="title">In the long term, respondents are most concerned about financial security in older age (en)</cell>
@@ -2200,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf4e5ced</cell>
   </row>
-  <row index="110">
+  <row index="113">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3a4306d8-en</cell>
     <cell name="title">Unemployment and social safety net benefits (en)</cell>
@@ -2220,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07af6122</cell>
   </row>
-  <row index="111">
+  <row index="114">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2f04485d-en</cell>
     <cell name="title">COVID‑19 reduced life expectancy in many countries (en)</cell>
@@ -2240,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15911656</cell>
   </row>
-  <row index="112">
+  <row index="115">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/17772467-en</cell>
     <cell name="title">Social safety net benefits alone cannot prevent income poverty (en)</cell>
@@ -2260,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c60e7ba</cell>
   </row>
-  <row index="113">
+  <row index="116">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8e321b13-en</cell>
     <cell name="title">Income and wealth inequalities (en)</cell>
@@ -2280,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40b0bce8</cell>
   </row>
-  <row index="114">
+  <row index="117">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08530691-en</cell>
     <cell name="title">Employment (en)</cell>
@@ -2300,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2581f2c</cell>
   </row>
-  <row index="115">
+  <row index="118">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/33b2f627-en</cell>
     <cell name="title">Internet usage has increased in all OECD countries in the past two decades (en)</cell>
@@ -2320,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2a676d9</cell>
   </row>
-  <row index="116">
+  <row index="119">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/95dd4819-en</cell>
     <cell name="title">The demographic old age to working age ratio will double over the next four decades (en)</cell>
@@ -2340,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4396b2a1</cell>
   </row>
-  <row index="117">
+  <row index="120">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/89962214-en</cell>
     <cell name="title">Suicide rates are between two and eight times higher for men than for women across OECD countries (en)</cell>
@@ -2360,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/914141bc</cell>
   </row>
-  <row index="118">
+  <row index="121">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/53223dd4-en</cell>
     <cell name="title">Tobacco and alcohol consumption (en)</cell>
@@ -2380,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6744def</cell>
   </row>
-  <row index="119">
+  <row index="122">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/66c98ef2-en</cell>
     <cell name="title">Voting (en)</cell>
@@ -2400,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ad6d845</cell>
   </row>
-  <row index="120">
+  <row index="123">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/94d331d2-en</cell>
     <cell name="title">In 2022, many workers were worried about losing their jobs (en)</cell>
@@ -2420,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d75d6651</cell>
   </row>
-  <row index="121">
+  <row index="124">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4502f8eb-en</cell>
     <cell name="title">Fertility (en)</cell>
@@ -2440,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73b4e340</cell>
   </row>
-  <row index="122">
+  <row index="125">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8d86a8be-en</cell>
     <cell name="title">Interpreting OECD social indicators (en)</cell>
@@ -2460,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9571724a</cell>
   </row>
-  <row index="123">
+  <row index="126">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/15025af7-en</cell>
     <cell name="title">Life expectancy (en)</cell>
@@ -2480,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ead4856</cell>
   </row>
-  <row index="124">
+  <row index="127">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bf471b6-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -2500,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d14df0ed</cell>
   </row>
-  <row index="125">
+  <row index="128">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79a914e7-en</cell>
     <cell name="title">Acronyms and conventional signs (en)</cell>
@@ -2520,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d5e43b7</cell>
   </row>
-  <row index="126">
+  <row index="129">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bae0d977-en</cell>
     <cell name="title">On average, the number of healthy life years at age 65 was 10 years for women and 9.6 for men, a noticeably smaller difference between men and women than that for general life expectancy at age 65 (en)</cell>
@@ -2540,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8dd1e01</cell>
   </row>
-  <row index="127">
+  <row index="130">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8d86a8be-en</cell>
     <cell name="title">Interpreting OECD social indicators (en)</cell>
@@ -2560,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/910ad02d</cell>
   </row>
-  <row index="128">
+  <row index="131">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/85ca4c39-en</cell>
     <cell name="title">Overall, nine‑in-ten respondents are concerned about inflation and cost of living (en)</cell>
@@ -2580,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f992b8f</cell>
   </row>
-  <row index="129">
+  <row index="132">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f5aebe27-en</cell>
     <cell name="title">Housing is a key worry for young adults (en)</cell>
@@ -2600,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2efb78d</cell>
   </row>
-  <row index="130">
+  <row index="133">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4521cc69-en</cell>
     <cell name="title">In most countries, benefit income declines significantly for people with long unemployment spells (en)</cell>
@@ -2620,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/974ce901</cell>
   </row>
-  <row index="131">
+  <row index="134">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -2640,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f22f1c8c</cell>
   </row>
-  <row index="132">
+  <row index="135">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/f5123f61-en</cell>
     <cell name="title">On average across the OECD, poverty is highest among the elderly and lowest among adults of working age (en)</cell>
@@ -2660,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37fdd48b</cell>
   </row>
-  <row index="133">
+  <row index="136">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a63f6e7f-en</cell>
     <cell name="title">Unemployment (en)</cell>
@@ -2680,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/30fd45bb</cell>
   </row>
-  <row index="134">
+  <row index="137">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a520b271-en</cell>
     <cell name="title">Gender gaps in performance vary across subjects in OECD countries (en)</cell>
@@ -2700,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8d93453</cell>
   </row>
-  <row index="135">
+  <row index="138">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/528d724e-en</cell>
     <cell name="title">This year, respondents think that governments should prioritise helping people deal with the living cost crisis (en)</cell>
@@ -2720,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4efa598b</cell>
   </row>
-  <row index="136">
+  <row index="139">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/241e5239-en</cell>
     <cell name="title">The mean age at first marriage for both women and men rose by 6 years since 1990 (en)</cell>
@@ -2740,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1b679bc</cell>
   </row>
-  <row index="137">
+  <row index="140">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/cc96de8e-en</cell>
     <cell name="title">Large differences in health spending per capita across the OECD (en)</cell>
@@ -2760,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab4b83a8</cell>
   </row>
-  <row index="138">
+  <row index="141">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3f4a64c1-en</cell>
     <cell name="title">Median income varies by a factor eight across OECD countries (en)</cell>
@@ -2780,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b621c326</cell>
   </row>
-  <row index="139">
+  <row index="142">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/53223dd4-en</cell>
     <cell name="title">Tobacco and alcohol consumption (en)</cell>
@@ -2800,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/435dcdcd</cell>
   </row>
-  <row index="140">
+  <row index="143">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -2820,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c4ab70c</cell>
   </row>
-  <row index="141">
+  <row index="144">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/08530691-en</cell>
     <cell name="title">Employment (en)</cell>
@@ -2840,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d4bc291f</cell>
   </row>
-  <row index="142">
+  <row index="145">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c1db1aa3-en</cell>
     <cell name="title">More than five‑out-of-ten jobs in shortage are found in high-skilled occupations (en)</cell>
@@ -2860,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/058efc74</cell>
   </row>
-  <row index="143">
+  <row index="146">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ca597f34-en</cell>
     <cell name="title">Inflation outpaced household income growth in most countries in 2022 (en)</cell>
@@ -2880,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/58c6d9b9</cell>
   </row>
-  <row index="144">
+  <row index="147">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/529eb923-en</cell>
     <cell name="title">One in ten of the OECD population is foreign-born (en)</cell>
@@ -2900,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47389fc5</cell>
   </row>
-  <row index="145">
+  <row index="148">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8df809b9-en</cell>
     <cell name="title">More so than men, women do not feel secure walking alone at night (en)</cell>
@@ -2920,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f941c8a</cell>
   </row>
-  <row index="146">
+  <row index="149">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1a2cc4ab-en</cell>
     <cell name="title">The mean age of women at first birth has risen by 3 years within two decades (en)</cell>
@@ -2940,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6c0de68</cell>
   </row>
-  <row index="147">
+  <row index="150">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ab3db134-en</cell>
     <cell name="title">Marriage rates declined while divorce rates stabilised over the last decades (en)</cell>
@@ -2960,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/caa876a2</cell>
   </row>
-  <row index="148">
+  <row index="151">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7d5fbce0-en</cell>
     <cell name="title">The share of young adults living with their parents has increased in many countries (en)</cell>
@@ -2980,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8e0df5a</cell>
   </row>
-  <row index="149">
+  <row index="152">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2553397c-en</cell>
     <cell name="title">Marked decline in smoking rates among adults in most OECD countries (en)</cell>
@@ -3000,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0e7581e</cell>
   </row>
-  <row index="150">
+  <row index="153">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3336a888-en</cell>
     <cell name="title">Young people tend to vote less than adults age 25‑50 (en)</cell>
@@ -3020,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/755a30d0</cell>
   </row>
-  <row index="151">
+  <row index="154">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/14716a91-en</cell>
     <cell name="title">Cash support is not always tightly targeted to the poorest (en)</cell>
@@ -3040,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72dd547c</cell>
   </row>
-  <row index="152">
+  <row index="155">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ec93c832-en</cell>
     <cell name="title">The share of youth in the total population declines in most countries (en)</cell>
@@ -3060,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e27cf557</cell>
   </row>
-  <row index="153">
+  <row index="156">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2e163629-en</cell>
     <cell name="title">More than one‑third of people in the OECD are at risk of falling into poverty (en)</cell>
@@ -3080,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f77fe49c</cell>
   </row>
-  <row index="154">
+  <row index="157">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/61dcb1c3-en</cell>
     <cell name="title">Between 2018 and 2022, performance in mathematics and reading has considerably dropped across OECD countries (en)</cell>
@@ -3100,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e53260b</cell>
   </row>
-  <row index="155">
+  <row index="158">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/1de85a92-en</cell>
     <cell name="title">On average across the OECD, the number of nurses is about 2.5 times that of doctors (en)</cell>
@@ -3120,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd3d5685</cell>
   </row>
-  <row index="156">
+  <row index="159">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6a3e6544-en</cell>
     <cell name="title">Demographic trends (en)</cell>
@@ -3140,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea3510a4</cell>
   </row>
-  <row index="157">
+  <row index="160">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/050b4003-en</cell>
     <cell name="title">Many think that child income support is inadequate (en)</cell>
@@ -3160,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf8ddbc9</cell>
   </row>
-  <row index="158">
+  <row index="161">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d02d4bdc-en</cell>
     <cell name="title">Internet use varies across educational attainment, age and household income (en)</cell>
@@ -3180,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0490dbae</cell>
   </row>
-  <row index="159">
+  <row index="162">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4bf471b6-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -3200,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb405146</cell>
   </row>
-  <row index="160">
+  <row index="163">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8a512781-en</cell>
     <cell name="title">The mean age at which women give birth rose by four years over the past four decades (en)</cell>
@@ -3220,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6dc3778</cell>
   </row>
-  <row index="161">
+  <row index="164">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bf453c34-en</cell>
     <cell name="title">Affordable housing (en)</cell>
@@ -3240,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1cf1e07d</cell>
   </row>
-  <row index="162">
+  <row index="165">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/972cb357-en</cell>
     <cell name="title">Migration (en)</cell>
@@ -3260,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57082010</cell>
   </row>
-  <row index="163">
+  <row index="166">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ddbe58cb-en</cell>
     <cell name="title">Most spending goes to pensions and health (en)</cell>
@@ -3280,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cdb7653d</cell>
   </row>
-  <row index="164">
+  <row index="167">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52540d87-en</cell>
     <cell name="title">Employment rates in late 2023 were generally above pre‑COVID‑19 levels (en)</cell>
@@ -3300,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1f6594b</cell>
   </row>
-  <row index="165">
+  <row index="168">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/516636ee-en</cell>
     <cell name="title">In most OECD countries, owning a home is much more common than renting (en)</cell>
@@ -3320,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd2f90eb</cell>
   </row>
-  <row index="166">
+  <row index="169">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52ecea63-en</cell>
     <cell name="title">Skills (en)</cell>
@@ -3340,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a56e0be</cell>
   </row>
-  <row index="167">
+  <row index="170">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e9ba2d5c-en</cell>
     <cell name="title">Women continue to live over 5 years more than men on average across OECD countries (en)</cell>
@@ -3360,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/793ccb03</cell>
   </row>
-  <row index="168">
+  <row index="171">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a287b877-en</cell>
     <cell name="title">Almost all OECD countries saw fertility rates decline since 1980 (en)</cell>
@@ -3380,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1fa26b53</cell>
   </row>
-  <row index="169">
+  <row index="172">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/79a914e7-en</cell>
     <cell name="title">Acronyms and conventional signs (en)</cell>
@@ -3400,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45f02ba5</cell>
   </row>
-  <row index="170">
+  <row index="173">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ec4aa2e6-en</cell>
     <cell name="title">Key facts and figures (Infographic) (en)</cell>
@@ -3420,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6cf14a11</cell>
   </row>
-  <row index="171">
+  <row index="174">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/93334f78-en</cell>
     <cell name="title">Health and care workforce (en)</cell>
@@ -3440,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b65c7bc</cell>
   </row>
-  <row index="172">
+  <row index="175">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/52ecea63-en</cell>
     <cell name="title">Skills (en)</cell>
@@ -3460,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f7297d3</cell>
   </row>
-  <row index="173">
+  <row index="176">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a0344871-en</cell>
     <cell name="title">The strong decline in the youth to working-age ratio has stopped (en)</cell>
@@ -3480,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c4f0359</cell>
   </row>
-  <row index="174">
+  <row index="177">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bd399581-en</cell>
     <cell name="title">Marriage and divorce (en)</cell>
@@ -3500,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10a250e4</cell>
   </row>
-  <row index="175">
+  <row index="178">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -3520,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f150b51</cell>
   </row>
-  <row index="176">
+  <row index="179">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/e99e1b74-en</cell>
     <cell name="title">Fertility rates fell for young women but increased for those 30 to 49 years of age (en)</cell>
@@ -3540,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36e3d59a</cell>
   </row>
-  <row index="177">
+  <row index="180">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/aba412ac-en</cell>
     <cell name="title">There are large differences in levels of relative poverty across the OECD (en)</cell>
@@ -3560,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3fe1379</cell>
   </row>
-  <row index="178">
+  <row index="181">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bc26d48e-en</cell>
     <cell name="title">In most OECD countries, annual migration flows represent less than 1% of the population (en)</cell>
@@ -3580,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25246a41</cell>
   </row>
-  <row index="179">
+  <row index="182">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/42e38a47-en</cell>
     <cell name="title">Suicides (en)</cell>
@@ -3600,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0fbc6ec8</cell>
   </row>
-  <row index="180">
+  <row index="183">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87c648b4-en</cell>
     <cell name="title">Life satisfaction (en)</cell>
@@ -3620,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f19975d</cell>
   </row>
-  <row index="181">
+  <row index="184">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/00648e8c-en</cell>
     <cell name="title">The link between labour market outcomes and fertility (en)</cell>
@@ -3640,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10ad3050</cell>
   </row>
-  <row index="182">
+  <row index="185">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/26815ecb-en</cell>
     <cell name="title">Social spending (en)</cell>
@@ -3660,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23334e89</cell>
   </row>
-  <row index="183">
+  <row index="186">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ec4aa2e6-en</cell>
     <cell name="title">Key facts and figures (Infographic) (en)</cell>
@@ -3680,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7cea576d</cell>
   </row>
-  <row index="184">
+  <row index="187">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ced9b6a5-en</cell>
     <cell name="title">Fertility rates across the OECD are typically below the population replacement rate (en)</cell>
@@ -3700,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd387351</cell>
   </row>
-  <row index="185">
+  <row index="188">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/48293bd3-en</cell>
     <cell name="title">One in ten women across the OECD condone men’s violence against women (en)</cell>
@@ -3720,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1207e600</cell>
   </row>
-  <row index="186">
+  <row index="189">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/16e28105-en</cell>
     <cell name="title">Social and economic risk perceptions and concerns (en)</cell>
@@ -3740,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdf702a5</cell>
   </row>
-  <row index="187">
+  <row index="190">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/16e28105-en</cell>
     <cell name="title">Social and economic risk perceptions and concerns (en)</cell>
@@ -3760,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f3aacfa</cell>
   </row>
-  <row index="188">
+  <row index="191">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3d2df7b0-en</cell>
     <cell name="title">There are large differences in levels of income inequality across the OECD (en)</cell>
@@ -3780,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/80423734</cell>
   </row>
-  <row index="189">
+  <row index="192">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6b4029c2-en</cell>
     <cell name="title">Where concerns about paying for essentials are widespread, so is the perceived need for more government intervention (en)</cell>
@@ -3800,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23c4ac8c</cell>
   </row>
-  <row index="190">
+  <row index="193">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/d773de99-en</cell>
     <cell name="title">Public social spending is estimated to be worth 21% of GDP in 2022 on average across the OECD, but levels differ greatly across countries (en)</cell>
@@ -3820,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60ab9f89</cell>
   </row>
-  <row index="191">
+  <row index="194">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7850a55b-en</cell>
     <cell name="title">Health spending (en)</cell>
@@ -3840,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d0fa3c1</cell>
   </row>
-  <row index="192">
+  <row index="195">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/6a3e6544-en</cell>
     <cell name="title">Demographic trends (en)</cell>
@@ -3860,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/05ff593f</cell>
   </row>
-  <row index="193">
+  <row index="196">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/50fd1503-en</cell>
     <cell name="title">Few respondents feel that they could access public benefits in times of need (en)</cell>
@@ -3880,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c21e0411</cell>
   </row>
-  <row index="194">
+  <row index="197">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/78604ba2-en</cell>
     <cell name="title">Student performance (en)</cell>
@@ -3900,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bf66eae</cell>
   </row>
-  <row index="195">
+  <row index="198">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3baf17f3-en</cell>
     <cell name="title">Life satisfaction varies by socio-demographic group (en)</cell>
@@ -3920,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbd193fa</cell>
   </row>
-  <row index="196">
+  <row index="199">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fcfa93ab-en</cell>
     <cell name="title">On average less than half of the population trust their national government (en)</cell>
@@ -3940,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2c022cbe</cell>
   </row>
-  <row index="197">
+  <row index="200">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/006fe2b8-en</cell>
     <cell name="title">Trust in public institutions (en)</cell>
@@ -3960,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b246674</cell>
   </row>
-  <row index="198">
+  <row index="201">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/36139bf1-en</cell>
     <cell name="title">The share of dual-earner households is slowly increasing (en)</cell>
@@ -3980,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63dc2319</cell>
   </row>
-  <row index="199">
+  <row index="202">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/006fe2b8-en</cell>
     <cell name="title">Trust in public institutions (en)</cell>
@@ -4000,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/03bca265</cell>
   </row>
-  <row index="200">
+  <row index="203">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/93334f78-en</cell>
     <cell name="title">Health and care workforce (en)</cell>
@@ -4020,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d85bfbe2</cell>
   </row>
-  <row index="201">
+  <row index="204">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b5c11cd-en</cell>
     <cell name="title">On average across the OECD 27% of jobs have a high risk of automation (en)</cell>
@@ -4040,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd9f179f</cell>
   </row>
-  <row index="202">
+  <row index="205">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/918d8db3-en</cell>
     <cell name="title">Society at a Glance 2024 (en)</cell>
@@ -4060,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/146c40b5</cell>
   </row>
-  <row index="203">
+  <row index="206">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8aae6f60-en</cell>
     <cell name="title">Simultaneous trends of fewer and later births (en)</cell>
@@ -4080,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f18d3775</cell>
   </row>
-  <row index="204">
+  <row index="207">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/15025af7-en</cell>
     <cell name="title">Life expectancy (en)</cell>
@@ -4100,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a079856</cell>
   </row>
-  <row index="205">
+  <row index="208">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bb2c49e5-en</cell>
     <cell name="title">Expected years after labour market exit (en)</cell>
@@ -4120,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2503555</cell>
   </row>
-  <row index="206">
+  <row index="209">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c8568e7f-en</cell>
     <cell name="title">Household income (en)</cell>
@@ -4140,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/598d9cd8</cell>
   </row>
-  <row index="207">
+  <row index="210">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4502f8eb-en</cell>
     <cell name="title">Fertility (en)</cell>
@@ -4160,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f5f4719</cell>
   </row>
-  <row index="208">
+  <row index="211">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/22e14d99-en</cell>
     <cell name="title">Satisfaction tends to be higher for education, public safety, and health (en)</cell>
@@ -4180,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0adff63f</cell>
   </row>
-  <row index="209">
+  <row index="212">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5d7082a7-en</cell>
     <cell name="title">Childlessness increased markedly in many countries among younger cohorts of women (en)</cell>
@@ -4200,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c95e6e12</cell>
   </row>
-  <row index="210">
+  <row index="213">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87c648b4-en</cell>
     <cell name="title">Life satisfaction (en)</cell>
@@ -4220,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/030128fa</cell>
   </row>
-  <row index="211">
+  <row index="214">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/60e7cbf3-en</cell>
     <cell name="title">In most OECD countries there has been a decline in electoral participation (en)</cell>
@@ -4240,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9602506e</cell>
   </row>
-  <row index="212">
+  <row index="215">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/26815ecb-en</cell>
     <cell name="title">Social spending (en)</cell>
@@ -4260,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce136960</cell>
   </row>
-  <row index="213">
+  <row index="216">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5b4fab1f-en</cell>
     <cell name="title">Suicide rates generally increase with age (en)</cell>
@@ -4280,7 +4340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/616575a0</cell>
   </row>
-  <row index="214">
+  <row index="217">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bf453c34-en</cell>
     <cell name="title">Affordable housing (en)</cell>
@@ -4300,7 +4360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b364ba72</cell>
   </row>
-  <row index="215">
+  <row index="218">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4c4842f1-en</cell>
     <cell name="title">Satisfaction with social policies and the government’s covid response (en)</cell>
@@ -4320,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/615a9278</cell>
   </row>
-  <row index="216">
+  <row index="219">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/7850a55b-en</cell>
     <cell name="title">Health spending (en)</cell>
@@ -4340,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4525bf9f</cell>
   </row>
-  <row index="217">
+  <row index="220">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2a9c9130-en</cell>
     <cell name="title">The share of online vacancies demanding AI skills is small but increasing (en)</cell>
@@ -4360,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9bb1f69d</cell>
   </row>
-  <row index="218">
+  <row index="221">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/71a7ff1a-en</cell>
     <cell name="title">A snapshot of people’s daily feelings, emotions, and experiences (en)</cell>
@@ -4380,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/409fc5f2</cell>
   </row>
-  <row index="219">
+  <row index="222">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/89e94566-en</cell>
     <cell name="title">Preferences for government intervention and social policies (en)</cell>
@@ -4400,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dee55f7</cell>
   </row>
-  <row index="220">
+  <row index="223">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/78604ba2-en</cell>
     <cell name="title">Student performance (en)</cell>
@@ -4420,7 +4480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf1f9a39</cell>
   </row>
-  <row index="221">
+  <row index="224">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c5c551c9-en</cell>
     <cell name="title">One in 25 women report having experienced intimate partner violence in the past year (en)</cell>
@@ -4440,7 +4500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e625fd2d</cell>
   </row>
-  <row index="222">
+  <row index="225">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/954bc09c-en</cell>
     <cell name="title">Over the past 30 years, incomes of the bottom 10% grew slower than mean, median and top incomes (en)</cell>
@@ -4460,7 +4520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e444508</cell>
   </row>
-  <row index="223">
+  <row index="226">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bb2c49e5-en</cell>
     <cell name="title">Expected years after labour market exit (en)</cell>
@@ -4480,7 +4540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82ce3b32</cell>
   </row>
-  <row index="224">
+  <row index="227">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3a4306d8-en</cell>
     <cell name="title">Unemployment and social safety net benefits (en)</cell>
@@ -4500,7 +4560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1607d4d5</cell>
   </row>
-  <row index="225">
+  <row index="228">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0d5d8925-en</cell>
     <cell name="title">Half of the total number of doctors and 87% of long-term care workers across the OECD are women (en)</cell>
@@ -4520,7 +4580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13887fd4</cell>
   </row>
-  <row index="226">
+  <row index="229">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5c76ef32-en</cell>
     <cell name="title">Couples with two children where a partner is jobless generally need a significantly larger number of working hours to escape poverty than single persons (en)</cell>
@@ -4540,7 +4600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0056d48d</cell>
   </row>
-  <row index="227">
+  <row index="230">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2e68274e-en</cell>
     <cell name="title">Household expenditures have changed since 2000 (en)</cell>
@@ -4560,7 +4620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42fc3291</cell>
   </row>
-  <row index="228">
+  <row index="231">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a959db2d-en</cell>
     <cell name="title">Violence against women (en)</cell>
@@ -4580,7 +4640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8da725d7</cell>
   </row>
-  <row index="229">
+  <row index="232">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/736c20ad-en</cell>
     <cell name="title">Unemployment rates remain low across the OECD countries (en)</cell>
@@ -4600,7 +4660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/83c28f18</cell>
   </row>
-  <row index="230">
+  <row index="233">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8e321b13-en</cell>
     <cell name="title">Income and wealth inequalities (en)</cell>
@@ -4620,7 +4680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/873c12dd</cell>
   </row>
-  <row index="231">
+  <row index="234">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ea5c5b29-en</cell>
     <cell name="title">Women spend 4.5 more years after labour market exit than men (en)</cell>
@@ -4640,7 +4700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be1afeb5</cell>
   </row>
-  <row index="232">
+  <row index="235">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3f313b2a-en</cell>
     <cell name="title">Men and women spend 4.5 more years after labour market exit in 2022 than in 1980 (en)</cell>
@@ -4660,7 +4720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35273757</cell>
   </row>
-  <row index="233">
+  <row index="236">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/73e5872b-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4680,7 +4740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5c6f2f4</cell>
   </row>
-  <row index="234">
+  <row index="237">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/77de1594-en</cell>
     <cell name="title">The emergence of COVID‑19 led to increases in health spending in two‑thirds of OECD countries (en)</cell>
@@ -4700,7 +4760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac263483</cell>
   </row>
-  <row index="235">
+  <row index="238">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c8568e7f-en</cell>
     <cell name="title">Household income (en)</cell>
@@ -4720,7 +4780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3426313d</cell>
   </row>
-  <row index="236">
+  <row index="239">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b7b2bdf1-en</cell>
     <cell name="title">In two‑thirds of the OECD countries, migrants’ fertility rates are below replacement rate (en)</cell>
@@ -4740,7 +4800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b95a904</cell>
   </row>
-  <row index="237">
+  <row index="240">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bffd783d-en</cell>
     <cell name="title">A continuum of family support throughout childhood (en)</cell>
@@ -4760,7 +4820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d6a0e002</cell>
   </row>
-  <row index="238">
+  <row index="241">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/60ebf41c-en</cell>
     <cell name="title">Public spending family supports varies widely across OECD countries (en)</cell>
@@ -4780,7 +4840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8669474a</cell>
   </row>
-  <row index="239">
+  <row index="242">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/73e5872b-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4800,7 +4860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efeabe82</cell>
   </row>
-  <row index="240">
+  <row index="243">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/acbf999e-en</cell>
     <cell name="title">The number of deaths came close to the number of births across the OECD in 2021 (en)</cell>
@@ -4820,7 +4880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c1efd20</cell>
   </row>
-  <row index="241">
+  <row index="244">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/bbcdefaf-en</cell>
     <cell name="title">On average, over 60% of respondents declared that disparities in income and in wealth were too high (en)</cell>
@@ -4840,7 +4900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5e139e3</cell>
   </row>
-  <row index="242">
+  <row index="245">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/8024d3ad-en</cell>
     <cell name="title">Real per capita spending on health increased in 2020 and 2021 to tackle the pandemic (en)</cell>
@@ -4860,7 +4920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0da78680</cell>
   </row>
-  <row index="243">
+  <row index="246">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/45cb55bd-en</cell>
     <cell name="title">Teenage girls report more often to be victims of cyberbullying than boys (en)</cell>
@@ -4880,7 +4940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0949054</cell>
   </row>
-  <row index="244">
+  <row index="247">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4c4842f1-en</cell>
     <cell name="title">Satisfaction with social policies and the government’s covid response (en)</cell>
@@ -4900,7 +4960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87d3a718</cell>
   </row>
-  <row index="245">
+  <row index="248">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ce0b9f3f-en</cell>
     <cell name="title">Low-income dwellers face a significant housing cost burden (en)</cell>
@@ -4920,7 +4980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59cf3d93</cell>
   </row>
-  <row index="246">
+  <row index="249">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3a69e5d9-en</cell>
     <cell name="title">Suicide rates have been falling on average, but country trends can differ markedly (en)</cell>
@@ -4940,7 +5000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f458cce</cell>
   </row>
-  <row index="247">
+  <row index="250">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/db1c83e0-en</cell>
     <cell name="title">Trust in national government varies across subgroups of the population (en)</cell>
@@ -4960,7 +5020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5149be9e</cell>
   </row>
-  <row index="248">
+  <row index="251">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/42e38a47-en</cell>
     <cell name="title">Suicides (en)</cell>
@@ -4980,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c9756f4</cell>
   </row>
-  <row index="249">
+  <row index="252">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b08fa75e-en</cell>
     <cell name="title">Income poverty (en)</cell>
@@ -5000,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61b917ae</cell>
   </row>
-  <row index="250">
+  <row index="253">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/431f9867-en</cell>
     <cell name="title">One in seven 15‑year‑olds smoke at least once a month (en)</cell>
@@ -5020,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb01669f</cell>
   </row>
-  <row index="251">
+  <row index="254">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3cc371ac-en</cell>
     <cell name="title">Revitalising Services Trade for Global Growth (en)</cell>
@@ -5040,7 +5100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8efe0dc1</cell>
   </row>
-  <row index="252">
+  <row index="255">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cdfff156-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2024 (en)</cell>
@@ -5060,7 +5120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d699d83b</cell>
   </row>
-  <row index="253">
+  <row index="256">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/cdfff156-en</cell>
     <cell name="title">OECD Economic Surveys: United States 2024 (en)</cell>
@@ -5080,7 +5140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/de6431f0</cell>
   </row>
-  <row index="254">
+  <row index="257">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/8ac30c4e-en</cell>
     <cell name="title">Test No. 321: Hyallela Azteca Bioconcentration Test (HYBIT) (en)</cell>
@@ -5100,7 +5160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7ac251f</cell>
   </row>
-  <row index="255">
+  <row index="258">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/903c3247-fr</cell>
     <cell name="title">Essai No. 252: Essai rapide d'activité estrogen in vivo (REACTIV, Rapid Estrogen ACTivity In Vivo) (fr)</cell>
@@ -5120,7 +5180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4567b6c7</cell>
   </row>
-  <row index="256">
+  <row index="259">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/375935f4-fr</cell>
     <cell name="title">Essai n°253: Dépistage à court terme de l’activité de l’hormone juvénile sur Daphnia magna (fr)</cell>
@@ -5140,7 +5200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72d469e8</cell>
   </row>
-  <row index="257">
+  <row index="260">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/54066090-en</cell>
     <cell name="title">Test No. 252: Rapid Estrogen Activity In Vitro (REACTIV) assay (en)</cell>
@@ -5160,7 +5220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a19d82f</cell>
   </row>
-  <row index="258">
+  <row index="261">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/03cb5c08-en</cell>
     <cell name="title">Test No. 253: Short-term juvenile hormone (JH) activity screening assay in Daphnia magna (en)</cell>
@@ -5180,7 +5240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25b25897</cell>
   </row>
-  <row index="259">
+  <row index="262">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/6e6a9b3c-fr</cell>
     <cell name="title">Essai No. 321: Bioconcentration chez Hyalella azteca (HYBIT) (fr)</cell>
@@ -5200,7 +5260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c698931b</cell>
   </row>
-  <row index="260">
+  <row index="263">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5ebf849d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5220,7 +5280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/732b8f95</cell>
   </row>
-  <row index="261">
+  <row index="264">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/99623ec1-en</cell>
     <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
@@ -5240,7 +5300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35844abe</cell>
   </row>
-  <row index="262">
+  <row index="265">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5ebf849d-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5260,7 +5320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe2147a1</cell>
   </row>
-  <row index="263">
+  <row index="266">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0e42ccd-en</cell>
     <cell name="title">Country tables, tax revenues, 1990-2022 (en)</cell>
@@ -5280,7 +5340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/289a2dd5</cell>
   </row>
-  <row index="264">
+  <row index="267">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/80d796af-en</cell>
     <cell name="title">Tax structures across Asian and Pacific economies, 2022 (en)</cell>
@@ -5300,7 +5360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/40a2c9c8</cell>
   </row>
-  <row index="265">
+  <row index="268">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/574b8ce8-en</cell>
     <cell name="title">Net changes in tax-to-GDP ratios between 2010 and 2022, by main tax type (en)</cell>
@@ -5320,7 +5380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dccdacec</cell>
   </row>
-  <row index="266">
+  <row index="269">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/04d0e4e6-en</cell>
     <cell name="title">Interpretative guide to non-tax revenue in Revenue Statistics in Asia and the Pacific (en)</cell>
@@ -5340,7 +5400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49d76835</cell>
   </row>
-  <row index="267">
+  <row index="270">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7fee0582-en</cell>
     <cell name="title">Tax-to-GDP ratios in ASEAN and Pacific Island economies, 2010-22 (en)</cell>
@@ -5360,7 +5420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/489715b0</cell>
   </row>
-  <row index="268">
+  <row index="271">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3da6b826-en</cell>
     <cell name="title">Tax levels and tax structure, 1990-2022 (en)</cell>
@@ -5380,7 +5440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bdb3632</cell>
   </row>
-  <row index="269">
+  <row index="272">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -5400,7 +5460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0c80774</cell>
   </row>
-  <row index="270">
+  <row index="273">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e7fecb7e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -5420,7 +5480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fedad716</cell>
   </row>
-  <row index="271">
+  <row index="274">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4a881b4-en</cell>
     <cell name="title">Tax structures in Asia-Pacific, ASEAN (8) and Pacific Island economies in 2022 (en)</cell>
@@ -5440,7 +5500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b453208</cell>
   </row>
-  <row index="272">
+  <row index="275">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -5460,7 +5520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b6468fe</cell>
   </row>
-  <row index="273">
+  <row index="276">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5586c675-en</cell>
     <cell name="title">Tax revenue trends in Asia and the Pacific (en)</cell>
@@ -5480,7 +5540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11fbe02d</cell>
   </row>
-  <row index="274">
+  <row index="277">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/854d2b61-en</cell>
     <cell name="title">Non-tax revenue in selected Asia and Pacific economies, 2010-22 (en)</cell>
@@ -5500,7 +5560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a305c75</cell>
   </row>
-  <row index="275">
+  <row index="278">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e48668f3-en</cell>
     <cell name="title">Long-run tax buoyancy coefficients, 1998-2020 (en)</cell>
@@ -5520,7 +5580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49f8283b</cell>
   </row>
-  <row index="276">
+  <row index="279">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/414e5369-en</cell>
     <cell name="title">Comparative and country tables, non-tax revenues, 2007-2022 (en)</cell>
@@ -5540,7 +5600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae0c7706</cell>
   </row>
-  <row index="277">
+  <row index="280">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3da6b826-en</cell>
     <cell name="title">Tax levels and tax structure, 1990-2022 (en)</cell>
@@ -5560,7 +5620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c660140</cell>
   </row>
-  <row index="278">
+  <row index="281">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d9000306-en</cell>
     <cell name="title">Tax structures in Asian and Pacific economies, 2022 (en)</cell>
@@ -5580,7 +5640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/155e4b6a</cell>
   </row>
-  <row index="279">
+  <row index="282">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d6fcd65b-en</cell>
     <cell name="title">Structure of non-tax revenue in selected Asian and Pacific economies, 2022 (en)</cell>
@@ -5600,7 +5660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd314c7f</cell>
   </row>
-  <row index="280">
+  <row index="283">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/99623ec1-en</cell>
     <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
@@ -5620,7 +5680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fda3f05</cell>
   </row>
-  <row index="281">
+  <row index="284">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -5640,7 +5700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ab891615</cell>
   </row>
-  <row index="282">
+  <row index="285">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1f391dc5-en</cell>
     <cell name="title">Changes in the tax-to-GDP ratio (2010-22 and 2021-22) (en)</cell>
@@ -5660,7 +5720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b459b83f</cell>
   </row>
-  <row index="283">
+  <row index="286">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/86223e97-en</cell>
     <cell name="title">Environmentally related tax revenue in Asian and Pacific economies, by main tax base, 2022 (en)</cell>
@@ -5680,7 +5740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fde5a35d</cell>
   </row>
-  <row index="284">
+  <row index="287">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/fa9865de-en</cell>
     <cell name="title">Tax-to-GDP ratios and GDP per capita (in PPP) in Asian and Pacific economies, Latin America and the Caribbean, OECD and African countries (2022) (en)</cell>
@@ -5700,7 +5760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a56ae20b</cell>
   </row>
-  <row index="285">
+  <row index="288">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/46880935-en</cell>
     <cell name="title">Net changes in tax-to-GDP ratios between 2021 and 2022 by main type of tax (en)</cell>
@@ -5720,7 +5780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73a735ca</cell>
   </row>
-  <row index="286">
+  <row index="289">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5d8b40fd-en</cell>
     <cell name="title">Tax revenue buoyancy in Asia (en)</cell>
@@ -5740,7 +5800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/915edb23</cell>
   </row>
-  <row index="287">
+  <row index="290">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -5760,7 +5820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a06c1c2f</cell>
   </row>
-  <row index="288">
+  <row index="291">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5d8b40fd-en</cell>
     <cell name="title">Tax revenue buoyancy in Asia (en)</cell>
@@ -5780,7 +5840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c13089a</cell>
   </row>
-  <row index="289">
+  <row index="292">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f479d700-en</cell>
     <cell name="title">Changes in nominal tax revenue and nominal GDP, 2021-22 (en)</cell>
@@ -5800,7 +5860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e6524</cell>
   </row>
-  <row index="290">
+  <row index="293">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c4c13db2-en</cell>
     <cell name="title">Tax-to-GDP ratios in Asian and Pacific economies and regional averages, including and excluding social security contributions, 2022 (en)</cell>
@@ -5820,7 +5880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e1d4d3d</cell>
   </row>
-  <row index="291">
+  <row index="294">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5ede16e1-en</cell>
     <cell name="title">Attribution of tax revenue by sub-sector of general government, 2000-22 (en)</cell>
@@ -5840,7 +5900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1987b815</cell>
   </row>
-  <row index="292">
+  <row index="295">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0e42ccd-en</cell>
     <cell name="title">Country tables, tax revenues, 1990-2022 (en)</cell>
@@ -5860,7 +5920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/337e228a</cell>
   </row>
-  <row index="293">
+  <row index="296">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/414e5369-en</cell>
     <cell name="title">Comparative and country tables, non-tax revenues, 2007-2022 (en)</cell>
@@ -5880,7 +5940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f3093cb</cell>
   </row>
-  <row index="294">
+  <row index="297">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e4681bfa-en</cell>
     <cell name="title">Revenue Statistics in Asia and the Pacific 2024 (en)</cell>
@@ -5900,7 +5960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a52e32c</cell>
   </row>
-  <row index="295">
+  <row index="298">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/04d0e4e6-en</cell>
     <cell name="title">Interpretative guide to non-tax revenue in Revenue Statistics in Asia and the Pacific (en)</cell>
@@ -5920,7 +5980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4c1d3c08</cell>
   </row>
-  <row index="296">
+  <row index="299">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e345f84b-en</cell>
     <cell name="title">Revenue from VAT and other taxes on goods and services and revenues from PIT and CIT, 2022 (en)</cell>
@@ -5940,7 +6000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6755360f</cell>
   </row>
-  <row index="297">
+  <row index="300">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d78d51ae-en</cell>
     <cell name="title">Annual changes in tax-to-GDP ratios, 2021-22 (en)</cell>
@@ -5960,7 +6020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc92a2ee</cell>
   </row>
-  <row index="298">
+  <row index="301">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/3f5373ec-en</cell>
     <cell name="title">Tax structures for the Africa (33), Asia-Pacific (36), LAC and OECD averages, 2022 (en)</cell>
@@ -5980,7 +6040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01d55a8b</cell>
   </row>
-  <row index="299">
+  <row index="302">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5586c675-en</cell>
     <cell name="title">Tax revenue trends in Asia and the Pacific (en)</cell>
@@ -6000,7 +6060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe66d6b3</cell>
   </row>
-  <row index="300">
+  <row index="303">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4be068ff-en</cell>
     <cell name="title">VAT revenue ratios (VRRs) in selected Asian and Pacific economies, 2021 (en)</cell>
@@ -6020,7 +6080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d47eae79</cell>
   </row>
-  <row index="301">
+  <row index="304">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e7fecb7e-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -6040,7 +6100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60119aa5</cell>
   </row>
-  <row index="302">
+  <row index="305">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/011e121e-en</cell>
     <cell name="title">Excess tax revenue losses in 2020 (en)</cell>
@@ -6060,47 +6120,587 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b7fc379</cell>
   </row>
-  <row index="303">
+  <row index="306">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a4ae4e74-en</cell>
+    <cell name="title">Employment Centres and Employment Welfare Plus Centres as Korea’s main providers of employment services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec3b59cc</cell>
+  </row>
+  <row index="307">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4eaf084b-en</cell>
+    <cell name="title">Unemployment is low, but inactivity among young people is higher than among other age groups (en)</cell>
+    <cell name="subtitle">Share of the population according to their labour market status, by age group, 2022 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/383b3258</cell>
+  </row>
+  <row index="308">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/44cb97d7-en</cell>
+    <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42579992</cell>
+  </row>
+  <row index="309">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c18d1b23-en</cell>
+    <cell name="title">Employers in Korea have a digital channel to advertise their vacancies, look for staff and exchange relevant information with the PES (en)</cell>
+    <cell name="subtitle">Online solutions in PES for employers in the OECD and EU countries in spring 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23b08c7c</cell>
+  </row>
+  <row index="310">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/b37cc4b2-en</cell>
+    <cell name="title">Digital employment services in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4d2b71a</cell>
+  </row>
+  <row index="311">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/81db1c30-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22acf577</cell>
+  </row>
+  <row index="312">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/69acf6de-en</cell>
+    <cell name="title">Direct job creation is much more common in Korea than in other OECD countries (en)</cell>
+    <cell name="subtitle">Spending on different types of ALMPs and role of direct job creation, 2021 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cae1b740</cell>
+  </row>
+  <row index="313">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a1879392-en</cell>
+    <cell name="title">Employment rates among people with disabilities are low (en)</cell>
+    <cell name="subtitle">Employment rate of people with disabilities (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f00468ca</cell>
+  </row>
+  <row index="314">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a4ae4e74-en</cell>
+    <cell name="title">Employment Centres and Employment Welfare Plus Centres as Korea’s main providers of employment services (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7231f70c</cell>
+  </row>
+  <row index="315">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/81db1c30-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68bfd325</cell>
+  </row>
+  <row index="316">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a5804207-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c395ad96</cell>
+  </row>
+  <row index="317">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ed5dd991-en</cell>
+    <cell name="title">Active labour market policies for groups with vulnerabilities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/07eae704</cell>
+  </row>
+  <row index="318">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/55ef2118-en</cell>
+    <cell name="title">More than half of ALMP expenditures is targeted to groups with vulnerabilities in Korea (en)</cell>
+    <cell name="subtitle">Active labour market policy (ALMP) spending, by target group, 2021 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76eeb6ca</cell>
+  </row>
+  <row index="319">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/aca2a057-en</cell>
+    <cell name="title">Organisation of active labour market policy provision in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6e032eab</cell>
+  </row>
+  <row index="320">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/44cb97d7-en</cell>
+    <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d9269e4f</cell>
+  </row>
+  <row index="321">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a5804207-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cf32eb7d</cell>
+  </row>
+  <row index="322">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f843aa79-en</cell>
+    <cell name="title">The number of Employment Centres (including Employment Welfare Plus Centres) staff has increased in line with the growing demand for employment services (en)</cell>
+    <cell name="subtitle">Number of staff working in Employment Centres and total number of Employment Centres (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8d0c56a</cell>
+  </row>
+  <row index="323">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ca6dc6dd-en</cell>
+    <cell name="title">Different groups of jobseekers with vulnerabilities have access to different types of ALMPs in Korea (en)</cell>
+    <cell name="subtitle">Categories of active labour market policies (ALMPs), depending on target groups, 2021 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68f55276</cell>
+  </row>
+  <row index="324">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/aca2a057-en</cell>
+    <cell name="title">Organisation of active labour market policy provision in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/faa41448</cell>
+  </row>
+  <row index="325">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-06-26</cell>
     <cell name="embargo date">2024-06-26T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-06-18T20:28:12Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4faa3dca</cell>
+  </row>
+  <row index="326">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4d985fb7-en</cell>
+    <cell name="title">All key services for jobseekers can be provided digitally in Korea (en)</cell>
+    <cell name="subtitle">Online solutions for jobseekers, people at risk of job loss and citizens in the OECD and EU countries in spring 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/556eb592</cell>
+  </row>
+  <row index="327">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/44cb97d7-en</cell>
+    <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4faa3dca</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b87f77e6</cell>
   </row>
-  <row index="304">
+  <row index="328">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/b37cc4b2-en</cell>
+    <cell name="title">Digital employment services in Korea (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df104654</cell>
+  </row>
+  <row index="329">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/ed5dd991-en</cell>
+    <cell name="title">Active labour market policies for groups with vulnerabilities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7f7729e</cell>
+  </row>
+  <row index="330">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/61240733-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/23fda4c9</cell>
+  </row>
+  <row index="331">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a5b75736-en</cell>
+    <cell name="title">The provision of active labour market policies is not fully integrated in the digital platform to support job counsellors in Korea (en)</cell>
+    <cell name="subtitle">Online solutions to support staff in public employment services in the OECD and EU countries in spring 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Table</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/087ff461</cell>
+  </row>
+  <row index="332">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/44cb97d7-en</cell>
     <cell name="title">Strengthening Active Labour Market Policies in Korea (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-06-26</cell>
     <cell name="embargo date">2024-06-26T07:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7781fbff</cell>
   </row>
-  <row index="305">
+  <row index="333">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/c711f7dc-en</cell>
+    <cell name="title">Many older people rely on welfare payments (en)</cell>
+    <cell name="subtitle">Basic Livelihood Security Recipients by age, as a share of the population, August 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Spreadsheet</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Graph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0c60bec7</cell>
+  </row>
+  <row index="334">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/61240733-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-06-26</cell>
+    <cell name="embargo date">2024-06-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-06-18T20:53:13Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86b2f0a3</cell>
+  </row>
+  <row index="335">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -6120,7 +6720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e523a97</cell>
   </row>
-  <row index="306">
+  <row index="336">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -6140,7 +6740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3119c262</cell>
   </row>
-  <row index="307">
+  <row index="337">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -6160,7 +6760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748583c7</cell>
   </row>
-  <row index="308">
+  <row index="338">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -6180,7 +6780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e3d0490a</cell>
   </row>
-  <row index="309">
+  <row index="339">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -6200,7 +6800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b79e5438</cell>
   </row>
-  <row index="310">
+  <row index="340">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -6220,7 +6820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7e1a14b3</cell>
   </row>
-  <row index="311">
+  <row index="341">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -6240,7 +6840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b58d94f5</cell>
   </row>
-  <row index="312">
+  <row index="342">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/82e0432e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina (en)</cell>
@@ -6260,7 +6860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ca00e352</cell>
   </row>
-  <row index="313">
+  <row index="343">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ead1588e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Montenegro (en)</cell>
@@ -6280,7 +6880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82a111fb</cell>
   </row>
-  <row index="314">
+  <row index="344">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/541ec4e7-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Albania (en)</cell>
@@ -6300,7 +6900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2da11d0</cell>
   </row>
-  <row index="315">
+  <row index="345">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/ff74ae0e-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Kosovo (en)</cell>
@@ -6320,7 +6920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce978234</cell>
   </row>
-  <row index="316">
+  <row index="346">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/8207326d-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: North Macedonia (en)</cell>
@@ -6340,7 +6940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b6fedfff</cell>
   </row>
-  <row index="317">
+  <row index="347">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/170b0e53-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Regional Profile (en)</cell>
@@ -6360,7 +6960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be4a569d</cell>
   </row>
-  <row index="318">
+  <row index="348">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/3699c0d5-en</cell>
     <cell name="title">Western Balkans Competitiveness Outlook 2024: Serbia (en)</cell>
@@ -6380,7 +6980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ea6476d</cell>
   </row>
-  <row index="319">
+  <row index="349">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5a849c2a-en</cell>
     <cell name="title">PISA 2022 Results (Volume IV) (en)</cell>
@@ -6400,7 +7000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da1498d8</cell>
   </row>
-  <row index="320">
+  <row index="350">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -6420,7 +7020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec715c4f</cell>
   </row>
-  <row index="321">
+  <row index="351">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5adfe3a5-en</cell>
     <cell name="title">The Economic Case for Greater LGBTI+ Equality in the United States (en)</cell>
@@ -6440,7 +7040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423f1386</cell>
   </row>
-  <row index="322">
+  <row index="352">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -6460,7 +7060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f515d2d4</cell>
   </row>
-  <row index="323">
+  <row index="353">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/e32675d5-es</cell>
     <cell name="title">Estudio de la Justicia de la OCDE en el Perú (es)</cell>
@@ -6480,7 +7080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f8ca587a</cell>
   </row>
-  <row index="324">
+  <row index="354">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -6500,7 +7100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b880821</cell>
   </row>
-  <row index="325">
+  <row index="355">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/b9096cec-en</cell>
     <cell name="title">OECD Green Growth Policy Reviews: Egypt 2024 (en)</cell>
@@ -6520,7 +7120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/12df80b6</cell>
   </row>
-  <row index="326">
+  <row index="356">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/12cc20ad-ar</cell>
     <cell name="title">مراجعات سياسات النمو الأخضر في منظمة التعاون الاقتصادي والتنمية: مصر 2024 (نسخة مختصرة) (ar)</cell>
@@ -6540,7 +7140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c88489e</cell>
   </row>
-  <row index="327">
+  <row index="357">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/12cc20ad-ar</cell>
     <cell name="title">مراجعات سياسات النمو الأخضر في منظمة التعاون الاقتصادي والتنمية: مصر 2024 (نسخة مختصرة) (ar)</cell>
@@ -6560,7 +7160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/09d0fadf</cell>
   </row>
-  <row index="328">
+  <row index="358">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4c5d2cfb-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2024-2033 (en)</cell>
@@ -6580,7 +7180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/53084a4e</cell>
   </row>
-  <row index="329">
+  <row index="359">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/96f19970-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2024-2033 (fr)</cell>
@@ -6600,7 +7200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da3af5bc</cell>
   </row>
-  <row index="330">
+  <row index="360">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4c5d2cfb-en</cell>
     <cell name="title">OECD-FAO Agricultural Outlook 2024-2033 (en)</cell>
@@ -6620,7 +7220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/224bb969</cell>
   </row>
-  <row index="331">
+  <row index="361">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/96f19970-fr</cell>
     <cell name="title">Perspectives agricoles de l’OCDE et de la FAO 2024-2033 (fr)</cell>
@@ -6640,7 +7240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/935cc30a</cell>
   </row>
-  <row index="332">
+  <row index="362">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bc0bdd4a-en</cell>
     <cell name="title">Illicit Trade and the Korean Economy (en)</cell>
@@ -6660,7 +7260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef44f8ba</cell>
   </row>
-  <row index="333">
+  <row index="363">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/df06c7a4-en</cell>
     <cell name="title">Africa's Development Dynamics 2024 (en)</cell>
@@ -6680,7 +7280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c60eff03</cell>
   </row>
-  <row index="334">
+  <row index="364">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b25ee3a9-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2024 (fr)</cell>
@@ -6700,7 +7300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ee82763</cell>
   </row>
-  <row index="335">
+  <row index="365">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/b25ee3a9-fr</cell>
     <cell name="title">Dynamiques du développement en Afrique 2024 (fr)</cell>
@@ -6720,7 +7320,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/945042ae</cell>
   </row>
-  <row index="336">
+  <row index="366">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/a859bbac-fr</cell>
+    <cell name="title">Perspectives de l’emploi de l’OCDE 2024 (fr)</cell>
+    <cell name="subtitle">Transition vers la neutralité carbone et marché du travail (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-07-09</cell>
+    <cell name="embargo date">2024-07-09T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b78dbe2</cell>
+  </row>
+  <row index="367">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -6740,7 +7360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f693883</cell>
   </row>
-  <row index="337">
+  <row index="368">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ac8b3538-en</cell>
     <cell name="title">OECD Employment Outlook 2024 (en)</cell>
@@ -6760,7 +7380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c52e2d04</cell>
   </row>
-  <row index="338">
+  <row index="369">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -6780,7 +7400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec7afa20</cell>
   </row>
-  <row index="339">
+  <row index="370">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9c27d6e8-en</cell>
     <cell name="title">Corporate Tax Statistics 2024 (en)</cell>
@@ -6800,7 +7420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37dfc9bb</cell>
   </row>
-  <row index="340">
+  <row index="371">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/29ce1684-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) (en)</cell>
@@ -6820,7 +7440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b76ad52</cell>
   </row>
-  <row index="341">
+  <row index="372">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad7c3811-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) (en)</cell>
@@ -6840,7 +7460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd3783c9</cell>
   </row>
-  <row index="342">
+  <row index="373">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a4f4b804-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) (en)</cell>
@@ -6860,7 +7480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e4c0b</cell>
   </row>
-  <row index="343">
+  <row index="374">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/395c9956-en</cell>
     <cell name="title">Ownership and Governance of State-Owned Enterprises 2024 (en)</cell>
@@ -6880,7 +7500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c129d23</cell>
   </row>
-  <row index="344">
+  <row index="375">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cbc2afd5-en</cell>
     <cell name="title">Second Progress Review of Latvia’s Public Utilities Commission (en)</cell>
@@ -6900,7 +7520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ea322959</cell>
   </row>
-  <row index="345">
+  <row index="376">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a28c2090-fr</cell>
     <cell name="title">Études économiques de l’OCDE : France 2024 (fr)</cell>
@@ -6920,7 +7540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63d6308f</cell>
   </row>
-  <row index="346">
+  <row index="377">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/bd96e2ed-en</cell>
     <cell name="title">OECD Economic Surveys: France 2024 (en)</cell>

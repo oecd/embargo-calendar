@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 June 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 19 June 2024 at 1:17* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
@@ -36,7 +36,7 @@ Tuesday 18 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
 ### Additional Information
 
@@ -59,7 +59,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 13 June 2024 at 22:56
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
 ### Additional Information
 
@@ -82,7 +82,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
 ### Additional Information
 
@@ -105,7 +105,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
 ### Additional Information
 
@@ -120,6 +120,75 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 ------
 
 # 20 June 2024
+
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Report Two-Year Written Follow-Up Report: Greece](https://doi.org/10.1787/a3c117d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 June 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye](https://doi.org/10.1787/2db5c502-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 June 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Financing broadband networks of the future](https://doi.org/10.1787/eafc728b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
 
@@ -394,18 +463,18 @@ Wednesday 26 June 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -823,6 +892,29 @@ Friday 5 July 2024 at 6:30 | no launch event
 ------
 
 # 9 July 2024
+
+## [Perspectives de l’emploi de l’OCDE 2024 - Transition vers la neutralité carbone et marché du travail](https://doi.org/10.1787/a859bbac-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
 
