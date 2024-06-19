@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 June 2024 at 1:17* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 19 June 2024 at 23:22* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
 
@@ -59,7 +59,7 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
 
@@ -96,29 +96,6 @@ Tuesday 18 June 2024 at 8:00 | no launch event
 
 ------
 
-## [Implementing the OECD Anti-Bribery Convention Phase 4 Report Two-Year Written Follow-Up Report: Greece](https://doi.org/10.1787/a3c117d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye](https://doi.org/10.1787/2db5c502-en)
 
 Embargo date | Launch date
@@ -130,7 +107,7 @@ Thursday 20 June 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
 
 ### Additional Information
 
@@ -153,7 +130,7 @@ Thursday 20 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
 
 ### Additional Information
 
@@ -197,17 +174,63 @@ Thursday 20 June 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [An international review of national and subnational circular economy monitoring frameworks - Lessons and ways forward for Italy](https://doi.org/10.1787/854b848b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Scaling up in Trentino-Alto Adige/Südtirol](https://doi.org/10.1787/7cba750d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
 
 ------
 
@@ -234,26 +257,26 @@ Monday 24 June 2024 at 12:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: United States 2024](https://doi.org/10.1787/cdfff156-en)
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Report Two-Year Written Follow-Up Report: Greece](https://doi.org/10.1787/a3c117d5-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 24 June 2024 at 22:00 | no launch event
+Tuesday 25 June 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
 
 ### Additional Information
 
-* Directorate: *Economics Department*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -418,6 +441,29 @@ Tuesday 25 June 2024 at 11:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: United States 2024](https://doi.org/10.1787/cdfff156-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 June 2024 at 18:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Strengthening Active Labour Market Policies in Korea](https://doi.org/10.1787/44cb97d7-en)
 
 Embargo date | Launch date
@@ -564,16 +610,16 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
 
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -648,29 +694,6 @@ Friday 28 June 2024 at 14:00 | no launch event
 
 ------
 
-## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [OECD Green Growth Policy Reviews: Egypt 2024](https://doi.org/10.1787/b9096cec-en)
 
 Embargo date | Launch date
@@ -725,7 +748,7 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -736,7 +759,7 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -748,7 +771,7 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -759,7 +782,7 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -783,6 +806,29 @@ Tuesday 2 July 2024 at 23:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Slovenia 2024](https://doi.org/10.1787/bc4a107b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 3 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -901,6 +947,98 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 
 ------
 
+## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08921eb5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/aa0cbe35-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29ce1684-en)
 
 Embargo date | Launch date
@@ -947,7 +1085,122 @@ Tuesday 16 July 2024 at 9:00 | no launch event
 
 ------
 
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ef6ffeec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5f8fe671-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f1f68a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2e4ba9e0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f4b804-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 16 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c9e066d0-en)
 
 Embargo date | Launch date
 -------------|:------------:
