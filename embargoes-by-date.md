@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 June 2024 at 23:22* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 21 June 2024 at 1:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [18 June 2024](#18-june-2024)
 * [20 June 2024](#20-june-2024)
 * [21 June 2024](#21-june-2024)
 * [24 June 2024](#24-june-2024)
@@ -25,102 +24,6 @@ Data generated on | |
 
 ------
 
-# 18 June 2024
-
-## [Shaping Norway’s Digital Future](https://doi.org/10.1787/d3af799c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [New PISA results on creative thinking - Can students think outside the box?](https://doi.org/10.1787/b3a46696-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 13 June 2024 at 22:56
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Résultats du PISA 2022 (Volume III – version abrégée) - La pensée créative en milieu scolaire](https://doi.org/10.1787/b04a0009-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [PISA 2022 Results (Volume III) - Creative Minds, Creative Schools](https://doi.org/10.1787/765ee8c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
 # 20 June 2024
 
 ## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye](https://doi.org/10.1787/2db5c502-en)
@@ -134,7 +37,7 @@ Thursday 20 June 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
 
 ### Additional Information
 
@@ -157,7 +60,7 @@ Thursday 20 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
 
 ### Additional Information
 
@@ -178,15 +81,15 @@ Thursday 20 June 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -203,7 +106,7 @@ Thursday 20 June 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
 
 ### Additional Information
 
@@ -219,29 +122,6 @@ Thursday 20 June 2024 at 9:00 | no launch event
 
 # 21 June 2024
 
-## [An international review of national and subnational circular economy monitoring frameworks - Lessons and ways forward for Italy](https://doi.org/10.1787/854b848b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
 ## [Scaling up in Trentino-Alto Adige/Südtirol](https://doi.org/10.1787/7cba750d-en)
 
 Embargo date | Launch date
@@ -253,7 +133,7 @@ Friday 21 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
 
 ### Additional Information
 
@@ -488,7 +368,7 @@ Tuesday 25 June 2024 at 18:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -694,6 +574,29 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 ------
 
 # 27 June 2024
+
+## [An international review of national and subnational circular economy monitoring frameworks - Lessons and ways forward for Italy](https://doi.org/10.1787/854b848b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
 
 ## [PISA 2022 Results (Volume IV) - How Financially Smart Are Students?](https://doi.org/10.1787/5a849c2a-en)
 
