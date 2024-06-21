@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 June 2024 at 1:27* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 21 June 2024 at 23:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye](https://doi.org/10.1787/2db5c502-en)
 
@@ -107,11 +107,80 @@ Friday 21 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Using AI to manage minimum income benefits and unemployment assistance - Opportunities, risks and possible policy directions](https://doi.org/10.1787/718c93a1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Transparency reporting on terrorist and violent extremist content online - Fourth edition](https://doi.org/10.1787/901cb8cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
+* Format: *PDF*
+
+------
+
+## [Quantifying the role of state enterprises in industrial subsidies](https://doi.org/10.1787/49f39be1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Paper*
@@ -128,17 +197,17 @@ Monday 24 June 2024 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZXML*
 
 ------
 
@@ -564,7 +633,7 @@ Thursday 27 June 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -575,7 +644,7 @@ Thursday 27 June 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -587,22 +656,22 @@ Friday 28 June 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
-## [OECD Green Growth Policy Reviews: Egypt 2024](https://doi.org/10.1787/b9096cec-en)
+## [OECD Green Growth Policy Review of Egypt 2024](https://doi.org/10.1787/b9096cec-en)
 
 Embargo date | Launch date
 -------------|:------------:
