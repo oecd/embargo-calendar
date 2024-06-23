@@ -2,122 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 June 2024 at 23:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Türkiye](https://doi.org/10.1787/2db5c502-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Financing broadband networks of the future](https://doi.org/10.1787/eafc728b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Norway 2024](https://doi.org/10.1787/cb13475f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Society at a Glance 2024 - OECD Social Indicators](https://doi.org/10.1787/918d8db3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Scaling up in Trentino-Alto Adige/Südtirol](https://doi.org/10.1787/7cba750d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
+| *Sunday 23 June 2024 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Using AI to manage minimum income benefits and unemployment assistance - Opportunities, risks and possible policy directions](https://doi.org/10.1787/718c93a1-en)
 
@@ -130,7 +15,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
 
 ### Additional Information
 
@@ -153,7 +38,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
 
 ### Additional Information
 
@@ -176,7 +61,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
 
 ### Additional Information
 
@@ -199,7 +84,7 @@ Monday 24 June 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
 
 ### Additional Information
 
