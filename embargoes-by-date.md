@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 23 June 2024 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 June 2024 at 1:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 June 2024](#24-june-2024)
 * [25 June 2024](#25-june-2024)
@@ -151,8 +151,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -160,13 +160,13 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Essai No. 252: Essai rapide d'activité estrogen in vivo (REACTIV, Rapid Estrogen ACTivity In Vivo)](https://doi.org/10.1787/903c3247-fr)
+## [Essai No. 252 : Essai rapide d'activité estrogen in vivo (REACTIV, Rapid Estrogen ACTivity In Vivo)](https://doi.org/10.1787/903c3247-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -174,8 +174,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -183,13 +183,13 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Essai n°253: Dépistage à court terme de l’activité de l’hormone juvénile sur Daphnia magna](https://doi.org/10.1787/375935f4-fr)
+## [Essai n°253 : Dépistage à court terme de l’activité de l’hormone juvénile sur Daphnia magna](https://doi.org/10.1787/375935f4-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -197,8 +197,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -206,7 +206,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -220,8 +220,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -229,7 +229,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -243,8 +243,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -252,13 +252,13 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
 ------
 
-## [Essai No. 321: Bioconcentration chez Hyalella azteca (HYBIT)](https://doi.org/10.1787/6e6a9b3c-fr)
+## [Essai No. 321 : Bioconcentration chez Hyalella azteca (HYBIT)](https://doi.org/10.1787/6e6a9b3c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -266,8 +266,8 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -275,7 +275,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -512,6 +512,29 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Aid for Trade at a Glance 2024](https://doi.org/10.1787/7a4e356a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -842,11 +865,11 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 # 10 July 2024
 
-## [Corporate Tax Statistics 2024](https://doi.org/10.1787/9c27d6e8-en)
+## [OECD Survey on Drivers of Trust in Public Institutions, 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 10 July 2024 at 9:00 | no launch event
+Wednesday 10 July 2024 at 11:30 | no launch event
 
 ### Status Information
 
@@ -857,10 +880,10 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
@@ -912,6 +935,52 @@ Thursday 11 July 2024 at 6:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Korea 2024](https://doi.org/10.1787/c243e16a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Corporate Tax Statistics 2024](https://doi.org/10.1787/9c27d6e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
