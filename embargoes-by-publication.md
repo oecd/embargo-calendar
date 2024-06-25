@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 June 2024 at 1:11* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 25 June 2024 at 23:41* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Using AI to manage minimum income benefits and unemployment assistance - Opportunities, risks and possible policy directions](https://doi.org/10.1787/718c93a1-en)
 
@@ -15,7 +15,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -38,7 +38,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -61,7 +61,7 @@ Monday 24 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Monday 24 June 2024 at 12:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 21 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 23 June 2024 at 22:25
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -107,7 +107,7 @@ Tuesday 25 June 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -130,7 +130,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -153,7 +153,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -176,7 +176,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -199,7 +199,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -222,7 +222,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -245,7 +245,7 @@ Tuesday 25 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 24 June 2024 at 22:37
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -268,7 +268,7 @@ Tuesday 25 June 2024 at 11:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -289,16 +289,39 @@ Tuesday 25 June 2024 at 18:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [AI, data governance and privacy - Synergies and areas of international co-operation](https://doi.org/10.1787/2476b1a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 June 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Paper*
 * Format: *PDF*
 
 ------
@@ -314,7 +337,7 @@ Wednesday 26 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 18 June 2024 at 22:28
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -337,7 +360,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 12 June 2024 at 22:23
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -345,7 +368,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -360,7 +383,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -368,7 +391,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -383,7 +406,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 17 June 2024 at 22:24
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -391,7 +414,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -406,7 +429,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -414,7 +437,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -429,7 +452,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -437,7 +460,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -452,7 +475,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 19 June 2024 at 22:30
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -460,7 +483,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -475,7 +498,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 June 2024 at 9:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 11 June 2024 at 22:31
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
@@ -483,7 +506,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -495,7 +518,7 @@ Wednesday 26 June 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -542,15 +565,15 @@ Thursday 27 June 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
 
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -763,6 +786,29 @@ Friday 5 July 2024 at 6:30 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Austria 2024](https://doi.org/10.1787/60ea1561-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Perspectives de l’emploi de l’OCDE 2024 - Transition vers la neutralité carbone et marché du travail](https://doi.org/10.1787/a859bbac-fr)
 
 Embargo date | Launch date
@@ -809,7 +855,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Survey on Drivers of Trust in Public Institutions, 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
+## [OECD Survey on Drivers of Trust in Public Institutions - 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1174,6 +1220,29 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
