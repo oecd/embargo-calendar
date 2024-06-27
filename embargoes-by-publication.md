@@ -2,214 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 June 2024 at 4:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Implementing the OECD Anti-Bribery Convention Phase 4 Report Two-Year Written Follow-Up Report: Greece](https://doi.org/10.1787/a3c117d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Test No. 321: Hyallela Azteca Bioconcentration Test (HYBIT)](https://doi.org/10.1787/8ac30c4e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Essai No. 252 : Essai rapide d'activité estrogen in vivo (REACTIV, Rapid Estrogen ACTivity In Vivo)](https://doi.org/10.1787/903c3247-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Essai n°253 : Dépistage à court terme de l’activité de l’hormone juvénile sur Daphnia magna](https://doi.org/10.1787/375935f4-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Test No. 252: Rapid Estrogen Activity In Vitro (REACTIV) assay](https://doi.org/10.1787/54066090-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Test No. 253: Short-term juvenile hormone (JH) activity screening assay in Daphnia magna](https://doi.org/10.1787/03cb5c08-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Essai No. 321 : Bioconcentration chez Hyalella azteca (HYBIT)](https://doi.org/10.1787/6e6a9b3c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 24 June 2024 at 22:37
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Revenue Statistics in Asia and the Pacific 2024 - Tax Revenue Buoyancy in Asia](https://doi.org/10.1787/e4681bfa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: United States 2024](https://doi.org/10.1787/cdfff156-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 June 2024 at 18:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Thursday 27 June 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [AI, data governance and privacy - Synergies and areas of international co-operation](https://doi.org/10.1787/2476b1a4-en)
 
@@ -452,7 +245,7 @@ Thursday 27 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
 
 ### Additional Information
 
@@ -473,9 +266,9 @@ Thursday 27 June 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
+- [x] Exported to iLibrary Thursday 27 June 2024 at 10:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
 
 ### Additional Information
 
@@ -498,7 +291,7 @@ Thursday 27 June 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
 
 ### Additional Information
 
@@ -506,6 +299,29 @@ Thursday 27 June 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [The OECD Truth Quest Survey - Methodology and findings](https://doi.org/10.1787/92a94c0f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 June 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -519,9 +335,9 @@ Friday 28 June 2024 at 14:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
+- [x] Exported to iLibrary Thursday 27 June 2024 at 18:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 21 June 2024 at 22:27
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
 
 ### Additional Information
 
@@ -567,15 +383,15 @@ Sunday 30 June 2024 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
 
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -602,11 +418,11 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 
 ------
 
-## [مراجعات سياسات النمو الأخضر في منظمة التعاون الاقتصادي والتنمية: مصر 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
+## [مراجعة سياسة النمو الأخضر في مصر لمنظّمة التّعاون الاقتصادي والتّنمية 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 July 2024 at 8:00 | no launch event
+Tuesday 2 July 2024 at 8:30 | no launch event
 
 ### Status Information
 
@@ -702,7 +518,7 @@ Wednesday 3 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -783,6 +599,29 @@ Monday 8 July 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Australia](https://doi.org/10.1787/4f76e85a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Format: *PDF*
 
 ------
 
