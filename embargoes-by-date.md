@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 June 2024 at 23:41* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 27 June 2024 at 4:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 June 2024](#24-june-2024)
 * [25 June 2024](#25-june-2024)
 * [26 June 2024](#26-june-2024)
 * [27 June 2024](#27-june-2024)
 * [28 June 2024](#28-june-2024)
+* [30 June 2024](#30-june-2024)
 * [2 July 2024](#2-july-2024)
 * [3 July 2024](#3-july-2024)
 * [5 July 2024](#5-july-2024)
@@ -17,106 +17,9 @@ Data generated on | |
 * [10 July 2024](#10-july-2024)
 * [11 July 2024](#11-july-2024)
 * [16 July 2024](#16-july-2024)
-* [19 July 2024](#19-july-2024)
 * [4 September 2024](#4-september-2024)
 * [25 September 2024](#25-september-2024)
 * [27 September 2024](#27-september-2024)
-
-------
-
-# 24 June 2024
-
-## [Using AI to manage minimum income benefits and unemployment assistance - Opportunities, risks and possible policy directions](https://doi.org/10.1787/718c93a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Transparency reporting on terrorist and violent extremist content online - Fourth edition](https://doi.org/10.1787/901cb8cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Quantifying the role of state enterprises in industrial subsidies](https://doi.org/10.1787/49f39be1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 June 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Paper*
-* Format: *PDF*
-
-------
-
-## [Revitalising Services Trade for Global Growth - Evidence from Ten Years of Monitoring Services Trade Policies through the OECD STRI](https://doi.org/10.1787/3cc371ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 June 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 21 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZXML*
-
-------
 
 ------
 
@@ -344,14 +247,14 @@ Wednesday 26 June 2024 at 4:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -367,7 +270,7 @@ Wednesday 26 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -390,7 +293,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -413,7 +316,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 14 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -436,7 +339,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 17 June 2024 at 22:50
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -459,7 +362,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -482,7 +385,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -505,7 +408,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -528,7 +431,7 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 12 June 2024 at 9:24
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -544,20 +447,20 @@ Wednesday 26 June 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 June 2024 at 8:30 | no launch event
+Wednesday 26 June 2024 at 9:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -578,14 +481,14 @@ Thursday 27 June 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 20 June 2024 at 22:25
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Paper*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -601,7 +504,7 @@ Thursday 27 June 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 25 June 2024 at 22:27
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
 
 ### Additional Information
 
@@ -610,6 +513,29 @@ Thursday 27 June 2024 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Shaping students' financial literacy - The role of parents and socio-economic backgrounds](https://doi.org/10.1787/c3f3dc74-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 June 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -637,6 +563,56 @@ Friday 28 June 2024 at 14:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+------
+
+# 30 June 2024
+
+## [Assessing nature-related risks in the Hungarian financial system - Charting the impact of nature's financial echo](https://doi.org/10.1787/24fd70e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 30 June 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Recruiting Immigrant Workers: Japan 2024](https://doi.org/10.1787/0e5a10e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 30 June 2024 at 16:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -934,6 +910,29 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques - résultats 2024 - Instaurer la confiance dans un contexte complexe](https://doi.org/10.1787/80ddd09b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
@@ -1266,33 +1265,6 @@ Tuesday 16 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 19 July 2024
-
-## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 19 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
