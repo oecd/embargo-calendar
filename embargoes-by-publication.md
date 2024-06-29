@@ -2,237 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 June 2024 at 23:11* | [See embargoes by date](embargoes-by-date.md) |
-
-## [AI, data governance and privacy - Synergies and areas of international co-operation](https://doi.org/10.1787/2476b1a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 25 June 2024 at 22:55
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening Active Labour Market Policies in Korea](https://doi.org/10.1787/44cb97d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 18 June 2024 at 22:53
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Serbia](https://doi.org/10.1787/3699c0d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2024 at 22:49
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Regional Profile](https://doi.org/10.1787/170b0e53-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 14 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Kosovo](https://doi.org/10.1787/ff74ae0e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 17 June 2024 at 22:50
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Albania](https://doi.org/10.1787/541ec4e7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Montenegro](https://doi.org/10.1787/ead1588e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 11 June 2024 at 22:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: Bosnia and Herzegovina](https://doi.org/10.1787/82e0432e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 19 June 2024 at 22:57
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Western Balkans Competitiveness Outlook 2024: North Macedonia](https://doi.org/10.1787/8207326d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 12 June 2024 at 9:24
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Aid for Trade at a Glance 2024](https://doi.org/10.1787/7a4e356a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Saturday 29 June 2024 at 3:45* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [An international review of national and subnational circular economy monitoring frameworks - Lessons and ways forward for Italy](https://doi.org/10.1787/854b848b-en)
 
@@ -268,7 +38,7 @@ Thursday 27 June 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 June 2024 at 10:27
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
@@ -312,9 +82,9 @@ Friday 28 June 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
@@ -337,7 +107,7 @@ Friday 28 June 2024 at 14:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 27 June 2024 at 18:58
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
@@ -360,7 +130,7 @@ Sunday 30 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 26 June 2024 at 22:40
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
@@ -381,9 +151,9 @@ Sunday 30 June 2024 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
+- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
@@ -395,7 +165,53 @@ Sunday 30 June 2024 at 16:00 | no launch event
 
 ------
 
+## [Environment at a Glance in the EU Eastern Partnership Countries - Measuring Progress Towards a Green Transformation](https://doi.org/10.1787/aa7c00b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 1 July 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *DOCX, HTML, PDF, ZJCR*
+
+------
+
 ## [OECD Green Growth Policy Review of Egypt 2024](https://doi.org/10.1787/b9096cec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 2 July 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [مراجعة سياسة النمو الأخضر في مصر لمنظّمة التّعاون الاقتصادي والتّنمية 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -411,33 +227,10 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [مراجعة سياسة النمو الأخضر في مصر لمنظّمة التّعاون الاقتصادي والتّنمية 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
 * Language: *Arabic*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -495,18 +288,18 @@ Tuesday 2 July 2024 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -671,7 +464,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Survey on Drivers of Trust in Public Institutions - 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
+## [OECD Survey on Drivers of Trust in Public Institutions – 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -694,7 +487,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 ------
 
-## [Enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques - résultats 2024 - Instaurer la confiance dans un contexte complexe](https://doi.org/10.1787/80ddd09b-fr)
+## [Enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques – résultats 2024 - Instaurer la confiance dans un contexte complexe](https://doi.org/10.1787/80ddd09b-fr)
 
 Embargo date | Launch date
 -------------|:------------:
