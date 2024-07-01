@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 July 2024 at 10:51* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 July 2024 at 23:26* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 June 2024](#30-june-2024)
 * [1 July 2024](#1-july-2024)
@@ -54,7 +54,7 @@ Sunday 30 June 2024 at 16:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
+- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Sunday 30 June 2024 at 22:36
 
@@ -108,15 +108,15 @@ Tuesday 2 July 2024 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 1 July 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -131,15 +131,15 @@ Tuesday 2 July 2024 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 1 July 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Environment Directorate*
 * Language: *Arabic*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -154,15 +154,15 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 1 July 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -177,15 +177,15 @@ Tuesday 2 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 1 July 2024 at 22:25
 
 ### Additional Information
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
@@ -200,7 +200,7 @@ Tuesday 2 July 2024 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
+- [x] Exported to iLibrary Monday 1 July 2024 at 11:54
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 28 June 2024 at 22:29
 
@@ -299,11 +299,11 @@ Friday 5 July 2024 at 6:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 8 July 2024 at 9:00 | no launch event
+Monday 8 July 2024 at 9:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -314,7 +314,7 @@ Monday 8 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
@@ -339,7 +339,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Short content*
 * Format: *PDF*
 
