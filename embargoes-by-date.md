@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 June 2024 at 3:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 July 2024 at 6:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 June 2024](#27-june-2024)
-* [28 June 2024](#28-june-2024)
 * [30 June 2024](#30-june-2024)
 * [1 July 2024](#1-july-2024)
 * [2 July 2024](#2-july-2024)
@@ -22,129 +20,6 @@ Data generated on | |
 
 ------
 
-# 27 June 2024
-
-## [An international review of national and subnational circular economy monitoring frameworks - Lessons and ways forward for Italy](https://doi.org/10.1787/854b848b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 20 June 2024 at 22:51
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [PISA 2022 Results (Volume IV) - How Financially Smart Are Students?](https://doi.org/10.1787/5a849c2a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 June 2024 at 10:27
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Shaping students' financial literacy - The role of parents and socio-economic backgrounds](https://doi.org/10.1787/c3f3dc74-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 June 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 27 June 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 28 June 2024
-
-## [The OECD Truth Quest Survey - Methodology and findings](https://doi.org/10.1787/92a94c0f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 June 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 28 June 2024 at 14:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [The Economic Case for Greater LGBTI+ Equality in the United States](https://doi.org/10.1787/5adfe3a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 June 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 27 June 2024 at 18:58
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-------
-
 # 30 June 2024
 
 ## [Assessing nature-related risks in the Hungarian financial system - Charting the impact of nature's financial echo](https://doi.org/10.1787/24fd70e3-en)
@@ -158,7 +33,7 @@ Sunday 30 June 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 26 June 2024 at 23:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
+- [x] Exported to OECD.org Sunday 30 June 2024 at 22:36
 
 ### Additional Information
 
@@ -181,7 +56,7 @@ Sunday 30 June 2024 at 16:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 28 June 2024 at 14:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 28 June 2024 at 22:29
+- [x] Exported to OECD.org Sunday 30 June 2024 at 22:36
 
 ### Additional Information
 
