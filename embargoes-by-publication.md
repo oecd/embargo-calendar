@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 July 2024 at 6:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 1 July 2024 at 10:51* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing nature-related risks in the Hungarian financial system - Charting the impact of nature's financial echo](https://doi.org/10.1787/24fd70e3-en)
 
@@ -77,7 +77,7 @@ Monday 1 July 2024 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 July 2024 at 8:00 | no launch event
+Tuesday 2 July 2024 at 7:30 | no launch event
 
 ### Status Information
 
@@ -100,11 +100,11 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 July 2024 at 8:00 | no launch event
+Tuesday 2 July 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org

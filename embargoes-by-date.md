@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 1 July 2024 at 6:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 1 July 2024 at 10:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 June 2024](#30-june-2024)
 * [1 July 2024](#1-july-2024)
@@ -103,7 +103,7 @@ Monday 1 July 2024 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 July 2024 at 8:00 | no launch event
+Tuesday 2 July 2024 at 7:30 | no launch event
 
 ### Status Information
 
@@ -126,11 +126,11 @@ Tuesday 2 July 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 2 July 2024 at 8:00 | no launch event
+Tuesday 2 July 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
