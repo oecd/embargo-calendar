@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 2 July 2024 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 3 July 2024 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 July 2024](#1-july-2024)
 * [2 July 2024](#2-july-2024)
 * [3 July 2024](#3-july-2024)
 * [5 July 2024](#5-july-2024)
@@ -17,33 +16,6 @@ Data generated on | |
 * [4 September 2024](#4-september-2024)
 * [25 September 2024](#25-september-2024)
 * [27 September 2024](#27-september-2024)
-
-------
-
-# 1 July 2024
-
-## [Environment at a Glance in the EU Eastern Partnership Countries - Measuring Progress Towards a Green Transformation](https://doi.org/10.1787/aa7c00b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 1 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *DOCX, HTML, PDF, ZJCR*
-
-------
 
 ------
 
@@ -152,7 +124,7 @@ Tuesday 2 July 2024 at 23:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Monday 1 July 2024 at 11:54
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
+- [x] Exported to OECD.org Wednesday 3 July 2024 at 22:23
 
 ### Additional Information
 
@@ -177,9 +149,9 @@ Wednesday 3 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 2 July 2024 at 22:42
+- [x] Exported to iLibrary Wednesday 3 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
+- [x] Exported to OECD.org Wednesday 3 July 2024 at 22:23
 
 ### Additional Information
 
