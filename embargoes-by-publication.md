@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 3 July 2024 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Green Growth Policy Review of Egypt 2024](https://doi.org/10.1787/b9096cec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [مراجعة سياسة النمو الأخضر في مصر لمنظّمة التّعاون الاقتصادي والتّنمية 2024 (نسخة مختصرة)](https://doi.org/10.1787/12cc20ad-ar)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 7:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *Arabic*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD-FAO Agricultural Outlook 2024-2033](https://doi.org/10.1787/4c5d2cfb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Perspectives agricoles de l’OCDE et de la FAO 2024-2033](https://doi.org/10.1787/96f19970-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 July 2024 at 22:46
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 2 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
+| *Thursday 4 July 2024 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Illicit Trade and the Korean Economy](https://doi.org/10.1787/bc0bdd4a-en)
 
@@ -150,16 +58,16 @@ Friday 5 July 2024 at 6:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -173,16 +81,16 @@ Friday 5 July 2024 at 6:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Development Centre*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -208,6 +116,52 @@ Monday 8 July 2024 at 9:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : France 2024](https://doi.org/10.1787/50209a27-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Development Co‑operation Peer Reviews: France 2024](https://doi.org/10.1787/102d5469-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -288,7 +242,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -299,7 +253,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -334,7 +288,7 @@ Thursday 11 July 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -404,15 +358,15 @@ Thursday 11 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
