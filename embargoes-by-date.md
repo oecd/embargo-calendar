@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 4 July 2024 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 5 July 2024 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 July 2024](#2-july-2024)
-* [3 July 2024](#3-july-2024)
 * [5 July 2024](#5-july-2024)
 * [8 July 2024](#8-july-2024)
 * [9 July 2024](#9-july-2024)
@@ -13,63 +11,9 @@ Data generated on | |
 * [11 July 2024](#11-july-2024)
 * [16 July 2024](#16-july-2024)
 * [18 July 2024](#18-july-2024)
+* [19 July 2024](#19-july-2024)
 * [4 September 2024](#4-september-2024)
 * [25 September 2024](#25-september-2024)
-* [27 September 2024](#27-september-2024)
-
-------
-
-# 2 July 2024
-
-## [Illicit Trade and the Korean Economy](https://doi.org/10.1787/bc0bdd4a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 2 July 2024 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 1 July 2024 at 11:54
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
-
-------
-
-------
-
-# 3 July 2024
-
-## [OECD Economic Surveys: Slovenia 2024](https://doi.org/10.1787/bc4a107b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 3 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 3 July 2024 at 22:44
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 3 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -86,7 +30,7 @@ Friday 5 July 2024 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
@@ -109,7 +53,7 @@ Friday 5 July 2024 at 6:30 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
@@ -124,6 +68,29 @@ Friday 5 July 2024 at 6:30 | no launch event
 ------
 
 # 8 July 2024
+
+## [OECD Tourism Trends and Policies 2024](https://doi.org/10.1787/80885d8b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 8 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Austria 2024](https://doi.org/10.1787/60ea1561-en)
 
@@ -144,7 +111,7 @@ Monday 8 July 2024 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -161,17 +128,17 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -184,17 +151,17 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -221,29 +188,6 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ------
 
-## [Perspectives de l’emploi de l’OCDE 2024 - Transition vers la neutralité carbone et marché du travail](https://doi.org/10.1787/a859bbac-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
 
 Embargo date | Launch date
@@ -252,7 +196,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -270,6 +214,213 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 ------
 
 # 10 July 2024
+
+## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [France](https://doi.org/10.1787/bbf73400-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Portugal](https://doi.org/10.1787/16e9df45-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Colombia](https://doi.org/10.1787/c7b8e955-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Canada](https://doi.org/10.1787/c335ec9c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Suisse](https://doi.org/10.1787/fecb67ed-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/0b098987-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Estonia](https://doi.org/10.1787/767c2818-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
 
 ## [OECD Survey on Drivers of Trust in Public Institutions – 2024 Results - Building Trust in a Complex Policy Environment](https://doi.org/10.1787/9a20554b-en)
 
@@ -294,6 +445,351 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 ------
 
+## [Finland](https://doi.org/10.1787/596ba5da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Spain](https://doi.org/10.1787/56998449-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Australia](https://doi.org/10.1787/c7180e83-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/4608db98-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Greece](https://doi.org/10.1787/56edc018-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/cec47bf8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Iceland](https://doi.org/10.1787/77669daf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Korea](https://doi.org/10.1787/ab1a95c7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Mexico](https://doi.org/10.1787/14d321b0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Czechia](https://doi.org/10.1787/54847e53-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Switzerland](https://doi.org/10.1787/b0df7353-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/3ca8436a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Denmark](https://doi.org/10.1787/ac5b6973-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Netherlands](https://doi.org/10.1787/d71d7263-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Canada](https://doi.org/10.1787/1d3c42d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
 ## [Enquête de l’OCDE sur les déterminants de la confiance dans les institutions publiques – résultats 2024 - Instaurer la confiance dans un contexte complexe](https://doi.org/10.1787/80ddd09b-fr)
 
 Embargo date | Launch date
@@ -303,6 +799,75 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Ireland](https://doi.org/10.1787/852aa644-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Latvia](https://doi.org/10.1787/b5b59158-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Belgique](https://doi.org/10.1787/fffd5dca-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -311,9 +876,239 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Norway](https://doi.org/10.1787/d9a67b9b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Germany](https://doi.org/10.1787/9f727e4a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Belgium](https://doi.org/10.1787/fb2afb08-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [France](https://doi.org/10.1787/4edec498-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Sweden](https://doi.org/10.1787/11ca1946-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Slovak Republic](https://doi.org/10.1787/9d3a0ed1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/2c2a067d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Italy](https://doi.org/10.1787/ec745ba3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Slovenia](https://doi.org/10.1787/9980c17b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Chile](https://doi.org/10.1787/74c31786-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 10 July 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Short content*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -330,15 +1125,15 @@ Thursday 11 July 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -398,18 +1193,18 @@ Thursday 11 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 4 July 2024 at 22:21
+- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -676,6 +1471,148 @@ Thursday 18 July 2024 at 8:00 | no launch event
 
 ------
 
+# 19 July 2024
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/f97c97df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d5c8f1b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Lithuania 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/60e21789-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/76eb159b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Israel 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/c06214b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Moldova 2024 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ae0c799e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 19 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 4 September 2024
 
 ## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
@@ -724,56 +1661,6 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
-# 27 September 2024
-
-## [Études économiques de l’OCDE : France 2024](https://doi.org/10.1787/a28c2090-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: France 2024](https://doi.org/10.1787/bd96e2ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
