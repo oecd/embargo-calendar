@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 July 2024 at 23:24* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 7 July 2024 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 July 2024](#5-july-2024)
 * [8 July 2024](#8-july-2024)
 * [9 July 2024](#9-july-2024)
 * [10 July 2024](#10-july-2024)
@@ -14,56 +13,6 @@ Data generated on | |
 * [19 July 2024](#19-july-2024)
 * [4 September 2024](#4-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 5 July 2024
-
-## [Africa's Development Dynamics 2024 - Skills, Jobs and Productivity](https://doi.org/10.1787/df06c7a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 July 2024 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2024 - Compétences, emplois et productivité](https://doi.org/10.1787/b25ee3a9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 July 2024 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -80,7 +29,7 @@ Monday 8 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Sunday 7 July 2024 at 22:20
 
 ### Additional Information
 
@@ -173,7 +122,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org

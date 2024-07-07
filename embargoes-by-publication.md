@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 5 July 2024 at 23:24* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Africa's Development Dynamics 2024 - Skills, Jobs and Productivity](https://doi.org/10.1787/df06c7a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 July 2024 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Dynamiques du développement en Afrique 2024 - Compétences, emplois et productivité](https://doi.org/10.1787/b25ee3a9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 5 July 2024 at 6:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 4 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 7 July 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Tourism Trends and Policies 2024](https://doi.org/10.1787/80885d8b-en)
 
@@ -61,7 +15,7 @@ Monday 8 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Sunday 7 July 2024 at 22:20
 
 ### Additional Information
 
@@ -150,7 +104,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
