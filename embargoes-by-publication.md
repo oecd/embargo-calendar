@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 7 July 2024 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 8 July 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Tourism Trends and Policies 2024](https://doi.org/10.1787/80885d8b-en)
 
@@ -15,7 +15,7 @@ Monday 8 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Sunday 7 July 2024 at 22:20
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
@@ -36,15 +36,15 @@ Monday 8 July 2024 at 9:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -61,7 +61,7 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
@@ -93,6 +93,121 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [France](https://doi.org/10.1787/a811efb9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Italy](https://doi.org/10.1787/f8469085-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [대한민국](https://doi.org/10.1787/0b2eb64f-ko)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Korean*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/57b4fa18-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Korea](https://doi.org/10.1787/636e4c7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
 
 ------
 
@@ -113,13 +228,36 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Format: *PDF*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
-## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
+## [Canada](https://doi.org/10.1787/b4c0d22d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [United States](https://doi.org/10.1787/71e1f7a0-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -136,9 +274,285 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Spain](https://doi.org/10.1787/b237abc0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Japan](https://doi.org/10.1787/ba997ec7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mexico](https://doi.org/10.1787/6ff7c0af-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Deutschland](https://doi.org/10.1787/d33330d3-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Italia](https://doi.org/10.1787/d27f7855-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Germany](https://doi.org/10.1787/10dd9f73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [France](https://doi.org/10.1787/1352ec7a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [日本](https://doi.org/10.1787/0136d2ef-ja)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Japanese*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [España](https://doi.org/10.1787/aa3b1b42-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [México](https://doi.org/10.1787/e4d6969a-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
+
+------
+
+## [Canada](https://doi.org/10.1787/15eb6bfa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *PDF, ZXML*
 
 ------
 
@@ -207,7 +621,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -276,7 +690,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -299,7 +713,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -358,17 +772,17 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -725,18 +1139,18 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -805,7 +1219,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -966,7 +1380,7 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 * Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -1131,236 +1545,6 @@ Thursday 11 July 2024 at 9:00 | no launch event
 
 ------
 
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08921eb5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/aa0cbe35-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29ce1684-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ad7c3811-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ef6ffeec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5f8fe671-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f1f68a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2e4ba9e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f4b804-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c9e066d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 16 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland](https://doi.org/10.1787/3433784c-en)
 
 Embargo date | Launch date
@@ -1403,7 +1587,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1426,7 +1610,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1449,7 +1633,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1472,7 +1656,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1495,7 +1679,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1518,7 +1702,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -1542,6 +1726,236 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08921eb5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/aa0cbe35-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29ce1684-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ad7c3811-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ef6ffeec-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5f8fe671-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f1f68a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2e4ba9e0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f4b804-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c9e066d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
