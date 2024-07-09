@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 8 July 2024 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 9 July 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Tourism Trends and Policies 2024](https://doi.org/10.1787/80885d8b-en)
 
@@ -61,7 +61,7 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
 
 ### Additional Information
 
@@ -84,7 +84,7 @@ Tuesday 9 July 2024 at 7:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
 
 ### Additional Information
 
@@ -115,7 +115,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -138,7 +138,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -161,7 +161,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *Korean*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -184,7 +184,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -207,7 +207,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -253,7 +253,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -276,7 +276,30 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
+
+------
+
+## [Perspectives de l’emploi de l’OCDE 2024 - Transition vers la neutralité carbone et marché du travail](https://doi.org/10.1787/a859bbac-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 9 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -299,7 +322,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -322,7 +345,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -335,9 +358,9 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
+- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
 
 ### Additional Information
 
@@ -368,7 +391,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -391,7 +414,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *German*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -414,7 +437,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *Italian*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -437,7 +460,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -460,7 +483,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -483,7 +506,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *Japanese*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -506,7 +529,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -529,7 +552,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -552,7 +575,7 @@ Tuesday 9 July 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *PDF, ZXML*
+* Formats: *PDF, ZJCR, ZXML*
 
 ------
 
@@ -587,7 +610,7 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -772,9 +795,9 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
+- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
 
 ### Additional Information
 
@@ -1140,9 +1163,9 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
+- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
 
 ### Additional Information
 
@@ -1453,6 +1476,29 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 
 ------
 
+## [Corruption and fraud in crises - Strengthening law enforcement responses in Asia and the Pacific](https://doi.org/10.1787/f38694a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 11 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
 
 Embargo date | Launch date
@@ -1507,7 +1553,7 @@ Thursday 11 July 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
