@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 9 July 2024 at 23:20* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Tourism Trends and Policies 2024](https://doi.org/10.1787/80885d8b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Austria 2024](https://doi.org/10.1787/60ea1561-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 8 July 2024 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 8 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 8 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Wednesday 10 July 2024 at 23:31* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examens de l'OCDE sur la coopération pour le développement : France 2024](https://doi.org/10.1787/50209a27-fr)
 
@@ -587,16 +541,16 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -611,15 +565,15 @@ Wednesday 10 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -795,9 +749,9 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
@@ -1163,9 +1117,9 @@ Wednesday 10 July 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
@@ -1487,7 +1441,7 @@ Thursday 11 July 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
@@ -1508,17 +1462,17 @@ Thursday 11 July 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1530,18 +1484,18 @@ Thursday 11 July 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -1554,15 +1508,15 @@ Thursday 11 July 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -1579,7 +1533,7 @@ Thursday 11 July 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 5 July 2024 at 22:21
+- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
 
 ### Additional Information
 
