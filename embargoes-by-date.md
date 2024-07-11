@@ -2,549 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 10 July 2024 at 23:31* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 11 July 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 July 2024](#9-july-2024)
 * [10 July 2024](#10-july-2024)
 * [11 July 2024](#11-july-2024)
 * [18 July 2024](#18-july-2024)
 * [19 July 2024](#19-july-2024)
 * [4 September 2024](#4-september-2024)
+* [5 September 2024](#5-september-2024)
 * [10 September 2024](#10-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 9 July 2024
-
-## [Examens de l'OCDE sur la coopération pour le développement : France 2024](https://doi.org/10.1787/50209a27-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Development Co‑operation Peer Reviews: France 2024](https://doi.org/10.1787/102d5469-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 5 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [France](https://doi.org/10.1787/a811efb9-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Italy](https://doi.org/10.1787/f8469085-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [대한민국](https://doi.org/10.1787/0b2eb64f-ko)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Korean*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [United Kingdom](https://doi.org/10.1787/57b4fa18-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Korea](https://doi.org/10.1787/636e4c7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Australia](https://doi.org/10.1787/4f76e85a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Canada](https://doi.org/10.1787/b4c0d22d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [United States](https://doi.org/10.1787/71e1f7a0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l’emploi de l’OCDE 2024 - Transition vers la neutralité carbone et marché du travail](https://doi.org/10.1787/a859bbac-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Spain](https://doi.org/10.1787/b237abc0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Japan](https://doi.org/10.1787/ba997ec7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Employment Outlook 2024 - The Net-Zero Transition and the Labour Market](https://doi.org/10.1787/ac8b3538-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Tuesday 9 July 2024 at 22:26
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Mexico](https://doi.org/10.1787/6ff7c0af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Deutschland](https://doi.org/10.1787/d33330d3-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Italia](https://doi.org/10.1787/d27f7855-it)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Germany](https://doi.org/10.1787/10dd9f73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [France](https://doi.org/10.1787/1352ec7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [日本](https://doi.org/10.1787/0136d2ef-ja)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Japanese*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [España](https://doi.org/10.1787/aa3b1b42-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [México](https://doi.org/10.1787/e4d6969a-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
-
-## [Canada](https://doi.org/10.1787/15eb6bfa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 9 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Formats: *PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -1462,7 +929,7 @@ Thursday 11 July 2024 at 5:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
@@ -1485,7 +952,7 @@ Thursday 11 July 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
@@ -1508,7 +975,7 @@ Thursday 11 July 2024 at 6:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
@@ -1529,9 +996,9 @@ Thursday 11 July 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 10 July 2024 at 22:44
+- [x] Exported to iLibrary Thursday 11 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
@@ -1554,7 +1021,7 @@ Thursday 11 July 2024 at 9:00 | no launch event
 - [x] FTI loaded 
 - [x] Exported to iLibrary Friday 5 July 2024 at 22:43
 - [ ] Exported to Keepeek
-- [x] Exported to OECD.org Wednesday 10 July 2024 at 22:22
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
@@ -1578,18 +1045,18 @@ Thursday 18 July 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 11 July 2024 at 22:42
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -1759,6 +1226,33 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 September 2024
+
+## [OECD Investment Policy Review: Mauritius 2024](https://doi.org/10.1787/442d4c99-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
