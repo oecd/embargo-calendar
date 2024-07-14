@@ -2,134 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 13 July 2024 at 4:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 14 July 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 July 2024](#11-july-2024)
 * [18 July 2024](#18-july-2024)
 * [19 July 2024](#19-july-2024)
 * [4 September 2024](#4-september-2024)
 * [5 September 2024](#5-september-2024)
 * [10 September 2024](#10-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 11 July 2024
-
-## [Corruption and fraud in crises - Strengthening law enforcement responses in Asia and the Pacific](https://doi.org/10.1787/f38694a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 9 July 2024 at 22:48
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Justice Review of Peru - Towards Effective and Transparent Justice Institutions for Inclusive Growth](https://doi.org/10.1787/bb556518-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Estudio de la Justicia de la OCDE en el Perú - Hacia instituciones de justicia eficaces y transparentes para un crecimiento inclusivo](https://doi.org/10.1787/e32675d5-es)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Economic Surveys: Korea 2024](https://doi.org/10.1787/c243e16a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 July 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 11 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Corporate Tax Statistics 2024](https://doi.org/10.1787/9c27d6e8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 11 July 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 July 2024 at 22:43
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
 
 ------
 
