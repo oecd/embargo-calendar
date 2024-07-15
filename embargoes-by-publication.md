@@ -2,7 +2,76 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 14 July 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 15 July 2024 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Development Co-operation Report 2024 - Tackling Poverty and Inequalities through the Green Transition](https://doi.org/10.1787/357b63f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Contributions to the 2030 Agenda and Beyond - Shaping a Sustainable Future for All](https://doi.org/10.1787/69c94bd4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 17 July 2024 at 17:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [The interplay between voluntary and compliance carbon markets - Implications for environmental integrity](https://doi.org/10.1787/500198e1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 18 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland](https://doi.org/10.1787/3433784c-en)
 
@@ -165,6 +234,75 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ------
 
+## [Adapting intergovernmental fiscal transfers for the future - Emerging trends and innovative approaches](https://doi.org/10.1787/6389ca23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Navigating conflict and fostering co-operation in fiscal federalism](https://doi.org/10.1787/3d5c8c20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 22 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 August 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
 
 Embargo date | Launch date
@@ -303,6 +441,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ------
 
+## [Education at a Glance 2024 Sources, Methodologies and Technical Notes](https://doi.org/10.1787/e7d20315-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ef6ffeec-en)
 
 Embargo date | Launch date
@@ -418,6 +579,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ------
 
+## [Education at a Glance 2024 - OECD Indicators](https://doi.org/10.1787/c00cad36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c9e066d0-en)
 
 Embargo date | Launch date
@@ -438,6 +622,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Morocco 2024 - Economic Assessment](https://doi.org/10.1787/120f9778-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 

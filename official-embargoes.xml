@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-07-14T23:03:15.6441741+02:00">
+<report name="official-embargoes" generated="2024-07-15T23:19:18.0943481+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,6 +21,566 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
+    <cell name="directorate">Development Co-operation Directorate</cell>
+    <cell name="doi">10.1787/357b63f7-en</cell>
+    <cell name="title">Development Co-operation Report 2024 (en)</cell>
+    <cell name="subtitle">Tackling Poverty and Inequalities through the Green Transition (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/16af4460</cell>
+  </row>
+  <row index="2">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/881a5598-en</cell>
+    <cell name="title">Financing sustainable development and creating a global enabling environment for developing countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9fc83bb</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/389dda75-en</cell>
+    <cell name="title">Policies and investments for sustainable transformation and accelerated progress across the SDGs (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efc532ce</cell>
+  </row>
+  <row index="4">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/0742280b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec0b2318</cell>
+  </row>
+  <row index="5">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1732eee5-en</cell>
+    <cell name="title">Governance for sustainable transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/251f93df</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/1732eee5-en</cell>
+    <cell name="title">Governance for sustainable transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bdabb21</cell>
+  </row>
+  <row index="7">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2740862b-en</cell>
+    <cell name="title">OECD contributions to support SDG implementation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f616bc1a</cell>
+  </row>
+  <row index="8">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d4fb6492-en</cell>
+    <cell name="title">Empowering youth for a more equitable and sustainable future (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77d8f36d</cell>
+  </row>
+  <row index="9">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fa0a563</cell>
+  </row>
+  <row index="10">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/4aa20781-en</cell>
+    <cell name="title">Science, technology, and innovation for sustainable and inclusive transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3769ed4a</cell>
+  </row>
+  <row index="11">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/389dda75-en</cell>
+    <cell name="title">Policies and investments for sustainable transformation and accelerated progress across the SDGs (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18f74f77</cell>
+  </row>
+  <row index="12">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9866eba5-en</cell>
+    <cell name="title">Better Policies for 2030: the OECD’s 2016 Action Plan on the Sustainable Development Goals (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/56124cf9</cell>
+  </row>
+  <row index="13">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/9866eba5-en</cell>
+    <cell name="title">Better Policies for 2030: the OECD’s 2016 Action Plan on the Sustainable Development Goals (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c5bf7c3</cell>
+  </row>
+  <row index="14">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2cfdbae0-en</cell>
+    <cell name="title">Key policy insights (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4dba7657</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d5e5cff</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44d6e941</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41ff3fc0</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/7ed2e566-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa2d6db1</cell>
+  </row>
+  <row index="19">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/881a5598-en</cell>
+    <cell name="title">Financing sustainable development and creating a global enabling environment for developing countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d79c25b1</cell>
+  </row>
+  <row index="20">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/0742280b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9b0e0f4</cell>
+  </row>
+  <row index="21">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2740862b-en</cell>
+    <cell name="title">OECD contributions to support SDG implementation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/909e3263</cell>
+  </row>
+  <row index="22">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/4aa20781-en</cell>
+    <cell name="title">Science, technology, and innovation for sustainable and inclusive transformation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b4ee7ad</cell>
+  </row>
+  <row index="23">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2108e62</cell>
+  </row>
+  <row index="24">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/d4fb6492-en</cell>
+    <cell name="title">Empowering youth for a more equitable and sustainable future (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f30e6407</cell>
+  </row>
+  <row index="25">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/69c94bd4-en</cell>
+    <cell name="title">OECD Contributions to the 2030 Agenda and Beyond (en)</cell>
+    <cell name="subtitle">Shaping a Sustainable Future for All (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/413292e4</cell>
+  </row>
+  <row index="26">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/2cfdbae0-en</cell>
+    <cell name="title">Key policy insights (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b677fcea</cell>
+  </row>
+  <row index="27">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/7ed2e566-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-17</cell>
+    <cell name="embargo date">2024-07-17T17:15:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d77b4a80</cell>
+  </row>
+  <row index="28">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/500198e1-en</cell>
+    <cell name="title">The interplay between voluntary and compliance carbon markets (en)</cell>
+    <cell name="subtitle">Implications for environmental integrity (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-18</cell>
+    <cell name="embargo date">2024-07-18T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77d696fa</cell>
+  </row>
+  <row index="29">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3433784c-en</cell>
     <cell name="title">OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland (en)</cell>
@@ -40,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db34d2b0</cell>
   </row>
-  <row index="2">
+  <row index="30">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8a104c7c-en</cell>
     <cell name="title">Teachers' certifications and highest qualifications (2022) (en)</cell>
@@ -60,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce211a70</cell>
   </row>
-  <row index="3">
+  <row index="31">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ee703a81-en</cell>
     <cell name="title">Differences in teacher peer-review practices, by school characteristics (2022) (en)</cell>
@@ -80,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc6d1fd2</cell>
   </row>
-  <row index="4">
+  <row index="32">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a0d60d22-en</cell>
     <cell name="title">Resourcing schools to address educational disadvantage (en)</cell>
@@ -100,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15ed7496</cell>
   </row>
-  <row index="5">
+  <row index="33">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ff925858-en</cell>
     <cell name="title">The OECD Education for Inclusive Societies project (en)</cell>
@@ -120,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/102baba7</cell>
   </row>
-  <row index="6">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2383175f-en</cell>
     <cell name="title">Monitoring and evaluation to address educational disadvantage (en)</cell>
@@ -140,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37a6d009</cell>
   </row>
-  <row index="7">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f23bf7db-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -160,7 +720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecab8816</cell>
   </row>
-  <row index="8">
+  <row index="36">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d0a95b52-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -180,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5f4f40d</cell>
   </row>
-  <row index="9">
+  <row index="37">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69dde530-en</cell>
     <cell name="title">Visit programme (en)</cell>
@@ -200,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c819bc74</cell>
   </row>
-  <row index="10">
+  <row index="38">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3433784c-en</cell>
     <cell name="title">OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland (en)</cell>
@@ -220,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fade3243</cell>
   </row>
-  <row index="11">
+  <row index="39">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/83c8ed5f-en</cell>
     <cell name="title">Proportion of students holding exemptions from the study of Irish relative to the post-primary student population 1999-2016 (en)</cell>
@@ -240,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1185c48a</cell>
   </row>
-  <row index="12">
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/518e266e-en</cell>
     <cell name="title">Shortages of teaching staff by schools’ socio-economic composition (2022) (en)</cell>
@@ -260,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b02e9215</cell>
   </row>
-  <row index="13">
+  <row index="41">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d0a95b52-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -280,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6730d8a0</cell>
   </row>
-  <row index="14">
+  <row index="42">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a74dda87-en</cell>
     <cell name="title">Snapshot of performance in PISA (2003-2022) (en)</cell>
@@ -300,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a94deae</cell>
   </row>
-  <row index="15">
+  <row index="43">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1a58145b-en</cell>
     <cell name="title">School-level interventions to address educational disadvantage (en)</cell>
@@ -320,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68c6fe89</cell>
   </row>
-  <row index="16">
+  <row index="44">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/05d4ee51-en</cell>
     <cell name="title">Mathematics performance by immigrant background (2022) (en)</cell>
@@ -340,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c797436f</cell>
   </row>
-  <row index="17">
+  <row index="45">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3433784c-en</cell>
     <cell name="title">OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland (en)</cell>
@@ -360,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d151363</cell>
   </row>
-  <row index="18">
+  <row index="46">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a6ad1d5b-en</cell>
     <cell name="title">Governance of policies to address educational disadvantage (en)</cell>
@@ -380,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a3d3d98b</cell>
   </row>
-  <row index="19">
+  <row index="47">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1a58145b-en</cell>
     <cell name="title">School-level interventions to address educational disadvantage (en)</cell>
@@ -400,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/361d906e</cell>
   </row>
-  <row index="20">
+  <row index="48">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a0d60d22-en</cell>
     <cell name="title">Resourcing schools to address educational disadvantage (en)</cell>
@@ -420,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7bccf63e</cell>
   </row>
-  <row index="21">
+  <row index="49">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a5a4af66-en</cell>
     <cell name="title">Capacity building for schools to address educational disadvantage (en)</cell>
@@ -440,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd0b4073</cell>
   </row>
-  <row index="22">
+  <row index="50">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5e1976b3-en</cell>
     <cell name="title">External and internal evaluation practices (en)</cell>
@@ -460,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0c8a505</cell>
   </row>
-  <row index="23">
+  <row index="51">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/86aa76d6-en</cell>
     <cell name="title">Lack of qualified technical assistant staff (2022) (en)</cell>
@@ -480,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d6e0abb</cell>
   </row>
-  <row index="24">
+  <row index="52">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/751f7b97-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -500,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd970900</cell>
   </row>
-  <row index="25">
+  <row index="53">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6cde7fb4-en</cell>
     <cell name="title">Composition of the review team (en)</cell>
@@ -520,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e0526793</cell>
   </row>
-  <row index="26">
+  <row index="54">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6115c2e1-en</cell>
     <cell name="title">Transitions from post-primary education (2015-2021) (en)</cell>
@@ -540,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5ab5787</cell>
   </row>
-  <row index="27">
+  <row index="55">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3433784c-en</cell>
     <cell name="title">OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland (en)</cell>
@@ -560,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e7e71e23</cell>
   </row>
-  <row index="28">
+  <row index="56">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f23bf7db-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -580,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/13059eda</cell>
   </row>
-  <row index="29">
+  <row index="57">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/5b3c8087-en</cell>
     <cell name="title">Strength of socio-economic gradient and mathematics performance (en)</cell>
@@ -600,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2489c97c</cell>
   </row>
-  <row index="30">
+  <row index="58">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8749115b-en</cell>
     <cell name="title">Student-teacher ratio, by schools' socio-economic profile (2022) (en)</cell>
@@ -620,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/345272a4</cell>
   </row>
-  <row index="31">
+  <row index="59">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8b690fbf-en</cell>
     <cell name="title">An overview of equity and inclusion in the education system (en)</cell>
@@ -640,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97cba82f</cell>
   </row>
-  <row index="32">
+  <row index="60">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/de868b5b-en</cell>
     <cell name="title">Migration trends in Ireland 1993-2023 (en)</cell>
@@ -660,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ae742d1</cell>
   </row>
-  <row index="33">
+  <row index="61">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/681ee0f1-en</cell>
     <cell name="title">Distribution of DEIS-related support by type (2023) (en)</cell>
@@ -680,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/61b75c02</cell>
   </row>
-  <row index="34">
+  <row index="62">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac885590-en</cell>
     <cell name="title">Student-, school- and area/population-based characteristics used in allocation of equity funding (en)</cell>
@@ -700,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6edfff63</cell>
   </row>
-  <row index="35">
+  <row index="63">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c4693828-en</cell>
     <cell name="title">Differences in lesson observation practices, by school characteristics (2022) (en)</cell>
@@ -720,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2853dde8</cell>
   </row>
-  <row index="36">
+  <row index="64">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/3433784c-en</cell>
     <cell name="title">OECD Review of Resourcing Schools to Address Educational Disadvantage in Ireland (en)</cell>
@@ -740,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47e76763</cell>
   </row>
-  <row index="37">
+  <row index="65">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2bc2ce39-en</cell>
     <cell name="title">Trends in total expenditure per student in primary, secondary (post-primary) and post-secondary non-tertiary education (en)</cell>
@@ -760,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/007dd7c5</cell>
   </row>
-  <row index="38">
+  <row index="66">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a6ad1d5b-en</cell>
     <cell name="title">Governance of policies to address educational disadvantage (en)</cell>
@@ -780,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f957def7</cell>
   </row>
-  <row index="39">
+  <row index="67">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/69dde530-en</cell>
     <cell name="title">Visit programme (en)</cell>
@@ -800,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0de9939</cell>
   </row>
-  <row index="40">
+  <row index="68">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/9dbc9e41-en</cell>
     <cell name="title">Gender differences at primary level (2021) (en)</cell>
@@ -820,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a753ebc</cell>
   </row>
-  <row index="41">
+  <row index="69">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/1933a0df-en</cell>
     <cell name="title">Reading and mathematics scores at the primary level (2014 and 2021) (en)</cell>
@@ -840,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7316d30e</cell>
   </row>
-  <row index="42">
+  <row index="70">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bef5467b-en</cell>
     <cell name="title">Individuals accessing local authority managed emergency accommodation (en)</cell>
@@ -860,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3614a1f8</cell>
   </row>
-  <row index="43">
+  <row index="71">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/8b690fbf-en</cell>
     <cell name="title">An overview of equity and inclusion in the education system (en)</cell>
@@ -880,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dca17480</cell>
   </row>
-  <row index="44">
+  <row index="72">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e674b107-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -900,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9043235</cell>
   </row>
-  <row index="45">
+  <row index="73">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ff925858-en</cell>
     <cell name="title">The OECD Education for Inclusive Societies project (en)</cell>
@@ -920,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4a5da7</cell>
   </row>
-  <row index="46">
+  <row index="74">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/416ca4f9-en</cell>
     <cell name="title">Number of students in special education settings (en)</cell>
@@ -940,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b49ff85b</cell>
   </row>
-  <row index="47">
+  <row index="75">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/17e2d0cf-en</cell>
     <cell name="title">Employment rates by educational attainment and gender (%) (en)</cell>
@@ -960,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a991aca</cell>
   </row>
-  <row index="48">
+  <row index="76">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2383175f-en</cell>
     <cell name="title">Monitoring and evaluation to address educational disadvantage (en)</cell>
@@ -980,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e53ca08</cell>
   </row>
-  <row index="49">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/38245840-en</cell>
     <cell name="title">Bullying at school (2022) (en)</cell>
@@ -1000,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac8716c1</cell>
   </row>
-  <row index="50">
+  <row index="78">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/751f7b97-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1020,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f971ddab</cell>
   </row>
-  <row index="51">
+  <row index="79">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/04924cf1-en</cell>
     <cell name="title">Projected population shares (%) (en)</cell>
@@ -1040,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b092eef6</cell>
   </row>
-  <row index="52">
+  <row index="80">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/0a417c93-en</cell>
     <cell name="title">Key parameters of financial impact of equity funding in selected systems (en)</cell>
@@ -1060,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bde51618</cell>
   </row>
-  <row index="53">
+  <row index="81">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/6cde7fb4-en</cell>
     <cell name="title">Composition of the review team (en)</cell>
@@ -1080,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93b84ee5</cell>
   </row>
-  <row index="54">
+  <row index="82">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/a5a4af66-en</cell>
     <cell name="title">Capacity building for schools to address educational disadvantage (en)</cell>
@@ -1100,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c19614c6</cell>
   </row>
-  <row index="55">
+  <row index="83">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/22b44bf8-en</cell>
     <cell name="title">Learners in Home Education and independent schools (en)</cell>
@@ -1120,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/466f2e6b</cell>
   </row>
-  <row index="56">
+  <row index="84">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/faa54053-en</cell>
     <cell name="title">Distribution of school size at primary level (2022/23) (en)</cell>
@@ -1140,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/332c3486</cell>
   </row>
-  <row index="57">
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/59a2a4c8-en</cell>
     <cell name="title">Teachers' participation in professional development activities (2022) (en)</cell>
@@ -1160,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e098dc4e</cell>
   </row>
-  <row index="58">
+  <row index="86">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/4368e53a-en</cell>
     <cell name="title">Shares of DEIS schools and students in DEIS schools (2014-2022) (en)</cell>
@@ -1180,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75f56672</cell>
   </row>
-  <row index="59">
+  <row index="87">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e674b107-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1200,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df907ee9</cell>
   </row>
-  <row index="60">
+  <row index="88">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f97c97df-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sint Maarten 2024 (Second Round, Combined Review) (en)</cell>
@@ -1220,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b8d4b91</cell>
   </row>
-  <row index="61">
+  <row index="89">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d5c8f1b4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Sweden 2024 (Second Round, Combined Review) (en)</cell>
@@ -1240,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b8ca6af9</cell>
   </row>
-  <row index="62">
+  <row index="90">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/60e21789-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Lithuania 2024 (Second Round) (en)</cell>
@@ -1260,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a30e9754</cell>
   </row>
-  <row index="63">
+  <row index="91">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/76eb159b-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Ecuador 2024 (Second Round, Combined Review) (en)</cell>
@@ -1280,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a3fde42</cell>
   </row>
-  <row index="64">
+  <row index="92">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c06214b4-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Israel 2024 (Second Round, Combined Review) (en)</cell>
@@ -1300,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68a6c623</cell>
   </row>
-  <row index="65">
+  <row index="93">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ae0c799e-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Moldova 2024 (Second Round, Combined Review) (en)</cell>
@@ -1320,7 +1880,87 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ff5a9bc</cell>
   </row>
-  <row index="66">
+  <row index="94">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6389ca23-en</cell>
+    <cell name="title">Adapting intergovernmental fiscal transfers for the future (en)</cell>
+    <cell name="subtitle">Emerging trends and innovative approaches (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-22</cell>
+    <cell name="embargo date">2024-07-22T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46377a73</cell>
+  </row>
+  <row index="95">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3d5c8c20-en</cell>
+    <cell name="title">Navigating conflict and fostering co-operation in fiscal federalism (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-07-22</cell>
+    <cell name="embargo date">2024-07-22T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-07-15T20:42:50Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date">2024-07-15T20:23:45Z</cell>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Working paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c74857fa</cell>
+  </row>
+  <row index="96">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e45ca31a-en</cell>
+    <cell name="title">OECD Economic Surveys: Malaysia 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-08-27</cell>
+    <cell name="embargo date">2024-08-27T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ddefb84</cell>
+  </row>
+  <row index="97">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/e45ca31a-en</cell>
+    <cell name="title">OECD Economic Surveys: Malaysia 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-08-27</cell>
+    <cell name="embargo date">2024-08-27T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78b3ce95</cell>
+  </row>
+  <row index="98">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/96adc300-en</cell>
     <cell name="title">Skills and Labour Market Integration of Immigrants and their Children in Iceland (en)</cell>
@@ -1340,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/06cfe549</cell>
   </row>
-  <row index="67">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/96adc300-en</cell>
     <cell name="title">Skills and Labour Market Integration of Immigrants and their Children in Iceland (en)</cell>
@@ -1360,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/462a0c37</cell>
   </row>
-  <row index="68">
+  <row index="100">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/442d4c99-en</cell>
     <cell name="title">OECD Investment Policy Review: Mauritius 2024 (en)</cell>
@@ -1380,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59959fe2</cell>
   </row>
-  <row index="69">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/08921eb5-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) (en)</cell>
@@ -1400,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c846fedd</cell>
   </row>
-  <row index="70">
+  <row index="102">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/aa0cbe35-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) (en)</cell>
@@ -1420,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5bf228a</cell>
   </row>
-  <row index="71">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/29ce1684-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) (en)</cell>
@@ -1440,7 +2080,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b76ad52</cell>
   </row>
-  <row index="72">
+  <row index="104">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/c00cad36-en</cell>
+    <cell name="title">Education at a Glance 2024 (en)</cell>
+    <cell name="subtitle">OECD Indicators (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-10</cell>
+    <cell name="embargo date">2024-09-10T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e886b380</cell>
+  </row>
+  <row index="105">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ad7c3811-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) (en)</cell>
@@ -1460,7 +2120,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd3783c9</cell>
   </row>
-  <row index="73">
+  <row index="106">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/e7d20315-en</cell>
+    <cell name="title">Education at a Glance 2024 Sources, Methodologies and Technical Notes (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-10</cell>
+    <cell name="embargo date">2024-09-10T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/266281c7</cell>
+  </row>
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ef6ffeec-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) (en)</cell>
@@ -1480,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15e22c64</cell>
   </row>
-  <row index="74">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/5f8fe671-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) (en)</cell>
@@ -1500,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6eaa5b1a</cell>
   </row>
-  <row index="75">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a4f1f68a-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) (en)</cell>
@@ -1520,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/87b887db</cell>
   </row>
-  <row index="76">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2e4ba9e0-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) (en)</cell>
@@ -1540,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb6ec45c</cell>
   </row>
-  <row index="77">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a4f4b804-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) (en)</cell>
@@ -1560,7 +2240,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/916e4c0b</cell>
   </row>
-  <row index="78">
+  <row index="112">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/c00cad36-en</cell>
+    <cell name="title">Education at a Glance 2024 (en)</cell>
+    <cell name="subtitle">OECD Indicators (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-10</cell>
+    <cell name="embargo date">2024-09-10T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/678038f8</cell>
+  </row>
+  <row index="113">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c9e066d0-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) (en)</cell>
@@ -1580,7 +2280,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59d89f84</cell>
   </row>
-  <row index="79">
+  <row index="114">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/120f9778-fr</cell>
+    <cell name="title">OECD Economic Surveys: Morocco 2024 (fr)</cell>
+    <cell name="subtitle">Economic Assessment (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-11</cell>
+    <cell name="embargo date">2024-09-10T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34632fce</cell>
+  </row>
+  <row index="115">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/120f9778-fr</cell>
+    <cell name="title">OECD Economic Surveys: Morocco 2024 (fr)</cell>
+    <cell name="subtitle">Economic Assessment (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-09-11</cell>
+    <cell name="embargo date">2024-09-10T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/efef538c</cell>
+  </row>
+  <row index="116">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/cbc2afd5-en</cell>
     <cell name="title">Second Progress Review of Latvia’s Public Utilities Commission (en)</cell>
