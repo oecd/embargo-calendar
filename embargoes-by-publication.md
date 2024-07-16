@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 15 July 2024 at 23:19* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 17 July 2024 at 1:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Development Co-operation Report 2024 - Tackling Poverty and Inequalities through the Green Transition](https://doi.org/10.1787/357b63f7-en)
 
@@ -12,8 +12,8 @@ Wednesday 17 July 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 July 2024 at 22:33
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 
@@ -21,9 +21,9 @@ Wednesday 17 July 2024 at 5:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -104,8 +104,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 16 July 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,7 +113,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -276,6 +276,29 @@ Monday 22 July 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Eurostat-OECD Methodological Manual on Purchasing Power Parities (2023 edition)](https://doi.org/10.1787/c9829192-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
