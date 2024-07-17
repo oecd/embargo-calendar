@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 July 2024 at 1:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 17 July 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Development Co-operation Report 2024 - Tackling Poverty and Inequalities through the Green Transition](https://doi.org/10.1787/357b63f7-en)
 
@@ -13,7 +13,7 @@ Wednesday 17 July 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 16 July 2024 at 22:33
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 14:21
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 
@@ -127,8 +127,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,7 +136,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -150,8 +150,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -159,7 +159,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -173,8 +173,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -182,7 +182,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -196,8 +196,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,7 +205,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -219,8 +219,8 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 17 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -228,7 +228,7 @@ Friday 19 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -276,6 +276,29 @@ Monday 22 July 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Beneficial Ownership and Tax Transparency – Implementation and Remaining Challenges - OECD and Global Forum Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/f95790b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
