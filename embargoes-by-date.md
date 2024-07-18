@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 17 July 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 18 July 2024 at 22:48* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [17 July 2024](#17-july-2024)
 * [18 July 2024](#18-july-2024)
@@ -102,7 +102,7 @@ Thursday 18 July 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 12 July 2024 at 22:43
+- [x] Exported to iLibrary Thursday 18 July 2024 at 11:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Thursday 11 July 2024 at 22:21
 
@@ -312,7 +312,76 @@ Monday 22 July 2024 at 5:00 | no launch event
 
 # 25 July 2024
 
+## [Bringing Tax Transparency to Crypto-Assets – An Update - Global Forum Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/b33c9aa1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Strengthening International Tax Transparency on Real Estate – From Concept to Reality - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/fa2db2a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Beneficial Ownership and Tax Transparency – Implementation and Remaining Challenges - OECD and Global Forum Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/f95790b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Taxation and Inequality - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/8dbf9a62-en)
 
 Embargo date | Launch date
 -------------|:------------:
