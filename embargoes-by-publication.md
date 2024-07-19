@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 18 July 2024 at 22:48* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Development Co-operation Report 2024 - Tackling Poverty and Inequalities through the Green Transition](https://doi.org/10.1787/357b63f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 17 July 2024 at 14:21
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [OECD Contributions to the 2030 Agenda and Beyond - Shaping a Sustainable Future for All](https://doi.org/10.1787/69c94bd4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 17 July 2024 at 17:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Friday 19 July 2024 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The interplay between voluntary and compliance carbon markets - Implications for environmental integrity](https://doi.org/10.1787/500198e1-en)
 
@@ -288,6 +242,29 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors - G20 Brazil, July 2024](https://doi.org/10.1787/3bacc6e8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -311,8 +288,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -320,7 +297,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -334,8 +311,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -343,13 +320,36 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
 ## [Taxation and Inequality - OECD Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/8dbf9a62-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Apporter la transparence fiscale dans le monde des crypto-actifs – une mise à jour - Rapport du Forum mondial à l’intention des ministres des Finances et des gouverneurs de banque centrale des pays du G20](https://doi.org/10.1787/1247fef1-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -365,7 +365,76 @@ Thursday 25 July 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Fiscalité et inégalités - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale des pays du G20](https://doi.org/10.1787/816c9a41-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Bénéficiaires effectifs et transparence fiscale – mise en œuvre et défis restants - Rapport de l’OCDE et du Forum mondial à l’intention des ministres des Finances et des gouverneurs de banque centrale des pays du G20](https://doi.org/10.1787/ccc83f72-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Renforcer la transparence fiscale internationale dans le domaine immobilier – de la théorie à la pratique - Rapport de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale des pays du G20](https://doi.org/10.1787/38a1ac9e-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
