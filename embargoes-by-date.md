@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 July 2024 at 22:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 22 July 2024 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 July 2024](#22-july-2024)
 * [25 July 2024](#25-july-2024)
@@ -26,7 +26,7 @@ Monday 22 July 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 
@@ -49,7 +49,7 @@ Monday 22 July 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 

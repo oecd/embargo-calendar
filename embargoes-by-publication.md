@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 21 July 2024 at 22:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 22 July 2024 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Adapting intergovernmental fiscal transfers for the future - Emerging trends and innovative approaches](https://doi.org/10.1787/6389ca23-en)
 
@@ -13,7 +13,7 @@ Monday 22 July 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 
@@ -36,7 +36,7 @@ Monday 22 July 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 15 July 2024 at 22:42
+- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 15 July 2024 at 22:23
 
