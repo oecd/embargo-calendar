@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 22 July 2024 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 23 July 2024 at 22:51* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 July 2024](#22-july-2024)
 * [25 July 2024](#25-july-2024)
@@ -67,6 +67,75 @@ Monday 22 July 2024 at 5:00 | no launch event
 
 # 25 July 2024
 
+## [Raising investment to support growth in Latvia](https://doi.org/10.1787/0ce0daed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 July 2024 at 22:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Housing market challenges and policy options in Slovenia](https://doi.org/10.1787/fab74d9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 July 2024 at 22:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Addressing labour and skills shortages in a fast-changing economy](https://doi.org/10.1787/757311cb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 23 July 2024 at 22:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Bringing Tax Transparency to Crypto-Assets – An Update - Global Forum Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/b33c9aa1-en)
 
 Embargo date | Launch date
@@ -90,7 +159,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors - G20 Brazil, July 2024](https://doi.org/10.1787/3bacc6e8-en)
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 Brazil, July 2024)](https://doi.org/10.1787/3bacc6e8-en)
 
 Embargo date | Launch date
 -------------|:------------:
