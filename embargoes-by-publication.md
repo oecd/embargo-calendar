@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 23 July 2024 at 22:51* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Adapting intergovernmental fiscal transfers for the future - Emerging trends and innovative approaches](https://doi.org/10.1787/6389ca23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Navigating conflict and fostering co-operation in fiscal federalism](https://doi.org/10.1787/3d5c8c20-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 22 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 22 July 2024 at 22:23
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 15 July 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Wednesday 24 July 2024 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Raising investment to support growth in Latvia](https://doi.org/10.1787/0ce0daed-en)
 
@@ -60,6 +14,29 @@ Thursday 25 July 2024 at 5:00 | no launch event
 
 - [x] FTI loaded 
 - [x] Exported to iLibrary Tuesday 23 July 2024 at 22:26
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Decarbonising Romania’s economy](https://doi.org/10.1787/256205df-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -96,6 +73,29 @@ Thursday 25 July 2024 at 5:00 | no launch event
 
 ------
 
+## [Carbon prices, emissions and international trade in sectors at risk of carbon leakage - Evidence from 140 countries](https://doi.org/10.1787/116248f5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Addressing labour and skills shortages in a fast-changing economy](https://doi.org/10.1787/757311cb-en)
 
 Embargo date | Launch date
@@ -119,6 +119,29 @@ Thursday 25 July 2024 at 5:00 | no launch event
 
 ------
 
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Brésil, juillet 2024)](https://doi.org/10.1787/b7ee899a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 25 July 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Bringing Tax Transparency to Crypto-Assets – An Update - Global Forum Report to G20 Finance Ministers and Central Bank Governors](https://doi.org/10.1787/b33c9aa1-en)
 
 Embargo date | Launch date
@@ -128,7 +151,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -150,8 +173,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -159,7 +182,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -174,7 +197,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -197,7 +220,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -220,7 +243,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 19 July 2024 at 22:25
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -242,8 +265,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -251,7 +274,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -265,8 +288,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -274,7 +297,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -288,8 +311,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -297,7 +320,7 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -311,8 +334,8 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -320,8 +343,31 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Financial Management Information Systems in OECD countries](https://doi.org/10.1787/ce8367cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 26 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -330,12 +376,12 @@ Thursday 25 July 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 31 July 2024 at 7:00 | no launch event
+Wednesday 31 July 2024 at 5:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -343,8 +389,54 @@ Wednesday 31 July 2024 at 7:00 | no launch event
 
 * Directorate: *Statistics and Data Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Household transport choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/0e8469ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Household energy choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/534a14fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 1 August 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
