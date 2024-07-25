@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 24 July 2024 at 23:33* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 25 July 2024 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Raising investment to support growth in Latvia](https://doi.org/10.1787/0ce0daed-en)
 
@@ -414,6 +414,52 @@ Wednesday 31 July 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [National Contact Point for Responsible Business Conduct Peer Reviews: Romania 2024](https://doi.org/10.1787/74594718-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [National Contact Point for Responsible Business Conduct Peer Reviews: Iceland 2024](https://doi.org/10.1787/82d4f7cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 31 July 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
