@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 25 July 2024 at 23:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 26 July 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Raising investment to support growth in Latvia](https://doi.org/10.1787/0ce0daed-en)
 
@@ -365,6 +365,29 @@ Friday 26 July 2024 at 5:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Cultivating green futures - Helping students understand and progress towards green jobs](https://doi.org/10.1787/7c9912c5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 29 July 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 26 July 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
@@ -849,6 +872,29 @@ Tuesday 10 September 2024 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Colombia 2024](https://doi.org/10.1787/a1a22cd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
