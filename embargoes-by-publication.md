@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 29 July 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 31 July 2024 at 0:46* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cultivating green futures - Helping students understand and progress towards green jobs](https://doi.org/10.1787/7c9912c5-en)
 
