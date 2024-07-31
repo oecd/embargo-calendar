@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 July 2024 at 0:46* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 1 August 2024 at 0:11* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 July 2024](#29-july-2024)
 * [31 July 2024](#31-july-2024)
 * [1 August 2024](#1-august-2024)
 * [27 August 2024](#27-august-2024)
@@ -13,33 +12,6 @@ Data generated on | |
 * [10 September 2024](#10-september-2024)
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 29 July 2024
-
-## [Cultivating green futures - Helping students understand and progress towards green jobs](https://doi.org/10.1787/7c9912c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 

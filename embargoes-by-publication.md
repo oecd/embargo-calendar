@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 31 July 2024 at 0:46* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Cultivating green futures - Helping students understand and progress towards green jobs](https://doi.org/10.1787/7c9912c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 29 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 26 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Thursday 1 August 2024 at 0:11* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Eurostat-OECD Methodological Manual on Purchasing Power Parities (2023 edition)](https://doi.org/10.1787/c9829192-en)
 
