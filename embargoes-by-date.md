@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 August 2024 at 0:11* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 1 August 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [31 July 2024](#31-july-2024)
 * [1 August 2024](#1-august-2024)
@@ -494,29 +494,6 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Morocco 2024 - Economic Assessment](https://doi.org/10.1787/120f9778-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2024 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
 
 ------
 
