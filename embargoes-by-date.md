@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 August 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 2 August 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [31 July 2024](#31-july-2024)
 * [1 August 2024](#1-august-2024)
 * [27 August 2024](#27-august-2024)
 * [4 September 2024](#4-september-2024)
@@ -12,102 +11,6 @@ Data generated on | |
 * [10 September 2024](#10-september-2024)
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 31 July 2024
-
-## [Eurostat-OECD Methodological Manual on Purchasing Power Parities (2023 edition)](https://doi.org/10.1787/c9829192-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Household transport choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/0e8469ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [National Contact Point for Responsible Business Conduct Peer Reviews: Romania 2024](https://doi.org/10.1787/74594718-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [National Contact Point for Responsible Business Conduct Peer Reviews: Iceland 2024](https://doi.org/10.1787/82d4f7cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -497,9 +400,55 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Morocco 2024 - Economic Assessment](https://doi.org/10.1787/80777ea7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ------
 
 # 17 September 2024
+
+## [Études économiques de l'OCDE : Colombie 2024 (version abrégée)](https://doi.org/10.1787/c88ca51c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Colombia 2024](https://doi.org/10.1787/a1a22cd6-en)
 

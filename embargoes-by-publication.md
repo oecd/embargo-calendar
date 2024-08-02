@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 1 August 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Eurostat-OECD Methodological Manual on Purchasing Power Parities (2023 edition)](https://doi.org/10.1787/c9829192-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Household transport choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/0e8469ed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [National Contact Point for Responsible Business Conduct Peer Reviews: Romania 2024](https://doi.org/10.1787/74594718-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [National Contact Point for Responsible Business Conduct Peer Reviews: Iceland 2024](https://doi.org/10.1787/82d4f7cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 31 July 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 25 July 2024 at 22:25
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 2 August 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Household energy choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/534a14fe-en)
 
@@ -460,6 +368,52 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Morocco 2024 - Economic Assessment](https://doi.org/10.1787/80777ea7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Études économiques de l'OCDE : Colombie 2024 (version abrégée)](https://doi.org/10.1787/c88ca51c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
