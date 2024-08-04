@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 August 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Household energy choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/534a14fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Sunday 4 August 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
 

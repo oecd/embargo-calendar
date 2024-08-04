@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 August 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 4 August 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [1 August 2024](#1-august-2024)
 * [27 August 2024](#27-august-2024)
 * [4 September 2024](#4-september-2024)
 * [5 September 2024](#5-september-2024)
 * [10 September 2024](#10-september-2024)
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
-
-------
-
-# 1 August 2024
-
-## [Household energy choices - New empirical evidence and policy implications for sustainable behaviour](https://doi.org/10.1787/534a14fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 1 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 24 July 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
