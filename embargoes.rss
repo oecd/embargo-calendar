@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 04 Aug 2024 22:52:58 GMT</pubDate>
+      <pubDate>Mon, 05 Aug 2024 23:13:30 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -311,6 +311,22 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/c3686f5e-en-d3e1277</guid>
+         <pubDate>Mon, 30 Sep 2024 11:00:00 GMT</pubDate>
+         <title>Tax Policy Reforms 2024 - OECD and Selected Partner Economies</title>
+         <link>https://doi.org/10.1787/c3686f5e-en</link>
+         <description>Tax Policy Reforms 2024 - OECD and Selected Partner Economies by Centre for Tax Policy and Administration has an embargo on Monday 30 September 2024 at 11:00.</description>
+         <oe:embargoTime>Mon, 30 Sep 2024 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
          <oe:ftiLoaded/>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>

@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 August 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 5 August 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
 
@@ -438,5 +438,28 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Tax Policy Reforms 2024 - OECD and Selected Partner Economies](https://doi.org/10.1787/c3686f5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------

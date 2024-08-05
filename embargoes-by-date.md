@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 August 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 5 August 2024 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 August 2024](#27-august-2024)
 * [4 September 2024](#4-september-2024)
@@ -10,6 +10,7 @@ Data generated on | |
 * [10 September 2024](#10-september-2024)
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
+* [30 September 2024](#30-september-2024)
 
 ------
 
@@ -469,5 +470,32 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 30 September 2024
+
+## [Tax Policy Reforms 2024 - OECD and Selected Partner Economies](https://doi.org/10.1787/c3686f5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
