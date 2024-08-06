@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 August 2024 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 August 2024 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
 
