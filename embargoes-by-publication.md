@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 August 2024 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 9 August 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Chips, nodes and wafers - A taxonomy for semiconductor data collection](https://doi.org/10.1787/f68de895-en)
 

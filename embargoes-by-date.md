@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 August 2024 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 August 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2024](#12-august-2024)
 * [27 August 2024](#27-august-2024)
