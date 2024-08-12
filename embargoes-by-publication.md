@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 August 2024 at 22:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 12 August 2024 at 22:35* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Chips, nodes and wafers - A taxonomy for semiconductor data collection](https://doi.org/10.1787/f68de895-en)
 
@@ -13,7 +13,7 @@ Monday 12 August 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 August 2024 at 22:08
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -21,7 +21,7 @@ Monday 12 August 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 

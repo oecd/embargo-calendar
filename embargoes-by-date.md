@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 11 August 2024 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 12 August 2024 at 22:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2024](#12-august-2024)
 * [27 August 2024](#27-august-2024)
@@ -26,7 +26,7 @@ Monday 12 August 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 12 August 2024 at 22:08
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -34,7 +34,7 @@ Monday 12 August 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
