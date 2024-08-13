@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 August 2024 at 22:35* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 August 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 August 2024](#12-august-2024)
 * [27 August 2024](#27-august-2024)
@@ -121,7 +121,7 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 
 # 5 September 2024
 
-## [OECD Investment Policy Review: Mauritius 2024](https://doi.org/10.1787/442d4c99-en)
+## [OECD Investment Policy Reviews: Mauritius 2024](https://doi.org/10.1787/442d4c99-en)
 
 Embargo date | Launch date
 -------------|:------------:
