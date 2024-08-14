@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 August 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 August 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 August 2024](#12-august-2024)
 * [27 August 2024](#27-august-2024)
 * [4 September 2024](#4-september-2024)
 * [5 September 2024](#5-september-2024)
@@ -12,56 +11,6 @@ Data generated on | |
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
 * [30 September 2024](#30-september-2024)
-
-------
-
-# 12 August 2024
-
-## [Chips, nodes and wafers - A taxonomy for semiconductor data collection](https://doi.org/10.1787/f68de895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 August 2024 at 22:08
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Determining the Price of Minerals - A Transfer Pricing Framework for Lithium](https://doi.org/10.1787/a607ff0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 August 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 August 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 

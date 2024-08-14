@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 August 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Chips, nodes and wafers - A taxonomy for semiconductor data collection](https://doi.org/10.1787/f68de895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 12 August 2024 at 22:08
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Determining the Price of Minerals - A Transfer Pricing Framework for Lithium](https://doi.org/10.1787/a607ff0a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 August 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 8 August 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Wednesday 14 August 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
 
