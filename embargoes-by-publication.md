@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 15 August 2024 at 22:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 16 August 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Feeling the heat - Working under increasing temperatures](https://doi.org/10.1787/e07ce0e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 August 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Malaysia 2024](https://doi.org/10.1787/e45ca31a-en)
 
@@ -426,7 +449,7 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -437,7 +460,7 @@ Wednesday 25 September 2024 at 7:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
