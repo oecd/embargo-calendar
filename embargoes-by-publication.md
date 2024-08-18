@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 August 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 18 August 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Feeling the heat - Working under increasing temperatures](https://doi.org/10.1787/e07ce0e6-en)
 
