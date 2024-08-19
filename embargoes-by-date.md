@@ -2,8 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 August 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 August 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
+* [22 August 2024](#22-august-2024)
 * [27 August 2024](#27-august-2024)
 * [4 September 2024](#4-september-2024)
 * [5 September 2024](#5-september-2024)
@@ -11,6 +12,33 @@ Data generated on | |
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
 * [30 September 2024](#30-september-2024)
+
+------
+
+# 22 August 2024
+
+## [A Landscape of Sustainability Attributes Considered by Companies During Chemical and Material Selection](https://doi.org/10.1787/9475d147-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 22 August 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 19 August 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ------
 
@@ -24,7 +52,7 @@ Tuesday 27 August 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
