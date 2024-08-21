@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 August 2024 at 0:23* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 21 August 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Landscape of Sustainability Attributes Considered by Companies During Chemical and Material Selection](https://doi.org/10.1787/9475d147-en)
 
@@ -77,11 +77,11 @@ Tuesday 27 August 2024 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 27 August 2024 at 8:00 | no launch event
+Tuesday 27 August 2024 at 7:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +92,7 @@ Tuesday 27 August 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -105,7 +105,7 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 21 August 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,7 +113,7 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -460,6 +460,29 @@ Tuesday 10 September 2024 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [G20 Compendium on Data Access and Sharing Across the Public Sector and with the Private Sector for Public Interest](https://doi.org/10.1787/df1031a4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 September 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
