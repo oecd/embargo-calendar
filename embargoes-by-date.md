@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 21 August 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 22 August 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2024](#22-august-2024)
 * [27 August 2024](#27-august-2024)
@@ -126,8 +126,8 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 21 August 2024 at 22:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 22 August 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -135,9 +135,9 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
