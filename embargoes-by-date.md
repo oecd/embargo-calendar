@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 22 August 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 23 August 2024 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [22 August 2024](#22-august-2024)
 * [27 August 2024](#27-august-2024)
@@ -87,6 +87,29 @@ Tuesday 27 August 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Fostering innovation in low- and middle-income countries through challenge funds and prizes - Lessons for development co-operation](https://doi.org/10.1787/86713366-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 August 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Friday 23 August 2024 at 22:27
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
