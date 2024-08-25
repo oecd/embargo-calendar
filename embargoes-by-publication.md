@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 23 August 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [A Landscape of Sustainability Attributes Considered by Companies During Chemical and Material Selection](https://doi.org/10.1787/9475d147-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 August 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The evolving profile of new entrants in agriculture and the role of digital technologies](https://doi.org/10.1787/d15ea067-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 22 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 20 August 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Sunday 25 August 2024 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Feeling the heat - Working under increasing temperatures](https://doi.org/10.1787/e07ce0e6-en)
 
