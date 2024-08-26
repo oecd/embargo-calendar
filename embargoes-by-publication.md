@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 25 August 2024 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 26 August 2024 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Feeling the heat - Working under increasing temperatures](https://doi.org/10.1787/e07ce0e6-en)
 
@@ -35,8 +35,8 @@ Tuesday 27 August 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Friday 23 August 2024 at 22:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 August 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -73,6 +73,29 @@ Tuesday 27 August 2024 at 7:30 | no launch event
 
 ------
 
+## [VITARA Reference Guide: Organization](https://doi.org/10.1787/ab075e83-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 29 August 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 26 August 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
 
 Embargo date | Launch date
@@ -96,6 +119,29 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 
 ------
 
+## [Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée)](https://doi.org/10.1787/972f6605-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Investment Policy Reviews: Mauritius 2024](https://doi.org/10.1787/442d4c99-en)
 
 Embargo date | Launch date
@@ -116,6 +162,29 @@ Thursday 5 September 2024 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Bildung auf einen Blick 2024 - OECD-Indikatoren](https://doi.org/10.1787/e7565ada-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *German*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
