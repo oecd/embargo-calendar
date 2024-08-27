@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 26 August 2024 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 27 August 2024 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 August 2024](#27-august-2024)
 * [29 August 2024](#29-august-2024)
@@ -73,7 +73,7 @@ Tuesday 27 August 2024 at 7:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 27 August 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -81,7 +81,7 @@ Tuesday 27 August 2024 at 7:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -214,7 +214,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Language: *German*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
