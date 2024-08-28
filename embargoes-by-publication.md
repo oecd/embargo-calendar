@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 27 August 2024 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 28 August 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Feeling the heat - Working under increasing temperatures](https://doi.org/10.1787/e07ce0e6-en)
 
@@ -96,6 +96,29 @@ Thursday 29 August 2024 at 5:00 | no launch event
 
 ------
 
+## [Export restrictions on staple crops since 2007 - An overview based on the OECD database on export restrictions on staple crops](https://doi.org/10.1787/ccfa8a95-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
 
 Embargo date | Launch date
@@ -127,7 +150,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,7 +161,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -150,7 +173,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -161,7 +184,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -506,6 +529,29 @@ Tuesday 10 September 2024 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Synthesis report on understanding Perfluoropolyethers (PFPEs) and their life cycle](https://doi.org/10.1787/99ee2d3e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 28 August 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
