@@ -2,133 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/e07ce0e6-end3e63
-SUMMARY:[Policy brief] Feeling the heat - Workin
- g under increasing temperatures
-DESCRIPTION:*[Policy brief] Feeling the heat - Worki
- ng under increasing temperatures*\n\nDir
- ectorate: Directorate for Employment, La
- bour and Social Affairs\nLanguage: Engli
- sh\nDOI: https://doi.org/10.1787/e07ce0e
- 6-en\nPublication type: Policy brief\nRe
- leased as: PDF\n\nEmbargo date/time: Tue
- sday, 27 August 2024, 5:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✓\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 22:57, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=e
- 07ce0e6-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240827T050000Z
-DTEND:20240827T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Policy brief] Feeling the hea
- t - Working under increasing temperature
- s
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/86713366-end3e117
-SUMMARY:[Working paper] Fostering innovation in 
- low- and middle-income countries through
-  challenge funds and prizes - Lessons fo
- r development co-operation
-DESCRIPTION:*[Working paper] Fostering innovation in
-  low- and middle-income countries throug
- h challenge funds and prizes - Lessons f
- or development co-operation*\n\nDirector
- ate: Development Co-operation Directorat
- e\nLanguage: English\nDOI: https://doi.o
- rg/10.1787/86713366-en\nPublication type
- : Working paper\nReleased as: PDF\n\nEmb
- argo date/time: Tuesday, 27 August 2024,
-  5:00 (GMT)\n\n\niLibrary export: Monday
- , 26 August 2024, 20:31 (GMT)\nFreeprevi
- ew export: never\nOECD.org export: never
- \nFTI loaded: ✓\n\nFor more information 
- see: https://oecd.github.io/embargo-cale
- ndar/embargoes-by-publication.html.\n\nP
- lease note: This information was correct
-  as of this afternoon at 22:57, it is up
- dated each night; therefore any subseque
- nt updates may not yet be visible here. 
- Also, please be aware that the different
-  released media (PDF, HTML, etc.) are no
- t necessarily released at the same time.
-  For complete and up-to-date information
-  see here: http://kappa.oecd.org/v3/sear
- ch?term=86713366-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240827T050000Z
-DTEND:20240827T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Working paper] Fostering inno
- vation in low- and middle-income countri
- es through challenge funds and prizes - 
- Lessons for development co-operation
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e45ca31a-end3e173
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Malaysia 2024
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Malaysia 2024*\n\nDirectorate: Economi
- cs Department\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/e45ca31a-en\nPubl
- ication type: Economic survey\nReleased 
- as: PDF\n\nEmbargo date/time: Tuesday, 2
- 7 August 2024, 7:30 (GMT)\n\n\niLibrary 
- export: Tuesday, 27 August 2024, 20:30 (
- GMT)\nFreepreview export: never\nOECD.or
- g export: never\nFTI loaded: ✓\n\nFor mo
- re information see: https://oecd.github.
- io/embargo-calendar/embargoes-by-publica
- tion.html.\n\nPlease note: This informat
- ion was correct as of this afternoon at 
- 22:57, it is updated each night; therefo
- re any subsequent updates may not yet be
-  visible here. Also, please be aware tha
- t the different released media (PDF, HTM
- L, etc.) are not necessarily released at
-  the same time. For complete and up-to-d
- ate information see here: http://kappa.o
- ecd.org/v3/search?term=e45ca31a-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240827T073000Z
-DTEND:20240827T074500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Malaysia 2024
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ab075e83-end3e228
+UID:10.1787/ab075e83-end3e63
 SUMMARY:[Report] VITARA Reference Guide: Organiz
  ation
 DESCRIPTION:*[Report] VITARA Reference Guide: Organi
@@ -145,7 +19,7 @@ DESCRIPTION:*[Report] VITARA Reference Guide: Organi
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 22:57, it is updated each night; there
+ t 22:54, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -153,7 +27,7 @@ DESCRIPTION:*[Report] VITARA Reference Guide: Organi
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=ab075e83-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240829T050000Z
 DTEND:20240829T051500Z
 TRANSP:TRANSPARENT
@@ -167,7 +41,7 @@ DESCRIPTION:Reminder: [Report] VITARA Reference Guid
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccfa8a95-end3e283
+UID:10.1787/ccfa8a95-end3e117
 SUMMARY:[Policy paper] Export restrictions on st
  aple crops since 2007 - An overview base
  d on the OECD database on export restric
@@ -187,7 +61,7 @@ DESCRIPTION:*[Policy paper] Export restrictions on s
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:57, it 
+ rrect as of this afternoon at 22:54, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -196,7 +70,7 @@ DESCRIPTION:*[Policy paper] Export restrictions on s
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=ccfa8a95-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240904T050000Z
 DTEND:20240904T051500Z
 TRANSP:TRANSPARENT
@@ -212,7 +86,48 @@ DESCRIPTION:Reminder: [Policy paper] Export restrict
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96adc300-end3e1309
+UID:10.1787/afad5112-end3e170
+SUMMARY:[Report] Methodology of the OECD databas
+ e on export restrictions on staple crops
+DESCRIPTION:*[Report] Methodology of the OECD databa
+ se on export restrictions on staple crop
+ s*\n\nDirectorate: Trade and Agriculture
+  Directorate\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/afad5112-en\nPubli
+ cation type: Report\nReleased as: PDF\n\
+ nEmbargo date/time: Wednesday, 4 Septemb
+ er 2024, 5:00 (GMT)\n\n\niLibrary export
+ : Thursday, 29 August 2024, 20:29 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:54
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=afad5112-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240904T050000Z
+DTEND:20240904T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Methodology of the OE
+ CD database on export restrictions on st
+ aple crops
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/96adc300-end3e1197
 SUMMARY:[Book] Skills and Labour Market Integrat
  ion of Immigrants and their Children in 
  Iceland
@@ -232,7 +147,7 @@ DESCRIPTION:*[Book] Skills and Labour Market Integra
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 22:57, it is updated each
+ s afternoon at 22:54, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -241,7 +156,7 @@ DESCRIPTION:*[Book] Skills and Labour Market Integra
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=96
  adc300-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240904T090000Z
 DTEND:20240904T091500Z
 TRANSP:TRANSPARENT
@@ -256,7 +171,7 @@ DESCRIPTION:Reminder: [Book] Skills and Labour Marke
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/972f6605-frd3e2268
+UID:10.1787/972f6605-frd3e2156
 SUMMARY:[Book] Examens de l’OCDE des politiques 
  de l’investissement : Maurice 2024 (vers
  ion abrégée)
@@ -275,7 +190,7 @@ DESCRIPTION:*[Book] Examens de l’OCDE des politiques
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:57, it is updated each night; the
+  at 22:54, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -283,7 +198,7 @@ DESCRIPTION:*[Book] Examens de l’OCDE des politiques
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=972f6605-fr.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240905T050000Z
 DTEND:20240905T051500Z
 TRANSP:TRANSPARENT
@@ -298,7 +213,7 @@ DESCRIPTION:Reminder: [Book] Examens de l’OCDE des p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/442d4c99-end3e2374
+UID:10.1787/442d4c99-end3e2263
 SUMMARY:[Book] OECD Investment Policy Reviews: M
  auritius 2024
 DESCRIPTION:*[Book] OECD Investment Policy Reviews: 
@@ -315,7 +230,7 @@ DESCRIPTION:*[Book] OECD Investment Policy Reviews:
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 22:57, it is updated ea
+ his afternoon at 22:54, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -324,7 +239,7 @@ DESCRIPTION:*[Book] OECD Investment Policy Reviews:
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  442d4c99-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240905T050000Z
 DTEND:20240905T051500Z
 TRANSP:TRANSPARENT
@@ -338,7 +253,7 @@ DESCRIPTION:Reminder: [Book] OECD Investment Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7565ada-ded3e3065
+UID:10.1787/e7565ada-ded3e2954
 SUMMARY:[Book] Bildung auf einen Blick 2024 - OE
  CD-Indikatoren
 DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
@@ -354,7 +269,7 @@ DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:57, it is updated eac
+ is afternoon at 22:54, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -363,7 +278,7 @@ DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  7565ada-de.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -377,142 +292,7 @@ DESCRIPTION:Reminder: [Book] Bildung auf einen Blick
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08921eb5-end3e3118
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Egypt 
- (Stage 1) - Inclusive Framework on BEPS:
-  Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Egypt
-  (Stage 1) - Inclusive Framework on BEPS
- : Action 14*\n\nDirectorate: Centre for 
- Tax Policy and Administration\nLanguage:
-  English\nDOI: https://doi.org/10.1787/0
- 8921eb5-en\nPublication type: Book\nRele
- ased as: PDF\n\nEmbargo date/time: Tuesd
- ay, 10 September 2024, 9:00 (GMT)\n\n\ni
- Library export: never\nFreepreview expor
- t: never\nOECD.org export: never\nFTI lo
- aded: ✗\n\nFor more information see: htt
- ps://oecd.github.io/embargo-calendar/emb
- argoes-by-publication.html.\n\nPlease no
- te: This information was correct as of t
- his afternoon at 22:57, it is updated ea
- ch night; therefore any subsequent updat
- es may not yet be visible here. Also, pl
- ease be aware that the different release
- d media (PDF, HTML, etc.) are not necess
- arily released at the same time. For com
- plete and up-to-date information see her
- e: http://kappa.oecd.org/v3/search?term=
- 08921eb5-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Egypt (Stage 1) - Inclusive Framewor
- k on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/aa0cbe35-end3e3172
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Lithua
- nia (Stage 1) - Inclusive Framework on B
- EPS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Lithu
- ania (Stage 1) - Inclusive Framework on 
- BEPS: Action 14*\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/aa0cbe35-en\nPublication type: Book\n
- Released as: PDF\n\nEmbargo date/time: T
- uesday, 10 September 2024, 9:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 22:57, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=aa0cbe35-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Lithuania (Stage 1) - Inclusive Fram
- ework on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/29ce1684-end3e3225
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Antigu
- a and Barbuda (Stage 1) - Inclusive Fram
- ework on BEPS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Antig
- ua and Barbuda (Stage 1) - Inclusive Fra
- mework on BEPS: Action 14*\n\nDirectorat
- e: Centre for Tax Policy and Administrat
- ion\nLanguage: English\nDOI: https://doi
- .org/10.1787/29ce1684-en\nPublication ty
- pe: Book\nReleased as: PDF\n\nEmbargo da
- te/time: Tuesday, 10 September 2024, 9:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✗\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:57, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=29ce1684-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Antigua and Barbuda (Stage 1) - Incl
- usive Framework on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1aabb39d-frd3e3278
+UID:10.1787/1aabb39d-frd3e3007
 SUMMARY:[Book] Regards sur l'éducation 2024 - Le
  s indicateurs de l'OCDE
 DESCRIPTION:*[Book] Regards sur l'éducation 2024 - L
@@ -529,7 +309,7 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2024 - L
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
  was correct as of this afternoon at 22:5
- 7, it is updated each night; therefore a
+ 4, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
  e different released media (PDF, HTML, e
@@ -537,7 +317,7 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2024 - L
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=1aabb39d-fr.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -551,52 +331,7 @@ DESCRIPTION:Reminder: [Book] Regards sur l'éducation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ad7c3811-end3e3384
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Botswa
- na (Stage 1) - Inclusive Framework on BE
- PS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Botsw
- ana (Stage 1) - Inclusive Framework on B
- EPS: Action 14*\n\nDirectorate: Centre f
- or Tax Policy and Administration\nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/ad7c3811-en\nPublication type: Book\nR
- eleased as: PDF\n\nEmbargo date/time: Tu
- esday, 10 September 2024, 9:00 (GMT)\n\n
- \niLibrary export: never\nFreepreview ex
- port: never\nOECD.org export: never\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 22:57, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=ad7c3811-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Botswana (Stage 1) - Inclusive Frame
- work on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e7d20315-end3e3437
+UID:10.1787/e7d20315-end3e3113
 SUMMARY:[Report] Education at a Glance 2024 Sour
  ces, Methodologies and Technical Notes
 DESCRIPTION:*[Report] Education at a Glance 2024 Sou
@@ -613,7 +348,7 @@ DESCRIPTION:*[Report] Education at a Glance 2024 Sou
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 22:57, it is updated each night; ther
+ at 22:54, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -621,7 +356,7 @@ DESCRIPTION:*[Report] Education at a Glance 2024 Sou
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=e7d20315-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -636,232 +371,7 @@ DESCRIPTION:Reminder: [Report] Education at a Glance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ef6ffeec-end3e3490
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Seyche
- lles (Stage 1) - Inclusive Framework on 
- BEPS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Seych
- elles (Stage 1) - Inclusive Framework on
-  BEPS: Action 14*\n\nDirectorate: Centre
-  for Tax Policy and Administration\nLang
- uage: English\nDOI: https://doi.org/10.1
- 787/ef6ffeec-en\nPublication type: Book\
- nReleased as: PDF\n\nEmbargo date/time: 
- Tuesday, 10 September 2024, 9:00 (GMT)\n
- \n\niLibrary export: never\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✗\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 22:57, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=ef6ffeec-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Seychelles (Stage 1) - Inclusive Fra
- mework on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5f8fe671-end3e3543
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, North 
- Macedonia (Stage 1) - Inclusive Framewor
- k on BEPS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, North
-  Macedonia (Stage 1) - Inclusive Framewo
- rk on BEPS: Action 14*\n\nDirectorate: C
- entre for Tax Policy and Administration\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/5f8fe671-en\nPublication type: 
- Book\nReleased as: PDF\n\nEmbargo date/t
- ime: Tuesday, 10 September 2024, 9:00 (G
- MT)\n\n\niLibrary export: never\nFreepre
- view export: never\nOECD.org export: nev
- er\nFTI loaded: ✗\n\nFor more informatio
- n see: https://oecd.github.io/embargo-ca
- lendar/embargoes-by-publication.html.\n\
- nPlease note: This information was corre
- ct as of this afternoon at 22:57, it is 
- updated each night; therefore any subseq
- uent updates may not yet be visible here
- . Also, please be aware that the differe
- nt released media (PDF, HTML, etc.) are 
- not necessarily released at the same tim
- e. For complete and up-to-date informati
- on see here: http://kappa.oecd.org/v3/se
- arch?term=5f8fe671-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, North Macedonia (Stage 1) - Inclusiv
- e Framework on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a4f1f68a-end3e3596
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Serbia
-  (Stage 1) - Inclusive Framework on BEPS
- : Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Serbi
- a (Stage 1) - Inclusive Framework on BEP
- S: Action 14*\n\nDirectorate: Centre for
-  Tax Policy and Administration\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- a4f1f68a-en\nPublication type: Book\nRel
- eased as: PDF\n\nEmbargo date/time: Tues
- day, 10 September 2024, 9:00 (GMT)\n\n\n
- iLibrary export: never\nFreepreview expo
- rt: never\nOECD.org export: never\nFTI l
- oaded: ✗\n\nFor more information see: ht
- tps://oecd.github.io/embargo-calendar/em
- bargoes-by-publication.html.\n\nPlease n
- ote: This information was correct as of 
- this afternoon at 22:57, it is updated e
- ach night; therefore any subsequent upda
- tes may not yet be visible here. Also, p
- lease be aware that the different releas
- ed media (PDF, HTML, etc.) are not neces
- sarily released at the same time. For co
- mplete and up-to-date information see he
- re: http://kappa.oecd.org/v3/search?term
- =a4f1f68a-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Serbia (Stage 1) - Inclusive Framewo
- rk on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/2e4ba9e0-end3e3649
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Sri La
- nka (Stage 1) - Inclusive Framework on B
- EPS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Sri L
- anka (Stage 1) - Inclusive Framework on 
- BEPS: Action 14*\n\nDirectorate: Centre 
- for Tax Policy and Administration\nLangu
- age: English\nDOI: https://doi.org/10.17
- 87/2e4ba9e0-en\nPublication type: Book\n
- Released as: PDF\n\nEmbargo date/time: T
- uesday, 10 September 2024, 9:00 (GMT)\n\
- n\niLibrary export: never\nFreepreview e
- xport: never\nOECD.org export: never\nFT
- I loaded: ✗\n\nFor more information see:
-  https://oecd.github.io/embargo-calendar
- /embargoes-by-publication.html.\n\nPleas
- e note: This information was correct as 
- of this afternoon at 22:57, it is update
- d each night; therefore any subsequent u
- pdates may not yet be visible here. Also
- , please be aware that the different rel
- eased media (PDF, HTML, etc.) are not ne
- cessarily released at the same time. For
-  complete and up-to-date information see
-  here: http://kappa.oecd.org/v3/search?t
- erm=2e4ba9e0-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Sri Lanka (Stage 1) - Inclusive Fram
- ework on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/a4f4b804-end3e3755
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Colomb
- ia (Stage 1) - Inclusive Framework on BE
- PS: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Colom
- bia (Stage 1) - Inclusive Framework on B
- EPS: Action 14*\n\nDirectorate: Centre f
- or Tax Policy and Administration\nLangua
- ge: English\nDOI: https://doi.org/10.178
- 7/a4f4b804-en\nPublication type: Book\nR
- eleased as: PDF\n\nEmbargo date/time: Tu
- esday, 10 September 2024, 9:00 (GMT)\n\n
- \niLibrary export: never\nFreepreview ex
- port: never\nOECD.org export: never\nFTI
-  loaded: ✗\n\nFor more information see: 
- https://oecd.github.io/embargo-calendar/
- embargoes-by-publication.html.\n\nPlease
-  note: This information was correct as o
- f this afternoon at 22:57, it is updated
-  each night; therefore any subsequent up
- dates may not yet be visible here. Also,
-  please be aware that the different rele
- ased media (PDF, HTML, etc.) are not nec
- essarily released at the same time. For 
- complete and up-to-date information see 
- here: http://kappa.oecd.org/v3/search?te
- rm=a4f4b804-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Colombia (Stage 1) - Inclusive Frame
- work on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c00cad36-end3e3809
+UID:10.1787/c00cad36-end3e3219
 SUMMARY:[Book] Education at a Glance 2024 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
@@ -877,7 +387,7 @@ DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:57, it is up
+  as of this afternoon at 22:54, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -886,7 +396,7 @@ DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=c00cad36-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -900,52 +410,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9e066d0-end3e3862
-SUMMARY:[Book] Making Dispute Resolution More Ef
- fective – Simplified Peer Review, Nigeri
- a (Stage 1) - Inclusive Framework on BEP
- S: Action 14
-DESCRIPTION:*[Book] Making Dispute Resolution More E
- ffective – Simplified Peer Review, Niger
- ia (Stage 1) - Inclusive Framework on BE
- PS: Action 14*\n\nDirectorate: Centre fo
- r Tax Policy and Administration\nLanguag
- e: English\nDOI: https://doi.org/10.1787
- /c9e066d0-en\nPublication type: Book\nRe
- leased as: PDF\n\nEmbargo date/time: Tue
- sday, 10 September 2024, 9:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 22:57, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=c9e066d0-en.
-DTSTAMP:20240828T225802Z
-DTSTART:20240910T090000Z
-DTEND:20240910T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
- on More Effective – Simplified Peer Revi
- ew, Nigeria (Stage 1) - Inclusive Framew
- ork on BEPS: Action 14
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/80777ea7-end3e3915
+UID:10.1787/80777ea7-end3e3272
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Morocco 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -961,7 +426,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 22:57,
+ s correct as of this afternoon at 22:54,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -970,7 +435,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=80777ea7-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240910T220000Z
 DTEND:20240910T221500Z
 TRANSP:TRANSPARENT
@@ -985,7 +450,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/99ee2d3e-end3e3968
+UID:10.1787/99ee2d3e-end3e3325
 SUMMARY:[Report] Synthesis report on understandi
  ng Perfluoropolyethers (PFPEs) and their
   life cycle
@@ -1004,7 +469,7 @@ DESCRIPTION:*[Report] Synthesis report on understand
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 22:
- 57, it is updated each night; therefore 
+ 54, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -1012,7 +477,7 @@ DESCRIPTION:*[Report] Synthesis report on understand
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=99ee2d3e-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240912T050000Z
 DTEND:20240912T051500Z
 TRANSP:TRANSPARENT
@@ -1027,7 +492,7 @@ DESCRIPTION:Reminder: [Report] Synthesis report on u
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df1031a4-end3e4022
+UID:10.1787/df1031a4-end3e3379
 SUMMARY:[Report] G20 Compendium on Data Access a
  nd Sharing Across the Public Sector and 
  with the Private Sector for Public Inter
@@ -1047,7 +512,7 @@ DESCRIPTION:*[Report] G20 Compendium on Data Access
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:57, it is updated each night; the
+  at 22:54, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1055,7 +520,7 @@ DESCRIPTION:*[Report] G20 Compendium on Data Access
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=df1031a4-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240913T040000Z
 DTEND:20240913T041500Z
 TRANSP:TRANSPARENT
@@ -1071,7 +536,545 @@ DESCRIPTION:Reminder: [Report] G20 Compendium on Dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c88ca51c-frd3e4127
+UID:10.1787/08921eb5-end3e3431
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Egypt 
+ (Stage 1) - Inclusive Framework on BEPS:
+  Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Egypt
+  (Stage 1) - Inclusive Framework on BEPS
+ : Action 14*\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  English\nDOI: https://doi.org/10.1787/0
+ 8921eb5-en\nPublication type: Book\nRele
+ ased as: PDF\n\nEmbargo date/time: Monda
+ y, 16 September 2024, 9:00 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✗\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 22:54, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=0
+ 8921eb5-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Egypt (Stage 1) - Inclusive Framewor
+ k on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/aa0cbe35-end3e3485
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Lithua
+ nia (Stage 1) - Inclusive Framework on B
+ EPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Lithu
+ ania (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14*\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/aa0cbe35-en\nPublication type: Book\n
+ Released as: PDF\n\nEmbargo date/time: M
+ onday, 16 September 2024, 9:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 22:54, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=aa0cbe35-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Lithuania (Stage 1) - Inclusive Fram
+ ework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/29ce1684-end3e3538
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Antigu
+ a and Barbuda (Stage 1) - Inclusive Fram
+ ework on BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Antig
+ ua and Barbuda (Stage 1) - Inclusive Fra
+ mework on BEPS: Action 14*\n\nDirectorat
+ e: Centre for Tax Policy and Administrat
+ ion\nLanguage: English\nDOI: https://doi
+ .org/10.1787/29ce1684-en\nPublication ty
+ pe: Book\nReleased as: PDF\n\nEmbargo da
+ te/time: Monday, 16 September 2024, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✗\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:54, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=29ce1684-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Antigua and Barbuda (Stage 1) - Incl
+ usive Framework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ad7c3811-end3e3591
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Botswa
+ na (Stage 1) - Inclusive Framework on BE
+ PS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Botsw
+ ana (Stage 1) - Inclusive Framework on B
+ EPS: Action 14*\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/ad7c3811-en\nPublication type: Book\nR
+ eleased as: PDF\n\nEmbargo date/time: Mo
+ nday, 16 September 2024, 9:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 22:54, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=ad7c3811-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Botswana (Stage 1) - Inclusive Frame
+ work on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ef6ffeec-end3e3644
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Seyche
+ lles (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Seych
+ elles (Stage 1) - Inclusive Framework on
+  BEPS: Action 14*\n\nDirectorate: Centre
+  for Tax Policy and Administration\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/ef6ffeec-en\nPublication type: Book\
+ nReleased as: PDF\n\nEmbargo date/time: 
+ Monday, 16 September 2024, 9:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nOECD.org export: never\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 22:54, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=ef6ffeec-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Seychelles (Stage 1) - Inclusive Fra
+ mework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5f8fe671-end3e3697
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, North 
+ Macedonia (Stage 1) - Inclusive Framewor
+ k on BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, North
+  Macedonia (Stage 1) - Inclusive Framewo
+ rk on BEPS: Action 14*\n\nDirectorate: C
+ entre for Tax Policy and Administration\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/5f8fe671-en\nPublication type: 
+ Book\nReleased as: PDF\n\nEmbargo date/t
+ ime: Monday, 16 September 2024, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 22:54, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=5f8fe671-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, North Macedonia (Stage 1) - Inclusiv
+ e Framework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a4f1f68a-end3e3750
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Serbia
+  (Stage 1) - Inclusive Framework on BEPS
+ : Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Serbi
+ a (Stage 1) - Inclusive Framework on BEP
+ S: Action 14*\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ a4f1f68a-en\nPublication type: Book\nRel
+ eased as: PDF\n\nEmbargo date/time: Mond
+ ay, 16 September 2024, 9:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 22:54, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ a4f1f68a-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Serbia (Stage 1) - Inclusive Framewo
+ rk on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2e4ba9e0-end3e3804
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Sri La
+ nka (Stage 1) - Inclusive Framework on B
+ EPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Sri L
+ anka (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14*\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/2e4ba9e0-en\nPublication type: Book\n
+ Released as: PDF\n\nEmbargo date/time: M
+ onday, 16 September 2024, 9:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 22:54, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=2e4ba9e0-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Sri Lanka (Stage 1) - Inclusive Fram
+ ework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a4f4b804-end3e3857
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Colomb
+ ia (Stage 1) - Inclusive Framework on BE
+ PS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Colom
+ bia (Stage 1) - Inclusive Framework on B
+ EPS: Action 14*\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/a4f4b804-en\nPublication type: Book\nR
+ eleased as: PDF\n\nEmbargo date/time: Mo
+ nday, 16 September 2024, 9:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 22:54, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=a4f4b804-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Colombia (Stage 1) - Inclusive Frame
+ work on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3d3f36f-end3e3910
+SUMMARY:[Book] Country-by-Country Reporting – Co
+ mpilation of 2024 Peer Review Reports - 
+ Inclusive Framework on BEPS: Action 13
+DESCRIPTION:*[Book] Country-by-Country Reporting – C
+ ompilation of 2024 Peer Review Reports -
+  Inclusive Framework on BEPS: Action 13*
+ \n\nDirectorate: Centre for Tax Policy a
+ nd Administration\nLanguage: English\nDO
+ I: https://doi.org/10.1787/f3d3f36f-en\n
+ Publication type: Book\nReleased as: PDF
+ \n\nEmbargo date/time: Monday, 16 Septem
+ ber 2024, 9:00 (GMT)\n\n\niLibrary expor
+ t: never\nFreepreview export: never\nOEC
+ D.org export: never\nFTI loaded: ✗\n\nFo
+ r more information see: https://oecd.git
+ hub.io/embargo-calendar/embargoes-by-pub
+ lication.html.\n\nPlease note: This info
+ rmation was correct as of this afternoon
+  at 22:54, it is updated each night; the
+ refore any subsequent updates may not ye
+ t be visible here. Also, please be aware
+  that the different released media (PDF,
+  HTML, etc.) are not necessarily release
+ d at the same time. For complete and up-
+ to-date information see here: http://kap
+ pa.oecd.org/v3/search?term=f3d3f36f-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Country-by-Country Repo
+ rting – Compilation of 2024 Peer Review 
+ Reports - Inclusive Framework on BEPS: A
+ ction 13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c9e066d0-end3e3963
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Nigeri
+ a (Stage 1) - Inclusive Framework on BEP
+ S: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Niger
+ ia (Stage 1) - Inclusive Framework on BE
+ PS: Action 14*\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /c9e066d0-en\nPublication type: Book\nRe
+ leased as: PDF\n\nEmbargo date/time: Mon
+ day, 16 September 2024, 9:00 (GMT)\n\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nOECD.org export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 22:54, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =c9e066d0-en.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Nigeria (Stage 1) - Inclusive Framew
+ ork on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/96722cc6-frd3e4016
+SUMMARY:[Book] Déclaration pays par pays – Recue
+ il 2024 de rapports d’examen par les pai
+ rs (version abrégée) - Cadre inclusif su
+ r le BEPS : Action 13
+DESCRIPTION:*[Book] Déclaration pays par pays – Recu
+ eil 2024 de rapports d’examen par les pa
+ irs (version abrégée) - Cadre inclusif s
+ ur le BEPS : Action 13*\n\nDirectorate: 
+ Centre for Tax Policy and Administration
+ \nLanguage: French\nDOI: https://doi.org
+ /10.1787/96722cc6-fr\nPublication type: 
+ Book\nReleased as: PDF\n\nEmbargo date/t
+ ime: Monday, 16 September 2024, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✗\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 22:54, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=96722cc6-fr.
+DTSTAMP:20240829T225436Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Déclaration pays par pa
+ ys – Recueil 2024 de rapports d’examen p
+ ar les pairs (version abrégée) - Cadre i
+ nclusif sur le BEPS : Action 13
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c88ca51c-frd3e4122
 SUMMARY:[Economic survey] Études économiques de 
  l'OCDE : Colombie 2024 (version abrégée)
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -1088,7 +1091,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 22
- :57, it is updated each night; therefore
+ :54, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1096,7 +1099,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c88ca51c-fr.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1111,7 +1114,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1a22cd6-end3e4179
+UID:10.1787/a1a22cd6-end3e4226
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Colombia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1127,7 +1130,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:57, it is upd
+ as of this afternoon at 22:54, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1136,7 +1139,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a1a22cd6-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1150,7 +1153,46 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbc2afd5-end3e4978
+UID:10.1787/e61e16ad-esd3e4278
+SUMMARY:[Economic survey] Estudios Económicos de
+  la OCDE: Colombia 2024
+DESCRIPTION:*[Economic survey] Estudios Económicos d
+ e la OCDE: Colombia 2024*\n\nDirectorate
+ : Economics Department\nLanguage: Spanis
+ h\nDOI: https://doi.org/10.1787/e61e16ad
+ -es\nPublication type: Economic survey\n
+ Released as: Paperback, PDF\n\nEmbargo d
+ ate/time: Tuesday, 17 September 2024, 13
+ :30 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✗\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:54, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=e61e16ad-es.
+DTSTAMP:20240829T225436Z
+DTSTART:20240917T133000Z
+DTEND:20240917T134500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] Estudios Eco
+ nómicos de la OCDE: Colombia 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cbc2afd5-end3e5078
 SUMMARY:[Book] Second Progress Review of Latvia’
  s Public Utilities Commission - Driving 
  Performance
@@ -1169,7 +1211,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:57, it is updated each night;
+ noon at 22:54, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1178,7 +1220,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=cbc2afd5-
  en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240925T073000Z
 DTEND:20240925T074500Z
 TRANSP:TRANSPARENT
@@ -1193,7 +1235,7 @@ DESCRIPTION:Reminder: [Book] Second Progress Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3686f5e-end3e5194
+UID:10.1787/c3686f5e-end3e5293
 SUMMARY:[Book] Tax Policy Reforms 2024 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
@@ -1210,7 +1252,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:57, it is updated each night; th
+ n at 22:54, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1218,7 +1260,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=c3686f5e-en.
-DTSTAMP:20240828T225802Z
+DTSTAMP:20240829T225436Z
 DTSTART:20240930T090000Z
 DTEND:20240930T091500Z
 TRANSP:TRANSPARENT
