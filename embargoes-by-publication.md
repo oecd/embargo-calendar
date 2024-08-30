@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 29 August 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 30 August 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [VITARA Reference Guide: Organization](https://doi.org/10.1787/ab075e83-en)
 
@@ -23,6 +23,29 @@ Thursday 29 August 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -77,12 +100,12 @@ Wednesday 4 September 2024 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 4 September 2024 at 9:00 | no launch event
+Wednesday 4 September 2024 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 22 August 2024 at 22:32
+- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -93,6 +116,52 @@ Wednesday 4 September 2024 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Making the Most Out of Digital Trade in the United Kingdom](https://doi.org/10.1787/8f31d80b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Communications*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Digital Trade and Labour Markets in the United Kingdom](https://doi.org/10.1787/f3de4400-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Communications*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -211,6 +280,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ------
 
+## [Equity in education and on the labour market - Main findings from Education at a Glance 2024](https://doi.org/10.1787/b502b9a6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Education at a Glance 2024 - OECD Indicators](https://doi.org/10.1787/c00cad36-en)
 
 Embargo date | Launch date
@@ -231,6 +323,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Maroc 2024](https://doi.org/10.1787/1aad09d0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
