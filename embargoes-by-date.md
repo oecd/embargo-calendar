@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 30 August 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 September 2024 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [29 August 2024](#29-august-2024)
 * [4 September 2024](#4-september-2024)
 * [5 September 2024](#5-september-2024)
 * [10 September 2024](#10-september-2024)
@@ -14,33 +13,6 @@ Data generated on | |
 * [17 September 2024](#17-september-2024)
 * [25 September 2024](#25-september-2024)
 * [30 September 2024](#30-september-2024)
-
-------
-
-# 29 August 2024
-
-## [VITARA Reference Guide: Organization](https://doi.org/10.1787/ab075e83-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 29 August 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 26 August 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
