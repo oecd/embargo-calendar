@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 September 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 2 September 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
 
@@ -59,7 +59,7 @@ Wednesday 4 September 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 29 August 2024 at 22:29
+- [x] Exported to iLibrary Monday 2 September 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -307,7 +307,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 September 2024 at 22:00 | no launch event
+Wednesday 11 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
@@ -330,7 +330,7 @@ Tuesday 10 September 2024 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 10 September 2024 at 22:00 | no launch event
+Wednesday 11 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
