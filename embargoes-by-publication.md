@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 September 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 3 September 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
 
@@ -35,7 +35,7 @@ Wednesday 4 September 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -142,11 +142,57 @@ Thursday 5 September 2024 at 4:00 | no launch event
 
 ------
 
-## [Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée)](https://doi.org/10.1787/972f6605-fr)
+## [Regulatory approaches to Artificial Intelligence in finance](https://doi.org/10.1787/f1498c02-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Thursday 5 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 September 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Towards a better understanding of data-intensive firms in the United Kingdom](https://doi.org/10.1787/f8d640cc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 September 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Statistics and Data Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée)](https://doi.org/10.1787/972f6605-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 6 September 2024 at 5:00 | no launch event
 
 ### Status Information
 
@@ -169,7 +215,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 5 September 2024 at 5:00 | no launch event
+Friday 6 September 2024 at 5:00 | no launch event
 
 ### Status Information
 
@@ -346,6 +392,29 @@ Wednesday 11 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: United Kingdom](https://doi.org/10.1787/709e70b8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 September 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 

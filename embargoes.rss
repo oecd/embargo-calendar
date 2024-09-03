@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Mon, 02 Sep 2024 22:53:46 GMT</pubDate>
+      <pubDate>Tue, 03 Sep 2024 23:00:55 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -39,14 +39,14 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Trade and Agriculture Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/afad5112-en-d3e171</guid>
+         <guid isPermaLink="false">10.1787/afad5112-en-d3e172</guid>
          <pubDate>Wed, 04 Sep 2024 07:00:00 GMT</pubDate>
          <title>Methodology of the OECD database on export restrictions on staple crops</title>
          <link>https://doi.org/10.1787/afad5112-en</link>
@@ -62,7 +62,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/96adc300-en-d3e1198</guid>
+         <guid isPermaLink="false">10.1787/96adc300-en-d3e1199</guid>
          <pubDate>Wed, 04 Sep 2024 12:00:00 GMT</pubDate>
          <title>Skills and Labour Market Integration of Immigrants and their Children in Iceland</title>
          <link>https://doi.org/10.1787/96adc300-en</link>
@@ -78,7 +78,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/8f31d80b-en-d3e1307</guid>
+         <guid isPermaLink="false">10.1787/8f31d80b-en-d3e1308</guid>
          <pubDate>Thu, 05 Sep 2024 06:00:00 GMT</pubDate>
          <title>Making the Most Out of Digital Trade in the United Kingdom</title>
          <link>https://doi.org/10.1787/8f31d80b-en</link>
@@ -94,7 +94,7 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f3de4400-en-d3e1361</guid>
+         <guid isPermaLink="false">10.1787/f3de4400-en-d3e1362</guid>
          <pubDate>Thu, 05 Sep 2024 06:00:00 GMT</pubDate>
          <title>Digital Trade and Labour Markets in the United Kingdom</title>
          <link>https://doi.org/10.1787/f3de4400-en</link>
@@ -110,12 +110,44 @@
          <oe:catalogueType>Working paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/972f6605-fr-d3e2266</guid>
+         <guid isPermaLink="false">10.1787/f1498c02-en-d3e2214</guid>
          <pubDate>Thu, 05 Sep 2024 07:00:00 GMT</pubDate>
+         <title>Regulatory approaches to Artificial Intelligence in finance</title>
+         <link>https://doi.org/10.1787/f1498c02-en</link>
+         <description>Regulatory approaches to Artificial Intelligence in finance by Directorate for Financial and Enterprise Affairs has an embargo on Thursday 5 September 2024 at 7:00.</description>
+         <oe:embargoTime>Thu, 05 Sep 2024 07:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 3 September 2024, 22:32 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Policy paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/f8d640cc-en-d3e2534</guid>
+         <pubDate>Thu, 05 Sep 2024 07:00:00 GMT</pubDate>
+         <title>Towards a better understanding of data-intensive firms in the United Kingdom</title>
+         <link>https://doi.org/10.1787/f8d640cc-en</link>
+         <description>Towards a better understanding of data-intensive firms in the United Kingdom by Statistics and Data Directorate has an embargo on Thursday 5 September 2024 at 7:00.</description>
+         <oe:embargoTime>Thu, 05 Sep 2024 07:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Statistics and Data Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport>Tuesday, 3 September 2024, 22:32 (GMT)</oe:iLibraryExport>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/972f6605-fr-d3e2907</guid>
+         <pubDate>Fri, 06 Sep 2024 07:00:00 GMT</pubDate>
          <title>Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée)</title>
          <link>https://doi.org/10.1787/972f6605-fr</link>
-         <description>Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée) by Directorate for Financial and Enterprise Affairs has an embargo on Thursday 5 September 2024 at 7:00.</description>
-         <oe:embargoTime>Thu, 05 Sep 2024 07:00:00 GMT</oe:embargoTime>
+         <description>Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée) by Directorate for Financial and Enterprise Affairs has an embargo on Friday 6 September 2024 at 7:00.</description>
+         <oe:embargoTime>Fri, 06 Sep 2024 07:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
@@ -126,12 +158,12 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/442d4c99-en-d3e2372</guid>
-         <pubDate>Thu, 05 Sep 2024 07:00:00 GMT</pubDate>
+         <guid isPermaLink="false">10.1787/442d4c99-en-d3e2960</guid>
+         <pubDate>Fri, 06 Sep 2024 07:00:00 GMT</pubDate>
          <title>OECD Investment Policy Reviews: Mauritius 2024</title>
          <link>https://doi.org/10.1787/442d4c99-en</link>
-         <description>OECD Investment Policy Reviews: Mauritius 2024 by Directorate for Financial and Enterprise Affairs has an embargo on Thursday 5 September 2024 at 7:00.</description>
-         <oe:embargoTime>Thu, 05 Sep 2024 07:00:00 GMT</oe:embargoTime>
+         <description>OECD Investment Policy Reviews: Mauritius 2024 by Directorate for Financial and Enterprise Affairs has an embargo on Friday 6 September 2024 at 7:00.</description>
+         <oe:embargoTime>Fri, 06 Sep 2024 07:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Directorate for Financial and Enterprise Affairs</oe:directorate>
@@ -142,7 +174,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e7565ada-de-d3e3063</guid>
+         <guid isPermaLink="false">10.1787/e7565ada-de-d3e3173</guid>
          <pubDate>Tue, 10 Sep 2024 11:00:00 GMT</pubDate>
          <title>Bildung auf einen Blick 2024 - OECD-Indikatoren</title>
          <link>https://doi.org/10.1787/e7565ada-de</link>
@@ -158,7 +190,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1aabb39d-fr-d3e3116</guid>
+         <guid isPermaLink="false">10.1787/1aabb39d-fr-d3e3226</guid>
          <pubDate>Tue, 10 Sep 2024 11:00:00 GMT</pubDate>
          <title>Regards sur l'éducation 2024 - Les indicateurs de l'OCDE</title>
          <link>https://doi.org/10.1787/1aabb39d-fr</link>
@@ -174,7 +206,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e7d20315-en-d3e3223</guid>
+         <guid isPermaLink="false">10.1787/e7d20315-en-d3e3332</guid>
          <pubDate>Tue, 10 Sep 2024 11:00:00 GMT</pubDate>
          <title>Education at a Glance 2024 Sources, Methodologies and Technical Notes</title>
          <link>https://doi.org/10.1787/e7d20315-en</link>
@@ -190,7 +222,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b502b9a6-en-d3e3275</guid>
+         <guid isPermaLink="false">10.1787/b502b9a6-en-d3e3384</guid>
          <pubDate>Tue, 10 Sep 2024 11:00:00 GMT</pubDate>
          <title>Equity in education and on the labour market - Main findings from Education at a Glance 2024</title>
          <link>https://doi.org/10.1787/b502b9a6-en</link>
@@ -206,7 +238,7 @@
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c00cad36-en-d3e3381</guid>
+         <guid isPermaLink="false">10.1787/c00cad36-en-d3e3491</guid>
          <pubDate>Tue, 10 Sep 2024 11:00:00 GMT</pubDate>
          <title>Education at a Glance 2024 - OECD Indicators</title>
          <link>https://doi.org/10.1787/c00cad36-en</link>
@@ -222,7 +254,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1aad09d0-fr-d3e3434</guid>
+         <guid isPermaLink="false">10.1787/1aad09d0-fr-d3e3544</guid>
          <pubDate>Wed, 11 Sep 2024 11:00:00 GMT</pubDate>
          <title>Études économiques de l’OCDE : Maroc 2024</title>
          <link>https://doi.org/10.1787/1aad09d0-fr</link>
@@ -238,7 +270,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/80777ea7-en-d3e3487</guid>
+         <guid isPermaLink="false">10.1787/80777ea7-en-d3e3596</guid>
          <pubDate>Wed, 11 Sep 2024 11:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Morocco 2024 - Economic Assessment</title>
          <link>https://doi.org/10.1787/80777ea7-en</link>
@@ -254,7 +286,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/99ee2d3e-en-d3e3540</guid>
+         <guid isPermaLink="false">10.1787/709e70b8-en-d3e3700</guid>
+         <pubDate>Wed, 11 Sep 2024 12:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: United Kingdom</title>
+         <link>https://doi.org/10.1787/709e70b8-en</link>
+         <description>OECD Economic Surveys: United Kingdom by Economics Department has an embargo on Wednesday 11 September 2024 at 12:00.</description>
+         <oe:embargoTime>Wed, 11 Sep 2024 12:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/99ee2d3e-en-d3e3751</guid>
          <pubDate>Thu, 12 Sep 2024 07:00:00 GMT</pubDate>
          <title>Synthesis report on understanding Perfluoropolyethers (PFPEs) and their life cycle</title>
          <link>https://doi.org/10.1787/99ee2d3e-en</link>
@@ -270,7 +318,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/df1031a4-en-d3e3594</guid>
+         <guid isPermaLink="false">10.1787/df1031a4-en-d3e3806</guid>
          <pubDate>Fri, 13 Sep 2024 06:00:00 GMT</pubDate>
          <title>G20 Compendium on Data Access and Sharing Across the Public Sector and with the Private Sector for Public Interest</title>
          <link>https://doi.org/10.1787/df1031a4-en</link>
@@ -286,7 +334,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/08921eb5-en-d3e3646</guid>
+         <guid isPermaLink="false">10.1787/08921eb5-en-d3e3858</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/08921eb5-en</link>
@@ -302,7 +350,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/aa0cbe35-en-d3e3699</guid>
+         <guid isPermaLink="false">10.1787/aa0cbe35-en-d3e3911</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/aa0cbe35-en</link>
@@ -318,7 +366,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/29ce1684-en-d3e3752</guid>
+         <guid isPermaLink="false">10.1787/29ce1684-en-d3e3964</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/29ce1684-en</link>
@@ -334,7 +382,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ad7c3811-en-d3e3806</guid>
+         <guid isPermaLink="false">10.1787/ad7c3811-en-d3e4017</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/ad7c3811-en</link>
@@ -350,7 +398,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ef6ffeec-en-d3e3859</guid>
+         <guid isPermaLink="false">10.1787/ef6ffeec-en-d3e4070</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/ef6ffeec-en</link>
@@ -366,7 +414,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/5f8fe671-en-d3e3912</guid>
+         <guid isPermaLink="false">10.1787/5f8fe671-en-d3e4124</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/5f8fe671-en</link>
@@ -382,7 +430,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a4f1f68a-en-d3e3965</guid>
+         <guid isPermaLink="false">10.1787/a4f1f68a-en-d3e4177</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/a4f1f68a-en</link>
@@ -398,7 +446,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2e4ba9e0-en-d3e4018</guid>
+         <guid isPermaLink="false">10.1787/2e4ba9e0-en-d3e4230</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/2e4ba9e0-en</link>
@@ -414,7 +462,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a4f4b804-en-d3e4071</guid>
+         <guid isPermaLink="false">10.1787/a4f4b804-en-d3e4283</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/a4f4b804-en</link>
@@ -430,7 +478,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f3d3f36f-en-d3e4125</guid>
+         <guid isPermaLink="false">10.1787/f3d3f36f-en-d3e4336</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Country-by-Country Reporting – Compilation of 2024 Peer Review Reports - Inclusive Framework on BEPS: Action 13</title>
          <link>https://doi.org/10.1787/f3d3f36f-en</link>
@@ -446,7 +494,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c9e066d0-en-d3e4178</guid>
+         <guid isPermaLink="false">10.1787/c9e066d0-en-d3e4389</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14</title>
          <link>https://doi.org/10.1787/c9e066d0-en</link>
@@ -462,7 +510,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/96722cc6-fr-d3e4231</guid>
+         <guid isPermaLink="false">10.1787/96722cc6-fr-d3e4443</guid>
          <pubDate>Mon, 16 Sep 2024 11:00:00 GMT</pubDate>
          <title>Déclaration pays par pays – Recueil 2024 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13</title>
          <link>https://doi.org/10.1787/96722cc6-fr</link>
@@ -478,7 +526,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c88ca51c-fr-d3e4336</guid>
+         <guid isPermaLink="false">10.1787/c88ca51c-fr-d3e4548</guid>
          <pubDate>Tue, 17 Sep 2024 15:30:00 GMT</pubDate>
          <title>Études économiques de l'OCDE : Colombie 2024 (version abrégée)</title>
          <link>https://doi.org/10.1787/c88ca51c-fr</link>
@@ -494,7 +542,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a1a22cd6-en-d3e4441</guid>
+         <guid isPermaLink="false">10.1787/a1a22cd6-en-d3e4652</guid>
          <pubDate>Tue, 17 Sep 2024 15:30:00 GMT</pubDate>
          <title>OECD Economic Surveys: Colombia 2024</title>
          <link>https://doi.org/10.1787/a1a22cd6-en</link>
@@ -510,7 +558,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e61e16ad-es-d3e4493</guid>
+         <guid isPermaLink="false">10.1787/e61e16ad-es-d3e4704</guid>
          <pubDate>Tue, 17 Sep 2024 15:30:00 GMT</pubDate>
          <title>Estudios Económicos de la OCDE: Colombia 2024</title>
          <link>https://doi.org/10.1787/e61e16ad-es</link>
@@ -526,7 +574,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/cbc2afd5-en-d3e5292</guid>
+         <guid isPermaLink="false">10.1787/cbc2afd5-en-d3e5504</guid>
          <pubDate>Wed, 25 Sep 2024 09:30:00 GMT</pubDate>
          <title>Second Progress Review of Latvia’s Public Utilities Commission - Driving Performance</title>
          <link>https://doi.org/10.1787/cbc2afd5-en</link>
@@ -542,7 +590,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/c3686f5e-en-d3e5508</guid>
+         <guid isPermaLink="false">10.1787/c3686f5e-en-d3e5720</guid>
          <pubDate>Mon, 30 Sep 2024 11:00:00 GMT</pubDate>
          <title>Tax Policy Reforms 2024 - OECD and Selected Partner Economies</title>
          <link>https://doi.org/10.1787/c3686f5e-en</link>
