@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 September 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 4 September 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
 
@@ -36,7 +36,7 @@ Wednesday 4 September 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -44,7 +44,7 @@ Wednesday 4 September 2024 at 5:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -197,7 +197,7 @@ Friday 6 September 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,9 +205,9 @@ Friday 6 September 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -220,7 +220,7 @@ Friday 6 September 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -228,9 +228,9 @@ Friday 6 September 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -277,6 +277,29 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [L'équité dans le monde de l'éducation et sur le marché du travail - Principaux enseignements de l'édition 2024 de Regards sur l’éducation](https://doi.org/10.1787/ffe337b2-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -395,7 +418,7 @@ Wednesday 11 September 2024 at 9:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: United Kingdom](https://doi.org/10.1787/709e70b8-en)
+## [OECD Economic Surveys: United Kingdom 2024](https://doi.org/10.1787/709e70b8-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -449,8 +472,8 @@ Friday 13 September 2024 at 4:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -458,7 +481,7 @@ Friday 13 September 2024 at 4:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
