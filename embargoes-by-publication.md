@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 September 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 5 September 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
 
@@ -96,7 +96,7 @@ Wednesday 4 September 2024 at 10:00 | no launch event
 
 ------
 
-## [Making the Most Out of Digital Trade in the United Kingdom](https://doi.org/10.1787/8f31d80b-en)
+## [Making the most out of digital trade in the United Kingdom](https://doi.org/10.1787/8f31d80b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -105,7 +105,7 @@ Thursday 5 September 2024 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
+- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -119,7 +119,7 @@ Thursday 5 September 2024 at 4:00 | no launch event
 
 ------
 
-## [Digital Trade and Labour Markets in the United Kingdom](https://doi.org/10.1787/f3de4400-en)
+## [Digital trade and labour markets in the United Kingdom](https://doi.org/10.1787/f3de4400-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -128,7 +128,7 @@ Thursday 5 September 2024 at 4:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
+- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -151,7 +151,7 @@ Thursday 5 September 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 September 2024 at 22:32
+- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -334,8 +334,8 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -343,7 +343,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -829,6 +829,29 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Strengthening Financial Literacy in Germany - Proposal for a National Financial Literacy Strategy](https://doi.org/10.1787/81e95597-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 

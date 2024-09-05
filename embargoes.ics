@@ -30,7 +30,7 @@ DESCRIPTION:*[Working paper] Measuring social connec
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=f758bd20-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240904T050000Z
 DTEND:20240904T051500Z
 TRANSP:TRANSPARENT
@@ -45,7 +45,7 @@ DESCRIPTION:Reminder: [Working paper] Measuring soci
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ccfa8a95-end3e118
+UID:10.1787/ccfa8a95-end3e119
 SUMMARY:[Policy paper] Export restrictions on st
  aple crops since 2007 - An overview base
  d on the OECD database on export restric
@@ -75,7 +75,7 @@ DESCRIPTION:*[Policy paper] Export restrictions on s
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=ccfa8a95-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240904T050000Z
 DTEND:20240904T051500Z
 TRANSP:TRANSPARENT
@@ -91,7 +91,7 @@ DESCRIPTION:Reminder: [Policy paper] Export restrict
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/afad5112-end3e173
+UID:10.1787/afad5112-end3e175
 SUMMARY:[Report] Methodology of the OECD databas
  e on export restrictions on staple crops
 DESCRIPTION:*[Report] Methodology of the OECD databa
@@ -117,7 +117,7 @@ DESCRIPTION:*[Report] Methodology of the OECD databa
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=afad5112-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240904T050000Z
 DTEND:20240904T051500Z
 TRANSP:TRANSPARENT
@@ -132,7 +132,7 @@ DESCRIPTION:Reminder: [Report] Methodology of the OE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96adc300-end3e1200
+UID:10.1787/96adc300-end3e1213
 SUMMARY:[Book] Skills and Labour Market Integrat
  ion of Immigrants and their Children in 
  Iceland
@@ -161,7 +161,7 @@ DESCRIPTION:*[Book] Skills and Labour Market Integra
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=96a
  dc300-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240904T100000Z
 DTEND:20240904T101500Z
 TRANSP:TRANSPARENT
@@ -176,18 +176,59 @@ DESCRIPTION:Reminder: [Book] Skills and Labour Marke
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f31d80b-end3e1309
-SUMMARY:[Working paper] Making the Most Out of D
- igital Trade in the United Kingdom
-DESCRIPTION:*[Working paper] Making the Most Out of 
- Digital Trade in the United Kingdom*\n\n
+UID:10.1787/8f31d80b-end3e1324
+SUMMARY:[Working paper] Making the most out of d
+ igital trade in the United Kingdom
+DESCRIPTION:*[Working paper] Making the most out of 
+ digital trade in the United Kingdom*\n\n
  Directorate: Directorate for Communicati
  ons\nLanguage: English\nDOI: https://doi
  .org/10.1787/8f31d80b-en\nPublication ty
  pe: Working paper\nReleased as: PDF\n\nE
  mbargo date/time: Thursday, 5 September 
- 2024, 4:00 (GMT)\n\n\niLibrary export: F
- riday, 30 August 2024, 20:31 (GMT)\nFree
+ 2024, 4:00 (GMT)\n\n\niLibrary export: T
+ hursday, 5 September 2024, 20:32 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:02,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=8f31d80b-en.
+DTSTAMP:20240905T230243Z
+DTSTART:20240905T040000Z
+DTEND:20240905T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Making the mos
+ t out of digital trade in the United Kin
+ gdom
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3de4400-end3e1378
+SUMMARY:[Working paper] Digital trade and labour
+  markets in the United Kingdom
+DESCRIPTION:*[Working paper] Digital trade and labou
+ r markets in the United Kingdom*\n\nDire
+ ctorate: Directorate for Communications\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/f3de4400-en\nPublication type: 
+ Working paper\nReleased as: PDF\n\nEmbar
+ go date/time: Thursday, 5 September 2024
+ , 4:00 (GMT)\n\n\niLibrary export: Thurs
+ day, 5 September 2024, 20:32 (GMT)\nFree
  preview export: never\nOECD.org export: 
  never\nFTI loaded: ✓\n\nFor more informa
  tion see: https://oecd.github.io/embargo
@@ -201,8 +242,8 @@ DESCRIPTION:*[Working paper] Making the Most Out of
  re not necessarily released at the same 
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
- /search?term=8f31d80b-en.
-DTSTAMP:20240904T230205Z
+ /search?term=f3de4400-en.
+DTSTAMP:20240905T230243Z
 DTSTART:20240905T040000Z
 DTEND:20240905T041500Z
 TRANSP:TRANSPARENT
@@ -211,53 +252,12 @@ TRIGGER:-PT48H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
-DESCRIPTION:Reminder: [Working paper] Making the Mos
- t Out of Digital Trade in the United Kin
- gdom
+DESCRIPTION:Reminder: [Working paper] Digital trade 
+ and labour markets in the United Kingdom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3de4400-end3e1363
-SUMMARY:[Working paper] Digital Trade and Labour
-  Markets in the United Kingdom
-DESCRIPTION:*[Working paper] Digital Trade and Labou
- r Markets in the United Kingdom*\n\nDire
- ctorate: Directorate for Communications\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/f3de4400-en\nPublication type: 
- Working paper\nReleased as: PDF\n\nEmbar
- go date/time: Thursday, 5 September 2024
- , 4:00 (GMT)\n\n\niLibrary export: Frida
- y, 30 August 2024, 20:31 (GMT)\nFreeprev
- iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✓\n\nFor more information
-  see: https://oecd.github.io/embargo-cal
- endar/embargoes-by-publication.html.\n\n
- Please note: This information was correc
- t as of this afternoon at 23:02, it is u
- pdated each night; therefore any subsequ
- ent updates may not yet be visible here.
-  Also, please be aware that the differen
- t released media (PDF, HTML, etc.) are n
- ot necessarily released at the same time
- . For complete and up-to-date informatio
- n see here: http://kappa.oecd.org/v3/sea
- rch?term=f3de4400-en.
-DTSTAMP:20240904T230205Z
-DTSTART:20240905T040000Z
-DTEND:20240905T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Working paper] Digital Trade 
- and Labour Markets in the United Kingdom
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f1498c02-end3e1417
+UID:10.1787/f1498c02-end3e1432
 SUMMARY:[Policy paper] Regulatory approaches to 
  Artificial Intelligence in finance
 DESCRIPTION:*[Policy paper] Regulatory approaches to
@@ -268,23 +268,23 @@ DESCRIPTION:*[Policy paper] Regulatory approaches to
  en\nPublication type: Policy paper\nRele
  ased as: PDF\n\nEmbargo date/time: Thurs
  day, 5 September 2024, 5:00 (GMT)\n\n\ni
- Library export: Tuesday, 3 September 202
- 4, 20:32 (GMT)\nFreepreview export: neve
- r\nOECD.org export: never\nFTI loaded: ✓
- \n\nFor more information see: https://oe
- cd.github.io/embargo-calendar/embargoes-
- by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 23:02, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=f1498c0
- 2-en.
-DTSTAMP:20240904T230205Z
+ Library export: Thursday, 5 September 20
+ 24, 20:32 (GMT)\nFreepreview export: nev
+ er\nOECD.org export: never\nFTI loaded: 
+ ✓\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this af
+ ternoon at 23:02, it is updated each nig
+ ht; therefore any subsequent updates may
+  not yet be visible here. Also, please b
+ e aware that the different released medi
+ a (PDF, HTML, etc.) are not necessarily 
+ released at the same time. For complete 
+ and up-to-date information see here: htt
+ p://kappa.oecd.org/v3/search?term=f1498c
+ 02-en.
+DTSTAMP:20240905T230243Z
 DTSTART:20240905T050000Z
 DTEND:20240905T051500Z
 TRANSP:TRANSPARENT
@@ -299,7 +299,7 @@ DESCRIPTION:Reminder: [Policy paper] Regulatory appr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8d640cc-end3e1471
+UID:10.1787/f8d640cc-end3e1486
 SUMMARY:[Working paper] Towards a better underst
  anding of data-intensive firms in the Un
  ited Kingdom
@@ -327,7 +327,7 @@ DESCRIPTION:*[Working paper] Towards a better unders
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=f8d64
  0cc-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240905T050000Z
 DTEND:20240905T051500Z
 TRANSP:TRANSPARENT
@@ -342,7 +342,7 @@ DESCRIPTION:Reminder: [Working paper] Towards a bett
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/972f6605-frd3e2444
+UID:10.1787/972f6605-frd3e2459
 SUMMARY:[Book] Examens de l’OCDE des politiques 
  de l’investissement : Maurice 2024 (vers
  ion abrégée)
@@ -370,7 +370,7 @@ DESCRIPTION:*[Book] Examens de l’OCDE des politiques
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=972f6605-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240906T050000Z
 DTEND:20240906T051500Z
 TRANSP:TRANSPARENT
@@ -385,7 +385,7 @@ DESCRIPTION:Reminder: [Book] Examens de l’OCDE des p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/442d4c99-end3e2553
+UID:10.1787/442d4c99-end3e2568
 SUMMARY:[Book] OECD Investment Policy Reviews: M
  auritius 2024
 DESCRIPTION:*[Book] OECD Investment Policy Reviews: 
@@ -412,7 +412,7 @@ DESCRIPTION:*[Book] OECD Investment Policy Reviews:
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=4
  42d4c99-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240906T050000Z
 DTEND:20240906T051500Z
 TRANSP:TRANSPARENT
@@ -426,7 +426,7 @@ DESCRIPTION:Reminder: [Book] OECD Investment Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7565ada-ded3e3309
+UID:10.1787/e7565ada-ded3e3324
 SUMMARY:[Book] Bildung auf einen Blick 2024 - OE
  CD-Indikatoren
 DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
@@ -451,7 +451,7 @@ DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  7565ada-de.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -465,7 +465,7 @@ DESCRIPTION:Reminder: [Book] Bildung auf einen Blick
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1aabb39d-frd3e3362
+UID:10.1787/1aabb39d-frd3e3377
 SUMMARY:[Book] Regards sur l'éducation 2024 - Le
  s indicateurs de l'OCDE
 DESCRIPTION:*[Book] Regards sur l'éducation 2024 - L
@@ -490,7 +490,7 @@ DESCRIPTION:*[Book] Regards sur l'éducation 2024 - L
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=1aabb39d-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -504,7 +504,7 @@ DESCRIPTION:Reminder: [Book] Regards sur l'éducation
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffe337b2-frd3e3415
+UID:10.1787/ffe337b2-frd3e3430
 SUMMARY:[Policy paper] L'équité dans le monde de
   l'éducation et sur le marché du travail
   - Principaux enseignements de l'édition
@@ -533,7 +533,7 @@ DESCRIPTION:*[Policy paper] L'équité dans le monde d
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=ffe337b2-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -550,7 +550,7 @@ DESCRIPTION:Reminder: [Policy paper] L'équité dans l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d20315-end3e3522
+UID:10.1787/e7d20315-end3e3537
 SUMMARY:[Report] Education at a Glance 2024 Sour
  ces, Methodologies and Technical Notes
 DESCRIPTION:*[Report] Education at a Glance 2024 Sou
@@ -575,7 +575,7 @@ DESCRIPTION:*[Report] Education at a Glance 2024 Sou
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=e7d20315-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -590,7 +590,7 @@ DESCRIPTION:Reminder: [Report] Education at a Glance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b502b9a6-end3e3574
+UID:10.1787/b502b9a6-end3e3589
 SUMMARY:[Policy paper] Equity in education and o
  n the labour market - Main findings from
   Education at a Glance 2024
@@ -602,22 +602,23 @@ DESCRIPTION:*[Policy paper] Equity in education and
  org/10.1787/b502b9a6-en\nPublication typ
  e: Policy paper\nReleased as: PDF\n\nEmb
  argo date/time: Tuesday, 10 September 20
- 24, 9:00 (GMT)\n\n\niLibrary export: nev
- er\nFreepreview export: never\nOECD.org 
- export: never\nFTI loaded: ✗\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :02, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=b502b9a6-en.
-DTSTAMP:20240904T230205Z
+ 24, 9:00 (GMT)\n\n\niLibrary export: Thu
+ rsday, 5 September 2024, 20:32 (GMT)\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 23:02, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=b502b9a6-en.
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -632,7 +633,7 @@ DESCRIPTION:Reminder: [Policy paper] Equity in educa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c00cad36-end3e3680
+UID:10.1787/c00cad36-end3e3697
 SUMMARY:[Book] Education at a Glance 2024 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
@@ -657,7 +658,7 @@ DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=c00cad36-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -671,7 +672,7 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1aad09d0-frd3e3733
+UID:10.1787/1aad09d0-frd3e3750
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : Maroc 2024
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -696,7 +697,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =1aad09d0-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240911T090000Z
 DTEND:20240911T091500Z
 TRANSP:TRANSPARENT
@@ -710,7 +711,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/80777ea7-end3e3785
+UID:10.1787/80777ea7-end3e3802
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Morocco 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -735,7 +736,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=80777ea7-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240911T090000Z
 DTEND:20240911T091500Z
 TRANSP:TRANSPARENT
@@ -750,7 +751,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/709e70b8-end3e3890
+UID:10.1787/709e70b8-end3e3908
 SUMMARY:[Economic survey] OECD Economic Surveys:
   United Kingdom 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -775,7 +776,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=709e70b8-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240911T100000Z
 DTEND:20240911T101500Z
 TRANSP:TRANSPARENT
@@ -789,7 +790,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/99ee2d3e-end3e3941
+UID:10.1787/99ee2d3e-end3e3960
 SUMMARY:[Report] Synthesis report on understandi
  ng Perfluoropolyethers (PFPEs) and their
   life cycle
@@ -816,7 +817,7 @@ DESCRIPTION:*[Report] Synthesis report on understand
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=99ee2d3e-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240912T050000Z
 DTEND:20240912T051500Z
 TRANSP:TRANSPARENT
@@ -831,7 +832,7 @@ DESCRIPTION:Reminder: [Report] Synthesis report on u
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df1031a4-end3e3995
+UID:10.1787/df1031a4-end3e4014
 SUMMARY:[Report] G20 Compendium on Data Access a
  nd Sharing Across the Public Sector and 
  with the Private Sector for Public Inter
@@ -860,7 +861,7 @@ DESCRIPTION:*[Report] G20 Compendium on Data Access
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=df1031a4-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240913T040000Z
 DTEND:20240913T041500Z
 TRANSP:TRANSPARENT
@@ -876,7 +877,7 @@ DESCRIPTION:Reminder: [Report] G20 Compendium on Dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08921eb5-end3e4049
+UID:10.1787/08921eb5-end3e4068
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Egypt 
  (Stage 1) - Inclusive Framework on BEPS:
@@ -905,7 +906,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  8921eb5-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -921,7 +922,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa0cbe35-end3e4102
+UID:10.1787/aa0cbe35-end3e4121
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Lithua
  nia (Stage 1) - Inclusive Framework on B
@@ -950,7 +951,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=aa0cbe35-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -966,7 +967,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/29ce1684-end3e4156
+UID:10.1787/29ce1684-end3e4175
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Antigu
  a and Barbuda (Stage 1) - Inclusive Fram
@@ -995,7 +996,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=29ce1684-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1011,7 +1012,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ad7c3811-end3e4209
+UID:10.1787/ad7c3811-end3e4228
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Botswa
  na (Stage 1) - Inclusive Framework on BE
@@ -1040,7 +1041,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ad7c3811-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1056,7 +1057,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ef6ffeec-end3e4262
+UID:10.1787/ef6ffeec-end3e4281
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Seyche
  lles (Stage 1) - Inclusive Framework on 
@@ -1085,7 +1086,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=ef6ffeec-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1101,7 +1102,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f8fe671-end3e4315
+UID:10.1787/5f8fe671-end3e4334
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, North 
  Macedonia (Stage 1) - Inclusive Framewor
@@ -1130,7 +1131,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=5f8fe671-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1146,7 +1147,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f1f68a-end3e4368
+UID:10.1787/a4f1f68a-end3e4387
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Serbia
   (Stage 1) - Inclusive Framework on BEPS
@@ -1175,7 +1176,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  a4f1f68a-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1191,7 +1192,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e4ba9e0-end3e4421
+UID:10.1787/2e4ba9e0-end3e4440
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Sri La
  nka (Stage 1) - Inclusive Framework on B
@@ -1220,7 +1221,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=2e4ba9e0-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1236,7 +1237,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f4b804-end3e4475
+UID:10.1787/a4f4b804-end3e4494
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Colomb
  ia (Stage 1) - Inclusive Framework on BE
@@ -1265,7 +1266,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=a4f4b804-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1281,7 +1282,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3d3f36f-end3e4528
+UID:10.1787/f3d3f36f-end3e4547
 SUMMARY:[Book] Country-by-Country Reporting – Co
  mpilation of 2024 Peer Review Reports - 
  Inclusive Framework on BEPS: Action 13
@@ -1308,7 +1309,7 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=f3d3f36f-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1324,7 +1325,7 @@ DESCRIPTION:Reminder: [Book] Country-by-Country Repo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9e066d0-end3e4581
+UID:10.1787/c9e066d0-end3e4600
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Nigeri
  a (Stage 1) - Inclusive Framework on BEP
@@ -1353,7 +1354,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =c9e066d0-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1369,7 +1370,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96722cc6-frd3e4634
+UID:10.1787/96722cc6-frd3e4653
 SUMMARY:[Book] Déclaration pays par pays – Recue
  il 2024 de rapports d’examen par les pai
  rs (version abrégée) - Cadre inclusif su
@@ -1398,7 +1399,7 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=96722cc6-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1414,7 +1415,7 @@ DESCRIPTION:Reminder: [Book] Déclaration pays par pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c88ca51c-frd3e4739
+UID:10.1787/c88ca51c-frd3e4758
 SUMMARY:[Economic survey] Études économiques de 
  l'OCDE : Colombie 2024 (version abrégée)
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -1439,7 +1440,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c88ca51c-fr.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1454,7 +1455,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1a22cd6-end3e4844
+UID:10.1787/a1a22cd6-end3e4863
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Colombia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1479,7 +1480,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a1a22cd6-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1493,7 +1494,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e61e16ad-esd3e4896
+UID:10.1787/e61e16ad-esd3e4915
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Colombia 2024
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -1518,7 +1519,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=e61e16ad-es.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1532,7 +1533,52 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbc2afd5-end3e5695
+UID:10.1787/81e95597-end3e4967
+SUMMARY:[Stand-alone monograph] Strengthening Fi
+ nancial Literacy in Germany - Proposal f
+ or a National Financial Literacy Strateg
+ y
+DESCRIPTION:*[Stand-alone monograph] Strengthening F
+ inancial Literacy in Germany - Proposal 
+ for a National Financial Literacy Strate
+ gy*\n\nDirectorate: Directorate for Fina
+ ncial and Enterprise Affairs\nLanguage: 
+ English\nDOI: https://doi.org/10.1787/81
+ e95597-en\nPublication type: Stand-alone
+  monograph\nReleased as: PDF\n\nEmbargo 
+ date/time: Tuesday, 24 September 2024, 9
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✗\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 23:02, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=81e95597-en.
+DTSTAMP:20240905T230243Z
+DTSTART:20240924T090000Z
+DTEND:20240924T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Streng
+ thening Financial Literacy in Germany - 
+ Proposal for a National Financial Litera
+ cy Strategy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/cbc2afd5-end3e5768
 SUMMARY:[Book] Second Progress Review of Latvia’
  s Public Utilities Commission - Driving 
  Performance
@@ -1560,7 +1606,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=cbc2afd5-
  en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240925T073000Z
 DTEND:20240925T074500Z
 TRANSP:TRANSPARENT
@@ -1575,7 +1621,7 @@ DESCRIPTION:Reminder: [Book] Second Progress Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3686f5e-end3e5911
+UID:10.1787/c3686f5e-end3e5983
 SUMMARY:[Book] Tax Policy Reforms 2024 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
@@ -1600,7 +1646,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=c3686f5e-en.
-DTSTAMP:20240904T230205Z
+DTSTAMP:20240905T230243Z
 DTSTART:20240930T090000Z
 DTEND:20240930T091500Z
 TRANSP:TRANSPARENT
