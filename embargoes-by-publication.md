@@ -2,145 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 5 September 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring social connectedness in OECD countries - A scoping review](https://doi.org/10.1787/f758bd20-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Export restrictions on staple crops since 2007 - An overview based on the OECD database on export restrictions on staple crops](https://doi.org/10.1787/ccfa8a95-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Methodology of the OECD database on export restrictions on staple crops](https://doi.org/10.1787/afad5112-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 2 September 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Skills and Labour Market Integration of Immigrants and their Children in Iceland](https://doi.org/10.1787/96adc300-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 4 September 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 30 August 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Making the most out of digital trade in the United Kingdom](https://doi.org/10.1787/8f31d80b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2024 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Communications*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Digital trade and labour markets in the United Kingdom](https://doi.org/10.1787/f3de4400-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2024 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Communications*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Saturday 7 September 2024 at 6:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Regulatory approaches to Artificial Intelligence in finance](https://doi.org/10.1787/f1498c02-en)
 
@@ -234,6 +96,29 @@ Friday 6 September 2024 at 5:00 | no launch event
 
 ------
 
+## [L’établissement de rapports de transparence sur les contenus terroristes et extrémistes violents en ligne 2022](https://doi.org/10.1787/dce61b6b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 September 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Bildung auf einen Blick 2024 - OECD-Indikatoren](https://doi.org/10.1787/e7565ada-de)
 
 Embargo date | Launch date
@@ -257,29 +142,6 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ------
 
-## [Regards sur l'éducation 2024 - Les indicateurs de l'OCDE](https://doi.org/10.1787/1aabb39d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 10 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [L'équité dans le monde de l'éducation et sur le marché du travail - Principaux enseignements de l'édition 2024 de Regards sur l’éducation](https://doi.org/10.1787/ffe337b2-fr)
 
 Embargo date | Launch date
@@ -288,8 +150,8 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 6 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -297,7 +159,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -335,7 +197,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
+- [x] Exported to iLibrary Friday 6 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -368,7 +230,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -380,7 +242,7 @@ Wednesday 11 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -403,7 +265,7 @@ Wednesday 11 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -859,7 +721,7 @@ Tuesday 24 September 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 25 September 2024 at 7:30 | no launch event
+Wednesday 25 September 2024 at 6:00 | no launch event
 
 ### Status Information
 
