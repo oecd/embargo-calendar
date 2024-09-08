@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 7 September 2024 at 6:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 8 September 2024 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 September 2024](#5-september-2024)
-* [6 September 2024](#6-september-2024)
 * [9 September 2024](#9-september-2024)
 * [10 September 2024](#10-september-2024)
 * [11 September 2024](#11-september-2024)
@@ -16,106 +14,6 @@ Data generated on | |
 * [24 September 2024](#24-september-2024)
 * [25 September 2024](#25-september-2024)
 * [30 September 2024](#30-september-2024)
-
-------
-
-# 5 September 2024
-
-## [Regulatory approaches to Artificial Intelligence in finance](https://doi.org/10.1787/f1498c02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Towards a better understanding of data-intensive firms in the United Kingdom](https://doi.org/10.1787/f8d640cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Statistics and Data Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 6 September 2024
-
-## [Examens de l’OCDE des politiques de l’investissement : Maurice 2024 (version abrégée)](https://doi.org/10.1787/972f6605-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Investment Policy Reviews: Mauritius 2024](https://doi.org/10.1787/442d4c99-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -180,7 +78,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 September 2024 at 22:32
+- [x] Exported to iLibrary Saturday 7 September 2024 at 8:55
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -226,7 +124,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 6 September 2024 at 22:32
+- [x] Exported to iLibrary Saturday 7 September 2024 at 8:55
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
