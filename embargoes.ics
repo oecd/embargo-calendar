@@ -23,7 +23,7 @@ DESCRIPTION:*[Working paper] L’établissement de rapp
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:54, it is updated 
+  this afternoon at 22:59, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -32,7 +32,7 @@ DESCRIPTION:*[Working paper] L’établissement de rapp
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=dce61b6b-fr.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240909T050000Z
 DTEND:20240909T051500Z
 TRANSP:TRANSPARENT
@@ -48,7 +48,79 @@ DESCRIPTION:Reminder: [Working paper] L’établissemen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7565ada-ded3e117
+UID:10.1787/c860c0e3-end3e171
+SUMMARY:[Short content] Chile
+DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
+ Directorate for Communications\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ c860c0e3-en\nPublication type: Short con
+ tent\nReleased as: PDF\n\nEmbargo date/t
+ ime: Tuesday, 10 September 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 22:59, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=c860c0e3-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Chile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5718b270-end3e224
+SUMMARY:[Short content] Türkiye
+DESCRIPTION:*[Short content] Türkiye*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/5718b270-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=5718b270-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Türkiye
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e7565ada-ded3e278
 SUMMARY:[Book] Bildung auf einen Blick 2024 - OE
  CD-Indikatoren
 DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
@@ -60,11 +132,11 @@ DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
  y, 10 September 2024, 9:00 (GMT)\n\n\niL
  ibrary export: never\nFreepreview export
  : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
+ ded: ✓\n\nFor more information see: http
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:54, it is updated eac
+ is afternoon at 22:59, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -73,7 +145,7 @@ DESCRIPTION:*[Book] Bildung auf einen Blick 2024 - O
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  7565ada-de.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -87,7 +159,656 @@ DESCRIPTION:Reminder: [Book] Bildung auf einen Blick
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffe337b2-frd3e170
+UID:10.1787/962b6c53-end3e386
+SUMMARY:[Short content] Ireland
+DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/962b6c53-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=962b6c53-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Ireland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f17c5d6a-end3e439
+SUMMARY:[Short content] Netherlands
+DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
+ rate: Directorate for Communications\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/f17c5d6a-en\nPublication type: Sho
+ rt content\nReleased as: PDF\n\nEmbargo 
+ date/time: Tuesday, 10 September 2024, 9
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:59, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=f17c5d6a-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Netherlands
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/39130783-end3e709
+SUMMARY:[Short content] Norway
+DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /39130783-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=39130783-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Norway
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fdc2a4ba-end3e1141
+SUMMARY:[Short content] Switzerland
+DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
+ rate: Directorate for Communications\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/fdc2a4ba-en\nPublication type: Sho
+ rt content\nReleased as: PDF\n\nEmbargo 
+ date/time: Tuesday, 10 September 2024, 9
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:59, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=fdc2a4ba-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Switzerland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1b554faf-end3e1249
+SUMMARY:[Short content] Austria
+DESCRIPTION:*[Short content] Austria*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/1b554faf-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=1b554faf-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Austria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/120500ee-esd3e1356
+SUMMARY:[Short content] España
+DESCRIPTION:*[Short content] España*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: Spanish\nDOI: https://doi.org/10.1787
+ /120500ee-es\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=120500ee-es.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] España
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/99e1b050-end3e1463
+SUMMARY:[Short content] Finland
+DESCRIPTION:*[Short content] Finland*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/99e1b050-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=99e1b050-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Finland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2fa77df5-end3e1625
+SUMMARY:[Short content] Canada
+DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /2fa77df5-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=2fa77df5-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Canada
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7376478c-end3e1678
+SUMMARY:[Short content] Mexico
+DESCRIPTION:*[Short content] Mexico*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /7376478c-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=7376478c-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Mexico
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/eea51596-end3e2002
+SUMMARY:[Short content] Brazil
+DESCRIPTION:*[Short content] Brazil*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /eea51596-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=eea51596-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Brazil
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a6ce9dbc-end3e2055
+SUMMARY:[Short content] Portugal
+DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
+ e: Directorate for Communications\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/a6ce9dbc-en\nPublication type: Short 
+ content\nReleased as: PDF\n\nEmbargo dat
+ e/time: Tuesday, 10 September 2024, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=a6ce9dbc-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Portugal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a42a953e-end3e2162
+SUMMARY:[Short content] Costa Rica
+DESCRIPTION:*[Short content] Costa Rica*\n\nDirector
+ ate: Directorate for Communications\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/a42a953e-en\nPublication type: Shor
+ t content\nReleased as: PDF\n\nEmbargo d
+ ate/time: Tuesday, 10 September 2024, 9:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:59, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=a42a953e-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Costa Rica
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a362e6bb-end3e2378
+SUMMARY:[Short content] Korea, Republic of
+DESCRIPTION:*[Short content] Korea, Republic of*\n\n
+ Directorate: Directorate for Communicati
+ ons\nLanguage: English\nDOI: https://doi
+ .org/10.1787/a362e6bb-en\nPublication ty
+ pe: Short content\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 10 September 
+ 2024, 9:00 (GMT)\n\n\niLibrary export: n
+ ever\nFreepreview export: never\nOECD.or
+ g export: never\nFTI loaded: ✓\n\nFor mo
+ re information see: https://oecd.github.
+ io/embargo-calendar/embargoes-by-publica
+ tion.html.\n\nPlease note: This informat
+ ion was correct as of this afternoon at 
+ 22:59, it is updated each night; therefo
+ re any subsequent updates may not yet be
+  visible here. Also, please be aware tha
+ t the different released media (PDF, HTM
+ L, etc.) are not necessarily released at
+  the same time. For complete and up-to-d
+ ate information see here: http://kappa.o
+ ecd.org/v3/search?term=a362e6bb-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Korea, Republi
+ c of
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8c4f6dd6-end3e2431
+SUMMARY:[Short content] Czechia
+DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/8c4f6dd6-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=8c4f6dd6-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Czechia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4cbbcbd3-end3e2647
+SUMMARY:[Short content] Denmark
+DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/4cbbcbd3-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=4cbbcbd3-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Denmark
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4bad887a-end3e2700
+SUMMARY:[Short content] Estonia
+DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/4bad887a-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=4bad887a-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Estonia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0050c0c8-end3e2862
+SUMMARY:[Short content] Peru
+DESCRIPTION:*[Short content] Peru*\n\nDirectorate: D
+ irectorate for Communications\nLanguage:
+  English\nDOI: https://doi.org/10.1787/0
+ 050c0c8-en\nPublication type: Short cont
+ ent\nReleased as: PDF\n\nEmbargo date/ti
+ me: Tuesday, 10 September 2024, 9:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 22:59, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=0050c0c8-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Peru
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bd699319-end3e3023
+SUMMARY:[Short content] New Zealand
+DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
+ rate: Directorate for Communications\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/bd699319-en\nPublication type: Sho
+ rt content\nReleased as: PDF\n\nEmbargo 
+ date/time: Tuesday, 10 September 2024, 9
+ :00 (GMT)\n\n\niLibrary export: never\nF
+ reepreview export: never\nOECD.org expor
+ t: never\nFTI loaded: ✓\n\nFor more info
+ rmation see: https://oecd.github.io/emba
+ rgo-calendar/embargoes-by-publication.ht
+ ml.\n\nPlease note: This information was
+  correct as of this afternoon at 22:59, 
+ it is updated each night; therefore any 
+ subsequent updates may not yet be visibl
+ e here. Also, please be aware that the d
+ ifferent released media (PDF, HTML, etc.
+ ) are not necessarily released at the sa
+ me time. For complete and up-to-date inf
+ ormation see here: http://kappa.oecd.org
+ /v3/search?term=bd699319-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] New Zealand
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ffe337b2-frd3e3076
 SUMMARY:[Policy paper] L'équité dans le monde de
   l'éducation et sur le marché du travail
   - Principaux enseignements de l'édition
@@ -108,7 +829,7 @@ DESCRIPTION:*[Policy paper] L'équité dans le monde d
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 22:54
+ as correct as of this afternoon at 22:59
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -117,7 +838,7 @@ DESCRIPTION:*[Policy paper] L'équité dans le monde d
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=ffe337b2-fr.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -134,7 +855,152 @@ DESCRIPTION:Reminder: [Policy paper] L'équité dans l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e7d20315-end3e225
+UID:10.1787/30824227-end3e3186
+SUMMARY:[Short content] Slovak Republic
+DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
+ ectorate: Directorate for Communications
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/30824227-en\nPublication type:
+  Short content\nReleased as: PDF\n\nEmba
+ rgo date/time: Tuesday, 10 September 202
+ 4, 9:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 22:
+ 59, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=30824227-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovak Republi
+ c
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/6ec65d8b-end3e3239
+SUMMARY:[Short content] Japan
+DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
+ Directorate for Communications\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 6ec65d8b-en\nPublication type: Short con
+ tent\nReleased as: PDF\n\nEmbargo date/t
+ ime: Tuesday, 10 September 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 22:59, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=6ec65d8b-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Japan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5c8d1469-end3e3292
+SUMMARY:[Short content] Latvia
+DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /5c8d1469-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=5c8d1469-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Latvia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e625bad6-end3e3453
+SUMMARY:[Short content] Sweden
+DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /e625bad6-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=e625bad6-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Sweden
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e7d20315-end3e3778
 SUMMARY:[Report] Education at a Glance 2024 Sour
  ces, Methodologies and Technical Notes
 DESCRIPTION:*[Report] Education at a Glance 2024 Sou
@@ -145,21 +1011,22 @@ DESCRIPTION:*[Report] Education at a Glance 2024 Sou
  ication type: Report\nReleased as: PDF\n
  \nEmbargo date/time: Tuesday, 10 Septemb
  er 2024, 9:00 (GMT)\n\n\niLibrary export
- : never\nFreepreview export: never\nOECD
- .org export: never\nFTI loaded: ✗\n\nFor
-  more information see: https://oecd.gith
- ub.io/embargo-calendar/embargoes-by-publ
- ication.html.\n\nPlease note: This infor
- mation was correct as of this afternoon 
- at 22:54, it is updated each night; ther
- efore any subsequent updates may not yet
-  be visible here. Also, please be aware 
- that the different released media (PDF, 
- HTML, etc.) are not necessarily released
-  at the same time. For complete and up-t
- o-date information see here: http://kapp
- a.oecd.org/v3/search?term=e7d20315-en.
-DTSTAMP:20240908T225427Z
+ : Monday, 9 September 2024, 20:30 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:59
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=e7d20315-en.
+DTSTAMP:20240909T225955Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -174,7 +1041,475 @@ DESCRIPTION:Reminder: [Report] Education at a Glance
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b502b9a6-end3e278
+UID:10.1787/50189b64-end3e3833
+SUMMARY:[Short content] Romania
+DESCRIPTION:*[Short content] Romania*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/50189b64-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=50189b64-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Romania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/fe49d9ed-end3e3994
+SUMMARY:[Short content] Bulgaria
+DESCRIPTION:*[Short content] Bulgaria*\n\nDirectorat
+ e: Directorate for Communications\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/fe49d9ed-en\nPublication type: Short 
+ content\nReleased as: PDF\n\nEmbargo dat
+ e/time: Tuesday, 10 September 2024, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=fe49d9ed-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Bulgaria
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f1ef53a8-end3e4047
+SUMMARY:[Short content] Spain
+DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
+ Directorate for Communications\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ f1ef53a8-en\nPublication type: Short con
+ tent\nReleased as: PDF\n\nEmbargo date/t
+ ime: Tuesday, 10 September 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 22:59, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=f1ef53a8-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Spain
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/423881a4-end3e4100
+SUMMARY:[Short content] Greece
+DESCRIPTION:*[Short content] Greece*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /423881a4-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=423881a4-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Greece
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/dd29592b-end3e4208
+SUMMARY:[Short content] Croatia
+DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/dd29592b-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=dd29592b-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Croatia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c46299a8-end3e4532
+SUMMARY:[Short content] Italy
+DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
+ Directorate for Communications\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ c46299a8-en\nPublication type: Short con
+ tent\nReleased as: PDF\n\nEmbargo date/t
+ ime: Tuesday, 10 September 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 22:59, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=c46299a8-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Italy
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7060bda5-end3e4693
+SUMMARY:[Short content] Germany
+DESCRIPTION:*[Short content] Germany*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/7060bda5-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=7060bda5-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Germany
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8c196d74-frd3e4801
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: French\nDOI: https://doi.org/10.1787/
+ 8c196d74-fr\nPublication type: Short con
+ tent\nReleased as: PDF\n\nEmbargo date/t
+ ime: Tuesday, 10 September 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✓\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 22:59, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=8c196d74-fr.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7cd500b6-end3e4908
+SUMMARY:[Short content] Australia
+DESCRIPTION:*[Short content] Australia*\n\nDirectora
+ te: Directorate for Communications\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/7cd500b6-en\nPublication type: Short
+  content\nReleased as: PDF\n\nEmbargo da
+ te/time: Tuesday, 10 September 2024, 9:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 22:59, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=7cd500b6-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Australia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/7d6fc410-end3e5015
+SUMMARY:[Short content] Slovenia
+DESCRIPTION:*[Short content] Slovenia*\n\nDirectorat
+ e: Directorate for Communications\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/7d6fc410-en\nPublication type: Short 
+ content\nReleased as: PDF\n\nEmbargo dat
+ e/time: Tuesday, 10 September 2024, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=7d6fc410-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Slovenia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e83e792c-ded3e5232
+SUMMARY:[Short content] Deutschland
+DESCRIPTION:*[Short content] Deutschland*\n\nDirecto
+ rate: Directorate for Communications\nLa
+ nguage: German\nDOI: https://doi.org/10.
+ 1787/e83e792c-de\nPublication type: Shor
+ t content\nReleased as: PDF\n\nEmbargo d
+ ate/time: Tuesday, 10 September 2024, 9:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:59, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=e83e792c-de.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Deutschland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1b2a3510-end3e5774
+SUMMARY:[Short content] Hungary
+DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/1b2a3510-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=1b2a3510-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Hungary
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a7642ca0-end3e6152
+SUMMARY:[Short content] Belgium
+DESCRIPTION:*[Short content] Belgium*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/a7642ca0-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=a7642ca0-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Belgium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/b502b9a6-end3e6313
 SUMMARY:[Policy paper] Equity in education and o
  n the labour market - Main findings from
   Education at a Glance 2024
@@ -186,23 +1521,23 @@ DESCRIPTION:*[Policy paper] Equity in education and
  org/10.1787/b502b9a6-en\nPublication typ
  e: Policy paper\nReleased as: PDF\n\nEmb
  argo date/time: Tuesday, 10 September 20
- 24, 9:00 (GMT)\n\n\niLibrary export: Sat
- urday, 7 September 2024, 6:55 (GMT)\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:54, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=b502b9a6-en.
-DTSTAMP:20240908T225427Z
+ 24, 9:00 (GMT)\n\n\niLibrary export: Mon
+ day, 9 September 2024, 20:30 (GMT)\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=b502b9a6-en.
+DTSTAMP:20240909T225955Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -217,7 +1552,295 @@ DESCRIPTION:Reminder: [Policy paper] Equity in educa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c00cad36-end3e386
+UID:10.1787/0eba06c5-end3e6368
+SUMMARY:[Short content] Colombia
+DESCRIPTION:*[Short content] Colombia*\n\nDirectorat
+ e: Directorate for Communications\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/0eba06c5-en\nPublication type: Short 
+ content\nReleased as: PDF\n\nEmbargo dat
+ e/time: Tuesday, 10 September 2024, 9:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 22:59, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=0eba06c5-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Colombia
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9a3451d2-end3e6476
+SUMMARY:[Short content] Israel
+DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /9a3451d2-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=9a3451d2-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Israel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c3bad31e-end3e6529
+SUMMARY:[Short content] United Kingdom
+DESCRIPTION:*[Short content] United Kingdom*\n\nDire
+ ctorate: Directorate for Communications\
+ nLanguage: English\nDOI: https://doi.org
+ /10.1787/c3bad31e-en\nPublication type: 
+ Short content\nReleased as: PDF\n\nEmbar
+ go date/time: Tuesday, 10 September 2024
+ , 9:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✓\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 22:5
+ 9, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=c3bad31e-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United Kingdom
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4a698323-ltd3e6582
+SUMMARY:[Short content] Lietuva
+DESCRIPTION:*[Short content] Lietuva*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: Lithuanian\nDOI: https://doi.org/10.
+ 1787/4a698323-lt\nPublication type: Shor
+ t content\nReleased as: PDF\n\nEmbargo d
+ ate/time: Tuesday, 10 September 2024, 9:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:59, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=4a698323-lt.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Lietuva
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/d9880f13-jad3e6905
+SUMMARY:[Short content] 日本
+DESCRIPTION:*[Short content] 日本*\n\nDirectorate: Dir
+ ectorate for Communications\nLanguage: J
+ apanese\nDOI: https://doi.org/10.1787/d9
+ 880f13-ja\nPublication type: Short conte
+ nt\nReleased as: PDF\n\nEmbargo date/tim
+ e: Tuesday, 10 September 2024, 9:00 (GMT
+ )\n\n\niLibrary export: never\nFreeprevi
+ ew export: never\nOECD.org export: never
+ \nFTI loaded: ✗\n\nFor more information 
+ see: https://oecd.github.io/embargo-cale
+ ndar/embargoes-by-publication.html.\n\nP
+ lease note: This information was correct
+  as of this afternoon at 22:59, it is up
+ dated each night; therefore any subseque
+ nt updates may not yet be visible here. 
+ Also, please be aware that the different
+  released media (PDF, HTML, etc.) are no
+ t necessarily released at the same time.
+  For complete and up-to-date information
+  see here: http://kappa.oecd.org/v3/sear
+ ch?term=d9880f13-ja.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] 日本
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/62a46998-end3e6957
+SUMMARY:[Short content] Poland
+DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /62a46998-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=62a46998-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Poland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/4937e852-end3e7065
+SUMMARY:[Short content] Luxembourg
+DESCRIPTION:*[Short content] Luxembourg*\n\nDirector
+ ate: Directorate for Communications\nLan
+ guage: English\nDOI: https://doi.org/10.
+ 1787/4937e852-en\nPublication type: Shor
+ t content\nReleased as: PDF\n\nEmbargo d
+ ate/time: Tuesday, 10 September 2024, 9:
+ 00 (GMT)\n\n\niLibrary export: never\nFr
+ eepreview export: never\nOECD.org export
+ : never\nFTI loaded: ✓\n\nFor more infor
+ mation see: https://oecd.github.io/embar
+ go-calendar/embargoes-by-publication.htm
+ l.\n\nPlease note: This information was 
+ correct as of this afternoon at 22:59, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=4937e852-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Luxembourg
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/5347173a-end3e7172
+SUMMARY:[Short content] Lithuania
+DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
+ te: Directorate for Communications\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/5347173a-en\nPublication type: Short
+  content\nReleased as: PDF\n\nEmbargo da
+ te/time: Tuesday, 10 September 2024, 9:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✓\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 22:59, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=5347173a-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Lithuania
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c00cad36-end3e7225
 SUMMARY:[Book] Education at a Glance 2024 - OECD
   Indicators
 DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
@@ -225,24 +1848,25 @@ DESCRIPTION:*[Book] Education at a Glance 2024 - OEC
  e for Education and Skills\nLanguage: En
  glish\nDOI: https://doi.org/10.1787/c00c
  ad36-en\nPublication type: Book\nRelease
- d as: PDF\n\nEmbargo date/time: Tuesday,
-  10 September 2024, 9:00 (GMT)\n\n\niLib
- rary export: never\nFreepreview export: 
- never\nOECD.org export: never\nFTI loade
- d: ✗\n\nFor more information see: https:
- //oecd.github.io/embargo-calendar/embarg
- oes-by-publication.html.\n\nPlease note:
-  This information was correct as of this
-  afternoon at 22:54, it is updated each 
- night; therefore any subsequent updates 
- may not yet be visible here. Also, pleas
- e be aware that the different released m
- edia (PDF, HTML, etc.) are not necessari
- ly released at the same time. For comple
- te and up-to-date information see here: 
- http://kappa.oecd.org/v3/search?term=c00
- cad36-en.
-DTSTAMP:20240908T225427Z
+ d as: ePub, HTML, Paperback, PDF, ZXML\n
+ \nEmbargo date/time: Tuesday, 10 Septemb
+ er 2024, 9:00 (GMT)\n\n\niLibrary export
+ : Monday, 9 September 2024, 20:30 (GMT)\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:59
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=c00cad36-en.
+DTSTAMP:20240909T225955Z
 DTSTART:20240910T090000Z
 DTEND:20240910T091500Z
 TRANSP:TRANSPARENT
@@ -256,7 +1880,162 @@ DESCRIPTION:Reminder: [Book] Education at a Glance 2
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1aad09d0-frd3e439
+UID:10.1787/7deeac76-end3e7551
+SUMMARY:[Short content] France
+DESCRIPTION:*[Short content] France*\n\nDirectorate:
+  Directorate for Communications\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /7deeac76-en\nPublication type: Short co
+ ntent\nReleased as: PDF\n\nEmbargo date/
+ time: Tuesday, 10 September 2024, 9:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✓\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 22:59, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=7deeac76-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] France
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2ff1a9e3-end3e7604
+SUMMARY:[Short content] Iceland
+DESCRIPTION:*[Short content] Iceland*\n\nDirectorate
+ : Directorate for Communications\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/2ff1a9e3-en\nPublication type: Short c
+ ontent\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 10 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✓\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=2ff1a9e3-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] Iceland
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e08bedd8-end3e7657
+SUMMARY:[Short content] United States
+DESCRIPTION:*[Short content] United States*\n\nDirec
+ torate: Directorate for Communications\n
+ Language: English\nDOI: https://doi.org/
+ 10.1787/e08bedd8-en\nPublication type: S
+ hort content\nReleased as: PDF\n\nEmbarg
+ o date/time: Tuesday, 10 September 2024,
+  9:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 22:59
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=e08bedd8-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T090000Z
+DTEND:20240910T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Short content] United States
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/e99f8322-end3e7765
+SUMMARY:[Policy paper] Policy dialogues in focus
+  for Brazil - International insights for
+  strengthening resilience and responsive
+ ness in lower secondary education
+DESCRIPTION:*[Policy paper] Policy dialogues in focu
+ s for Brazil - International insights fo
+ r strengthening resilience and responsiv
+ eness in lower secondary education*\n\nD
+ irectorate: Directorate for Education an
+ d Skills\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/e99f8322-en\nPublicati
+ on type: Policy paper\nReleased as: PDF\
+ n\nEmbargo date/time: Tuesday, 10 Septem
+ ber 2024, 10:00 (GMT)\n\n\niLibrary expo
+ rt: Monday, 9 September 2024, 20:30 (GMT
+ )\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 22:
+ 59, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=e99f8322-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240910T100000Z
+DTEND:20240910T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Policy dialogue
+ s in focus for Brazil - International in
+ sights for strengthening resilience and 
+ responsiveness in lower secondary educat
+ ion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1aad09d0-frd3e7820
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : Maroc 2024
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -272,7 +2051,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 22:54, it is updated e
+ this afternoon at 22:59, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -281,7 +2060,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =1aad09d0-fr.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240911T090000Z
 DTEND:20240911T091500Z
 TRANSP:TRANSPARENT
@@ -295,7 +2074,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/80777ea7-end3e492
+UID:10.1787/80777ea7-end3e7873
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Morocco 2024 - Economic Assessment
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -311,7 +2090,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 22:54
+ as correct as of this afternoon at 22:59
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -320,7 +2099,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=80777ea7-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240911T090000Z
 DTEND:20240911T091500Z
 TRANSP:TRANSPARENT
@@ -335,7 +2114,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/709e70b8-end3e599
+UID:10.1787/709e70b8-end3e7927
 SUMMARY:[Economic survey] OECD Economic Surveys:
   United Kingdom 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -344,25 +2123,25 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  DOI: https://doi.org/10.1787/709e70b8-en
  \nPublication type: Economic survey\nRel
  eased as: Paperback, PDF\n\nEmbargo date
- /time: Wednesday, 11 September 2024, 10:
- 00 (GMT)\n\n\niLibrary export: never\nFr
- eepreview export: never\nOECD.org export
- : never\nFTI loaded: ✗\n\nFor more infor
- mation see: https://oecd.github.io/embar
- go-calendar/embargoes-by-publication.htm
- l.\n\nPlease note: This information was 
- correct as of this afternoon at 22:54, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=709e70b8-en.
-DTSTAMP:20240908T225427Z
-DTSTART:20240911T100000Z
-DTEND:20240911T101500Z
+ /time: Wednesday, 11 September 2024, 9:0
+ 0 (GMT)\n\n\niLibrary export: never\nFre
+ epreview export: never\nOECD.org export:
+  never\nFTI loaded: ✗\n\nFor more inform
+ ation see: https://oecd.github.io/embarg
+ o-calendar/embargoes-by-publication.html
+ .\n\nPlease note: This information was c
+ orrect as of this afternoon at 22:59, it
+  is updated each night; therefore any su
+ bsequent updates may not yet be visible 
+ here. Also, please be aware that the dif
+ ferent released media (PDF, HTML, etc.) 
+ are not necessarily released at the same
+  time. For complete and up-to-date infor
+ mation see here: http://kappa.oecd.org/v
+ 3/search?term=709e70b8-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240911T090000Z
+DTEND:20240911T091500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT48H
@@ -374,7 +2153,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/99ee2d3e-end3e651
+UID:10.1787/99ee2d3e-end3e8032
 SUMMARY:[Report] Synthesis report on understandi
  ng Perfluoropolyethers (PFPEs) and their
   life cycle
@@ -393,7 +2172,7 @@ DESCRIPTION:*[Report] Synthesis report on understand
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 22:
- 54, it is updated each night; therefore 
+ 59, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -401,7 +2180,7 @@ DESCRIPTION:*[Report] Synthesis report on understand
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=99ee2d3e-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240912T050000Z
 DTEND:20240912T051500Z
 TRANSP:TRANSPARENT
@@ -416,7 +2195,7 @@ DESCRIPTION:Reminder: [Report] Synthesis report on u
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/df1031a4-end3e705
+UID:10.1787/df1031a4-end3e8086
 SUMMARY:[Report] G20 Compendium on Data Access a
  nd Sharing Across the Public Sector and 
  with the Private Sector for Public Inter
@@ -437,7 +2216,7 @@ DESCRIPTION:*[Report] G20 Compendium on Data Access
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 2:54, it is updated each night; therefor
+ 2:59, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -445,7 +2224,7 @@ DESCRIPTION:*[Report] G20 Compendium on Data Access
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=df1031a4-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240913T040000Z
 DTEND:20240913T041500Z
 TRANSP:TRANSPARENT
@@ -461,7 +2240,52 @@ DESCRIPTION:Reminder: [Report] G20 Compendium on Dat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08921eb5-end3e759
+UID:10.1787/1ba69794-end3e8140
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Albani
+ a (Stage 1) - Inclusive Framework on BEP
+ S: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Alban
+ ia (Stage 1) - Inclusive Framework on BE
+ PS: Action 14*\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /1ba69794-en\nPublication type: Book\nRe
+ leased as: PDF\n\nEmbargo date/time: Mon
+ day, 16 September 2024, 9:00 (GMT)\n\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nOECD.org export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 22:59, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =1ba69794-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Albania (Stage 1) - Inclusive Framew
+ ork on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/08921eb5-end3e8193
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Egypt 
  (Stage 1) - Inclusive Framework on BEPS:
@@ -481,7 +2305,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 22:54, it is updated eac
+ is afternoon at 22:59, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -490,7 +2314,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=0
  8921eb5-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -506,7 +2330,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa0cbe35-end3e812
+UID:10.1787/aa0cbe35-end3e8246
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Lithua
  nia (Stage 1) - Inclusive Framework on B
@@ -526,7 +2350,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:54, it is updated
+ f this afternoon at 22:59, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -535,7 +2359,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=aa0cbe35-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -551,7 +2375,52 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/29ce1684-end3e865
+UID:10.1787/8da2ce62-end3e8299
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Domini
+ can Republic (Stage 1) - Inclusive Frame
+ work on BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Domin
+ ican Republic (Stage 1) - Inclusive Fram
+ ework on BEPS: Action 14*\n\nDirectorate
+ : Centre for Tax Policy and Administrati
+ on\nLanguage: English\nDOI: https://doi.
+ org/10.1787/8da2ce62-en\nPublication typ
+ e: Book\nReleased as: PDF\n\nEmbargo dat
+ e/time: Monday, 16 September 2024, 9:00 
+ (GMT)\n\n\niLibrary export: never\nFreep
+ review export: never\nOECD.org export: n
+ ever\nFTI loaded: ✗\n\nFor more informat
+ ion see: https://oecd.github.io/embargo-
+ calendar/embargoes-by-publication.html.\
+ n\nPlease note: This information was cor
+ rect as of this afternoon at 22:59, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=8da2ce62-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Dominican Republic (Stage 1) - Inclu
+ sive Framework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/29ce1684-end3e8353
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Antigu
  a and Barbuda (Stage 1) - Inclusive Fram
@@ -571,7 +2440,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:54, it 
+ rrect as of this afternoon at 22:59, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -580,7 +2449,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=29ce1684-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -596,7 +2465,187 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ad7c3811-end3e919
+UID:10.1787/8e481e74-end3e8406
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Zambia
+  (Stage 1) - Inclusive Framework on BEPS
+ : Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Zambi
+ a (Stage 1) - Inclusive Framework on BEP
+ S: Action 14*\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 8e481e74-en\nPublication type: Book\nRel
+ eased as: PDF\n\nEmbargo date/time: Mond
+ ay, 16 September 2024, 9:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 22:59, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 8e481e74-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Zambia (Stage 1) - Inclusive Framewo
+ rk on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/981396cc-end3e8459
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Jamaic
+ a (Stage 1) - Inclusive Framework on BEP
+ S: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Jamai
+ ca (Stage 1) - Inclusive Framework on BE
+ PS: Action 14*\n\nDirectorate: Centre fo
+ r Tax Policy and Administration\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /981396cc-en\nPublication type: Book\nRe
+ leased as: PDF\n\nEmbargo date/time: Mon
+ day, 16 September 2024, 9:00 (GMT)\n\n\n
+ iLibrary export: never\nFreepreview expo
+ rt: never\nOECD.org export: never\nFTI l
+ oaded: ✗\n\nFor more information see: ht
+ tps://oecd.github.io/embargo-calendar/em
+ bargoes-by-publication.html.\n\nPlease n
+ ote: This information was correct as of 
+ this afternoon at 22:59, it is updated e
+ ach night; therefore any subsequent upda
+ tes may not yet be visible here. Also, p
+ lease be aware that the different releas
+ ed media (PDF, HTML, etc.) are not neces
+ sarily released at the same time. For co
+ mplete and up-to-date information see he
+ re: http://kappa.oecd.org/v3/search?term
+ =981396cc-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Jamaica (Stage 1) - Inclusive Framew
+ ork on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a97baac0-end3e8512
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Costa 
+ Rica (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Costa
+  Rica (Stage 1) - Inclusive Framework on
+  BEPS: Action 14*\n\nDirectorate: Centre
+  for Tax Policy and Administration\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/a97baac0-en\nPublication type: Book\
+ nReleased as: PDF\n\nEmbargo date/time: 
+ Monday, 16 September 2024, 9:00 (GMT)\n\
+ n\niLibrary export: never\nFreepreview e
+ xport: never\nOECD.org export: never\nFT
+ I loaded: ✗\n\nFor more information see:
+  https://oecd.github.io/embargo-calendar
+ /embargoes-by-publication.html.\n\nPleas
+ e note: This information was correct as 
+ of this afternoon at 22:59, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=a97baac0-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Costa Rica (Stage 1) - Inclusive Fra
+ mework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bf483409-end3e8565
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Cook I
+ slands (Stage 1) - Inclusive Framework o
+ n BEPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Cook 
+ Islands (Stage 1) - Inclusive Framework 
+ on BEPS: Action 14*\n\nDirectorate: Cent
+ re for Tax Policy and Administration\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/bf483409-en\nPublication type: Boo
+ k\nReleased as: PDF\n\nEmbargo date/time
+ : Monday, 16 September 2024, 9:00 (GMT)\
+ n\n\niLibrary export: never\nFreepreview
+  export: never\nOECD.org export: never\n
+ FTI loaded: ✗\n\nFor more information se
+ e: https://oecd.github.io/embargo-calend
+ ar/embargoes-by-publication.html.\n\nPle
+ ase note: This information was correct a
+ s of this afternoon at 22:59, it is upda
+ ted each night; therefore any subsequent
+  updates may not yet be visible here. Al
+ so, please be aware that the different r
+ eleased media (PDF, HTML, etc.) are not 
+ necessarily released at the same time. F
+ or complete and up-to-date information s
+ ee here: http://kappa.oecd.org/v3/search
+ ?term=bf483409-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Cook Islands (Stage 1) - Inclusive F
+ ramework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ad7c3811-end3e8618
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Botswa
  na (Stage 1) - Inclusive Framework on BE
@@ -616,7 +2665,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:54, it is updated 
+  this afternoon at 22:59, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -625,7 +2674,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ad7c3811-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -641,7 +2690,52 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ef6ffeec-end3e972
+UID:10.1787/455a3441-end3e8672
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Belize
+  (Stage 1) - Inclusive Framework on BEPS
+ : Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Beliz
+ e (Stage 1) - Inclusive Framework on BEP
+ S: Action 14*\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 455a3441-en\nPublication type: Book\nRel
+ eased as: PDF\n\nEmbargo date/time: Mond
+ ay, 16 September 2024, 9:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 22:59, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 455a3441-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Belize (Stage 1) - Inclusive Framewo
+ rk on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/ef6ffeec-end3e8725
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Seyche
  lles (Stage 1) - Inclusive Framework on 
@@ -661,7 +2755,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 22:54, it is update
+ of this afternoon at 22:59, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -670,7 +2764,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=ef6ffeec-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -686,7 +2780,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f8fe671-end3e1025
+UID:10.1787/5f8fe671-end3e8778
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, North 
  Macedonia (Stage 1) - Inclusive Framewor
@@ -706,7 +2800,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 22:54, it is u
+ t as of this afternoon at 22:59, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -715,7 +2809,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=5f8fe671-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -731,7 +2825,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f1f68a-end3e1078
+UID:10.1787/a4f1f68a-end3e8831
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Serbia
   (Stage 1) - Inclusive Framework on BEPS
@@ -751,7 +2845,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 22:54, it is updated ea
+ his afternoon at 22:59, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -760,7 +2854,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  a4f1f68a-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -776,7 +2870,52 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e4ba9e0-end3e1131
+UID:10.1787/3eecb325-end3e8884
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Jordan
+  (Stage 1) - Inclusive Framework on BEPS
+ : Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Jorda
+ n (Stage 1) - Inclusive Framework on BEP
+ S: Action 14*\n\nDirectorate: Centre for
+  Tax Policy and Administration\nLanguage
+ : English\nDOI: https://doi.org/10.1787/
+ 3eecb325-en\nPublication type: Book\nRel
+ eased as: PDF\n\nEmbargo date/time: Mond
+ ay, 16 September 2024, 9:00 (GMT)\n\n\ni
+ Library export: never\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✗\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 22:59, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 3eecb325-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Jordan (Stage 1) - Inclusive Framewo
+ rk on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/2e4ba9e0-end3e8937
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Sri La
  nka (Stage 1) - Inclusive Framework on B
@@ -796,7 +2935,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:54, it is updated
+ f this afternoon at 22:59, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -805,7 +2944,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=2e4ba9e0-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -821,7 +2960,52 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f4b804-end3e1184
+UID:10.1787/d3a8cf7e-end3e8991
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Maurit
+ ius (Stage 1) - Inclusive Framework on B
+ EPS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Mauri
+ tius (Stage 1) - Inclusive Framework on 
+ BEPS: Action 14*\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/d3a8cf7e-en\nPublication type: Book\n
+ Released as: PDF\n\nEmbargo date/time: M
+ onday, 16 September 2024, 9:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this afternoon at 22:59, it is updated
+  each night; therefore any subsequent up
+ dates may not yet be visible here. Also,
+  please be aware that the different rele
+ ased media (PDF, HTML, etc.) are not nec
+ essarily released at the same time. For 
+ complete and up-to-date information see 
+ here: http://kappa.oecd.org/v3/search?te
+ rm=d3a8cf7e-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Mauritius (Stage 1) - Inclusive Fram
+ ework on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a4f4b804-end3e9044
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Colomb
  ia (Stage 1) - Inclusive Framework on BE
@@ -841,7 +3025,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:54, it is updated 
+  this afternoon at 22:59, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -850,7 +3034,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=a4f4b804-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -866,7 +3050,52 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3d3f36f-end3e1238
+UID:10.1787/9e56fbc7-end3e9097
+SUMMARY:[Book] Making Dispute Resolution More Ef
+ fective – Simplified Peer Review, Pakist
+ an (Stage 1) - Inclusive Framework on BE
+ PS: Action 14
+DESCRIPTION:*[Book] Making Dispute Resolution More E
+ ffective – Simplified Peer Review, Pakis
+ tan (Stage 1) - Inclusive Framework on B
+ EPS: Action 14*\n\nDirectorate: Centre f
+ or Tax Policy and Administration\nLangua
+ ge: English\nDOI: https://doi.org/10.178
+ 7/9e56fbc7-en\nPublication type: Book\nR
+ eleased as: PDF\n\nEmbargo date/time: Mo
+ nday, 16 September 2024, 9:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 22:59, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=9e56fbc7-en.
+DTSTAMP:20240909T225955Z
+DTSTART:20240916T090000Z
+DTEND:20240916T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
+ on More Effective – Simplified Peer Revi
+ ew, Pakistan (Stage 1) - Inclusive Frame
+ work on BEPS: Action 14
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/f3d3f36f-end3e9150
 SUMMARY:[Book] Country-by-Country Reporting – Co
  mpilation of 2024 Peer Review Reports - 
  Inclusive Framework on BEPS: Action 13
@@ -880,12 +3109,12 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
  \n\nEmbargo date/time: Monday, 16 Septem
  ber 2024, 9:00 (GMT)\n\n\niLibrary expor
  t: never\nFreepreview export: never\nOEC
- D.org export: never\nFTI loaded: ✗\n\nFo
+ D.org export: never\nFTI loaded: ✓\n\nFo
  r more information see: https://oecd.git
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:54, it is updated each night; the
+  at 22:59, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -893,7 +3122,7 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=f3d3f36f-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -909,7 +3138,7 @@ DESCRIPTION:Reminder: [Book] Country-by-Country Repo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9e066d0-end3e1291
+UID:10.1787/c9e066d0-end3e9204
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Nigeri
  a (Stage 1) - Inclusive Framework on BEP
@@ -929,7 +3158,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 22:54, it is updated e
+ this afternoon at 22:59, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -938,7 +3167,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =c9e066d0-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -954,7 +3183,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96722cc6-frd3e1344
+UID:10.1787/96722cc6-frd3e9257
 SUMMARY:[Book] Déclaration pays par pays – Recue
  il 2024 de rapports d’examen par les pai
  rs (version abrégée) - Cadre inclusif su
@@ -970,11 +3199,11 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  ime: Monday, 16 September 2024, 9:00 (GM
  T)\n\n\niLibrary export: never\nFreeprev
  iew export: never\nOECD.org export: neve
- r\nFTI loaded: ✗\n\nFor more information
+ r\nFTI loaded: ✓\n\nFor more information
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 22:54, it is u
+ t as of this afternoon at 22:59, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -983,7 +3212,7 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=96722cc6-fr.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -999,7 +3228,7 @@ DESCRIPTION:Reminder: [Book] Déclaration pays par pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c88ca51c-frd3e1449
+UID:10.1787/c88ca51c-frd3e9364
 SUMMARY:[Economic survey] Études économiques de 
  l'OCDE : Colombie 2024 (version abrégée)
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -1016,7 +3245,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 22
- :54, it is updated each night; therefore
+ :59, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -1024,7 +3253,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c88ca51c-fr.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1039,7 +3268,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1a22cd6-end3e1554
+UID:10.1787/a1a22cd6-end3e9468
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Colombia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1055,7 +3284,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:54, it is upd
+ as of this afternoon at 22:59, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -1064,7 +3293,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=a1a22cd6-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1078,7 +3307,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e61e16ad-esd3e1606
+UID:10.1787/e61e16ad-esd3e9520
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Colombia 2024
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -1094,7 +3323,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:54, 
+  correct as of this afternoon at 22:59, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1103,7 +3332,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=e61e16ad-es.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1117,7 +3346,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81e95597-end3e1658
+UID:10.1787/81e95597-end3e9572
 SUMMARY:[Stand-alone monograph] Strengthening Fi
  nancial Literacy in Germany - Proposal f
  or a National Financial Literacy Strateg
@@ -1137,7 +3366,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening F
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 22:54, 
+  correct as of this afternoon at 22:59, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1146,7 +3375,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening F
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=81e95597-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240924T090000Z
 DTEND:20240924T091500Z
 TRANSP:TRANSPARENT
@@ -1162,7 +3391,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Streng
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbc2afd5-end3e2458
+UID:10.1787/cbc2afd5-end3e10373
 SUMMARY:[Book] Second Progress Review of Latvia’
  s Public Utilities Commission - Driving 
  Performance
@@ -1181,7 +3410,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:54, it is updated each night;
+ noon at 22:59, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1190,7 +3419,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=cbc2afd5-
  en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240925T060000Z
 DTEND:20240925T061500Z
 TRANSP:TRANSPARENT
@@ -1205,7 +3434,7 @@ DESCRIPTION:Reminder: [Book] Second Progress Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3686f5e-end3e2674
+UID:10.1787/c3686f5e-end3e10589
 SUMMARY:[Book] Tax Policy Reforms 2024 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
@@ -1222,7 +3451,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:54, it is updated each night; th
+ n at 22:59, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1230,7 +3459,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=c3686f5e-en.
-DTSTAMP:20240908T225427Z
+DTSTAMP:20240909T225955Z
 DTSTART:20240930T090000Z
 DTEND:20240930T091500Z
 TRANSP:TRANSPARENT
