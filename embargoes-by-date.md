@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 9 September 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 10 September 2024 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 September 2024](#9-september-2024)
 * [10 September 2024](#10-september-2024)
@@ -11,6 +11,7 @@ Data generated on | |
 * [13 September 2024](#13-september-2024)
 * [16 September 2024](#16-september-2024)
 * [17 September 2024](#17-september-2024)
+* [22 September 2024](#22-september-2024)
 * [24 September 2024](#24-september-2024)
 * [25 September 2024](#25-september-2024)
 * [30 September 2024](#30-september-2024)
@@ -101,7 +102,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 10 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -109,7 +110,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1182,7 +1183,7 @@ Tuesday 10 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 9 September 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 10 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1346,7 +1347,7 @@ Wednesday 11 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1929,6 +1930,52 @@ Monday 16 September 2024 at 9:00 | no launch event
 
 # 17 September 2024
 
+## [Economic Implications of Data Regulation - Balancing Openness and Trust](https://doi.org/10.1787/aa285504-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Colombia 2024](https://doi.org/10.1787/a1a22cd6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Études économiques de l'OCDE : Colombie 2024 (version abrégée)](https://doi.org/10.1787/c88ca51c-fr)
 
 Embargo date | Launch date
@@ -1952,29 +1999,6 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Colombia 2024](https://doi.org/10.1787/a1a22cd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 13:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Estudios Económicos de la OCDE: Colombia 2024](https://doi.org/10.1787/e61e16ad-es)
 
 Embargo date | Launch date
@@ -1992,6 +2016,33 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 22 September 2024
+
+## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 22 September 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
@@ -2064,7 +2115,7 @@ Monday 30 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
