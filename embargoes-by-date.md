@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 September 2024 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 September 2024 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 September 2024](#11-september-2024)
 * [12 September 2024](#12-september-2024)
 * [13 September 2024](#13-september-2024)
 * [16 September 2024](#16-september-2024)
@@ -17,79 +16,6 @@ Data generated on | |
 * [21 October 2024](#21-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
-
-------
-
-# 11 September 2024
-
-## [Études économiques de l’OCDE : Maroc 2024](https://doi.org/10.1787/1aad09d0-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Morocco 2024 - Economic Assessment](https://doi.org/10.1787/80777ea7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: United Kingdom 2024](https://doi.org/10.1787/709e70b8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 11 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -158,7 +84,7 @@ Monday 16 September 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
+- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -166,9 +92,9 @@ Monday 16 September 2024 at 7:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -737,7 +663,7 @@ Tuesday 17 September 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -745,32 +671,9 @@ Tuesday 17 September 2024 at 13:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Études économiques de l'OCDE : Colombie 2024 (version abrégée)](https://doi.org/10.1787/c88ca51c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 13:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
 
 ------
 
@@ -783,7 +686,7 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -791,7 +694,7 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -932,7 +835,7 @@ Monday 30 September 2024 at 9:00 | no launch event
 
 # 2 October 2024
 
-## [Strategic Review of the Egyptian Goodwill Committee - Promoting Child-friendly Justice in Egypt](https://doi.org/10.1787/4d71faad-en)
+## [Strategic Review of the Egyptian Goodwill Committee - Advancing Child-friendly Justice in Egypt](https://doi.org/10.1787/4d71faad-en)
 
 Embargo date | Launch date
 -------------|:------------:
