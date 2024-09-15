@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 September 2024 at 23:44* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 September 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 September 2024](#12-september-2024)
-* [13 September 2024](#13-september-2024)
 * [16 September 2024](#16-september-2024)
 * [17 September 2024](#17-september-2024)
 * [22 September 2024](#22-september-2024)
@@ -16,60 +14,6 @@ Data generated on | |
 * [21 October 2024](#21-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
-
-------
-
-# 12 September 2024
-
-## [Synthesis report on understanding Perfluoropolyethers (PFPEs) and their life cycle](https://doi.org/10.1787/99ee2d3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 13 September 2024
-
-## [G20 Compendium on Data Access and Sharing Across the Public Sector and with the Private Sector for Public Interest](https://doi.org/10.1787/df1031a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 September 2024 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 

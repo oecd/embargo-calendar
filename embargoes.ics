@@ -2,94 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/99ee2d3e-end3e63
-SUMMARY:[Report] Synthesis report on understandi
- ng Perfluoropolyethers (PFPEs) and their
-  life cycle
-DESCRIPTION:*[Report] Synthesis report on understand
- ing Perfluoropolyethers (PFPEs) and thei
- r life cycle*\n\nDirectorate: Environmen
- t Directorate\nLanguage: English\nDOI: h
- ttps://doi.org/10.1787/99ee2d3e-en\nPubl
- ication type: Report\nReleased as: PDF\n
- \nEmbargo date/time: Thursday, 12 Septem
- ber 2024, 5:00 (GMT)\n\n\niLibrary expor
- t: Wednesday, 28 August 2024, 20:33 (GMT
- )\nFreepreview export: never\nOECD.org e
- xport: never\nFTI loaded: ✓\n\nFor more 
- information see: https://oecd.github.io/
- embargo-calendar/embargoes-by-publicatio
- n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 44, it is updated each night; therefore 
- any subsequent updates may not yet be vi
- sible here. Also, please be aware that t
- he different released media (PDF, HTML, 
- etc.) are not necessarily released at th
- e same time. For complete and up-to-date
-  information see here: http://kappa.oecd
- .org/v3/search?term=99ee2d3e-en.
-DTSTAMP:20240913T234404Z
-DTSTART:20240912T050000Z
-DTEND:20240912T051500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] Synthesis report on u
- nderstanding Perfluoropolyethers (PFPEs)
-  and their life cycle
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/df1031a4-end3e118
-SUMMARY:[Report] G20 Compendium on Data Access a
- nd Sharing Across the Public Sector and 
- with the Private Sector for Public Inter
- est
-DESCRIPTION:*[Report] G20 Compendium on Data Access 
- and Sharing Across the Public Sector and
-  with the Private Sector for Public Inte
- rest*\n\nDirectorate: Directorate for Pu
- blic Governance\nLanguage: English\nDOI:
-  https://doi.org/10.1787/df1031a4-en\nPu
- blication type: Report\nReleased as: PDF
- \n\nEmbargo date/time: Friday, 13 Septem
- ber 2024, 4:00 (GMT)\n\n\niLibrary expor
- t: Wednesday, 4 September 2024, 20:34 (G
- MT)\nFreepreview export: never\nOECD.org
-  export: never\nFTI loaded: ✓\n\nFor mor
- e information see: https://oecd.github.i
- o/embargo-calendar/embargoes-by-publicat
- ion.html.\n\nPlease note: This informati
- on was correct as of this afternoon at 2
- 3:44, it is updated each night; therefor
- e any subsequent updates may not yet be 
- visible here. Also, please be aware that
-  the different released media (PDF, HTML
- , etc.) are not necessarily released at 
- the same time. For complete and up-to-da
- te information see here: http://kappa.oe
- cd.org/v3/search?term=df1031a4-en.
-DTSTAMP:20240913T234404Z
-DTSTART:20240913T040000Z
-DTEND:20240913T041500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Report] G20 Compendium on Dat
- a Access and Sharing Across the Public S
- ector and with the Private Sector for Pu
- blic Interest
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/5f36b5db-end3e606
+UID:10.1787/5f36b5db-end3e496
 SUMMARY:[Book] Future-Proofing the Skills System
   in the Glasgow City Region (Scotland, U
  nited Kingdom)
@@ -109,7 +22,7 @@ DESCRIPTION:*[Book] Future-Proofing the Skills Syste
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:44, it is update
+ of this afternoon at 22:52, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -118,7 +31,7 @@ DESCRIPTION:*[Book] Future-Proofing the Skills Syste
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=5f36b5db-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T070000Z
 DTEND:20240916T071500Z
 TRANSP:TRANSPARENT
@@ -133,7 +46,7 @@ DESCRIPTION:Reminder: [Book] Future-Proofing the Ski
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/eb4ec9ac-end3e1362
+UID:10.1787/eb4ec9ac-end3e1253
 SUMMARY:[Policy paper] SME Digitalisation to man
  age shocks and transitions - 2024 OECD D
  4SME survey
@@ -152,7 +65,7 @@ DESCRIPTION:*[Policy paper] SME Digitalisation to ma
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:44, 
+  correct as of this afternoon at 22:52, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -161,7 +74,7 @@ DESCRIPTION:*[Policy paper] SME Digitalisation to ma
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=eb4ec9ac-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T070000Z
 DTEND:20240916T071500Z
 TRANSP:TRANSPARENT
@@ -176,7 +89,7 @@ DESCRIPTION:Reminder: [Policy paper] SME Digitalisat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1ba69794-end3e1417
+UID:10.1787/1ba69794-end3e1308
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Albani
  a (Stage 1) - Inclusive Framework on BEP
@@ -197,7 +110,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:44, it is updated each n
+ afternoon at 22:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -206,7 +119,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=1ba6
  9794-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -222,7 +135,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/08921eb5-end3e1472
+UID:10.1787/08921eb5-end3e1363
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Egypt 
  (Stage 1) - Inclusive Framework on BEPS:
@@ -243,7 +156,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:44, it is updated each nig
+ ternoon at 22:52, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -252,7 +165,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=08921e
  b5-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -268,7 +181,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa0cbe35-end3e1527
+UID:10.1787/aa0cbe35-end3e1418
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Lithua
  nia (Stage 1) - Inclusive Framework on B
@@ -289,7 +202,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:44, it is updated each
+ s afternoon at 22:52, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -298,7 +211,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=aa
  0cbe35-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -314,7 +227,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8da2ce62-end3e1583
+UID:10.1787/8da2ce62-end3e1473
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Domini
  can Republic (Stage 1) - Inclusive Frame
@@ -335,7 +248,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:44, it is upd
+ as of this afternoon at 22:52, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -344,7 +257,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=8da2ce62-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -360,7 +273,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/29ce1684-end3e1638
+UID:10.1787/29ce1684-end3e1528
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Antigu
  a and Barbuda (Stage 1) - Inclusive Fram
@@ -381,7 +294,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:44, it is u
+ t as of this afternoon at 22:52, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -390,7 +303,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=29ce1684-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -406,7 +319,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8e481e74-end3e1693
+UID:10.1787/8e481e74-end3e1584
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Zambia
   (Stage 1) - Inclusive Framework on BEPS
@@ -427,7 +340,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:44, it is updated each ni
+ fternoon at 22:52, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -436,7 +349,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=8e481
  e74-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -452,7 +365,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/981396cc-end3e1748
+UID:10.1787/981396cc-end3e1639
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Jamaic
  a (Stage 1) - Inclusive Framework on BEP
@@ -473,7 +386,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:44, it is updated each n
+ afternoon at 22:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -482,7 +395,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=9813
  96cc-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -498,7 +411,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a97baac0-end3e1803
+UID:10.1787/a97baac0-end3e1694
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Costa 
  Rica (Stage 1) - Inclusive Framework on 
@@ -519,7 +432,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:44, it is updated eac
+ is afternoon at 22:52, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -528,7 +441,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=a
  97baac0-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -544,7 +457,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bf483409-end3e1858
+UID:10.1787/bf483409-end3e1749
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Cook I
  slands (Stage 1) - Inclusive Framework o
@@ -565,7 +478,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:44, it is updated e
+ this afternoon at 22:52, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -574,7 +487,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =bf483409-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -590,7 +503,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ad7c3811-end3e1914
+UID:10.1787/ad7c3811-end3e1804
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Botswa
  na (Stage 1) - Inclusive Framework on BE
@@ -611,7 +524,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:44, it is updated each
+ s afternoon at 22:52, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -620,7 +533,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=ad
  7c3811-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -636,7 +549,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/455a3441-end3e1969
+UID:10.1787/455a3441-end3e1859
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Belize
   (Stage 1) - Inclusive Framework on BEPS
@@ -657,7 +570,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:44, it is updated each ni
+ fternoon at 22:52, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -666,7 +579,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=455a3
  441-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -682,7 +595,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ef6ffeec-end3e2024
+UID:10.1787/ef6ffeec-end3e1915
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Seyche
  lles (Stage 1) - Inclusive Framework on 
@@ -703,7 +616,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:44, it is updated eac
+ is afternoon at 22:52, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -712,7 +625,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=e
  f6ffeec-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -728,7 +641,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f8fe671-end3e2079
+UID:10.1787/5f8fe671-end3e1970
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, North 
  Macedonia (Stage 1) - Inclusive Framewor
@@ -749,7 +662,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:44, it is update
+ of this afternoon at 22:52, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -758,7 +671,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=5f8fe671-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -774,7 +687,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f1f68a-end3e2134
+UID:10.1787/a4f1f68a-end3e2025
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Serbia
   (Stage 1) - Inclusive Framework on BEPS
@@ -795,7 +708,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:44, it is updated each ni
+ fternoon at 22:52, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -804,7 +717,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=a4f1f
  68a-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -820,7 +733,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3eecb325-end3e2189
+UID:10.1787/3eecb325-end3e2080
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Jordan
   (Stage 1) - Inclusive Framework on BEPS
@@ -841,7 +754,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:44, it is updated each ni
+ fternoon at 22:52, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -850,7 +763,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=3eecb
  325-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -866,7 +779,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2e4ba9e0-end3e2245
+UID:10.1787/2e4ba9e0-end3e2135
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Sri La
  nka (Stage 1) - Inclusive Framework on B
@@ -887,7 +800,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:44, it is updated each
+ s afternoon at 22:52, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -896,7 +809,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=2e
  4ba9e0-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -912,7 +825,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d3a8cf7e-end3e2300
+UID:10.1787/d3a8cf7e-end3e2190
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Maurit
  ius (Stage 1) - Inclusive Framework on B
@@ -933,7 +846,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 23:44, it is updated each
+ s afternoon at 22:52, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -942,7 +855,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=d3
  a8cf7e-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -958,7 +871,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f4b804-end3e2355
+UID:10.1787/a4f4b804-end3e2246
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Colomb
  ia (Stage 1) - Inclusive Framework on BE
@@ -979,7 +892,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:44, it is updated each 
+  afternoon at 22:52, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -988,7 +901,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=a4f
  4b804-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1004,7 +917,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9e56fbc7-end3e2410
+UID:10.1787/9e56fbc7-end3e2301
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Pakist
  an (Stage 1) - Inclusive Framework on BE
@@ -1025,7 +938,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:44, it is updated each 
+  afternoon at 22:52, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -1034,7 +947,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=9e5
  6fbc7-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1050,7 +963,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3d3f36f-end3e2465
+UID:10.1787/f3d3f36f-end3e2356
 SUMMARY:[Book] Country-by-Country Reporting – Co
  mpilation of 2024 Peer Review Reports - 
  Inclusive Framework on BEPS: Action 13
@@ -1070,7 +983,7 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:44, it is updated each night; therefo
+ 22:52, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -1078,7 +991,7 @@ DESCRIPTION:*[Book] Country-by-Country Reporting – C
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=f3d3f36f-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1094,7 +1007,7 @@ DESCRIPTION:Reminder: [Book] Country-by-Country Repo
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c9e066d0-end3e2520
+UID:10.1787/c9e066d0-end3e2411
 SUMMARY:[Book] Making Dispute Resolution More Ef
  fective – Simplified Peer Review, Nigeri
  a (Stage 1) - Inclusive Framework on BEP
@@ -1115,7 +1028,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 23:44, it is updated each n
+ afternoon at 22:52, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -1124,7 +1037,7 @@ DESCRIPTION:*[Book] Making Dispute Resolution More E
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=c9e0
  66d0-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1140,7 +1053,7 @@ DESCRIPTION:Reminder: [Book] Making Dispute Resoluti
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/96722cc6-frd3e2576
+UID:10.1787/96722cc6-frd3e2466
 SUMMARY:[Book] Déclaration pays par pays – Recue
  il 2024 de rapports d’examen par les pai
  rs (version abrégée) - Cadre inclusif su
@@ -1161,7 +1074,7 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:44, it is updat
+  of this afternoon at 22:52, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1170,7 +1083,7 @@ DESCRIPTION:*[Book] Déclaration pays par pays – Recu
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=96722cc6-fr.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240916T090000Z
 DTEND:20240916T091500Z
 TRANSP:TRANSPARENT
@@ -1186,7 +1099,7 @@ DESCRIPTION:Reminder: [Book] Déclaration pays par pa
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/aa285504-end3e2740
+UID:10.1787/aa285504-end3e2631
 SUMMARY:[Stand-alone monograph] Economic Implica
  tions of Data Regulation - Balancing Ope
  nness and Trust
@@ -1206,7 +1119,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Implic
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:44, it is upda
+ s of this afternoon at 22:52, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -1215,7 +1128,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Implic
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=aa285504-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240917T040000Z
 DTEND:20240917T041500Z
 TRANSP:TRANSPARENT
@@ -1230,7 +1143,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a1a22cd6-end3e2960
+UID:10.1787/a1a22cd6-end3e2850
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Colombia 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1247,7 +1160,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:44, it is updated ea
+ his afternoon at 22:52, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -1256,7 +1169,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  a1a22cd6-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240917T130000Z
 DTEND:20240917T131500Z
 TRANSP:TRANSPARENT
@@ -1270,7 +1183,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e61e16ad-esd3e3118
+UID:10.1787/e61e16ad-esd3e3009
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Colombia 2024
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -1287,7 +1200,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:44, it is u
+ t as of this afternoon at 22:52, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1296,7 +1209,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=e61e16ad-es.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240917T133000Z
 DTEND:20240917T134500Z
 TRANSP:TRANSPARENT
@@ -1310,7 +1223,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c671124e-end3e3172
+UID:10.1787/c671124e-end3e3063
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Belgium 2024
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1326,7 +1239,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:44, it is updat
+  of this afternoon at 22:52, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -1335,7 +1248,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=c671124e-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240922T220000Z
 DTEND:20240922T221500Z
 TRANSP:TRANSPARENT
@@ -1349,7 +1262,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/81e95597-end3e3277
+UID:10.1787/81e95597-end3e3167
 SUMMARY:[Stand-alone monograph] Strengthening Fi
  nancial Literacy in Germany - Proposal f
  or a National Financial Literacy Strateg
@@ -1369,7 +1282,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening F
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:44, 
+  correct as of this afternoon at 22:52, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -1378,7 +1291,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening F
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=81e95597-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240924T090000Z
 DTEND:20240924T091500Z
 TRANSP:TRANSPARENT
@@ -1394,7 +1307,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Streng
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cbc2afd5-end3e4077
+UID:10.1787/cbc2afd5-end3e3968
 SUMMARY:[Book] Second Progress Review of Latvia’
  s Public Utilities Commission - Driving 
  Performance
@@ -1413,7 +1326,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:44, it is updated each night;
+ noon at 22:52, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1422,7 +1335,7 @@ DESCRIPTION:*[Book] Second Progress Review of Latvia
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=cbc2afd5-
  en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240925T060000Z
 DTEND:20240925T061500Z
 TRANSP:TRANSPARENT
@@ -1437,7 +1350,7 @@ DESCRIPTION:Reminder: [Book] Second Progress Review
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1517c196-end3e4293
+UID:10.1787/1517c196-end3e4184
 SUMMARY:[Issue] OECD Economic Outlook, Interim R
  eport September 2024
 DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
@@ -1453,7 +1366,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:44, it is updated each nigh
+ ernoon at 22:52, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1462,7 +1375,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=1517c19
  6-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240925T090000Z
 DTEND:20240925T091500Z
 TRANSP:TRANSPARENT
@@ -1476,7 +1389,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c3686f5e-end3e4451
+UID:10.1787/c3686f5e-end3e4342
 SUMMARY:[Book] Tax Policy Reforms 2024 - OECD an
  d Selected Partner Economies
 DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
@@ -1493,7 +1406,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 23:44, it is updated each night; th
+ n at 22:52, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1501,7 +1414,7 @@ DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=c3686f5e-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20240930T090000Z
 DTEND:20240930T091500Z
 TRANSP:TRANSPARENT
@@ -1515,7 +1428,7 @@ DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2024
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4d71faad-end3e4719
+UID:10.1787/4d71faad-end3e4610
 SUMMARY:[Stand-alone monograph] Strategic Review
   of the Egyptian Goodwill Committee - Ad
  vancing Child-friendly Justice in Egypt
@@ -1534,7 +1447,7 @@ DESCRIPTION:*[Stand-alone monograph] Strategic Revie
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:44, it is u
+ t as of this afternoon at 22:52, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1543,7 +1456,7 @@ DESCRIPTION:*[Stand-alone monograph] Strategic Revie
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=4d71faad-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20241002T050000Z
 DTEND:20241002T051500Z
 TRANSP:TRANSPARENT
@@ -1559,7 +1472,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Strate
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/76400890-end3e4826
+UID:10.1787/76400890-end3e4716
 SUMMARY:[Stand-alone monograph] Policy Scenarios
   for Eliminating Plastic Pollution by 20
  40
@@ -1577,7 +1490,7 @@ DESCRIPTION:*[Stand-alone monograph] Policy Scenario
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:44, it is updated 
+  this afternoon at 22:52, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -1586,7 +1499,7 @@ DESCRIPTION:*[Stand-alone monograph] Policy Scenario
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=76400890-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20241002T090000Z
 DTEND:20241002T091500Z
 TRANSP:TRANSPARENT
@@ -1601,7 +1514,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b0353e-end3e4930
+UID:10.1787/50b0353e-end3e4821
 SUMMARY:[Book] International Migration Outlook 2
  024
 DESCRIPTION:*[Book] International Migration Outlook 
@@ -1617,7 +1530,7 @@ DESCRIPTION:*[Book] International Migration Outlook
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:44, it
+ orrect as of this afternoon at 22:52, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1626,7 +1539,7 @@ DESCRIPTION:*[Book] International Migration Outlook
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=50b0353e-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20241021T090000Z
 DTEND:20241021T091500Z
 TRANSP:TRANSPARENT
@@ -1640,7 +1553,7 @@ DESCRIPTION:Reminder: [Book] International Migration
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/080cd662-end3e5034
+UID:10.1787/080cd662-end3e4925
 SUMMARY:[Stand-alone monograph] Tobacco Taxation
   in Latin America and the Caribbean - A 
  Call for Tobacco Tax Reform
@@ -1659,7 +1572,7 @@ DESCRIPTION:*[Stand-alone monograph] Tobacco Taxatio
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:44, it is updated
+ f this afternoon at 22:52, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -1668,7 +1581,7 @@ DESCRIPTION:*[Stand-alone monograph] Tobacco Taxatio
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=080cd662-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20241028T200000Z
 DTEND:20241028T201500Z
 TRANSP:TRANSPARENT
@@ -1683,7 +1596,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Tobacc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/90ba854a-end3e5141
+UID:10.1787/90ba854a-end3e5031
 SUMMARY:[Book] How's Life? 2024 - Well-being and
   Resilience in Times of Crisis
 DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
@@ -1700,8 +1613,8 @@ DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
  information see: https://oecd.github.io/
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
-  was correct as of this afternoon at 23:
- 44, it is updated each night; therefore 
+  was correct as of this afternoon at 22:
+ 52, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -1709,7 +1622,7 @@ DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=90ba854a-en.
-DTSTAMP:20240913T234404Z
+DTSTAMP:20240915T225220Z
 DTSTART:20241105T100000Z
 DTEND:20241105T101500Z
 TRANSP:TRANSPARENT

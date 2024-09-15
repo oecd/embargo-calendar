@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 September 2024 at 23:44* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Synthesis report on understanding Perfluoropolyethers (PFPEs) and their life cycle](https://doi.org/10.1787/99ee2d3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 28 August 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [G20 Compendium on Data Access and Sharing Across the Public Sector and with the Private Sector for Public Interest](https://doi.org/10.1787/df1031a4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 September 2024 at 4:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 15 September 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Future-Proofing the Skills System in the Glasgow City Region (Scotland, United Kingdom)](https://doi.org/10.1787/5f36b5db-en)
 
