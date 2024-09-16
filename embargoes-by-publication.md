@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 September 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 September 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Future-Proofing the Skills System in the Glasgow City Region (Scotland, United Kingdom)](https://doi.org/10.1787/5f36b5db-en)
 
@@ -13,7 +13,7 @@ Monday 16 September 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -59,7 +59,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -128,7 +128,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -220,7 +220,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -243,7 +243,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -266,7 +266,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -289,7 +289,7 @@ Monday 16 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -556,26 +556,72 @@ Monday 16 September 2024 at 9:00 | no launch event
 
 ------
 
-## [Economic Implications of Data Regulation - Balancing Openness and Trust](https://doi.org/10.1787/aa285504-en)
+## [The economics of diagnostic safety - Setting the scene](https://doi.org/10.1787/bb24ea76-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 17 September 2024 at 4:00 | no launch event
+Tuesday 17 September 2024 at 6:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [How do governments direct support for innovation? - Lessons from recent OECD measurement and impact analysis (MABIS) work](https://doi.org/10.1787/c1d93d1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Best Available Techniques (BAT) for Preventing and Controlling Industrial Pollution - Activity 7: Cross Country Analysis of selected BREFs for Iron-Steel, Paper-Pulp and Waste incineration sectors](https://doi.org/10.1787/eff85baf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 September 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -642,6 +688,29 @@ Sunday 22 September 2024 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l'OCDE : Belgique 2024](https://doi.org/10.1787/213e7688-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
@@ -726,7 +795,7 @@ Monday 30 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -734,9 +803,9 @@ Monday 30 September 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -805,6 +874,29 @@ Monday 21 October 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Tributación del tabaco en América Latina y el Caribe - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 20:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
