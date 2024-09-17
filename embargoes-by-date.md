@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 16 September 2024 at 22:54* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 17 September 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [16 September 2024](#16-september-2024)
 * [17 September 2024](#17-september-2024)
+* [18 September 2024](#18-september-2024)
 * [22 September 2024](#22-september-2024)
 * [23 September 2024](#23-september-2024)
 * [24 September 2024](#24-september-2024)
@@ -654,7 +655,7 @@ Tuesday 17 September 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
+- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -672,12 +673,12 @@ Tuesday 17 September 2024 at 13:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 17 September 2024 at 13:30 | no launch event
+Tuesday 17 September 2024 at 13:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 13 September 2024 at 22:33
+- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -688,6 +689,33 @@ Tuesday 17 September 2024 at 13:30 | no launch event
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 18 September 2024
+
+## [VITARA Reference Guide: Human Resource Management](https://doi.org/10.1787/6ef70142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 18 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -757,7 +785,7 @@ Tuesday 24 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -853,7 +881,7 @@ Monday 30 September 2024 at 9:00 | no launch event
 
 # 2 October 2024
 
-## [Strategic Review of the Egyptian Goodwill Committee - Advancing Child-friendly Justice in Egypt](https://doi.org/10.1787/4d71faad-en)
+## [Strategic Review of the Egyptian Goodwill Committee - Advancing child-friendly justice in Egypt](https://doi.org/10.1787/4d71faad-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -920,6 +948,29 @@ Monday 21 October 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2024](https://doi.org/10.1787/4fa9de98-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
