@@ -2,576 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 17 September 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 18 September 2024 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [16 September 2024](#16-september-2024)
 * [17 September 2024](#17-september-2024)
 * [18 September 2024](#18-september-2024)
 * [22 September 2024](#22-september-2024)
 * [23 September 2024](#23-september-2024)
 * [24 September 2024](#24-september-2024)
 * [25 September 2024](#25-september-2024)
+* [27 September 2024](#27-september-2024)
 * [30 September 2024](#30-september-2024)
 * [2 October 2024](#2-october-2024)
 * [21 October 2024](#21-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
-
-------
-
-# 16 September 2024
-
-## [Future-Proofing the Skills System in the Glasgow City Region (Scotland, United Kingdom)](https://doi.org/10.1787/5f36b5db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [SME Digitalisation to manage shocks and transitions - 2024 OECD D4SME survey](https://doi.org/10.1787/eb4ec9ac-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Albania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/1ba69794-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Egypt (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/08921eb5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Lithuania (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/aa0cbe35-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Dominican Republic (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8da2ce62-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Antigua and Barbuda (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/29ce1684-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Zambia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/8e481e74-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Jamaica (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/981396cc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Costa Rica (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a97baac0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Cook Islands (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/bf483409-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Botswana (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ad7c3811-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Belize (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/455a3441-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Seychelles (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ef6ffeec-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, North Macedonia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/5f8fe671-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Serbia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f1f68a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Jordan (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/3eecb325-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Sri Lanka (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/2e4ba9e0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Mauritius (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/d3a8cf7e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Colombia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/a4f4b804-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Pakistan (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/9e56fbc7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Country-by-Country Reporting – Compilation of 2024 Peer Review Reports - Inclusive Framework on BEPS: Action 13](https://doi.org/10.1787/f3d3f36f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Nigeria (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c9e066d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 12 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Déclaration pays par pays – Recueil 2024 de rapports d’examen par les pairs (version abrégée) - Cadre inclusif sur le BEPS : Action 13](https://doi.org/10.1787/96722cc6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 16 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 11 September 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -827,7 +271,30 @@ Wednesday 25 September 2024 at 6:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Interim Report September 2024](https://doi.org/10.1787/1517c196-en)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, Septembre 2024](https://doi.org/10.1787/f3e84c18-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report September 2024 - Turning the Corner](https://doi.org/10.1787/1517c196-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -846,6 +313,56 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2024](https://doi.org/10.1787/a20ac806-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 25 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+------
+
+# 27 September 2024
+
+## [Workshop report on implementing lessons learned from chemical accidents and process safety risks from energy transition technologies](https://doi.org/10.1787/b917d592-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 September 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
