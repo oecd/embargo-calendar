@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 September 2024 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 19 September 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 September 2024](#17-september-2024)
 * [18 September 2024](#18-september-2024)
 * [22 September 2024](#22-september-2024)
 * [23 September 2024](#23-september-2024)
@@ -16,125 +15,6 @@ Data generated on | |
 * [21 October 2024](#21-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
-
-------
-
-# 17 September 2024
-
-## [The economics of diagnostic safety - Setting the scene](https://doi.org/10.1787/bb24ea76-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [How do governments direct support for innovation? - Lessons from recent OECD measurement and impact analysis (MABIS) work](https://doi.org/10.1787/c1d93d1c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [Best Available Techniques (BAT) for Preventing and Controlling Industrial Pollution - Activity 7: Cross Country Analysis of selected BREFs for Iron-Steel, Paper-Pulp and Waste incineration sectors](https://doi.org/10.1787/eff85baf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Colombia 2024](https://doi.org/10.1787/a1a22cd6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Estudios Económicos de la OCDE: Colombia 2024](https://doi.org/10.1787/e61e16ad-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 17 September 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
@@ -175,7 +55,7 @@ Sunday 22 September 2024 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -202,7 +82,7 @@ Monday 23 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -220,6 +100,29 @@ Monday 23 September 2024 at 9:00 | no launch event
 ------
 
 # 24 September 2024
+
+## [The geography of green innovation hubs in OECD regions](https://doi.org/10.1787/c48ad2b1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 September 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
 
 ## [Strengthening Financial Literacy in Germany - Proposal for a National Financial Literacy Strategy](https://doi.org/10.1787/81e95597-en)
 
@@ -353,7 +256,7 @@ Friday 27 September 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 19 September 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
