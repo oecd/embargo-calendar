@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 September 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [VITARA Reference Guide: Human Resource Management](https://doi.org/10.1787/6ef70142-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 18 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 17 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 20 September 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
 
@@ -36,7 +13,7 @@ Sunday 22 September 2024 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -44,7 +21,7 @@ Sunday 22 September 2024 at 22:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -59,7 +36,7 @@ Monday 23 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -67,7 +44,7 @@ Monday 23 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -96,6 +73,29 @@ Tuesday 24 September 2024 at 6:00 | no launch event
 
 ------
 
+## [Finanzkompetenz in Deutschland stärken - Vorschlag für eine nationale Finanzbildungsstrategie](https://doi.org/10.1787/77d40624-de)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 24 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *German*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
+
+------
+
 ## [Strengthening Financial Literacy in Germany - Proposal for a National Financial Literacy Strategy](https://doi.org/10.1787/81e95597-en)
 
 Embargo date | Launch date
@@ -105,7 +105,7 @@ Tuesday 24 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,9 +113,9 @@ Tuesday 24 September 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -142,7 +142,7 @@ Wednesday 25 September 2024 at 6:00 | no launch event
 
 ------
 
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, Septembre 2024](https://doi.org/10.1787/f3e84c18-fr)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, Septembre 2024 - L’économie mondiale à un tournant](https://doi.org/10.1787/f3e84c18-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -188,7 +188,7 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 ------
 
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2024](https://doi.org/10.1787/a20ac806-it)
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2024 - L'economia mondiale è a un punto di svolta](https://doi.org/10.1787/a20ac806-it)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -265,7 +265,7 @@ Wednesday 2 October 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
