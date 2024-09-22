@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 20 September 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 22 September 2024 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
 
