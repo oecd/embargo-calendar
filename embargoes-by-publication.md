@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 September 2024 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 22 September 2024 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Monday 23 September 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Belgique 2024](https://doi.org/10.1787/213e7688-fr)
 
@@ -36,7 +13,7 @@ Monday 23 September 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
+- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -44,6 +21,29 @@ Monday 23 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 23 September 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
@@ -58,8 +58,8 @@ Tuesday 24 September 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -67,7 +67,7 @@ Tuesday 24 September 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Working paper*
 * Format: *PDF*
 
@@ -414,6 +414,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------

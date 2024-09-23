@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-09-22T22:50:39.6655539+02:00">
+<report name="official-embargoes" generated="2024-09-23T22:54:39.7759712+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -26,26 +26,6 @@
     <cell name="title">OECD Economic Surveys: Belgium 2024 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-09-23</cell>
-    <cell name="embargo date">2024-09-22T22:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-09-20T20:31:02Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/390f71a5</cell>
-  </row>
-  <row index="2">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/c671124e-en</cell>
-    <cell name="title">OECD Economic Surveys: Belgium 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-09-23</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/193dcb66</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/213e7688-fr</cell>
     <cell name="title">Études économiques de l'OCDE : Belgique 2024 (fr)</cell>
@@ -71,7 +51,7 @@
     <cell name="date of publication">2024-09-23</cell>
     <cell name="embargo date">2024-09-23T09:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-09-20T20:31:02Z</cell>
+    <cell name="ilibrary last export date">2024-09-23T20:29:17Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -79,6 +59,26 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84315113</cell>
+  </row>
+  <row index="3">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/c671124e-en</cell>
+    <cell name="title">OECD Economic Surveys: Belgium 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-09-23</cell>
+    <cell name="embargo date">2024-09-23T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-09-23T20:29:17Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/390f71a5</cell>
   </row>
   <row index="4">
     <cell name="directorate">Economics Department</cell>
@@ -107,17 +107,17 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-09-24</cell>
     <cell name="embargo date">2024-09-24T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-09-23T20:29:17Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Working paper</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7edef438</cell>
   </row>
   <row index="6">
@@ -1659,5 +1659,45 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8313d37e</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/3adf705b-en</cell>
+    <cell name="title">OECD Digital Economy Outlook 2024 (Volume 2) (en)</cell>
+    <cell name="subtitle">Strengthening Connectivity, Innovation and Trust (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-11-18T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fee438cb</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/3adf705b-en</cell>
+    <cell name="title">OECD Digital Economy Outlook 2024 (Volume 2) (en)</cell>
+    <cell name="subtitle">Strengthening Connectivity, Innovation and Trust (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2024-11-18T05:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a8654da</cell>
   </row>
 </report>
