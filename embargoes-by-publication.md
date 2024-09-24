@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 23 September 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 24 September 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Études économiques de l'OCDE : Belgique 2024](https://doi.org/10.1787/213e7688-fr)
 
@@ -59,7 +59,7 @@ Tuesday 24 September 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -150,8 +150,8 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -159,9 +159,9 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -173,8 +173,8 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -182,9 +182,9 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -196,8 +196,8 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,9 +205,9 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -234,6 +234,29 @@ Friday 27 September 2024 at 6:00 | no launch event
 
 ------
 
+## [Pokyny OECD Pro Náležitou Péči Na Podporu Odpovědného Obchodního Chování](https://doi.org/10.1787/6720a06d-cs)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 September 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Czech*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Tax Policy Reforms 2024 - OECD and Selected Partner Economies](https://doi.org/10.1787/c3686f5e-en)
 
 Embargo date | Launch date
@@ -254,6 +277,29 @@ Monday 30 September 2024 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Defining the geographical level of competition - A taxonomy of industries](https://doi.org/10.1787/273475aa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 September 2024 at 18:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -346,6 +392,29 @@ Monday 21 October 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Understanding Sustainability Initiatives - A Typology Framework](https://doi.org/10.1787/8f8a3d7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 October 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
