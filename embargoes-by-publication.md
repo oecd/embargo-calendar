@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 24 September 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Études économiques de l'OCDE : Belgique 2024](https://doi.org/10.1787/213e7688-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Economic Surveys: Belgium 2024](https://doi.org/10.1787/c671124e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 23 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 23 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Wednesday 25 September 2024 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The geography of green innovation hubs in OECD regions](https://doi.org/10.1787/c48ad2b1-en)
 
@@ -128,7 +82,7 @@ Wednesday 25 September 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,7 +90,7 @@ Wednesday 25 September 2024 at 6:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -207,7 +161,53 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 * Language: *Italian*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
+
+------
+
+## [Mapping financial and technical assistance for industry decarbonisation in emerging markets and developing economies - Taking stock of trends for hard-to-abate sectors](https://doi.org/10.1787/7ecda2b7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 26 September 2024 at 20:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Teenage career uncertainty - Why it matters and how to reduce it?](https://doi.org/10.1787/e89c3da9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 27 September 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -280,29 +280,6 @@ Monday 30 September 2024 at 9:00 | no launch event
 
 ------
 
-## [Defining the geographical level of competition - A taxonomy of industries](https://doi.org/10.1787/273475aa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 September 2024 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
 ## [Strategic Review of the Egyptian Goodwill Committee - Advancing child-friendly justice in Egypt](https://doi.org/10.1787/4d71faad-en)
 
 Embargo date | Launch date
@@ -312,7 +289,7 @@ Wednesday 2 October 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -320,9 +297,9 @@ Wednesday 2 October 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -343,6 +320,29 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Scénarios d’action pour l’élimination de la pollution plastique à l’horizon 2040](https://doi.org/10.1787/3d74f967-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
