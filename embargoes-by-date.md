@@ -2,92 +2,18 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 25 September 2024 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 26 September 2024 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [24 September 2024](#24-september-2024)
 * [25 September 2024](#25-september-2024)
 * [26 September 2024](#26-september-2024)
 * [27 September 2024](#27-september-2024)
 * [30 September 2024](#30-september-2024)
 * [2 October 2024](#2-october-2024)
-* [21 October 2024](#21-october-2024)
 * [23 October 2024](#23-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
+* [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
-
-------
-
-# 24 September 2024
-
-## [The geography of green innovation hubs in OECD regions](https://doi.org/10.1787/c48ad2b1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Finanzkompetenz in Deutschland stärken - Vorschlag für eine nationale Finanzbildungsstrategie](https://doi.org/10.1787/77d40624-de)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Strengthening Financial Literacy in Germany - Proposal for a National Financial Literacy Strategy](https://doi.org/10.1787/81e95597-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 24 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 20 September 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -189,7 +115,7 @@ Wednesday 25 September 2024 at 9:00 | no launch event
 
 # 26 September 2024
 
-## [Mapping financial and technical assistance for industry decarbonisation in emerging markets and developing economies - Taking stock of trends for hard-to-abate sectors](https://doi.org/10.1787/7ecda2b7-en)
+## [Mapping financial and technical assistance for industry decarbonisation in emerging markets and developing economies - Taking stock of trends in hard-to-abate sectors](https://doi.org/10.1787/7ecda2b7-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -198,7 +124,7 @@ Thursday 26 September 2024 at 20:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
+- [x] Exported to iLibrary Thursday 26 September 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -387,56 +313,6 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 ------
 
-# 21 October 2024
-
-## [International Migration Outlook 2024](https://doi.org/10.1787/50b0353e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 October 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Perspectives des migrations internationales 2024](https://doi.org/10.1787/4fa9de98-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 October 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
 # 23 October 2024
 
 ## [Understanding Sustainability Initiatives - A Typology Framework](https://doi.org/10.1787/8f8a3d7f-en)
@@ -533,6 +409,56 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 14 November 2024
+
+## [International Migration Outlook 2024](https://doi.org/10.1787/50b0353e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives des migrations internationales 2024](https://doi.org/10.1787/4fa9de98-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
