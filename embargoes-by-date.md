@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 September 2024 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 27 September 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [25 September 2024](#25-september-2024)
 * [26 September 2024](#26-september-2024)
 * [27 September 2024](#27-september-2024)
 * [30 September 2024](#30-september-2024)
@@ -14,102 +13,6 @@ Data generated on | |
 * [5 November 2024](#5-november-2024)
 * [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
-
-------
-
-# 25 September 2024
-
-## [Second Progress Review of Latvia’s Public Utilities Commission - Driving Performance](https://doi.org/10.1787/cbc2afd5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, Septembre 2024 - L’économie mondiale à un tournant](https://doi.org/10.1787/f3e84c18-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report September 2024 - Turning the Corner](https://doi.org/10.1787/1517c196-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, settembre 2024 - L'economia mondiale è a un punto di svolta](https://doi.org/10.1787/a20ac806-it)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 25 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
