@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 September 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Mapping financial and technical assistance for industry decarbonisation in emerging markets and developing economies - Taking stock of trends in hard-to-abate sectors](https://doi.org/10.1787/7ecda2b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 September 2024 at 20:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Teenage career uncertainty - Why it matters and how to reduce it?](https://doi.org/10.1787/e89c3da9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Workshop report on implementing lessons learned from chemical accidents and process safety risks from energy transition technologies](https://doi.org/10.1787/b917d592-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 29 September 2024 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pokyny OECD Pro Náležitou Péči Na Podporu Odpovědného Obchodního Chování](https://doi.org/10.1787/6720a06d-cs)
 

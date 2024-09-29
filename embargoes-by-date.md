@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 27 September 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 29 September 2024 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 September 2024](#26-september-2024)
-* [27 September 2024](#27-september-2024)
 * [30 September 2024](#30-september-2024)
 * [2 October 2024](#2-october-2024)
 * [23 October 2024](#23-october-2024)
@@ -13,83 +11,6 @@ Data generated on | |
 * [5 November 2024](#5-november-2024)
 * [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
-
-------
-
-# 26 September 2024
-
-## [Mapping financial and technical assistance for industry decarbonisation in emerging markets and developing economies - Taking stock of trends in hard-to-abate sectors](https://doi.org/10.1787/7ecda2b7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 26 September 2024 at 20:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 26 September 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 27 September 2024
-
-## [Teenage career uncertainty - Why it matters and how to reduce it?](https://doi.org/10.1787/e89c3da9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Workshop report on implementing lessons learned from chemical accidents and process safety risks from energy transition technologies](https://doi.org/10.1787/b917d592-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 27 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 19 September 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
