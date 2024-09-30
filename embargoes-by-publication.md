@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 September 2024 at 22:47* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 30 September 2024 at 23:18* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Pokyny OECD Pro Náležitou Péči Na Podporu Odpovědného Obchodního Chování](https://doi.org/10.1787/6720a06d-cs)
 
@@ -13,7 +13,7 @@ Monday 30 September 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
+- [x] Exported to iLibrary Monday 30 September 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -81,7 +81,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +92,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 

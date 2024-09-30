@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 29 September 2024 at 22:47* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 30 September 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 September 2024](#30-september-2024)
 * [2 October 2024](#2-october-2024)
@@ -25,7 +25,7 @@ Monday 30 September 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 24 September 2024 at 22:34
+- [x] Exported to iLibrary Monday 30 September 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -97,7 +97,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -108,7 +108,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
