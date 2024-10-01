@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 30 September 2024 at 23:18* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 September 2024](#30-september-2024)
 * [2 October 2024](#2-october-2024)
+* [11 October 2024](#11-october-2024)
 * [23 October 2024](#23-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
@@ -98,7 +99,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 1 October 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -106,7 +107,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -120,8 +121,8 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 1 October 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -129,9 +130,59 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 11 October 2024
+
+## [Medición y control de la sostenibilidad del turismo a escala regional en España - Sistema de indicadores y guía de compilación](https://doi.org/10.1787/9f52ddd8-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Measuring and Monitoring the Sustainability of Tourism at Regional Level in Spain - Indicator Framework and Compilation Guide](https://doi.org/10.1787/7f116e7f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 11 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -147,7 +198,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -166,7 +217,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 # 28 October 2024
 
-## [Tributación del tabaco en América Latina y el Caribe - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
+## [Tributación del tabaco en América Latina y el Caribe (Versión Abreviada) - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -216,6 +267,29 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 # 5 November 2024
 
+## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF*
+
+------
+
 ## [How's Life? 2024 - Well-being and Resilience in Times of Crisis](https://doi.org/10.1787/90ba854a-en)
 
 Embargo date | Launch date
@@ -235,7 +309,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
