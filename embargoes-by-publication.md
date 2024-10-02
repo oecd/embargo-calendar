@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 October 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Pokyny OECD Pro Náležitou Péči Na Podporu Odpovědného Obchodního Chování](https://doi.org/10.1787/6720a06d-cs)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 September 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 30 September 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Czech*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Tax Policy Reforms 2024 - OECD and Selected Partner Economies](https://doi.org/10.1787/c3686f5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 30 September 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 16 September 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 2 October 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strategic Review of the Egyptian Goodwill Committee - Advancing child-friendly justice in Egypt](https://doi.org/10.1787/4d71faad-en)
 
@@ -105,7 +59,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 October 2024 at 22:28
+- [x] Exported to iLibrary Wednesday 2 October 2024 at 22:36
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -116,6 +70,29 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [An Agenda for Housing Policy Reform](https://doi.org/10.1787/ddb57031-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 October 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 2 October 2024 at 22:36
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
 
 ------
 
@@ -165,6 +142,75 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 ------
 
+## [G7 Compendium of Digital Government Services](https://doi.org/10.1787/69fbf288-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2024 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [G7 Mapping Exercise of Digital Identity Approaches](https://doi.org/10.1787/56fd4e94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [G7 Toolkit for Artificial Intelligence in the Public Sector](https://doi.org/10.1787/421c1244-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Understanding Sustainability Initiatives - A Typology Framework](https://doi.org/10.1787/8f8a3d7f-en)
 
 Embargo date | Launch date
@@ -188,7 +234,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 ------
 
-## [Tributación del tabaco en América Latina y el Caribe (Versión Abreviada) - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
+## [Tributación del tabaco en América Latina y el Caribe (versión abreviada) - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -277,6 +323,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [The Climate Action Monitor 2024](https://doi.org/10.1787/787786f6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 

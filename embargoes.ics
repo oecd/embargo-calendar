@@ -2,91 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/6720a06d-csd3e63
-SUMMARY:[Stand-alone monograph] Pokyny OECD Pro 
- Náležitou Péči Na Podporu Odpovědného Ob
- chodního Chování
-DESCRIPTION:*[Stand-alone monograph] Pokyny OECD Pro
-  Náležitou Péči Na Podporu Odpovědného O
- bchodního Chování*\n\nDirectorate: Direc
- torate for Financial and Enterprise Affa
- irs\nLanguage: Czech\nDOI: https://doi.o
- rg/10.1787/6720a06d-cs\nPublication type
- : Stand-alone monograph\nReleased as: PD
- F\n\nEmbargo date/time: Monday, 30 Septe
- mber 2024, 6:00 (GMT)\n\n\niLibrary expo
- rt: Monday, 30 September 2024, 20:35 (GM
- T)\nFreepreview export: never\nOECD.org 
- export: never\nFTI loaded: ✓\n\nFor more
-  information see: https://oecd.github.io
- /embargo-calendar/embargoes-by-publicati
- on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 22
- :59, it is updated each night; therefore
-  any subsequent updates may not yet be v
- isible here. Also, please be aware that 
- the different released media (PDF, HTML,
-  etc.) are not necessarily released at t
- he same time. For complete and up-to-dat
- e information see here: http://kappa.oec
- d.org/v3/search?term=6720a06d-cs.
-DTSTAMP:20241001T225926Z
-DTSTART:20240930T060000Z
-DTEND:20240930T061500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Pokyny
-  OECD Pro Náležitou Péči Na Podporu Odpo
- vědného Obchodního Chování
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c3686f5e-end3e611
-SUMMARY:[Book] Tax Policy Reforms 2024 - OECD an
- d Selected Partner Economies
-DESCRIPTION:*[Book] Tax Policy Reforms 2024 - OECD a
- nd Selected Partner Economies*\n\nDirect
- orate: Centre for Tax Policy and Adminis
- tration\nLanguage: English\nDOI: https:/
- /doi.org/10.1787/c3686f5e-en\nPublicatio
- n type: Book\nReleased as: ePub, HTML, P
- aperback, PDF, ZJCR, ZXML\n\nEmbargo dat
- e/time: Monday, 30 September 2024, 9:00 
- (GMT)\n\n\niLibrary export: Monday, 16 S
- eptember 2024, 20:29 (GMT)\nFreepreview 
- export: never\nOECD.org export: never\nF
- TI loaded: ✓\n\nFor more information see
- : https://oecd.github.io/embargo-calenda
- r/embargoes-by-publication.html.\n\nPlea
- se note: This information was correct as
-  of this afternoon at 22:59, it is updat
- ed each night; therefore any subsequent 
- updates may not yet be visible here. Als
- o, please be aware that the different re
- leased media (PDF, HTML, etc.) are not n
- ecessarily released at the same time. Fo
- r complete and up-to-date information se
- e here: http://kappa.oecd.org/v3/search?
- term=c3686f5e-en.
-DTSTAMP:20241001T225926Z
-DTSTART:20240930T090000Z
-DTEND:20240930T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Tax Policy Reforms 2024
-  - OECD and Selected Partner Economies
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/4d71faad-end3e1816
+UID:10.1787/4d71faad-end3e63
 SUMMARY:[Stand-alone monograph] Strategic Review
   of the Egyptian Goodwill Committee - Ad
  vancing child-friendly justice in Egypt
@@ -107,7 +23,7 @@ DESCRIPTION:*[Stand-alone monograph] Strategic Revie
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:59, it is updated each night; t
+ on at 23:03, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -116,7 +32,7 @@ DESCRIPTION:*[Stand-alone monograph] Strategic Revie
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=4d71faad-en
  .
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241002T050000Z
 DTEND:20241002T051500Z
 TRANSP:TRANSPARENT
@@ -132,7 +48,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Strate
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/76400890-end3e7940
+UID:10.1787/76400890-end3e6188
 SUMMARY:[Stand-alone monograph] Policy Scenarios
   for Eliminating Plastic Pollution by 20
  40
@@ -151,7 +67,7 @@ DESCRIPTION:*[Stand-alone monograph] Policy Scenario
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 22:59,
+ s correct as of this afternoon at 23:03,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -160,7 +76,7 @@ DESCRIPTION:*[Stand-alone monograph] Policy Scenario
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=76400890-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241002T090000Z
 DTEND:20241002T091500Z
 TRANSP:TRANSPARENT
@@ -175,7 +91,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d74f967-frd3e9745
+UID:10.1787/3d74f967-frd3e7993
 SUMMARY:[Stand-alone monograph] Scénarios d’acti
  on pour l’élimination de la pollution pl
  astique à l’horizon 2040
@@ -188,23 +104,23 @@ DESCRIPTION:*[Stand-alone monograph] Scénarios d’act
  nograph\nReleased as: ePub, HTML, Paperb
  ack, PDF, ZJCR, ZXML\n\nEmbargo date/tim
  e: Wednesday, 2 October 2024, 9:00 (GMT)
- \n\n\niLibrary export: Tuesday, 1 Octobe
- r 2024, 20:28 (GMT)\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 22:59, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=3d
- 74f967-fr.
-DTSTAMP:20241001T225926Z
+ \n\n\niLibrary export: Wednesday, 2 Octo
+ ber 2024, 20:36 (GMT)\nFreepreview expor
+ t: never\nOECD.org export: never\nFTI lo
+ aded: ✓\n\nFor more information see: htt
+ ps://oecd.github.io/embargo-calendar/emb
+ argoes-by-publication.html.\n\nPlease no
+ te: This information was correct as of t
+ his afternoon at 23:03, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ 3d74f967-fr.
+DTSTAMP:20241002T230338Z
 DTSTART:20241002T090000Z
 DTEND:20241002T091500Z
 TRANSP:TRANSPARENT
@@ -219,7 +135,46 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Scénar
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9f52ddd8-esd3e10346
+UID:10.1787/ddb57031-end3e8594
+SUMMARY:[Policy brief] An Agenda for Housing Pol
+ icy Reform
+DESCRIPTION:*[Policy brief] An Agenda for Housing Po
+ licy Reform*\n\nDirectorate: Economics D
+ epartment\nLanguage: English\nDOI: https
+ ://doi.org/10.1787/ddb57031-en\nPublicat
+ ion type: Policy brief\nReleased as: PDF
+ \n\nEmbargo date/time: Monday, 7 October
+  2024, 7:00 (GMT)\n\n\niLibrary export: 
+ Wednesday, 2 October 2024, 20:36 (GMT)\n
+ Freepreview export: never\nOECD.org expo
+ rt: never\nFTI loaded: ✓\n\nFor more inf
+ ormation see: https://oecd.github.io/emb
+ argo-calendar/embargoes-by-publication.h
+ tml.\n\nPlease note: This information wa
+ s correct as of this afternoon at 23:03,
+  it is updated each night; therefore any
+  subsequent updates may not yet be visib
+ le here. Also, please be aware that the 
+ different released media (PDF, HTML, etc
+ .) are not necessarily released at the s
+ ame time. For complete and up-to-date in
+ formation see here: http://kappa.oecd.or
+ g/v3/search?term=ddb57031-en.
+DTSTAMP:20241002T230338Z
+DTSTART:20241007T070000Z
+DTEND:20241007T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy brief] An Agenda for H
+ ousing Policy Reform
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9f52ddd8-esd3e8648
 SUMMARY:[Book] Medición y control de la sostenib
  ilidad del turismo a escala regional en 
  España - Sistema de indicadores y guía d
@@ -239,7 +194,7 @@ DESCRIPTION:*[Book] Medición y control de la sosteni
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 22:59, it 
+ rrect as of this afternoon at 23:03, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -248,7 +203,7 @@ DESCRIPTION:*[Book] Medición y control de la sosteni
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=9f52ddd8-es.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241011T060000Z
 DTEND:20241011T061500Z
 TRANSP:TRANSPARENT
@@ -264,7 +219,7 @@ DESCRIPTION:Reminder: [Book] Medición y control de l
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7f116e7f-end3e10399
+UID:10.1787/7f116e7f-end3e8701
 SUMMARY:[Book] Measuring and Monitoring the Sust
  ainability of Tourism at Regional Level 
  in Spain - Indicator Framework and Compi
@@ -284,7 +239,7 @@ DESCRIPTION:*[Book] Measuring and Monitoring the Sus
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 22:59, it i
+ rect as of this afternoon at 23:03, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -293,7 +248,7 @@ DESCRIPTION:*[Book] Measuring and Monitoring the Sus
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=7f116e7f-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241011T060000Z
 DTEND:20241011T061500Z
 TRANSP:TRANSPARENT
@@ -309,7 +264,124 @@ DESCRIPTION:Reminder: [Book] Measuring and Monitorin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8f8a3d7f-end3e10557
+UID:10.1787/69fbf288-end3e8754
+SUMMARY:[Report] G7 Compendium of Digital Govern
+ ment Services
+DESCRIPTION:*[Report] G7 Compendium of Digital Gover
+ nment Services*\n\nDirectorate: Director
+ ate for Public Governance\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/69fbf
+ 288-en\nPublication type: Report\nReleas
+ ed as: PDF\n\nEmbargo date/time: Tuesday
+ , 15 October 2024, 4:00 (GMT)\n\n\niLibr
+ ary export: never\nFreepreview export: n
+ ever\nOECD.org export: never\nFTI loaded
+ : ✗\n\nFor more information see: https:/
+ /oecd.github.io/embargo-calendar/embargo
+ es-by-publication.html.\n\nPlease note: 
+ This information was correct as of this 
+ afternoon at 23:03, it is updated each n
+ ight; therefore any subsequent updates m
+ ay not yet be visible here. Also, please
+  be aware that the different released me
+ dia (PDF, HTML, etc.) are not necessaril
+ y released at the same time. For complet
+ e and up-to-date information see here: h
+ ttp://kappa.oecd.org/v3/search?term=69fb
+ f288-en.
+DTSTAMP:20241002T230338Z
+DTSTART:20241015T040000Z
+DTEND:20241015T041500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] G7 Compendium of Digi
+ tal Government Services
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/56fd4e94-end3e8807
+SUMMARY:[Report] G7 Mapping Exercise of Digital 
+ Identity Approaches
+DESCRIPTION:*[Report] G7 Mapping Exercise of Digital
+  Identity Approaches*\n\nDirectorate: Di
+ rectorate for Public Governance\nLanguag
+ e: English\nDOI: https://doi.org/10.1787
+ /56fd4e94-en\nPublication type: Report\n
+ Released as: PDF\n\nEmbargo date/time: T
+ uesday, 15 October 2024, 6:00 (GMT)\n\n\
+ niLibrary export: never\nFreepreview exp
+ ort: never\nOECD.org export: never\nFTI 
+ loaded: ✗\n\nFor more information see: h
+ ttps://oecd.github.io/embargo-calendar/e
+ mbargoes-by-publication.html.\n\nPlease 
+ note: This information was correct as of
+  this afternoon at 23:03, it is updated 
+ each night; therefore any subsequent upd
+ ates may not yet be visible here. Also, 
+ please be aware that the different relea
+ sed media (PDF, HTML, etc.) are not nece
+ ssarily released at the same time. For c
+ omplete and up-to-date information see h
+ ere: http://kappa.oecd.org/v3/search?ter
+ m=56fd4e94-en.
+DTSTAMP:20241002T230338Z
+DTSTART:20241015T060000Z
+DTEND:20241015T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] G7 Mapping Exercise o
+ f Digital Identity Approaches
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/421c1244-end3e8859
+SUMMARY:[Report] G7 Toolkit for Artificial Intel
+ ligence in the Public Sector
+DESCRIPTION:*[Report] G7 Toolkit for Artificial Inte
+ lligence in the Public Sector*\n\nDirect
+ orate: Directorate for Public Governance
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/421c1244-en\nPublication type:
+  Report\nReleased as: PDF\n\nEmbargo dat
+ e/time: Tuesday, 15 October 2024, 6:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✗\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 23:03, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=421c1244-en.
+DTSTAMP:20241002T230338Z
+DTSTART:20241015T060000Z
+DTEND:20241015T061500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] G7 Toolkit for Artifi
+ cial Intelligence in the Public Sector
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/8f8a3d7f-end3e9015
 SUMMARY:[Stand-alone monograph] Understanding Su
  stainability Initiatives - A Typology Fr
  amework
@@ -327,7 +399,7 @@ DESCRIPTION:*[Stand-alone monograph] Understanding S
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:59, it is up
+  as of this afternoon at 23:03, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -336,7 +408,7 @@ DESCRIPTION:*[Stand-alone monograph] Understanding S
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=8f8a3d7f-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241023T220000Z
 DTEND:20241023T221500Z
 TRANSP:TRANSPARENT
@@ -351,14 +423,14 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Unders
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8c1c2fbb-esd3e10611
+UID:10.1787/8c1c2fbb-esd3e9069
 SUMMARY:[Stand-alone monograph] Tributación del 
- tabaco en América Latina y el Caribe (Ve
- rsión Abreviada) - La urgencia de una re
+ tabaco en América Latina y el Caribe (ve
+ rsión abreviada) - La urgencia de una re
  forma de los impuestos al tabaco
 DESCRIPTION:*[Stand-alone monograph] Tributación del
-  tabaco en América Latina y el Caribe (V
- ersión Abreviada) - La urgencia de una r
+  tabaco en América Latina y el Caribe (v
+ ersión abreviada) - La urgencia de una r
  eforma de los impuestos al tabaco*\n\nDi
  rectorate: Centre for Tax Policy and Adm
  inistration\nLanguage: Spanish\nDOI: htt
@@ -372,7 +444,7 @@ DESCRIPTION:*[Stand-alone monograph] Tributación del
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:59, it is up
+  as of this afternoon at 23:03, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -381,7 +453,7 @@ DESCRIPTION:*[Stand-alone monograph] Tributación del
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=8c1c2fbb-es.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241028T200000Z
 DTEND:20241028T201500Z
 TRANSP:TRANSPARENT
@@ -392,13 +464,13 @@ DURATION:PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder: [Stand-alone monograph] Tribut
  ación del tabaco en América Latina y el 
- Caribe (Versión Abreviada) - La urgencia
+ Caribe (versión abreviada) - La urgencia
   de una reforma de los impuestos al taba
  co
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/080cd662-end3e10664
+UID:10.1787/080cd662-end3e9123
 SUMMARY:[Stand-alone monograph] Tobacco Taxation
   in Latin America and the Caribbean - A 
  Call for Tobacco Tax Reform
@@ -417,7 +489,7 @@ DESCRIPTION:*[Stand-alone monograph] Tobacco Taxatio
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:59, it is updated
+ f this afternoon at 23:03, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -426,7 +498,7 @@ DESCRIPTION:*[Stand-alone monograph] Tobacco Taxatio
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=080cd662-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241028T200000Z
 DTEND:20241028T201500Z
 TRANSP:TRANSPARENT
@@ -441,7 +513,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Tobacc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc0cfa41-frd3e10877
+UID:10.1787/bc0cfa41-frd3e9335
 SUMMARY:[Book] Comment va la vie ? 2024 (version
   abrégée) - Bien-être et résilience en t
  emps de crise
@@ -460,7 +532,7 @@ DESCRIPTION:*[Book] Comment va la vie ? 2024 (versio
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:59, it is updated
+ f this afternoon at 23:03, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -469,7 +541,7 @@ DESCRIPTION:*[Book] Comment va la vie ? 2024 (versio
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=bc0cfa41-fr.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241105T100000Z
 DTEND:20241105T101500Z
 TRANSP:TRANSPARENT
@@ -484,7 +556,7 @@ DESCRIPTION:Reminder: [Book] Comment va la vie ? 202
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/90ba854a-end3e10930
+UID:10.1787/90ba854a-end3e9388
 SUMMARY:[Book] How's Life? 2024 - Well-being and
   Resilience in Times of Crisis
 DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
@@ -502,7 +574,7 @@ DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 22:59, it is updated each night
+ rnoon at 23:03, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -511,7 +583,7 @@ DESCRIPTION:*[Book] How's Life? 2024 - Well-being an
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=90ba854a
  -en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241105T100000Z
 DTEND:20241105T101500Z
 TRANSP:TRANSPARENT
@@ -525,7 +597,44 @@ DESCRIPTION:Reminder: [Book] How's Life? 2024 - Well
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/50b0353e-end3e11196
+UID:10.1787/787786f6-end3e9654
+SUMMARY:[Book] The Climate Action Monitor 2024
+DESCRIPTION:*[Book] The Climate Action Monitor 2024*
+ \n\nDirectorate: Environment Directorate
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/787786f6-en\nPublication type:
+  Book\nReleased as: PDF\n\nEmbargo date/
+ time: Thursday, 7 November 2024, 9:00 (G
+ MT)\n\n\niLibrary export: never\nFreepre
+ view export: never\nOECD.org export: nev
+ er\nFTI loaded: ✗\n\nFor more informatio
+ n see: https://oecd.github.io/embargo-ca
+ lendar/embargoes-by-publication.html.\n\
+ nPlease note: This information was corre
+ ct as of this afternoon at 23:03, it is 
+ updated each night; therefore any subseq
+ uent updates may not yet be visible here
+ . Also, please be aware that the differe
+ nt released media (PDF, HTML, etc.) are 
+ not necessarily released at the same tim
+ e. For complete and up-to-date informati
+ on see here: http://kappa.oecd.org/v3/se
+ arch?term=787786f6-en.
+DTSTAMP:20241002T230338Z
+DTSTART:20241107T090000Z
+DTEND:20241107T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] The Climate Action Moni
+ tor 2024
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/50b0353e-end3e9706
 SUMMARY:[Book] International Migration Outlook 2
  024
 DESCRIPTION:*[Book] International Migration Outlook 
@@ -541,7 +650,7 @@ DESCRIPTION:*[Book] International Migration Outlook
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 22:59
+ as correct as of this afternoon at 23:03
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -550,7 +659,7 @@ DESCRIPTION:*[Book] International Migration Outlook
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=50b0353e-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241114T100000Z
 DTEND:20241114T101500Z
 TRANSP:TRANSPARENT
@@ -564,7 +673,7 @@ DESCRIPTION:Reminder: [Book] International Migration
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4fa9de98-frd3e11248
+UID:10.1787/4fa9de98-frd3e9759
 SUMMARY:[Book] Perspectives des migrations inter
  nationales 2024
 DESCRIPTION:*[Book] Perspectives des migrations inte
@@ -581,7 +690,7 @@ DESCRIPTION:*[Book] Perspectives des migrations inte
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:59, it is updated each night; t
+ on at 23:03, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -590,7 +699,7 @@ DESCRIPTION:*[Book] Perspectives des migrations inte
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=4fa9de98-fr
  .
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241114T100000Z
 DTEND:20241114T101500Z
 TRANSP:TRANSPARENT
@@ -604,7 +713,7 @@ DESCRIPTION:Reminder: [Book] Perspectives des migrat
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3adf705b-end3e11352
+UID:10.1787/3adf705b-end3e9863
 SUMMARY:[Stand-alone monograph] OECD Digital Eco
  nomy Outlook 2024 (Volume 2) - Strengthe
  ning Connectivity, Innovation and Trust
@@ -624,7 +733,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 22:59, it is updated each night; therefo
+ 23:03, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -632,7 +741,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Digital Ec
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=3adf705b-en.
-DTSTAMP:20241001T225926Z
+DTSTAMP:20241002T230338Z
 DTSTART:20241118T050000Z
 DTEND:20241118T051500Z
 TRANSP:TRANSPARENT
