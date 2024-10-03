@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 October 2024 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 3 October 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Strategic Review of the Egyptian Goodwill Committee - Advancing child-friendly justice in Egypt](https://doi.org/10.1787/4d71faad-en)
 
@@ -59,7 +59,7 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 October 2024 at 22:36
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -70,6 +70,75 @@ Wednesday 2 October 2024 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Supporting the new generation of retail investors in France - Proposal for a financial literacy strategy for new retail investors](https://doi.org/10.1787/a28a4c52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Reviving productivity growth - A review of policies](https://doi.org/10.1787/61244acd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Global Monitoring of Policies for Decarbonising Buildings - A Multi-level Approach](https://doi.org/10.1787/d662fdcb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -92,6 +161,75 @@ Monday 7 October 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Towards effective governance of justice data](https://doi.org/10.1787/d2950e02-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Measuring and improving access to justice in court services - Learning from the United Kingdom's experience](https://doi.org/10.1787/a8226ccc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [OECD Online Dispute Resolution Framework](https://doi.org/10.1787/325e6edc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -206,6 +344,29 @@ Tuesday 15 October 2024 at 6:00 | no launch event
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Handbook on due diligence for enabling living incomes and living wages in agriculture, garment and footwear supply chains](https://doi.org/10.1787/6ff52567-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
