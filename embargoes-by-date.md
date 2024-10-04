@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 October 2024 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 5 October 2024 at 0:34* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 October 2024](#2-october-2024)
 * [7 October 2024](#7-october-2024)
 * [9 October 2024](#9-october-2024)
 * [11 October 2024](#11-october-2024)
@@ -13,81 +12,10 @@ Data generated on | |
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
 * [7 November 2024](#7-november-2024)
+* [13 November 2024](#13-november-2024)
 * [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
-
-------
-
-# 2 October 2024
-
-## [Strategic Review of the Egyptian Goodwill Committee - Advancing child-friendly justice in Egypt](https://doi.org/10.1787/4d71faad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 25 September 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Policy Scenarios for Eliminating Plastic Pollution by 2040](https://doi.org/10.1787/76400890-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 October 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 1 October 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Scénarios d’action pour l’élimination de la pollution plastique à l’horizon 2040](https://doi.org/10.1787/3d74f967-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 October 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+* [4 December 2024](#4-december-2024)
 
 ------
 
@@ -147,8 +75,8 @@ Monday 7 October 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 4 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -156,9 +84,9 @@ Monday 7 October 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -560,6 +488,33 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 ------
 
+# 13 November 2024
+
+## [PISA 2022 Results (Volume V) - Learning Strategies and Attitudes for Life](https://doi.org/10.1787/c2e44201-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 14 November 2024
 
 ## [International Migration Outlook 2024](https://doi.org/10.1787/50b0353e-en)
@@ -608,6 +563,29 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Pricing Greenhouse Gas Emissions 2024 - Gearing Up to Bring Emissions Down](https://doi.org/10.1787/b44c74e6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 18 November 2024
@@ -632,5 +610,55 @@ Monday 18 November 2024 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Health at a Glance: Europe 2024 - State of Health in the EU Cycle](https://doi.org/10.1787/b3704e14-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 4 December 2024
+
+## [OECD Economic Outlook, Volume 2024 Issue 2 - Preliminary version](https://doi.org/10.1787/d8814e8b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
