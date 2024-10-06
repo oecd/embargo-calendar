@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 5 October 2024 at 0:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 6 October 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting the new generation of retail investors in France - Proposal for a financial literacy strategy for new retail investors](https://doi.org/10.1787/a28a4c52-en)
 
