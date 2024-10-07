@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 October 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 7 October 2024 at 23:14* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Supporting the new generation of retail investors in France - Proposal for a financial literacy strategy for new retail investors](https://doi.org/10.1787/a28a4c52-en)
 
@@ -211,6 +211,52 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 ------
 
+## [Examens de l'OCDE sur la coopération pour le développement : Slovénie 2024](https://doi.org/10.1787/6b161dcd-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: Slovenia 2024](https://doi.org/10.1787/79368eab-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [G7 Compendium of Digital Government Services](https://doi.org/10.1787/69fbf288-en)
 
 Embargo date | Launch date
@@ -298,6 +344,52 @@ Tuesday 15 October 2024 at 22:00 | no launch event
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Fiscalité et développement à l’OCDE - Rétrospective de la période 2009-2024](https://doi.org/10.1787/c92a1248-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Fiscalidad y Desarrollo en la OCDE - Una mirada retrospectiva 2009-2024](https://doi.org/10.1787/785a1b4a-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *Spanish*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
