@@ -2,10 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 October 2024 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 8 October 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [7 October 2024](#7-october-2024)
 * [9 October 2024](#9-october-2024)
+* [10 October 2024](#10-october-2024)
 * [11 October 2024](#11-october-2024)
 * [14 October 2024](#14-october-2024)
 * [15 October 2024](#15-october-2024)
@@ -184,6 +185,79 @@ Wednesday 9 October 2024 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Glossary of Key Terms in Evaluation and Results-Based Management for Sustainable Development (Second Edition) (en) || 实现可持续发展：评估和 基于结果的管理关键术语表 ( 第二版 )](https://doi.org/10.1787/74f41029-en-zh)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English || Chinese*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 October 2024
+
+## [Greenhouse gas emissions mapping methodology for climate change mitigation and mitigation-relevant policy - A methodological note to support GHG mapping for the IFCMA country pilot studies](https://doi.org/10.1787/373b72d3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Fiscal and economic consequences of a net-zero transition in Spain](https://doi.org/10.1787/b9136a37-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -434,6 +508,29 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 
 ------
 
+## [Harnessing the green and digital transitions for gender equality - Policy insights from the 2024 OECD Forum on Gender Equality](https://doi.org/10.1787/860d0901-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 October 2024 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 23 October 2024
@@ -447,7 +544,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -455,7 +552,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
