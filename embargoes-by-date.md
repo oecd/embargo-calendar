@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 October 2024 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 9 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 October 2024](#7-october-2024)
 * [9 October 2024](#9-october-2024)
 * [10 October 2024](#10-october-2024)
 * [11 October 2024](#11-october-2024)
@@ -14,107 +13,12 @@ Data generated on | |
 * [23 October 2024](#23-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
+* [6 November 2024](#6-november-2024)
 * [7 November 2024](#7-november-2024)
 * [13 November 2024](#13-november-2024)
 * [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
 * [4 December 2024](#4-december-2024)
-
-------
-
-# 7 October 2024
-
-## [Supporting the new generation of retail investors in France - Proposal for a financial literacy strategy for new retail investors](https://doi.org/10.1787/a28a4c52-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Reviving productivity growth - A review of policies](https://doi.org/10.1787/61244acd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Global Monitoring of Policies for Decarbonising Buildings - A Multi-level Approach](https://doi.org/10.1787/d662fdcb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 4 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [An Agenda for Housing Policy Reform](https://doi.org/10.1787/ddb57031-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 October 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 2 October 2024 at 22:36
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -225,7 +129,7 @@ Thursday 10 October 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -233,6 +137,29 @@ Thursday 10 October 2024 at 5:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Méthodologie de cartographie des émissions de gaz à effet de serre à l’aide d’instruments d’atténuation du changement climatique et d’instruments influant sur cette atténuation - Note méthodologique](https://doi.org/10.1787/7557281d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
@@ -274,8 +201,8 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -283,9 +210,9 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -297,8 +224,8 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -306,9 +233,9 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -462,6 +389,52 @@ Tuesday 15 October 2024 at 22:00 | no launch event
 
 # 16 October 2024
 
+## [Harnessing the green and digital transitions for gender equality - Policy insights from the 2024 OECD Forum on Gender Equality](https://doi.org/10.1787/860d0901-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Mettre les transitions verte et numérique au service de l’égalité des genres - Perspectives du Forum OCDE 2024 sur l’égalité des genres](https://doi.org/10.1787/e50c1715-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 16 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Fiscalité et développement à l’OCDE - Rétrospective de la période 2009-2024](https://doi.org/10.1787/c92a1248-fr)
 
 Embargo date | Launch date
@@ -504,29 +477,6 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Harnessing the green and digital transitions for gender equality - Policy insights from the 2024 OECD Forum on Gender Equality](https://doi.org/10.1787/860d0901-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 October 2024 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -655,6 +605,33 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+------
+
+# 6 November 2024
+
+## [Agricultural Policy Monitoring and Evaluation 2024 - Innovation for Sustainable Productivity Growth](https://doi.org/10.1787/74da57ed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 November 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
