@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 October 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 October 2024](#9-october-2024)
 * [10 October 2024](#10-october-2024)
@@ -293,11 +293,11 @@ Monday 14 October 2024 at 6:00 | no launch event
 
 # 15 October 2024
 
-## [G7 Compendium of Digital Government Services](https://doi.org/10.1787/69fbf288-en)
+## [G7 Mapping Exercise of Digital Identity Approaches](https://doi.org/10.1787/56fd4e94-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 15 October 2024 at 4:00 | no launch event
+Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
@@ -316,11 +316,11 @@ Tuesday 15 October 2024 at 4:00 | no launch event
 
 ------
 
-## [G7 Mapping Exercise of Digital Identity Approaches](https://doi.org/10.1787/56fd4e94-en)
+## [G7 Compendium of Digital Government Services](https://doi.org/10.1787/69fbf288-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 15 October 2024 at 6:00 | no launch event
+Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
@@ -343,7 +343,7 @@ Tuesday 15 October 2024 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 15 October 2024 at 6:00 | no launch event
+Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
