@@ -2,101 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 October 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 11 October 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Towards effective governance of justice data](https://doi.org/10.1787/d2950e02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Measuring and improving access to justice in court services - Learning from the United Kingdom's experience](https://doi.org/10.1787/a8226ccc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [OECD Online Dispute Resolution Framework](https://doi.org/10.1787/325e6edc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Glossary of Key Terms in Evaluation and Results-Based Management for Sustainable Development (Second Edition) (en) || 实现可持续发展：评估和 基于结果的管理关键术语表 ( 第二版 )](https://doi.org/10.1787/74f41029-en-zh)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English || Chinese*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Greenhouse gas emissions mapping methodology for climate change mitigation and mitigation-relevant policy - A methodological note to support GHG mapping for the IFCMA country pilot studies](https://doi.org/10.1787/373b72d3-en)
+## [Greenhouse gas emissions mapping methodology for climate change mitigation and mitigation-relevant policy instruments - A methodological note to support GHG mapping for the IFCMA country pilot studies](https://doi.org/10.1787/373b72d3-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -105,7 +13,7 @@ Thursday 10 October 2024 at 5:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
+- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -211,6 +119,29 @@ Friday 11 October 2024 at 6:00 | no launch event
 
 ------
 
+## [Cities turning crisis into change - Post-pandemic pathways to resilience in complex times](https://doi.org/10.1787/05c005d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Examens de l'OCDE sur la coopération pour le développement : Slovénie 2024](https://doi.org/10.1787/6b161dcd-fr)
 
 Embargo date | Launch date
@@ -254,6 +185,29 @@ Monday 14 October 2024 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Stocktaking and greenhouse gas mapping of transport policy instruments](https://doi.org/10.1787/247a5d21-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
