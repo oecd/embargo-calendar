@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 11 October 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 13 October 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 October 2024](#10-october-2024)
-* [11 October 2024](#11-october-2024)
 * [14 October 2024](#14-october-2024)
 * [15 October 2024](#15-october-2024)
 * [16 October 2024](#16-october-2024)
@@ -18,129 +16,6 @@ Data generated on | |
 * [14 November 2024](#14-november-2024)
 * [18 November 2024](#18-november-2024)
 * [4 December 2024](#4-december-2024)
-
-------
-
-# 10 October 2024
-
-## [Greenhouse gas emissions mapping methodology for climate change mitigation and mitigation-relevant policy instruments - A methodological note to support GHG mapping for the IFCMA country pilot studies](https://doi.org/10.1787/373b72d3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Méthodologie de cartographie des émissions de gaz à effet de serre à l’aide d’instruments d’atténuation du changement climatique et d’instruments influant sur cette atténuation - Note méthodologique](https://doi.org/10.1787/7557281d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Fiscal and economic consequences of a net-zero transition in Spain](https://doi.org/10.1787/b9136a37-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 10 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 11 October 2024
-
-## [Medición y control de la sostenibilidad del turismo a escala regional en España - Sistema de indicadores y guía de compilación](https://doi.org/10.1787/9f52ddd8-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Measuring and Monitoring the Sustainability of Tourism at Regional Level in Spain - Indicator Framework and Compilation Guide](https://doi.org/10.1787/7f116e7f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 11 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
