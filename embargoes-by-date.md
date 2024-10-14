@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 October 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 October 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 October 2024](#14-october-2024)
 * [15 October 2024](#15-october-2024)
@@ -125,8 +125,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -134,7 +134,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -148,8 +148,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -157,7 +157,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -171,8 +171,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -180,7 +180,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -195,7 +195,7 @@ Tuesday 15 October 2024 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 

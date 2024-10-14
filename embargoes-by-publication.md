@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 October 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 14 October 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cities turning crisis into change - Post-pandemic pathways to resilience in complex times](https://doi.org/10.1787/05c005d5-en)
 
@@ -104,8 +104,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -113,7 +113,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -127,8 +127,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -136,7 +136,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -150,8 +150,8 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -159,7 +159,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -174,7 +174,7 @@ Tuesday 15 October 2024 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 3 October 2024 at 22:30
+- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
