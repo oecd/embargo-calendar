@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 October 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 15 October 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cities turning crisis into change - Post-pandemic pathways to resilience in complex times](https://doi.org/10.1787/05c005d5-en)
 
@@ -151,7 +151,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 15 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -274,6 +274,29 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Italy](https://doi.org/10.1787/5841d4d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*

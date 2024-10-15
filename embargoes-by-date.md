@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 14 October 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 15 October 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 October 2024](#14-october-2024)
 * [15 October 2024](#15-october-2024)
 * [16 October 2024](#16-october-2024)
+* [17 October 2024](#17-october-2024)
 * [23 October 2024](#23-october-2024)
 * [28 October 2024](#28-october-2024)
 * [5 November 2024](#5-november-2024)
@@ -172,7 +173,7 @@ Tuesday 15 October 2024 at 10:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 15 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -299,6 +300,33 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 17 October 2024
+
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Italy](https://doi.org/10.1787/5841d4d2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 17 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*

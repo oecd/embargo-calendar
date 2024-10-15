@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-10-14T22:57:17.4108352+02:00">
+<report name="official-embargoes" generated="2024-10-15T22:58:39.3206353+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -195,7 +195,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7841aea</cell>
@@ -275,7 +275,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ef2340c</cell>
@@ -435,7 +435,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/405ea686</cell>
@@ -475,7 +475,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b1b57c42</cell>
@@ -495,7 +495,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc94de88</cell>
@@ -755,7 +755,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fbfd77c</cell>
@@ -1175,7 +1175,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ac394b36</cell>
@@ -1235,7 +1235,7 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-10-14T21:08:34Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99a8b320</cell>
@@ -1471,7 +1471,7 @@
     <cell name="date of publication">2024-10-15</cell>
     <cell name="embargo date">2024-10-15T10:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-10-14T20:30:31Z</cell>
+    <cell name="ilibrary last export date">2024-10-15T20:33:01Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1581,6 +1581,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70b0f1c0</cell>
   </row>
   <row index="79">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/5841d4d2-en</cell>
+    <cell name="title">Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Italy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-10-17</cell>
+    <cell name="embargo date">2024-10-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb98a725</cell>
+  </row>
+  <row index="80">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/50b0353e-en</cell>
     <cell name="title">International Migration Outlook 2024 (en)</cell>
@@ -1600,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/444ea20c</cell>
   </row>
-  <row index="80">
+  <row index="81">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4fa9de98-fr</cell>
     <cell name="title">Perspectives des migrations internationales 2024 (fr)</cell>
@@ -1620,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3bba0600</cell>
   </row>
-  <row index="81">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8f8a3d7f-en</cell>
     <cell name="title">Understanding Sustainability Initiatives (en)</cell>
@@ -1640,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c81d8a22</cell>
   </row>
-  <row index="82">
+  <row index="83">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c1c2fbb-es</cell>
     <cell name="title">Tributación del tabaco en América Latina y el Caribe (versión abreviada) (es)</cell>
@@ -1660,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46d3cff1</cell>
   </row>
-  <row index="83">
+  <row index="84">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/080cd662-en</cell>
     <cell name="title">Tobacco Taxation in Latin America and the Caribbean (en)</cell>
@@ -1680,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a740ddf3</cell>
   </row>
-  <row index="84">
+  <row index="85">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/080cd662-en</cell>
     <cell name="title">Tobacco Taxation in Latin America and the Caribbean (en)</cell>
@@ -1700,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecba6db7</cell>
   </row>
-  <row index="85">
+  <row index="86">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/8c1c2fbb-es</cell>
     <cell name="title">Tributación del tabaco en América Latina y el Caribe (versión abreviada) (es)</cell>
@@ -1720,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af647e05</cell>
   </row>
-  <row index="86">
+  <row index="87">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/90ba854a-en</cell>
     <cell name="title">How's Life? 2024 (en)</cell>
@@ -1740,7 +1760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/346bc579</cell>
   </row>
-  <row index="87">
+  <row index="88">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/bc0cfa41-fr</cell>
     <cell name="title">Comment va la vie ? 2024 (version abrégée) (fr)</cell>
@@ -1760,7 +1780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43d1c28a</cell>
   </row>
-  <row index="88">
+  <row index="89">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/90ba854a-en</cell>
     <cell name="title">How's Life? 2024 (en)</cell>
@@ -1780,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5dbd14e1</cell>
   </row>
-  <row index="89">
+  <row index="90">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/90ba854a-en</cell>
     <cell name="title">How's Life? 2024 (en)</cell>
@@ -1800,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8313d37e</cell>
   </row>
-  <row index="90">
+  <row index="91">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/bc0cfa41-fr</cell>
     <cell name="title">Comment va la vie ? 2024 (version abrégée) (fr)</cell>
@@ -1820,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2396800</cell>
   </row>
-  <row index="91">
+  <row index="92">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/bc0cfa41-fr</cell>
     <cell name="title">Comment va la vie ? 2024 (version abrégée) (fr)</cell>
@@ -1840,7 +1860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2667d6c</cell>
   </row>
-  <row index="92">
+  <row index="93">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/90ba854a-en</cell>
     <cell name="title">How's Life? 2024 (en)</cell>
@@ -1860,7 +1880,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f6f53ce</cell>
   </row>
-  <row index="93">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/74da57ed-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2024 (en)</cell>
@@ -1880,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9dd6dbb</cell>
   </row>
-  <row index="94">
+  <row index="95">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/74da57ed-en</cell>
     <cell name="title">Agricultural Policy Monitoring and Evaluation 2024 (en)</cell>
@@ -1900,7 +1920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/885bf006</cell>
   </row>
-  <row index="95">
+  <row index="96">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/787786f6-en</cell>
     <cell name="title">The Climate Action Monitor 2024 (en)</cell>
@@ -1920,7 +1940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/43b18ead</cell>
   </row>
-  <row index="96">
+  <row index="97">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c2e44201-en</cell>
     <cell name="title">PISA 2022 Results (Volume V) (en)</cell>
@@ -1940,7 +1960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdf5013a</cell>
   </row>
-  <row index="97">
+  <row index="98">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/c2e44201-en</cell>
     <cell name="title">PISA 2022 Results (Volume V) (en)</cell>
@@ -1960,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7abc6bc2</cell>
   </row>
-  <row index="98">
+  <row index="99">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/50b0353e-en</cell>
     <cell name="title">International Migration Outlook 2024 (en)</cell>
@@ -1980,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db25c9ae</cell>
   </row>
-  <row index="99">
+  <row index="100">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4fa9de98-fr</cell>
     <cell name="title">Perspectives des migrations internationales 2024 (fr)</cell>
@@ -2000,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd5f688f</cell>
   </row>
-  <row index="100">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b44c74e6-en</cell>
     <cell name="title">Pricing Greenhouse Gas Emissions 2024 (en)</cell>
@@ -2020,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a2ed1ff</cell>
   </row>
-  <row index="101">
+  <row index="102">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3adf705b-en</cell>
     <cell name="title">OECD Digital Economy Outlook 2024 (Volume 2) (en)</cell>
@@ -2040,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fee438cb</cell>
   </row>
-  <row index="102">
+  <row index="103">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3adf705b-en</cell>
     <cell name="title">OECD Digital Economy Outlook 2024 (Volume 2) (en)</cell>
@@ -2060,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a8654da</cell>
   </row>
-  <row index="103">
+  <row index="104">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3704e14-en</cell>
     <cell name="title">Health at a Glance: Europe 2024 (en)</cell>
@@ -2080,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b0f8660</cell>
   </row>
-  <row index="104">
+  <row index="105">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b3704e14-en</cell>
     <cell name="title">Health at a Glance: Europe 2024 (en)</cell>
@@ -2100,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/beb6a774</cell>
   </row>
-  <row index="105">
+  <row index="106">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
