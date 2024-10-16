@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 October 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Cities turning crisis into change - Post-pandemic pathways to resilience in complex times](https://doi.org/10.1787/05c005d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Slovénie 2024](https://doi.org/10.1787/6b161dcd-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Development Co-operation Peer Reviews: Slovenia 2024](https://doi.org/10.1787/79368eab-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 16 October 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Stocktaking and greenhouse gas mapping of transport policy instruments](https://doi.org/10.1787/247a5d21-en)
 
@@ -289,7 +220,7 @@ Thursday 17 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 16 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -297,9 +228,32 @@ Thursday 17 October 2024 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
+
+------
+
+## [Governing for Sustainable Prosperity in the Middle East and North Africa](https://doi.org/10.1787/d0da1d30-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 16 October 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -323,6 +277,29 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Nurturing Social and Emotional Learning Across the Globe - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/32b647d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 11:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF*
 
 ------
 
