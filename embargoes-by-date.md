@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 October 2024 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 17 October 2024 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [15 October 2024](#15-october-2024)
 * [16 October 2024](#16-october-2024)
@@ -22,98 +22,6 @@ Data generated on | |
 ------
 
 # 15 October 2024
-
-## [Stocktaking and greenhouse gas mapping of transport policy instruments](https://doi.org/10.1787/247a5d21-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 11 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [G7 Mapping Exercise of Digital Identity Approaches](https://doi.org/10.1787/56fd4e94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2024 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [G7 Compendium of Digital Government Services](https://doi.org/10.1787/69fbf288-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2024 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [G7 Toolkit for Artificial Intelligence in the Public Sector](https://doi.org/10.1787/421c1244-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2024 at 10:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 15 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ## [Handbook on due diligence for enabling living incomes and living wages in agriculture, garment and footwear supply chains](https://doi.org/10.1787/6ff52567-en)
 
@@ -197,7 +105,7 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 7 October 2024 at 22:38
+- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -206,29 +114,6 @@ Wednesday 16 October 2024 at 6:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Fiscalidad y Desarrollo en la OCDE - Una mirada retrospectiva 2009-2024](https://doi.org/10.1787/785a1b4a-es)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -274,7 +159,7 @@ Monday 21 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 October 2024 at 22:33
+- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -282,7 +167,7 @@ Monday 21 October 2024 at 6:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -291,6 +176,29 @@ Monday 21 October 2024 at 6:00 | no launch event
 ------
 
 # 23 October 2024
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 Brazil, October 2024)](https://doi.org/10.1787/fe5ba0b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Understanding Sustainability Initiatives - A Typology Framework](https://doi.org/10.1787/8f8a3d7f-en)
 
@@ -327,8 +235,8 @@ Thursday 24 October 2024 at 11:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -336,15 +244,61 @@ Thursday 24 October 2024 at 11:30 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 28 October 2024
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024)](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024)](https://doi.org/10.1787/a05ec99a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Tributación del tabaco en América Latina y el Caribe (versión abreviada) - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
 
