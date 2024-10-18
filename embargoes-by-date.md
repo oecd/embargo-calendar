@@ -2,122 +2,26 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 October 2024 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [15 October 2024](#15-october-2024)
-* [16 October 2024](#16-october-2024)
 * [17 October 2024](#17-october-2024)
 * [21 October 2024](#21-october-2024)
+* [22 October 2024](#22-october-2024)
 * [23 October 2024](#23-october-2024)
 * [24 October 2024](#24-october-2024)
 * [28 October 2024](#28-october-2024)
+* [31 October 2024](#31-october-2024)
 * [5 November 2024](#5-november-2024)
 * [6 November 2024](#6-november-2024)
 * [7 November 2024](#7-november-2024)
+* [12 November 2024](#12-november-2024)
 * [13 November 2024](#13-november-2024)
 * [14 November 2024](#14-november-2024)
+* [15 November 2024](#15-november-2024)
 * [18 November 2024](#18-november-2024)
+* [21 November 2024](#21-november-2024)
+* [30 November 2024](#30-november-2024)
 * [4 December 2024](#4-december-2024)
-
-------
-
-# 15 October 2024
-
-## [Handbook on due diligence for enabling living incomes and living wages in agriculture, garment and footwear supply chains](https://doi.org/10.1787/6ff52567-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 October 2024 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 14 October 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
-# 16 October 2024
-
-## [Harnessing the green and digital transitions for gender equality - Policy insights from the 2024 OECD Forum on Gender Equality](https://doi.org/10.1787/860d0901-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Mettre les transitions verte et numérique au service de l’égalité des genres - Perspectives du Forum OCDE 2024 sur l’égalité des genres](https://doi.org/10.1787/e50c1715-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 9 October 2024 at 22:29
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Fiscalité et développement à l’OCDE - Rétrospective de la période 2009-2024](https://doi.org/10.1787/c92a1248-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 16 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -150,6 +54,29 @@ Thursday 17 October 2024 at 6:00 | no launch event
 
 # 21 October 2024
 
+## [Guida OCSE-FAO per catene di fornitura responsabili nel settore agricolo](https://doi.org/10.1787/fbcf0d3b-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 21 October 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Italian*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Governing for Sustainable Prosperity in the Middle East and North Africa](https://doi.org/10.1787/d0da1d30-en)
 
 Embargo date | Launch date
@@ -170,6 +97,33 @@ Monday 21 October 2024 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 22 October 2024
+
+## [Informality and Households’ Vulnerabilities in Latin America - Data, Insights and Implications for Labour Formalisation Policies](https://doi.org/10.1787/e29d9f34-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 22 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -227,6 +181,52 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 # 24 October 2024
 
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Brésil, octobre 2024)](https://doi.org/10.1787/36b17c56-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The Geography of Higher Education in England and Wales](https://doi.org/10.1787/be1c6f52-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Nurturing Social and Emotional Learning Across the Globe - Findings from the OECD Survey on Social and Emotional Skills 2023](https://doi.org/10.1787/32b647d0-en)
 
 Embargo date | Launch date
@@ -236,7 +236,7 @@ Thursday 24 October 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
+- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -348,6 +348,33 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 ------
 
+# 31 October 2024
+
+## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 31 October 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
 # 5 November 2024
 
 ## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
@@ -381,7 +408,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -399,6 +426,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ------
 
 # 6 November 2024
+
+## [Politiques agricoles : Suivi et évaluation 2024 (version abrégée) - L’innovation au service de la croissance durable de la productivité](https://doi.org/10.1787/2e531a61-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 November 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Agricultural Policy Monitoring and Evaluation 2024 - Innovation for Sustainable Productivity Growth](https://doi.org/10.1787/74da57ed-en)
 
@@ -444,6 +494,56 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [L'Observateur de l'action climatique 2024](https://doi.org/10.1787/be52fc17-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 12 November 2024
+
+## [OCDE-FAO Perspectivas Agrícolas 2024-2033](https://doi.org/10.1787/2b0c9d81-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -550,6 +650,56 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Tarification 2024 des émissions de gaz à effet de serre (version abrégée) - Passer à la vitesse supérieure pour faire reculer les émissions](https://doi.org/10.1787/39d2faa7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 15 November 2024
+
+## [Drivers of Trust in Public Institutions in Chile](https://doi.org/10.1787/0eb6341f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 18 November 2024
@@ -597,6 +747,83 @@ Monday 18 November 2024 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 21 November 2024
+
+## [Revenue Statistics 2024 - Health Taxes in OECD Countries](https://doi.org/10.1787/c87a3da5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Consumption Tax Trends 2024 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/dcd4dd36-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 30 November 2024
+
+## [Revenue Statistics in Africa 2024 - Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations](https://doi.org/10.1787/78e9af3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 30 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
