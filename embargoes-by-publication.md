@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 18 October 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Italy](https://doi.org/10.1787/5841d4d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 17 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 16 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 20 October 2024 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Guida OCSE-FAO per catene di fornitura responsabili nel settore agricolo](https://doi.org/10.1787/fbcf0d3b-it)
 
