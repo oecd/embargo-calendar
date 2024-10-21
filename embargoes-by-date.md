@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 October 2024 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 21 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 October 2024](#21-october-2024)
 * [22 October 2024](#22-october-2024)
@@ -18,6 +18,7 @@ Data generated on | |
 * [14 November 2024](#14-november-2024)
 * [15 November 2024](#15-november-2024)
 * [18 November 2024](#18-november-2024)
+* [19 November 2024](#19-november-2024)
 * [21 November 2024](#21-november-2024)
 * [30 November 2024](#30-november-2024)
 * [4 December 2024](#4-december-2024)
@@ -58,7 +59,7 @@ Monday 21 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 17 October 2024 at 22:27
+- [x] Exported to iLibrary Monday 21 October 2024 at 10:53
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -103,22 +104,45 @@ Tuesday 22 October 2024 at 6:00 | no launch event
 
 # 23 October 2024
 
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 Brazil, October 2024)](https://doi.org/10.1787/fe5ba0b2-en)
+## [The challenge of measuring and achieving sustainable agricultural productivity growth](https://doi.org/10.1787/1c17e895-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 23 October 2024 at 9:00 | no launch event
+Wednesday 23 October 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, October 2024)](https://doi.org/10.1787/c5f95963-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 October 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
@@ -153,6 +177,29 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 # 24 October 2024
 
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 Brazil, October 2024)](https://doi.org/10.1787/fe5ba0b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Brésil, octobre 2024)](https://doi.org/10.1787/36b17c56-fr)
 
 Embargo date | Launch date
@@ -176,6 +223,52 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 ------
 
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Report: Austria](https://doi.org/10.1787/07a7d515-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Implementing the OECD Anti-Bribery Convention Phase 2 Report: Romania](https://doi.org/10.1787/37adcf9a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 24 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [The Geography of Higher Education in England and Wales](https://doi.org/10.1787/be1c6f52-en)
 
 Embargo date | Launch date
@@ -184,8 +277,8 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -193,7 +286,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -208,7 +301,7 @@ Thursday 24 October 2024 at 11:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -280,8 +373,8 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -289,9 +382,9 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -304,7 +397,7 @@ Monday 28 October 2024 at 20:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -312,7 +405,7 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -391,7 +484,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -426,7 +519,7 @@ Wednesday 6 November 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 6 November 2024 at 9:00 | no launch event
+Wednesday 6 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
@@ -676,29 +769,6 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 # 18 November 2024
 
-## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 18 November 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Health at a Glance: Europe 2024 - State of Health in the EU Cycle](https://doi.org/10.1787/b3704e14-en)
 
 Embargo date | Launch date
@@ -718,6 +788,33 @@ Monday 18 November 2024 at 11:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 November 2024
+
+## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
