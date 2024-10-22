@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 22 October 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 October 2024](#21-october-2024)
 * [22 October 2024](#22-october-2024)
@@ -10,6 +10,7 @@ Data generated on | |
 * [24 October 2024](#24-october-2024)
 * [28 October 2024](#28-october-2024)
 * [31 October 2024](#31-october-2024)
+* [4 November 2024](#4-november-2024)
 * [5 November 2024](#5-november-2024)
 * [6 November 2024](#6-november-2024)
 * [7 November 2024](#7-november-2024)
@@ -113,7 +114,7 @@ Wednesday 23 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -127,6 +128,29 @@ Wednesday 23 October 2024 at 6:00 | no launch event
 
 ------
 
+## [Rapport sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone du Secrétaire général de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G20 (États-Unis, octobre 2024)](https://doi.org/10.1787/f4c21aba-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 23 October 2024 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, October 2024)](https://doi.org/10.1787/c5f95963-en)
 
 Embargo date | Launch date
@@ -136,7 +160,7 @@ Wednesday 23 October 2024 at 12:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -144,7 +168,7 @@ Wednesday 23 October 2024 at 12:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -159,7 +183,7 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 8 October 2024 at 22:35
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -167,9 +191,9 @@ Wednesday 23 October 2024 at 22:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -186,7 +210,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -209,7 +233,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -217,7 +241,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -296,12 +320,12 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 24 October 2024 at 11:30 | no launch event
+Thursday 24 October 2024 at 11:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -311,7 +335,7 @@ Thursday 24 October 2024 at 11:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -384,7 +408,7 @@ Monday 28 October 2024 at 20:00 | no launch event
 * Language: *Spanish*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZXML*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -396,8 +420,8 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -405,9 +429,9 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -434,6 +458,33 @@ Thursday 31 October 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 4 November 2024
+
+## [Strengthening the Innovative Capacity of the Public Sector of Bulgaria](https://doi.org/10.1787/39fa2eed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -474,7 +525,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -482,7 +533,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -639,6 +690,29 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Résultats du PISA 2022 (Volume V) (version abrégée) - Stratégies et attitudes d'apprentissage à l'école – des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -840,6 +914,29 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques 2024 - Les taxes sur les produits nocifs pour la santé dans les pays de l’OCDE](https://doi.org/10.1787/2ea729a7-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
