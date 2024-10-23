@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 October 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Guida OCSE-FAO per catene di fornitura responsabili nel settore agricolo](https://doi.org/10.1787/fbcf0d3b-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 October 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [Governing for Sustainable Prosperity in the Middle East and North Africa](https://doi.org/10.1787/d0da1d30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 21 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 10:53
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 23 October 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Informality and Households’ Vulnerabilities in Latin America - Data, Insights and Implications for Labour Formalisation Policies](https://doi.org/10.1787/e29d9f34-en)
 
@@ -82,7 +36,7 @@ Wednesday 23 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -196,8 +150,8 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -205,7 +159,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -303,34 +257,57 @@ Thursday 24 October 2024 at 11:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024)](https://doi.org/10.1787/a551b351-en)
+## [Lignes directrices de l'OCDE sur la gouvernance des entreprises publiques 2024](https://doi.org/10.1787/bf2b9e01-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 28 October 2024 at 10:00 | no launch event
+Monday 28 October 2024 at 8:25 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
 - [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
+- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024)](https://doi.org/10.1787/a05ec99a-en)
+## [OECD:n suositukset valtio-omisteisten yritysten hyvästä hallintotavasta 2024](https://doi.org/10.1787/15e0f6fa-fi)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 28 October 2024 at 10:00 | no launch event
+Monday 28 October 2024 at 8:25 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Finnish*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Руководящие принципы ОЭСР по корпоративному управлению для предприятий с государственным участием 2024](https://doi.org/10.1787/9cba536b-ru)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 8:25 | no launch event
 
 ### Status Information
 
@@ -341,11 +318,80 @@ Monday 28 October 2024 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Russian*
 * Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Guidelines on Corporate Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/18a24f43-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 8:25 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [2024년 OECD 공기업 지배구조 가이드라인](https://doi.org/10.1787/1f24520a-ko)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 8:25 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *Korean*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 8:25 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -395,6 +441,52 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 ------
 
+## [A Economia Azul na Região Metropolitana do Rio de Janeiro, Brasil](https://doi.org/10.1787/829b8cdd-pt)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 October 2024 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *Portuguese*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [The Blue Economy in the Metropolitan Region of Rio de Janeiro, Brazil](https://doi.org/10.1787/bea2dd94-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 October 2024 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
 Embargo date | Launch date
@@ -414,6 +506,52 @@ Thursday 31 October 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024)](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 31 October 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024)](https://doi.org/10.1787/a05ec99a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 31 October 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -487,6 +625,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 
 ------
 
+## [In Brief: How’s Life? 2024](https://doi.org/10.1787/eedbe25b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Politiques agricoles : Suivi et évaluation 2024 (version abrégée) - L’innovation au service de la croissance durable de la productivité](https://doi.org/10.1787/2e531a61-fr)
 
 Embargo date | Launch date
@@ -519,7 +680,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -527,7 +688,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -667,7 +828,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -690,7 +851,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -736,6 +897,29 @@ Thursday 14 November 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Managing Risks from Natural Hazards to Hazardous Installations (NATECH) - A Guide for Senior Leaders in Industry and Public Authorities](https://doi.org/10.1787/9bb63229-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -827,7 +1011,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -850,7 +1034,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -874,6 +1058,29 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 November 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -920,6 +1127,52 @@ Wednesday 4 December 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Latin American Economic Outlook 2024 - Financing Sustainable Development](https://doi.org/10.1787/c437947f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Toolkit to Combat Homelessness](https://doi.org/10.1787/0fec780e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
