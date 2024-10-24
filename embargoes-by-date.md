@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 October 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 24 October 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [22 October 2024](#22-october-2024)
 * [23 October 2024](#23-october-2024)
 * [24 October 2024](#24-october-2024)
 * [28 October 2024](#28-october-2024)
@@ -29,33 +28,6 @@ Data generated on | |
 
 ------
 
-# 22 October 2024
-
-## [Informality and Households’ Vulnerabilities in Latin America - Data, Insights and Implications for Labour Formalisation Policies](https://doi.org/10.1787/e29d9f34-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 22 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 18 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
 # 23 October 2024
 
 ## [The challenge of measuring and achieving sustainable agricultural productivity growth](https://doi.org/10.1787/1c17e895-en)
@@ -67,7 +39,7 @@ Wednesday 23 October 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -209,7 +181,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -232,7 +204,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -255,7 +227,7 @@ Thursday 24 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -296,6 +268,29 @@ Thursday 24 October 2024 at 11:00 | no launch event
 
 # 28 October 2024
 
+## [Monitoring and evaluation of mission-oriented innovation policies - From theory to practice](https://doi.org/10.1787/5e4c3204-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Lignes directrices de l'OCDE sur la gouvernance des entreprises publiques 2024](https://doi.org/10.1787/bf2b9e01-fr)
 
 Embargo date | Launch date
@@ -305,7 +300,7 @@ Monday 28 October 2024 at 8:25 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Monday 27 May 2024 at 22:23
 
@@ -328,7 +323,7 @@ Monday 28 October 2024 at 8:25 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -374,7 +369,7 @@ Monday 28 October 2024 at 8:25 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 14 June 2024 at 22:29
 
@@ -396,8 +391,8 @@ Monday 28 October 2024 at 8:25 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -405,9 +400,9 @@ Monday 28 October 2024 at 8:25 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *Korean*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
@@ -420,7 +415,7 @@ Monday 28 October 2024 at 8:25 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [x] Exported to OECD.org Friday 14 June 2024 at 22:29
 
@@ -428,8 +423,31 @@ Monday 28 October 2024 at 8:25 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [The Role of Economic Regulators in the Green Transition - Driving Sustainable Change in Network Sectors](https://doi.org/10.1787/7d4704c9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 October 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
@@ -493,7 +511,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -501,7 +519,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *Portuguese*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -516,7 +534,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -557,7 +575,7 @@ Thursday 31 October 2024 at 10:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024)](https://doi.org/10.1787/a551b351-en)
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -580,7 +598,7 @@ Thursday 31 October 2024 at 10:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024)](https://doi.org/10.1787/a05ec99a-en)
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -616,7 +634,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -624,7 +642,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -666,7 +684,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -699,6 +717,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [The impact of digital technologies on well-being - Main insights from the literature](https://doi.org/10.1787/cb173652-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -857,7 +898,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 ------
 
-## [Résultats du PISA 2022 (Volume V) (version abrégée) - Stratégies et attitudes d'apprentissage à l'école – des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
+## [Résultats du PISA 2022 (Volume V – version abrégée) - Stratégies et attitudes d'apprentissage à l'école – des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1102,7 +1143,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -1125,7 +1166,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
