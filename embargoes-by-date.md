@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 October 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 October 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 October 2024](#23-october-2024)
 * [24 October 2024](#24-october-2024)
 * [28 October 2024](#28-october-2024)
+* [29 October 2024](#29-october-2024)
 * [30 October 2024](#30-october-2024)
-* [31 October 2024](#31-october-2024)
 * [4 November 2024](#4-november-2024)
 * [5 November 2024](#5-november-2024)
 * [6 November 2024](#6-november-2024)
@@ -21,6 +21,7 @@ Data generated on | |
 * [19 November 2024](#19-november-2024)
 * [21 November 2024](#21-november-2024)
 * [22 November 2024](#22-november-2024)
+* [29 November 2024](#29-november-2024)
 * [30 November 2024](#30-november-2024)
 * [4 December 2024](#4-december-2024)
 * [9 December 2024](#9-december-2024)
@@ -29,75 +30,6 @@ Data generated on | |
 ------
 
 # 23 October 2024
-
-## [The challenge of measuring and achieving sustainable agricultural productivity growth](https://doi.org/10.1787/1c17e895-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 23 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy brief*
-* Format: *PDF*
-
-------
-
-## [Rapport sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone du Secrétaire général de l'OCDE à l'intention des ministres des Finances et des gouverneurs de banque centrale du G20 (États-Unis, octobre 2024)](https://doi.org/10.1787/f4c21aba-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 23 October 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, October 2024)](https://doi.org/10.1787/c5f95963-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 23 October 2024 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
 
 ## [Understanding Sustainability Initiatives - A Typology Framework](https://doi.org/10.1787/8f8a3d7f-en)
 
@@ -250,7 +182,7 @@ Thursday 24 October 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [x] Exported to iLibrary Friday 25 October 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -500,6 +432,33 @@ Monday 28 October 2024 at 20:00 | no launch event
 
 ------
 
+# 29 October 2024
+
+## [Considerations for informing, implementing, and investing in the next nationally determined contributions (NDCs)](https://doi.org/10.1787/4f014ce6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 29 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 25 October 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 30 October 2024
 
 ## [A Economia Azul na Região Metropolitana do Rio de Janeiro, Brasil](https://doi.org/10.1787/829b8cdd-pt)
@@ -544,79 +503,6 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 31 October 2024
-
-## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 31 October 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 31 October 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 31 October 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -865,6 +751,52 @@ Tuesday 12 November 2024 at 6:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (October 2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
@@ -1217,6 +1149,33 @@ Friday 22 November 2024 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 29 November 2024
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 29 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
