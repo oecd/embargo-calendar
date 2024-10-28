@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 27 October 2024 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 28 October 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 October 2024](#28-october-2024)
 * [29 October 2024](#29-october-2024)
@@ -199,7 +199,7 @@ Monday 28 October 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -290,6 +290,29 @@ Tuesday 29 October 2024 at 6:00 | no launch event
 
 # 30 October 2024
 
+## [Competition and regulation in the care industry](https://doi.org/10.1787/cef35d7c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 October 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [A Economia Azul na Região Metropolitana do Rio de Janeiro, Brasil](https://doi.org/10.1787/829b8cdd-pt)
 
 Embargo date | Launch date
@@ -340,7 +363,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 
 # 4 November 2024
 
-## [Strengthening the Innovative Capacity of the Public Sector of Bulgaria](https://doi.org/10.1787/39fa2eed-en)
+## [Lessons from the 2023 OECD Trust Survey in Slovenia](https://doi.org/10.1787/261ac7b2-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -349,7 +372,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -357,15 +380,61 @@ Monday 4 November 2024 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Strengthening the Innovative Capacity of the Public Sector of Bulgaria](https://doi.org/10.1787/39fa2eed-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZXML*
 
 ------
 
 ------
 
 # 5 November 2024
+
+## [Synthèse : Comment va la vie ? 2024](https://doi.org/10.1787/eba67f30-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
 
@@ -422,7 +491,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -495,7 +564,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Wednesday 23 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
