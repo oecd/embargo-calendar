@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 28 October 2024 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 29 October 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Monitoring and evaluation of mission-oriented innovation policies - From theory to practice](https://doi.org/10.1787/5e4c3204-en)
 
@@ -197,7 +197,7 @@ Monday 28 October 2024 at 20:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 21 October 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -220,7 +220,7 @@ Monday 28 October 2024 at 20:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 22 October 2024 at 22:34
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 8:21
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -289,7 +289,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 27 October 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -312,7 +312,7 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 27 October 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -323,6 +323,29 @@ Wednesday 30 October 2024 at 23:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
+
+------
+
+## [Examen de l’OCDE des politiques de l’investissement : Maroc 2024](https://doi.org/10.1787/e5752331-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -369,6 +392,29 @@ Monday 4 November 2024 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZXML*
+
+------
+
+## [Promoting students’ competencies and effective pedagogies for the 21st century in the German-speaking Community of Belgium](https://doi.org/10.1787/fe5f6cfb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -427,7 +473,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -496,7 +542,7 @@ Wednesday 6 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -504,7 +550,7 @@ Wednesday 6 November 2024 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -519,7 +565,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
+- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -786,7 +832,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ------
 
-## [Managing Risks from Natural Hazards to Hazardous Installations (NATECH) - A Guide for Senior Leaders in Industry and Public Authorities](https://doi.org/10.1787/9bb63229-en)
+## [Managing Risks from Natural Hazards to Hazardous Installations (Natech) - A Guide for Senior Leaders in Industry and Public Authorities](https://doi.org/10.1787/9bb63229-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -804,7 +850,7 @@ Friday 15 November 2024 at 8:00 | no launch event
 * Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Report*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -970,6 +1016,29 @@ Friday 22 November 2024 at 14:00 | no launch event
 
 ------
 
+## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
@@ -1035,6 +1104,29 @@ Wednesday 4 December 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [OECD Regions and Cities at a Glance 2024](https://doi.org/10.1787/f42db3bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 6 December 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
