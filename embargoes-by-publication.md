@@ -2,237 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 October 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Monitoring and evaluation of mission-oriented innovation policies - From theory to practice](https://doi.org/10.1787/5e4c3204-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Lignes directrices de l'OCDE sur la gouvernance des entreprises publiques 2024](https://doi.org/10.1787/bf2b9e01-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Monday 27 May 2024 at 22:23
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD:n suositukset valtio-omisteisten yritysten hyvästä hallintotavasta 2024](https://doi.org/10.1787/15e0f6fa-fi)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Finnish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Руководящие принципы ОЭСР по корпоративному управлению для предприятий с государственным участием 2024](https://doi.org/10.1787/9cba536b-ru)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Russian*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Guidelines on Corporate Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/18a24f43-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [2024년 OECD 공기업 지배구조 가이드라인](https://doi.org/10.1787/1f24520a-ko)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Korean*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Ownership and Governance of State-Owned Enterprises 2024](https://doi.org/10.1787/395c9956-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 8:25 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
-- [ ] Exported to Keepeek
-- [x] Exported to OECD.org Friday 14 June 2024 at 22:29
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [The Role of Economic Regulators in the Green Transition - Driving Sustainable Change in Network Sectors](https://doi.org/10.1787/7d4704c9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tributación del tabaco en América Latina y el Caribe (versión abreviada) - La urgencia de una reforma de los impuestos al tabaco](https://doi.org/10.1787/8c1c2fbb-es)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 20:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Tobacco Taxation in Latin America and the Caribbean - A Call for Tobacco Tax Reform](https://doi.org/10.1787/080cd662-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 October 2024 at 20:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 8:21
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 30 October 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Considerations for informing, implementing, and investing in the next nationally determined contributions (NDCs)](https://doi.org/10.1787/4f014ce6-en)
 
@@ -335,7 +105,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
+- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -357,8 +127,8 @@ Monday 4 November 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -366,9 +136,32 @@ Monday 4 November 2024 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Investment Policy Reviews: Morocco 2024 (Abridged version)](https://doi.org/10.1787/bc0c1f25-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, PDF, ZXML*
 
 ------
 
@@ -404,7 +197,7 @@ Monday 4 November 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
+- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -924,6 +717,29 @@ Tuesday 19 November 2024 at 5:00 | no launch event
 
 ------
 
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Rwanda 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0adbbbb5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Revenue Statistics 2024 - Health Taxes in OECD Countries](https://doi.org/10.1787/c87a3da5-en)
 
 Embargo date | Launch date
@@ -970,7 +786,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
-## [Consumption Tax Trends 2024 - VAT/GST and Excise Rates, Trends and Policy Issues](https://doi.org/10.1787/dcd4dd36-en)
+## [Consumption Tax Trends 2024 - VAT/GST and Excise, Core Design Features and Trends](https://doi.org/10.1787/dcd4dd36-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -1039,6 +855,29 @@ Monday 25 November 2024 at 8:00 | no launch event
 
 ------
 
+## [OECD Youth Policy Toolkit](https://doi.org/10.1787/74b6f8f3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
@@ -1078,6 +917,52 @@ Saturday 30 November 2024 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Pensions Outlook 2024](https://doi.org/10.1787/51510909-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Investing in Youth: Northern Denmark Region](https://doi.org/10.1787/0856ce12-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
@@ -1127,6 +1012,29 @@ Friday 6 December 2024 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Promoting the Growth of the Semiconductor Ecosystem in the Philippines](https://doi.org/10.1787/01497fea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
