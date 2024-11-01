@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 31 October 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Competition and regulation in the care industry](https://doi.org/10.1787/cef35d7c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 October 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Friday 1 November 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A Economia Azul na Região Metropolitana do Rio de Janeiro, Brasil](https://doi.org/10.1787/829b8cdd-pt)
 
