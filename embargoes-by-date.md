@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 1 November 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 3 November 2024 at 22:43* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [30 October 2024](#30-october-2024)
 * [4 November 2024](#4-november-2024)
 * [5 November 2024](#5-november-2024)
 * [6 November 2024](#6-november-2024)
@@ -26,56 +25,6 @@ Data generated on | |
 * [6 December 2024](#6-december-2024)
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
-
-------
-
-# 30 October 2024
-
-## [A Economia Azul na Região Metropolitana do Rio de Janeiro, Brasil](https://doi.org/10.1787/829b8cdd-pt)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 October 2024 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *Portuguese*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [The Blue Economy in the Metropolitan Region of Rio de Janeiro, Brazil](https://doi.org/10.1787/bea2dd94-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 October 2024 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -189,6 +138,52 @@ Monday 4 November 2024 at 8:30 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Vers des indicateurs de l’intensité carbone des produits plus granulaires, plus précis et disponibles plus rapidement : défis à relever et solutions potentielles - Rapport du Forum inclusif](https://doi.org/10.1787/83e4ef6b-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Towards more accurate, timely, and granular product-level carbon intensity metrics: challenges and potential solutions - An IFCMA report](https://doi.org/10.1787/87bbd6bf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 4 November 2024 at 9:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
@@ -393,7 +388,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 29 October 2024 at 22:33
+- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
