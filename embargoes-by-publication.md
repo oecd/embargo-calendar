@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 November 2024 at 22:43* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 4 November 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examen de l’OCDE des politiques de l’investissement : Maroc 2024](https://doi.org/10.1787/e5752331-fr)
 
@@ -345,6 +345,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -703,7 +726,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1173,7 +1196,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1209,7 +1232,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1217,7 +1240,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1232,7 +1255,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1240,7 +1263,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1821,29 +1844,6 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
-## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 November 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
 
 Embargo date | Launch date
@@ -2113,6 +2113,29 @@ Friday 13 December 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 January 2025 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*

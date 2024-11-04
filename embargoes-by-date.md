@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 3 November 2024 at 22:43* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 4 November 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 November 2024](#4-november-2024)
 * [5 November 2024](#5-november-2024)
@@ -15,7 +15,6 @@ Data generated on | |
 * [18 November 2024](#18-november-2024)
 * [19 November 2024](#19-november-2024)
 * [21 November 2024](#21-november-2024)
-* [22 November 2024](#22-november-2024)
 * [25 November 2024](#25-november-2024)
 * [26 November 2024](#26-november-2024)
 * [29 November 2024](#29-november-2024)
@@ -25,6 +24,7 @@ Data generated on | |
 * [6 December 2024](#6-december-2024)
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
+* [10 January 2025](#10-january-2025)
 
 ------
 
@@ -375,6 +375,29 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 5 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -733,7 +756,7 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 24 October 2024 at 22:31
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1207,7 +1230,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1247,7 +1270,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1255,7 +1278,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1270,7 +1293,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1278,7 +1301,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1889,33 +1912,6 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
-# 22 November 2024
-
-## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 November 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 25 November 2024
 
 ## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
@@ -2219,6 +2215,33 @@ Friday 13 December 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 January 2025
+
+## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 10 January 2025 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
