@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 4 November 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 5 November 2024 at 22:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Examen de l’OCDE des politiques de l’investissement : Maroc 2024](https://doi.org/10.1787/e5752331-fr)
 
@@ -13,7 +13,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -36,7 +36,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -59,7 +59,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -82,7 +82,7 @@ Monday 4 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -174,7 +174,7 @@ Tuesday 5 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 October 2024 at 22:29
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1177,6 +1177,52 @@ Tuesday 5 November 2024 at 10:00 | no launch event
 
 ------
 
+## [L’innovation au service de la croissance durable de la productivité - Politiques agricoles : suivi et évaluation 2024](https://doi.org/10.1787/897bb5f6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
+## [Innovation for Sustainable Productivity Growth - Agricultural Policy Monitoring and Evaluation 2024](https://doi.org/10.1787/b84d2572-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 6 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy brief*
+* Format: *PDF*
+
+------
+
 ## [Politiques agricoles : Suivi et évaluation 2024 (version abrégée) - L’innovation au service de la croissance durable de la productivité](https://doi.org/10.1787/2e531a61-fr)
 
 Embargo date | Launch date
@@ -1223,6 +1269,29 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Public Innovation for Social Inclusion in Ibero-America](https://doi.org/10.1787/97d84618-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 7 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [The Climate Action Monitor 2024](https://doi.org/10.1787/787786f6-en)
 
 Embargo date | Launch date
@@ -1232,7 +1301,7 @@ Thursday 7 November 2024 at 9:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1277,8 +1346,8 @@ Tuesday 12 November 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1286,9 +1355,9 @@ Tuesday 12 November 2024 at 6:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1522,6 +1591,29 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 ------
 
+## [OECD Secretary-General Tax Report to G20 Leaders (G20 Brazil, November 2024)](https://doi.org/10.1787/99a5b4cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Health at a Glance: Europe 2024 - State of Health in the EU Cycle](https://doi.org/10.1787/b3704e14-en)
 
 Embargo date | Launch date
@@ -1542,6 +1634,29 @@ Monday 18 November 2024 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE (Volume 2) - Renforcer la connectivité, l’innovation et la confiance](https://doi.org/10.1787/fe8e1010-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2024 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -1798,6 +1913,29 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Sénégal 2024 (Deuxième cycle) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/a34cdbec-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Grenada 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1c45badc-en)
 
 Embargo date | Launch date
@@ -1867,6 +2005,29 @@ Monday 25 November 2024 at 8:00 | no launch event
 
 ------
 
+## [Boîte à outils de l'OCDE sur les politiques en faveur des jeunes](https://doi.org/10.1787/2cae0310-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [OECD Youth Policy Toolkit](https://doi.org/10.1787/74b6f8f3-en)
 
 Embargo date | Launch date
@@ -1887,6 +2048,29 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Indonesia 2024](https://doi.org/10.1787/de87555a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -2113,6 +2297,29 @@ Friday 13 December 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Harmful Tax Practices – 2023 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/efbad00d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
