@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 5 November 2024 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 6 November 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 November 2024](#4-november-2024)
 * [5 November 2024](#5-november-2024)
 * [6 November 2024](#6-november-2024)
 * [7 November 2024](#7-november-2024)
+* [11 November 2024](#11-november-2024)
 * [12 November 2024](#12-november-2024)
 * [13 November 2024](#13-november-2024)
 * [14 November 2024](#14-november-2024)
@@ -25,171 +25,6 @@ Data generated on | |
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
 * [10 January 2025](#10-january-2025)
-
-------
-
-# 4 November 2024
-
-## [Examen de l’OCDE des politiques de l’investissement : Maroc 2024](https://doi.org/10.1787/e5752331-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Lessons from the 2023 OECD Trust Survey in Slovenia](https://doi.org/10.1787/261ac7b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Investment Policy Reviews: Morocco 2024 (Abridged version)](https://doi.org/10.1787/bc0c1f25-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZXML*
-
-------
-
-## [Strengthening the Innovative Capacity of the Public Sector of Bulgaria](https://doi.org/10.1787/39fa2eed-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZXML*
-
-------
-
-## [Promoting students’ competencies and effective pedagogies for the 21st century in the German-speaking Community of Belgium](https://doi.org/10.1787/fe5f6cfb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 30 October 2024 at 22:36
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Vers des indicateurs de l’intensité carbone des produits plus granulaires, plus précis et disponibles plus rapidement : défis à relever et solutions potentielles - Rapport du Forum inclusif](https://doi.org/10.1787/83e4ef6b-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Towards more accurate, timely, and granular product-level carbon intensity metrics: challenges and potential solutions - An IFCMA report](https://doi.org/10.1787/87bbd6bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 4 November 2024 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -1266,7 +1101,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 October 2024 at 22:29
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1289,7 +1124,7 @@ Wednesday 6 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 31 October 2024 at 22:29
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1338,8 +1173,8 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1347,9 +1182,9 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1361,8 +1196,8 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1370,7 +1205,34 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 11 November 2024
+
+## [Report of the 12th Expert Group on Biopesticides Seminar on Problem Formulation for the risk assessment of biopesticides](https://doi.org/10.1787/c78ef74a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 11 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1400,6 +1262,29 @@ Tuesday 12 November 2024 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Case study on the Use of Integrated Approaches for Testing and Assessment (IATA) for Bioaccumulation - Ninth Review Cycle (2023)](https://doi.org/10.1787/8bc8ad6f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -1449,6 +1334,52 @@ Tuesday 12 November 2024 at 10:00 | no launch event
 
 ------
 
+## [The Circular Economy in Møre and Romsdal, Norway](https://doi.org/10.1787/06d2e10c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [The Circular Economy in Berlin, Germany](https://doi.org/10.1787/459defe7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 12:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ------
 
 # 13 November 2024
@@ -1462,7 +1393,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1470,7 +1401,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1511,7 +1442,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1557,8 +1488,8 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1566,9 +1497,9 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2144,7 +2075,7 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
