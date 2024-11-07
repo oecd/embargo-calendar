@@ -2,1019 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 6 November 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Global State of National Urban Policy 2024 - Building Resilience and Promoting Adequate, Inclusive and Sustainable Housing](https://doi.org/10.1787/4db6994c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Korea](https://doi.org/10.1787/bf0bcaa8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Sweden](https://doi.org/10.1787/40e7eb9b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Poland](https://doi.org/10.1787/98516294-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Synthèse : Comment va la vie ? 2024](https://doi.org/10.1787/eba67f30-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [New Zealand](https://doi.org/10.1787/ba427d21-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [France](https://doi.org/10.1787/f9435823-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Italy](https://doi.org/10.1787/2bd43982-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Comment va la vie ? 2024 (version abrégée) - Bien-être et résilience en temps de crise](https://doi.org/10.1787/bc0cfa41-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [How's Life? 2024 - Well-being and Resilience in Times of Crisis](https://doi.org/10.1787/90ba854a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Sunday 3 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [In Brief: How’s Life? 2024](https://doi.org/10.1787/eedbe25b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 28 October 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Belgium](https://doi.org/10.1787/9bf96dc6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Austria](https://doi.org/10.1787/ff1737f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [United States](https://doi.org/10.1787/dc285395-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Netherlands](https://doi.org/10.1787/3e4a0287-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Canada](https://doi.org/10.1787/94a560a1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Japan](https://doi.org/10.1787/8aa72c34-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Iceland](https://doi.org/10.1787/428a603e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [United Kingdom](https://doi.org/10.1787/0c1cb30a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Colombia](https://doi.org/10.1787/b3f50f4d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Norway](https://doi.org/10.1787/a5322033-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Czechia](https://doi.org/10.1787/13e4046b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Latvia](https://doi.org/10.1787/d147b1c5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Finland](https://doi.org/10.1787/d0a05326-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [The impact of digital technologies on well-being - Main insights from the literature](https://doi.org/10.1787/cb173652-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 4 November 2024 at 22:28
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Germany](https://doi.org/10.1787/fbfe3f23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Costa Rica](https://doi.org/10.1787/4a69a2a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Israel](https://doi.org/10.1787/e67e9f1b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Luxembourg](https://doi.org/10.1787/b908be3c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Estonia](https://doi.org/10.1787/0cb3d6d2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Greece](https://doi.org/10.1787/1ec233bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Ireland](https://doi.org/10.1787/3c30d92f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Portugal](https://doi.org/10.1787/fa03020d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Slovenia](https://doi.org/10.1787/3dc4115c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Chile](https://doi.org/10.1787/a98f4ff7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Switzerland](https://doi.org/10.1787/96fb313c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Spain](https://doi.org/10.1787/2d396d5e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Mexico](https://doi.org/10.1787/ff908885-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Denmark](https://doi.org/10.1787/1a882c8c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Hungary](https://doi.org/10.1787/3a24ef7a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Australia](https://doi.org/10.1787/a7123970-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Slovak Republic](https://doi.org/10.1787/b116c763-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Lithuania](https://doi.org/10.1787/16aec8bd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
-
-## [Turkiye](https://doi.org/10.1787/0a329204-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 5 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Short content*
-* Format: *PDF*
-
-------
+| *Thursday 7 November 2024 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [L’innovation au service de la croissance durable de la productivité - Politiques agricoles : suivi et évaluation 2024](https://doi.org/10.1787/897bb5f6-fr)
 
@@ -1135,12 +123,12 @@ Thursday 7 November 2024 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 7 November 2024 at 9:00 | no launch event
+Thursday 7 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1158,12 +146,12 @@ Thursday 7 November 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 7 November 2024 at 9:00 | no launch event
+Thursday 7 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1173,6 +161,52 @@ Thursday 7 November 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Review of Thailand's Legal and Policy Framework for Fighting Foreign Bribery](https://doi.org/10.1787/09fbb31d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 9 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The use of structural presumptions in antitrust](https://doi.org/10.1787/3b8c6885-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Saturday 9 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -1220,6 +254,29 @@ Tuesday 12 November 2024 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [What is the role of Government Venture Capital for innovation-driven entrepreneurship?](https://doi.org/10.1787/6430069e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 12 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -1393,7 +450,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1401,9 +458,9 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1415,8 +472,8 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1424,9 +481,9 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -2005,6 +1062,29 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 
 ------
 
+## [Peer Review of the Automatic Exchange of Financial Account Information 2024 Update](https://doi.org/10.1787/1aa02413-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
@@ -2074,7 +1154,7 @@ Saturday 30 November 2024 at 10:00 | no launch event
 
 ------
 
-## [OECD Pensions Outlook 2024](https://doi.org/10.1787/51510909-en)
+## [OECD Pensions Outlook 2024 - Improving Asset-backed Pensions for Better Retirement Outcomes and More Resilient Pensions Systems](https://doi.org/10.1787/51510909-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -2186,6 +1266,29 @@ Monday 9 December 2024 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Promoting Better Career Mobility for Longer Working Lives in the United Kingdom](https://doi.org/10.1787/2b41ab8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 16:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
