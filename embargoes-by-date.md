@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 November 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 10 November 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 November 2024](#7-november-2024)
 * [9 November 2024](#9-november-2024)
 * [11 November 2024](#11-november-2024)
 * [12 November 2024](#12-november-2024)
@@ -24,79 +23,6 @@ Data generated on | |
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
 * [10 January 2025](#10-january-2025)
-
-------
-
-# 7 November 2024
-
-## [Public Innovation for Social Inclusion in Ibero-America](https://doi.org/10.1787/97d84618-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [The Climate Action Monitor 2024](https://doi.org/10.1787/787786f6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [L'Observateur de l'action climatique 2024](https://doi.org/10.1787/be52fc17-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 

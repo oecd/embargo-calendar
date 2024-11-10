@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 8 November 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Public Innovation for Social Inclusion in Ibero-America](https://doi.org/10.1787/97d84618-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [The Climate Action Monitor 2024](https://doi.org/10.1787/787786f6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [L'Observateur de l'action climatique 2024](https://doi.org/10.1787/be52fc17-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 7 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Sunday 10 November 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of Thailand's Legal and Policy Framework for Fighting Foreign Bribery](https://doi.org/10.1787/09fbb31d-en)
 
