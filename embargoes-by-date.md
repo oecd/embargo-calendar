@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 10 November 2024 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 11 November 2024 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 November 2024](#9-november-2024)
 * [11 November 2024](#11-november-2024)
 * [12 November 2024](#12-november-2024)
 * [13 November 2024](#13-november-2024)
@@ -23,56 +22,6 @@ Data generated on | |
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
 * [10 January 2025](#10-january-2025)
-
-------
-
-# 9 November 2024
-
-## [OECD Review of Thailand's Legal and Policy Framework for Fighting Foreign Bribery](https://doi.org/10.1787/09fbb31d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 9 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The use of structural presumptions in antitrust](https://doi.org/10.1787/3b8c6885-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 9 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -1401,6 +1350,29 @@ Friday 13 December 2024 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2023 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/10fb12de-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
