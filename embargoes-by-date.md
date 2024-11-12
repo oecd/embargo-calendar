@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 11 November 2024 at 22:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 12 November 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 November 2024](#11-november-2024)
 * [12 November 2024](#12-november-2024)
@@ -15,7 +15,6 @@ Data generated on | |
 * [25 November 2024](#25-november-2024)
 * [26 November 2024](#26-november-2024)
 * [29 November 2024](#29-november-2024)
-* [30 November 2024](#30-november-2024)
 * [2 December 2024](#2-december-2024)
 * [4 December 2024](#4-december-2024)
 * [6 December 2024](#6-december-2024)
@@ -265,6 +264,29 @@ Tuesday 12 November 2024 at 12:30 | no launch event
 
 # 13 November 2024
 
+## [The role of bargaining and discrimination in the gender wage gap in France - A cross-country perspective](https://doi.org/10.1787/1fd68687-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [Impact Evaluation of Active Labour Market Policies in Portugal](https://doi.org/10.1787/c4b2ca21-en)
 
 Embargo date | Launch date
@@ -274,7 +296,7 @@ Wednesday 13 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -282,7 +304,7 @@ Wednesday 13 November 2024 at 7:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -297,7 +319,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -311,6 +333,52 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 ------
 
+## [Resource Compendium of PRTR Release Estimation Techniques, Part 1: Summary of Point Source Techniques - Third edition](https://doi.org/10.1787/3ac5cedb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The triangle of lifelong learning - Strategies, motivation, and self-belief](https://doi.org/10.1787/45ec682f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Résultats du PISA 2022 (Volume V – version abrégée) - Stratégies et attitudes d'apprentissage à l'école – des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
 
 Embargo date | Launch date
@@ -319,8 +387,8 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -328,9 +396,9 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -354,6 +422,29 @@ Wednesday 13 November 2024 at 10:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [31st OECD/UNCTAD report on G20 trade and investment measures](https://doi.org/10.1787/ea409cda-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 13 November 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -526,6 +617,29 @@ Friday 15 November 2024 at 8:00 | no launch event
 
 ------
 
+## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Portugal](https://doi.org/10.1787/80af89c0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Drivers of Trust in Public Institutions in Chile](https://doi.org/10.1787/0eb6341f-en)
 
 Embargo date | Launch date
@@ -534,8 +648,8 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -543,7 +657,7 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -576,6 +690,29 @@ Monday 18 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Rapport sur la fiscalité du Secrétaire général de l'OCDE à l'intention des chefs d'État et de gouvernement du G20 (novembre 2024)](https://doi.org/10.1787/f6108436-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Health at a Glance: Europe 2024 - State of Health in the EU Cycle](https://doi.org/10.1787/b3704e14-en)
 
 Embargo date | Launch date
@@ -585,7 +722,7 @@ Monday 18 November 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -593,9 +730,9 @@ Monday 18 November 2024 at 11:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1104,56 +1241,6 @@ Friday 29 November 2024 at 10:00 | no launch event
 
 ------
 
-# 30 November 2024
-
-## [Revenue Statistics in Africa 2024 - Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations](https://doi.org/10.1787/78e9af3a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 30 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Statistiques des recettes publiques en Afrique 2024 - Facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Saturday 30 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 2 December 2024
 
 ## [OECD Pensions Outlook 2024 - Improving Asset-backed Pensions for Better Retirement Outcomes and More Resilient Pensions Systems](https://doi.org/10.1787/51510909-en)
@@ -1279,6 +1366,52 @@ Monday 9 December 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics in Africa 2024 - Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations](https://doi.org/10.1787/78e9af3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques en Afrique 2024 - Facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
