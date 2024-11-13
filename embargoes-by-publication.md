@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 12 November 2024 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Report of the 12th Expert Group on Biopesticides Seminar on Problem Formulation for the risk assessment of biopesticides](https://doi.org/10.1787/c78ef74a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 11 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Wednesday 13 November 2024 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OCDE-FAO Perspectivas Agrícolas 2024-2033](https://doi.org/10.1787/2b0c9d81-es)
 
@@ -418,6 +395,29 @@ Wednesday 13 November 2024 at 14:00 | no launch event
 
 ------
 
+## [Assessing potential future artificial intelligence risks, benefits and policy imperatives](https://doi.org/10.1787/3f4e3dfb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 14 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Communications*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [The Role of the G20 in Promoting Green and Just Transitions](https://doi.org/10.1787/548e71cd-en)
 
 Embargo date | Launch date
@@ -496,7 +496,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -518,8 +518,8 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -527,9 +527,9 @@ Thursday 14 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -579,6 +579,29 @@ Friday 15 November 2024 at 8:00 | no launch event
 
 ------
 
+## [The G20 and the promotion of equal opportunities - Tackling the root causes of inequality, exclusion and discrimination](https://doi.org/10.1787/9d09e3d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Portugal](https://doi.org/10.1787/80af89c0-en)
 
 Embargo date | Launch date
@@ -602,6 +625,29 @@ Friday 15 November 2024 at 10:00 | no launch event
 
 ------
 
+## [Los determinantes de la confianza en las instituciones públicas de Chile](https://doi.org/10.1787/9cdf8865-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *Spanish*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Drivers of Trust in Public Institutions in Chile](https://doi.org/10.1787/0eb6341f-en)
 
 Embargo date | Launch date
@@ -611,7 +657,7 @@ Friday 15 November 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -619,9 +665,9 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -993,6 +1039,29 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
+## [The OECD Inventory of Support Measures for Fossil Fuels 2024 - Policy Trends up to 2023](https://doi.org/10.1787/a2f063fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Grenada 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1c45badc-en)
 
 Embargo date | Launch date
@@ -1242,6 +1311,29 @@ Wednesday 4 December 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Greece 2024](https://doi.org/10.1787/a35a56b6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 December 2024 at 8:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
