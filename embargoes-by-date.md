@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 13 November 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 14 November 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 November 2024](#12-november-2024)
 * [13 November 2024](#13-november-2024)
 * [14 November 2024](#14-november-2024)
 * [15 November 2024](#15-november-2024)
@@ -21,217 +20,6 @@ Data generated on | |
 * [9 December 2024](#9-december-2024)
 * [13 December 2024](#13-december-2024)
 * [10 January 2025](#10-january-2025)
-
-------
-
-# 12 November 2024
-
-## [OCDE-FAO Perspectivas Agrícolas 2024-2033](https://doi.org/10.1787/2b0c9d81-es)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 5 November 2024 at 22:27
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Building Trust and Enhancing Dialogue for Safe-and-Sustainable-by-Design (SSbD) Innovation: Developing Tools to Enhance Trusted Environments](https://doi.org/10.1787/c17d0c0e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [What is the role of Government Venture Capital for innovation-driven entrepreneurship?](https://doi.org/10.1787/6430069e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Engaging parents and guardians in early childhood education and care centres](https://doi.org/10.1787/d05dd1cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Case study on the Use of Integrated Approaches for Testing and Assessment (IATA) for Bioaccumulation - Ninth Review Cycle (2023)](https://doi.org/10.1787/8bc8ad6f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The standard and burden of proof in competition law cases](https://doi.org/10.1787/0199f63f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The Circular Economy in Møre and Romsdal, Norway](https://doi.org/10.1787/06d2e10c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [The Circular Economy in Berlin, Germany](https://doi.org/10.1787/459defe7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 12 November 2024 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 6 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -269,7 +57,7 @@ Wednesday 13 November 2024 at 7:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -352,7 +140,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 
 ------
 
-## [Résultats du PISA 2022 (Volume V – version abrégée) - Stratégies et attitudes d'apprentissage à l'école – des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
+## [Résultats du PISA 2022 (Volume V – version abrégée) - Stratégies et attitudes des élèves vis-à-vis des apprentissages : Des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -361,7 +149,7 @@ Wednesday 13 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -384,7 +172,7 @@ Wednesday 13 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -448,29 +236,6 @@ Thursday 14 November 2024 at 6:00 | no launch event
 
 ------
 
-## [The Role of the G20 in Promoting Green and Just Transitions](https://doi.org/10.1787/548e71cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 8 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
 ## [International Migration Outlook 2024](https://doi.org/10.1787/50b0353e-en)
 
 Embargo date | Launch date
@@ -480,7 +245,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -503,7 +268,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 7 November 2024 at 22:34
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -526,7 +291,7 @@ Thursday 14 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -575,8 +340,8 @@ Friday 15 November 2024 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -584,7 +349,7 @@ Friday 15 November 2024 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -598,8 +363,8 @@ Friday 15 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -607,8 +372,31 @@ Friday 15 November 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [The Role of the G20 in Promoting Green and Just Transitions](https://doi.org/10.1787/548e71cd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 15 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -764,7 +552,7 @@ Monday 18 November 2024 at 11:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
+- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -1085,7 +873,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
-## [The OECD Inventory of Support Measures for Fossil Fuels 2024 - Policy Trends up to 2023](https://doi.org/10.1787/a2f063fe-en)
+## [OECD Inventory of Support Measures for Fossil Fuels 2024 - Policy Trends up to 2023](https://doi.org/10.1787/a2f063fe-en)
 
 Embargo date | Launch date
 -------------|:------------:
