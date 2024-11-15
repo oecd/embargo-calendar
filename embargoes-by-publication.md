@@ -2,191 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 14 November 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The role of bargaining and discrimination in the gender wage gap in France - A cross-country perspective](https://doi.org/10.1787/1fd68687-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [Impact Evaluation of Active Labour Market Policies in Portugal](https://doi.org/10.1787/c4b2ca21-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [PISA 2022 Results (Volume V) - Learning Strategies and Attitudes for Life](https://doi.org/10.1787/c2e44201-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Resource Compendium of PRTR Release Estimation Techniques, Part 1: Summary of Point Source Techniques - Third edition](https://doi.org/10.1787/3ac5cedb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The triangle of lifelong learning - Strategies, motivation, and self-belief](https://doi.org/10.1787/45ec682f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Résultats du PISA 2022 (Volume V – version abrégée) - Stratégies et attitudes des élèves vis-à-vis des apprentissages : Des atouts pour la vie](https://doi.org/10.1787/29f9ad1c-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Administration 2024 - Comparative Information on OECD and other Advanced and Emerging Economies](https://doi.org/10.1787/2d5fba9c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [31st OECD/UNCTAD report on G20 trade and investment measures](https://doi.org/10.1787/ea409cda-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 13 November 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Friday 15 November 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Assessing potential future artificial intelligence risks, benefits and policy imperatives](https://doi.org/10.1787/3f4e3dfb-en)
 
@@ -197,7 +13,7 @@ Thursday 14 November 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -335,7 +151,7 @@ Friday 15 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -358,7 +174,7 @@ Friday 15 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -381,7 +197,7 @@ Friday 15 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -427,7 +243,7 @@ Friday 15 November 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -450,7 +266,7 @@ Friday 15 November 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -464,6 +280,121 @@ Friday 15 November 2024 at 13:00 | no launch event
 
 ------
 
+## [A comprehensive overview of the renewable energy industrial ecosystem](https://doi.org/10.1787/94dce592-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Creating pathways to success for young people](https://doi.org/10.1787/fa0145d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Subnational Public Employment in OECD and EU Countries - Takeaways from the SUBEMP Pilot Database](https://doi.org/10.1787/ae2102f4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [L’interaction entre la concurrence et la démocratie](https://doi.org/10.1787/7da00707-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Going Granular with Regional and Municipal Fiscal Data - OECD and EU Countries](https://doi.org/10.1787/8a17c019-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Secretary-General Tax Report to G20 Leaders (G20 Brazil, November 2024)](https://doi.org/10.1787/99a5b4cf-en)
 
 Embargo date | Launch date
@@ -472,8 +403,8 @@ Monday 18 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -481,13 +412,13 @@ Monday 18 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [Rapport sur la fiscalité du Secrétaire général de l'OCDE à l'intention des chefs d'État et de gouvernement du G20 (novembre 2024)](https://doi.org/10.1787/f6108436-fr)
+## [Rapport sur la fiscalité du Secrétaire général de l'OCDE à l'intention des chefs d'État et de gouvernement du G20 (G20 Brésil, novembre 2024)](https://doi.org/10.1787/f6108436-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -495,8 +426,8 @@ Monday 18 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -504,7 +435,7 @@ Monday 18 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -533,7 +464,53 @@ Monday 18 November 2024 at 11:00 | no launch event
 
 ------
 
-## [Perspectives de l’économie numérique de l’OCDE (Volume 2) - Renforcer la connectivité, l’innovation et la confiance](https://doi.org/10.1787/fe8e1010-fr)
+## [OECD Secretary-General Report to G20 Leaders on the work of the Inclusive Forum on Carbon Mitigation Approaches (Brazil, November 2024)](https://doi.org/10.1787/13ac5d43-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport du Secrétaire général de l’OCDE aux chefs d’État et de gouvernement du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Brésil, novembre 2024)](https://doi.org/10.1787/c671b4d9-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 2) - Renforcer la connectivité, l’innovation et la confiance](https://doi.org/10.1787/fe8e1010-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -564,8 +541,8 @@ Tuesday 19 November 2024 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -573,8 +550,54 @@ Tuesday 19 November 2024 at 5:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Baseline Report of the Fifth Round of Monitoring of Anti-Corruption Reforms in Kyrgyzstan - The Istanbul Anti-Corruption Action Plan](https://doi.org/10.1787/187f45b3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Baseline Report of the Fifth Round of Monitoring of Anti-Corruption Reforms in Kazakhstan - The Istanbul Anti-Corruption Action Plan](https://doi.org/10.1787/c9652173-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -840,7 +863,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1342,7 +1365,7 @@ Friday 13 December 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 10 January 2025 at 14:00 | no launch event
+Friday 13 December 2024 at 14:00 | no launch event
 
 ### Status Information
 
