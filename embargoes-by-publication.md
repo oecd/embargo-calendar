@@ -2,283 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 15 November 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Assessing potential future artificial intelligence risks, benefits and policy imperatives](https://doi.org/10.1787/3f4e3dfb-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Communications*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [International Migration Outlook 2024](https://doi.org/10.1787/50b0353e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives des migrations internationales 2024](https://doi.org/10.1787/4fa9de98-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Pricing Greenhouse Gas Emissions 2024 - Gearing Up to Bring Emissions Down](https://doi.org/10.1787/b44c74e6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tarification 2024 des émissions de gaz à effet de serre (version abrégée) - Passer à la vitesse supérieure pour faire reculer les émissions](https://doi.org/10.1787/39d2faa7-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 14 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 13 November 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [(Q)SAR Assessment Framework: Guidance for the regulatory assessment of (Quantitative) Structure Activity Relationship models and predictions, Second Edition](https://doi.org/10.1787/bbdac345-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 14 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Managing Risks from Natural Hazards to Hazardous Installations (Natech) - A Guide for Senior Leaders in Industry and Public Authorities](https://doi.org/10.1787/9bb63229-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [The Role of the G20 in Promoting Green and Just Transitions](https://doi.org/10.1787/548e71cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The G20 and the promotion of equal opportunities - Tackling the root causes of inequality, exclusion and discrimination](https://doi.org/10.1787/9d09e3d0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Implementing the OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report: Portugal](https://doi.org/10.1787/80af89c0-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 12 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Los determinantes de la confianza en las instituciones públicas de Chile](https://doi.org/10.1787/9cdf8865-es)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *Spanish*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Drivers of Trust in Public Institutions in Chile](https://doi.org/10.1787/0eb6341f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 15 November 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 17 November 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A comprehensive overview of the renewable energy industrial ecosystem](https://doi.org/10.1787/94dce592-en)
 
@@ -368,6 +92,29 @@ Monday 18 November 2024 at 6:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Baseline Report of the Fifth Round of Monitoring of Anti-Corruption Reforms in Tajikistan - The Istanbul Anti-Corruption Action Plan](https://doi.org/10.1787/2f2a2398-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 18 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Sunday 17 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
