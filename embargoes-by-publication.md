@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 17 November 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 18 November 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A comprehensive overview of the renewable energy industrial ecosystem](https://doi.org/10.1787/94dce592-en)
 
@@ -219,8 +219,8 @@ Monday 18 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -228,7 +228,7 @@ Monday 18 November 2024 at 13:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -242,8 +242,8 @@ Monday 18 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2024 at 22:28
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -251,31 +251,8 @@ Monday 18 November 2024 at 13:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Perspectives de l’économie numérique de l’OCDE 2024 (Volume 2) - Renforcer la connectivité, l’innovation et la confiance](https://doi.org/10.1787/fe8e1010-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -300,6 +277,29 @@ Tuesday 19 November 2024 at 5:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [The surge of Green, Social, Sustainability and Sustainability-linked (GSSS) bonds in Latin America and the Caribbean - Facts and policy implications](https://doi.org/10.1787/f1c893a3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 19 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
@@ -345,167 +345,6 @@ Tuesday 19 November 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uganda 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6e03bd0b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Montenegro 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e2a493d7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Colombia 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/76d26379-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Guyana 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6fa4af0d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Rwanda 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0adbbbb5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Azerbaijan 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/61475f9f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Senegal 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/51bf4668-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -564,6 +403,190 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Inventory of Support Measures for Fossil Fuels 2024 - Policy Trends up to 2023](https://doi.org/10.1787/a2f063fe-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 18 November 2024 at 22:28
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Uganda 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6e03bd0b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Montenegro 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e2a493d7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Colombia 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/76d26379-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Guyana 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/6fa4af0d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Rwanda 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/0adbbbb5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Azerbaijan 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/61475f9f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Senegal 2024 (Second Round) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/51bf4668-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 13:00 | no launch event
+
+### Status Information
+
 - [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
@@ -583,7 +606,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
+Thursday 21 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
@@ -602,34 +625,11 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ------
 
-## [OECD Inventory of Support Measures for Fossil Fuels 2024 - Policy Trends up to 2023](https://doi.org/10.1787/a2f063fe-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Grenada 2024 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/1c45badc-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
+Thursday 21 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
@@ -652,7 +652,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
+Thursday 21 November 2024 at 13:00 | no launch event
 
 ### Status Information
 
@@ -1032,6 +1032,29 @@ Monday 9 December 2024 at 16:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Understanding Skill Gaps in Firms - Results of the PIAAC Employer Module](https://doi.org/10.1787/b388d1da-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*

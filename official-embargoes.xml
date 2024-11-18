@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-11-17T22:57:18.5251745+01:00">
+<report name="official-embargoes" generated="2024-11-18T23:00:03.2447131+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -6507,17 +6507,17 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-11-18</cell>
     <cell name="embargo date">2024-11-18T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d54aa1f</cell>
   </row>
   <row index="326">
@@ -6527,40 +6527,20 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-11-18</cell>
     <cell name="embargo date">2024-11-18T13:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0babb039</cell>
   </row>
   <row index="327">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/fe8e1010-fr</cell>
-    <cell name="title">Perspectives de l’économie numérique de l’OCDE 2024 (Volume 2) (fr)</cell>
-    <cell name="subtitle">Renforcer la connectivité, l’innovation et la confiance (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-11-19</cell>
-    <cell name="embargo date">2024-11-19T05:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a960ddf4</cell>
-  </row>
-  <row index="328">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3adf705b-en</cell>
     <cell name="title">OECD Digital Economy Outlook 2024 (Volume 2) (en)</cell>
@@ -6579,6 +6559,26 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a8654da</cell>
+  </row>
+  <row index="328">
+    <cell name="directorate">Development Centre</cell>
+    <cell name="doi">10.1787/f1c893a3-en</cell>
+    <cell name="title">The surge of Green, Social, Sustainability and Sustainability-linked (GSSS) bonds in Latin America and the Caribbean (en)</cell>
+    <cell name="subtitle">Facts and policy implications (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-11-19</cell>
+    <cell name="embargo date">2024-11-19T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Policy paper</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8decd7dc</cell>
   </row>
   <row index="329">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
@@ -6642,9 +6642,9 @@
   </row>
   <row index="332">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/6e03bd0b-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Uganda 2024 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="doi">10.1787/50cfff88-en</cell>
+    <cell name="title">Value-added taxes - Main design features and trends (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -6656,15 +6656,15 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d81c2dec</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f77ed968</cell>
   </row>
   <row index="333">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/e2a493d7-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Montenegro 2024 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="doi">10.1787/862c0716-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -6676,15 +6676,15 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/224d8732</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2c5ab5b</cell>
   </row>
   <row index="334">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/76d26379-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Colombia 2024 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="doi">10.1787/8f1a0825-en</cell>
+    <cell name="title">Taxing Vehicles and their Use (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -6696,15 +6696,15 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59093feb</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2022806</cell>
   </row>
   <row index="335">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/6fa4af0d-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guyana 2024 (Second Round, Phase 1) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="doi">10.1787/b397d5ca-en</cell>
+    <cell name="title">Acronyms (en)</cell>
+    <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
@@ -6716,71 +6716,11 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/066ae8df</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf03e2a9</cell>
   </row>
   <row index="336">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/0adbbbb5-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Rwanda 2024 (Second Round, Phase 1) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-11-21</cell>
-    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6314df5d</cell>
-  </row>
-  <row index="337">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/61475f9f-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Azerbaijan 2024 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-11-21</cell>
-    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/718fb0e1</cell>
-  </row>
-  <row index="338">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/51bf4668-en</cell>
-    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Senegal 2024 (Second Round) (en)</cell>
-    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2024-11-21</cell>
-    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c6c3b19</cell>
-  </row>
-  <row index="339">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c87a3da5-en</cell>
     <cell name="title">Revenue Statistics 2024 (en)</cell>
@@ -6800,7 +6740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a3c4346</cell>
   </row>
-  <row index="340">
+  <row index="337">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2ea729a7-fr</cell>
     <cell name="title">Statistiques des recettes publiques 2024 (fr)</cell>
@@ -6820,7 +6760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9b3d1a5e</cell>
   </row>
-  <row index="341">
+  <row index="338">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/dcd4dd36-en</cell>
     <cell name="title">Consumption Tax Trends 2024 (en)</cell>
@@ -6837,15 +6777,15 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2292037f</cell>
   </row>
-  <row index="342">
+  <row index="339">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/a34cdbec-fr</cell>
-    <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Sénégal 2024 (Deuxième cycle) (fr)</cell>
-    <cell name="subtitle">Rapport d'examen par les pairs sur l'échange de renseignements sur demande (fr)</cell>
-    <cell name="language">French</cell>
+    <cell name="doi">10.1787/f147c061-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-11-21</cell>
@@ -6856,9 +6796,69 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1668128c</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8963748f</cell>
+  </row>
+  <row index="340">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/a2f063fe-en</cell>
+    <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2024 (en)</cell>
+    <cell name="subtitle">Policy Trends up to 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ePub</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/035fdd76</cell>
+  </row>
+  <row index="341">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/0e369338-en</cell>
+    <cell name="title">Exchange rates (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c83555ef</cell>
+  </row>
+  <row index="342">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f508700a-en</cell>
+    <cell name="title">Consumption tax revenue - Main figures and trends (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f114f67d</cell>
   </row>
   <row index="343">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
@@ -6867,11 +6867,11 @@
     <cell name="subtitle">Policy Trends up to 2023 (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-11-21</cell>
     <cell name="embargo date">2024-11-21T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -6882,6 +6882,226 @@
   </row>
   <row index="344">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/d7d5f605-en</cell>
+    <cell name="title">Selected Excise Duties in OECD Countries (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a114c843</cell>
+  </row>
+  <row index="345">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/a2f063fe-en</cell>
+    <cell name="title">OECD Inventory of Support Measures for Fossil Fuels 2024 (en)</cell>
+    <cell name="subtitle">Policy Trends up to 2023 (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-11-18T21:28:47Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02d414bd</cell>
+  </row>
+  <row index="346">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8301f3b2-en</cell>
+    <cell name="title">Countries with VAT (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/708e1d75</cell>
+  </row>
+  <row index="347">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6e03bd0b-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Uganda 2024 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d81c2dec</cell>
+  </row>
+  <row index="348">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/e2a493d7-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Montenegro 2024 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/224d8732</cell>
+  </row>
+  <row index="349">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/76d26379-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Colombia 2024 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59093feb</cell>
+  </row>
+  <row index="350">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/6fa4af0d-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Guyana 2024 (Second Round, Phase 1) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/066ae8df</cell>
+  </row>
+  <row index="351">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/0adbbbb5-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Rwanda 2024 (Second Round, Phase 1) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6314df5d</cell>
+  </row>
+  <row index="352">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/61475f9f-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Azerbaijan 2024 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/718fb0e1</cell>
+  </row>
+  <row index="353">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/51bf4668-en</cell>
+    <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Senegal 2024 (Second Round) (en)</cell>
+    <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c6c3b19</cell>
+  </row>
+  <row index="354">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a34cdbec-fr</cell>
+    <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Sénégal 2024 (Deuxième cycle) (fr)</cell>
+    <cell name="subtitle">Rapport d'examen par les pairs sur l'échange de renseignements sur demande (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-11-21</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1668128c</cell>
+  </row>
+  <row index="355">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1c45badc-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Grenada 2024 (Second Round, Phase 1) (en)</cell>
     <cell name="subtitle">Peer Review Report on the Exchange of Information on Request (en)</cell>
@@ -6889,7 +7109,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-11-21</cell>
-    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -6900,7 +7120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b95bdf57</cell>
   </row>
-  <row index="345">
+  <row index="356">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/4bfc35b0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Bosnia and Herzegovina 2024 (Second Round) (en)</cell>
@@ -6909,7 +7129,7 @@
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
     <cell name="date of publication">2024-11-21</cell>
-    <cell name="embargo date">2024-11-21T10:00:00Z</cell>
+    <cell name="embargo date">2024-11-21T13:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
@@ -6920,7 +7140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/17924a02</cell>
   </row>
-  <row index="346">
+  <row index="357">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dd5140e4-en</cell>
     <cell name="title">Education Policy Outlook 2024 (en)</cell>
@@ -6940,7 +7160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/256613f9</cell>
   </row>
-  <row index="347">
+  <row index="358">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/dd5140e4-en</cell>
     <cell name="title">Education Policy Outlook 2024 (en)</cell>
@@ -6960,7 +7180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7bea177</cell>
   </row>
-  <row index="348">
+  <row index="359">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2cae0310-fr</cell>
     <cell name="title">Boîte à outils de l'OCDE sur les politiques en faveur des jeunes (fr)</cell>
@@ -6980,7 +7200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89ab1e03</cell>
   </row>
-  <row index="349">
+  <row index="360">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/74b6f8f3-en</cell>
     <cell name="title">OECD Youth Policy Toolkit (en)</cell>
@@ -7000,7 +7220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2a553e2</cell>
   </row>
-  <row index="350">
+  <row index="361">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/de87555a-en</cell>
     <cell name="title">OECD Economic Surveys: Indonesia 2024 (en)</cell>
@@ -7020,7 +7240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0ff4e581</cell>
   </row>
-  <row index="351">
+  <row index="362">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1aa02413-en</cell>
     <cell name="title">Peer Review of the Automatic Exchange of Financial Account Information 2024 Update (en)</cell>
@@ -7040,7 +7260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fc008f6</cell>
   </row>
-  <row index="352">
+  <row index="363">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a551b351-en</cell>
     <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) (en)</cell>
@@ -7060,7 +7280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc278040</cell>
   </row>
-  <row index="353">
+  <row index="364">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/51510909-en</cell>
     <cell name="title">OECD Pensions Outlook 2024 (en)</cell>
@@ -7080,7 +7300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc98c2bb</cell>
   </row>
-  <row index="354">
+  <row index="365">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: Northern Denmark Region (en)</cell>
@@ -7100,7 +7320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5ea5008</cell>
   </row>
-  <row index="355">
+  <row index="366">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
@@ -7120,7 +7340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2561c74c</cell>
   </row>
-  <row index="356">
+  <row index="367">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a35a56b6-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2024 (en)</cell>
@@ -7140,7 +7360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d455638</cell>
   </row>
-  <row index="357">
+  <row index="368">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -7160,7 +7380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2e3af6</cell>
   </row>
-  <row index="358">
+  <row index="369">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/01497fea-en</cell>
     <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
@@ -7180,7 +7400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47b76d58</cell>
   </row>
-  <row index="359">
+  <row index="370">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/78e9af3a-en</cell>
     <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
@@ -7200,7 +7420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/955a8a8c</cell>
   </row>
-  <row index="360">
+  <row index="371">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cd87af6f-fr</cell>
     <cell name="title">Statistiques des recettes publiques en Afrique 2024 (fr)</cell>
@@ -7220,7 +7440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3e5100a</cell>
   </row>
-  <row index="361">
+  <row index="372">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b41ab8e-en</cell>
     <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
@@ -7240,7 +7460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa7bbed1</cell>
   </row>
-  <row index="362">
+  <row index="373">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b41ab8e-en</cell>
     <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
@@ -7260,7 +7480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a268d5e6</cell>
   </row>
-  <row index="363">
+  <row index="374">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c437947f-en</cell>
     <cell name="title">Latin American Economic Outlook 2024 (en)</cell>
@@ -7280,7 +7500,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df597a3e</cell>
   </row>
-  <row index="364">
+  <row index="375">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/b388d1da-en</cell>
+    <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
+    <cell name="subtitle">Results of the PIAAC Employer Module (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef06c20b</cell>
+  </row>
+  <row index="376">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0fec780e-en</cell>
     <cell name="title">OECD Toolkit to Combat Homelessness (en)</cell>
@@ -7300,7 +7540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e9328f2</cell>
   </row>
-  <row index="365">
+  <row index="377">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/10fb12de-fr</cell>
     <cell name="title">Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2023 (version abrégée) (fr)</cell>
@@ -7320,7 +7560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89179266</cell>
   </row>
-  <row index="366">
+  <row index="378">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/efbad00d-en</cell>
     <cell name="title">Harmful Tax Practices – 2023 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
@@ -7340,7 +7580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24507a3f</cell>
   </row>
-  <row index="367">
+  <row index="379">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a8e79405-en</cell>
     <cell name="title">Caribbean Development Dynamics 2024 (en)</cell>
