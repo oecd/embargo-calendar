@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 18 November 2024 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 19 November 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [A comprehensive overview of the renewable energy industrial ecosystem](https://doi.org/10.1787/94dce592-en)
 
@@ -257,29 +257,6 @@ Monday 18 November 2024 at 13:00 | no launch event
 
 ------
 
-## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [The surge of Green, Social, Sustainability and Sustainability-linked (GSSS) bonds in Latin America and the Caribbean - Facts and policy implications](https://doi.org/10.1787/f1c893a3-en)
 
 Embargo date | Launch date
@@ -349,11 +326,80 @@ Tuesday 19 November 2024 at 8:00 | no launch event
 
 ------
 
-## [Revenue Statistics 2024 - Health Taxes in OECD Countries](https://doi.org/10.1787/c87a3da5-en)
+## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 21 November 2024 at 10:00 | no launch event
+Tuesday 19 November 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Review of relevance of the OECD Recommendation on ICTs and the Environment](https://doi.org/10.1787/216766c6-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Competition in the food supply chain](https://doi.org/10.1787/37d6b801-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Thyroid in vitro methods: assessment reports by the thyroid disruption methods expert group - Reports assessing the validation status of assays from the EU-NETVAL activities](https://doi.org/10.1787/3786c75f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
@@ -364,9 +410,32 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Revenue Statistics 2024 - Health Taxes in OECD Countries](https://doi.org/10.1787/c87a3da5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 21 November 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -381,7 +450,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -389,7 +458,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -404,7 +473,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -412,9 +481,9 @@ Thursday 21 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -671,6 +740,29 @@ Thursday 21 November 2024 at 13:00 | no launch event
 
 ------
 
+## [Performance auditing in Poland - Best practices](https://doi.org/10.1787/34e2353d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 November 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
 
 Embargo date | Launch date
@@ -702,8 +794,8 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -711,9 +803,9 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -725,8 +817,8 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -734,9 +826,9 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1036,6 +1128,29 @@ Monday 9 December 2024 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Do Adults Have the Skills They Need to Thrive in a Changing World? - Survey of Adult Skills 2023](https://doi.org/10.1787/b263dc5d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
