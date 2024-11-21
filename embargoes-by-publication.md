@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 20 November 2024 at 23:25* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Digital Economy Outlook 2024 (Volume 2) - Strengthening Connectivity, Innovation and Trust](https://doi.org/10.1787/3adf705b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 November 2024 at 22:38
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [The surge of Green, Social, Sustainability and Sustainability-linked (GSSS) bonds in Latin America and the Caribbean - Facts and policy implications](https://doi.org/10.1787/f1c893a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 November 2024 at 22:38
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Baseline Report of the Fifth Round of Monitoring of Anti-Corruption Reforms in Kyrgyzstan - The Istanbul Anti-Corruption Action Plan](https://doi.org/10.1787/187f45b3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Baseline Report of the Fifth Round of Monitoring of Anti-Corruption Reforms in Kazakhstan - The Istanbul Anti-Corruption Action Plan](https://doi.org/10.1787/c9652173-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 19 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 15 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Thursday 21 November 2024 at 23:23* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Review of relevance of the OECD Recommendation on ICTs and the Environment](https://doi.org/10.1787/216766c6-en)
 
@@ -197,7 +105,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 November 2024 at 22:38
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -220,7 +128,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 November 2024 at 22:38
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -243,7 +151,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -276,7 +184,7 @@ Thursday 21 November 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, PDF*
+* Formats: *ePub, HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -533,29 +441,6 @@ Friday 22 November 2024 at 6:00 | no launch event
 
 ------
 
-## [Pension Markets in Focus 2024](https://doi.org/10.1787/b11473d3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 22 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 20 November 2024 at 22:38
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
 ## [Rural discontent - Social unease and quality of life in the rural countryside](https://doi.org/10.1787/a7164b54-en)
 
 Embargo date | Launch date
@@ -575,6 +460,29 @@ Friday 22 November 2024 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence](https://doi.org/10.1787/b524a072-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 22 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
@@ -702,8 +610,8 @@ Monday 25 November 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -711,9 +619,9 @@ Monday 25 November 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -829,6 +737,29 @@ Friday 29 November 2024 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Pension Markets in Focus 2024](https://doi.org/10.1787/b11473d3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1016,7 +947,7 @@ Monday 9 December 2024 at 10:00 | no launch event
 
 ------
 
-## [Statistiques des recettes publiques en Afrique 2024 - Facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
+## [Statistiques des recettes publiques en Afrique 2024 - La facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
 
 Embargo date | Launch date
 -------------|:------------:
