@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 21 November 2024 at 23:23* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 22 November 2024 at 23:27* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 November 2024](#21-november-2024)
 * [22 November 2024](#22-november-2024)
@@ -627,6 +627,29 @@ Friday 22 November 2024 at 8:00 | no launch event
 
 # 25 November 2024
 
+## [The humanitarian-development-peace nexus and forced displacement - Progress, insights and recommendations for operational practice](https://doi.org/10.1787/3e493170-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 25 November 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
 
 Embargo date | Launch date
@@ -636,7 +659,7 @@ Monday 25 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
+- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -663,7 +686,7 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -671,8 +694,31 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [VITARA Reference Guide: Institutional Governance](https://doi.org/10.1787/1ade5674-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -850,6 +896,98 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 
 ------
 
+## [Egypt](https://doi.org/10.1787/47c3f16b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF*
+
+------
+
+## [Ukraine](https://doi.org/10.1787/f33c279e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF*
+
+------
+
+## [Mauritius](https://doi.org/10.1787/b79d8096-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF*
+
+------
+
+## [Egypte](https://doi.org/10.1787/a46c23bc-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF*
+
+------
+
 ## [OECD Economic Outlook, Volume 2024 Issue 2 - Preliminary version](https://doi.org/10.1787/d8814e8b-en)
 
 Embargo date | Launch date
@@ -870,6 +1008,29 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
+
+------
+
+## [Morocco](https://doi.org/10.1787/4738e14f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF*
 
 ------
 
