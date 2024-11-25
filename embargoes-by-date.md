@@ -2,18 +2,20 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 24 November 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 25 November 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [25 November 2024](#25-november-2024)
 * [26 November 2024](#26-november-2024)
 * [29 November 2024](#29-november-2024)
 * [2 December 2024](#2-december-2024)
+* [3 December 2024](#3-december-2024)
 * [4 December 2024](#4-december-2024)
 * [5 December 2024](#5-december-2024)
 * [6 December 2024](#6-december-2024)
 * [9 December 2024](#9-december-2024)
 * [10 December 2024](#10-december-2024)
 * [13 December 2024](#13-december-2024)
+* [16 December 2024](#16-december-2024)
 
 ------
 
@@ -28,7 +30,7 @@ Monday 25 November 2024 at 6:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -51,7 +53,7 @@ Monday 25 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -78,7 +80,7 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -86,9 +88,32 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF*
+
+------
+
+## [SURVEI EKONOMI OECD INDONESIA 2024](https://doi.org/10.1787/9d9fdbd2-id)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 2:50 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Indonesian*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -169,8 +194,8 @@ Tuesday 26 November 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -178,8 +203,31 @@ Tuesday 26 November 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [2023 OECD/IDB Digital Government Index of Latin America and the Caribbean - Results and key findings](https://doi.org/10.1787/10b82c83-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 26 November 2024 at 18:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
 * Format: *PDF*
 
 ------
@@ -263,9 +311,36 @@ Monday 2 December 2024 at 13:00 | no launch event
 
 ------
 
+# 3 December 2024
+
+## [Gender budgeting in Brazil](https://doi.org/10.1787/fa31b226-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 3 December 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 4 December 2024
 
-## [Investing in Youth: Northern Denmark Region](https://doi.org/10.1787/0856ce12-en)
+## [Investing in Youth: North Denmark Region](https://doi.org/10.1787/0856ce12-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -273,8 +348,8 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -282,9 +357,9 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -761,6 +836,33 @@ Friday 13 December 2024 at 14:00 | no launch event
 ### Additional Information
 
 * Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 December 2024
+
+## [Financial Consumer Protection in Ireland - A Review of the Central Bank of Ireland's Supervisory Functions](https://doi.org/10.1787/5315c3ca-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
