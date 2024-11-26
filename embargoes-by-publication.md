@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 25 November 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 26 November 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The humanitarian-development-peace nexus and forced displacement - Progress, insights and recommendations for operational practice](https://doi.org/10.1787/3e493170-en)
 
@@ -59,7 +59,7 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -69,11 +69,11 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *ePub, HTML, Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
-## [SURVEI EKONOMI OECD INDONESIA 2024](https://doi.org/10.1787/9d9fdbd2-id)
+## [Survei Ekonomi OECD Indonesia 2024](https://doi.org/10.1787/9d9fdbd2-id)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -81,8 +81,8 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -90,7 +90,7 @@ Tuesday 26 November 2024 at 2:50 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Indonesian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -128,7 +128,7 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -151,7 +151,7 @@ Tuesday 26 November 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 19 November 2024 at 22:32
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -174,7 +174,7 @@ Tuesday 26 November 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -197,7 +197,7 @@ Tuesday 26 November 2024 at 18:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -211,24 +211,47 @@ Tuesday 26 November 2024 at 18:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+## [Health at a Glance: Asia/Pacific 2024](https://doi.org/10.1787/51fed7e9-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 29 November 2024 at 10:00 | no launch event
+Thursday 28 November 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Position Paper on Good Laboratory Practice and IT Security](https://doi.org/10.1787/910b7bd2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -257,7 +280,7 @@ Monday 2 December 2024 at 13:00 | no launch event
 
 ------
 
-## [OECD Pensions Outlook 2024 - Improving Asset-backed Pensions for Better Retirement Outcomes and More Resilient Pensions Systems](https://doi.org/10.1787/51510909-en)
+## [OECD Pensions Outlook 2024 - Improving Asset-backed Pensions for Better Retirement Outcomes and More Resilient Pension Systems](https://doi.org/10.1787/51510909-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -303,6 +326,29 @@ Tuesday 3 December 2024 at 6:00 | no launch event
 
 ------
 
+## [Developments in Delegations on the Safety of Manufactured Nanomaterials and Advanced Materials between July 2023 and June 2024 – Tour de Table](https://doi.org/10.1787/74413c15-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Investing in Youth: North Denmark Region](https://doi.org/10.1787/0856ce12-en)
 
 Embargo date | Launch date
@@ -312,7 +358,7 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
+- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
