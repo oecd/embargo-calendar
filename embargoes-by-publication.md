@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 26 November 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The humanitarian-development-peace nexus and forced displacement - Progress, insights and recommendations for operational practice](https://doi.org/10.1787/3e493170-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 November 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Education Policy Outlook 2024 - Reshaping Teaching into a Thriving Profession from ABCs to AI](https://doi.org/10.1787/dd5140e4-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 25 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 27 November 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Indonesia 2024](https://doi.org/10.1787/de87555a-en)
 
@@ -288,8 +242,8 @@ Monday 2 December 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 27 November 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -297,9 +251,9 @@ Monday 2 December 2024 at 13:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
