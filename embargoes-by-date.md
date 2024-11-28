@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 27 November 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 28 November 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 November 2024](#26-november-2024)
 * [28 November 2024](#28-november-2024)
 * [2 December 2024](#2-december-2024)
 * [3 December 2024](#3-december-2024)
@@ -15,171 +14,6 @@ Data generated on | |
 * [10 December 2024](#10-december-2024)
 * [13 December 2024](#13-december-2024)
 * [16 December 2024](#16-december-2024)
-
-------
-
-# 26 November 2024
-
-## [OECD Economic Surveys: Indonesia 2024](https://doi.org/10.1787/de87555a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 2:50 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
-
-## [Survei Ekonomi OECD Indonesia 2024](https://doi.org/10.1787/9d9fdbd2-id)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 2:50 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Indonesian*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
-
-## [VITARA Reference Guide: Institutional Governance](https://doi.org/10.1787/1ade5674-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Friday 22 November 2024 at 22:33
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Boîte à outils de l'OCDE sur les politiques en faveur des jeunes](https://doi.org/10.1787/2cae0310-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Youth Policy Toolkit](https://doi.org/10.1787/74b6f8f3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Peer Review of the Automatic Exchange of Financial Account Information 2024 Update](https://doi.org/10.1787/1aa02413-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [2023 OECD/IDB Digital Government Index of Latin America and the Caribbean - Results and key findings](https://doi.org/10.1787/10b82c83-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 26 November 2024 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -211,6 +45,29 @@ Thursday 28 November 2024 at 8:30 | no launch event
 ------
 
 # 2 December 2024
+
+## [Responsible business due diligence and government procurement - Implications of new regulation](https://doi.org/10.1787/e30b4f38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 December 2024 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 28 November 2024 at 22:30
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Position Paper on Good Laboratory Practice and IT Security](https://doi.org/10.1787/910b7bd2-en)
 
@@ -815,7 +672,7 @@ Friday 13 December 2024 at 10:00 | no launch event
 
 ------
 
-## [Caribbean Development Dynamics 2024](https://doi.org/10.1787/a8e79405-en)
+## [Caribbean Development Dynamics 2025](https://doi.org/10.1787/a8e79405-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -824,7 +681,7 @@ Friday 13 December 2024 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 28 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -832,7 +689,7 @@ Friday 13 December 2024 at 14:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
