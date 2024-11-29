@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 28 November 2024 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 29 November 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 November 2024](#28-november-2024)
 * [2 December 2024](#2-december-2024)
@@ -457,52 +457,6 @@ Monday 9 December 2024 at 8:00 | no launch event
 
 ------
 
-## [Revenue Statistics in Africa 2024 - Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations](https://doi.org/10.1787/78e9af3a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Statistiques des recettes publiques en Afrique 2024 - La facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Promoting Better Career Mobility for Longer Working Lives in the United Kingdom](https://doi.org/10.1787/2b41ab8e-en)
 
 Embargo date | Launch date
@@ -599,6 +553,52 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 ------
 
+## [Revenue Statistics in Africa 2024 - Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations](https://doi.org/10.1787/78e9af3a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Statistiques des recettes publiques en Afrique 2024 - La facilitation et la confiance comme moteurs de la conformité fiscale volontaire dans certaines administrations fiscales africaines](https://doi.org/10.1787/cd87af6f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2024 at 13:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 13 December 2024
@@ -619,52 +619,6 @@ Friday 13 December 2024 at 9:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2023 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/10fb12de-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Harmful Tax Practices – 2023 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/efbad00d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
@@ -715,6 +669,52 @@ Monday 16 December 2024 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2023 (version abrégée) - Cadre inclusif sur le BEPS : Action 5](https://doi.org/10.1787/10fb12de-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Harmful Tax Practices – 2023 Peer Review Reports on the Exchange of Information on Tax Rulings - Inclusive Framework on BEPS: Action 5](https://doi.org/10.1787/efbad00d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 16 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
