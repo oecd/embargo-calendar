@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 November 2024 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Health at a Glance: Asia/Pacific 2024](https://doi.org/10.1787/51fed7e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 1 December 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Responsible business due diligence and government procurement - Implications of new regulation](https://doi.org/10.1787/e30b4f38-en)
 

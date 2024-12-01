@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 29 November 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 1 December 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 November 2024](#28-november-2024)
 * [2 December 2024](#2-december-2024)
 * [3 December 2024](#3-december-2024)
 * [4 December 2024](#4-december-2024)
@@ -14,33 +13,6 @@ Data generated on | |
 * [10 December 2024](#10-december-2024)
 * [13 December 2024](#13-december-2024)
 * [16 December 2024](#16-december-2024)
-
-------
-
-# 28 November 2024
-
-## [Health at a Glance: Asia/Pacific 2024](https://doi.org/10.1787/51fed7e9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 28 November 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
