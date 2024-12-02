@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 December 2024 at 22:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 2 December 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 December 2024](#2-december-2024)
 * [3 December 2024](#3-december-2024)
@@ -360,7 +360,7 @@ Thursday 5 December 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -388,7 +388,7 @@ Friday 6 December 2024 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 December 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -396,7 +396,7 @@ Friday 6 December 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 

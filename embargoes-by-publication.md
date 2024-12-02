@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 1 December 2024 at 22:57* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 2 December 2024 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Responsible business due diligence and government procurement - Implications of new regulation](https://doi.org/10.1787/e30b4f38-en)
 
@@ -334,7 +334,7 @@ Thursday 5 December 2024 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -358,7 +358,7 @@ Friday 6 December 2024 at 6:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Monday 2 December 2024 at 22:29
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -366,7 +366,7 @@ Friday 6 December 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
