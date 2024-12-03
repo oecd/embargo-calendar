@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 2 December 2024 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 3 December 2024 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 December 2024](#2-december-2024)
 * [3 December 2024](#3-december-2024)
@@ -73,7 +73,7 @@ Monday 2 December 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 21 November 2024 at 22:33
+- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -96,7 +96,7 @@ Monday 2 December 2024 at 13:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 27 November 2024 at 22:35
+- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -149,7 +149,7 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -158,8 +158,8 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
+* Availability: *Published*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -195,7 +195,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -204,9 +204,32 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Maurice](https://doi.org/10.1787/e6d269e5-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 4 December 2024 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -218,7 +241,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -227,9 +250,9 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -241,7 +264,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -250,13 +273,13 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
-## [Egypte](https://doi.org/10.1787/a46c23bc-fr)
+## [Maroc](https://doi.org/10.1787/c5ba25d0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -264,7 +287,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -273,9 +296,9 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -287,8 +310,8 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -296,9 +319,9 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -310,7 +333,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -319,9 +342,9 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Short content*
-* Formats: *DOCX, PDF*
+* Formats: *DOCX, PDF, ZJCR*
 
 ------
 
@@ -333,8 +356,8 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -342,9 +365,9 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -406,6 +429,29 @@ Friday 6 December 2024 at 6:00 | no launch event
 
 # 9 December 2024
 
+## [Annual survey on financial incentives for retirement savings - Country profiles 2024](https://doi.org/10.1787/16d0283c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Promoting the Growth of the Semiconductor Ecosystem in the Philippines](https://doi.org/10.1787/01497fea-en)
 
 Embargo date | Launch date
@@ -425,6 +471,29 @@ Monday 9 December 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Latin American Economic Outlook 2024 - Financing Sustainable Development](https://doi.org/10.1787/c437947f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 14:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -449,29 +518,6 @@ Monday 9 December 2024 at 16:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
-
-------
-
-## [Latin American Economic Outlook 2024 - Financing Sustainable Development](https://doi.org/10.1787/c437947f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
