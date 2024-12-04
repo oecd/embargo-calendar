@@ -2,99 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 3 December 2024 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Responsible business due diligence and government procurement - Implications of new regulation](https://doi.org/10.1787/e30b4f38-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [OECD Position Paper on Good Laboratory Practice and IT Security](https://doi.org/10.1787/910b7bd2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Pension Markets in Focus 2024](https://doi.org/10.1787/b11473d3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Pensions Outlook 2024 - Improving Asset-backed Pensions for Better Retirement Outcomes and More Resilient Pension Systems](https://doi.org/10.1787/51510909-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 2 December 2024 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 4 December 2024 at 23:57* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Gender budgeting in Brazil](https://doi.org/10.1787/fa31b226-en)
 
@@ -151,7 +59,7 @@ Wednesday 4 December 2024 at 8:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 26 November 2024 at 22:35
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -289,7 +197,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -299,7 +207,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -335,7 +243,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -345,7 +253,7 @@ Wednesday 4 December 2024 at 9:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Issue*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -358,7 +266,7 @@ Thursday 5 December 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -366,9 +274,9 @@ Thursday 5 December 2024 at 8:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -380,8 +288,8 @@ Friday 6 December 2024 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [x] Exported to iLibrary Monday 2 December 2024 at 22:29
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -389,9 +297,9 @@ Friday 6 December 2024 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -437,6 +345,29 @@ Monday 9 December 2024 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Examen des politiques de transformation économique du Togo - Pour une prospérité partagée](https://doi.org/10.1787/2c837a76-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -495,8 +426,8 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -504,9 +435,9 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -518,8 +449,8 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -527,9 +458,9 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -690,6 +621,29 @@ Monday 16 December 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Chile 2025](https://doi.org/10.1787/efad96ce-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
