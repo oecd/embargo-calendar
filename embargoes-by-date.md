@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 4 December 2024 at 23:57* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 5 December 2024 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 December 2024](#3-december-2024)
 * [4 December 2024](#4-december-2024)
 * [5 December 2024](#5-december-2024)
 * [6 December 2024](#6-december-2024)
@@ -12,34 +11,8 @@ Data generated on | |
 * [10 December 2024](#10-december-2024)
 * [13 December 2024](#13-december-2024)
 * [16 December 2024](#16-december-2024)
+* [20 December 2024](#20-december-2024)
 * [15 January 2025](#15-january-2025)
-
-------
-
-# 3 December 2024
-
-## [Gender budgeting in Brazil](https://doi.org/10.1787/fa31b226-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 3 December 2024 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Monday 25 November 2024 at 22:31
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -288,7 +261,7 @@ Thursday 5 December 2024 at 8:30 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -298,7 +271,7 @@ Thursday 5 December 2024 at 8:30 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -310,12 +283,12 @@ Thursday 5 December 2024 at 8:30 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 6 December 2024 at 6:00 | no launch event
+Friday 6 December 2024 at 7:55 | no launch event
 
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -364,8 +337,8 @@ Monday 9 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -373,32 +346,9 @@ Monday 9 December 2024 at 8:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Examen des politiques de transformation économique du Togo - Pour une prospérité partagée](https://doi.org/10.1787/2c837a76-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 11:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -411,7 +361,7 @@ Monday 9 December 2024 at 14:00 | no launch event
 ### Status Information
 
 - [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -419,7 +369,7 @@ Monday 9 December 2024 at 14:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -433,8 +383,8 @@ Monday 9 December 2024 at 16:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -442,9 +392,9 @@ Monday 9 December 2024 at 16:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -461,7 +411,7 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 ### Status Information
 
 - [x] FTI loaded 
-- [x] Exported to iLibrary Wednesday 4 December 2024 at 22:31
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -506,8 +456,8 @@ Tuesday 10 December 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
+- [x] FTI loaded 
+- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
@@ -515,9 +465,9 @@ Tuesday 10 December 2024 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -663,6 +613,102 @@ Monday 16 December 2024 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
+# 20 December 2024
+
+## [OECD Anti-Bribery Convention Phase 4 Report on Sweden - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/77dec27d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report on Poland - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/83945426-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 4 Report on New Zealand - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/69557c1c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 2 Report on Croatia - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/675b0561-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------

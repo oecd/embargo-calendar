@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-12-04T23:57:58.5941477+01:00">
+<report name="official-embargoes" generated="2024-12-05T23:15:54.0601539+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -21,26 +21,6 @@
     <cell name="kappa link">Kappa Link</cell>
   </row>
   <row index="1">
-    <cell name="directorate">Directorate for Public Governance</cell>
-    <cell name="doi">10.1787/fa31b226-en</cell>
-    <cell name="title">Gender budgeting in Brazil (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-12-03</cell>
-    <cell name="embargo date">2024-12-03T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-11-25T21:31:21Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date">2024-12-03T22:19:06Z</cell>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e9f9d92</cell>
-  </row>
-  <row index="2">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/74413c15-en</cell>
     <cell name="title">Developments in Delegations on the Safety of Manufactured Nanomaterials and Advanced Materials between July 2023 and June 2024 – Tour de Table (en)</cell>
@@ -60,7 +40,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf8246ec</cell>
   </row>
-  <row index="3">
+  <row index="2">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a393ea12-en</cell>
     <cell name="title">Labour market outcomes of young people in North Denmark Region (en)</cell>
@@ -74,13 +54,13 @@
     <cell name="ilibrary last export date">2024-11-26T21:35:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/156ace74</cell>
   </row>
-  <row index="4">
+  <row index="3">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3ffba97d-en</cell>
     <cell name="title">Connecting young people in North Denmark Region with jobs and education (en)</cell>
@@ -100,7 +80,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/452cd542</cell>
   </row>
-  <row index="5">
+  <row index="4">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/a393ea12-en</cell>
     <cell name="title">Labour market outcomes of young people in North Denmark Region (en)</cell>
@@ -120,7 +100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/af18dfe7</cell>
   </row>
-  <row index="6">
+  <row index="5">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -135,12 +115,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-12-04T23:04:56Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20cd84e2</cell>
   </row>
-  <row index="7">
+  <row index="6">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -160,7 +140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3456bb62</cell>
   </row>
-  <row index="8">
+  <row index="7">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -180,7 +160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb6888aa</cell>
   </row>
-  <row index="9">
+  <row index="8">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -195,12 +175,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-12-04T23:04:56Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2293559b</cell>
   </row>
-  <row index="10">
+  <row index="9">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ef7946e5-en</cell>
     <cell name="title">Risk factors associated with a NEET status in European countries (en)</cell>
@@ -214,13 +194,13 @@
     <cell name="ilibrary last export date">2024-11-26T21:35:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46ab28d4</cell>
   </row>
-  <row index="11">
+  <row index="10">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/204a934b-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -234,13 +214,13 @@
     <cell name="ilibrary last export date">2024-11-26T21:35:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f33f4525</cell>
   </row>
-  <row index="12">
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ef7946e5-en</cell>
     <cell name="title">Risk factors associated with a NEET status in European countries (en)</cell>
@@ -260,7 +240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04dcbb3d</cell>
   </row>
-  <row index="13">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -274,13 +254,13 @@
     <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
+    <cell name="google last export date">2024-12-04T23:04:56Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5ea5008</cell>
   </row>
-  <row index="14">
+  <row index="13">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87e05809-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -300,7 +280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abfa0965</cell>
   </row>
-  <row index="15">
+  <row index="14">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0856ce12-en</cell>
     <cell name="title">Investing in Youth: North Denmark Region (en)</cell>
@@ -315,12 +295,12 @@
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
+    <cell name="google last export date">2024-12-04T23:04:56Z</cell>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4f152f6</cell>
   </row>
-  <row index="16">
+  <row index="15">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/3ffba97d-en</cell>
     <cell name="title">Connecting young people in North Denmark Region with jobs and education (en)</cell>
@@ -334,13 +314,13 @@
     <cell name="ilibrary last export date">2024-11-26T21:35:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d73e6308</cell>
   </row>
-  <row index="17">
+  <row index="16">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/204a934b-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -360,7 +340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d2cab46</cell>
   </row>
-  <row index="18">
+  <row index="17">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/87e05809-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -374,13 +354,13 @@
     <cell name="ilibrary last export date">2024-11-26T21:35:27Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Chapter</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33187e12</cell>
   </row>
-  <row index="19">
+  <row index="18">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b79d8096-en</cell>
     <cell name="title">Mauritius (en)</cell>
@@ -400,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b0d9449</cell>
   </row>
-  <row index="20">
+  <row index="19">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
@@ -420,7 +400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b23651d2</cell>
   </row>
-  <row index="21">
+  <row index="20">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/47c3f16b-en</cell>
     <cell name="title">Egypt (en)</cell>
@@ -440,7 +420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/49be8a44</cell>
   </row>
-  <row index="22">
+  <row index="21">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e6d269e5-fr</cell>
     <cell name="title">Maurice (fr)</cell>
@@ -460,7 +440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f729fbe</cell>
   </row>
-  <row index="23">
+  <row index="22">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b79d8096-en</cell>
     <cell name="title">Mauritius (en)</cell>
@@ -480,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c2fdddc4</cell>
   </row>
-  <row index="24">
+  <row index="23">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4738e14f-en</cell>
     <cell name="title">Morocco (en)</cell>
@@ -500,7 +480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4457fbb0</cell>
   </row>
-  <row index="25">
+  <row index="24">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0481cf21-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 2 (fr)</cell>
@@ -520,7 +500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5140d2f</cell>
   </row>
-  <row index="26">
+  <row index="25">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f33c279e-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -540,7 +520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a2b2003</cell>
   </row>
-  <row index="27">
+  <row index="26">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f33c279e-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -560,7 +540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5986251f</cell>
   </row>
-  <row index="28">
+  <row index="27">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a555dae</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/b79d8096-en</cell>
     <cell name="title">Mauritius (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eaed3aa0</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10963d7a</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/47c3f16b-en</cell>
     <cell name="title">Egypt (en)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c685408a</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/f33c279e-en</cell>
     <cell name="title">Ukraine (en)</cell>
@@ -660,7 +640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3e192b8</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c5ba25d0-fr</cell>
     <cell name="title">Maroc (fr)</cell>
@@ -680,7 +660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb0bca1a</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4738e14f-en</cell>
     <cell name="title">Morocco (en)</cell>
@@ -700,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82be4186</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/47c3f16b-en</cell>
     <cell name="title">Egypt (en)</cell>
@@ -720,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e75da166</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d8814e8b-en</cell>
     <cell name="title">OECD Economic Outlook, Volume 2024 Issue 2 (en)</cell>
@@ -734,13 +714,13 @@
     <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Issue</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2561c74c</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c5ba25d0-fr</cell>
     <cell name="title">Maroc (fr)</cell>
@@ -760,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1d98160</cell>
   </row>
-  <row index="38">
+  <row index="37">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4738e14f-en</cell>
     <cell name="title">Morocco (en)</cell>
@@ -780,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/978fc37e</cell>
   </row>
-  <row index="39">
+  <row index="38">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0481cf21-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 2 (fr)</cell>
@@ -800,7 +780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90ccb1ea</cell>
   </row>
-  <row index="40">
+  <row index="39">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0481cf21-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 2 (fr)</cell>
@@ -820,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c8a38f1c</cell>
   </row>
-  <row index="41">
+  <row index="40">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0481cf21-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Volume 2024 Numéro 2 (fr)</cell>
@@ -834,13 +814,13 @@
     <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2024-12-04T23:12:26Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Issue</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5452a3f</cell>
   </row>
-  <row index="42">
+  <row index="41">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e6d269e5-fr</cell>
     <cell name="title">Maurice (fr)</cell>
@@ -860,7 +840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0b160c3</cell>
   </row>
-  <row index="43">
+  <row index="42">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e6d269e5-fr</cell>
     <cell name="title">Maurice (fr)</cell>
@@ -880,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c89843c9</cell>
   </row>
-  <row index="44">
+  <row index="43">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/c5ba25d0-fr</cell>
     <cell name="title">Maroc (fr)</cell>
@@ -900,27 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ec60e97</cell>
   </row>
-  <row index="45">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a35a56b6-en</cell>
-    <cell name="title">OECD Economic Surveys: Greece 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-12-05</cell>
-    <cell name="embargo date">2024-12-05T08:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/043eb44f</cell>
-  </row>
-  <row index="46">
+  <row index="44">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/a35a56b6-en</cell>
     <cell name="title">OECD Economic Surveys: Greece 2024 (en)</cell>
@@ -931,7 +891,7 @@
     <cell name="date of publication">2024-12-05</cell>
     <cell name="embargo date">2024-12-05T08:30:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -940,27 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d455638</cell>
   </row>
-  <row index="47">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/a35a56b6-en</cell>
-    <cell name="title">OECD Economic Surveys: Greece 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">HTML</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-12-05</cell>
-    <cell name="embargo date">2024-12-05T08:30:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5925433b</cell>
-  </row>
-  <row index="48">
+  <row index="45">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/86ab2b35-en</cell>
     <cell name="title">HEI enrolment concentration over population concentration in large regions, 2021 – Europe and Asia-Pacific (en)</cell>
@@ -980,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/673033ef</cell>
   </row>
-  <row index="49">
+  <row index="46">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ceb6c0fc-en</cell>
     <cell name="title">Non-metropolitan to metropolitan gap in real GDP per capita by small region type, 2015-22 (en)</cell>
@@ -1000,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/92adc45e</cell>
   </row>
-  <row index="50">
+  <row index="47">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/813afe93-en</cell>
     <cell name="title">Towards sustainable land use and biodiversity protection in regions and cities (en)</cell>
@@ -1020,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/555b612f</cell>
   </row>
-  <row index="51">
+  <row index="48">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f91d3d10-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -1040,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72f78a0c</cell>
   </row>
-  <row index="52">
+  <row index="49">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/013dc0fb-en</cell>
     <cell name="title">S80/S20 disposable income ratios in large regions, 2010 vs. 2010-22 (en)</cell>
@@ -1060,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/200cde80</cell>
   </row>
-  <row index="53">
+  <row index="50">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e1f13f36-en</cell>
     <cell name="title">Fixed broadband download speeds by FUA size, 2019Q1-2024Q2 (en)</cell>
@@ -1080,7 +1020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0478c314</cell>
   </row>
-  <row index="54">
+  <row index="51">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ebd9d9bd-en</cell>
     <cell name="title">Share of commuters using low-carbon modes of transport in FUAs by population size, 2021 – Europe and Asia-Pacific (en)</cell>
@@ -1100,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0df8ce3f</cell>
   </row>
-  <row index="55">
+  <row index="52">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b6768da0-en</cell>
     <cell name="title">Non-metropolitan to metropolitan gap in GDP and disposable income per capita, 2022 (en)</cell>
@@ -1120,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1472d671</cell>
   </row>
-  <row index="56">
+  <row index="53">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c1c5f268-en</cell>
     <cell name="title">Expected increase in hot days in the middle-of-the-road scenario in small regions, 2041-60 (en)</cell>
@@ -1140,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8469695a</cell>
   </row>
-  <row index="57">
+  <row index="54">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a1d133e7-en</cell>
     <cell name="title">Healthy populations and performing health systems in regions (en)</cell>
@@ -1160,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b99a874</cell>
   </row>
-  <row index="58">
+  <row index="55">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cdd21c3c-en</cell>
     <cell name="title">The role of the residential sector in climate mitigation (en)</cell>
@@ -1180,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e257144</cell>
   </row>
-  <row index="59">
+  <row index="56">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ba1c34f5-en</cell>
     <cell name="title">City-commuting zone difference in mean disposable income, 2022 (en)</cell>
@@ -1200,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cbb14018</cell>
   </row>
-  <row index="60">
+  <row index="57">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9fcca66b-en</cell>
     <cell name="title">Subnational government climate-significant expenditure and investment as a share of GDP, 2019 (en)</cell>
@@ -1220,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2aff40c9</cell>
   </row>
-  <row index="61">
+  <row index="58">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4495d79a-en</cell>
     <cell name="title">Share of new registered electric or hybrid passenger vehicles in large regions, 2022 (en)</cell>
@@ -1240,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c0b5cb9</cell>
   </row>
-  <row index="62">
+  <row index="59">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7f8859e9-en</cell>
     <cell name="title">Regions and cities navigating the housing crisis (en)</cell>
@@ -1260,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5480e7c</cell>
   </row>
-  <row index="63">
+  <row index="60">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ef23257b-en</cell>
     <cell name="title">Transitions to net zero emissions in regions and cities (en)</cell>
@@ -1280,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2625b65e</cell>
   </row>
-  <row index="64">
+  <row index="61">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c00fd291-en</cell>
     <cell name="title">Quality public transport in cities (en)</cell>
@@ -1300,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ac040e2</cell>
   </row>
-  <row index="65">
+  <row index="62">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36929932-en</cell>
     <cell name="title">Sustainable energy systems and industries in regions (en)</cell>
@@ -1320,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a6cd0de7</cell>
   </row>
-  <row index="66">
+  <row index="63">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1a7bd081-en</cell>
     <cell name="title">Hospital access in regions far from a midsize/large FUAs by degree of urbanisation, 2023 (en)</cell>
@@ -1340,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c448e96</cell>
   </row>
-  <row index="67">
+  <row index="64">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/43148960-en</cell>
     <cell name="title">Life expectancy at birth by country and small region type, 2023 (en)</cell>
@@ -1360,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/261a273a</cell>
   </row>
-  <row index="68">
+  <row index="65">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4afef99e-en</cell>
     <cell name="title">Power sector production-based GHG emissions per capita in large regions, 2022 levels and 2010-22 growth – Americas (en)</cell>
@@ -1380,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bac50fab</cell>
   </row>
-  <row index="69">
+  <row index="66">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/83d4d13d-en</cell>
     <cell name="title">Share of remote workers by degree of urbanisation, 2019-22 (en)</cell>
@@ -1400,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d1a931a</cell>
   </row>
-  <row index="70">
+  <row index="67">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/8a9ffd2e-en</cell>
     <cell name="title">Production-based GHG emissions per capita in large regions, 2022 levels and 2010-22 growth – Americas (en)</cell>
@@ -1420,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e822a39</cell>
   </row>
-  <row index="71">
+  <row index="68">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ab9fa48c-en</cell>
     <cell name="title">Share of remote workers in large regions by country and degree of urbanisation, 2022 (en)</cell>
@@ -1440,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f753097</cell>
   </row>
-  <row index="72">
+  <row index="69">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fe97ecba-en</cell>
     <cell name="title">Description of regions and FUAs (en)</cell>
@@ -1460,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8e722bf</cell>
   </row>
-  <row index="73">
+  <row index="70">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4445710c-en</cell>
     <cell name="title">Change in municipal waste per capita in large regions, 2016-20 (en)</cell>
@@ -1480,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/303efc4e</cell>
   </row>
-  <row index="74">
+  <row index="71">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5c99c0fd-en</cell>
     <cell name="title">ROPI deflator over national GDP deflator, by country and type of large region (en)</cell>
@@ -1500,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1eba5117</cell>
   </row>
-  <row index="75">
+  <row index="72">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c77c16b2-en</cell>
     <cell name="title">Share of protected areas in large regions, 2023 (en)</cell>
@@ -1520,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a13c6b5e</cell>
   </row>
-  <row index="76">
+  <row index="73">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2b736b16-en</cell>
     <cell name="title">Index of regional disparity in GDP per capita, ROPIs versus national GDP deflator (en)</cell>
@@ -1540,7 +1480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b1409fa</cell>
   </row>
-  <row index="77">
+  <row index="74">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0fce425e-en</cell>
     <cell name="title">Loss in icing days by SSP scenario and small region climate zone, 2023 and 2041‑60 (en)</cell>
@@ -1560,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/931e7922</cell>
   </row>
-  <row index="78">
+  <row index="75">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -1571,7 +1511,7 @@
     <cell name="date of publication">2024-12-06</cell>
     <cell name="embargo date">2024-12-06T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -1580,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54924dcd</cell>
   </row>
-  <row index="79">
+  <row index="76">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f27df11c-en</cell>
     <cell name="title">Growth in housing prices in FUAs, 2013-23 – Americas (en)</cell>
@@ -1600,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f0731a9</cell>
   </row>
-  <row index="80">
+  <row index="77">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e34271fc-en</cell>
     <cell name="title">Main energy source in occupied dwellings by country and degree of urbanisation, 2022 (en)</cell>
@@ -1620,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e203942</cell>
   </row>
-  <row index="81">
+  <row index="78">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/572a1c44-en</cell>
     <cell name="title">Regional disparities in inflation, based on regional CPIs (en)</cell>
@@ -1640,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2bcb466</cell>
   </row>
-  <row index="82">
+  <row index="79">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d36b1d76-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1660,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bff7d57</cell>
   </row>
-  <row index="83">
+  <row index="80">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3d22f4b4-en</cell>
     <cell name="title">Urban centre population without walking access to a green area in FUAs by income, 2024 (en)</cell>
@@ -1680,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc419081</cell>
   </row>
-  <row index="84">
+  <row index="81">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5412038f-en</cell>
     <cell name="title">Production-based GHG emissions per capita in large regions, 2022 levels and 2010-22 growth – Europe and Asia-Pacific (en)</cell>
@@ -1700,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccccf0a2</cell>
   </row>
-  <row index="85">
+  <row index="82">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d028237-en</cell>
     <cell name="title">Expected increase in hot days in the fossil fuel development scenario in small regions, 2041-60 (en)</cell>
@@ -1720,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d67fd86</cell>
   </row>
-  <row index="86">
+  <row index="83">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c752dd1c-en</cell>
     <cell name="title">Distribution of OECD regions by climate zone (en)</cell>
@@ -1740,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bdf735a1</cell>
   </row>
-  <row index="87">
+  <row index="84">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9359bf95-en</cell>
     <cell name="title">Regions facing rising temperatures (en)</cell>
@@ -1760,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dc814b24</cell>
   </row>
-  <row index="88">
+  <row index="85">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7252a3b0-en</cell>
     <cell name="title">Share of workers at high risk of automation by country and degree of urbanisation, 2022 (en)</cell>
@@ -1780,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11983032</cell>
   </row>
-  <row index="89">
+  <row index="86">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9c3f9397-en</cell>
     <cell name="title">Household income gains in regions during high inflation (en)</cell>
@@ -1800,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41ab39bb</cell>
   </row>
-  <row index="90">
+  <row index="87">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/85f3b368-en</cell>
     <cell name="title">Methodologies (en)</cell>
@@ -1820,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1de08bc9</cell>
   </row>
-  <row index="91">
+  <row index="88">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c654dc46-en</cell>
     <cell name="title">Relative labour market tightness of green-task jobs in large regions, 2022 (en)</cell>
@@ -1840,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41d0bd12</cell>
   </row>
-  <row index="92">
+  <row index="89">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/89322337-en</cell>
     <cell name="title">Facing labour and skill shortages in regions, cities and rural areas (en)</cell>
@@ -1860,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ed3b3d59</cell>
   </row>
-  <row index="93">
+  <row index="90">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c32b4d9e-en</cell>
     <cell name="title">Walking access to a primary school/childcare centre in urban centres, 2024 (en)</cell>
@@ -1880,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59398661</cell>
   </row>
-  <row index="94">
+  <row index="91">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5f70e54b-en</cell>
     <cell name="title">Power sector production-based GHG emissions per capita in large regions, 2022 levels and 2010-22 growth – Europe and Asia-Pacific (en)</cell>
@@ -1900,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ed8eb5f</cell>
   </row>
-  <row index="95">
+  <row index="92">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/27cacc86-en</cell>
     <cell name="title">Share of electric or hybrid passenger vehicles in large regions, 2022 (en)</cell>
@@ -1920,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4c2fcb0</cell>
   </row>
-  <row index="96">
+  <row index="93">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9b64fd2a-en</cell>
     <cell name="title">Quality Internet in cities and rural areas (en)</cell>
@@ -1940,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3d01541a</cell>
   </row>
-  <row index="97">
+  <row index="94">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f91d3d10-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -1960,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1dfdec66</cell>
   </row>
-  <row index="98">
+  <row index="95">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7f8859e9-en</cell>
     <cell name="title">Regions and cities navigating the housing crisis (en)</cell>
@@ -1980,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bf18e2a7</cell>
   </row>
-  <row index="99">
+  <row index="96">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c7f0b8d5-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -1991,7 +1931,7 @@
     <cell name="date of publication">2024-12-06</cell>
     <cell name="embargo date">2024-12-06T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -2000,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63105cac</cell>
   </row>
-  <row index="100">
+  <row index="97">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/924bdbd1-en</cell>
     <cell name="title">Settlement of international migrant populations across regions and cities (en)</cell>
@@ -2020,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e43b14b8</cell>
   </row>
-  <row index="101">
+  <row index="98">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d1f2d3fa-en</cell>
     <cell name="title">Productive, competitive and innovative regions and cities (en)</cell>
@@ -2040,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f7a57c69</cell>
   </row>
-  <row index="102">
+  <row index="99">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d1f2d3fa-en</cell>
     <cell name="title">Productive, competitive and innovative regions and cities (en)</cell>
@@ -2060,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d0da289</cell>
   </row>
-  <row index="103">
+  <row index="100">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2aab41cd-en</cell>
     <cell name="title">Share of remote workers in large regions, 2022 – Europe and Türkiye (en)</cell>
@@ -2080,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9849de70</cell>
   </row>
-  <row index="104">
+  <row index="101">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/5a5342ed-en</cell>
     <cell name="title">Walking access to public transport in urban centres vs. suburbs, 2023 (en)</cell>
@@ -2100,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bfa98c4</cell>
   </row>
-  <row index="105">
+  <row index="102">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -2120,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a37c8876</cell>
   </row>
-  <row index="106">
+  <row index="103">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f34bda95-en</cell>
     <cell name="title">Growth in housing prices in FUAs, 2013-23 – Europe and Asia-Pacific (en)</cell>
@@ -2140,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/48834678</cell>
   </row>
-  <row index="107">
+  <row index="104">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b2fd1009-en</cell>
     <cell name="title">HEI enrolment concentration over population concentration in large regions, 2021 – Americas (en)</cell>
@@ -2160,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6ac352c3</cell>
   </row>
-  <row index="108">
+  <row index="105">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4eeb10e0-en</cell>
     <cell name="title">Doctors by country and small region type, 2023 (en)</cell>
@@ -2180,7 +2120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b86d35c9</cell>
   </row>
-  <row index="109">
+  <row index="106">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/860a001b-en</cell>
     <cell name="title">Change in low-carbon electricity generation in large regions, 2017-21 (en)</cell>
@@ -2200,27 +2140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11ab2c5f</cell>
   </row>
-  <row index="110">
-    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
-    <cell name="doi">10.1787/f42db3bf-en</cell>
-    <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Published</cell>
-    <cell name="date of publication">2024-12-06</cell>
-    <cell name="embargo date">2024-12-06T06:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?">✓</cell>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2e3af6</cell>
-  </row>
-  <row index="111">
+  <row index="107">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f429eab3-en</cell>
     <cell name="title">Industries with the highest labour market tightness in large regions – Australia and the United States (en)</cell>
@@ -2240,7 +2160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/adcba17b</cell>
   </row>
-  <row index="112">
+  <row index="108">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cdd21c3c-en</cell>
     <cell name="title">The role of the residential sector in climate mitigation (en)</cell>
@@ -2260,7 +2180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54247b9f</cell>
   </row>
-  <row index="113">
+  <row index="109">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/89322337-en</cell>
     <cell name="title">Facing labour and skill shortages in regions, cities and rural areas (en)</cell>
@@ -2280,7 +2200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f637b0a0</cell>
   </row>
-  <row index="114">
+  <row index="110">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/86079dda-en</cell>
     <cell name="title">Regions growing in gross domestic product (GDP) per capita in times of volatile prices (en)</cell>
@@ -2300,7 +2220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/50d46091</cell>
   </row>
-  <row index="115">
+  <row index="111">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9359bf95-en</cell>
     <cell name="title">Regions facing rising temperatures (en)</cell>
@@ -2320,7 +2240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f9c9dc26</cell>
   </row>
-  <row index="116">
+  <row index="112">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -2331,7 +2251,7 @@
     <cell name="date of publication">2024-12-06</cell>
     <cell name="embargo date">2024-12-06T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -2340,7 +2260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ea082ce</cell>
   </row>
-  <row index="117">
+  <row index="113">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3cdcc43e-en</cell>
     <cell name="title">Cardiovascular mortality by country and small region type, 2022 (en)</cell>
@@ -2360,7 +2280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/171cc987</cell>
   </row>
-  <row index="118">
+  <row index="114">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/34be651a-en</cell>
     <cell name="title">Household income inequality within regions and cities (en)</cell>
@@ -2380,7 +2300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/260cd7ad</cell>
   </row>
-  <row index="119">
+  <row index="115">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/27753e85-en</cell>
     <cell name="title">Changing nature of skill demands in regional labour markets (en)</cell>
@@ -2400,7 +2320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1516d4e</cell>
   </row>
-  <row index="120">
+  <row index="116">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4684871c-en</cell>
     <cell name="title">Difference in GDP and disposable income per capita growth by country and large region type, 2019-22 (en)</cell>
@@ -2420,7 +2340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4393e40</cell>
   </row>
-  <row index="121">
+  <row index="117">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/b5e5dc84-en</cell>
     <cell name="title">Share of workers at high risk of automation in large regions, 2022 (en)</cell>
@@ -2440,7 +2360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/25afbcec</cell>
   </row>
-  <row index="122">
+  <row index="118">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/31d32020-en</cell>
     <cell name="title">Change in HEI enrolment and working-age population by country and small region type, 2011-21 (en)</cell>
@@ -2460,7 +2380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/856fe590</cell>
   </row>
-  <row index="123">
+  <row index="119">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9e94800a-en</cell>
     <cell name="title">GDP over disposable income by country and large region type, 2022 (en)</cell>
@@ -2480,7 +2400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ee1b28d</cell>
   </row>
-  <row index="124">
+  <row index="120">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/4659c1dd-en</cell>
     <cell name="title">Relative labour market tightness in large regions, 2022 (en)</cell>
@@ -2500,7 +2420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3c504dec</cell>
   </row>
-  <row index="125">
+  <row index="121">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a1d133e7-en</cell>
     <cell name="title">Healthy populations and performing health systems in regions (en)</cell>
@@ -2520,7 +2440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/618756c6</cell>
   </row>
-  <row index="126">
+  <row index="122">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/31357afa-en</cell>
     <cell name="title">Patenting rates in FUAs, 2022 – Americas (en)</cell>
@@ -2540,7 +2460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f59849be</cell>
   </row>
-  <row index="127">
+  <row index="123">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/52762ce2-en</cell>
     <cell name="title">Regional over national CPI, large regions (en)</cell>
@@ -2560,7 +2480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d6c65ab</cell>
   </row>
-  <row index="128">
+  <row index="124">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c507fc87-en</cell>
     <cell name="title">Exposure to hot days in small regions, 2019-23 (en)</cell>
@@ -2580,7 +2500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0cdee2a8</cell>
   </row>
-  <row index="129">
+  <row index="125">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/813afe93-en</cell>
     <cell name="title">Towards sustainable land use and biodiversity protection in regions and cities (en)</cell>
@@ -2600,7 +2520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0af971e</cell>
   </row>
-  <row index="130">
+  <row index="126">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/87024530-en</cell>
     <cell name="title">Expected increase in hot days in the sustainability scenario in small regions, 2041‑60 (en)</cell>
@@ -2620,7 +2540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/70d698e9</cell>
   </row>
-  <row index="131">
+  <row index="127">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/079be2a1-en</cell>
     <cell name="title">Fixed broadband download speeds by country and FUA size, 2019Q1-2024Q2 (en)</cell>
@@ -2640,7 +2560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3a634b7</cell>
   </row>
-  <row index="132">
+  <row index="128">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/94237501-en</cell>
     <cell name="title">Towards sustainable transport in regions and cities (en)</cell>
@@ -2660,7 +2580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/137f80d0</cell>
   </row>
-  <row index="133">
+  <row index="129">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/44b473d4-en</cell>
     <cell name="title">Ground transport GHG emissions per capita by small region type, 2022 (en)</cell>
@@ -2680,7 +2600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8138a3d2</cell>
   </row>
-  <row index="134">
+  <row index="130">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c6db0734-en</cell>
     <cell name="title">Regional labour markets adapting to the green transition (en)</cell>
@@ -2700,7 +2620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0a51322</cell>
   </row>
-  <row index="135">
+  <row index="131">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fe97ecba-en</cell>
     <cell name="title">Description of regions and FUAs (en)</cell>
@@ -2720,7 +2640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2618ffc4</cell>
   </row>
-  <row index="136">
+  <row index="132">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/dd510d89-en</cell>
     <cell name="title">Methane emissions from fossil fuel exploitation in selected large regions, 2022 (en)</cell>
@@ -2740,7 +2660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/425a76b7</cell>
   </row>
-  <row index="137">
+  <row index="133">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/26f75626-en</cell>
     <cell name="title">Old-age dependency ratio in large regions, 2023 (en)</cell>
@@ -2760,7 +2680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/070fda45</cell>
   </row>
-  <row index="138">
+  <row index="134">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/005d2952-en</cell>
     <cell name="title">Production-based GHG emissions estimates by small region type, 1990-22 (en)</cell>
@@ -2780,7 +2700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/748ff0f0</cell>
   </row>
-  <row index="139">
+  <row index="135">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c6db0734-en</cell>
     <cell name="title">Regional labour markets adapting to the green transition (en)</cell>
@@ -2800,7 +2720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c975fb02</cell>
   </row>
-  <row index="140">
+  <row index="136">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7f4d5062-en</cell>
     <cell name="title">Population changes and components of change by small region type and macro-regions, 2001-21 (en)</cell>
@@ -2820,7 +2740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8bc948c2</cell>
   </row>
-  <row index="141">
+  <row index="137">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/35cdd35d-en</cell>
     <cell name="title">GFDI share in large regions, 2023 (en)</cell>
@@ -2840,7 +2760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0d0e72f</cell>
   </row>
-  <row index="142">
+  <row index="138">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/27753e85-en</cell>
     <cell name="title">Changing nature of skill demands in regional labour markets (en)</cell>
@@ -2860,7 +2780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/139cf690</cell>
   </row>
-  <row index="143">
+  <row index="139">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cffba1ea-en</cell>
     <cell name="title">Walking access to public transport in FUAs, 2023 (en)</cell>
@@ -2880,7 +2800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3c9874f</cell>
   </row>
-  <row index="144">
+  <row index="140">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ec9c434e-en</cell>
     <cell name="title">Concentration of migrant and native-born population by present and future population decline (en)</cell>
@@ -2900,7 +2820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d1630330</cell>
   </row>
-  <row index="145">
+  <row index="141">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/89a479f7-en</cell>
     <cell name="title">Population change in large regions, 2003-23 – Europe and Asia-Pacific (en)</cell>
@@ -2920,7 +2840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cdfc3944</cell>
   </row>
-  <row index="146">
+  <row index="142">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e51c6e9f-en</cell>
     <cell name="title">Expenditure on housing costs as a share of disposable income in large regions, 2022 (en)</cell>
@@ -2940,7 +2860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/77f776fa</cell>
   </row>
-  <row index="147">
+  <row index="143">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/baf36bd6-en</cell>
     <cell name="title">Regional Output Price Index (ROPI) deflator in large regions, 2016-22 (en)</cell>
@@ -2960,7 +2880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4fe2285e</cell>
   </row>
-  <row index="148">
+  <row index="144">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f647fe7f-en</cell>
     <cell name="title">Change in Theil index of real GDP per capita of small regions, 2015-18 - 2019-22 (en)</cell>
@@ -2980,7 +2900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0db524b0</cell>
   </row>
-  <row index="149">
+  <row index="145">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6219bb38-en</cell>
     <cell name="title">Built-up surface per capita in FUAs, 2020 levels and 2010-20 change – Americas (en)</cell>
@@ -3000,7 +2920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/91642dcc</cell>
   </row>
-  <row index="150">
+  <row index="146">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c4014f3c-en</cell>
     <cell name="title">Share of industry final energy consumption coming from electricity in large regions, 2023 (en)</cell>
@@ -3020,7 +2940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0441223</cell>
   </row>
-  <row index="151">
+  <row index="147">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0a81197f-en</cell>
     <cell name="title">Built-up surface per capita in FUAs, 2020 levels and 2010-20 change – Europe and Asia-Pacific (en)</cell>
@@ -3040,7 +2960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9cd2d4e</cell>
   </row>
-  <row index="152">
+  <row index="148">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c78dcb54-en</cell>
     <cell name="title">Share of STEM enrolment vs. share of women in HEI enrolment in small regions, 2021 (en)</cell>
@@ -3060,7 +2980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1f8c327</cell>
   </row>
-  <row index="153">
+  <row index="149">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6871155e-en</cell>
     <cell name="title">Patenting rates in FUAs, 2022 – Europe and Asia-Pacific (en)</cell>
@@ -3080,7 +3000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63ba6434</cell>
   </row>
-  <row index="154">
+  <row index="150">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/979a8c9a-en</cell>
     <cell name="title">Share of migrant population by small region type, 2012 and 2022 (en)</cell>
@@ -3100,7 +3020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/300af5f7</cell>
   </row>
-  <row index="155">
+  <row index="151">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2e3b91b6-en</cell>
     <cell name="title">Walking access to a green area in FUAs – Americas (en)</cell>
@@ -3120,7 +3040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0a2e39bb</cell>
   </row>
-  <row index="156">
+  <row index="152">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c00fd291-en</cell>
     <cell name="title">Quality public transport in cities (en)</cell>
@@ -3140,7 +3060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68ad5922</cell>
   </row>
-  <row index="157">
+  <row index="153">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/00432ff1-en</cell>
     <cell name="title">Change in non-metropolitan to metropolitan gap in real GDP per capita, 2015‑22 (en)</cell>
@@ -3160,7 +3080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b492f7a3</cell>
   </row>
-  <row index="158">
+  <row index="154">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1228dc9b-en</cell>
     <cell name="title">Walking access to a green area in FUAs – Europe and Asia-Pacific (en)</cell>
@@ -3180,7 +3100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f0a4d95</cell>
   </row>
-  <row index="159">
+  <row index="155">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a8c979ab-en</cell>
     <cell name="title">Transport performance in urban centres and suburbs, 2023 (en)</cell>
@@ -3200,7 +3120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2a3c0ffc</cell>
   </row>
-  <row index="160">
+  <row index="156">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/10156873-en</cell>
     <cell name="title">Trade openness in large regions, 2022 (en)</cell>
@@ -3220,7 +3140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f15de75d</cell>
   </row>
-  <row index="161">
+  <row index="157">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/83b432a0-en</cell>
     <cell name="title">Theil index per capita GDP change in 2002-22, large TL2 regions (en)</cell>
@@ -3240,7 +3160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b1f17cf</cell>
   </row>
-  <row index="162">
+  <row index="158">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d284307e-en</cell>
     <cell name="title">Transport performance in FUAs, 2023 (en)</cell>
@@ -3260,7 +3180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76f0e8c1</cell>
   </row>
-  <row index="163">
+  <row index="159">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/18f0749f-en</cell>
     <cell name="title">Regions performing under demographic pressure (en)</cell>
@@ -3280,7 +3200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0af0ea2</cell>
   </row>
-  <row index="164">
+  <row index="160">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0d36177a-en</cell>
     <cell name="title">Distribution of population by climate zone and country, 2020 (en)</cell>
@@ -3300,7 +3220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/422e1718</cell>
   </row>
-  <row index="165">
+  <row index="161">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d8c525e-en</cell>
     <cell name="title">Sources and data description (en)</cell>
@@ -3320,7 +3240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0bae766d</cell>
   </row>
-  <row index="166">
+  <row index="162">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/65730b63-en</cell>
     <cell name="title">Training the workforce: Higher education in regions (en)</cell>
@@ -3340,7 +3260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81f522bf</cell>
   </row>
-  <row index="167">
+  <row index="163">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7261282e-en</cell>
     <cell name="title">Average price of home purchases by country and FUA size, 2023 (en)</cell>
@@ -3360,7 +3280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddd1e6bf</cell>
   </row>
-  <row index="168">
+  <row index="164">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/62ac4bb0-en</cell>
     <cell name="title">Population change in large regions, 2003-23 – North America and Mexico (en)</cell>
@@ -3380,7 +3300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ecbd6926</cell>
   </row>
-  <row index="169">
+  <row index="165">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cd55c135-en</cell>
     <cell name="title">Difference between women and men relative poverty shares in large regions, 2022 (en)</cell>
@@ -3400,7 +3320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3fae82c7</cell>
   </row>
-  <row index="170">
+  <row index="166">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/feeb1f36-en</cell>
     <cell name="title">GVA per worker growth vs. employment growth in high-productivity large regions, 2002-22 (en)</cell>
@@ -3420,7 +3340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b49bb036</cell>
   </row>
-  <row index="171">
+  <row index="167">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bf8feeb8-en</cell>
     <cell name="title">Classification of small regions by climate zone – Americas (en)</cell>
@@ -3440,7 +3360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c011c8e</cell>
   </row>
-  <row index="172">
+  <row index="168">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/88aa3e04-en</cell>
     <cell name="title">Share of general government climate-significant expenditure and subnational government investment, 2019 (en)</cell>
@@ -3460,7 +3380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5453d17f</cell>
   </row>
-  <row index="173">
+  <row index="169">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0d91e4d1-en</cell>
     <cell name="title">Growth of real disposable income in large regions, 2014-18 and 2019-22 (en)</cell>
@@ -3480,7 +3400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c6c398b6</cell>
   </row>
-  <row index="174">
+  <row index="170">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9b64fd2a-en</cell>
     <cell name="title">Quality Internet in cities and rural areas (en)</cell>
@@ -3500,7 +3420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/35c1252f</cell>
   </row>
-  <row index="175">
+  <row index="171">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/18f0749f-en</cell>
     <cell name="title">Regions performing under demographic pressure (en)</cell>
@@ -3520,7 +3440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3ee92381</cell>
   </row>
-  <row index="176">
+  <row index="172">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/3488d748-en</cell>
     <cell name="title">Classification of small regions by climate zone – Europe and Asia-Pacific (en)</cell>
@@ -3540,7 +3460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8f534b8d</cell>
   </row>
-  <row index="177">
+  <row index="173">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/cec50dd0-en</cell>
     <cell name="title">Built-up surface growth by type of management and small region type, 2010-20 (en)</cell>
@@ -3560,7 +3480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d17c8cdc</cell>
   </row>
-  <row index="178">
+  <row index="174">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/618f4112-en</cell>
     <cell name="title">Change in real GDP per capita relative to the national average across large regions, 2015-22 – Europe and Asia-Pacific (en)</cell>
@@ -3580,7 +3500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7ad1225</cell>
   </row>
-  <row index="179">
+  <row index="175">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/59354503-en</cell>
     <cell name="title">The new geography of remote jobs (en)</cell>
@@ -3600,7 +3520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cbf6ee9</cell>
   </row>
-  <row index="180">
+  <row index="176">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/492bacf7-en</cell>
     <cell name="title">Share of nominal versus real GDP, by type of large regions (en)</cell>
@@ -3620,7 +3540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bb6b6d7</cell>
   </row>
-  <row index="181">
+  <row index="177">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f8456fda-en</cell>
     <cell name="title">Share of climate adaptation and mitigation technologies patents by small region type, 2018-22 (en)</cell>
@@ -3640,7 +3560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/75b05f48</cell>
   </row>
-  <row index="182">
+  <row index="178">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -3651,7 +3571,7 @@
     <cell name="date of publication">2024-12-06</cell>
     <cell name="embargo date">2024-12-06T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -3660,7 +3580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2f3df7e3</cell>
   </row>
-  <row index="183">
+  <row index="179">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/94237501-en</cell>
     <cell name="title">Towards sustainable transport in regions and cities (en)</cell>
@@ -3680,7 +3600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/527b73aa</cell>
   </row>
-  <row index="184">
+  <row index="180">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7914b77d-en</cell>
     <cell name="title">Air temperature increase by SSP scenario and small region climate zone, 2023 and 2041‑60 (en)</cell>
@@ -3700,7 +3620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8490afc8</cell>
   </row>
-  <row index="185">
+  <row index="181">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/76b56fbc-en</cell>
     <cell name="title">Walking access to a public transport stop in FUAs, 2023 – Europe and Asia-Pacific (en)</cell>
@@ -3720,7 +3640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b554dfb1</cell>
   </row>
-  <row index="186">
+  <row index="182">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/566a6715-en</cell>
     <cell name="title">Walkable cities with access to services and amenities for all (en)</cell>
@@ -3740,7 +3660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbf72a83</cell>
   </row>
-  <row index="187">
+  <row index="183">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/28bd8cce-en</cell>
     <cell name="title">Forest loss in large regions, 2000-22 (en)</cell>
@@ -3760,7 +3680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/27ba4963</cell>
   </row>
-  <row index="188">
+  <row index="184">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1c90e6bc-en</cell>
     <cell name="title">Additional hot days per year by SSP scenario and small region climate zone, 2030‑60 (en)</cell>
@@ -3780,7 +3700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3efff866</cell>
   </row>
-  <row index="189">
+  <row index="185">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c7464e9c-en</cell>
     <cell name="title">Female employment rate in large regions, 2023 relative to 2019 (en)</cell>
@@ -3800,7 +3720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b68b77c7</cell>
   </row>
-  <row index="190">
+  <row index="186">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d42614e-en</cell>
     <cell name="title">GVA per worker in large regions, 2022 (en)</cell>
@@ -3820,7 +3740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe416e72</cell>
   </row>
-  <row index="191">
+  <row index="187">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36c5f7a8-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -3840,7 +3760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b9686d53</cell>
   </row>
-  <row index="192">
+  <row index="188">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/566a6715-en</cell>
     <cell name="title">Walkable cities with access to services and amenities for all (en)</cell>
@@ -3860,7 +3780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1dc9a587</cell>
   </row>
-  <row index="193">
+  <row index="189">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/1d8c525e-en</cell>
     <cell name="title">Sources and data description (en)</cell>
@@ -3880,7 +3800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba0221c5</cell>
   </row>
-  <row index="194">
+  <row index="190">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/23b0ac8c-en</cell>
     <cell name="title">Municipal waste recovery rates in large regions, 2021 (en)</cell>
@@ -3900,7 +3820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2470c7c</cell>
   </row>
-  <row index="195">
+  <row index="191">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0c453d0c-en</cell>
     <cell name="title">Difference in fixed download speeds between cities and their commuting zones in midsize/large FUAs, 2023 (en)</cell>
@@ -3920,7 +3840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59d65eca</cell>
   </row>
-  <row index="196">
+  <row index="192">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/59354503-en</cell>
     <cell name="title">The new geography of remote jobs (en)</cell>
@@ -3940,7 +3860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72407fa2</cell>
   </row>
-  <row index="197">
+  <row index="193">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/9c3f9397-en</cell>
     <cell name="title">Household income gains in regions during high inflation (en)</cell>
@@ -3960,7 +3880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f570558</cell>
   </row>
-  <row index="198">
+  <row index="194">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/bcbc94dc-en</cell>
     <cell name="title">Fixed broadband download speeds by degree of urbanisation, 2019Q1-2024Q2 (en)</cell>
@@ -3980,7 +3900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1e18752b</cell>
   </row>
-  <row index="199">
+  <row index="195">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/ef23257b-en</cell>
     <cell name="title">Transitions to net zero emissions in regions and cities (en)</cell>
@@ -4000,7 +3920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0e318a5</cell>
   </row>
-  <row index="200">
+  <row index="196">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/34be651a-en</cell>
     <cell name="title">Household income inequality within regions and cities (en)</cell>
@@ -4020,7 +3940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/155e87b3</cell>
   </row>
-  <row index="201">
+  <row index="197">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c7f0b8d5-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4031,7 +3951,7 @@
     <cell name="date of publication">2024-12-06</cell>
     <cell name="embargo date">2024-12-06T06:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4040,7 +3960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d3a07a5</cell>
   </row>
-  <row index="202">
+  <row index="198">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/2a109ecf-en</cell>
     <cell name="title">Industries with highest labour market tightness in large regions – Europe (en)</cell>
@@ -4060,7 +3980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd7261d2</cell>
   </row>
-  <row index="203">
+  <row index="199">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/7b26abe1-en</cell>
     <cell name="title">Population change in large regions, 2003-23 – South America and Costa Rica (en)</cell>
@@ -4080,7 +4000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc8b47ad</cell>
   </row>
-  <row index="204">
+  <row index="200">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36c5f7a8-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -4100,7 +4020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1696fe5a</cell>
   </row>
-  <row index="205">
+  <row index="201">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/a7bfc2ab-en</cell>
     <cell name="title">Walking access to a primary school/childcare centre, urban centres vs. suburbs, 2024 (en)</cell>
@@ -4120,7 +4040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5f329e7c</cell>
   </row>
-  <row index="206">
+  <row index="202">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/da0c0143-en</cell>
     <cell name="title">Home ownership in large regions, 2022 (en)</cell>
@@ -4140,7 +4060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c9bd077c</cell>
   </row>
-  <row index="207">
+  <row index="203">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d12612c0-en</cell>
     <cell name="title">PM2.5 concentration in small regions, 2022 – Europe and Asia-Pacific (en)</cell>
@@ -4160,7 +4080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fd7316a</cell>
   </row>
-  <row index="208">
+  <row index="204">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f42db3bf-en</cell>
     <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
@@ -4180,7 +4100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/347fdd94</cell>
   </row>
-  <row index="209">
+  <row index="205">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/924bdbd1-en</cell>
     <cell name="title">Settlement of international migrant populations across regions and cities (en)</cell>
@@ -4200,7 +4120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0156cf5</cell>
   </row>
-  <row index="210">
+  <row index="206">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/6ef98514-en</cell>
     <cell name="title">Walking access to a public transport stop in FUAs, 2023 – Americas (en)</cell>
@@ -4220,7 +4140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59b956af</cell>
   </row>
-  <row index="211">
+  <row index="207">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e1cc3c35-en</cell>
     <cell name="title">Share of green-task jobs by country and degree of urbanisation, 2022 (en)</cell>
@@ -4240,7 +4160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5d2d52a</cell>
   </row>
-  <row index="212">
+  <row index="208">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c238edab-en</cell>
     <cell name="title">Share of green-task jobs in large regions, 2022 (en)</cell>
@@ -4260,7 +4180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10279c19</cell>
   </row>
-  <row index="213">
+  <row index="209">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/65730b63-en</cell>
     <cell name="title">Training the workforce: Higher education in regions (en)</cell>
@@ -4280,7 +4200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5a4d8fef</cell>
   </row>
-  <row index="214">
+  <row index="210">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/187e06e8-en</cell>
     <cell name="title">Built-up surface growth by demographic trend and small region type, 2010‑20 (en)</cell>
@@ -4300,7 +4220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54f63f70</cell>
   </row>
-  <row index="215">
+  <row index="211">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/d36b1d76-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -4320,7 +4240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/015e5e2f</cell>
   </row>
-  <row index="216">
+  <row index="212">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/c0a741ed-en</cell>
     <cell name="title">PM2.5 concentration in small regions, 2022 – Americas (en)</cell>
@@ -4340,7 +4260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7ef453e</cell>
   </row>
-  <row index="217">
+  <row index="213">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/86079dda-en</cell>
     <cell name="title">Regions growing in gross domestic product (GDP) per capita in times of volatile prices (en)</cell>
@@ -4360,7 +4280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b27019fd</cell>
   </row>
-  <row index="218">
+  <row index="214">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/85f3b368-en</cell>
     <cell name="title">Methodologies (en)</cell>
@@ -4380,7 +4300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5e83ef4</cell>
   </row>
-  <row index="219">
+  <row index="215">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/fdb8091f-en</cell>
     <cell name="title">Share of commuters using low-carbon modes of transport in FUAs by population size, 2021 – Americas (en)</cell>
@@ -4400,7 +4320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a76ecdac</cell>
   </row>
-  <row index="220">
+  <row index="216">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/36929932-en</cell>
     <cell name="title">Sustainable energy systems and industries in regions (en)</cell>
@@ -4420,7 +4340,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2096a7b</cell>
   </row>
-  <row index="221">
+  <row index="217">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/68b339e9-fr</cell>
+    <cell name="title">Résumé (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-06</cell>
+    <cell name="embargo date">2024-12-06T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/149c4219</cell>
+  </row>
+  <row index="218">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/74029b46-en</cell>
     <cell name="title">Share of the migrant population by country and small region type, 2022 (en)</cell>
@@ -4440,7 +4380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/532279c2</cell>
   </row>
-  <row index="222">
+  <row index="219">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/e1a5d2e8-en</cell>
     <cell name="title">Theil index per capita GDP change, small OECD TL3 regions (en)</cell>
@@ -4460,7 +4400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d0cbc0af</cell>
   </row>
-  <row index="223">
+  <row index="220">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/73186dd1-en</cell>
     <cell name="title">Old-age population without walking access to a pharmacy in urban centres, 2024 (en)</cell>
@@ -4480,7 +4420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e1e82ed</cell>
   </row>
-  <row index="224">
+  <row index="221">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/0327f36c-en</cell>
     <cell name="title">HEI enrolment concentration by small region type, 2021 (en)</cell>
@@ -4500,7 +4440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/359569d4</cell>
   </row>
-  <row index="225">
+  <row index="222">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/835db380-en</cell>
     <cell name="title">Change in real GDP per capita relative to the national average across large regions, 2015-22 – Americas (en)</cell>
@@ -4520,7 +4460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ae196fa</cell>
   </row>
-  <row index="226">
+  <row index="223">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f4d2dc4a-en</cell>
     <cell name="title">Change in S80/S20 disposable income ratio in large regions, 2010-22 (en)</cell>
@@ -4540,7 +4480,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5ac2a4c</cell>
   </row>
-  <row index="227">
+  <row index="224">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f42db3bf-en</cell>
+    <cell name="title">OECD Regions and Cities at a Glance 2024 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-06</cell>
+    <cell name="embargo date">2024-12-06T07:55:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1f2e3af6</cell>
+  </row>
+  <row index="225">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/16d0283c-en</cell>
     <cell name="title">Annual survey on financial incentives for retirement savings (en)</cell>
@@ -4560,14 +4520,14 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d98d29c1</cell>
   </row>
-  <row index="228">
+  <row index="226">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/01497fea-en</cell>
     <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-12-09</cell>
     <cell name="embargo date">2024-12-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4577,41 +4537,281 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47b76d58</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b2eb32c</cell>
   </row>
-  <row index="229">
-    <cell name="directorate">Development Centre</cell>
-    <cell name="doi">10.1787/2c837a76-fr</cell>
-    <cell name="title">Examen des politiques de transformation économique du Togo (fr)</cell>
-    <cell name="subtitle">Pour une prospérité partagée (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+  <row index="227">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/01497fea-en</cell>
+    <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-12-09</cell>
-    <cell name="embargo date">2024-12-09T11:00:00Z</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b2ec1e7a</cell>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/90d4362a</cell>
+  </row>
+  <row index="228">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/10f40a5e-en</cell>
+    <cell name="title">Assessment and recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/76dde515</cell>
+  </row>
+  <row index="229">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/01497fea-en</cell>
+    <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55d7a6e8</cell>
   </row>
   <row index="230">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/01497fea-en</cell>
+    <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/01d5f5f5</cell>
+  </row>
+  <row index="231">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/900b4f7b-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e4994eb</cell>
+  </row>
+  <row index="232">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/f660c71a-en</cell>
+    <cell name="title">Examining the domestic Philippine semiconductor ecosystem, with a focus on assembly, testing and packaging (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ae7242f</cell>
+  </row>
+  <row index="233">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/00758e53-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c71c744</cell>
+  </row>
+  <row index="234">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/be2ef422-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f60605f1</cell>
+  </row>
+  <row index="235">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/393968b5-en</cell>
+    <cell name="title">Understanding the policy and regulatory landscape in the Philippines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eaace99f</cell>
+  </row>
+  <row index="236">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/5df227bb-en</cell>
+    <cell name="title">Notes on patent data (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/108c8424</cell>
+  </row>
+  <row index="237">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/9e910d2d-en</cell>
+    <cell name="title">Understanding the semiconductor value chain (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0346f47a</cell>
+  </row>
+  <row index="238">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/d4b7c34a-en</cell>
+    <cell name="title">List of identified semiconductor-related products (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8045e804</cell>
+  </row>
+  <row index="239">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/01497fea-en</cell>
+    <cell name="title">Promoting the Growth of the Semiconductor Ecosystem in the Philippines (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/47b76d58</cell>
+  </row>
+  <row index="240">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/c437947f-en</cell>
     <cell name="title">Latin American Economic Outlook 2024 (en)</cell>
     <cell name="subtitle">Financing Sustainable Development (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2024-12-09</cell>
     <cell name="embargo date">2024-12-09T14:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4620,34 +4820,174 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df597a3e</cell>
   </row>
-  <row index="231">
+  <row index="241">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/56fcd84a-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5610f3f</cell>
+  </row>
+  <row index="242">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2b41ab8e-en</cell>
+    <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b8e011c</cell>
+  </row>
+  <row index="243">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b41ab8e-en</cell>
     <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-12-09</cell>
     <cell name="embargo date">2024-12-09T16:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa7bbed1</cell>
+  </row>
+  <row index="244">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2b41ab8e-en</cell>
+    <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fa7bbed1</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/abdae96d</cell>
   </row>
-  <row index="232">
+  <row index="245">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4ac7cc28-en</cell>
+    <cell name="title">Career mobility in the United Kingdom: Evidence and insights from recent trends (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4355b9c0</cell>
+  </row>
+  <row index="246">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/d1f085f6-en</cell>
+    <cell name="title">Supporting career progression in the longevity era (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dbaceab5</cell>
+  </row>
+  <row index="247">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/2b41ab8e-en</cell>
     <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a268d5e6</cell>
+  </row>
+  <row index="248">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/f86ed103-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a0e55407</cell>
+  </row>
+  <row index="249">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/2b41ab8e-en</cell>
+    <cell name="title">Promoting Better Career Mobility for Longer Working Lives in the United Kingdom (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-12-09</cell>
     <cell name="embargo date">2024-12-09T16:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -4657,10 +4997,30 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a268d5e6</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/41ffaa64</cell>
   </row>
-  <row index="233">
+  <row index="250">
+    <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
+    <cell name="doi">10.1787/4e21445c-en</cell>
+    <cell name="title">Enhancing job quality for healthier, longer working lives (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-09</cell>
+    <cell name="embargo date">2024-12-09T16:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/11c8072c</cell>
+  </row>
+  <row index="251">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ee1e0dd8-en</cell>
     <cell name="title">Literacy, numeracy and adaptive problem solving among adults in 2023 (en)</cell>
@@ -4680,7 +5040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c3550eef</cell>
   </row>
-  <row index="234">
+  <row index="252">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/92af71e6-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -4700,7 +5060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4e34b77a</cell>
   </row>
-  <row index="235">
+  <row index="253">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/fd2cda49-en</cell>
     <cell name="title">Data availability and use (en)</cell>
@@ -4720,7 +5080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc6c549a</cell>
   </row>
-  <row index="236">
+  <row index="254">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/093725be-en</cell>
     <cell name="title">Employer Module Questionnaire (en)</cell>
@@ -4740,7 +5100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a9cf4d8</cell>
   </row>
-  <row index="237">
+  <row index="255">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/ad9a342f-en</cell>
     <cell name="title">List of international experts participating in the development of the questionnaire design (en)</cell>
@@ -4760,7 +5120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2604338b</cell>
   </row>
-  <row index="238">
+  <row index="256">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/cc69a3e4-en</cell>
     <cell name="title">The relevance of information-processing skills in rapidly changing societies (en)</cell>
@@ -4780,7 +5140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/96684457</cell>
   </row>
-  <row index="239">
+  <row index="257">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b388d1da-en</cell>
     <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
@@ -4800,7 +5160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6342d2f9</cell>
   </row>
-  <row index="240">
+  <row index="258">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/37ccbabb-en</cell>
     <cell name="title">How adults’ proficiency in key information-processing skills has changed over the past decade. Chapter 3 tables (en)</cell>
@@ -4811,7 +5171,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4820,7 +5180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e772aae5</cell>
   </row>
-  <row index="241">
+  <row index="259">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/61cd1b56-en</cell>
     <cell name="title">Outcomes of investment in skills. Chapter 4 tables (en)</cell>
@@ -4831,7 +5191,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4840,7 +5200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e168fa12</cell>
   </row>
-  <row index="242">
+  <row index="260">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/664e542e-en</cell>
     <cell name="title">Additional tables (en)</cell>
@@ -4860,7 +5220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7db3da7d</cell>
   </row>
-  <row index="243">
+  <row index="261">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/58545fe9-en</cell>
     <cell name="title">How firms experience skill gaps (en)</cell>
@@ -4880,7 +5240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dfb410e4</cell>
   </row>
-  <row index="244">
+  <row index="262">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/5ad462ec-en</cell>
     <cell name="title">Design, development and implementation of the PIAAC Employer Module (en)</cell>
@@ -4900,7 +5260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b27959c7</cell>
   </row>
-  <row index="245">
+  <row index="263">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/79831749-en</cell>
     <cell name="title">Literacy, numeracy and adaptive problem solving among adults in 2023. Chapter 2 tables (en)</cell>
@@ -4911,7 +5271,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4920,7 +5280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae092b82</cell>
   </row>
-  <row index="246">
+  <row index="264">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/e8974fb3-en</cell>
     <cell name="title">Outcomes of investment in skills (en)</cell>
@@ -4940,7 +5300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2f1fb14</cell>
   </row>
-  <row index="247">
+  <row index="265">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/2dae57da-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -4960,7 +5320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2f829f5</cell>
   </row>
-  <row index="248">
+  <row index="266">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/25e7abea-en</cell>
     <cell name="title">Chapter 2 figures and tables (en)</cell>
@@ -4971,7 +5331,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -4980,7 +5340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f93fdd84</cell>
   </row>
-  <row index="249">
+  <row index="267">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/071a942c-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -5000,7 +5360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/59f7b98b</cell>
   </row>
-  <row index="250">
+  <row index="268">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b388d1da-en</cell>
     <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
@@ -5020,7 +5380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b6c803a</cell>
   </row>
-  <row index="251">
+  <row index="269">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/368bf665-en</cell>
     <cell name="title">Editorial (en)</cell>
@@ -5031,7 +5391,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5040,7 +5400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5b12025a</cell>
   </row>
-  <row index="252">
+  <row index="270">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b263dc5d-en</cell>
     <cell name="title">Do Adults Have the Skills They Need to Thrive in a Changing World? (en)</cell>
@@ -5051,7 +5411,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5060,7 +5420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/253188f4</cell>
   </row>
-  <row index="253">
+  <row index="271">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b388d1da-en</cell>
     <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
@@ -5080,7 +5440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/924cf362</cell>
   </row>
-  <row index="254">
+  <row index="272">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/02f78b32-en</cell>
     <cell name="title">Chapter 4 figures and tables (en)</cell>
@@ -5091,7 +5451,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5100,7 +5460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/86a9120c</cell>
   </row>
-  <row index="255">
+  <row index="273">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/787a459d-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -5120,7 +5480,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/167fa0d4</cell>
   </row>
-  <row index="256">
+  <row index="274">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7239583e-en</cell>
     <cell name="title">Chapter 3 figures (en)</cell>
@@ -5131,7 +5491,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5140,7 +5500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c4f74007</cell>
   </row>
-  <row index="257">
+  <row index="275">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7c3bd763-en</cell>
     <cell name="title">Chapter 1 figures (en)</cell>
@@ -5151,7 +5511,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5160,7 +5520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eddce462</cell>
   </row>
-  <row index="258">
+  <row index="276">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/d781d597-en</cell>
     <cell name="title">Tables of results for countries and economies (en)</cell>
@@ -5180,7 +5540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d58c068</cell>
   </row>
-  <row index="259">
+  <row index="277">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0ba5518f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -5200,7 +5560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fe03461a</cell>
   </row>
-  <row index="260">
+  <row index="278">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/4c0da085-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -5220,7 +5580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78e43c04</cell>
   </row>
-  <row index="261">
+  <row index="279">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/fe723e57-en</cell>
     <cell name="title">Additional tables: main characteristics of the sampled population (en)</cell>
@@ -5231,7 +5591,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5240,7 +5600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2992bd5a</cell>
   </row>
-  <row index="262">
+  <row index="280">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/03a385cd-en</cell>
     <cell name="title">How firms address skill gaps (en)</cell>
@@ -5260,7 +5620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f300dab7</cell>
   </row>
-  <row index="263">
+  <row index="281">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b263dc5d-en</cell>
     <cell name="title">Do Adults Have the Skills They Need to Thrive in a Changing World? (en)</cell>
@@ -5280,7 +5640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/361e0a80</cell>
   </row>
-  <row index="264">
+  <row index="282">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b388d1da-en</cell>
     <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
@@ -5300,7 +5660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e394d42f</cell>
   </row>
-  <row index="265">
+  <row index="283">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b263dc5d-en</cell>
     <cell name="title">Do Adults Have the Skills They Need to Thrive in a Changing World? (en)</cell>
@@ -5320,7 +5680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9c8ba03</cell>
   </row>
-  <row index="266">
+  <row index="284">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/05c42e9d-en</cell>
     <cell name="title">Sample characteristics (en)</cell>
@@ -5340,7 +5700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/586d0418</cell>
   </row>
-  <row index="267">
+  <row index="285">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b263dc5d-en</cell>
     <cell name="title">Do Adults Have the Skills They Need to Thrive in a Changing World? (en)</cell>
@@ -5351,7 +5711,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5360,7 +5720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/294e6a10</cell>
   </row>
-  <row index="268">
+  <row index="286">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/b263dc5d-en</cell>
     <cell name="title">Do Adults Have the Skills They Need to Thrive in a Changing World? (en)</cell>
@@ -5371,7 +5731,7 @@
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T10:00:00Z</cell>
     <cell name="launch date/time"/>
-    <cell name="ilibrary last export date">2024-12-04T21:31:50Z</cell>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
@@ -5380,7 +5740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57850131</cell>
   </row>
-  <row index="269">
+  <row index="287">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/18110820-en</cell>
     <cell name="title">How adults’ proficiency in key information-processing skills has changed over the past decade (en)</cell>
@@ -5400,7 +5760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3593d51b</cell>
   </row>
-  <row index="270">
+  <row index="288">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/b388d1da-en</cell>
     <cell name="title">Understanding Skill Gaps in Firms (en)</cell>
@@ -5420,14 +5780,114 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ef06c20b</cell>
   </row>
-  <row index="271">
+  <row index="289">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78e9af3a-en</cell>
+    <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
+    <cell name="subtitle">Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e7c8381</cell>
+  </row>
+  <row index="290">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/78e9af3a-en</cell>
     <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
     <cell name="subtitle">Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations (en)</cell>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/955a8a8c</cell>
+  </row>
+  <row index="291">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/de9e5ca3-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7afdad0f</cell>
+  </row>
+  <row index="292">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7fab56de-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cd9b87a</cell>
+  </row>
+  <row index="293">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/bcbef52e-en</cell>
+    <cell name="title">Non-tax revenue trends, 2013-22 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/090ec621</cell>
+  </row>
+  <row index="294">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78e9af3a-en</cell>
+    <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
+    <cell name="subtitle">Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2024-12-10</cell>
     <cell name="embargo date">2024-12-10T13:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -5437,10 +5897,150 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/955a8a8c</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/418f167b</cell>
   </row>
-  <row index="272">
+  <row index="295">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c863eb88-en</cell>
+    <cell name="title">Abbreviations and acronyms (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93cee328</cell>
+  </row>
+  <row index="296">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4ce9e87c-en</cell>
+    <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4701f5f1</cell>
+  </row>
+  <row index="297">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8b49d539-en</cell>
+    <cell name="title">Tax revenue trends, 2013-22 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d8e6d15</cell>
+  </row>
+  <row index="298">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3472147b-en</cell>
+    <cell name="title">Tax levels and tax structures, 1990‑2022 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f53bf7a3</cell>
+  </row>
+  <row index="299">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78e9af3a-en</cell>
+    <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
+    <cell name="subtitle">Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/039082eb</cell>
+  </row>
+  <row index="300">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/78e9af3a-en</cell>
+    <cell name="title">Revenue Statistics in Africa 2024 (en)</cell>
+    <cell name="subtitle">Facilitation and Trust as Drivers of Voluntary Tax Compliance in Selected African Tax Administrations (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4bdb4105</cell>
+  </row>
+  <row index="301">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/3acdea9a-en</cell>
+    <cell name="title">Country tables, 1995-2022 – Non-tax revenues (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fab8cc3b</cell>
+  </row>
+  <row index="302">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cd87af6f-fr</cell>
     <cell name="title">Statistiques des recettes publiques en Afrique 2024 (fr)</cell>
@@ -5460,7 +6060,67 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b3e5100a</cell>
   </row>
-  <row index="273">
+  <row index="303">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a03d53d9-en</cell>
+    <cell name="title">Facilitation and trust as drivers of voluntary tax compliance in selected African tax administrations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/935cbdd7</cell>
+  </row>
+  <row index="304">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/ded5fa82-en</cell>
+    <cell name="title">Country tables, 1995‑2022 – Tax revenues (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42cd499e</cell>
+  </row>
+  <row index="305">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b467c0a5-en</cell>
+    <cell name="title">Interpretative guide to non-tax revenue (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2024-12-10</cell>
+    <cell name="embargo date">2024-12-10T13:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date">2024-12-05T21:35:31Z</cell>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/15f62fa8</cell>
+  </row>
+  <row index="306">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/0fec780e-en</cell>
     <cell name="title">OECD Toolkit to Combat Homelessness (en)</cell>
@@ -5480,7 +6140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0e9328f2</cell>
   </row>
-  <row index="274">
+  <row index="307">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/a8e79405-en</cell>
     <cell name="title">Caribbean Development Dynamics 2025 (en)</cell>
@@ -5500,7 +6160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cc3c49b6</cell>
   </row>
-  <row index="275">
+  <row index="308">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/5315c3ca-en</cell>
     <cell name="title">Financial Consumer Protection in Ireland (en)</cell>
@@ -5520,7 +6180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/516ed6d8</cell>
   </row>
-  <row index="276">
+  <row index="309">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/10fb12de-fr</cell>
     <cell name="title">Pratiques fiscales dommageables – Rapports d’examen par les pairs relatifs à l’échange de renseignements sur les décisions fiscales de 2023 (version abrégée) (fr)</cell>
@@ -5540,7 +6200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89179266</cell>
   </row>
-  <row index="277">
+  <row index="310">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/efbad00d-en</cell>
     <cell name="title">Harmful Tax Practices – 2023 Peer Review Reports on the Exchange of Information on Tax Rulings (en)</cell>
@@ -5560,7 +6220,87 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24507a3f</cell>
   </row>
-  <row index="278">
+  <row index="311">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/77dec27d-en</cell>
+    <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on Sweden (en)</cell>
+    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-12-20</cell>
+    <cell name="embargo date">2024-12-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d6f5744</cell>
+  </row>
+  <row index="312">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/83945426-en</cell>
+    <cell name="title">OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report on Poland (en)</cell>
+    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-12-20</cell>
+    <cell name="embargo date">2024-12-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a9b107ae</cell>
+  </row>
+  <row index="313">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/69557c1c-en</cell>
+    <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on New Zealand (en)</cell>
+    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-12-20</cell>
+    <cell name="embargo date">2024-12-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e5d495d7</cell>
+  </row>
+  <row index="314">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/675b0561-en</cell>
+    <cell name="title">OECD Anti-Bribery Convention Phase 2 Report on Croatia (en)</cell>
+    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2024-12-20</cell>
+    <cell name="embargo date">2024-12-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d8bbc84b</cell>
+  </row>
+  <row index="315">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/efad96ce-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2025 (en)</cell>
