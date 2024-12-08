@@ -2,87 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/a35a56b6-end3e63
-SUMMARY:[Economic survey] OECD Economic Surveys:
-  Greece 2024
-DESCRIPTION:*[Economic survey] OECD Economic Surveys
- : Greece 2024*\n\nDirectorate: Economics
-  Department\nLanguage: English\nDOI: htt
- ps://doi.org/10.1787/a35a56b6-en\nPublic
- ation type: Economic survey\nReleased as
- : PDF\n\nEmbargo date/time: Thursday, 5 
- December 2024, 8:30 (GMT)\n\n\niLibrary 
- export: Thursday, 5 December 2024, 21:35
-  (GMT)\nFreepreview export: never\nOECD.
- org export: never\nFTI loaded: ✓\n\nFor 
- more information see: https://oecd.githu
- b.io/embargo-calendar/embargoes-by-publi
- cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 22:45, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=a35a56b6-en.
-DTSTAMP:20241206T224505Z
-DTSTART:20241205T083000Z
-DTEND:20241205T084500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- c Surveys: Greece 2024
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/f42db3bf-end3e9878
-SUMMARY:[Book] OECD Regions and Cities at a Glan
- ce 2024
-DESCRIPTION:*[Book] OECD Regions and Cities at a Gla
- nce 2024*\n\nDirectorate: Centre for Ent
- repreneurship, SMEs, Regions and Cities\
- nLanguage: English\nDOI: https://doi.org
- /10.1787/f42db3bf-en\nPublication type: 
- Book\nReleased as: ePub, HTML, Paperback
- , PDF, ZJCR, ZXML\n\nEmbargo date/time: 
- Friday, 6 December 2024, 7:55 (GMT)\n\n\
- niLibrary export: Thursday, 5 December 2
- 024, 21:35 (GMT)\nFreepreview export: ne
- ver\nOECD.org export: never\nFTI loaded:
-  ✓\n\nFor more information see: https://
- oecd.github.io/embargo-calendar/embargoe
- s-by-publication.html.\n\nPlease note: T
- his information was correct as of this a
- fternoon at 22:45, it is updated each ni
- ght; therefore any subsequent updates ma
- y not yet be visible here. Also, please 
- be aware that the different released med
- ia (PDF, HTML, etc.) are not necessarily
-  released at the same time. For complete
-  and up-to-date information see here: ht
- tp://kappa.oecd.org/v3/search?term=f42db
- 3bf-en.
-DTSTAMP:20241206T224505Z
-DTSTART:20241206T075500Z
-DTEND:20241206T081000Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] OECD Regions and Cities
-  at a Glance 2024
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e4466793-frd3e9932
+UID:10.1787/e4466793-frd3e63
 SUMMARY:[Policy paper] Les bénéfices d’apprendre
   à distinguer savoir et croire - Une éva
  luation d’impact inédite
@@ -101,7 +21,7 @@ DESCRIPTION:*[Policy paper] Les bénéfices d’apprendr
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:45, it is updated each night;
+ noon at 22:42, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -110,7 +30,7 @@ DESCRIPTION:*[Policy paper] Les bénéfices d’apprendr
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=e4466793-
  fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T070000Z
 DTEND:20241209T071500Z
 TRANSP:TRANSPARENT
@@ -125,7 +45,7 @@ DESCRIPTION:Reminder: [Policy paper] Les bénéfices d
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16e43df1-end3e9986
+UID:10.1787/16e43df1-end3e117
 SUMMARY:[Policy paper] The benefits of learning 
  the difference between facts and faith -
   An impact assessment
@@ -144,7 +64,7 @@ DESCRIPTION:*[Policy paper] The benefits of learning
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -153,7 +73,7 @@ DESCRIPTION:*[Policy paper] The benefits of learning
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=16e43df1-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T070000Z
 DTEND:20241209T071500Z
 TRANSP:TRANSPARENT
@@ -168,7 +88,7 @@ DESCRIPTION:Reminder: [Policy paper] The benefits of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/16d0283c-end3e10040
+UID:10.1787/16d0283c-end3e171
 SUMMARY:[Report] Annual survey on financial ince
  ntives for retirement savings - Country 
  profiles 2024
@@ -187,7 +107,7 @@ DESCRIPTION:*[Report] Annual survey on financial inc
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:45, it is updated 
+  this afternoon at 22:42, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -196,7 +116,7 @@ DESCRIPTION:*[Report] Annual survey on financial inc
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=16d0283c-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T070000Z
 DTEND:20241209T071500Z
 TRANSP:TRANSPARENT
@@ -211,7 +131,49 @@ DESCRIPTION:Reminder: [Report] Annual survey on fina
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/01497fea-end3e10797
+UID:10.1787/2c837a76-frd3e493
+SUMMARY:[Book] Examen des politiques de transfor
+ mation économique du Togo - Pour une pro
+ spérité partagée
+DESCRIPTION:*[Book] Examen des politiques de transfo
+ rmation économique du Togo - Pour une pr
+ ospérité partagée*\n\nDirectorate: Devel
+ opment Centre\nLanguage: French\nDOI: ht
+ tps://doi.org/10.1787/2c837a76-fr\nPubli
+ cation type: Book\nReleased as: HTML, Pa
+ perback, PDF, ZJCR, ZXML\n\nEmbargo date
+ /time: Monday, 9 December 2024, 8:00 (GM
+ T)\n\n\niLibrary export: never\nFreeprev
+ iew export: never\nOECD.org export: neve
+ r\nFTI loaded: ✓\n\nFor more information
+  see: https://oecd.github.io/embargo-cal
+ endar/embargoes-by-publication.html.\n\n
+ Please note: This information was correc
+ t as of this afternoon at 22:42, it is u
+ pdated each night; therefore any subsequ
+ ent updates may not yet be visible here.
+  Also, please be aware that the differen
+ t released media (PDF, HTML, etc.) are n
+ ot necessarily released at the same time
+ . For complete and up-to-date informatio
+ n see here: http://kappa.oecd.org/v3/sea
+ rch?term=2c837a76-fr.
+DTSTAMP:20241208T224242Z
+DTSTART:20241209T080000Z
+DTEND:20241209T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Examen des politiques d
+ e transformation économique du Togo - Po
+ ur une prospérité partagée
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/01497fea-end3e1568
 SUMMARY:[Stand-alone monograph] Promoting the Gr
  owth of the Semiconductor Ecosystem in t
  he Philippines
@@ -231,7 +193,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the G
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:45, it is up
+  as of this afternoon at 22:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -240,7 +202,7 @@ DESCRIPTION:*[Stand-alone monograph] Promoting the G
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=01497fea-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T080000Z
 DTEND:20241209T081500Z
 TRANSP:TRANSPARENT
@@ -255,49 +217,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Promot
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2c837a76-frd3e10957
-SUMMARY:[Book] Examen des politiques de transfor
- mation économique du Togo - Pour une pro
- spérité partagée
-DESCRIPTION:*[Book] Examen des politiques de transfo
- rmation économique du Togo - Pour une pr
- ospérité partagée*\n\nDirectorate: Devel
- opment Centre\nLanguage: French\nDOI: ht
- tps://doi.org/10.1787/2c837a76-fr\nPubli
- cation type: Book\nReleased as: HTML, Pa
- perback, PDF\n\nEmbargo date/time: Monda
- y, 9 December 2024, 10:00 (GMT)\n\n\niLi
- brary export: never\nFreepreview export:
-  never\nOECD.org export: never\nFTI load
- ed: ✓\n\nFor more information see: https
- ://oecd.github.io/embargo-calendar/embar
- goes-by-publication.html.\n\nPlease note
- : This information was correct as of thi
- s afternoon at 22:45, it is updated each
-  night; therefore any subsequent updates
-  may not yet be visible here. Also, plea
- se be aware that the different released 
- media (PDF, HTML, etc.) are not necessar
- ily released at the same time. For compl
- ete and up-to-date information see here:
-  http://kappa.oecd.org/v3/search?term=2c
- 837a76-fr.
-DTSTAMP:20241206T224505Z
-DTSTART:20241209T100000Z
-DTEND:20241209T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] Examen des politiques d
- e transformation économique du Togo - Po
- ur une prospérité partagée
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/c437947f-end3e12608
+UID:10.1787/c437947f-end3e2848
 SUMMARY:[Book] Latin American Economic Outlook 2
  024 - Financing Sustainable Development
 DESCRIPTION:*[Book] Latin American Economic Outlook 
@@ -315,7 +235,7 @@ DESCRIPTION:*[Book] Latin American Economic Outlook
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 22:45, it is updated each night; the
+  at 22:42, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -323,7 +243,7 @@ DESCRIPTION:*[Book] Latin American Economic Outlook
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=c437947f-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T140000Z
 DTEND:20241209T141500Z
 TRANSP:TRANSPARENT
@@ -338,7 +258,7 @@ DESCRIPTION:Reminder: [Book] Latin American Economic
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b41ab8e-end3e13307
+UID:10.1787/2b41ab8e-end3e3546
 SUMMARY:[Book] Promoting Better Career Mobility 
  for Longer Working Lives in the United K
  ingdom
@@ -358,7 +278,7 @@ DESCRIPTION:*[Book] Promoting Better Career Mobility
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -367,7 +287,7 @@ DESCRIPTION:*[Book] Promoting Better Career Mobility
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=2b41ab8e-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241209T160000Z
 DTEND:20241209T161500Z
 TRANSP:TRANSPARENT
@@ -382,7 +302,7 @@ DESCRIPTION:Reminder: [Book] Promoting Better Career
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7187249a-end3e13629
+UID:10.1787/7187249a-end3e3868
 SUMMARY:[Short content] Flemish Region (Belgium)
 DESCRIPTION:*[Short content] Flemish Region (Belgium
  )*\n\nDirectorate: Directorate for Educa
@@ -397,7 +317,7 @@ DESCRIPTION:*[Short content] Flemish Region (Belgium
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:45, it is upd
+ as of this afternoon at 22:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -406,7 +326,7 @@ DESCRIPTION:*[Short content] Flemish Region (Belgium
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=7187249a-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -420,7 +340,7 @@ DESCRIPTION:Reminder: [Short content] Flemish Region
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bdaa68d1-end3e13735
+UID:10.1787/bdaa68d1-end3e3974
 SUMMARY:[Short content] Netherlands
 DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
  rate: Directorate for Education and Skil
@@ -435,7 +355,7 @@ DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 22:45, it is updated each nig
+ ternoon at 22:42, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -444,7 +364,7 @@ DESCRIPTION:*[Short content] Netherlands*\n\nDirecto
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=bdaa68
  d1-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -457,7 +377,7 @@ DESCRIPTION:Reminder: [Short content] Netherlands
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/54711e68-end3e13894
+UID:10.1787/54711e68-end3e4134
 SUMMARY:[Short content] Croatia
 DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -472,7 +392,7 @@ DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -481,7 +401,7 @@ DESCRIPTION:*[Short content] Croatia*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=54711e68-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -494,7 +414,7 @@ DESCRIPTION:Reminder: [Short content] Croatia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2b60c427-end3e14215
+UID:10.1787/2b60c427-end3e4455
 SUMMARY:[Short content] Spain
 DESCRIPTION:*[Short content] Spain*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -509,7 +429,7 @@ DESCRIPTION:*[Short content] Spain*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -517,7 +437,7 @@ DESCRIPTION:*[Short content] Spain*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=2b60c427-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -530,7 +450,7 @@ DESCRIPTION:Reminder: [Short content] Spain
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a4f65d7b-end3e14375
+UID:10.1787/a4f65d7b-end3e4614
 SUMMARY:[Short content] Norway
 DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -545,7 +465,7 @@ DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -554,7 +474,7 @@ DESCRIPTION:*[Short content] Norway*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=a4f65d7b-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -567,7 +487,7 @@ DESCRIPTION:Reminder: [Short content] Norway
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f81cb66-end3e14535
+UID:10.1787/5f81cb66-end3e4775
 SUMMARY:[Short content] Germany
 DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -582,7 +502,7 @@ DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -591,7 +511,7 @@ DESCRIPTION:*[Short content] Germany*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=5f81cb66-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -604,7 +524,7 @@ DESCRIPTION:Reminder: [Short content] Germany
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b03d6066-end3e15069
+UID:10.1787/b03d6066-end3e5308
 SUMMARY:[Short content] Italy
 DESCRIPTION:*[Short content] Italy*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -619,7 +539,7 @@ DESCRIPTION:*[Short content] Italy*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -627,7 +547,7 @@ DESCRIPTION:*[Short content] Italy*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=b03d6066-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -640,7 +560,7 @@ DESCRIPTION:Reminder: [Short content] Italy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/09034ae3-end3e15175
+UID:10.1787/09034ae3-end3e5415
 SUMMARY:[Short content] France
 DESCRIPTION:*[Short content] France*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -655,7 +575,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -664,7 +584,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=09034ae3-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -677,7 +597,7 @@ DESCRIPTION:Reminder: [Short content] France
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/abd55ade-end3e15336
+UID:10.1787/abd55ade-end3e5575
 SUMMARY:[Short content] Denmark
 DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -692,7 +612,7 @@ DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -701,7 +621,7 @@ DESCRIPTION:*[Short content] Denmark*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=abd55ade-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -714,7 +634,7 @@ DESCRIPTION:Reminder: [Short content] Denmark
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/743ccd1f-end3e15551
+UID:10.1787/743ccd1f-end3e5790
 SUMMARY:[Short content] Sweden
 DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -729,7 +649,7 @@ DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -738,7 +658,7 @@ DESCRIPTION:*[Short content] Sweden*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=743ccd1f-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -751,7 +671,7 @@ DESCRIPTION:Reminder: [Short content] Sweden
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/02bc78e4-end3e15875
+UID:10.1787/02bc78e4-end3e6114
 SUMMARY:[Short content] England (United Kingdom)
 DESCRIPTION:*[Short content] England (United Kingdom
  )*\n\nDirectorate: Directorate for Educa
@@ -766,7 +686,7 @@ DESCRIPTION:*[Short content] England (United Kingdom
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 22:45, it is upd
+ as of this afternoon at 22:42, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -775,7 +695,7 @@ DESCRIPTION:*[Short content] England (United Kingdom
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=02bc78e4-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -789,7 +709,7 @@ DESCRIPTION:Reminder: [Short content] England (Unite
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0160845f-esd3e15981
+UID:10.1787/0160845f-esd3e6220
 SUMMARY:[Short content] España
 DESCRIPTION:*[Short content] España*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -804,7 +724,7 @@ DESCRIPTION:*[Short content] España*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -813,7 +733,7 @@ DESCRIPTION:*[Short content] España*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=0160845f-es
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -826,7 +746,7 @@ DESCRIPTION:Reminder: [Short content] España
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9d76682b-end3e16194
+UID:10.1787/9d76682b-end3e6433
 SUMMARY:[Short content] Poland
 DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -841,7 +761,7 @@ DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -850,7 +770,7 @@ DESCRIPTION:*[Short content] Poland*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=9d76682b-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -863,7 +783,7 @@ DESCRIPTION:Reminder: [Short content] Poland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/23a92628-end3e16301
+UID:10.1787/23a92628-end3e6540
 SUMMARY:[Short content] Slovak Republic
 DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  ectorate: Directorate for Education and 
@@ -878,7 +798,7 @@ DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  ://oecd.github.io/embargo-calendar/embar
  goes-by-publication.html.\n\nPlease note
  : This information was correct as of thi
- s afternoon at 22:45, it is updated each
+ s afternoon at 22:42, it is updated each
   night; therefore any subsequent updates
   may not yet be visible here. Also, plea
  se be aware that the different released 
@@ -887,7 +807,7 @@ DESCRIPTION:*[Short content] Slovak Republic*\n\nDir
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=23
  a92628-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -901,7 +821,7 @@ DESCRIPTION:Reminder: [Short content] Slovak Republi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3d83066e-ptd3e16781
+UID:10.1787/3d83066e-ptd3e7021
 SUMMARY:[Short content] Portugal
 DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  e: Directorate for Education and Skills\
@@ -916,7 +836,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 22:45, it is updated each nig
+ ternoon at 22:42, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -925,7 +845,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=3d8306
  6e-pt.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -938,7 +858,7 @@ DESCRIPTION:Reminder: [Short content] Portugal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5f95963c-end3e16835
+UID:10.1787/5f95963c-end3e7074
 SUMMARY:[Short content] Korea
 DESCRIPTION:*[Short content] Korea*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -953,7 +873,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -961,7 +881,7 @@ DESCRIPTION:*[Short content] Korea*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=5f95963c-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -974,7 +894,7 @@ DESCRIPTION:Reminder: [Short content] Korea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/38269859-end3e16888
+UID:10.1787/38269859-end3e7127
 SUMMARY:[Short content] Latvia
 DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -989,7 +909,7 @@ DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -998,7 +918,7 @@ DESCRIPTION:*[Short content] Latvia*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=38269859-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1011,7 +931,7 @@ DESCRIPTION:Reminder: [Short content] Latvia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8d52c02-frd3e17047
+UID:10.1787/e8d52c02-frd3e7286
 SUMMARY:[Book] Les adultes possèdent-ils les com
  pétences nécessaires pour s’épanouir dan
  s un monde en mutation ? - Évaluation de
@@ -1031,7 +951,7 @@ DESCRIPTION:*[Book] Les adultes possèdent-ils les co
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 22:45, i
+ correct as of this afternoon at 22:42, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -1040,7 +960,7 @@ DESCRIPTION:*[Book] Les adultes possèdent-ils les co
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=e8d52c02-fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1056,7 +976,7 @@ DESCRIPTION:Reminder: [Book] Les adultes possèdent-i
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/3915a641-end3e17208
+UID:10.1787/3915a641-end3e7447
 SUMMARY:[Short content] Israel
 DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -1071,7 +991,7 @@ DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1080,7 +1000,7 @@ DESCRIPTION:*[Short content] Israel*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=3915a641-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1093,7 +1013,7 @@ DESCRIPTION:Reminder: [Short content] Israel
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/802640e0-jad3e17475
+UID:10.1787/802640e0-jad3e7714
 SUMMARY:[Short content] 日本
 DESCRIPTION:*[Short content] 日本*\n\nDirectorate: Dir
  ectorate for Education and Skills\nLangu
@@ -1108,7 +1028,7 @@ DESCRIPTION:*[Short content] 日本*\n\nDirectorate: Dir
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 22:45, it is updated each night; ther
+ at 22:42, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -1116,7 +1036,7 @@ DESCRIPTION:*[Short content] 日本*\n\nDirectorate: Dir
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=802640e0-ja.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1129,7 +1049,7 @@ DESCRIPTION:Reminder: [Short content] 日本
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c8c395ed-end3e17795
+UID:10.1787/c8c395ed-end3e8034
 SUMMARY:[Short content] Hungary
 DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1144,7 +1064,7 @@ DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1153,7 +1073,7 @@ DESCRIPTION:*[Short content] Hungary*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=c8c395ed-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1166,7 +1086,7 @@ DESCRIPTION:Reminder: [Short content] Hungary
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/21bacb82-frd3e17901
+UID:10.1787/21bacb82-frd3e8140
 SUMMARY:[Short content] France
 DESCRIPTION:*[Short content] France*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -1181,7 +1101,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1189,7 +1109,7 @@ DESCRIPTION:*[Short content] France*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=21bacb82-fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1202,7 +1122,7 @@ DESCRIPTION:Reminder: [Short content] France
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b263dc5d-end3e18060
+UID:10.1787/b263dc5d-end3e8300
 SUMMARY:[Book] Do Adults Have the Skills They Ne
  ed to Thrive in a Changing World? - Surv
  ey of Adult Skills 2023
@@ -1222,7 +1142,7 @@ DESCRIPTION:*[Book] Do Adults Have the Skills They N
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:45, it is updated each night;
+ noon at 22:42, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1231,7 +1151,7 @@ DESCRIPTION:*[Book] Do Adults Have the Skills They N
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=b263dc5d-
  en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1246,7 +1166,7 @@ DESCRIPTION:Reminder: [Book] Do Adults Have the Skil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a70d92ac-frd3e18277
+UID:10.1787/a70d92ac-frd3e8516
 SUMMARY:[Short content] Deutschland
 DESCRIPTION:*[Short content] Deutschland*\n\nDirecto
  rate: Directorate for Education and Skil
@@ -1261,7 +1181,7 @@ DESCRIPTION:*[Short content] Deutschland*\n\nDirecto
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 22:45, it is updated each nigh
+ ernoon at 22:42, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -1270,7 +1190,7 @@ DESCRIPTION:*[Short content] Deutschland*\n\nDirecto
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=a70d92a
  c-fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1283,7 +1203,7 @@ DESCRIPTION:Reminder: [Short content] Deutschland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/859a992c-itd3e18437
+UID:10.1787/859a992c-itd3e8676
 SUMMARY:[Short content] Italia
 DESCRIPTION:*[Short content] Italia*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -1298,7 +1218,7 @@ DESCRIPTION:*[Short content] Italia*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1307,7 +1227,7 @@ DESCRIPTION:*[Short content] Italia*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=859a992c-it
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1320,7 +1240,7 @@ DESCRIPTION:Reminder: [Short content] Italia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/427d6aac-end3e18543
+UID:10.1787/427d6aac-end3e8782
 SUMMARY:[Short content] United States
 DESCRIPTION:*[Short content] United States*\n\nDirec
  torate: Directorate for Education and Sk
@@ -1335,7 +1255,7 @@ DESCRIPTION:*[Short content] United States*\n\nDirec
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 22:45, it is updated each n
+ afternoon at 22:42, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -1344,7 +1264,7 @@ DESCRIPTION:*[Short content] United States*\n\nDirec
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=427d
  6aac-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1357,7 +1277,7 @@ DESCRIPTION:Reminder: [Short content] United States
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60a7b919-end3e18649
+UID:10.1787/60a7b919-end3e8888
 SUMMARY:[Short content] Estonia
 DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1372,7 +1292,7 @@ DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1381,7 +1301,7 @@ DESCRIPTION:*[Short content] Estonia*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=60a7b919-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1394,7 +1314,7 @@ DESCRIPTION:Reminder: [Short content] Estonia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7ed38300-end3e18756
+UID:10.1787/7ed38300-end3e8995
 SUMMARY:[Short content] Czechia
 DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1409,7 +1329,7 @@ DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1418,7 +1338,7 @@ DESCRIPTION:*[Short content] Czechia*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=7ed38300-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1431,7 +1351,7 @@ DESCRIPTION:Reminder: [Short content] Czechia
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dbf64059-esd3e18809
+UID:10.1787/dbf64059-esd3e9048
 SUMMARY:[Short content] Chile
 DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -1446,7 +1366,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1454,7 +1374,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=dbf64059-es.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1467,7 +1387,7 @@ DESCRIPTION:Reminder: [Short content] Chile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/382e963a-end3e18862
+UID:10.1787/382e963a-end3e9101
 SUMMARY:[Short content] Singapore
 DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  te: Directorate for Education and Skills
@@ -1482,7 +1402,7 @@ DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 22:45, it is updated each night
+ rnoon at 22:42, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1491,7 +1411,7 @@ DESCRIPTION:*[Short content] Singapore*\n\nDirectora
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=382e963a
  -en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1504,7 +1424,7 @@ DESCRIPTION:Reminder: [Short content] Singapore
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f8ab67af-end3e19183
+UID:10.1787/f8ab67af-end3e9422
 SUMMARY:[Short content] Finland
 DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1519,7 +1439,7 @@ DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1528,7 +1448,7 @@ DESCRIPTION:*[Short content] Finland*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=f8ab67af-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1541,7 +1461,7 @@ DESCRIPTION:Reminder: [Short content] Finland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6e580a6-end3e19236
+UID:10.1787/c6e580a6-end3e9475
 SUMMARY:[Short content] Switzerland
 DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
  rate: Directorate for Education and Skil
@@ -1556,7 +1476,7 @@ DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 22:45, it is updated each nig
+ ternoon at 22:42, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -1565,7 +1485,7 @@ DESCRIPTION:*[Short content] Switzerland*\n\nDirecto
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=c6e580
  a6-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1578,7 +1498,7 @@ DESCRIPTION:Reminder: [Short content] Switzerland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1b6cddce-end3e19342
+UID:10.1787/1b6cddce-end3e9582
 SUMMARY:[Short content] Lithuania
 DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  te: Directorate for Education and Skills
@@ -1593,7 +1513,7 @@ DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 22:45, it is updated each night
+ rnoon at 22:42, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -1602,7 +1522,7 @@ DESCRIPTION:*[Short content] Lithuania*\n\nDirectora
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=1b6cddce
  -en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1615,7 +1535,7 @@ DESCRIPTION:Reminder: [Short content] Lithuania
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e9b97e0d-svd3e20040
+UID:10.1787/e9b97e0d-svd3e10279
 SUMMARY:[Short content] Sverige
 DESCRIPTION:*[Short content] Sverige*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1630,7 +1550,7 @@ DESCRIPTION:*[Short content] Sverige*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1639,7 +1559,7 @@ DESCRIPTION:*[Short content] Sverige*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=e9b97e0d-s
  v.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1652,7 +1572,7 @@ DESCRIPTION:Reminder: [Short content] Sverige
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d67971ff-end3e20308
+UID:10.1787/d67971ff-end3e10548
 SUMMARY:[Short content] New Zealand
 DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  rate: Directorate for Education and Skil
@@ -1667,7 +1587,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 22:45, it is updated each nig
+ ternoon at 22:42, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -1676,7 +1596,7 @@ DESCRIPTION:*[Short content] New Zealand*\n\nDirecto
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=d67971
  ff-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1689,7 +1609,7 @@ DESCRIPTION:Reminder: [Short content] New Zealand
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/19e61a75-end3e20362
+UID:10.1787/19e61a75-end3e10601
 SUMMARY:[Short content] Austria
 DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1704,7 +1624,7 @@ DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1713,7 +1633,7 @@ DESCRIPTION:*[Short content] Austria*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=19e61a75-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1726,7 +1646,7 @@ DESCRIPTION:Reminder: [Short content] Austria
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5c86961b-end3e20842
+UID:10.1787/5c86961b-end3e11081
 SUMMARY:[Short content] Ireland
 DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1741,7 +1661,7 @@ DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1750,7 +1670,7 @@ DESCRIPTION:*[Short content] Ireland*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=5c86961b-e
  n.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1763,7 +1683,7 @@ DESCRIPTION:Reminder: [Short content] Ireland
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/91adbde1-end3e20895
+UID:10.1787/91adbde1-end3e11134
 SUMMARY:[Short content] Japan
 DESCRIPTION:*[Short content] Japan*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -1778,7 +1698,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1786,7 +1706,7 @@ DESCRIPTION:*[Short content] Japan*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=91adbde1-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1799,7 +1719,7 @@ DESCRIPTION:Reminder: [Short content] Japan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dc35a4c5-end3e21108
+UID:10.1787/dc35a4c5-end3e11347
 SUMMARY:[Short content] Portugal
 DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  e: Directorate for Education and Skills\
@@ -1814,7 +1734,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 22:45, it is updated each night;
+ noon at 22:42, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -1823,7 +1743,7 @@ DESCRIPTION:*[Short content] Portugal*\n\nDirectorat
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=dc35a4c5-
  en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1836,7 +1756,7 @@ DESCRIPTION:Reminder: [Short content] Portugal
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/61180e3a-end3e21322
+UID:10.1787/61180e3a-end3e11561
 SUMMARY:[Short content] Chile
 DESCRIPTION:*[Short content] Chile*\n\nDirectorate: 
  Directorate for Education and Skills\nLa
@@ -1851,7 +1771,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  thub.io/embargo-calendar/embargoes-by-pu
  blication.html.\n\nPlease note: This inf
  ormation was correct as of this afternoo
- n at 22:45, it is updated each night; th
+ n at 22:42, it is updated each night; th
  erefore any subsequent updates may not y
  et be visible here. Also, please be awar
  e that the different released media (PDF
@@ -1859,7 +1779,7 @@ DESCRIPTION:*[Short content] Chile*\n\nDirectorate:
  ed at the same time. For complete and up
  -to-date information see here: http://ka
  ppa.oecd.org/v3/search?term=61180e3a-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1872,7 +1792,7 @@ DESCRIPTION:Reminder: [Short content] Chile
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b388d1da-end3e21644
+UID:10.1787/b388d1da-end3e11883
 SUMMARY:[Book] Understanding Skill Gaps in Firms
   - Results of the PIAAC Employer Module
 DESCRIPTION:*[Book] Understanding Skill Gaps in Firm
@@ -1891,7 +1811,7 @@ DESCRIPTION:*[Book] Understanding Skill Gaps in Firm
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
  ation was correct as of this afternoon a
- t 22:45, it is updated each night; there
+ t 22:42, it is updated each night; there
  fore any subsequent updates may not yet 
  be visible here. Also, please be aware t
  hat the different released media (PDF, H
@@ -1899,7 +1819,7 @@ DESCRIPTION:*[Book] Understanding Skill Gaps in Firm
  at the same time. For complete and up-to
  -date information see here: http://kappa
  .oecd.org/v3/search?term=b388d1da-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1914,7 +1834,7 @@ DESCRIPTION:Reminder: [Book] Understanding Skill Gap
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5ecab9d9-end3e21699
+UID:10.1787/5ecab9d9-end3e11938
 SUMMARY:[Short content] Canada
 DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
   Directorate for Education and Skills\nL
@@ -1929,7 +1849,7 @@ DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 22:45, it is updated each night; t
+ on at 22:42, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1938,7 +1858,7 @@ DESCRIPTION:*[Short content] Canada*\n\nDirectorate:
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=5ecab9d9-en
  .
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1951,7 +1871,7 @@ DESCRIPTION:Reminder: [Short content] Canada
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ed3de05f-lvd3e21965
+UID:10.1787/ed3de05f-lvd3e12204
 SUMMARY:[Short content] Latvija
 DESCRIPTION:*[Short content] Latvija*\n\nDirectorate
  : Directorate for Education and Skills\n
@@ -1966,7 +1886,7 @@ DESCRIPTION:*[Short content] Latvija*\n\nDirectorate
  github.io/embargo-calendar/embargoes-by-
  publication.html.\n\nPlease note: This i
  nformation was correct as of this aftern
- oon at 22:45, it is updated each night; 
+ oon at 22:42, it is updated each night; 
  therefore any subsequent updates may not
   yet be visible here. Also, please be aw
  are that the different released media (P
@@ -1975,7 +1895,7 @@ DESCRIPTION:*[Short content] Latvija*\n\nDirectorate
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=ed3de05f-l
  v.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T100000Z
 DTEND:20241210T101500Z
 TRANSP:TRANSPARENT
@@ -1988,7 +1908,7 @@ DESCRIPTION:Reminder: [Short content] Latvija
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/78e9af3a-end3e22073
+UID:10.1787/78e9af3a-end3e12312
 SUMMARY:[Book] Revenue Statistics in Africa 2024
   - Facilitation and Trust as Drivers of 
  Voluntary Tax Compliance in Selected Afr
@@ -2010,7 +1930,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
  /oecd.github.io/embargo-calendar/embargo
  es-by-publication.html.\n\nPlease note: 
  This information was correct as of this 
- afternoon at 22:45, it is updated each n
+ afternoon at 22:42, it is updated each n
  ight; therefore any subsequent updates m
  ay not yet be visible here. Also, please
   be aware that the different released me
@@ -2019,7 +1939,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Africa 202
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=78e9
  af3a-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T130000Z
 DTEND:20241210T131500Z
 TRANSP:TRANSPARENT
@@ -2035,7 +1955,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in A
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cd87af6f-frd3e22724
+UID:10.1787/cd87af6f-frd3e12963
 SUMMARY:[Book] Statistiques des recettes publiqu
  es en Afrique 2024 - La facilitation et 
  la confiance comme moteurs de la conform
@@ -2058,7 +1978,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 2:45, it is updated each night; therefor
+ 2:42, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -2066,7 +1986,7 @@ DESCRIPTION:*[Book] Statistiques des recettes publiq
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=cd87af6f-fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241210T130000Z
 DTEND:20241210T131500Z
 TRANSP:TRANSPARENT
@@ -2084,7 +2004,7 @@ DESCRIPTION:Reminder: [Book] Statistiques des recett
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0fec780e-end3e22940
+UID:10.1787/0fec780e-end3e13179
 SUMMARY:[Stand-alone monograph] OECD Toolkit to 
  Combat Homelessness
 DESCRIPTION:*[Stand-alone monograph] OECD Toolkit to
@@ -2102,7 +2022,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Toolkit to
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 22:45, it is updated each night; ther
+ at 22:42, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -2110,7 +2030,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Toolkit to
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=0fec780e-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241213T090000Z
 DTEND:20241213T091500Z
 TRANSP:TRANSPARENT
@@ -2124,7 +2044,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD T
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a8e79405-end3e23896
+UID:10.1787/a8e79405-end3e14135
 SUMMARY:[Stand-alone monograph] Caribbean Develo
  pment Dynamics 2025
 DESCRIPTION:*[Stand-alone monograph] Caribbean Devel
@@ -2141,7 +2061,7 @@ DESCRIPTION:*[Stand-alone monograph] Caribbean Devel
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 22:45, it is updated each 
+  afternoon at 22:42, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -2150,7 +2070,7 @@ DESCRIPTION:*[Stand-alone monograph] Caribbean Devel
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=a8e
  79405-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241213T140000Z
 DTEND:20241213T141500Z
 TRANSP:TRANSPARENT
@@ -2164,7 +2084,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Caribb
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5315c3ca-end3e23949
+UID:10.1787/5315c3ca-end3e14188
 SUMMARY:[Stand-alone monograph] Financial Consum
  er Protection in Ireland - A Review of t
  he Central Bank of Ireland's Supervisory
@@ -2185,7 +2105,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Consu
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 22:45, it is updated each night; therefo
+ 22:42, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -2193,7 +2113,7 @@ DESCRIPTION:*[Stand-alone monograph] Financial Consu
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=5315c3ca-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241216T080000Z
 DTEND:20241216T081500Z
 TRANSP:TRANSPARENT
@@ -2209,7 +2129,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/10fb12de-frd3e24002
+UID:10.1787/10fb12de-frd3e14241
 SUMMARY:[Stand-alone monograph] Pratiques fiscal
  es dommageables – Rapports d’examen par 
  les pairs relatifs à l’échange de rensei
@@ -2234,7 +2154,7 @@ DESCRIPTION:*[Stand-alone monograph] Pratiques fisca
  ub.io/embargo-calendar/embargoes-by-publ
  ication.html.\n\nPlease note: This infor
  mation was correct as of this afternoon 
- at 22:45, it is updated each night; ther
+ at 22:42, it is updated each night; ther
  efore any subsequent updates may not yet
   be visible here. Also, please be aware 
  that the different released media (PDF, 
@@ -2242,7 +2162,7 @@ DESCRIPTION:*[Stand-alone monograph] Pratiques fisca
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=10fb12de-fr.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241216T100000Z
 DTEND:20241216T101500Z
 TRANSP:TRANSPARENT
@@ -2260,7 +2180,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Pratiq
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/efbad00d-end3e24055
+UID:10.1787/efbad00d-end3e14294
 SUMMARY:[Stand-alone monograph] Harmful Tax Prac
  tices – 2023 Peer Review Reports on the 
  Exchange of Information on Tax Rulings -
@@ -2281,7 +2201,7 @@ DESCRIPTION:*[Stand-alone monograph] Harmful Tax Pra
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 22:45, it is update
+ of this afternoon at 22:42, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2290,7 +2210,7 @@ DESCRIPTION:*[Stand-alone monograph] Harmful Tax Pra
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=efbad00d-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241216T100000Z
 DTEND:20241216T101500Z
 TRANSP:TRANSPARENT
@@ -2307,7 +2227,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Harmfu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/77dec27d-end3e24108
+UID:10.1787/77dec27d-end3e14347
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on Sweden - Implementing th
  e Convention and Related Legal Instrumen
@@ -2327,7 +2247,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 22:45, it is updated
+ f this afternoon at 22:42, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -2336,7 +2256,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=77dec27d-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241219T100000Z
 DTEND:20241219T101500Z
 TRANSP:TRANSPARENT
@@ -2352,7 +2272,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69557c1c-end3e24161
+UID:10.1787/69557c1c-end3e14401
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on New Zealand - Implementi
  ng the Convention and Related Legal Inst
@@ -2372,7 +2292,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 22:45, it is up
+  as of this afternoon at 22:42, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -2381,7 +2301,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=69557c1c-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241219T100000Z
 DTEND:20241219T101500Z
 TRANSP:TRANSPARENT
@@ -2397,7 +2317,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/83945426-end3e24215
+UID:10.1787/83945426-end3e14454
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Two-Year Follow-Up Report on Polan
  d - Implementing the Convention and Rela
@@ -2418,7 +2338,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  embargo-calendar/embargoes-by-publicatio
  n.html.\n\nPlease note: This information
   was correct as of this afternoon at 22:
- 45, it is updated each night; therefore 
+ 42, it is updated each night; therefore 
  any subsequent updates may not yet be vi
  sible here. Also, please be aware that t
  he different released media (PDF, HTML, 
@@ -2426,7 +2346,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=83945426-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241220T100000Z
 DTEND:20241220T101500Z
 TRANSP:TRANSPARENT
@@ -2442,7 +2362,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/675b0561-end3e24268
+UID:10.1787/675b0561-end3e14507
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 2 Report on Croatia - Implementing t
  he Convention and Related Legal Instrume
@@ -2462,7 +2382,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 22:45, it is updated 
+  this afternoon at 22:42, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -2471,7 +2391,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=675b0561-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20241220T100000Z
 DTEND:20241220T101500Z
 TRANSP:TRANSPARENT
@@ -2487,7 +2407,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/efad96ce-end3e24321
+UID:10.1787/efad96ce-end3e14560
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Chile 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2503,7 +2423,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 22:45, it is updated each nigh
+ ernoon at 22:42, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -2512,7 +2432,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=efad96c
  e-en.
-DTSTAMP:20241206T224505Z
+DTSTAMP:20241208T224242Z
 DTSTART:20250115T100000Z
 DTEND:20250115T101500Z
 TRANSP:TRANSPARENT

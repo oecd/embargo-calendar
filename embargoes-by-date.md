@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 6 December 2024 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 8 December 2024 at 22:42* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [5 December 2024](#5-december-2024)
-* [6 December 2024](#6-december-2024)
 * [9 December 2024](#9-december-2024)
 * [10 December 2024](#10-december-2024)
 * [13 December 2024](#13-december-2024)
@@ -13,60 +11,6 @@ Data generated on | |
 * [19 December 2024](#19-december-2024)
 * [20 December 2024](#20-december-2024)
 * [15 January 2025](#15-january-2025)
-
-------
-
-# 5 December 2024
-
-## [OECD Economic Surveys: Greece 2024](https://doi.org/10.1787/a35a56b6-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 5 December 2024 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 6 December 2024
-
-## [OECD Regions and Cities at a Glance 2024](https://doi.org/10.1787/f42db3bf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 6 December 2024 at 7:55 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *ePub, HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -141,6 +85,29 @@ Monday 9 December 2024 at 7:00 | no launch event
 
 ------
 
+## [Examen des politiques de transformation économique du Togo - Pour une prospérité partagée](https://doi.org/10.1787/2c837a76-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 9 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Promoting the Growth of the Semiconductor Ecosystem in the Philippines](https://doi.org/10.1787/01497fea-en)
 
 Embargo date | Launch date
@@ -161,29 +128,6 @@ Monday 9 December 2024 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examen des politiques de transformation économique du Togo - Pour une prospérité partagée](https://doi.org/10.1787/2c837a76-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
 
 ------
 
