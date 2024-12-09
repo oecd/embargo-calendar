@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 8 December 2024 at 22:42* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 9 December 2024 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Les bénéfices d’apprendre à distinguer savoir et croire - Une évaluation d’impact inédite](https://doi.org/10.1787/e4466793-fr)
 
@@ -320,6 +320,29 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Formats: *DOCX, PDF, ZJCR*
+
+------
+
+## [Česká republika](https://doi.org/10.1787/6e4bb282-cs)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 10 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *Czech*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -694,7 +717,7 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 
 ------
 
-## [Deutschland](https://doi.org/10.1787/a70d92ac-fr)
+## [Deutschland](https://doi.org/10.1787/a70d92ac-de)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -710,7 +733,7 @@ Tuesday 10 December 2024 at 10:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Education and Skills*
-* Language: *French*
+* Language: *German*
 * Availability: *Published*
 * Type of publication: *Short content*
 * Formats: *DOCX, PDF, ZJCR*
@@ -1185,7 +1208,7 @@ Tuesday 10 December 2024 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1194,8 +1217,31 @@ Tuesday 10 December 2024 at 13:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Public Trust in Tax 2024 – Latin America and Beyond](https://doi.org/10.1787/52ce48d5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 12 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -1254,7 +1300,7 @@ Monday 16 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1287,7 +1333,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -1310,7 +1356,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
