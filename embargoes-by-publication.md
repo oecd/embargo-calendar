@@ -2,168 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 10 December 2024 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Les bénéfices d’apprendre à distinguer savoir et croire - Une évaluation d’impact inédite](https://doi.org/10.1787/e4466793-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [The benefits of learning the difference between facts and faith - An impact assessment](https://doi.org/10.1787/16e43df1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Annual survey on financial incentives for retirement savings - Country profiles 2024](https://doi.org/10.1787/16d0283c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Tuesday 3 December 2024 at 22:32
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Examen des politiques de transformation économique du Togo - Pour une prospérité partagée](https://doi.org/10.1787/2c837a76-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Promoting the Growth of the Semiconductor Ecosystem in the Philippines](https://doi.org/10.1787/01497fea-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Latin American Economic Outlook 2024 - Financing Sustainable Development](https://doi.org/10.1787/c437947f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 14:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Promoting Better Career Mobility for Longer Working Lives in the United Kingdom](https://doi.org/10.1787/2b41ab8e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 9 December 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 5 December 2024 at 22:35
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 11 December 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Flemish Region (Belgium)](https://doi.org/10.1787/7187249a-en)
 
@@ -1223,6 +1062,29 @@ Thursday 12 December 2024 at 10:00 | no launch event
 
 ------
 
+## [Guidance Document on the Honey Bee (Apis Mellifera L.) Brood test Under Semi-field Conditions, Second Edition](https://doi.org/10.1787/542b7d72-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 13 December 2024 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Toolkit to Combat Homelessness](https://doi.org/10.1787/0fec780e-en)
 
 Embargo date | Launch date
@@ -1254,7 +1116,7 @@ Friday 13 December 2024 at 14:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [x] Exported to iLibrary Thursday 28 November 2024 at 22:30
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1263,9 +1125,9 @@ Friday 13 December 2024 at 14:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1323,7 +1185,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1332,7 +1194,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1346,7 +1208,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1355,7 +1217,7 @@ Monday 16 December 2024 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -1407,6 +1269,29 @@ Thursday 19 December 2024 at 10:00 | no launch event
 
 ------
 
+## [OECD Anti-Bribery Convention Phase 2 Report on Croatia - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/675b0561-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 December 2024 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [OECD Anti-Bribery Convention Phase 4 Two-Year Follow-Up Report on Poland - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/83945426-en)
 
 Embargo date | Launch date
@@ -1430,11 +1315,11 @@ Friday 20 December 2024 at 10:00 | no launch event
 
 ------
 
-## [OECD Anti-Bribery Convention Phase 2 Report on Croatia - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/675b0561-en)
+## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 20 December 2024 at 10:00 | no launch event
+Monday 13 January 2025 at 10:00 | no launch event
 
 ### Status Information
 
@@ -1445,10 +1330,56 @@ Friday 20 December 2024 at 10:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (January 2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 13 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
