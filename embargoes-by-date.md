@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 12 December 2024 at 22:58* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 13 December 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 December 2024](#12-december-2024)
 * [13 December 2024](#13-december-2024)
@@ -70,7 +70,7 @@ Friday 13 December 2024 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 13 December 2024 at 14:00 | no launch event
+Friday 13 December 2024 at 16:00 | no launch event
 
 ### Status Information
 
@@ -147,7 +147,7 @@ Monday 16 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -156,7 +156,7 @@ Monday 16 December 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -170,7 +170,7 @@ Monday 16 December 2024 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -179,7 +179,7 @@ Monday 16 December 2024 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
