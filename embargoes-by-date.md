@@ -2,92 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 13 December 2024 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 15 December 2024 at 22:55* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 December 2024](#12-december-2024)
-* [13 December 2024](#13-december-2024)
 * [16 December 2024](#16-december-2024)
 * [19 December 2024](#19-december-2024)
 * [20 December 2024](#20-december-2024)
 * [13 January 2025](#13-january-2025)
 * [15 January 2025](#15-january-2025)
-
-------
-
-# 12 December 2024
-
-## [Public Trust in Tax 2024 – Latin America and Beyond](https://doi.org/10.1787/52ce48d5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 12 December 2024 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
-# 13 December 2024
-
-## [OECD Toolkit to Combat Homelessness](https://doi.org/10.1787/0fec780e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 December 2024 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Caribbean Development Dynamics 2025](https://doi.org/10.1787/a8e79405-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 13 December 2024 at 16:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [x] Exported to iLibrary Thursday 28 November 2024 at 22:30
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
