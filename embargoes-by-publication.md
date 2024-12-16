@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 15 December 2024 at 22:55* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 16 December 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Відповідальність Юридичних Осіб За Підкуп Іноземних Посадових Осіб - Аналітичний Звіт](https://doi.org/10.1787/f01e484f-uk)
 
