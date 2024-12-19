@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 18 December 2024 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 19 December 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Anti-Bribery Convention Phase 4 Report on New Zealand - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/69557c1c-en)
 
