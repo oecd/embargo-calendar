@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 December 2024 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 20 December 2024 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Anti-Bribery Convention Phase 4 Report on New Zealand - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/69557c1c-en)
 
@@ -170,6 +170,29 @@ Monday 13 January 2025 at 10:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 15 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economics Survey: Ireland 2025](https://doi.org/10.1787/9a368560-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 January 2025 at 9:00 | no launch event
 
 ### Status Information
 

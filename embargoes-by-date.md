@@ -2,13 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 19 December 2024 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 20 December 2024 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 December 2024](#18-december-2024)
 * [19 December 2024](#19-december-2024)
 * [20 December 2024](#20-december-2024)
 * [13 January 2025](#13-january-2025)
 * [15 January 2025](#15-january-2025)
+* [27 January 2025](#27-january-2025)
 
 ------
 
@@ -196,6 +197,33 @@ Monday 13 January 2025 at 10:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Wednesday 15 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 27 January 2025
+
+## [OECD Economics Survey: Ireland 2025](https://doi.org/10.1787/9a368560-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 January 2025 at 9:00 | no launch event
 
 ### Status Information
 
