@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2024-12-22T22:56:04.9798443+01:00">
+<report name="official-embargoes" generated="2024-12-23T23:08:06.1299533+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -119,5 +119,25 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62068e51</cell>
+  </row>
+  <row index="6">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/1cac3681-en</cell>
+    <cell name="title">Transforming Catalonia’s Mobility System for Net Zero (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-01-28</cell>
+    <cell name="embargo date">2025-01-28T08:10:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5bf96d12</cell>
   </row>
 </report>

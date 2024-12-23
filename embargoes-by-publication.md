@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 December 2024 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 23 December 2024 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
@@ -115,6 +115,29 @@ Monday 27 January 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 January 2025 at 8:10 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------

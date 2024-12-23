@@ -2,11 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 22 December 2024 at 22:56* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 23 December 2024 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [13 January 2025](#13-january-2025)
 * [15 January 2025](#15-january-2025)
 * [27 January 2025](#27-january-2025)
+* [28 January 2025](#28-january-2025)
 
 ------
 
@@ -131,6 +132,33 @@ Monday 27 January 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 January 2025
+
+## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 January 2025 at 8:10 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
