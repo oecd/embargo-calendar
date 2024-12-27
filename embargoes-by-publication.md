@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 26 December 2024 at 22:54* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 27 December 2024 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
