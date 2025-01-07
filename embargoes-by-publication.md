@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 6 January 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 7 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
@@ -77,11 +77,11 @@ Monday 13 January 2025 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 15 January 2025 at 10:00 | no launch event
+Wednesday 15 January 2025 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
