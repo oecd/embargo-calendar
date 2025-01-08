@@ -2,86 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 7 January 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 8 January 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [13 January 2025](#13-january-2025)
 * [15 January 2025](#15-january-2025)
 * [26 January 2025](#26-january-2025)
 * [27 January 2025](#27-january-2025)
 * [28 January 2025](#28-january-2025)
-
-------
-
-# 13 January 2025
-
-## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (January 2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 13 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -104,7 +30,7 @@ Wednesday 15 January 2025 at 12:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
