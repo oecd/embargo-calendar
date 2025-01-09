@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 8 January 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 9 January 2025 at 22:56* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Economic Surveys: Chile 2025](https://doi.org/10.1787/efad96ce-en)
 
