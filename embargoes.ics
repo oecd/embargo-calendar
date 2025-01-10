@@ -2,7 +2,88 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/efad96ce-end3e63
+UID:10.1787/d82881fd-end3e63
+SUMMARY:[Policy paper] Government Support in the
+  Solar and Wind Value Chains
+DESCRIPTION:*[Policy paper] Government Support in th
+ e Solar and Wind Value Chains*\n\nDirect
+ orate: Trade and Agriculture Directorate
+ \nLanguage: English\nDOI: https://doi.or
+ g/10.1787/d82881fd-en\nPublication type:
+  Policy paper\nReleased as: PDF\n\nEmbar
+ go date/time: Tuesday, 14 January 2025, 
+ 23:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✓\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this morning at 0:24, i
+ t is updated each night; therefore any s
+ ubsequent updates may not yet be visible
+  here. Also, please be aware that the di
+ fferent released media (PDF, HTML, etc.)
+  are not necessarily released at the sam
+ e time. For complete and up-to-date info
+ rmation see here: http://kappa.oecd.org/
+ v3/search?term=d82881fd-en.
+DTSTAMP:20250111T002459Z
+DTSTART:20250114T230000Z
+DTEND:20250114T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Policy paper] Government Supp
+ ort in the Solar and Wind Value Chains
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c594935a-end3e116
+SUMMARY:[Report] GloBE Information Return (Pilla
+ r Two) XML Schema - User Guide for Tax A
+ dministrations
+DESCRIPTION:*[Report] GloBE Information Return (Pill
+ ar Two) XML Schema - User Guide for Tax 
+ Administrations*\n\nDirectorate: Centre 
+ for Tax Policy and Administration\nLangu
+ age: English\nDOI: https://doi.org/10.17
+ 87/c594935a-en\nPublication type: Report
+ \nReleased as: PDF\n\nEmbargo date/time:
+  Wednesday, 15 January 2025, 10:00 (GMT)
+ \n\n\niLibrary export: never\nFreeprevie
+ w export: never\nOECD.org export: never\
+ nFTI loaded: ✓\n\nFor more information s
+ ee: https://oecd.github.io/embargo-calen
+ dar/embargoes-by-publication.html.\n\nPl
+ ease note: This information was correct 
+ as of this morning at 0:24, it is update
+ d each night; therefore any subsequent u
+ pdates may not yet be visible here. Also
+ , please be aware that the different rel
+ eased media (PDF, HTML, etc.) are not ne
+ cessarily released at the same time. For
+  complete and up-to-date information see
+  here: http://kappa.oecd.org/v3/search?t
+ erm=c594935a-en.
+DTSTAMP:20250111T002459Z
+DTSTART:20250115T100000Z
+DTEND:20250115T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] GloBE Information Ret
+ urn (Pillar Two) XML Schema - User Guide
+  for Tax Administrations
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/efad96ce-end3e170
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Chile 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -17,17 +98,17 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  \n\nFor more information see: https://oe
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
- s information was correct as of this aft
- ernoon at 22:56, it is updated each nigh
- t; therefore any subsequent updates may 
- not yet be visible here. Also, please be
-  aware that the different released media
-  (PDF, HTML, etc.) are not necessarily r
- eleased at the same time. For complete a
- nd up-to-date information see here: http
- ://kappa.oecd.org/v3/search?term=efad96c
- e-en.
-DTSTAMP:20250109T225632Z
+ s information was correct as of this mor
+ ning at 0:24, it is updated each night; 
+ therefore any subsequent updates may not
+  yet be visible here. Also, please be aw
+ are that the different released media (P
+ DF, HTML, etc.) are not necessarily rele
+ ased at the same time. For complete and 
+ up-to-date information see here: http://
+ kappa.oecd.org/v3/search?term=efad96ce-e
+ n.
+DTSTAMP:20250111T002459Z
 DTSTART:20250115T120000Z
 DTEND:20250115T121500Z
 TRANSP:TRANSPARENT
@@ -41,7 +122,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eb75706-end3e116
+UID:10.1787/8eb75706-end3e223
 SUMMARY:[Stand-alone monograph] Measuring Carbon
   Footprints of Agri-Food Products - Eigh
  t Building Blocks
@@ -59,16 +140,16 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 22:56, i
- t is updated each night; therefore any s
- ubsequent updates may not yet be visible
-  here. Also, please be aware that the di
- fferent released media (PDF, HTML, etc.)
-  are not necessarily released at the sam
- e time. For complete and up-to-date info
- rmation see here: http://kappa.oecd.org/
- v3/search?term=8eb75706-en.
-DTSTAMP:20250109T225632Z
+ correct as of this morning at 0:24, it i
+ s updated each night; therefore any subs
+ equent updates may not yet be visible he
+ re. Also, please be aware that the diffe
+ rent released media (PDF, HTML, etc.) ar
+ e not necessarily released at the same t
+ ime. For complete and up-to-date informa
+ tion see here: http://kappa.oecd.org/v3/
+ search?term=8eb75706-en.
+DTSTAMP:20250111T002459Z
 DTSTART:20250126T230000Z
 DTEND:20250126T231500Z
 TRANSP:TRANSPARENT
@@ -83,46 +164,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a368560-end3e169
-SUMMARY:[Economic survey] OECD Economics Survey:
-  Ireland 2025
-DESCRIPTION:*[Economic survey] OECD Economics Survey
- : Ireland 2025*\n\nDirectorate: Economic
- s Department\nLanguage: English\nDOI: ht
- tps://doi.org/10.1787/9a368560-en\nPubli
- cation type: Economic survey\nReleased a
- s: PDF\n\nEmbargo date/time: Monday, 27 
- January 2025, 9:00 (GMT)\n\n\niLibrary e
- xport: never\nFreepreview export: never\
- nOECD.org export: never\nFTI loaded: ✗\n
- \nFor more information see: https://oecd
- .github.io/embargo-calendar/embargoes-by
- -publication.html.\n\nPlease note: This 
- information was correct as of this after
- noon at 22:56, it is updated each night;
-  therefore any subsequent updates may no
- t yet be visible here. Also, please be a
- ware that the different released media (
- PDF, HTML, etc.) are not necessarily rel
- eased at the same time. For complete and
-  up-to-date information see here: http:/
- /kappa.oecd.org/v3/search?term=9a368560-
- en.
-DTSTAMP:20250109T225632Z
-DTSTART:20250127T090000Z
-DTEND:20250127T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Economic survey] OECD Economi
- cs Survey: Ireland 2025
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/1cac3681-end3e221
+UID:10.1787/1cac3681-end3e277
 SUMMARY:[Stand-alone monograph] Transforming Cat
  alonia’s Mobility System for Net Zero
 DESCRIPTION:*[Stand-alone monograph] Transforming Ca
@@ -138,16 +180,16 @@ DESCRIPTION:*[Stand-alone monograph] Transforming Ca
  more information see: https://oecd.githu
  b.io/embargo-calendar/embargoes-by-publi
  cation.html.\n\nPlease note: This inform
- ation was correct as of this afternoon a
- t 22:56, it is updated each night; there
- fore any subsequent updates may not yet 
- be visible here. Also, please be aware t
- hat the different released media (PDF, H
- TML, etc.) are not necessarily released 
- at the same time. For complete and up-to
- -date information see here: http://kappa
- .oecd.org/v3/search?term=1cac3681-en.
-DTSTAMP:20250109T225632Z
+ ation was correct as of this morning at 
+ 0:24, it is updated each night; therefor
+ e any subsequent updates may not yet be 
+ visible here. Also, please be aware that
+  the different released media (PDF, HTML
+ , etc.) are not necessarily released at 
+ the same time. For complete and up-to-da
+ te information see here: http://kappa.oe
+ cd.org/v3/search?term=1cac3681-en.
+DTSTAMP:20250111T002459Z
 DTSTART:20250128T081000Z
 DTEND:20250128T082500Z
 TRANSP:TRANSPARENT
@@ -159,6 +201,131 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: [Stand-alone monograph] Transf
  orming Catalonia’s Mobility System for N
  et Zero
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/a551b351-end3e329
+SUMMARY:[Book] Tax Challenges Arising from the D
+ igitalisation of the Economy – Consolida
+ ted Commentary to the Global Anti-Base E
+ rosion Model Rules (2024) - Inclusive Fr
+ amework on BEPS
+DESCRIPTION:*[Book] Tax Challenges Arising from the 
+ Digitalisation of the Economy – Consolid
+ ated Commentary to the Global Anti-Base 
+ Erosion Model Rules (2024) - Inclusive F
+ ramework on BEPS*\n\nDirectorate: Centre
+  for Tax Policy and Administration\nLang
+ uage: English\nDOI: https://doi.org/10.1
+ 787/a551b351-en\nPublication type: Book\
+ nReleased as: PDF\n\nEmbargo date/time: 
+ Friday, 31 January 2025, 10:00 (GMT)\n\n
+ \niLibrary export: never\nFreepreview ex
+ port: never\nOECD.org export: never\nFTI
+  loaded: ✗\n\nFor more information see: 
+ https://oecd.github.io/embargo-calendar/
+ embargoes-by-publication.html.\n\nPlease
+  note: This information was correct as o
+ f this morning at 0:24, it is updated ea
+ ch night; therefore any subsequent updat
+ es may not yet be visible here. Also, pl
+ ease be aware that the different release
+ d media (PDF, HTML, etc.) are not necess
+ arily released at the same time. For com
+ plete and up-to-date information see her
+ e: http://kappa.oecd.org/v3/search?term=
+ a551b351-en.
+DTSTAMP:20250111T002459Z
+DTSTART:20250131T100000Z
+DTEND:20250131T101500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] Tax Challenges Arising 
+ from the Digitalisation of the Economy –
+  Consolidated Commentary to the Global A
+ nti-Base Erosion Model Rules (2024) - In
+ clusive Framework on BEPS
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/483d3bb9-end3e382
+SUMMARY:[Economic survey] OECD Economic Surveys:
+  Poland 2025
+DESCRIPTION:*[Economic survey] OECD Economic Surveys
+ : Poland 2025*\n\nDirectorate: Economics
+  Department\nLanguage: English\nDOI: htt
+ ps://doi.org/10.1787/483d3bb9-en\nPublic
+ ation type: Economic survey\nReleased as
+ : PDF\n\nEmbargo date/time: Monday, 3 Fe
+ bruary 2025, 23:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nOECD.org export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this morni
+ ng at 0:24, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=483d3bb9-en.
+DTSTAMP:20250111T002459Z
+DTSTART:20250203T230000Z
+DTEND:20250203T231500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ c Surveys: Poland 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/9a368560-end3e434
+SUMMARY:[Economic survey] OECD Economics Survey:
+  Ireland 2025
+DESCRIPTION:*[Economic survey] OECD Economics Survey
+ : Ireland 2025*\n\nDirectorate: Economic
+ s Department\nLanguage: English\nDOI: ht
+ tps://doi.org/10.1787/9a368560-en\nPubli
+ cation type: Economic survey\nReleased a
+ s: PDF\n\nEmbargo date/time: Thursday, 1
+ 3 February 2025, 9:00 (GMT)\n\n\niLibrar
+ y export: never\nFreepreview export: nev
+ er\nOECD.org export: never\nFTI loaded: 
+ ✗\n\nFor more information see: https://o
+ ecd.github.io/embargo-calendar/embargoes
+ -by-publication.html.\n\nPlease note: Th
+ is information was correct as of this mo
+ rning at 0:24, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=9a368560-
+ en.
+DTSTAMP:20250111T002459Z
+DTSTART:20250213T090000Z
+DTEND:20250213T091500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Economic survey] OECD Economi
+ cs Survey: Ireland 2025
 END:VALARM
 END:VEVENT
 END:VCALENDAR
