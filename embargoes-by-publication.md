@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 January 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 13 January 2025 at 22:39* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Government Support in the Solar and Wind Value Chains](https://doi.org/10.1787/d82881fd-en)
 
@@ -23,6 +23,29 @@ Tuesday 14 January 2025 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+## [National Contact Point for Responsible Business Conduct Peer Reviews: Finland 2025](https://doi.org/10.1787/dd22c7a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 January 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -185,5 +208,28 @@ Thursday 13 February 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 9:50 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------

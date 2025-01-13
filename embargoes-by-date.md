@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 12 January 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 13 January 2025 at 22:39* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 January 2025](#14-january-2025)
 * [15 January 2025](#15-january-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
 * [13 February 2025](#13-february-2025)
+* [20 February 2025](#20-february-2025)
 
 ------
 
@@ -42,6 +43,29 @@ Tuesday 14 January 2025 at 23:00 | no launch event
 ------
 
 # 15 January 2025
+
+## [National Contact Point for Responsible Business Conduct Peer Reviews: Finland 2025](https://doi.org/10.1787/dd22c7a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 January 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
 
@@ -221,5 +245,32 @@ Thursday 13 February 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+------
+
+# 20 February 2025
+
+## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 9:50 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
