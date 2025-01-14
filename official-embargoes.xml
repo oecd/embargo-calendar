@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-01-13T22:39:51.6764892+01:00">
+<report name="official-embargoes" generated="2025-01-14T23:14:16.1052565+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -81,6 +81,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c5e52feb</cell>
   </row>
   <row index="4">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a05ec99a-en</cell>
+    <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (January 2025) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-01-15</cell>
+    <cell name="embargo date">2025-01-15T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02231eaf</cell>
+  </row>
+  <row index="5">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/efad96ce-en</cell>
     <cell name="title">OECD Economic Surveys: Chile 2025 (en)</cell>
@@ -99,26 +119,6 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ec036ea5</cell>
-  </row>
-  <row index="5">
-    <cell name="directorate">Trade and Agriculture Directorate</cell>
-    <cell name="doi">10.1787/8eb75706-en</cell>
-    <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
-    <cell name="subtitle">Eight Building Blocks (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-01-27</cell>
-    <cell name="embargo date">2025-01-26T23:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6afda899</cell>
   </row>
   <row index="6">
     <cell name="directorate">Environment Directorate</cell>
@@ -201,6 +201,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62068e51</cell>
   </row>
   <row index="10">
+    <cell name="directorate">Trade and Agriculture Directorate</cell>
+    <cell name="doi">10.1787/8eb75706-en</cell>
+    <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
+    <cell name="subtitle">Eight Building Blocks (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-17</cell>
+    <cell name="embargo date">2025-02-16T23:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6afda899</cell>
+  </row>
+  <row index="11">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c8af05a5-en</cell>
     <cell name="title">Does Healthcare Deliver? (en)</cell>
@@ -208,7 +228,7 @@
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2025-02-20</cell>
     <cell name="embargo date">2025-02-20T09:50:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -220,7 +240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e345846e</cell>
   </row>
-  <row index="11">
+  <row index="12">
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/c8af05a5-en</cell>
     <cell name="title">Does Healthcare Deliver? (en)</cell>
@@ -228,7 +248,7 @@
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="date of publication">2025-02-20</cell>
     <cell name="embargo date">2025-02-20T09:50:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>

@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 13 January 2025 at 22:39* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 14 January 2025 at 23:14* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 January 2025](#14-january-2025)
 * [15 January 2025](#15-january-2025)
-* [26 January 2025](#26-january-2025)
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
 * [13 February 2025](#13-february-2025)
+* [16 February 2025](#16-february-2025)
 * [20 February 2025](#20-february-2025)
 
 ------
@@ -90,6 +90,29 @@ Wednesday 15 January 2025 at 10:00 | no launch event
 
 ------
 
+## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (January 2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 15 January 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Chile 2025](https://doi.org/10.1787/efad96ce-en)
 
 Embargo date | Launch date
@@ -109,33 +132,6 @@ Wednesday 15 January 2025 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-------
-
-# 26 January 2025
-
-## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 26 January 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -244,6 +240,33 @@ Thursday 13 February 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+------
+
+# 16 February 2025
+
+## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 16 February 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
