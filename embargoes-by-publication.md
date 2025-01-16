@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 15 January 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 16 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Government Support in the Solar and Wind Value Chains](https://doi.org/10.1787/d82881fd-en)
 
