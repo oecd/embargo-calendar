@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 16 January 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 17 January 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [14 January 2025](#14-january-2025)
-* [15 January 2025](#15-january-2025)
+* [21 January 2025](#21-january-2025)
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
@@ -15,123 +14,27 @@ Data generated on | |
 
 ------
 
-# 14 January 2025
+# 21 January 2025
 
-## [Government Support in the Solar and Wind Value Chains](https://doi.org/10.1787/d82881fd-en)
+## [Foresight Toolkit for Resilient Public Policy - A Comprehensive Foresight Methodology to Support Sustainable and Future-Ready Public Policy](https://doi.org/10.1787/bcdd9304-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 14 January 2025 at 23:00 | no launch event
+Tuesday 21 January 2025 at 7:30 | no launch event
 
 ### Status Information
 
-- [x] FTI loaded 
+- [ ] FTI loaded
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Trade and Agriculture Directorate*
+* Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 15 January 2025
-
-## [National Contact Point for Responsible Business Conduct Peer Reviews: Finland 2025](https://doi.org/10.1787/dd22c7a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 January 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [GloBE Information Return (Pillar Two) XML Schema - User Guide for Tax Administrations](https://doi.org/10.1787/c594935a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – GloBE Information Return (January 2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a05ec99a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Chile 2025](https://doi.org/10.1787/efad96ce-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 15 January 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
@@ -157,7 +60,7 @@ Tuesday 28 January 2025 at 8:10 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -265,7 +168,7 @@ Sunday 16 February 2025 at 23:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -292,7 +195,7 @@ Thursday 20 February 2025 at 9:50 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
