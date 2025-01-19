@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 19 January 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Foresight Toolkit for Resilient Public Policy - A Comprehensive Foresight Methodology to Support Sustainable and Future-Ready Public Policy](https://doi.org/10.1787/bcdd9304-en)
 
@@ -119,29 +119,6 @@ Thursday 13 February 2025 at 9:00 | no launch event
 
 ------
 
-## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 16 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
 
 Embargo date | Launch date
@@ -162,5 +139,28 @@ Thursday 20 February 2025 at 9:50 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 23 February 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------

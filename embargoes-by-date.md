@@ -2,15 +2,15 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 17 January 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 19 January 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [21 January 2025](#21-january-2025)
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
 * [13 February 2025](#13-february-2025)
-* [16 February 2025](#16-february-2025)
 * [20 February 2025](#20-february-2025)
+* [23 February 2025](#23-february-2025)
 
 ------
 
@@ -149,33 +149,6 @@ Thursday 13 February 2025 at 9:00 | no launch event
 
 ------
 
-# 16 February 2025
-
-## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 16 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
 # 20 February 2025
 
 ## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
@@ -198,5 +171,32 @@ Thursday 20 February 2025 at 9:50 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 23 February 2025
+
+## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 23 February 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
