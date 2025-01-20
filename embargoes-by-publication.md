@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 January 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Foresight Toolkit for Resilient Public Policy - A Comprehensive Foresight Methodology to Support Sustainable and Future-Ready Public Policy](https://doi.org/10.1787/bcdd9304-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 January 2025 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
+| *Monday 20 January 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
 
@@ -35,7 +12,7 @@ Tuesday 28 January 2025 at 8:10 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,9 +21,9 @@ Tuesday 28 January 2025 at 8:10 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -123,7 +100,7 @@ Thursday 13 February 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 February 2025 at 9:50 | no launch event
+Thursday 20 February 2025 at 8:00 | no launch event
 
 ### Status Information
 

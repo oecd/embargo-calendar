@@ -2,42 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 19 January 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 20 January 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [21 January 2025](#21-january-2025)
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
 * [13 February 2025](#13-february-2025)
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
-
-------
-
-# 21 January 2025
-
-## [Foresight Toolkit for Resilient Public Policy - A Comprehensive Foresight Methodology to Support Sustainable and Future-Ready Public Policy](https://doi.org/10.1787/bcdd9304-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 21 January 2025 at 7:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -51,7 +23,7 @@ Tuesday 28 January 2025 at 8:10 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -60,9 +32,9 @@ Tuesday 28 January 2025 at 8:10 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -155,7 +127,7 @@ Thursday 13 February 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 February 2025 at 9:50 | no launch event
+Thursday 20 February 2025 at 8:00 | no launch event
 
 ### Status Information
 
