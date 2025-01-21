@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 January 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 21 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
 

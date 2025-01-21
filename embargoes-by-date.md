@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 20 January 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 21 January 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
