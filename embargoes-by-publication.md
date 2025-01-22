@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 21 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 22 January 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
 
@@ -70,6 +70,52 @@ Monday 3 February 2025 at 23:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Global Outlook on Financing for Sustainable Development 2025 - Towards a more resilient and inclusive architecture](https://doi.org/10.1787/753d5368-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 February 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
