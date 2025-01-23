@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 January 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 23 January 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 January 2025 at 8:10 | no launch event
+Tuesday 28 January 2025 at 15:00 | no launch event
 
 ### Status Information
 
@@ -185,5 +185,28 @@ Sunday 23 February 2025 at 23:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Czechia 2025](https://doi.org/10.1787/7a70af5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------

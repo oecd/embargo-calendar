@@ -8,18 +8,18 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 22 Jan 2025 23:06:06 GMT</pubDate>
+      <pubDate>Thu, 23 Jan 2025 23:10:10 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
                  type="application/rss+xml"/>
       <item>
          <guid isPermaLink="false">10.1787/1cac3681-en-d3e647</guid>
-         <pubDate>Tue, 28 Jan 2025 09:10:00 GMT</pubDate>
+         <pubDate>Tue, 28 Jan 2025 16:00:00 GMT</pubDate>
          <title>Transforming Catalonia’s Mobility System for Net Zero</title>
          <link>https://doi.org/10.1787/1cac3681-en</link>
-         <description>Transforming Catalonia’s Mobility System for Net Zero by Environment Directorate has an embargo on Tuesday 28 January 2025 at 9:10.</description>
-         <oe:embargoTime>Tue, 28 Jan 2025 09:10:00 GMT</oe:embargoTime>
+         <description>Transforming Catalonia’s Mobility System for Net Zero by Environment Directorate has an embargo on Tuesday 28 January 2025 at 16:00.</description>
+         <oe:embargoTime>Tue, 28 Jan 2025 16:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Environment Directorate</oe:directorate>
@@ -140,6 +140,22 @@
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/7a70af5c-en-d3e1866</guid>
+         <pubDate>Tue, 04 Mar 2025 11:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Czechia 2025</title>
+         <link>https://doi.org/10.1787/7a70af5c-en</link>
+         <description>OECD Economic Surveys: Czechia 2025 by Economics Department has an embargo on Tuesday 4 March 2025 at 11:00.</description>
+         <oe:embargoTime>Tue, 04 Mar 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
    </channel>
 </rss>

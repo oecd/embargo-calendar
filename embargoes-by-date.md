@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 22 January 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 23 January 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
@@ -12,6 +12,7 @@ Data generated on | |
 * [13 February 2025](#13-february-2025)
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
+* [4 March 2025](#4-march-2025)
 
 ------
 
@@ -21,7 +22,7 @@ Data generated on | |
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 28 January 2025 at 8:10 | no launch event
+Tuesday 28 January 2025 at 15:00 | no launch event
 
 ### Status Information
 
@@ -226,5 +227,32 @@ Sunday 23 February 2025 at 23:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 4 March 2025
+
+## [OECD Economic Surveys: Czechia 2025](https://doi.org/10.1787/7a70af5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
