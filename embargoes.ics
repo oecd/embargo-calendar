@@ -2,7 +2,88 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/1cac3681-end3e647
+UID:10.1787/ecb32e77-end3e63
+SUMMARY:[Working paper] Superstars, shooting sta
+ rs, and the labour share - Cross-country
+  evidence
+DESCRIPTION:*[Working paper] Superstars, shooting st
+ ars, and the labour share - Cross-countr
+ y evidence*\n\nDirectorate: Directorate 
+ for Science, Technology and Industry\nLa
+ nguage: English\nDOI: https://doi.org/10
+ .1787/ecb32e77-en\nPublication type: Wor
+ king paper\nReleased as: PDF\n\nEmbargo 
+ date/time: Monday, 27 January 2025, 8:00
+  (GMT)\n\n\niLibrary export: never\nFree
+ preview export: never\nOECD.org export: 
+ never\nFTI loaded: ✓\n\nFor more informa
+ tion see: https://oecd.github.io/embargo
+ -calendar/embargoes-by-publication.html.
+ \n\nPlease note: This information was co
+ rrect as of this afternoon at 23:04, it 
+ is updated each night; therefore any sub
+ sequent updates may not yet be visible h
+ ere. Also, please be aware that the diff
+ erent released media (PDF, HTML, etc.) a
+ re not necessarily released at the same 
+ time. For complete and up-to-date inform
+ ation see here: http://kappa.oecd.org/v3
+ /search?term=ecb32e77-en.
+DTSTAMP:20250124T230425Z
+DTSTART:20250127T080000Z
+DTEND:20250127T081500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Working paper] Superstars, sh
+ ooting stars, and the labour share - Cro
+ ss-country evidence
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3e98455b-end3e117
+SUMMARY:[Report] OECD Monitoring Framework to Me
+ asure Homelessness
+DESCRIPTION:*[Report] OECD Monitoring Framework to M
+ easure Homelessness*\n\nDirectorate: Dir
+ ectorate for Employment, Labour and Soci
+ al Affairs\nLanguage: English\nDOI: http
+ s://doi.org/10.1787/3e98455b-en\nPublica
+ tion type: Report\nReleased as: PDF\n\nE
+ mbargo date/time: Tuesday, 28 January 20
+ 25, 7:00 (GMT)\n\n\niLibrary export: nev
+ er\nFreepreview export: never\nOECD.org 
+ export: never\nFTI loaded: ✓\n\nFor more
+  information see: https://oecd.github.io
+ /embargo-calendar/embargoes-by-publicati
+ on.html.\n\nPlease note: This informatio
+ n was correct as of this afternoon at 23
+ :04, it is updated each night; therefore
+  any subsequent updates may not yet be v
+ isible here. Also, please be aware that 
+ the different released media (PDF, HTML,
+  etc.) are not necessarily released at t
+ he same time. For complete and up-to-dat
+ e information see here: http://kappa.oec
+ d.org/v3/search?term=3e98455b-en.
+DTSTAMP:20250124T230425Z
+DTSTART:20250128T070000Z
+DTEND:20250128T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] OECD Monitoring Frame
+ work to Measure Homelessness
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/1cac3681-end3e754
 SUMMARY:[Stand-alone monograph] Transforming Cat
  alonia’s Mobility System for Net Zero
 DESCRIPTION:*[Stand-alone monograph] Transforming Ca
@@ -19,7 +100,7 @@ DESCRIPTION:*[Stand-alone monograph] Transforming Ca
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:10, i
+ correct as of this afternoon at 23:04, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -28,7 +109,7 @@ DESCRIPTION:*[Stand-alone monograph] Transforming Ca
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=1cac3681-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250128T150000Z
 DTEND:20250128T151500Z
 TRANSP:TRANSPARENT
@@ -43,7 +124,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Transf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a551b351-end3e1391
+UID:10.1787/a551b351-end3e1498
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Consolida
  ted Commentary to the Global Anti-Base E
@@ -65,7 +146,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:10, it is updated
+ f this afternoon at 23:04, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -74,7 +155,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a551b351-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250131T100000Z
 DTEND:20250131T101500Z
 TRANSP:TRANSPARENT
@@ -91,7 +172,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/483d3bb9-end3e1444
+UID:10.1787/483d3bb9-end3e1552
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Poland 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -99,15 +180,15 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   Department\nLanguage: English\nDOI: htt
  ps://doi.org/10.1787/483d3bb9-en\nPublic
  ation type: Economic survey\nReleased as
- : PDF\n\nEmbargo date/time: Monday, 3 Fe
- bruary 2025, 23:00 (GMT)\n\n\niLibrary e
+ : PDF\n\nEmbargo date/time: Tuesday, 4 F
+ ebruary 2025, 8:30 (GMT)\n\n\niLibrary e
  xport: never\nFreepreview export: never\
  nOECD.org export: never\nFTI loaded: ✗\n
  \nFor more information see: https://oecd
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:10, it is updated each night;
+ noon at 23:04, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -116,12 +197,12 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=483d3bb9-
  en.
-DTSTAMP:20250123T231007Z
-DTSTART:20250203T230000Z
-DTEND:20250203T231500Z
+DTSTAMP:20250124T230425Z
+DTSTART:20250204T083000Z
+DTEND:20250204T084500Z
 TRANSP:TRANSPARENT
 BEGIN:VALARM
-TRIGGER:-PT72H
+TRIGGER:-PT24H
 REPEAT:1
 DURATION:PT15M
 ACTION:DISPLAY
@@ -130,7 +211,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/753d5368-end3e1496
+UID:10.1787/753d5368-end3e1604
 SUMMARY:[Stand-alone monograph] Global Outlook o
  n Financing for Sustainable Development 
  2025 - Towards a more resilient and incl
@@ -150,7 +231,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Outlook
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:10
+ as correct as of this afternoon at 23:04
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -159,7 +240,7 @@ DESCRIPTION:*[Stand-alone monograph] Global Outlook
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=753d5368-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250207T080000Z
 DTEND:20250207T081500Z
 TRANSP:TRANSPARENT
@@ -175,7 +256,49 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Global
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/182b47ad-end3e1602
+UID:10.1787/9953845b-end3e1657
+SUMMARY:[Stand-alone monograph] OECD Services Tr
+ ade Restrictiveness Index - Policy Trend
+ s up to 2025
+DESCRIPTION:*[Stand-alone monograph] OECD Services T
+ rade Restrictiveness Index - Policy Tren
+ ds up to 2025*\n\nDirectorate: Trade and
+  Agriculture Directorate\nLanguage: Engl
+ ish\nDOI: https://doi.org/10.1787/995384
+ 5b-en\nPublication type: Stand-alone mon
+ ograph\nReleased as: PDF\n\nEmbargo date
+ /time: Tuesday, 11 February 2025, 7:00 (
+ GMT)\n\n\niLibrary export: never\nFreepr
+ eview export: never\nOECD.org export: ne
+ ver\nFTI loaded: ✗\n\nFor more informati
+ on see: https://oecd.github.io/embargo-c
+ alendar/embargoes-by-publication.html.\n
+ \nPlease note: This information was corr
+ ect as of this afternoon at 23:04, it is
+  updated each night; therefore any subse
+ quent updates may not yet be visible her
+ e. Also, please be aware that the differ
+ ent released media (PDF, HTML, etc.) are
+  not necessarily released at the same ti
+ me. For complete and up-to-date informat
+ ion see here: http://kappa.oecd.org/v3/s
+ earch?term=9953845b-en.
+DTSTAMP:20250124T230425Z
+DTSTART:20250211T070000Z
+DTEND:20250211T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
+ ervices Trade Restrictiveness Index - Po
+ licy Trends up to 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/182b47ad-end3e1763
 SUMMARY:[Book] Consolidated Report on Amount B -
   Inclusive Framework on BEPS
 DESCRIPTION:*[Book] Consolidated Report on Amount B 
@@ -192,7 +315,7 @@ DESCRIPTION:*[Book] Consolidated Report on Amount B
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:10, it is updated each night; t
+ on at 23:04, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -201,7 +324,7 @@ DESCRIPTION:*[Book] Consolidated Report on Amount B
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=182b47ad-en
  .
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250211T100000Z
 DTEND:20250211T101500Z
 TRANSP:TRANSPARENT
@@ -215,7 +338,7 @@ DESCRIPTION:Reminder: [Book] Consolidated Report on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a368560-end3e1654
+UID:10.1787/9a368560-end3e1816
 SUMMARY:[Economic survey] OECD Economics Survey:
   Ireland 2025
 DESCRIPTION:*[Economic survey] OECD Economics Survey
@@ -231,7 +354,7 @@ DESCRIPTION:*[Economic survey] OECD Economics Survey
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:10, it is updated each nig
+ ternoon at 23:04, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -240,7 +363,7 @@ DESCRIPTION:*[Economic survey] OECD Economics Survey
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=9a3685
  60-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250213T090000Z
 DTEND:20250213T091500Z
 TRANSP:TRANSPARENT
@@ -254,7 +377,45 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c8af05a5-end3e1706
+UID:10.1787/560cd8fc-end3e1869
+SUMMARY:[Book] OECD Review of Fisheries 2025
+DESCRIPTION:*[Book] OECD Review of Fisheries 2025*\n
+ \nDirectorate: Trade and Agriculture Dir
+ ectorate\nLanguage: English\nDOI: https:
+ //doi.org/10.1787/560cd8fc-en\nPublicati
+ on type: Book\nReleased as: Paperback, P
+ DF\n\nEmbargo date/time: Wednesday, 19 F
+ ebruary 2025, 0:00 (GMT)\n\n\niLibrary e
+ xport: never\nFreepreview export: never\
+ nOECD.org export: never\nFTI loaded: ✗\n
+ \nFor more information see: https://oecd
+ .github.io/embargo-calendar/embargoes-by
+ -publication.html.\n\nPlease note: This 
+ information was correct as of this after
+ noon at 23:04, it is updated each night;
+  therefore any subsequent updates may no
+ t yet be visible here. Also, please be a
+ ware that the different released media (
+ PDF, HTML, etc.) are not necessarily rel
+ eased at the same time. For complete and
+  up-to-date information see here: http:/
+ /kappa.oecd.org/v3/search?term=560cd8fc-
+ en.
+DTSTAMP:20250124T230425Z
+DTSTART:20250219T000000Z
+DTEND:20250219T001500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Book] OECD Review of Fisherie
+ s 2025
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/c8af05a5-end3e1971
 SUMMARY:[Stand-alone monograph] Does Healthcare 
  Deliver? - Results from the Patient-Repo
  rted Indicator Surveys (PaRIS)
@@ -274,7 +435,7 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
  n was correct as of this afternoon at 23
- :10, it is updated each night; therefore
+ :04, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -282,7 +443,7 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c8af05a5-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250220T080000Z
 DTEND:20250220T081500Z
 TRANSP:TRANSPARENT
@@ -297,7 +458,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Does H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eb75706-end3e1812
+UID:10.1787/8eb75706-end3e2077
 SUMMARY:[Stand-alone monograph] Measuring Carbon
   Footprints of Agri-Food Products - Eigh
  t Building Blocks
@@ -315,7 +476,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:10, 
+  correct as of this afternoon at 23:04, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -324,7 +485,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=8eb75706-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250223T230000Z
 DTEND:20250223T231500Z
 TRANSP:TRANSPARENT
@@ -339,7 +500,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7a70af5c-end3e1866
+UID:10.1787/7a70af5c-end3e2130
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Czechia 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -355,7 +516,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:10, it is updated e
+ this afternoon at 23:04, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -364,7 +525,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7a70af5c-en.
-DTSTAMP:20250123T231007Z
+DTSTAMP:20250124T230425Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT

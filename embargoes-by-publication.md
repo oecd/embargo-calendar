@@ -2,7 +2,53 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 23 January 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 24 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+
+## [Superstars, shooting stars, and the labour share - Cross-country evidence](https://doi.org/10.1787/ecb32e77-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 27 January 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [OECD Monitoring Framework to Measure Homelessness](https://doi.org/10.1787/3e98455b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 28 January 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
 
@@ -54,7 +100,7 @@ Friday 31 January 2025 at 10:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 3 February 2025 at 23:00 | no launch event
+Tuesday 4 February 2025 at 8:30 | no launch event
 
 ### Status Information
 
@@ -96,6 +142,29 @@ Friday 7 February 2025 at 8:00 | no launch event
 
 ------
 
+## [OECD Services Trade Restrictiveness Index - Policy Trends up to 2025](https://doi.org/10.1787/9953845b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 February 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
 
 Embargo date | Launch date
@@ -113,7 +182,7 @@ Tuesday 11 February 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -139,6 +208,29 @@ Thursday 13 February 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [OECD Review of Fisheries 2025](https://doi.org/10.1787/560cd8fc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 February 2025 at 0:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
