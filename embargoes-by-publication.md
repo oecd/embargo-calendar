@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 24 January 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 26 January 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Superstars, shooting stars, and the labour share - Cross-country evidence](https://doi.org/10.1787/ecb32e77-en)
 
