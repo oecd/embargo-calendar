@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 26 January 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 27 January 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Superstars, shooting stars, and the labour share - Cross-country evidence](https://doi.org/10.1787/ecb32e77-en)
 
@@ -137,8 +137,8 @@ Friday 7 February 2025 at 8:00 | no launch event
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -215,7 +215,7 @@ Thursday 13 February 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 19 February 2025 at 0:00 | no launch event
+Wednesday 19 February 2025 at 13:30 | no launch event
 
 ### Status Information
 
@@ -265,7 +265,7 @@ Sunday 23 February 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -274,9 +274,9 @@ Sunday 23 February 2025 at 23:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
