@@ -2,49 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/ecb32e77-end3e63
-SUMMARY:[Working paper] Superstars, shooting sta
- rs, and the labour share - Cross-country
-  evidence
-DESCRIPTION:*[Working paper] Superstars, shooting st
- ars, and the labour share - Cross-countr
- y evidence*\n\nDirectorate: Directorate 
- for Science, Technology and Industry\nLa
- nguage: English\nDOI: https://doi.org/10
- .1787/ecb32e77-en\nPublication type: Wor
- king paper\nReleased as: PDF\n\nEmbargo 
- date/time: Monday, 27 January 2025, 8:00
-  (GMT)\n\n\niLibrary export: never\nFree
- preview export: never\nOECD.org export: 
- never\nFTI loaded: ✓\n\nFor more informa
- tion see: https://oecd.github.io/embargo
- -calendar/embargoes-by-publication.html.
- \n\nPlease note: This information was co
- rrect as of this afternoon at 23:07, it 
- is updated each night; therefore any sub
- sequent updates may not yet be visible h
- ere. Also, please be aware that the diff
- erent released media (PDF, HTML, etc.) a
- re not necessarily released at the same 
- time. For complete and up-to-date inform
- ation see here: http://kappa.oecd.org/v3
- /search?term=ecb32e77-en.
-DTSTAMP:20250128T230728Z
-DTSTART:20250127T080000Z
-DTEND:20250127T081500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Working paper] Superstars, sh
- ooting stars, and the labour share - Cro
- ss-country evidence
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/3e98455b-end3e117
+UID:10.1787/3e98455b-end3e63
 SUMMARY:[Report] OECD Monitoring Framework to Me
  asure Homelessness
 DESCRIPTION:*[Report] OECD Monitoring Framework to M
@@ -60,8 +18,8 @@ DESCRIPTION:*[Report] OECD Monitoring Framework to M
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :07, it is updated each night; therefore
+ n was correct as of this afternoon at 22
+ :37, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -69,7 +27,7 @@ DESCRIPTION:*[Report] OECD Monitoring Framework to M
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=3e98455b-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250128T070000Z
 DTEND:20250128T071500Z
 TRANSP:TRANSPARENT
@@ -83,7 +41,7 @@ DESCRIPTION:Reminder: [Report] OECD Monitoring Frame
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1cac3681-end3e754
+UID:10.1787/1cac3681-end3e700
 SUMMARY:[Stand-alone monograph] Transforming Cat
  alonia’s Mobility System for Net Zero
 DESCRIPTION:*[Stand-alone monograph] Transforming Ca
@@ -100,7 +58,7 @@ DESCRIPTION:*[Stand-alone monograph] Transforming Ca
  mation see: https://oecd.github.io/embar
  go-calendar/embargoes-by-publication.htm
  l.\n\nPlease note: This information was 
- correct as of this afternoon at 23:07, i
+ correct as of this afternoon at 22:37, i
  t is updated each night; therefore any s
  ubsequent updates may not yet be visible
   here. Also, please be aware that the di
@@ -109,7 +67,7 @@ DESCRIPTION:*[Stand-alone monograph] Transforming Ca
  e time. For complete and up-to-date info
  rmation see here: http://kappa.oecd.org/
  v3/search?term=1cac3681-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250128T150000Z
 DTEND:20250128T151500Z
 TRANSP:TRANSPARENT
@@ -124,7 +82,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Transf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a551b351-end3e1498
+UID:10.1787/a551b351-end3e1444
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Consolida
  ted Commentary to the Global Anti-Base E
@@ -146,7 +104,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:07, it is updated
+ f this afternoon at 22:37, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -155,7 +113,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=a551b351-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250131T100000Z
 DTEND:20250131T101500Z
 TRANSP:TRANSPARENT
@@ -172,7 +130,46 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bf26204a-end3e1552
+UID:10.1787/3c674401-end3e1497
+SUMMARY:[Report] VITARA Reference Guide: The Aud
+ it Program
+DESCRIPTION:*[Report] VITARA Reference Guide: The Au
+ dit Program*\n\nDirectorate: Centre for 
+ Tax Policy and Administration\nLanguage:
+  English\nDOI: https://doi.org/10.1787/3
+ c674401-en\nPublication type: Report\nRe
+ leased as: PDF\n\nEmbargo date/time: Mon
+ day, 3 February 2025, 7:00 (GMT)\n\n\niL
+ ibrary export: never\nFreepreview export
+ : never\nOECD.org export: never\nFTI loa
+ ded: ✓\n\nFor more information see: http
+ s://oecd.github.io/embargo-calendar/emba
+ rgoes-by-publication.html.\n\nPlease not
+ e: This information was correct as of th
+ is afternoon at 22:37, it is updated eac
+ h night; therefore any subsequent update
+ s may not yet be visible here. Also, ple
+ ase be aware that the different released
+  media (PDF, HTML, etc.) are not necessa
+ rily released at the same time. For comp
+ lete and up-to-date information see here
+ : http://kappa.oecd.org/v3/search?term=3
+ c674401-en.
+DTSTAMP:20250129T223756Z
+DTSTART:20250203T070000Z
+DTEND:20250203T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] VITARA Reference Guid
+ e: The Audit Program
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/bf26204a-end3e1551
 SUMMARY:[Report] EU Country Cancer Profile: Norw
  ay 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Nor
@@ -188,7 +185,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Nor
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -197,7 +194,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Nor
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=bf26204a-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -211,7 +208,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/39c18d93-end3e1605
+UID:10.1787/39c18d93-end3e1604
 SUMMARY:[Report] EU Country Cancer Profile: Swed
  en 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Swe
@@ -227,7 +224,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Swe
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -236,7 +233,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Swe
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=39c18d93-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -250,7 +247,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e40472f4-end3e1658
+UID:10.1787/e40472f4-end3e1657
 SUMMARY:[Report] EU Country Cancer Profile: Slov
  ak Republic 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
@@ -266,7 +263,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:07
+ as correct as of this afternoon at 22:37
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -275,7 +272,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=e40472f4-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -289,7 +286,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5a9404b9-esd3e1711
+UID:10.1787/5a9404b9-esd3e1710
 SUMMARY:[Report] Perfiles nacionales de cáncer: 
  España 2025
 DESCRIPTION:*[Report] Perfiles nacionales de cáncer:
@@ -305,7 +302,7 @@ DESCRIPTION:*[Report] Perfiles nacionales de cáncer:
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:07, it 
+ rrect as of this afternoon at 22:37, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -314,7 +311,7 @@ DESCRIPTION:*[Report] Perfiles nacionales de cáncer:
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=5a9404b9-es.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -328,7 +325,7 @@ DESCRIPTION:Reminder: [Report] Perfiles nacionales d
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce5a2d22-isd3e1764
+UID:10.1787/ce5a2d22-isd3e1763
 SUMMARY:[Report] Landsskýrsla um stöðu krabbamei
  nsmála: Ísland 2025
 DESCRIPTION:*[Report] Landsskýrsla um stöðu krabbame
@@ -345,7 +342,7 @@ DESCRIPTION:*[Report] Landsskýrsla um stöðu krabbame
  io/embargo-calendar/embargoes-by-publica
  tion.html.\n\nPlease note: This informat
  ion was correct as of this afternoon at 
- 23:07, it is updated each night; therefo
+ 22:37, it is updated each night; therefo
  re any subsequent updates may not yet be
   visible here. Also, please be aware tha
  t the different released media (PDF, HTM
@@ -353,7 +350,7 @@ DESCRIPTION:*[Report] Landsskýrsla um stöðu krabbame
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=ce5a2d22-is.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -367,7 +364,7 @@ DESCRIPTION:Reminder: [Report] Landsskýrsla um stöðu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/980619b4-end3e1817
+UID:10.1787/980619b4-end3e1816
 SUMMARY:[Report] EU Country Cancer Profile: Slov
  enia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
@@ -383,7 +380,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:07, it is
+ ect as of this afternoon at 22:37, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -392,7 +389,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Slo
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=980619b4-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -406,7 +403,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/132c6cf3-nld3e1871
+UID:10.1787/132c6cf3-nld3e1870
 SUMMARY:[Report] Landenprofiel voor Kanker: Nede
  rland 2025
 DESCRIPTION:*[Report] Landenprofiel voor Kanker: Ned
@@ -422,7 +419,7 @@ DESCRIPTION:*[Report] Landenprofiel voor Kanker: Ned
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -431,7 +428,7 @@ DESCRIPTION:*[Report] Landenprofiel voor Kanker: Ned
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=132c6cf3-nl.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -445,7 +442,7 @@ DESCRIPTION:Reminder: [Report] Landenprofiel voor Ka
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f169e393-ded3e1924
+UID:10.1787/f169e393-ded3e1923
 SUMMARY:[Report] Länderprofile Krebs: Deutschlan
  d 2025
 DESCRIPTION:*[Report] Länderprofile Krebs: Deutschla
@@ -461,7 +458,7 @@ DESCRIPTION:*[Report] Länderprofile Krebs: Deutschla
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:07, it is upd
+ as of this afternoon at 22:37, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -470,7 +467,7 @@ DESCRIPTION:*[Report] Länderprofile Krebs: Deutschla
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=f169e393-de.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -484,7 +481,7 @@ DESCRIPTION:Reminder: [Report] Länderprofile Krebs:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f3a3cfcf-end3e1977
+UID:10.1787/f3a3cfcf-end3e1976
 SUMMARY:[Report] EU Country Cancer Profile: Germ
  any 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Ger
@@ -500,7 +497,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ger
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -509,7 +506,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ger
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=f3a3cfcf-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -523,7 +520,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/00068bb5-frd3e2030
+UID:10.1787/00068bb5-frd3e2029
 SUMMARY:[Report] Profils sur le cancer par pays 
  : France 2025
 DESCRIPTION:*[Report] Profils sur le cancer par pays
@@ -539,7 +536,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:07, it
+ orrect as of this afternoon at 22:37, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -548,7 +545,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=00068bb5-fr.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -562,7 +559,7 @@ DESCRIPTION:Reminder: [Report] Profils sur le cancer
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f23ce73c-end3e2083
+UID:10.1787/f23ce73c-end3e2082
 SUMMARY:[Report] EU Country Cancer Profile: Latv
  ia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Lat
@@ -578,7 +575,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lat
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -587,7 +584,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lat
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=f23ce73c-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -601,7 +598,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffe5127e-end3e2136
+UID:10.1787/ffe5127e-end3e2135
 SUMMARY:[Report] EU Country Cancer Profile: Denm
  ark 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Den
@@ -617,7 +614,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Den
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -626,7 +623,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Den
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=ffe5127e-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -640,7 +637,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8474a271-end3e2190
+UID:10.1787/8474a271-end3e2189
 SUMMARY:[Report] EU Country Cancer Profile: Roma
  nia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Rom
@@ -656,7 +653,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Rom
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -665,7 +662,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Rom
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=8474a271-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -679,7 +676,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/fc2a5e54-end3e2243
+UID:10.1787/fc2a5e54-end3e2242
 SUMMARY:[Report] EU Country Cancer Profile: Pola
  nd 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Pol
@@ -695,7 +692,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Pol
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -704,7 +701,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Pol
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=fc2a5e54-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -718,7 +715,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a3208ef6-dad3e2296
+UID:10.1787/a3208ef6-dad3e2295
 SUMMARY:[Report] Kræftlandeprofil: Danmark 2025
 DESCRIPTION:*[Report] Kræftlandeprofil: Danmark 2025
  *\n\nDirectorate: Directorate for Employ
@@ -733,7 +730,7 @@ DESCRIPTION:*[Report] Kræftlandeprofil: Danmark 2025
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:07, it is updated ea
+ his afternoon at 22:37, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -742,7 +739,7 @@ DESCRIPTION:*[Report] Kræftlandeprofil: Danmark 2025
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  a3208ef6-da.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -756,7 +753,7 @@ DESCRIPTION:Reminder: [Report] Kræftlandeprofil: Dan
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/55341ef3-fid3e2349
+UID:10.1787/55341ef3-fid3e2348
 SUMMARY:[Report] Syöpäprofiilit: Suomi 2025
 DESCRIPTION:*[Report] Syöpäprofiilit: Suomi 2025*\n\
  nDirectorate: Directorate for Employment
@@ -771,7 +768,7 @@ DESCRIPTION:*[Report] Syöpäprofiilit: Suomi 2025*\n\
  //oecd.github.io/embargo-calendar/embarg
  oes-by-publication.html.\n\nPlease note:
   This information was correct as of this
-  afternoon at 23:07, it is updated each 
+  afternoon at 22:37, it is updated each 
  night; therefore any subsequent updates 
  may not yet be visible here. Also, pleas
  e be aware that the different released m
@@ -780,7 +777,7 @@ DESCRIPTION:*[Report] Syöpäprofiilit: Suomi 2025*\n\
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=553
  41ef3-fi.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -794,7 +791,7 @@ DESCRIPTION:Reminder: [Report] Syöpäprofiilit: Suomi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4aa8453a-end3e2402
+UID:10.1787/4aa8453a-end3e2401
 SUMMARY:[Report] EU Country Cancer Profile: Fran
  ce 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Fra
@@ -810,7 +807,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Fra
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -819,7 +816,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Fra
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=4aa8453a-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -833,7 +830,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/268e0317-nod3e2455
+UID:10.1787/268e0317-nod3e2454
 SUMMARY:[Report] Landprofil om kreft: Norge 2025
 DESCRIPTION:*[Report] Landprofil om kreft: Norge 202
  5*\n\nDirectorate: Directorate for Emplo
@@ -848,7 +845,7 @@ DESCRIPTION:*[Report] Landprofil om kreft: Norge 202
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:07, it is update
+ of this afternoon at 22:37, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -857,7 +854,7 @@ DESCRIPTION:*[Report] Landprofil om kreft: Norge 202
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=268e0317-no.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -871,7 +868,7 @@ DESCRIPTION:Reminder: [Report] Landprofil om kreft:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1b14100d-end3e2509
+UID:10.1787/1b14100d-end3e2508
 SUMMARY:[Report] EU Country Cancer Profile: Finl
  and 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Fin
@@ -887,7 +884,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Fin
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -896,7 +893,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Fin
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=1b14100d-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -910,7 +907,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1e742c63-end3e2562
+UID:10.1787/1e742c63-end3e2561
 SUMMARY:[Report] EU Country Cancer Profile: Ital
  y 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Ita
@@ -926,7 +923,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ita
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:07, it is up
+  as of this afternoon at 22:37, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -935,7 +932,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ita
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1e742c63-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -949,7 +946,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5c4dfa17-nld3e2615
+UID:10.1787/5c4dfa17-nld3e2614
 SUMMARY:[Report] Landenprofiel voor Kanker: Belg
  ië 2025
 DESCRIPTION:*[Report] Landenprofiel voor Kanker: Bel
@@ -965,7 +962,7 @@ DESCRIPTION:*[Report] Landenprofiel voor Kanker: Bel
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:07, it is upd
+ as of this afternoon at 22:37, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -974,7 +971,7 @@ DESCRIPTION:*[Report] Landenprofiel voor Kanker: Bel
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=5c4dfa17-nl.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -988,7 +985,7 @@ DESCRIPTION:Reminder: [Report] Landenprofiel voor Ka
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/344b5f49-end3e2668
+UID:10.1787/344b5f49-end3e2667
 SUMMARY:[Report] EU Country Cancer Profile: Hung
  ary 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Hun
@@ -1004,7 +1001,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Hun
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1013,7 +1010,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Hun
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=344b5f49-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1027,7 +1024,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d5df158-eld3e2721
+UID:10.1787/1d5df158-eld3e2720
 SUMMARY:[Report] Προφίλ χωρών για τον καρκίνο: Ε
  λλάδα 2025
 DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο: 
@@ -1043,7 +1040,7 @@ DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο:
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1052,7 +1049,7 @@ DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο:
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=1d5df158-el.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1066,7 +1063,7 @@ DESCRIPTION:Reminder: [Report] Προφίλ χωρών για τον
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a90c2c0d-rod3e2774
+UID:10.1787/a90c2c0d-rod3e2773
 SUMMARY:[Report] Profil de țară privind cancerul
  : România 2025
 DESCRIPTION:*[Report] Profil de țară privind canceru
@@ -1082,7 +1079,7 @@ DESCRIPTION:*[Report] Profil de țară privind canceru
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:07,
+ s correct as of this afternoon at 22:37,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1091,7 +1088,7 @@ DESCRIPTION:*[Report] Profil de țară privind canceru
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=a90c2c0d-ro.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1105,7 +1102,7 @@ DESCRIPTION:Reminder: [Report] Profil de țară privin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0831d4fb-itd3e2828
+UID:10.1787/0831d4fb-itd3e2827
 SUMMARY:[Report] Profili sul cancro per paese: I
  talia 2025
 DESCRIPTION:*[Report] Profili sul cancro per paese: 
@@ -1121,7 +1118,7 @@ DESCRIPTION:*[Report] Profili sul cancro per paese:
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:07, it i
+ rect as of this afternoon at 22:37, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1130,7 +1127,7 @@ DESCRIPTION:*[Report] Profili sul cancro per paese:
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=0831d4fb-it.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1144,7 +1141,7 @@ DESCRIPTION:Reminder: [Report] Profili sul cancro pe
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1f6a5051-end3e2881
+UID:10.1787/1f6a5051-end3e2880
 SUMMARY:[Report] EU Country Cancer Profile: Spai
  n 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Spa
@@ -1160,7 +1157,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Spa
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:07, it is up
+  as of this afternoon at 22:37, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1169,7 +1166,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Spa
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=1f6a5051-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1183,7 +1180,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/22087cfa-end3e2934
+UID:10.1787/22087cfa-end3e2933
 SUMMARY:[Report] EU Country Cancer Profile: Gree
  ce 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Gre
@@ -1199,7 +1196,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Gre
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1208,7 +1205,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Gre
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=22087cfa-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1222,7 +1219,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ffdcd7a9-ptd3e2987
+UID:10.1787/ffdcd7a9-ptd3e2986
 SUMMARY:[Report] Perfil sobre cancro por país: P
  ortugal 2025
 DESCRIPTION:*[Report] Perfil sobre cancro por país: 
@@ -1238,7 +1235,7 @@ DESCRIPTION:*[Report] Perfil sobre cancro por país:
  ormation see: https://oecd.github.io/emb
  argo-calendar/embargoes-by-publication.h
  tml.\n\nPlease note: This information wa
- s correct as of this afternoon at 23:07,
+ s correct as of this afternoon at 22:37,
   it is updated each night; therefore any
   subsequent updates may not yet be visib
  le here. Also, please be aware that the 
@@ -1247,7 +1244,7 @@ DESCRIPTION:*[Report] Perfil sobre cancro por país:
  ame time. For complete and up-to-date in
  formation see here: http://kappa.oecd.or
  g/v3/search?term=ffdcd7a9-pt.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1261,7 +1258,7 @@ DESCRIPTION:Reminder: [Report] Perfil sobre cancro p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d0dc1677-sld3e3040
+UID:10.1787/d0dc1677-sld3e3039
 SUMMARY:[Report] Profil držav o stanju na področ
  ju raka: Slovenija 2025
 DESCRIPTION:*[Report] Profil držav o stanju na podro
@@ -1278,7 +1275,7 @@ DESCRIPTION:*[Report] Profil držav o stanju na podro
  hub.io/embargo-calendar/embargoes-by-pub
  lication.html.\n\nPlease note: This info
  rmation was correct as of this afternoon
-  at 23:07, it is updated each night; the
+  at 22:37, it is updated each night; the
  refore any subsequent updates may not ye
  t be visible here. Also, please be aware
   that the different released media (PDF,
@@ -1286,7 +1283,7 @@ DESCRIPTION:*[Report] Profil držav o stanju na podro
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=d0dc1677-sl.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1300,7 +1297,7 @@ DESCRIPTION:Reminder: [Report] Profil držav o stanju
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2015de3b-bgd3e3093
+UID:10.1787/2015de3b-bgd3e3092
 SUMMARY:[Report] Профили на държавите по отношен
  ие на рака: България 2025
 DESCRIPTION:*[Report] Профили на държавите по отноше
@@ -1317,7 +1314,7 @@ DESCRIPTION:*[Report] Профили на държавите по отноше
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:07, it is updated each night; t
+ on at 22:37, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -1326,7 +1323,7 @@ DESCRIPTION:*[Report] Профили на държавите по отноше
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=2015de3b-bg
  .
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1340,7 +1337,7 @@ DESCRIPTION:Reminder: [Report] Профили на държавите
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ed029eff-frd3e3147
+UID:10.1787/ed029eff-frd3e3146
 SUMMARY:[Report] Profils sur le cancer par pays 
  : Luxembourg 2025
 DESCRIPTION:*[Report] Profils sur le cancer par pays
@@ -1356,7 +1353,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:07
+ as correct as of this afternoon at 22:37
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1365,7 +1362,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=ed029eff-fr.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1379,7 +1376,7 @@ DESCRIPTION:Reminder: [Report] Profils sur le cancer
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/48c765ea-svd3e3200
+UID:10.1787/48c765ea-svd3e3199
 SUMMARY:[Report] Landsprofiler om cancer: Sverig
  e 2025
 DESCRIPTION:*[Report] Landsprofiler om cancer: Sveri
@@ -1395,7 +1392,7 @@ DESCRIPTION:*[Report] Landsprofiler om cancer: Sveri
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:07, it is up
+  as of this afternoon at 22:37, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -1404,7 +1401,7 @@ DESCRIPTION:*[Report] Landsprofiler om cancer: Sveri
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=48c765ea-sv.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1418,7 +1415,7 @@ DESCRIPTION:Reminder: [Report] Landsprofiler om canc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/69517d2d-end3e3253
+UID:10.1787/69517d2d-end3e3252
 SUMMARY:[Report] EU Country Cancer Profile: Neth
  erlands 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Net
@@ -1434,7 +1431,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Net
  ation see: https://oecd.github.io/embarg
  o-calendar/embargoes-by-publication.html
  .\n\nPlease note: This information was c
- orrect as of this afternoon at 23:07, it
+ orrect as of this afternoon at 22:37, it
   is updated each night; therefore any su
  bsequent updates may not yet be visible 
  here. Also, please be aware that the dif
@@ -1443,7 +1440,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Net
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=69517d2d-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1457,7 +1454,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/46c3a9e0-end3e3306
+UID:10.1787/46c3a9e0-end3e3305
 SUMMARY:[Report] EU Country Cancer Profile: Port
  ugal 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Por
@@ -1473,7 +1470,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Por
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:07, it is
+ ect as of this afternoon at 22:37, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -1482,7 +1479,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Por
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=46c3a9e0-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1496,7 +1493,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bb4eec73-end3e3359
+UID:10.1787/bb4eec73-end3e3358
 SUMMARY:[Report] EU Country Cancer Profile: Esto
  nia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Est
@@ -1512,7 +1509,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Est
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1521,7 +1518,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Est
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=bb4eec73-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1535,7 +1532,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1941d439-skd3e3412
+UID:10.1787/1941d439-skd3e3411
 SUMMARY:[Report] Onkologický profil krajiny: Slo
  venská Republika 2025
 DESCRIPTION:*[Report] Onkologický profil krajiny: Sl
@@ -1552,7 +1549,7 @@ DESCRIPTION:*[Report] Onkologický profil krajiny: Sl
  o/embargo-calendar/embargoes-by-publicat
  ion.html.\n\nPlease note: This informati
  on was correct as of this afternoon at 2
- 3:07, it is updated each night; therefor
+ 2:37, it is updated each night; therefor
  e any subsequent updates may not yet be 
  visible here. Also, please be aware that
   the different released media (PDF, HTML
@@ -1560,7 +1557,7 @@ DESCRIPTION:*[Report] Onkologický profil krajiny: Sl
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=1941d439-sk.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1574,7 +1571,7 @@ DESCRIPTION:Reminder: [Report] Onkologický profil kr
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4cc3ab0d-end3e3466
+UID:10.1787/4cc3ab0d-end3e3465
 SUMMARY:[Report] EU Country Cancer Profile: Luxe
  mbourg 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Lux
@@ -1590,7 +1587,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lux
  tion see: https://oecd.github.io/embargo
  -calendar/embargoes-by-publication.html.
  \n\nPlease note: This information was co
- rrect as of this afternoon at 23:07, it 
+ rrect as of this afternoon at 22:37, it 
  is updated each night; therefore any sub
  sequent updates may not yet be visible h
  ere. Also, please be aware that the diff
@@ -1599,7 +1596,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lux
  time. For complete and up-to-date inform
  ation see here: http://kappa.oecd.org/v3
  /search?term=4cc3ab0d-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1613,7 +1610,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/da903bdd-hrd3e3519
+UID:10.1787/da903bdd-hrd3e3518
 SUMMARY:[Report] Pregled trendova i stanja zdrav
  stvene skrbi u području raka po zemljama
  : Hrvatska 2025
@@ -1631,7 +1628,7 @@ DESCRIPTION:*[Report] Pregled trendova i stanja zdra
  formation see: https://oecd.github.io/em
  bargo-calendar/embargoes-by-publication.
  html.\n\nPlease note: This information w
- as correct as of this afternoon at 23:07
+ as correct as of this afternoon at 22:37
  , it is updated each night; therefore an
  y subsequent updates may not yet be visi
  ble here. Also, please be aware that the
@@ -1640,7 +1637,7 @@ DESCRIPTION:*[Report] Pregled trendova i stanja zdra
  same time. For complete and up-to-date i
  nformation see here: http://kappa.oecd.o
  rg/v3/search?term=da903bdd-hr.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1655,7 +1652,7 @@ DESCRIPTION:Reminder: [Report] Pregled trendova i st
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/744aaaba-end3e3572
+UID:10.1787/744aaaba-end3e3571
 SUMMARY:[Report] EU Country Cancer Profile: Belg
  ium 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Bel
@@ -1671,7 +1668,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Bel
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1680,7 +1677,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Bel
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=744aaaba-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1694,7 +1691,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/dbc6b1f7-pld3e3625
+UID:10.1787/dbc6b1f7-pld3e3624
 SUMMARY:[Report] Krajowe profile dotyczące nowot
  worów: Polska 2025
 DESCRIPTION:*[Report] Krajowe profile dotyczące nowo
@@ -1710,7 +1707,7 @@ DESCRIPTION:*[Report] Krajowe profile dotyczące nowo
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:0
+ was correct as of this afternoon at 22:3
  7, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
@@ -1719,7 +1716,7 @@ DESCRIPTION:*[Report] Krajowe profile dotyczące nowo
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=dbc6b1f7-pl.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1733,7 +1730,7 @@ DESCRIPTION:Reminder: [Report] Krajowe profile dotyc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c5a3f19e-end3e3678
+UID:10.1787/c5a3f19e-end3e3677
 SUMMARY:[Report] EU Country Cancer Profile: Cypr
  us 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Cyp
@@ -1749,7 +1746,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cyp
   see: https://oecd.github.io/embargo-cal
  endar/embargoes-by-publication.html.\n\n
  Please note: This information was correc
- t as of this afternoon at 23:07, it is u
+ t as of this afternoon at 22:37, it is u
  pdated each night; therefore any subsequ
  ent updates may not yet be visible here.
   Also, please be aware that the differen
@@ -1758,7 +1755,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cyp
  . For complete and up-to-date informatio
  n see here: http://kappa.oecd.org/v3/sea
  rch?term=c5a3f19e-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1772,7 +1769,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/b260e7d1-end3e3731
+UID:10.1787/b260e7d1-end3e3730
 SUMMARY:[Report] EU Country Cancer Profile: Lith
  uania 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Lit
@@ -1788,7 +1785,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lit
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:07, it i
+ rect as of this afternoon at 22:37, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1797,7 +1794,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Lit
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=b260e7d1-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1811,7 +1808,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/137c7e94-eld3e3785
+UID:10.1787/137c7e94-eld3e3784
 SUMMARY:[Report] Προφίλ χωρών για τον καρκίνο: Κ
  ύπροσ 2025
 DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο: 
@@ -1827,7 +1824,7 @@ DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο:
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1836,7 +1833,7 @@ DESCRIPTION:*[Report] Προφίλ χωρών για τον καρκίνο:
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=137c7e94-el.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1850,7 +1847,7 @@ DESCRIPTION:Reminder: [Report] Προφίλ χωρών για τον
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7d8d0798-end3e3838
+UID:10.1787/7d8d0798-end3e3837
 SUMMARY:[Report] EU Country Cancer Profile: Irel
  and 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Ire
@@ -1866,7 +1863,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ire
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1875,7 +1872,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ire
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=7d8d0798-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1889,7 +1886,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/664a014c-etd3e3891
+UID:10.1787/664a014c-etd3e3890
 SUMMARY:[Report] Riigi vähiprofiil: Eesti 2025
 DESCRIPTION:*[Report] Riigi vähiprofiil: Eesti 2025*
  \n\nDirectorate: Directorate for Employm
@@ -1904,7 +1901,7 @@ DESCRIPTION:*[Report] Riigi vähiprofiil: Eesti 2025*
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:07, it is updated e
+ this afternoon at 22:37, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -1913,7 +1910,7 @@ DESCRIPTION:*[Report] Riigi vähiprofiil: Eesti 2025*
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =664a014c-et.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1927,7 +1924,7 @@ DESCRIPTION:Reminder: [Report] Riigi vähiprofiil: Ee
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/23a4c260-hud3e3944
+UID:10.1787/23a4c260-hud3e3943
 SUMMARY:[Report] Rákügyi országprofil: Magyarors
  zág 2025
 DESCRIPTION:*[Report] Rákügyi országprofil: Magyaror
@@ -1943,7 +1940,7 @@ DESCRIPTION:*[Report] Rákügyi országprofil: Magyaror
  ion see: https://oecd.github.io/embargo-
  calendar/embargoes-by-publication.html.\
  n\nPlease note: This information was cor
- rect as of this afternoon at 23:07, it i
+ rect as of this afternoon at 22:37, it i
  s updated each night; therefore any subs
  equent updates may not yet be visible he
  re. Also, please be aware that the diffe
@@ -1952,7 +1949,7 @@ DESCRIPTION:*[Report] Rákügyi országprofil: Magyaror
  ime. For complete and up-to-date informa
  tion see here: http://kappa.oecd.org/v3/
  search?term=23a4c260-hu.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -1966,7 +1963,7 @@ DESCRIPTION:Reminder: [Report] Rákügyi országprofil:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0f12ea0d-end3e3997
+UID:10.1787/0f12ea0d-end3e3996
 SUMMARY:[Report] EU Country Cancer Profile: Icel
  and 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Ice
@@ -1982,7 +1979,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ice
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -1991,7 +1988,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Ice
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=0f12ea0d-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2005,7 +2002,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/46c5e70c-end3e4050
+UID:10.1787/46c5e70c-end3e4049
 SUMMARY:[Report] EU Country Cancer Profile: Croa
  tia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Cro
@@ -2021,7 +2018,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cro
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -2030,7 +2027,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cro
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=46c5e70c-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2044,7 +2041,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1c43e9f8-frd3e4104
+UID:10.1787/1c43e9f8-frd3e4103
 SUMMARY:[Report] Profils sur le cancer par pays 
  : Belgique 2025
 DESCRIPTION:*[Report] Profils sur le cancer par pays
@@ -2060,7 +2057,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
  rmation see: https://oecd.github.io/emba
  rgo-calendar/embargoes-by-publication.ht
  ml.\n\nPlease note: This information was
-  correct as of this afternoon at 23:07, 
+  correct as of this afternoon at 22:37, 
  it is updated each night; therefore any 
  subsequent updates may not yet be visibl
  e here. Also, please be aware that the d
@@ -2069,7 +2066,7 @@ DESCRIPTION:*[Report] Profils sur le cancer par pays
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=1c43e9f8-fr.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2083,7 +2080,7 @@ DESCRIPTION:Reminder: [Report] Profils sur le cancer
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/20ef03e1-end3e4157
+UID:10.1787/20ef03e1-end3e4156
 SUMMARY:[Report] EU Country Cancer Profiles Synt
  hesis Report 2025
 DESCRIPTION:*[Report] EU Country Cancer Profiles Syn
@@ -2099,7 +2096,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profiles Syn
  nformation see: https://oecd.github.io/e
  mbargo-calendar/embargoes-by-publication
  .html.\n\nPlease note: This information 
- was correct as of this afternoon at 23:0
+ was correct as of this afternoon at 22:3
  7, it is updated each night; therefore a
  ny subsequent updates may not yet be vis
  ible here. Also, please be aware that th
@@ -2108,7 +2105,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profiles Syn
   same time. For complete and up-to-date 
  information see here: http://kappa.oecd.
  org/v3/search?term=20ef03e1-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2122,7 +2119,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8ea60e3a-end3e4210
+UID:10.1787/8ea60e3a-end3e4209
 SUMMARY:[Report] EU Country Cancer Profile: Malt
  a 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Mal
@@ -2138,7 +2135,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Mal
  see: https://oecd.github.io/embargo-cale
  ndar/embargoes-by-publication.html.\n\nP
  lease note: This information was correct
-  as of this afternoon at 23:07, it is up
+  as of this afternoon at 22:37, it is up
  dated each night; therefore any subseque
  nt updates may not yet be visible here. 
  Also, please be aware that the different
@@ -2147,7 +2144,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Mal
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=8ea60e3a-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2161,7 +2158,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c6533317-end3e4263
+UID:10.1787/c6533317-end3e4262
 SUMMARY:[Report] EU Country Cancer Profile: Bulg
  aria 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Bul
@@ -2177,7 +2174,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Bul
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:07, it is
+ ect as of this afternoon at 22:37, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -2186,7 +2183,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Bul
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=c6533317-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2200,7 +2197,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c8d574cc-end3e4316
+UID:10.1787/c8d574cc-end3e4315
 SUMMARY:[Report] EU Country Cancer Profile: Aust
  ria 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Aus
@@ -2216,7 +2213,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Aus
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -2225,7 +2222,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Aus
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=c8d574cc-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2239,7 +2236,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f674523f-lvd3e4369
+UID:10.1787/f674523f-lvd3e4368
 SUMMARY:[Report] Valstu vēža profili: Latvija 20
  25
 DESCRIPTION:*[Report] Valstu vēža profili: Latvija 2
@@ -2255,7 +2252,7 @@ DESCRIPTION:*[Report] Valstu vēža profili: Latvija 2
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:07, it is update
+ of this afternoon at 22:37, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2264,7 +2261,7 @@ DESCRIPTION:*[Report] Valstu vēža profili: Latvija 2
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=f674523f-lv.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2278,7 +2275,7 @@ DESCRIPTION:Reminder: [Report] Valstu vēža profili:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cc0dba0f-csd3e4423
+UID:10.1787/cc0dba0f-csd3e4422
 SUMMARY:[Report] Onkologický profil země: Česko 
  2025
 DESCRIPTION:*[Report] Onkologický profil země: Česko
@@ -2294,7 +2291,7 @@ DESCRIPTION:*[Report] Onkologický profil země: Česko
   https://oecd.github.io/embargo-calendar
  /embargoes-by-publication.html.\n\nPleas
  e note: This information was correct as 
- of this afternoon at 23:07, it is update
+ of this afternoon at 22:37, it is update
  d each night; therefore any subsequent u
  pdates may not yet be visible here. Also
  , please be aware that the different rel
@@ -2303,7 +2300,7 @@ DESCRIPTION:*[Report] Onkologický profil země: Česko
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=cc0dba0f-cs.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2317,7 +2314,7 @@ DESCRIPTION:Reminder: [Report] Onkologický profil ze
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c23a8f29-end3e4476
+UID:10.1787/c23a8f29-end3e4475
 SUMMARY:[Report] EU Country Cancer Profile: Czec
  hia 2025
 DESCRIPTION:*[Report] EU Country Cancer Profile: Cze
@@ -2333,7 +2330,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cze
  n see: https://oecd.github.io/embargo-ca
  lendar/embargoes-by-publication.html.\n\
  nPlease note: This information was corre
- ct as of this afternoon at 23:07, it is 
+ ct as of this afternoon at 22:37, it is 
  updated each night; therefore any subseq
  uent updates may not yet be visible here
  . Also, please be aware that the differe
@@ -2342,7 +2339,7 @@ DESCRIPTION:*[Report] EU Country Cancer Profile: Cze
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=c23a8f29-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2356,7 +2353,7 @@ DESCRIPTION:Reminder: [Report] EU Country Cancer Pro
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f1856ead-ded3e4529
+UID:10.1787/f1856ead-ded3e4528
 SUMMARY:[Report] Länderprofile Krebs: Österreich
   2025
 DESCRIPTION:*[Report] Länderprofile Krebs: Österreic
@@ -2372,7 +2369,7 @@ DESCRIPTION:*[Report] Länderprofile Krebs: Österreic
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:07, it is upda
+ s of this afternoon at 22:37, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -2381,7 +2378,7 @@ DESCRIPTION:*[Report] Länderprofile Krebs: Österreic
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=f1856ead-de.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2395,7 +2392,7 @@ DESCRIPTION:Reminder: [Report] Länderprofile Krebs:
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/72a821a7-ltd3e4582
+UID:10.1787/72a821a7-ltd3e4581
 SUMMARY:[Report] Su vėžiu susijusios padėties ša
  lyje apžvalga : Lietuva 2025
 DESCRIPTION:*[Report] Su vėžiu susijusios padėties š
@@ -2412,7 +2409,7 @@ DESCRIPTION:*[Report] Su vėžiu susijusios padėties š
  cd.github.io/embargo-calendar/embargoes-
  by-publication.html.\n\nPlease note: Thi
  s information was correct as of this aft
- ernoon at 23:07, it is updated each nigh
+ ernoon at 22:37, it is updated each nigh
  t; therefore any subsequent updates may 
  not yet be visible here. Also, please be
   aware that the different released media
@@ -2421,7 +2418,7 @@ DESCRIPTION:*[Report] Su vėžiu susijusios padėties š
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=72a821a
  7-lt.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250203T080000Z
 DTEND:20250203T081500Z
 TRANSP:TRANSPARENT
@@ -2435,7 +2432,7 @@ DESCRIPTION:Reminder: [Report] Su vėžiu susijusios p
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/483d3bb9-end3e4635
+UID:10.1787/483d3bb9-end3e4634
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Poland 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -2446,12 +2443,12 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  : PDF\n\nEmbargo date/time: Tuesday, 4 F
  ebruary 2025, 8:30 (GMT)\n\n\niLibrary e
  xport: never\nFreepreview export: never\
- nOECD.org export: never\nFTI loaded: ✗\n
+ nOECD.org export: never\nFTI loaded: ✓\n
  \nFor more information see: https://oecd
  .github.io/embargo-calendar/embargoes-by
  -publication.html.\n\nPlease note: This 
  information was correct as of this after
- noon at 23:07, it is updated each night;
+ noon at 22:37, it is updated each night;
   therefore any subsequent updates may no
  t yet be visible here. Also, please be a
  ware that the different released media (
@@ -2460,7 +2457,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=483d3bb9-
  en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250204T083000Z
 DTEND:20250204T084500Z
 TRANSP:TRANSPARENT
@@ -2494,7 +2491,7 @@ DESCRIPTION:*[Book] Global Outlook on Financing for
  oecd.github.io/embargo-calendar/embargoe
  s-by-publication.html.\n\nPlease note: T
  his information was correct as of this a
- fternoon at 23:07, it is updated each ni
+ fternoon at 22:37, it is updated each ni
  ght; therefore any subsequent updates ma
  y not yet be visible here. Also, please 
  be aware that the different released med
@@ -2503,7 +2500,7 @@ DESCRIPTION:*[Book] Global Outlook on Financing for
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=753d5
  368-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250207T080000Z
 DTEND:20250207T081500Z
 TRANSP:TRANSPARENT
@@ -2537,7 +2534,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  on see: https://oecd.github.io/embargo-c
  alendar/embargoes-by-publication.html.\n
  \nPlease note: This information was corr
- ect as of this afternoon at 23:07, it is
+ ect as of this afternoon at 22:37, it is
   updated each night; therefore any subse
  quent updates may not yet be visible her
  e. Also, please be aware that the differ
@@ -2546,7 +2543,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Services T
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=9953845b-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250211T070000Z
 DTEND:20250211T071500Z
 TRANSP:TRANSPARENT
@@ -2578,7 +2575,7 @@ DESCRIPTION:*[Book] Consolidated Report on Amount B
  ithub.io/embargo-calendar/embargoes-by-p
  ublication.html.\n\nPlease note: This in
  formation was correct as of this afterno
- on at 23:07, it is updated each night; t
+ on at 22:37, it is updated each night; t
  herefore any subsequent updates may not 
  yet be visible here. Also, please be awa
  re that the different released media (PD
@@ -2587,7 +2584,7 @@ DESCRIPTION:*[Book] Consolidated Report on Amount B
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=182b47ad-en
  .
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250211T100000Z
 DTEND:20250211T101500Z
 TRANSP:TRANSPARENT
@@ -2617,7 +2614,7 @@ DESCRIPTION:*[Economic survey] OECD Economics Survey
  ecd.github.io/embargo-calendar/embargoes
  -by-publication.html.\n\nPlease note: Th
  is information was correct as of this af
- ternoon at 23:07, it is updated each nig
+ ternoon at 22:37, it is updated each nig
  ht; therefore any subsequent updates may
   not yet be visible here. Also, please b
  e aware that the different released medi
@@ -2626,7 +2623,7 @@ DESCRIPTION:*[Economic survey] OECD Economics Survey
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=9a3685
  60-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250213T090000Z
 DTEND:20250213T091500Z
 TRANSP:TRANSPARENT
@@ -2655,7 +2652,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2025*\n
  d.github.io/embargo-calendar/embargoes-b
  y-publication.html.\n\nPlease note: This
   information was correct as of this afte
- rnoon at 23:07, it is updated each night
+ rnoon at 22:37, it is updated each night
  ; therefore any subsequent updates may n
  ot yet be visible here. Also, please be 
  aware that the different released media 
@@ -2664,7 +2661,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2025*\n
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=560cd8fc
  -en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250219T133000Z
 DTEND:20250219T134500Z
 TRANSP:TRANSPARENT
@@ -2697,8 +2694,8 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
- n was correct as of this afternoon at 23
- :07, it is updated each night; therefore
+ n was correct as of this afternoon at 22
+ :37, it is updated each night; therefore
   any subsequent updates may not yet be v
  isible here. Also, please be aware that 
  the different released media (PDF, HTML,
@@ -2706,7 +2703,7 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c8af05a5-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250220T080000Z
 DTEND:20250220T081500Z
 TRANSP:TRANSPARENT
@@ -2740,7 +2737,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:07, it is updat
+  of this afternoon at 22:37, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -2749,7 +2746,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=8eb75706-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250223T230000Z
 DTEND:20250223T231500Z
 TRANSP:TRANSPARENT
@@ -2784,7 +2781,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  e: https://oecd.github.io/embargo-calend
  ar/embargoes-by-publication.html.\n\nPle
  ase note: This information was correct a
- s of this afternoon at 23:07, it is upda
+ s of this afternoon at 22:37, it is upda
  ted each night; therefore any subsequent
   updates may not yet be visible here. Al
  so, please be aware that the different r
@@ -2793,7 +2790,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=91444d6d-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -2829,7 +2826,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  https://oecd.github.io/embargo-calendar/
  embargoes-by-publication.html.\n\nPlease
   note: This information was correct as o
- f this afternoon at 23:07, it is updated
+ f this afternoon at 22:37, it is updated
   each night; therefore any subsequent up
  dates may not yet be visible here. Also,
   please be aware that the different rele
@@ -2838,7 +2835,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=e8c91348-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -2870,7 +2867,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  tps://oecd.github.io/embargo-calendar/em
  bargoes-by-publication.html.\n\nPlease n
  ote: This information was correct as of 
- this afternoon at 23:07, it is updated e
+ this afternoon at 22:37, it is updated e
  ach night; therefore any subsequent upda
  tes may not yet be visible here. Also, p
  lease be aware that the different releas
@@ -2879,7 +2876,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7a70af5c-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -2913,7 +2910,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:07, it is updated 
+  this afternoon at 22:37, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -2922,7 +2919,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=209a879e-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -2958,7 +2955,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ee: https://oecd.github.io/embargo-calen
  dar/embargoes-by-publication.html.\n\nPl
  ease note: This information was correct 
- as of this afternoon at 23:07, it is upd
+ as of this afternoon at 22:37, it is upd
  ated each night; therefore any subsequen
  t updates may not yet be visible here. A
  lso, please be aware that the different 
@@ -2967,7 +2964,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=60ce67fd-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3003,7 +3000,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:07, it is updated ea
+ his afternoon at 22:37, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -3012,7 +3009,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e8f0b2dc-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3048,7 +3045,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  : https://oecd.github.io/embargo-calenda
  r/embargoes-by-publication.html.\n\nPlea
  se note: This information was correct as
-  of this afternoon at 23:07, it is updat
+  of this afternoon at 22:37, it is updat
  ed each night; therefore any subsequent 
  updates may not yet be visible here. Als
  o, please be aware that the different re
@@ -3057,7 +3054,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=ce4c7713-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3093,7 +3090,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:07, it is updated 
+  this afternoon at 22:37, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -3102,7 +3099,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=c2a27d30-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3138,7 +3135,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ps://oecd.github.io/embargo-calendar/emb
  argoes-by-publication.html.\n\nPlease no
  te: This information was correct as of t
- his afternoon at 23:07, it is updated ea
+ his afternoon at 22:37, it is updated ea
  ch night; therefore any subsequent updat
  es may not yet be visible here. Also, pl
  ease be aware that the different release
@@ -3147,7 +3144,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  455cdb02-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3183,7 +3180,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  ttps://oecd.github.io/embargo-calendar/e
  mbargoes-by-publication.html.\n\nPlease 
  note: This information was correct as of
-  this afternoon at 23:07, it is updated 
+  this afternoon at 22:37, it is updated 
  each night; therefore any subsequent upd
  ates may not yet be visible here. Also, 
  please be aware that the different relea
@@ -3192,7 +3189,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=058698af-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -3228,7 +3225,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  s://oecd.github.io/embargo-calendar/emba
  rgoes-by-publication.html.\n\nPlease not
  e: This information was correct as of th
- is afternoon at 23:07, it is updated eac
+ is afternoon at 22:37, it is updated eac
  h night; therefore any subsequent update
  s may not yet be visible here. Also, ple
  ase be aware that the different released
@@ -3237,7 +3234,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=1
  d3cc7cf-en.
-DTSTAMP:20250128T230728Z
+DTSTAMP:20250129T223756Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT

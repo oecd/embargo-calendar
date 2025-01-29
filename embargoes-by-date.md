@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 28 January 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 29 January 2025 at 22:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [27 January 2025](#27-january-2025)
 * [28 January 2025](#28-january-2025)
 * [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
@@ -16,33 +15,6 @@ Data generated on | |
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
 * [4 March 2025](#4-march-2025)
-
-------
-
-# 27 January 2025
-
-## [Superstars, shooting stars, and the labour share - Cross-country evidence](https://doi.org/10.1787/ecb32e77-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 27 January 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -124,6 +96,29 @@ Friday 31 January 2025 at 10:00 | no launch event
 ------
 
 # 3 February 2025
+
+## [VITARA Reference Guide: The Audit Program](https://doi.org/10.1787/3c674401-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 3 February 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [EU Country Cancer Profile: Norway 2025](https://doi.org/10.1787/bf26204a-en)
 
@@ -1471,7 +1466,7 @@ Tuesday 4 February 2025 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1480,7 +1475,7 @@ Tuesday 4 February 2025 at 8:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -1692,7 +1687,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1715,7 +1710,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1761,7 +1756,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1784,7 +1779,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1807,7 +1802,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1830,7 +1825,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1853,7 +1848,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1876,7 +1871,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1899,7 +1894,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -1922,7 +1917,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
 
