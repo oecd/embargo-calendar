@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 29 January 2025 at 22:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 30 January 2025 at 22:45* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 January 2025](#28-january-2025)
-* [31 January 2025](#31-january-2025)
 * [3 February 2025](#3-february-2025)
 * [4 February 2025](#4-february-2025)
 * [7 February 2025](#7-february-2025)
@@ -14,84 +12,9 @@ Data generated on | |
 * [19 February 2025](#19-february-2025)
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
+* [28 February 2025](#28-february-2025)
 * [4 March 2025](#4-march-2025)
-
-------
-
-# 28 January 2025
-
-## [OECD Monitoring Framework to Measure Homelessness](https://doi.org/10.1787/3e98455b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 January 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Transforming Catalonia’s Mobility System for Net Zero](https://doi.org/10.1787/1cac3681-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 28 January 2025 at 15:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 31 January 2025
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 31 January 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+* [10 March 2025](#10-march-2025)
 
 ------
 
@@ -1504,7 +1427,7 @@ Friday 7 February 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF*
 
 ------
 
@@ -1663,6 +1586,33 @@ Sunday 23 February 2025 at 23:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 28 February 2025
+
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 February 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -1919,6 +1869,33 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+------
+
+# 10 March 2025
+
+## [OECD Economic Surveys: Costa Rica 2025](https://doi.org/10.1787/048cf07b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 March 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
