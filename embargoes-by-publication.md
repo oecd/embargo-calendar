@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 30 January 2025 at 22:45* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 31 January 2025 at 22:34* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [VITARA Reference Guide: The Audit Program](https://doi.org/10.1787/3c674401-en)
 
@@ -1361,6 +1361,29 @@ Monday 3 February 2025 at 8:00 | no launch event
 
 ------
 
+## [Strengthening the evidence base for a sustainable tourism future in Slovenia - A tailored set of sustainability indicators](https://doi.org/10.1787/12e6bf3e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Poland 2025](https://doi.org/10.1787/483d3bb9-en)
 
 Embargo date | Launch date
@@ -1840,6 +1863,75 @@ Monday 10 March 2025 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Estudios Económicos de la OCDE: Costa Rica 2025](https://doi.org/10.1787/e6d0420b-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 March 2025 at 11:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Outlook, Interim Report March 2025](https://doi.org/10.1787/89af4857-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Getting the Public on Side - How to Make Reforms Acceptable by Design](https://doi.org/10.1787/262255fd-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 March 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
