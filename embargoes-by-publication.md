@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 31 January 2025 at 22:34* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 2 February 2025 at 22:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [VITARA Reference Guide: The Audit Program](https://doi.org/10.1787/3c674401-en)
 
