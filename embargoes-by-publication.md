@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 February 2025 at 22:36* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 3 February 2025 at 22:38* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [VITARA Reference Guide: The Audit Program](https://doi.org/10.1787/3c674401-en)
 
@@ -1361,6 +1361,29 @@ Monday 3 February 2025 at 8:00 | no launch event
 
 ------
 
+## [How Governments Back the Largest Manufacturing Firms - Insights from the OECD MAGIC Database](https://doi.org/10.1787/d93ed7db-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 February 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Strengthening the evidence base for a sustainable tourism future in Slovenia - A tailored set of sustainability indicators](https://doi.org/10.1787/12e6bf3e-en)
 
 Embargo date | Launch date
@@ -1447,7 +1470,7 @@ Tuesday 11 February 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -1476,11 +1499,11 @@ Tuesday 11 February 2025 at 10:00 | no launch event
 
 ------
 
-## [OECD Economics Survey: Ireland 2025](https://doi.org/10.1787/9a368560-en)
+## [OECD Economic Surveys: Ireland 2025](https://doi.org/10.1787/9a368560-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 13 February 2025 at 9:00 | no launch event
+Wednesday 12 February 2025 at 13:00 | no launch event
 
 ### Status Information
 
@@ -1516,7 +1539,7 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -1933,5 +1956,28 @@ Wednesday 26 March 2025 at 8:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Lithuania 2025](https://doi.org/10.1787/4abf1ea5-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 March 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
 
 ------
