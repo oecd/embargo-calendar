@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 February 2025 at 22:38* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 4 February 2025 at 22:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [VITARA Reference Guide: The Audit Program](https://doi.org/10.1787/3c674401-en)
 
@@ -1637,6 +1637,29 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 ------
 
+## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Burkina Faso (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/acbd282d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Dominica (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/e8c91348-en)
 
 Embargo date | Launch date
@@ -1654,6 +1677,29 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Bénin (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/cb8de055-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -1867,6 +1913,52 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 ------
 
+## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Sénégal (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/9fc890b6-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Korea's Unborn Future - Understanding Low-Fertility Trends](https://doi.org/10.1787/005ce8f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 5 March 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Economic Surveys: Costa Rica 2025](https://doi.org/10.1787/048cf07b-en)
 
 Embargo date | Launch date
@@ -1910,6 +2002,29 @@ Tuesday 11 March 2025 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Sweden 2025](https://doi.org/10.1787/91dcc109-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 12 March 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
