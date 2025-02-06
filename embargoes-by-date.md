@@ -2,15 +2,16 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 February 2025 at 22:37* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 February 2025 at 22:37* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 February 2025](#4-february-2025)
 * [7 February 2025](#7-february-2025)
 * [11 February 2025](#11-february-2025)
 * [12 February 2025](#12-february-2025)
+* [17 February 2025](#17-february-2025)
 * [19 February 2025](#19-february-2025)
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
+* [26 February 2025](#26-february-2025)
 * [28 February 2025](#28-february-2025)
 * [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
@@ -20,83 +21,34 @@ Data generated on | |
 * [17 March 2025](#17-march-2025)
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
-
-------
-
-# 4 February 2025
-
-## [How Governments Back the Largest Manufacturing Firms - Insights from the OECD MAGIC Database](https://doi.org/10.1787/d93ed7db-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 February 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Strengthening the evidence base for a sustainable tourism future in Slovenia - A tailored set of sustainability indicators](https://doi.org/10.1787/12e6bf3e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Poland 2025](https://doi.org/10.1787/483d3bb9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 February 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+* [31 March 2025](#31-march-2025)
 
 ------
 
 # 7 February 2025
+
+## [Perspectives mondiales du financement du développement durable 2025 - Vers une architecture plus résiliente et inclusive](https://doi.org/10.1787/1af1c624-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 7 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [Global Outlook on Financing for Sustainable Development 2025 - Towards a more resilient and inclusive architecture](https://doi.org/10.1787/753d5368-en)
 
@@ -106,7 +58,7 @@ Friday 7 February 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -115,9 +67,9 @@ Friday 7 February 2025 at 8:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -145,29 +97,6 @@ Tuesday 11 February 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 February 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -200,6 +129,33 @@ Wednesday 12 February 2025 at 13:00 | no launch event
 
 ------
 
+# 17 February 2025
+
+## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 February 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 19 February 2025
 
 ## [OECD Review of Fisheries 2025](https://doi.org/10.1787/560cd8fc-en)
@@ -210,7 +166,7 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -276,6 +232,56 @@ Sunday 23 February 2025 at 23:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 26 February 2025
+
+## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, February 2025)](https://doi.org/10.1787/5598c085-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Rapport du Secrétaire général de l’OCDE aux ministres des Finances et gouverneurs de banque centrale des pays du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Afrique du Sud, février 2025)](https://doi.org/10.1787/1a283b89-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *General Secretariat*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -817,6 +823,33 @@ Friday 28 March 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 31 March 2025
+
+## [Improving Policy Coherence for Portugal’s Ocean Economy - A Strategic Plan for Natural Resources, Safety and Maritime Services](https://doi.org/10.1787/0b539499-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 March 2025 at 18:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
