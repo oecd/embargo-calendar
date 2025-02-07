@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 February 2025 at 22:37* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 7 February 2025 at 22:36* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Perspectives mondiales du financement du développement durable 2025 - Vers une architecture plus résiliente et inclusive](https://doi.org/10.1787/1af1c624-fr)
 
@@ -27,7 +27,7 @@ Friday 7 February 2025 at 8:00 | no launch event
 
 ------
 
-## [Global Outlook on Financing for Sustainable Development 2025 - Towards a more resilient and inclusive architecture](https://doi.org/10.1787/753d5368-en)
+## [Global Outlook on Financing for Sustainable Development 2025 - Towards a More Resilient and Inclusive Architecture](https://doi.org/10.1787/753d5368-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -47,6 +47,29 @@ Friday 7 February 2025 at 8:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Intellectual property issues in artificial intelligence trained on scraped data](https://doi.org/10.1787/d5241a23-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 9 February 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 
