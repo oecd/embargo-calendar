@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 February 2025 at 22:36* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 9 February 2025 at 22:35* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 February 2025](#7-february-2025)
 * [9 February 2025](#9-february-2025)
 * [11 February 2025](#11-february-2025)
 * [12 February 2025](#12-february-2025)
@@ -23,56 +22,6 @@ Data generated on | |
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
 * [31 March 2025](#31-march-2025)
-
-------
-
-# 7 February 2025
-
-## [Perspectives mondiales du financement du développement durable 2025 - Vers une architecture plus résiliente et inclusive](https://doi.org/10.1787/1af1c624-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-## [Global Outlook on Financing for Sustainable Development 2025 - Towards a More Resilient and Inclusive Architecture](https://doi.org/10.1787/753d5368-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 7 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
