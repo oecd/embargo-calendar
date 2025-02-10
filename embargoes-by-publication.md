@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 9 February 2025 at 22:35* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 10 February 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Intellectual property issues in artificial intelligence trained on scraped data](https://doi.org/10.1787/d5241a23-en)
 
@@ -50,6 +50,29 @@ Tuesday 11 February 2025 at 7:00 | no launch event
 
 ------
 
+## [Trade-related measures linked to the environmental sustainability of agriculture - A stocktake and typology](https://doi.org/10.1787/ebfdca09-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 February 2025 at 23:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Ireland 2025](https://doi.org/10.1787/9a368560-en)
 
 Embargo date | Launch date
@@ -58,7 +81,7 @@ Wednesday 12 February 2025 at 13:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,32 +90,32 @@ Wednesday 12 February 2025 at 13:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
 
-## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
+## [How do consumers interact with environmental sustainability claims on food? - Evidence from 40 countries](https://doi.org/10.1787/0587c663-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 17 February 2025 at 10:00 | no launch event
+Tuesday 18 February 2025 at 23:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
 
 ### Additional Information
 
-* Directorate: *Centre for Tax Policy and Administration*
+* Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
 
 ------
 
@@ -138,6 +161,29 @@ Thursday 20 February 2025 at 8:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
@@ -668,6 +714,29 @@ Monday 17 March 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
+
+------
+
+## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 21 March 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
 
