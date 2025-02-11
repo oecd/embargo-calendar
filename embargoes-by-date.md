@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 February 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 11 February 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 February 2025](#9-february-2025)
 * [11 February 2025](#11-february-2025)
 * [12 February 2025](#12-february-2025)
 * [18 February 2025](#18-february-2025)
@@ -23,33 +22,6 @@ Data generated on | |
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
 * [31 March 2025](#31-march-2025)
-
-------
-
-# 9 February 2025
-
-## [Intellectual property issues in artificial intelligence trained on scraped data](https://doi.org/10.1787/d5241a23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 9 February 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -176,15 +148,38 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
 # 20 February 2025
+
+## [Zero-Carbon Buildings in Cities - A Whole Life-Cycle Approach](https://doi.org/10.1787/daae8779-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 3:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
 
 ## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
 

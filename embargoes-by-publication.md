@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 February 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Intellectual property issues in artificial intelligence trained on scraped data](https://doi.org/10.1787/d5241a23-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 9 February 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Tuesday 11 February 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Services Trade Restrictiveness Index - Policy Trends up to 2025](https://doi.org/10.1787/9953845b-en)
 
@@ -136,9 +113,32 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Zero-Carbon Buildings in Cities - A Whole Life-Cycle Approach](https://doi.org/10.1787/daae8779-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 3:30 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
