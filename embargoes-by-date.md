@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 February 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 February 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [11 February 2025](#11-february-2025)
 * [12 February 2025](#12-february-2025)
@@ -257,6 +257,29 @@ Sunday 23 February 2025 at 23:00 | no launch event
 ------
 
 # 26 February 2025
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025)](https://doi.org/10.1787/97afc9f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 26 February 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, February 2025)](https://doi.org/10.1787/5598c085-en)
 
