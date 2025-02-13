@@ -2,50 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/9953845b-end3e63
-SUMMARY:[Stand-alone monograph] OECD Services Tr
- ade Restrictiveness Index - Policy Trend
- s up to 2025
-DESCRIPTION:*[Stand-alone monograph] OECD Services T
- rade Restrictiveness Index - Policy Tren
- ds up to 2025*\n\nDirectorate: Trade and
-  Agriculture Directorate\nLanguage: Engl
- ish\nDOI: https://doi.org/10.1787/995384
- 5b-en\nPublication type: Stand-alone mon
- ograph\nReleased as: HTML, PDF, ZJCR, ZX
- ML\n\nEmbargo date/time: Tuesday, 11 Feb
- ruary 2025, 7:00 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:03, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=9953845b-en
- .
-DTSTAMP:20250212T230342Z
-DTSTART:20250211T070000Z
-DTEND:20250211T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT24H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
- ervices Trade Restrictiveness Index - Po
- licy Trends up to 2025
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ebfdca09-end3e332
+UID:10.1787/ebfdca09-end3e63
 SUMMARY:[Working paper] Trade-related measures l
  inked to the environmental sustainabilit
  y of agriculture - A stocktake and typol
@@ -74,7 +31,7 @@ DESCRIPTION:*[Working paper] Trade-related measures
   and up-to-date information see here: ht
  tp://kappa.oecd.org/v3/search?term=ebfdc
  a09-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250211T230000Z
 DTEND:20250211T231500Z
 TRANSP:TRANSPARENT
@@ -90,7 +47,7 @@ DESCRIPTION:Reminder: [Working paper] Trade-related
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9a368560-end3e386
+UID:10.1787/9a368560-end3e117
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Ireland 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -115,7 +72,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=9a36
  8560-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250212T130000Z
 DTEND:20250212T131500Z
 TRANSP:TRANSPARENT
@@ -129,7 +86,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0587c663-end3e439
+UID:10.1787/0587c663-end3e170
 SUMMARY:[Working paper] How do consumers interac
  t with environmental sustainability clai
  ms on food? - Evidence from 40 countries
@@ -157,7 +114,7 @@ DESCRIPTION:*[Working paper] How do consumers intera
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=0587c663
  -en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250218T230000Z
 DTEND:20250218T231500Z
 TRANSP:TRANSPARENT
@@ -173,7 +130,7 @@ DESCRIPTION:Reminder: [Working paper] How do consume
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/560cd8fc-end3e706
+UID:10.1787/560cd8fc-end3e437
 SUMMARY:[Book] OECD Review of Fisheries 2025
 DESCRIPTION:*[Book] OECD Review of Fisheries 2025*\n
  \nDirectorate: Trade and Agriculture Dir
@@ -197,7 +154,7 @@ DESCRIPTION:*[Book] OECD Review of Fisheries 2025*\n
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=560cd8fc-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250219T133000Z
 DTEND:20250219T134500Z
 TRANSP:TRANSPARENT
@@ -211,7 +168,7 @@ DESCRIPTION:Reminder: [Book] OECD Review of Fisherie
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/daae8779-end3e1877
+UID:10.1787/daae8779-end3e1608
 SUMMARY:[Book] Zero-Carbon Buildings in Cities -
   A Whole Life-Cycle Approach
 DESCRIPTION:*[Book] Zero-Carbon Buildings in Cities 
@@ -237,7 +194,7 @@ DESCRIPTION:*[Book] Zero-Carbon Buildings in Cities
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=daae8779-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250220T033000Z
 DTEND:20250220T034500Z
 TRANSP:TRANSPARENT
@@ -251,7 +208,7 @@ DESCRIPTION:Reminder: [Book] Zero-Carbon Buildings i
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c8af05a5-end3e2091
+UID:10.1787/c8af05a5-end3e2460
 SUMMARY:[Stand-alone monograph] Does Healthcare 
  Deliver? - Results from the Patient-Repo
  rted Indicator Surveys (PaRIS)
@@ -266,7 +223,7 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
  argo date/time: Thursday, 20 February 20
  25, 8:00 (GMT)\n\n\niLibrary export: nev
  er\nFreepreview export: never\nOECD.org 
- export: never\nFTI loaded: ✗\n\nFor more
+ export: never\nFTI loaded: ✓\n\nFor more
   information see: https://oecd.github.io
  /embargo-calendar/embargoes-by-publicati
  on.html.\n\nPlease note: This informatio
@@ -279,7 +236,7 @@ DESCRIPTION:*[Stand-alone monograph] Does Healthcare
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=c8af05a5-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250220T080000Z
 DTEND:20250220T081500Z
 TRANSP:TRANSPARENT
@@ -294,7 +251,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Does H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/182b47ad-end3e2198
+UID:10.1787/182b47ad-end3e2622
 SUMMARY:[Book] Consolidated Report on Amount B -
   Inclusive Framework on BEPS
 DESCRIPTION:*[Book] Consolidated Report on Amount B 
@@ -302,25 +259,24 @@ DESCRIPTION:*[Book] Consolidated Report on Amount B
  orate: Centre for Tax Policy and Adminis
  tration\nLanguage: English\nDOI: https:/
  /doi.org/10.1787/182b47ad-en\nPublicatio
- n type: Book\nReleased as: Paperback, PD
- F\n\nEmbargo date/time: Thursday, 20 Feb
- ruary 2025, 10:00 (GMT)\n\n\niLibrary ex
- port: never\nFreepreview export: never\n
- OECD.org export: never\nFTI loaded: ✗\n\
- nFor more information see: https://oecd.
- github.io/embargo-calendar/embargoes-by-
- publication.html.\n\nPlease note: This i
- nformation was correct as of this aftern
- oon at 23:03, it is updated each night; 
- therefore any subsequent updates may not
-  yet be visible here. Also, please be aw
- are that the different released media (P
- DF, HTML, etc.) are not necessarily rele
- ased at the same time. For complete and 
- up-to-date information see here: http://
- kappa.oecd.org/v3/search?term=182b47ad-e
- n.
-DTSTAMP:20250212T230342Z
+ n type: Book\nReleased as: PDF\n\nEmbarg
+ o date/time: Thursday, 20 February 2025,
+  10:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:0
+ 3, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=182b47ad-en.
+DTSTAMP:20250213T230320Z
 DTSTART:20250220T100000Z
 DTEND:20250220T101500Z
 TRANSP:TRANSPARENT
@@ -334,7 +290,7 @@ DESCRIPTION:Reminder: [Book] Consolidated Report on
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/8eb75706-end3e2678
+UID:10.1787/8eb75706-end3e3102
 SUMMARY:[Stand-alone monograph] Measuring Carbon
   Footprints of Agri-Food Products - Eigh
  t Building Blocks
@@ -362,7 +318,7 @@ DESCRIPTION:*[Stand-alone monograph] Measuring Carbo
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=8eb75706-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250223T230000Z
 DTEND:20250223T231500Z
 TRANSP:TRANSPARENT
@@ -377,7 +333,55 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Measur
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/97afc9f7-end3e3318
+UID:10.1787/211e7613-frd3e3742
+SUMMARY:[Report] Rapport sur la fiscalité du Sec
+ rétaire général de l’OCDE à l’intention 
+ des ministres des Finances et des gouver
+ neurs de banque centrale du G20 (G20 Afr
+ ique du Sud, février 2025)
+DESCRIPTION:*[Report] Rapport sur la fiscalité du Se
+ crétaire général de l’OCDE à l’intention
+  des ministres des Finances et des gouve
+ rneurs de banque centrale du G20 (G20 Af
+ rique du Sud, février 2025)*\n\nDirector
+ ate: Centre for Tax Policy and Administr
+ ation\nLanguage: French\nDOI: https://do
+ i.org/10.1787/211e7613-fr\nPublication t
+ ype: Report\nReleased as: PDF\n\nEmbargo
+  date/time: Wednesday, 26 February 2025,
+  7:00 (GMT)\n\n\niLibrary export: never\
+ nFreepreview export: never\nOECD.org exp
+ ort: never\nFTI loaded: ✗\n\nFor more in
+ formation see: https://oecd.github.io/em
+ bargo-calendar/embargoes-by-publication.
+ html.\n\nPlease note: This information w
+ as correct as of this afternoon at 23:03
+ , it is updated each night; therefore an
+ y subsequent updates may not yet be visi
+ ble here. Also, please be aware that the
+  different released media (PDF, HTML, et
+ c.) are not necessarily released at the 
+ same time. For complete and up-to-date i
+ nformation see here: http://kappa.oecd.o
+ rg/v3/search?term=211e7613-fr.
+DTSTAMP:20250213T230320Z
+DTSTART:20250226T070000Z
+DTEND:20250226T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT48H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Report] Rapport sur la fiscal
+ ité du Secrétaire général de l’OCDE à l’
+ intention des ministres des Finances et 
+ des gouverneurs de banque centrale du G2
+ 0 (G20 Afrique du Sud, février 2025)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/97afc9f7-end3e3794
 SUMMARY:[Report] OECD Secretary-General Tax Repo
  rt to G20 Finance Ministers and Central 
  Bank Governors (G20 South Africa, Februa
@@ -406,7 +410,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Tax Rep
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =97afc9f7-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250226T070000Z
 DTEND:20250226T071500Z
 TRANSP:TRANSPARENT
@@ -422,7 +426,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/5598c085-end3e3370
+UID:10.1787/5598c085-end3e3846
 SUMMARY:[Report] OECD Secretary-General Report t
  o G20 Finance Ministers and Central Bank
   Governors on the work of the Inclusive 
@@ -453,7 +457,7 @@ DESCRIPTION:*[Report] OECD Secretary-General Report
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=5
  598c085-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250226T080000Z
 DTEND:20250226T081500Z
 TRANSP:TRANSPARENT
@@ -470,7 +474,7 @@ DESCRIPTION:Reminder: [Report] OECD Secretary-Genera
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1a283b89-frd3e3422
+UID:10.1787/1a283b89-frd3e3898
 SUMMARY:[Report] Rapport du Secrétaire général d
  e l’OCDE aux ministres des Finances et g
  ouverneurs de banque centrale des pays d
@@ -504,7 +508,7 @@ DESCRIPTION:*[Report] Rapport du Secrétaire général
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=1a283b89-fr.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250226T080000Z
 DTEND:20250226T081500Z
 TRANSP:TRANSPARENT
@@ -523,7 +527,7 @@ DESCRIPTION:Reminder: [Report] Rapport du Secrétaire
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a551b351-end3e3475
+UID:10.1787/a551b351-end3e3950
 SUMMARY:[Book] Tax Challenges Arising from the D
  igitalisation of the Economy – Consolida
  ted Commentary to the Global Anti-Base E
@@ -554,7 +558,7 @@ DESCRIPTION:*[Book] Tax Challenges Arising from the
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=a551b351-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250228T100000Z
 DTEND:20250228T101500Z
 TRANSP:TRANSPARENT
@@ -571,7 +575,7 @@ DESCRIPTION:Reminder: [Book] Tax Challenges Arising
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/91444d6d-end3e3528
+UID:10.1787/91444d6d-end3e4003
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Sain
  t Lucia (Stage 1) - Inclusive Framework 
@@ -600,7 +604,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=91444d6d-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -616,7 +620,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/acbd282d-frd3e3581
+UID:10.1787/acbd282d-frd3e4056
 SUMMARY:[Report] Accroître l'efficacité des méca
  nismes de règlement des différends - Exa
  men par les pairs simplifié, Burkina Fas
@@ -647,7 +651,7 @@ DESCRIPTION:*[Report] Accroître l'efficacité des méc
  me. For complete and up-to-date informat
  ion see here: http://kappa.oecd.org/v3/s
  earch?term=acbd282d-fr.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -664,7 +668,7 @@ DESCRIPTION:Reminder: [Report] Accroître l'efficacit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8c91348-end3e3634
+UID:10.1787/e8c91348-end3e4110
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Domi
  nica (Stage 1) - Inclusive Framework on 
@@ -693,7 +697,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  complete and up-to-date information see 
  here: http://kappa.oecd.org/v3/search?te
  rm=e8c91348-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -709,7 +713,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/cb8de055-frd3e3687
+UID:10.1787/cb8de055-frd3e4163
 SUMMARY:[Report] Accroître l'efficacité des méca
  nismes de règlement des différends - Exa
  men par les pairs simplifié, Bénin (Phas
@@ -740,7 +744,7 @@ DESCRIPTION:*[Report] Accroître l'efficacité des méc
   complete and up-to-date information see
   here: http://kappa.oecd.org/v3/search?t
  erm=cb8de055-fr.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -757,7 +761,7 @@ DESCRIPTION:Reminder: [Report] Accroître l'efficacit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7a70af5c-end3e3740
+UID:10.1787/7a70af5c-end3e4216
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Czechia 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -782,7 +786,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  mplete and up-to-date information see he
  re: http://kappa.oecd.org/v3/search?term
  =7a70af5c-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -796,7 +800,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/209a879e-end3e3793
+UID:10.1787/209a879e-end3e4268
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Sene
  gal (Stage 1) - Inclusive Framework on B
@@ -825,7 +829,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=209a879e-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -841,7 +845,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/60ce67fd-end3e3846
+UID:10.1787/60ce67fd-end3e4321
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Burk
  ina Faso (Stage 1) - Inclusive Framework
@@ -870,7 +874,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  For complete and up-to-date information 
  see here: http://kappa.oecd.org/v3/searc
  h?term=60ce67fd-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -886,7 +890,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e8f0b2dc-end3e3951
+UID:10.1787/e8f0b2dc-end3e4427
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Beni
  n (Stage 1) - Inclusive Framework on BEP
@@ -915,7 +919,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  e8f0b2dc-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -931,7 +935,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/ce4c7713-end3e4004
+UID:10.1787/ce4c7713-end3e4480
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Mont
  enegro (Stage 1) - Inclusive Framework o
@@ -960,7 +964,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=ce4c7713-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -976,7 +980,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c2a27d30-end3e4057
+UID:10.1787/c2a27d30-end3e4533
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Gren
  ada (Stage 1) - Inclusive Framework on B
@@ -1005,7 +1009,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=c2a27d30-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -1021,7 +1025,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/455cdb02-end3e4111
+UID:10.1787/455cdb02-end3e4586
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Samo
  a (Stage 1) - Inclusive Framework on BEP
@@ -1050,7 +1054,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  455cdb02-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -1066,7 +1070,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/058698af-end3e4164
+UID:10.1787/058698af-end3e4639
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Icel
  and (Stage 1) - Inclusive Framework on B
@@ -1095,7 +1099,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=058698af-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -1111,7 +1115,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1d3cc7cf-end3e4217
+UID:10.1787/1d3cc7cf-end3e4692
 SUMMARY:[Report] Making Dispute Resolution More 
  Effective – Simplified Peer Review, Peru
   (Stage 1) - Inclusive Framework on BEPS
@@ -1140,7 +1144,7 @@ DESCRIPTION:*[Report] Making Dispute Resolution More
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=1
  d3cc7cf-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -1156,7 +1160,7 @@ DESCRIPTION:Reminder: [Report] Making Dispute Resolu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/9fc890b6-frd3e4270
+UID:10.1787/9fc890b6-frd3e4746
 SUMMARY:[Report] Accroître l'efficacité des méca
  nismes de règlement des différends - Exa
  men par les pairs simplifié, Sénégal (Ph
@@ -1187,7 +1191,7 @@ DESCRIPTION:*[Report] Accroître l'efficacité des méc
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=9fc890b6-fr.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250304T100000Z
 DTEND:20250304T101500Z
 TRANSP:TRANSPARENT
@@ -1204,7 +1208,7 @@ DESCRIPTION:Reminder: [Report] Accroître l'efficacit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/005ce8f7-end3e4323
+UID:10.1787/005ce8f7-end3e4799
 SUMMARY:[Stand-alone monograph] Korea's Unborn F
  uture - Understanding Low-Fertility Tren
  ds
@@ -1231,7 +1235,7 @@ DESCRIPTION:*[Stand-alone monograph] Korea's Unborn
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=005
  ce8f7-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250305T080000Z
 DTEND:20250305T081500Z
 TRANSP:TRANSPARENT
@@ -1246,7 +1250,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Korea'
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/048cf07b-end3e4430
+UID:10.1787/048cf07b-end3e4905
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Costa Rica 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1271,7 +1275,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=048cf07
  b-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250310T230000Z
 DTEND:20250310T231500Z
 TRANSP:TRANSPARENT
@@ -1285,7 +1289,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e6d0420b-esd3e4482
+UID:10.1787/e6d0420b-esd3e4957
 SUMMARY:[Economic survey] Estudios Económicos de
   la OCDE: Costa Rica 2025
 DESCRIPTION:*[Economic survey] Estudios Económicos d
@@ -1310,7 +1314,7 @@ DESCRIPTION:*[Economic survey] Estudios Económicos d
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=e6d0420b-es.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250311T110000Z
 DTEND:20250311T111500Z
 TRANSP:TRANSPARENT
@@ -1324,7 +1328,7 @@ DESCRIPTION:Reminder: [Economic survey] Estudios Eco
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/91dcc109-end3e4586
+UID:10.1787/91dcc109-end3e5062
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Sweden 2025
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -1349,7 +1353,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=91dcc109-en
  .
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250312T090000Z
 DTEND:20250312T091500Z
 TRANSP:TRANSPARENT
@@ -1363,7 +1367,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/89af4857-end3e4638
+UID:10.1787/89af4857-end3e5114
 SUMMARY:[Issue] OECD Economic Outlook, Interim R
  eport March 2025
 DESCRIPTION:*[Issue] OECD Economic Outlook, Interim 
@@ -1387,7 +1391,7 @@ DESCRIPTION:*[Issue] OECD Economic Outlook, Interim
   the same time. For complete and up-to-d
  ate information see here: http://kappa.o
  ecd.org/v3/search?term=89af4857-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250317T100000Z
 DTEND:20250317T101500Z
 TRANSP:TRANSPARENT
@@ -1401,7 +1405,7 @@ DESCRIPTION:Reminder: [Issue] OECD Economic Outlook,
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/583cab4c-end3e4690
+UID:10.1787/583cab4c-end3e5166
 SUMMARY:[Book] OECD Environmental Performance Re
  views: Japan 2025
 DESCRIPTION:*[Book] OECD Environmental Performance R
@@ -1426,7 +1430,7 @@ DESCRIPTION:*[Book] OECD Environmental Performance R
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=583c
  ab4c-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250321T070000Z
 DTEND:20250321T071500Z
 TRANSP:TRANSPARENT
@@ -1440,7 +1444,7 @@ DESCRIPTION:Reminder: [Book] OECD Environmental Perf
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/262255fd-end3e4793
+UID:10.1787/262255fd-end3e5268
 SUMMARY:[Stand-alone monograph] Getting the Publ
  ic on Side - How to Make Reforms Accepta
  ble by Design
@@ -1468,7 +1472,7 @@ DESCRIPTION:*[Stand-alone monograph] Getting the Pub
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=262255fd-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250326T080000Z
 DTEND:20250326T081500Z
 TRANSP:TRANSPARENT
@@ -1483,7 +1487,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Gettin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4abf1ea5-end3e4846
+UID:10.1787/4abf1ea5-end3e5321
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Lithuania 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -1508,7 +1512,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=4abf1ea5-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250328T080000Z
 DTEND:20250328T081500Z
 TRANSP:TRANSPARENT
@@ -1522,7 +1526,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b539499-end3e4950
+UID:10.1787/0b539499-end3e5426
 SUMMARY:[Stand-alone monograph] Improving Policy
   Coherence for Portugal’s Ocean Economy 
  - A Strategic Plan for Natural Resources
@@ -1552,7 +1556,7 @@ DESCRIPTION:*[Stand-alone monograph] Improving Polic
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=0b5
  39499-en.
-DTSTAMP:20250212T230342Z
+DTSTAMP:20250213T230320Z
 DTSTART:20250331T180000Z
 DTEND:20250331T181500Z
 TRANSP:TRANSPARENT
