@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 February 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Trade-related measures linked to the environmental sustainability of agriculture - A stocktake and typology](https://doi.org/10.1787/ebfdca09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Ireland 2025](https://doi.org/10.1787/9a368560-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 February 2025 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Friday 14 February 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do consumers interact with environmental sustainability claims on food? - Evidence from 40 countries](https://doi.org/10.1787/0587c663-en)
 
@@ -136,9 +90,9 @@ Thursday 20 February 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -161,7 +115,7 @@ Thursday 20 February 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -284,7 +238,7 @@ Wednesday 26 February 2025 at 8:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 28 February 2025 at 10:00 | no launch event
+Monday 3 March 2025 at 10:00 | no launch event
 
 ### Status Information
 

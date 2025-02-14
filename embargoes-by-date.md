@@ -2,16 +2,14 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 February 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 14 February 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [11 February 2025](#11-february-2025)
-* [12 February 2025](#12-february-2025)
 * [18 February 2025](#18-february-2025)
 * [19 February 2025](#19-february-2025)
 * [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
 * [26 February 2025](#26-february-2025)
-* [28 February 2025](#28-february-2025)
+* [3 March 2025](#3-march-2025)
 * [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
 * [10 March 2025](#10-march-2025)
@@ -22,60 +20,6 @@ Data generated on | |
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
 * [31 March 2025](#31-march-2025)
-
-------
-
-# 11 February 2025
-
-## [Trade-related measures linked to the environmental sustainability of agriculture - A stocktake and typology](https://doi.org/10.1787/ebfdca09-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 11 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-------
-
-# 12 February 2025
-
-## [OECD Economic Surveys: Ireland 2025](https://doi.org/10.1787/9a368560-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 February 2025 at 13:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -175,9 +119,9 @@ Thursday 20 February 2025 at 8:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -200,7 +144,7 @@ Thursday 20 February 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -329,13 +273,13 @@ Wednesday 26 February 2025 at 8:00 | no launch event
 
 ------
 
-# 28 February 2025
+# 3 March 2025
 
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Friday 28 February 2025 at 10:00 | no launch event
+Monday 3 March 2025 at 10:00 | no launch event
 
 ### Status Information
 
