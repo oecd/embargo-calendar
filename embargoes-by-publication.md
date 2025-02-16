@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 February 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 16 February 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do consumers interact with environmental sustainability claims on food? - Evidence from 40 countries](https://doi.org/10.1787/0587c663-en)
 
