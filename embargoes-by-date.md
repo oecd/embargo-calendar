@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 February 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 17 February 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 February 2025](#18-february-2025)
 * [19 February 2025](#19-february-2025)
@@ -75,6 +75,29 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 ------
 
+## [Examen de l’OCDE sur les pêches 2025](https://doi.org/10.1787/a6e0eefb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 February 2025 at 13:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ------
 
 # 20 February 2025
@@ -102,11 +125,34 @@ Thursday 20 February 2025 at 3:30 | no launch event
 
 ------
 
+## [Les systèmes de santé tiennent-ils leurs promesses ? - Résultats de l’enquête PaRIS sur les indicateurs fondés sur les déclarations des patients](https://doi.org/10.1787/81af0784-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 February 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Employment, Labour and Social Affairs*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 20 February 2025 at 8:00 | no launch event
+Thursday 20 February 2025 at 9:00 | no launch event
 
 ### Status Information
 
