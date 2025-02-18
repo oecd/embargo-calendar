@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 17 February 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 18 February 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 February 2025](#18-february-2025)
 * [19 February 2025](#19-february-2025)
@@ -83,7 +83,7 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -92,7 +92,7 @@ Wednesday 19 February 2025 at 13:30 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -125,7 +125,7 @@ Thursday 20 February 2025 at 3:30 | no launch event
 
 ------
 
-## [Les systèmes de santé tiennent-ils leurs promesses ? - Résultats de l’enquête PaRIS sur les indicateurs fondés sur les déclarations des patients](https://doi.org/10.1787/81af0784-fr)
+## [Les systèmes de santé tiennent-ils leurs promesses ? - Résultats de l’enquête PaRIS fondés sur les déclarations des patients](https://doi.org/10.1787/81af0784-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -142,7 +142,7 @@ Thursday 20 February 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -826,7 +826,7 @@ Friday 21 March 2025 at 7:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -889,6 +889,29 @@ Friday 28 March 2025 at 8:00 | no launch event
 ------
 
 # 31 March 2025
+
+## [The Ocean Economy to 2050](https://doi.org/10.1787/a9096fb1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 31 March 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Improving Policy Coherence for Portugal’s Ocean Economy - A Strategic Plan for Natural Resources, Safety and Maritime Services](https://doi.org/10.1787/0b539499-en)
 

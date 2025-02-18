@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-02-17T23:02:30.7887393+01:00">
+<report name="official-embargoes" generated="2025-02-18T23:03:51.4080723+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -307,7 +307,7 @@
     <cell name="subtitle"/>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-02-19</cell>
     <cell name="embargo date">2025-02-19T13:30:00Z</cell>
     <cell name="launch date/time"/>
@@ -317,7 +317,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c21522c</cell>
   </row>
   <row index="16">
@@ -904,10 +904,10 @@
     <cell name="directorate">Directorate for Employment, Labour and Social Affairs</cell>
     <cell name="doi">10.1787/81af0784-fr</cell>
     <cell name="title">Les systèmes de santé tiennent-ils leurs promesses ? (fr)</cell>
-    <cell name="subtitle">Résultats de l’enquête PaRIS sur les indicateurs fondés sur les déclarations des patients (fr)</cell>
+    <cell name="subtitle">Résultats de l’enquête PaRIS fondés sur les déclarations des patients (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-02-20</cell>
     <cell name="embargo date">2025-02-20T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -2027,8 +2027,8 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-03-21</cell>
     <cell name="embargo date">2025-03-21T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2047,8 +2047,8 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-03-21</cell>
     <cell name="embargo date">2025-03-21T07:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
@@ -2121,6 +2121,46 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc0a733d</cell>
   </row>
   <row index="106">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a9096fb1-en</cell>
+    <cell name="title">The Ocean Economy to 2050 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-03-31T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57182519</cell>
+  </row>
+  <row index="107">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/a9096fb1-en</cell>
+    <cell name="title">The Ocean Economy to 2050 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-03-31T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/836584ef</cell>
+  </row>
+  <row index="108">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
@@ -2140,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8212cb7</cell>
   </row>
-  <row index="107">
+  <row index="109">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
