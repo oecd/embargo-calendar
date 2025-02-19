@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 February 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 19 February 2025 at 23:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [How do consumers interact with environmental sustainability claims on food? - Evidence from 40 countries](https://doi.org/10.1787/0587c663-en)
 
@@ -104,7 +104,7 @@ Thursday 20 February 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +113,7 @@ Thursday 20 February 2025 at 9:00 | no launch event
 
 * Directorate: *Directorate for Employment, Labour and Social Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
@@ -142,29 +142,6 @@ Thursday 20 February 2025 at 9:00 | no launch event
 
 ------
 
-## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
 ## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
 
 Embargo date | Launch date
@@ -188,38 +165,15 @@ Sunday 23 February 2025 at 23:00 | no launch event
 
 ------
 
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
+## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 26 February 2025 at 7:00 | no launch event
+Monday 24 February 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025)](https://doi.org/10.1787/97afc9f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 February 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -228,9 +182,9 @@ Wednesday 26 February 2025 at 7:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -280,11 +234,34 @@ Wednesday 26 February 2025 at 8:00 | no launch event
 
 ------
 
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 3 March 2025 at 10:00 | no launch event
+Thursday 27 February 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025)](https://doi.org/10.1787/97afc9f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 27 February 2025 at 8:00 | no launch event
 
 ### Status Information
 
@@ -298,7 +275,7 @@ Monday 3 March 2025 at 10:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Not yet available*
-* Type of publication: *Book*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -648,6 +625,29 @@ Wednesday 5 March 2025 at 8:00 | no launch event
 
 ------
 
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Costa Rica 2025](https://doi.org/10.1787/048cf07b-en)
 
 Embargo date | Launch date
@@ -851,6 +851,29 @@ Monday 31 March 2025 at 18:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Regulatory Policy Outlook 2025](https://doi.org/10.1787/56b60e39-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------

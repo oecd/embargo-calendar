@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-02-18T23:03:51.4080723+01:00">
+<report name="official-embargoes" generated="2025-02-19T23:52:35.7323413+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -907,7 +907,7 @@
     <cell name="subtitle">Résultats de l’enquête PaRIS fondés sur les déclarations des patients (fr)</cell>
     <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-02-20</cell>
     <cell name="embargo date">2025-02-20T09:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -917,7 +917,7 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ee0bc0b</cell>
   </row>
   <row index="46">
@@ -1041,46 +1041,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e95f96b8</cell>
   </row>
   <row index="52">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/182b47ad-en</cell>
-    <cell name="title">Consolidated Report on Amount B (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-02-20</cell>
-    <cell name="embargo date">2025-02-20T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4b68464</cell>
-  </row>
-  <row index="53">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/182b47ad-en</cell>
-    <cell name="title">Consolidated Report on Amount B (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-02-20</cell>
-    <cell name="embargo date">2025-02-20T10:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20a3a530</cell>
-  </row>
-  <row index="54">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5a91da17-en</cell>
     <cell name="title">Reporting standards and guidelines for carbon footprint measurement (en)</cell>
@@ -1100,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b7305f4d</cell>
   </row>
-  <row index="55">
+  <row index="53">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6bd154ea-en</cell>
     <cell name="title">Communicating carbon footprint data along the supply chain (en)</cell>
@@ -1120,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ed49717</cell>
   </row>
-  <row index="56">
+  <row index="54">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ac4017d7-en</cell>
     <cell name="title">Scaling up carbon footprints while keeping costs low (en)</cell>
@@ -1140,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8c702425</cell>
   </row>
-  <row index="57">
+  <row index="55">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/15eaead0-en</cell>
     <cell name="title">Preface (en)</cell>
@@ -1160,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1813bc49</cell>
   </row>
-  <row index="58">
+  <row index="56">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/95f66c72-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -1180,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f3c0673</cell>
   </row>
-  <row index="59">
+  <row index="57">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8eb75706-en</cell>
     <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
@@ -1200,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/797ade96</cell>
   </row>
-  <row index="60">
+  <row index="58">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8eb75706-en</cell>
     <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
@@ -1220,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/333e4069</cell>
   </row>
-  <row index="61">
+  <row index="59">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b9606b5b-en</cell>
     <cell name="title">Background: Four findings about GHG emissions in food systems (en)</cell>
@@ -1240,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54b13493</cell>
   </row>
-  <row index="62">
+  <row index="60">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8eb75706-en</cell>
     <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
@@ -1260,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6afda899</cell>
   </row>
-  <row index="63">
+  <row index="61">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/92af3714-en</cell>
     <cell name="title">Conclusion (en)</cell>
@@ -1280,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8208fa08</cell>
   </row>
-  <row index="64">
+  <row index="62">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/0de54e0d-en</cell>
     <cell name="title">Ensuring the integrity and quality of the data (en)</cell>
@@ -1300,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/186a1a89</cell>
   </row>
-  <row index="65">
+  <row index="63">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/83e33038-en</cell>
     <cell name="title">Science-based methods (en)</cell>
@@ -1320,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd44fc9d</cell>
   </row>
-  <row index="66">
+  <row index="64">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8eb75706-en</cell>
     <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
@@ -1340,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6546f008</cell>
   </row>
-  <row index="67">
+  <row index="65">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/9183a4af-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1360,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0f2df7cc</cell>
   </row>
-  <row index="68">
+  <row index="66">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/a8c9fef2-en</cell>
     <cell name="title">Updating as new scientific insights and techniques become available (en)</cell>
@@ -1380,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cd72277a</cell>
   </row>
-  <row index="69">
+  <row index="67">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/35aeca83-en</cell>
     <cell name="title">Databases with secondary data (en)</cell>
@@ -1400,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36854e50</cell>
   </row>
-  <row index="70">
+  <row index="68">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/41c65f48-en</cell>
     <cell name="title">Farm level calculation tools (en)</cell>
@@ -1420,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4234e20</cell>
   </row>
-  <row index="71">
+  <row index="69">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8eb75706-en</cell>
     <cell name="title">Measuring Carbon Footprints of Agri-Food Products (en)</cell>
@@ -1440,7 +1400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52e97b10</cell>
   </row>
-  <row index="72">
+  <row index="70">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e82edc6b-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -1460,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5ff80570</cell>
   </row>
-  <row index="73">
+  <row index="71">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1e350cf5-en</cell>
     <cell name="title">Towards reliable and widespread carbon footprints in food systems (en)</cell>
@@ -1480,47 +1440,447 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee8f9ea5</cell>
   </row>
-  <row index="74">
+  <row index="72">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/211e7613-fr</cell>
-    <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025) (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication"/>
-    <cell name="embargo date">2025-02-26T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a6b1595</cell>
-  </row>
-  <row index="75">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/97afc9f7-en</cell>
-    <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025) (en)</cell>
+    <cell name="doi">10.1787/7064b7ba-en</cell>
+    <cell name="title">Statement on the definition of covered jurisdiction for the Inclusive Framework political commitment on Amount B (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-02-26</cell>
-    <cell name="embargo date">2025-02-26T07:00:00Z</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Report</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82fa3213</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e29f9088</cell>
+  </row>
+  <row index="73">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/f12fb9a0-en</cell>
+    <cell name="title">Statement on the definitions of qualifying jurisdiction within the meaning of section 5.2 and section 5.3 of the simplified and streamlined approach (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71214fb1</cell>
+  </row>
+  <row index="74">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/af4d3a3f-en</cell>
+    <cell name="title">Transactions in scope (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1c7d0a79</cell>
+  </row>
+  <row index="75">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/11121e23-en</cell>
+    <cell name="title">Application of the most appropriate method principle to in-scope transactions (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d8cb83f</cell>
   </row>
   <row index="76">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/182b47ad-en</cell>
+    <cell name="title">Consolidated Report on Amount B (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4b68464</cell>
+  </row>
+  <row index="77">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/54bf93bb-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e1fd02c5</cell>
+  </row>
+  <row index="78">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/8f64edbe-en</cell>
+    <cell name="title">Reader’s Guide on the Consolidated report on Amount B (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/45bb3d37</cell>
+  </row>
+  <row index="79">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/96893f3d-en</cell>
+    <cell name="title">Determining the return under the simplified and streamlined approach (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b5ac91b1</cell>
+  </row>
+  <row index="80">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/182b47ad-en</cell>
+    <cell name="title">Consolidated Report on Amount B (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/20a3a530</cell>
+  </row>
+  <row index="81">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/4526994e-en</cell>
+    <cell name="title">Special considerations for baseline distribution activities (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b0670cd4</cell>
+  </row>
+  <row index="82">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9a324ee0-en</cell>
+    <cell name="title">Introduction to the Model Competent Authority Agreement on Amount B (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/36673b09</cell>
+  </row>
+  <row index="83">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/5acba54d-en</cell>
+    <cell name="title">Documentation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d8182a1</cell>
+  </row>
+  <row index="84">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/c5849654-en</cell>
+    <cell name="title">Model Competent Authority Agreement on the Application of the Simplified and Streamlined Approach (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a30fda73</cell>
+  </row>
+  <row index="85">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/182b47ad-en</cell>
+    <cell name="title">Consolidated Report on Amount B (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f9f1695</cell>
+  </row>
+  <row index="86">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a47f6aae-en</cell>
+    <cell name="title">Introduction (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39010ee9</cell>
+  </row>
+  <row index="87">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7401462b-en</cell>
+    <cell name="title">Introduction on Amount B (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/feb2d934</cell>
+  </row>
+  <row index="88">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/9a38bc9e-en</cell>
+    <cell name="title">Tax certainty and elimination of double taxation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f20dfde</cell>
+  </row>
+  <row index="89">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/182b47ad-en</cell>
+    <cell name="title">Consolidated Report on Amount B (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/779354b5</cell>
+  </row>
+  <row index="90">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/70acac54-en</cell>
+    <cell name="title">Considerations regarding the application of the simplified and streamlined approach. (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2629ecfa</cell>
+  </row>
+  <row index="91">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/e111ebf8-en</cell>
+    <cell name="title">Transitional issues (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c3f46fa</cell>
+  </row>
+  <row index="92">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/1f78eabb-en</cell>
+    <cell name="title">Executive Summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02600450</cell>
+  </row>
+  <row index="93">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/182b47ad-en</cell>
+    <cell name="title">Consolidated Report on Amount B (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-24</cell>
+    <cell name="embargo date">2025-02-24T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ddcb2e96</cell>
+  </row>
+  <row index="94">
     <cell name="directorate">General Secretariat</cell>
     <cell name="doi">10.1787/5598c085-en</cell>
     <cell name="title">OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, February 2025) (en)</cell>
@@ -1540,7 +1900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/daa48d40</cell>
   </row>
-  <row index="77">
+  <row index="95">
     <cell name="directorate">General Secretariat</cell>
     <cell name="doi">10.1787/1a283b89-fr</cell>
     <cell name="title">Rapport du Secrétaire général de l’OCDE aux ministres des Finances et gouverneurs de banque centrale des pays du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Afrique du Sud, février 2025) (fr)</cell>
@@ -1560,27 +1920,47 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ba37d8e9</cell>
   </row>
-  <row index="78">
+  <row index="96">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/a551b351-en</cell>
-    <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) (en)</cell>
-    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
-    <cell name="language">English</cell>
+    <cell name="doi">10.1787/211e7613-fr</cell>
+    <cell name="title">Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025) (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
     <cell name="medium">PDF</cell>
     <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-03-03</cell>
-    <cell name="embargo date">2025-03-03T10:00:00Z</cell>
+    <cell name="date of publication">2025-02-27</cell>
+    <cell name="embargo date">2025-02-27T08:00:00Z</cell>
     <cell name="launch date/time"/>
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
+    <cell name="catalogue type">Report</cell>
     <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc278040</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9a6b1595</cell>
   </row>
-  <row index="79">
+  <row index="97">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/97afc9f7-en</cell>
+    <cell name="title">OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-02-27</cell>
+    <cell name="embargo date">2025-02-27T08:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/82fa3213</cell>
+  </row>
+  <row index="98">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/91444d6d-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Saint Lucia (Stage 1) (en)</cell>
@@ -1600,7 +1980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/72d25850</cell>
   </row>
-  <row index="80">
+  <row index="99">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/acbd282d-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Burkina Faso (Phase 1) (fr)</cell>
@@ -1620,7 +2000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5d420b5b</cell>
   </row>
-  <row index="81">
+  <row index="100">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8c91348-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Dominica (Stage 1) (en)</cell>
@@ -1640,7 +2020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ce06d9a5</cell>
   </row>
-  <row index="82">
+  <row index="101">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cb8de055-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Bénin (Phase 1) (fr)</cell>
@@ -1660,7 +2040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3cb80201</cell>
   </row>
-  <row index="83">
+  <row index="102">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7a70af5c-en</cell>
     <cell name="title">OECD Economic Surveys: Czechia 2025 (en)</cell>
@@ -1680,7 +2060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8ac1f889</cell>
   </row>
-  <row index="84">
+  <row index="103">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/209a879e-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Senegal (Stage 1) (en)</cell>
@@ -1700,7 +2080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8dcff3a1</cell>
   </row>
-  <row index="85">
+  <row index="104">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/60ce67fd-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Burkina Faso (Stage 1) (en)</cell>
@@ -1720,7 +2100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37a2b73e</cell>
   </row>
-  <row index="86">
+  <row index="105">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/7a70af5c-en</cell>
     <cell name="title">OECD Economic Surveys: Czechia 2025 (en)</cell>
@@ -1740,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4642d2e5</cell>
   </row>
-  <row index="87">
+  <row index="106">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e8f0b2dc-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Benin (Stage 1) (en)</cell>
@@ -1760,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc1949ea</cell>
   </row>
-  <row index="88">
+  <row index="107">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ce4c7713-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Montenegro (Stage 1) (en)</cell>
@@ -1780,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fd393db7</cell>
   </row>
-  <row index="89">
+  <row index="108">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c2a27d30-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Grenada (Stage 1) (en)</cell>
@@ -1800,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18007dc7</cell>
   </row>
-  <row index="90">
+  <row index="109">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/455cdb02-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Samoa (Stage 1) (en)</cell>
@@ -1820,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0123b561</cell>
   </row>
-  <row index="91">
+  <row index="110">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/058698af-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Iceland (Stage 1) (en)</cell>
@@ -1840,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7ad97930</cell>
   </row>
-  <row index="92">
+  <row index="111">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/1d3cc7cf-en</cell>
     <cell name="title">Making Dispute Resolution More Effective – Simplified Peer Review, Peru (Stage 1) (en)</cell>
@@ -1860,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28e01857</cell>
   </row>
-  <row index="93">
+  <row index="112">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/9fc890b6-fr</cell>
     <cell name="title">Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Sénégal (Phase 1) (fr)</cell>
@@ -1880,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42fe793b</cell>
   </row>
-  <row index="94">
+  <row index="113">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/005ce8f7-en</cell>
     <cell name="title">Korea's Unborn Future (en)</cell>
@@ -1900,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d5c3a6ef</cell>
   </row>
-  <row index="95">
+  <row index="114">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/005ce8f7-en</cell>
     <cell name="title">Korea's Unborn Future (en)</cell>
@@ -1920,7 +2300,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dd02b26b</cell>
   </row>
-  <row index="96">
+  <row index="115">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a551b351-en</cell>
+    <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-10</cell>
+    <cell name="embargo date">2025-03-10T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc278040</cell>
+  </row>
+  <row index="116">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/048cf07b-en</cell>
     <cell name="title">OECD Economic Surveys: Costa Rica 2025 (en)</cell>
@@ -1940,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da289546</cell>
   </row>
-  <row index="97">
+  <row index="117">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e6d0420b-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Costa Rica 2025 (es)</cell>
@@ -1960,7 +2360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1ee40aa3</cell>
   </row>
-  <row index="98">
+  <row index="118">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/e6d0420b-es</cell>
     <cell name="title">Estudios Económicos de la OCDE: Costa Rica 2025 (es)</cell>
@@ -1980,7 +2380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/39497ebb</cell>
   </row>
-  <row index="99">
+  <row index="119">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/91dcc109-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Sweden 2025 (en)</cell>
@@ -2000,7 +2400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a4a871a</cell>
   </row>
-  <row index="100">
+  <row index="120">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/89af4857-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report March 2025 (en)</cell>
@@ -2020,7 +2420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/193996e7</cell>
   </row>
-  <row index="101">
+  <row index="121">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -2040,7 +2440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d623033</cell>
   </row>
-  <row index="102">
+  <row index="122">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -2060,7 +2460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/091b5b8f</cell>
   </row>
-  <row index="103">
+  <row index="123">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/262255fd-en</cell>
     <cell name="title">Getting the Public on Side (en)</cell>
@@ -2080,7 +2480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d07dc8c</cell>
   </row>
-  <row index="104">
+  <row index="124">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4abf1ea5-en</cell>
     <cell name="title">OECD Economic Surveys: Lithuania 2025 (en)</cell>
@@ -2100,7 +2500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dd38a40</cell>
   </row>
-  <row index="105">
+  <row index="125">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4abf1ea5-en</cell>
     <cell name="title">OECD Economic Surveys: Lithuania 2025 (en)</cell>
@@ -2120,7 +2520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc0a733d</cell>
   </row>
-  <row index="106">
+  <row index="126">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a9096fb1-en</cell>
     <cell name="title">The Ocean Economy to 2050 (en)</cell>
@@ -2140,7 +2540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57182519</cell>
   </row>
-  <row index="107">
+  <row index="127">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a9096fb1-en</cell>
     <cell name="title">The Ocean Economy to 2050 (en)</cell>
@@ -2160,7 +2560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/836584ef</cell>
   </row>
-  <row index="108">
+  <row index="128">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
@@ -2180,7 +2580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8212cb7</cell>
   </row>
-  <row index="109">
+  <row index="129">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
@@ -2199,5 +2599,45 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0762ee42</cell>
+  </row>
+  <row index="130">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/56b60e39-en</cell>
+    <cell name="title">OECD Regulatory Policy Outlook 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-04-09T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/608c7e77</cell>
+  </row>
+  <row index="131">
+    <cell name="directorate">Directorate for Public Governance</cell>
+    <cell name="doi">10.1787/56b60e39-en</cell>
+    <cell name="title">OECD Regulatory Policy Outlook 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-04-09T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb65b290</cell>
   </row>
 </report>
