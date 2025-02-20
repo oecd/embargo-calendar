@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 19 February 2025 at 23:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 20 February 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [18 February 2025](#18-february-2025)
 * [19 February 2025](#19-february-2025)
@@ -17,6 +17,7 @@ Data generated on | |
 * [11 March 2025](#11-march-2025)
 * [12 March 2025](#12-march-2025)
 * [17 March 2025](#17-march-2025)
+* [18 March 2025](#18-march-2025)
 * [21 March 2025](#21-march-2025)
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
@@ -807,6 +808,125 @@ Monday 17 March 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+------
+
+# 18 March 2025
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/725d769c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Djibouti 2025 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/ff182794-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Armenia 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/d71a53f0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2025 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/973eefa7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Burkina Faso 2025 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/e5691e31-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
