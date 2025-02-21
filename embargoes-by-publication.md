@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 February 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [How do consumers interact with environmental sustainability claims on food? - Evidence from 40 countries](https://doi.org/10.1787/0587c663-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 18 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
-
-## [OECD Review of Fisheries 2025](https://doi.org/10.1787/560cd8fc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 February 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examen de l’OCDE sur les pêches 2025](https://doi.org/10.1787/a6e0eefb-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 February 2025 at 13:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Friday 21 February 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Zero-Carbon Buildings in Cities - A Whole Life-Cycle Approach](https://doi.org/10.1787/daae8779-en)
 
@@ -161,29 +92,6 @@ Sunday 23 February 2025 at 23:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Consolidated Report on Amount B - Inclusive Framework on BEPS](https://doi.org/10.1787/182b47ad-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 February 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
@@ -297,13 +205,13 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Burkina Faso (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/acbd282d-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Burkina Faso (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/acbd282d-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -320,7 +228,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -343,13 +251,13 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Bénin (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/cb8de055-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Bénin (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/cb8de055-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -366,7 +274,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -412,7 +320,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -435,7 +343,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -458,7 +366,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -481,7 +389,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -504,7 +412,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -527,7 +435,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -550,7 +458,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -573,13 +481,13 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
 
-## [Accroître l'efficacité des mécanismes de règlement des différends - Examen par les pairs simplifié, Sénégal (Phase 1) - Le Cadre inclusif OCDE/G20 sur le BEPS : Action 14](https://doi.org/10.1787/9fc890b6-fr)
+## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Sénégal (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/9fc890b6-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -596,7 +504,7 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Report*
 * Format: *PDF*
 
