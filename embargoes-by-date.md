@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 February 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 23 February 2025 at 22:24* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 February 2025](#20-february-2025)
 * [23 February 2025](#23-february-2025)
 * [26 February 2025](#26-february-2025)
 * [27 February 2025](#27-february-2025)
@@ -20,79 +19,6 @@ Data generated on | |
 * [28 March 2025](#28-march-2025)
 * [31 March 2025](#31-march-2025)
 * [9 April 2025](#9-april-2025)
-
-------
-
-# 20 February 2025
-
-## [Zero-Carbon Buildings in Cities - A Whole Life-Cycle Approach](https://doi.org/10.1787/daae8779-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 3:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Les systèmes de santé tiennent-ils leurs promesses ? - Résultats de l’enquête PaRIS fondés sur les déclarations des patients](https://doi.org/10.1787/81af0784-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

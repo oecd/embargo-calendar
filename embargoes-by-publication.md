@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 February 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Zero-Carbon Buildings in Cities - A Whole Life-Cycle Approach](https://doi.org/10.1787/daae8779-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 3:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Les systèmes de santé tiennent-ils leurs promesses ? - Résultats de l’enquête PaRIS fondés sur les déclarations des patients](https://doi.org/10.1787/81af0784-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [Does Healthcare Deliver? - Results from the Patient-Reported Indicator Surveys (PaRIS)](https://doi.org/10.1787/c8af05a5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 February 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Employment, Labour and Social Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 23 February 2025 at 22:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
 
