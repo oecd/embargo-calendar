@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 24 February 2025 at 23:53* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 February 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 February 2025](#23-february-2025)
-* [26 February 2025](#26-february-2025)
 * [27 February 2025](#27-february-2025)
 * [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
@@ -49,56 +48,6 @@ Sunday 23 February 2025 at 23:00 | no launch event
 
 ------
 
-# 26 February 2025
-
-## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (South Africa, February 2025)](https://doi.org/10.1787/5598c085-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Rapport du Secrétaire général de l’OCDE aux ministres des Finances et gouverneurs de banque centrale des pays du G20 sur les activités du Forum inclusif sur les approches d’atténuation des émissions de carbone (Afrique du Sud, février 2025)](https://doi.org/10.1787/1a283b89-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *General Secretariat*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-------
-
 # 27 February 2025
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
@@ -109,7 +58,7 @@ Thursday 27 February 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -118,7 +67,7 @@ Thursday 27 February 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -132,7 +81,7 @@ Thursday 27 February 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -141,7 +90,7 @@ Thursday 27 February 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
