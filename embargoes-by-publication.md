@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 February 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Measuring Carbon Footprints of Agri-Food Products - Eight Building Blocks](https://doi.org/10.1787/8eb75706-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 23 February 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 26 February 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
 
@@ -161,29 +138,6 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 * Language: *French*
 * Availability: *Published*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Czechia 2025](https://doi.org/10.1787/7a70af5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -395,6 +349,29 @@ Tuesday 4 March 2025 at 10:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Czechia 2025](https://doi.org/10.1787/7a70af5c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 4 March 2025 at 12:15 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Korea's Unborn Future - Understanding Low-Fertility Trends](https://doi.org/10.1787/005ce8f7-en)
 
 Embargo date | Launch date
@@ -491,7 +468,7 @@ Tuesday 11 March 2025 at 11:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 12 March 2025 at 9:00 | no launch event
+Wednesday 12 March 2025 at 8:00 | no launch event
 
 ### Status Information
 
