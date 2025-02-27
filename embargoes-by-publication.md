@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 February 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 27 February 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
 
@@ -43,6 +43,29 @@ Thursday 27 February 2025 at 8:00 | no launch event
 ### Additional Information
 
 * Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [The role of traceability in critical mineral supply chains](https://doi.org/10.1787/edb0a451-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 28 February 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *International Energy Agency*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
@@ -366,7 +389,7 @@ Tuesday 4 March 2025 at 12:15 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -625,6 +648,52 @@ Tuesday 18 March 2025 at 10:00 | no launch event
 
 ------
 
+## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 March 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 March 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
 
 Embargo date | Launch date
@@ -759,6 +828,29 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Ensuring Quality Vocational and Higher Education in Lithuania](https://doi.org/10.1787/7a0131cf-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 April 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
