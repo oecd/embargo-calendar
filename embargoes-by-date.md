@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 February 2025 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 28 February 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [27 February 2025](#27-february-2025)
 * [28 February 2025](#28-february-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [10 March 2025](#10-march-2025)
 * [11 March 2025](#11-march-2025)
 * [12 March 2025](#12-march-2025)
+* [13 March 2025](#13-march-2025)
 * [17 March 2025](#17-march-2025)
 * [18 March 2025](#18-march-2025)
 * [19 March 2025](#19-march-2025)
@@ -436,7 +437,7 @@ Wednesday 5 March 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -445,7 +446,7 @@ Wednesday 5 March 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -557,7 +558,57 @@ Wednesday 12 March 2025 at 8:00 | no launch event
 
 ------
 
+# 13 March 2025
+
+## [Financial literacy in Cyprus](https://doi.org/10.1787/345ca38a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 13 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
+------
+
 # 17 March 2025
+
+## [Adapting the Paris Metropolitan Area to a Water-Scarce Future](https://doi.org/10.1787/00a103f8-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 March 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Outlook, Interim Report March 2025](https://doi.org/10.1787/89af4857-en)
 
@@ -586,6 +637,29 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 # 18 March 2025
 
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Côte d'Ivoire 2025 (Deuxième cycle, Rapport combiné) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/f3a2befb-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
 ## [Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request](https://doi.org/10.1787/725d769c-en)
 
 Embargo date | Launch date
@@ -603,6 +677,52 @@ Tuesday 18 March 2025 at 10:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Burkina Faso 2025 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/aceee3b3-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Djibouti 2025 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande](https://doi.org/10.1787/7998c159-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 18 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Report*
 * Format: *PDF*
@@ -724,7 +844,7 @@ Wednesday 19 March 2025 at 8:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -903,6 +1023,29 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Perspectives de l'OCDE sur la politique de la réglementation 2025](https://doi.org/10.1787/2f1a3d38-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 9 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
