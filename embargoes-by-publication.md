@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 28 February 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Rapport sur la fiscalité du Secrétaire général de l’OCDE à l’intention des ministres des Finances et des gouverneurs de banque centrale du G20 (G20 Afrique du Sud, février 2025)](https://doi.org/10.1787/211e7613-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Secretary-General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 South Africa, February 2025)](https://doi.org/10.1787/97afc9f7-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 27 February 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [The role of traceability in critical mineral supply chains](https://doi.org/10.1787/edb0a451-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 February 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *International Energy Agency*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Sunday 2 March 2025 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Saint Lucia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/91444d6d-en)
 
