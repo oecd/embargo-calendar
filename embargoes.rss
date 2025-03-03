@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 02 Mar 2025 22:58:30 GMT</pubDate>
+      <pubDate>Mon, 03 Mar 2025 22:59:23 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -254,7 +254,23 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a551b351-en-d3e928</guid>
+         <guid isPermaLink="false">10.1787/35e60d73-en-d3e928</guid>
+         <pubDate>Mon, 10 Mar 2025 10:30:00 GMT</pubDate>
+         <title>OECD Review of Scottish Fiscal Commission 2025</title>
+         <link>https://doi.org/10.1787/35e60d73-en</link>
+         <description>OECD Review of Scottish Fiscal Commission 2025 by Directorate for Public Governance has an embargo on Monday 10 March 2025 at 10:30.</description>
+         <oe:embargoTime>Mon, 10 Mar 2025 10:30:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Policy paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a551b351-en-d3e980</guid>
          <pubDate>Mon, 10 Mar 2025 11:00:00 GMT</pubDate>
          <title>Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS</title>
          <link>https://doi.org/10.1787/a551b351-en</link>
@@ -270,28 +286,12 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/048cf07b-en-d3e981</guid>
-         <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-         <title>OECD Economic Surveys: Costa Rica 2025</title>
-         <link>https://doi.org/10.1787/048cf07b-en</link>
-         <description>OECD Economic Surveys: Costa Rica 2025 by Economics Department has an embargo on Tuesday 11 March 2025 at 0:00.</description>
-         <oe:embargoTime>Tue, 11 Mar 2025 00:00:00 GMT</oe:embargoTime>
-         <oe:launchTime/>
-         <oe:languages>English</oe:languages>
-         <oe:directorate>Economics Department</oe:directorate>
-         <oe:ftiLoaded/>
-         <oe:iLibraryExport/>
-         <oe:freePreviewExport/>
-         <oe:oecdOrgExport/>
-         <oe:catalogueType>Economic survey</oe:catalogueType>
-      </item>
-      <item>
-         <guid isPermaLink="false">10.1787/e6d0420b-es-d3e1033</guid>
-         <pubDate>Tue, 11 Mar 2025 12:00:00 GMT</pubDate>
+         <guid isPermaLink="false">10.1787/e6d0420b-es-d3e1085</guid>
+         <pubDate>Tue, 11 Mar 2025 22:00:00 GMT</pubDate>
          <title>Estudios Económicos de la OCDE: Costa Rica 2025</title>
          <link>https://doi.org/10.1787/e6d0420b-es</link>
-         <description>Estudios Económicos de la OCDE: Costa Rica 2025 by Economics Department has an embargo on Tuesday 11 March 2025 at 12:00.</description>
-         <oe:embargoTime>Tue, 11 Mar 2025 12:00:00 GMT</oe:embargoTime>
+         <description>Estudios Económicos de la OCDE: Costa Rica 2025 by Economics Department has an embargo on Tuesday 11 March 2025 at 22:00.</description>
+         <oe:embargoTime>Tue, 11 Mar 2025 22:00:00 GMT</oe:embargoTime>
          <oe:launchTime/>
          <oe:languages>Spanish</oe:languages>
          <oe:directorate>Economics Department</oe:directorate>
@@ -302,7 +302,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/91dcc109-en-d3e1137</guid>
+         <guid isPermaLink="false">10.1787/048cf07b-en-d3e1137</guid>
+         <pubDate>Tue, 11 Mar 2025 22:00:00 GMT</pubDate>
+         <title>OECD Economic Surveys: Costa Rica 2025</title>
+         <link>https://doi.org/10.1787/048cf07b-en</link>
+         <description>OECD Economic Surveys: Costa Rica 2025 by Economics Department has an embargo on Tuesday 11 March 2025 at 22:00.</description>
+         <oe:embargoTime>Tue, 11 Mar 2025 22:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Economics Department</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Economic survey</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/91dcc109-en-d3e1189</guid>
          <pubDate>Wed, 12 Mar 2025 09:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Sweden 2025</title>
          <link>https://doi.org/10.1787/91dcc109-en</link>
@@ -318,7 +334,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/345ca38a-en-d3e1189</guid>
+         <guid isPermaLink="false">10.1787/345ca38a-en-d3e1242</guid>
          <pubDate>Thu, 13 Mar 2025 11:00:00 GMT</pubDate>
          <title>Financial literacy in Cyprus</title>
          <link>https://doi.org/10.1787/345ca38a-en</link>
@@ -334,7 +350,7 @@
          <oe:catalogueType>Policy paper</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/00a103f8-en-d3e1242</guid>
+         <guid isPermaLink="false">10.1787/00a103f8-en-d3e1294</guid>
          <pubDate>Mon, 17 Mar 2025 07:00:00 GMT</pubDate>
          <title>Adapting the Paris Metropolitan Area to a Water-Scarce Future</title>
          <link>https://doi.org/10.1787/00a103f8-en</link>
@@ -350,7 +366,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/89af4857-en-d3e1294</guid>
+         <guid isPermaLink="false">10.1787/89af4857-en-d3e1346</guid>
          <pubDate>Mon, 17 Mar 2025 11:00:00 GMT</pubDate>
          <title>OECD Economic Outlook, Interim Report March 2025</title>
          <link>https://doi.org/10.1787/89af4857-en</link>
@@ -366,7 +382,7 @@
          <oe:catalogueType>Issue</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f3a2befb-fr-d3e1346</guid>
+         <guid isPermaLink="false">10.1787/f3a2befb-fr-d3e1398</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Côte d'Ivoire 2025 (Deuxième cycle, Rapport combiné) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande</title>
          <link>https://doi.org/10.1787/f3a2befb-fr</link>
@@ -382,7 +398,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/725d769c-en-d3e1399</guid>
+         <guid isPermaLink="false">10.1787/725d769c-en-d3e1451</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/725d769c-en</link>
@@ -398,7 +414,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/aceee3b3-fr-d3e1452</guid>
+         <guid isPermaLink="false">10.1787/aceee3b3-fr-d3e1504</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Burkina Faso 2025 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande</title>
          <link>https://doi.org/10.1787/aceee3b3-fr</link>
@@ -414,7 +430,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7998c159-fr-d3e1505</guid>
+         <guid isPermaLink="false">10.1787/7998c159-fr-d3e1558</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Djibouti 2025 (Deuxième cycle, Phase 1) - Rapport d'examen par les pairs sur l'échange de renseignements sur demande</title>
          <link>https://doi.org/10.1787/7998c159-fr</link>
@@ -430,7 +446,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/ff182794-en-d3e1559</guid>
+         <guid isPermaLink="false">10.1787/ff182794-en-d3e1611</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Djibouti 2025 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/ff182794-en</link>
@@ -446,7 +462,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d71a53f0-en-d3e1612</guid>
+         <guid isPermaLink="false">10.1787/d71a53f0-en-d3e1664</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Armenia 2025 (Second Round, Combined Review) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/d71a53f0-en</link>
@@ -462,7 +478,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/973eefa7-en-d3e1665</guid>
+         <guid isPermaLink="false">10.1787/973eefa7-en-d3e1717</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2025 (Second Round, Supplementary Report) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/973eefa7-en</link>
@@ -478,7 +494,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e5691e31-en-d3e1718</guid>
+         <guid isPermaLink="false">10.1787/e5691e31-en-d3e1770</guid>
          <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
          <title>Global Forum on Transparency and Exchange of Information for Tax Purposes: Burkina Faso 2025 (Second Round, Phase 1) - Peer Review Report on the Exchange of Information on Request</title>
          <link>https://doi.org/10.1787/e5691e31-en</link>
@@ -494,7 +510,7 @@
          <oe:catalogueType>Report</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e1771</guid>
+         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e1823</guid>
          <pubDate>Wed, 19 Mar 2025 09:00:00 GMT</pubDate>
          <title>Études économiques de l’OCDE : Canada 2025</title>
          <link>https://doi.org/10.1787/d806a81d-fr</link>
@@ -510,7 +526,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e1823</guid>
+         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e1876</guid>
          <pubDate>Wed, 19 Mar 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Canada 2025</title>
          <link>https://doi.org/10.1787/28f9e02c-en</link>
@@ -526,7 +542,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/583cab4c-en-d3e1876</guid>
+         <guid isPermaLink="false">10.1787/583cab4c-en-d3e1928</guid>
          <pubDate>Fri, 21 Mar 2025 08:00:00 GMT</pubDate>
          <title>OECD Environmental Performance Reviews: Japan 2025</title>
          <link>https://doi.org/10.1787/583cab4c-en</link>
@@ -542,7 +558,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/262255fd-en-d3e1980</guid>
+         <guid isPermaLink="false">10.1787/262255fd-en-d3e2032</guid>
          <pubDate>Wed, 26 Mar 2025 09:00:00 GMT</pubDate>
          <title>Getting the Public on Side - How to Make Reforms Acceptable by Design</title>
          <link>https://doi.org/10.1787/262255fd-en</link>
@@ -558,7 +574,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/4abf1ea5-en-d3e2033</guid>
+         <guid isPermaLink="false">10.1787/4abf1ea5-en-d3e2085</guid>
          <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Lithuania 2025</title>
          <link>https://doi.org/10.1787/4abf1ea5-en</link>
@@ -574,7 +590,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/a9096fb1-en-d3e2190</guid>
+         <guid isPermaLink="false">10.1787/28a876c2-en-d3e2190</guid>
+         <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+         <title>Drivers of Trust in Public Institutions in Australia</title>
+         <link>https://doi.org/10.1787/28a876c2-en</link>
+         <description>Drivers of Trust in Public Institutions in Australia by Directorate for Public Governance has an embargo on Monday 31 March 2025 at 0:00.</description>
+         <oe:embargoTime>Mon, 31 Mar 2025 00:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Public Governance</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/a9096fb1-en-d3e2294</guid>
          <pubDate>Mon, 31 Mar 2025 09:00:00 GMT</pubDate>
          <title>The Ocean Economy to 2050</title>
          <link>https://doi.org/10.1787/a9096fb1-en</link>
@@ -590,7 +622,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0b539499-en-d3e2242</guid>
+         <guid isPermaLink="false">10.1787/0b539499-en-d3e2346</guid>
          <pubDate>Mon, 31 Mar 2025 20:00:00 GMT</pubDate>
          <title>Improving Policy Coherence for Portugal’s Ocean Economy - A Strategic Plan for Natural Resources, Safety and Maritime Services</title>
          <link>https://doi.org/10.1787/0b539499-en</link>
@@ -606,7 +638,23 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/56b60e39-en-d3e2348</guid>
+         <guid isPermaLink="false">10.1787/f5b82176-en-d3e2452</guid>
+         <pubDate>Thu, 03 Apr 2025 09:00:00 GMT</pubDate>
+         <title>Unlocking High-Quality Teaching</title>
+         <link>https://doi.org/10.1787/f5b82176-en</link>
+         <description>Unlocking High-Quality Teaching by Directorate for Education and Skills has an embargo on Thursday 3 April 2025 at 9:00.</description>
+         <oe:embargoTime>Thu, 03 Apr 2025 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Directorate for Education and Skills</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/56b60e39-en-d3e2505</guid>
          <pubDate>Wed, 09 Apr 2025 09:00:00 GMT</pubDate>
          <title>OECD Regulatory Policy Outlook 2025</title>
          <link>https://doi.org/10.1787/56b60e39-en</link>
@@ -622,7 +670,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/2f1a3d38-fr-d3e2400</guid>
+         <guid isPermaLink="false">10.1787/2f1a3d38-fr-d3e2557</guid>
          <pubDate>Wed, 09 Apr 2025 09:00:00 GMT</pubDate>
          <title>Perspectives de l'OCDE sur la politique de la réglementation 2025</title>
          <link>https://doi.org/10.1787/2f1a3d38-fr</link>
@@ -638,7 +686,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7a0131cf-en-d3e2557</guid>
+         <guid isPermaLink="false">10.1787/7a0131cf-en-d3e2713</guid>
          <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
          <title>Ensuring Quality Vocational and Higher Education in Lithuania</title>
          <link>https://doi.org/10.1787/7a0131cf-en</link>

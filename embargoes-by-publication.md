@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 2 March 2025 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 3 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Saint Lucia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/91444d6d-en)
 
@@ -349,6 +349,29 @@ Wednesday 5 March 2025 at 8:00 | no launch event
 
 ------
 
+## [OECD Review of Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 10 March 2025 at 9:30 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
+
 ## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
@@ -372,34 +395,11 @@ Monday 10 March 2025 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Surveys: Costa Rica 2025](https://doi.org/10.1787/048cf07b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 March 2025 at 23:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [Estudios Económicos de la OCDE: Costa Rica 2025](https://doi.org/10.1787/e6d0420b-es)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 11 March 2025 at 11:00 | no launch event
+Tuesday 11 March 2025 at 21:00 | no launch event
 
 ### Status Information
 
@@ -415,6 +415,29 @@ Tuesday 11 March 2025 at 11:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Costa Rica 2025](https://doi.org/10.1787/048cf07b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 11 March 2025 at 21:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
@@ -809,6 +832,29 @@ Friday 28 March 2025 at 8:00 | no launch event
 
 ------
 
+## [Drivers of Trust in Public Institutions in Australia](https://doi.org/10.1787/28a876c2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 30 March 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
 ## [The Ocean Economy to 2050](https://doi.org/10.1787/a9096fb1-en)
 
 Embargo date | Launch date
@@ -852,6 +898,29 @@ Monday 31 March 2025 at 18:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Unlocking High-Quality Teaching](https://doi.org/10.1787/f5b82176-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 3 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -920,6 +989,6 @@ Thursday 10 April 2025 at 5:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
