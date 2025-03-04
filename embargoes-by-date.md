@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 3 March 2025 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 4 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
@@ -13,6 +13,7 @@ Data generated on | |
 * [17 March 2025](#17-march-2025)
 * [18 March 2025](#18-march-2025)
 * [19 March 2025](#19-march-2025)
+* [20 March 2025](#20-march-2025)
 * [21 March 2025](#21-march-2025)
 * [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
@@ -437,7 +438,7 @@ Tuesday 11 March 2025 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -446,9 +447,9 @@ Tuesday 11 March 2025 at 21:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Spanish*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -460,7 +461,7 @@ Tuesday 11 March 2025 at 21:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -469,7 +470,7 @@ Tuesday 11 March 2025 at 21:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -819,6 +820,33 @@ Wednesday 19 March 2025 at 8:00 | no launch event
 
 ------
 
+# 20 March 2025
+
+## [Global Debt Report 2025 - Financing Growth in a Challenging Debt Market Environment](https://doi.org/10.1787/8ee42b13-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 21 March 2025
 
 ## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
@@ -840,7 +868,7 @@ Friday 21 March 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
