@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 March 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Wednesday 5 March 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Making Dispute Resolution More Effective – Simplified Peer Review, Saint Lucia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/91444d6d-en)
 
@@ -1013,5 +1013,28 @@ Thursday 10 April 2025 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 April 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------

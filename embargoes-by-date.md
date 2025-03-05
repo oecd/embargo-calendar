@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 4 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 5 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
@@ -22,6 +22,7 @@ Data generated on | |
 * [3 April 2025](#3-april-2025)
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
+* [14 April 2025](#14-april-2025)
 
 ------
 
@@ -1104,5 +1105,32 @@ Thursday 10 April 2025 at 5:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 14 April 2025
+
+## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 April 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------

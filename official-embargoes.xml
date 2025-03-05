@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-03-04T23:00:00.1589518+01:00">
+<report name="official-embargoes" generated="2025-03-05T23:00:10.773459+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -1039,5 +1039,45 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b872eca</cell>
+  </row>
+  <row index="52">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f0c8fefa-en</cell>
+    <cell name="title">Cities for All Ages (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-04-14T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46d6d50c</cell>
+  </row>
+  <row index="53">
+    <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
+    <cell name="doi">10.1787/f0c8fefa-en</cell>
+    <cell name="title">Cities for All Ages (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-04-14T12:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b5bd3f</cell>
   </row>
 </report>
