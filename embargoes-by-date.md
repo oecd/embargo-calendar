@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 5 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 6 March 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [4 March 2025](#4-march-2025)
 * [5 March 2025](#5-march-2025)
 * [10 March 2025](#10-march-2025)
 * [11 March 2025](#11-march-2025)
@@ -23,332 +22,7 @@ Data generated on | |
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
 * [14 April 2025](#14-april-2025)
-
-------
-
-# 4 March 2025
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Saint Lucia (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/91444d6d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Burkina Faso (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/acbd282d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Dominica (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/e8c91348-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Bénin (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/cb8de055-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Senegal (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/209a879e-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Burkina Faso (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/60ce67fd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Benin (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/e8f0b2dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Montenegro (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/ce4c7713-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Grenada (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/c2a27d30-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Samoa (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/455cdb02-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Iceland (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/058698af-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Making Dispute Resolution More Effective – Simplified Peer Review, Peru (Stage 1) - Inclusive Framework on BEPS: Action 14](https://doi.org/10.1787/1d3cc7cf-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Accroître l'efficacité des mécanismes de règlement des différends – Examen par les pairs simplifié, Sénégal (Phase 1) - Cadre inclusif sur le BEPS : Action 14](https://doi.org/10.1787/9fc890b6-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Czechia 2025](https://doi.org/10.1787/7a70af5c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 4 March 2025 at 12:15 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+* [7 May 2025](#7-may-2025)
 
 ------
 
@@ -400,29 +74,6 @@ Monday 10 March 2025 at 9:30 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2024) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -489,7 +140,7 @@ Wednesday 12 March 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -498,9 +149,9 @@ Wednesday 12 March 2025 at 8:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1131,6 +782,33 @@ Monday 14 April 2025 at 12:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 7 May 2025
+
+## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
 ------
