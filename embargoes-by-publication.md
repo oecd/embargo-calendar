@@ -2,13 +2,13 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 6 March 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Friday 7 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
-## [Korea's Unborn Future - Understanding Low-Fertility Trends](https://doi.org/10.1787/005ce8f7-en)
+## [OECD Review of the Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 5 March 2025 at 8:00 | no launch event
+Monday 10 March 2025 at 9:30 | no launch event
 
 ### Status Information
 
@@ -19,32 +19,9 @@ Wednesday 5 March 2025 at 8:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Review of Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 March 2025 at 9:30 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -142,6 +119,29 @@ Thursday 13 March 2025 at 10:00 | no launch event
 
 ------
 
+## [Adapter l’Île-de-France aux risques de raréfaction de l’eau](https://doi.org/10.1787/270e92ac-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 March 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Adapting the Paris Metropolitan Area to a Water-Scarce Future](https://doi.org/10.1787/00a103f8-en)
 
 Embargo date | Launch date
@@ -182,6 +182,29 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
+
+------
+
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2025](https://doi.org/10.1787/092e5f31-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Issue*
 * Format: *PDF*
@@ -368,52 +391,6 @@ Tuesday 18 March 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
 * Format: *PDF*
 
 ------
@@ -691,6 +668,52 @@ Monday 14 April 2025 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
