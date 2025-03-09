@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 7 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 9 March 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of the Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
 
