@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-03-10T23:03:32.1883697+01:00">
+<report name="official-embargoes" generated="2025-03-11T23:02:28.8820895+01:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2025-03-10T22:16:58Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -327,7 +327,7 @@
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-03-13</cell>
     <cell name="embargo date">2025-03-13T10:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -337,10 +337,30 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Policy paper</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/99b69817</cell>
   </row>
   <row index="17">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/63c2b4b4-fr</cell>
+    <cell name="title">Construction des scénarios (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fea6ff2a</cell>
+  </row>
+  <row index="18">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/532bfdc6-en</cell>
     <cell name="title">Measures to increase the resilience of the Paris metropolitan area to climate change-induced drought risk (en)</cell>
@@ -360,7 +380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5e2572f7</cell>
   </row>
-  <row index="18">
+  <row index="19">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d946e1f6-en</cell>
     <cell name="title">Elaboration of scenarios (en)</cell>
@@ -380,7 +400,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e23dce5</cell>
   </row>
-  <row index="19">
+  <row index="20">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/00a103f8-en</cell>
     <cell name="title">Adapting the Paris Metropolitan Area to a Water-Scarce Future (en)</cell>
@@ -400,7 +420,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f166af56</cell>
   </row>
-  <row index="20">
+  <row index="21">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/da5cfd6a-fr</cell>
+    <cell name="title">Avant-propos (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/5fe7ed05</cell>
+  </row>
+  <row index="22">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/f16d6eee-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -420,7 +460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e07d301e</cell>
   </row>
-  <row index="21">
+  <row index="23">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/270e92ac-fr</cell>
     <cell name="title">Adapter l’Île-de-France aux risques de raréfaction de l’eau (fr)</cell>
@@ -440,7 +480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5e8af14</cell>
   </row>
-  <row index="22">
+  <row index="24">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/270e92ac-fr</cell>
     <cell name="title">Adapter l’Île-de-France aux risques de raréfaction de l’eau (fr)</cell>
@@ -460,7 +500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1db1523</cell>
   </row>
-  <row index="23">
+  <row index="25">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/00a103f8-en</cell>
     <cell name="title">Adapting the Paris Metropolitan Area to a Water-Scarce Future (en)</cell>
@@ -480,7 +520,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78d359df</cell>
   </row>
-  <row index="24">
+  <row index="26">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/35ddfd92-fr</cell>
+    <cell name="title">Résumé exécutif (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dcf5992f</cell>
+  </row>
+  <row index="27">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/8ad3fa90-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -500,7 +560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a3842b0</cell>
   </row>
-  <row index="25">
+  <row index="28">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c623937b-en</cell>
     <cell name="title">Financing drought management measures (en)</cell>
@@ -520,7 +580,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7b08f4f8</cell>
   </row>
-  <row index="26">
+  <row index="29">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/1b0e5b9f-fr</cell>
+    <cell name="title">Planification stratégique pour faire face au risque de sécheresse en Ile-de-France (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d9b30e5</cell>
+  </row>
+  <row index="30">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/04714716-en</cell>
     <cell name="title">Assessment of the costs (en)</cell>
@@ -540,7 +620,47 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fca95918</cell>
   </row>
-  <row index="27">
+  <row index="31">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/9a98ceb9-fr</cell>
+    <cell name="title">Évaluation et recommandations (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a8d7ca</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/b1804870-fr</cell>
+    <cell name="title">Evaluation des coûts (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8b8c4f85</cell>
+  </row>
+  <row index="33">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/00a103f8-en</cell>
     <cell name="title">Adapting the Paris Metropolitan Area to a Water-Scarce Future (en)</cell>
@@ -560,7 +680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae4cac17</cell>
   </row>
-  <row index="28">
+  <row index="34">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/69859c80-en</cell>
     <cell name="title">Strategic planning for drought risk management in the Paris metropolitan area (en)</cell>
@@ -580,7 +700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e83490d9</cell>
   </row>
-  <row index="29">
+  <row index="35">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c74a9f0f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -600,7 +720,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/110e5ccc</cell>
   </row>
-  <row index="30">
+  <row index="36">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/f5e3f156-fr</cell>
+    <cell name="title">Financer les mesures de résilience (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c0bfc0b5</cell>
+  </row>
+  <row index="37">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/669d8468-en</cell>
     <cell name="title">The impacts of droughts in the Paris Metropolitan Area in the context of climate change (en)</cell>
@@ -620,7 +760,67 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e28f6ce9</cell>
   </row>
-  <row index="31">
+  <row index="38">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/b6f15f61-fr</cell>
+    <cell name="title">Consultations (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/214e8df0</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/97c892aa-fr</cell>
+    <cell name="title">Impacts des sécheresses en Ile-de-France dans le contexte du changement climatique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a5e63c18</cell>
+  </row>
+  <row index="40">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/d70636fc-fr</cell>
+    <cell name="title">Mesures pour accroître la résilience de l’Ile-de-France aux sécheresses induites par le changement climatique (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T06:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d7211091</cell>
+  </row>
+  <row index="41">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/00a103f8-en</cell>
     <cell name="title">Adapting the Paris Metropolitan Area to a Water-Scarce Future (en)</cell>
@@ -640,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6f0e0498</cell>
   </row>
-  <row index="32">
+  <row index="42">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/00a103f8-en</cell>
     <cell name="title">Adapting the Paris Metropolitan Area to a Water-Scarce Future (en)</cell>
@@ -660,7 +860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97e2af35</cell>
   </row>
-  <row index="33">
+  <row index="43">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/aa8509a2-en</cell>
     <cell name="title">Consultations (en)</cell>
@@ -680,7 +880,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9e71e5ed</cell>
   </row>
-  <row index="34">
+  <row index="44">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/2bbb1aae-it</cell>
+    <cell name="title">Prospettive economiche dell'OCSE, Rapporto intermedio marzo 2025 (it)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">Italian</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-17</cell>
+    <cell name="embargo date">2025-03-17T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Issue</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/edb8c5e0</cell>
+  </row>
+  <row index="45">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/89af4857-en</cell>
     <cell name="title">OECD Economic Outlook, Interim Report March 2025 (en)</cell>
@@ -700,7 +920,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/193996e7</cell>
   </row>
-  <row index="35">
+  <row index="46">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/092e5f31-fr</cell>
     <cell name="title">Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2025 (fr)</cell>
@@ -720,7 +940,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f96bf34</cell>
   </row>
-  <row index="36">
+  <row index="47">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f3a2befb-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Côte d'Ivoire 2025 (Deuxième cycle, Rapport combiné) (fr)</cell>
@@ -740,7 +960,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f69cc5fb</cell>
   </row>
-  <row index="37">
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/725d769c-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Côte d'Ivoire 2025 (Second Round, Combined Review) (en)</cell>
@@ -760,7 +980,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/66f2f2f0</cell>
   </row>
-  <row index="38">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/aceee3b3-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Burkina Faso 2025 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -780,7 +1000,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7964a841</cell>
   </row>
-  <row index="39">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7998c159-fr</cell>
     <cell name="title">Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales : Djibouti 2025 (Deuxième cycle, Phase 1) (fr)</cell>
@@ -800,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/60837990</cell>
   </row>
-  <row index="40">
+  <row index="51">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/ff182794-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Djibouti 2025 (Second Round, Phase 1) (en)</cell>
@@ -820,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6aab45d7</cell>
   </row>
-  <row index="41">
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d71a53f0-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Armenia 2025 (Second Round, Combined Review) (en)</cell>
@@ -840,7 +1060,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4f94d901</cell>
   </row>
-  <row index="42">
+  <row index="53">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/973eefa7-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: British Virgin Islands 2025 (Second Round, Supplementary Report) (en)</cell>
@@ -860,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3443c797</cell>
   </row>
-  <row index="43">
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e5691e31-en</cell>
     <cell name="title">Global Forum on Transparency and Exchange of Information for Tax Purposes: Burkina Faso 2025 (Second Round, Phase 1) (en)</cell>
@@ -880,7 +1100,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0d988b0c</cell>
   </row>
-  <row index="44">
+  <row index="55">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8ee42b13-en</cell>
     <cell name="title">Global Debt Report 2025 (en)</cell>
@@ -900,7 +1120,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f183f4e9</cell>
   </row>
-  <row index="45">
+  <row index="56">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/e334697f-fr</cell>
+    <cell name="title">Rapport sur la dette mondiale 2025 (fr)</cell>
+    <cell name="subtitle">Financer la croissance dans un environnement de marché de la dette difficile (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-03-20</cell>
+    <cell name="embargo date">2025-03-20T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc95ce2a</cell>
+  </row>
+  <row index="57">
     <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
     <cell name="doi">10.1787/8ee42b13-en</cell>
     <cell name="title">Global Debt Report 2025 (en)</cell>
@@ -920,7 +1160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd487f5f</cell>
   </row>
-  <row index="46">
+  <row index="58">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/19fe3dac-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -940,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ccd102e8</cell>
   </row>
-  <row index="47">
+  <row index="59">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/ce33e0f8-en</cell>
     <cell name="title">Leveraging synergies and place-based approaches for the green transformation (en)</cell>
@@ -960,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f29f7c35</cell>
   </row>
-  <row index="48">
+  <row index="60">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -980,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d623033</cell>
   </row>
-  <row index="49">
+  <row index="61">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -1000,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ee0324c</cell>
   </row>
-  <row index="50">
+  <row index="62">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/9cad387e-en</cell>
     <cell name="title">Basic statistics of Japan (en)</cell>
@@ -1020,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/349f8f75</cell>
   </row>
-  <row index="51">
+  <row index="63">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/c108667f-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1040,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c27b42a</cell>
   </row>
-  <row index="52">
+  <row index="64">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -1060,7 +1300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f29ea31c</cell>
   </row>
-  <row index="53">
+  <row index="65">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -1080,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c69ca5c5</cell>
   </row>
-  <row index="54">
+  <row index="66">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/8c8f8f48-en</cell>
     <cell name="title">Reader’s guide (en)</cell>
@@ -1100,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4ef2fea7</cell>
   </row>
-  <row index="55">
+  <row index="67">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/583cab4c-en</cell>
     <cell name="title">OECD Environmental Performance Reviews: Japan 2025 (en)</cell>
@@ -1120,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/091b5b8f</cell>
   </row>
-  <row index="56">
+  <row index="68">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/33e5f1fe-en</cell>
     <cell name="title">Towards sustainable development (en)</cell>
@@ -1140,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/390fad09</cell>
   </row>
-  <row index="57">
+  <row index="69">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/1f5d9f0c-en</cell>
     <cell name="title">Assessment and recommendations (en)</cell>
@@ -1160,7 +1400,27 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/528ab015</cell>
   </row>
-  <row index="58">
+  <row index="70">
+    <cell name="directorate">Directorate for Financial and Enterprise Affairs</cell>
+    <cell name="doi">10.1787/2a8a1ee9-en</cell>
+    <cell name="title">OECD Anti-Bribery Convention Phase 4 Report on Belgium (en)</cell>
+    <cell name="subtitle">Implementing the Convention and Related Legal Instruments (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-03-25</cell>
+    <cell name="embargo date">2025-03-25T10:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1157aaf8</cell>
+  </row>
+  <row index="71">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/262255fd-en</cell>
     <cell name="title">Getting the Public on Side (en)</cell>
@@ -1180,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6d07dc8c</cell>
   </row>
-  <row index="59">
+  <row index="72">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4abf1ea5-en</cell>
     <cell name="title">OECD Economic Surveys: Lithuania 2025 (en)</cell>
@@ -1200,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7dd38a40</cell>
   </row>
-  <row index="60">
+  <row index="73">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/4abf1ea5-en</cell>
     <cell name="title">OECD Economic Surveys: Lithuania 2025 (en)</cell>
@@ -1220,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fc0a733d</cell>
   </row>
-  <row index="61">
+  <row index="74">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/28a876c2-en</cell>
     <cell name="title">Drivers of Trust in Public Institutions in Australia (en)</cell>
@@ -1240,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21f8d196</cell>
   </row>
-  <row index="62">
+  <row index="75">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a9096fb1-en</cell>
     <cell name="title">The Ocean Economy to 2050 (en)</cell>
@@ -1260,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57182519</cell>
   </row>
-  <row index="63">
+  <row index="76">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/a9096fb1-en</cell>
     <cell name="title">The Ocean Economy to 2050 (en)</cell>
@@ -1280,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/836584ef</cell>
   </row>
-  <row index="64">
+  <row index="77">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
@@ -1300,7 +1560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e8212cb7</cell>
   </row>
-  <row index="65">
+  <row index="78">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/0b539499-en</cell>
     <cell name="title">Improving Policy Coherence for Portugal’s Ocean Economy (en)</cell>
@@ -1320,7 +1580,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0762ee42</cell>
   </row>
-  <row index="66">
+  <row index="79">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d6dd02bc-en</cell>
+    <cell name="title">OECD Economic Surveys: Israel 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-04-02</cell>
+    <cell name="embargo date">2025-04-02T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/88e3a150</cell>
+  </row>
+  <row index="80">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/f5b82176-en</cell>
     <cell name="title">Unlocking High-Quality Teaching (en)</cell>
@@ -1340,7 +1620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eace31c5</cell>
   </row>
-  <row index="67">
+  <row index="81">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/56b60e39-en</cell>
     <cell name="title">OECD Regulatory Policy Outlook 2025 (en)</cell>
@@ -1360,7 +1640,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/608c7e77</cell>
   </row>
-  <row index="68">
+  <row index="82">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2f1a3d38-fr</cell>
     <cell name="title">Perspectives de l'OCDE sur la politique de la réglementation 2025 (fr)</cell>
@@ -1380,7 +1660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44aa552a</cell>
   </row>
-  <row index="69">
+  <row index="83">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/2f1a3d38-fr</cell>
     <cell name="title">Perspectives de l'OCDE sur la politique de la réglementation 2025 (fr)</cell>
@@ -1400,7 +1680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/581af137</cell>
   </row>
-  <row index="70">
+  <row index="84">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/56b60e39-en</cell>
     <cell name="title">OECD Regulatory Policy Outlook 2025 (en)</cell>
@@ -1420,7 +1700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb65b290</cell>
   </row>
-  <row index="71">
+  <row index="85">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/7a0131cf-en</cell>
     <cell name="title">Ensuring Quality Vocational and Higher Education in Lithuania (en)</cell>
@@ -1440,7 +1720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b872eca</cell>
   </row>
-  <row index="72">
+  <row index="86">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0c8fefa-en</cell>
     <cell name="title">Cities for All Ages (en)</cell>
@@ -1460,7 +1740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/46d6d50c</cell>
   </row>
-  <row index="73">
+  <row index="87">
     <cell name="directorate">Centre for Entrepreneurship, SMEs, Regions and Cities</cell>
     <cell name="doi">10.1787/f0c8fefa-en</cell>
     <cell name="title">Cities for All Ages (en)</cell>
@@ -1480,7 +1760,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/10b5bd3f</cell>
   </row>
-  <row index="74">
+  <row index="88">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/803b3ea1-en</cell>
+    <cell name="title">OECD Economic Surveys: Luxembourg 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-04-28</cell>
+    <cell name="embargo date">2025-04-27T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64998f23</cell>
+  </row>
+  <row index="89">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d806a81d-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
@@ -1500,7 +1800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
-  <row index="75">
+  <row index="90">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f9e02c-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
@@ -1520,7 +1820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
   </row>
-  <row index="76">
+  <row index="91">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -1540,7 +1840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="77">
+  <row index="92">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>

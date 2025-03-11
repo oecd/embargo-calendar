@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 10 March 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 11 March 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Review of the Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
 
@@ -104,7 +104,7 @@ Thursday 13 March 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +113,7 @@ Thursday 13 March 2025 at 10:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Policy paper*
 * Format: *PDF*
 
@@ -162,6 +162,29 @@ Monday 17 March 2025 at 6:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Prospettive economiche dell'OCSE, Rapporto intermedio marzo 2025](https://doi.org/10.1787/2bbb1aae-it)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 17 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *Italian*
+* Availability: *Not yet available*
+* Type of publication: *Issue*
+* Format: *PDF*
 
 ------
 
@@ -418,6 +441,29 @@ Thursday 20 March 2025 at 10:00 | no launch event
 
 ------
 
+## [Rapport sur la dette mondiale 2025 - Financer la croissance dans un environnement de marché de la dette difficile](https://doi.org/10.1787/e334697f-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 20 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
 
 Embargo date | Launch date
@@ -438,6 +484,29 @@ Friday 21 March 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Anti-Bribery Convention Phase 4 Report on Belgium - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/2a8a1ee9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 25 March 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
 
 ------
 
@@ -556,6 +625,29 @@ Monday 31 March 2025 at 18:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Israel 2025](https://doi.org/10.1787/d6dd02bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [Unlocking High-Quality Teaching](https://doi.org/10.1787/f5b82176-en)
 
 Embargo date | Launch date
@@ -668,6 +760,29 @@ Monday 14 April 2025 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Economic Surveys: Luxembourg 2025](https://doi.org/10.1787/803b3ea1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 27 April 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
 
