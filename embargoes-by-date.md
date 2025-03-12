@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 11 March 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 12 March 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [10 March 2025](#10-march-2025)
 * [11 March 2025](#11-march-2025)
 * [12 March 2025](#12-march-2025)
 * [13 March 2025](#13-march-2025)
@@ -22,36 +21,10 @@ Data generated on | |
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
 * [14 April 2025](#14-april-2025)
+* [15 April 2025](#15-april-2025)
 * [27 April 2025](#27-april-2025)
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
-
-------
-
-# 10 March 2025
-
-## [OECD Review of the Scottish Fiscal Commission 2025](https://doi.org/10.1787/35e60d73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 10 March 2025 at 9:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -169,7 +142,7 @@ Monday 17 March 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -178,9 +151,9 @@ Monday 17 March 2025 at 6:00 | no launch event
 
 * Directorate: *Environment Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -207,7 +180,7 @@ Monday 17 March 2025 at 6:00 | no launch event
 
 ------
 
-## [Prospettive economiche dell'OCSE, Rapporto intermedio marzo 2025](https://doi.org/10.1787/2bbb1aae-it)
+## [Prospettive economiche dell'OCSE, Rapporto intermedio, marzo 2025 - Navigare in acque incerte](https://doi.org/10.1787/2bbb1aae-it)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -230,7 +203,7 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 ------
 
-## [OECD Economic Outlook, Interim Report March 2025](https://doi.org/10.1787/89af4857-en)
+## [OECD Economic Outlook, Interim Report March 2025 - Steering through Uncertainty](https://doi.org/10.1787/89af4857-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -854,6 +827,33 @@ Monday 14 April 2025 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 April 2025
+
+## [The Circular Economy in Cities and Regions of the European Union](https://doi.org/10.1787/e09c21e2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 April 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
