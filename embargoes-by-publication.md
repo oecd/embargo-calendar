@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 13 March 2025 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Environmental Performance Reviews: Sweden 2025](https://doi.org/10.1787/91dcc109-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 12 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Friday 14 March 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Financial literacy in Cyprus](https://doi.org/10.1787/345ca38a-en)
 
@@ -127,7 +104,7 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -136,13 +113,13 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2025](https://doi.org/10.1787/092e5f31-fr)
+## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2025 - Garder le cap dans l’incertitude](https://doi.org/10.1787/092e5f31-fr)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -345,6 +322,29 @@ Tuesday 18 March 2025 at 10:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [An immersive technologies policy primer](https://doi.org/10.1787/cf39863d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 19 March 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Working paper*
 * Format: *PDF*
 
 ------
