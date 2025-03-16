@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 14 March 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Financial literacy in Cyprus](https://doi.org/10.1787/345ca38a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 13 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
+| *Sunday 16 March 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Adapter l’Île-de-France aux risques de raréfaction de l’eau](https://doi.org/10.1787/270e92ac-fr)
 
@@ -81,7 +58,7 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,9 +67,9 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *Italian*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -127,7 +104,7 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -136,9 +113,9 @@ Monday 17 March 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Issue*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
