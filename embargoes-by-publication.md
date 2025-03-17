@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 16 March 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 17 March 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Adapter l’Île-de-France aux risques de raréfaction de l’eau](https://doi.org/10.1787/270e92ac-fr)
 
@@ -392,6 +392,29 @@ Friday 21 March 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Trade Facilitation Indicators - Monitoring trade facilitation policies up to 2025](https://doi.org/10.1787/fd6f27dc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 24 March 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
