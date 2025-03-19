@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 18 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 19 March 2025 at 23:00* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [17 March 2025](#17-march-2025)
 * [18 March 2025](#18-march-2025)
 * [19 March 2025](#19-march-2025)
 * [20 March 2025](#20-march-2025)
@@ -24,125 +23,7 @@ Data generated on | |
 * [27 April 2025](#27-april-2025)
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
-
-------
-
-# 17 March 2025
-
-## [Adapter l’Île-de-France aux risques de raréfaction de l’eau](https://doi.org/10.1787/270e92ac-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 March 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Adapting the Paris Metropolitan Area to a Water-Scarce Future](https://doi.org/10.1787/00a103f8-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 March 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Prospettive economiche dell'OCSE, Rapporto intermedio, marzo 2025 - Navigare in acque incerte](https://doi.org/10.1787/2bbb1aae-it)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *Italian*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Outlook, Interim Report March 2025 - Steering through Uncertainty](https://doi.org/10.1787/89af4857-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives économiques de l'OCDE, Rapport intermédiaire, mars 2025 - Garder le cap dans l’incertitude](https://doi.org/10.1787/092e5f31-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 17 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Issue*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+* [15 May 2025](#15-may-2025)
 
 ------
 
@@ -440,7 +321,7 @@ Friday 21 March 2025 at 7:00 | no launch event
 
 # 24 March 2025
 
-## [OECD Trade Facilitation Indicators - Monitoring trade facilitation policies up to 2025](https://doi.org/10.1787/fd6f27dc-en)
+## [OECD Trade Facilitation Indicators - Monitoring Policies up to 2025](https://doi.org/10.1787/fd6f27dc-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -457,9 +338,9 @@ Monday 24 March 2025 at 7:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -696,7 +577,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -719,7 +600,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -796,7 +677,7 @@ Monday 14 April 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -823,7 +704,7 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
@@ -926,6 +807,33 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 ### Additional Information
 
 * Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 15 May 2025
+
+## [How is Life for Children in the Digital Age?](https://doi.org/10.1787/0854b900-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
