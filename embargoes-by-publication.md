@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 20 March 2025 at 22:58* | [See embargoes by date](embargoes-by-date.md) |
-
-## [An immersive technologies policy primer](https://doi.org/10.1787/cf39863d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 19 March 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Working paper*
-* Format: *PDF*
-
-------
+| *Friday 21 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Global Debt Report 2025 - Financing Growth in a Challenging Debt Market Environment](https://doi.org/10.1787/8ee42b13-en)
 
@@ -173,7 +150,7 @@ Wednesday 26 March 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -182,9 +159,9 @@ Wednesday 26 March 2025 at 8:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -196,7 +173,7 @@ Friday 28 March 2025 at 8:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -205,7 +182,7 @@ Friday 28 March 2025 at 8:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
 
@@ -297,7 +274,7 @@ Wednesday 2 April 2025 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -435,7 +412,7 @@ Thursday 10 April 2025 at 10:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -579,7 +556,30 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 ------
 
-## [How is Life for Children in the Digital Age?](https://doi.org/10.1787/0854b900-en)
+## [Comment va la vie des enfants à l’ère numérique ? (version abrégée)](https://doi.org/10.1787/1401e408-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+## [How's Life for Children in the Digital Age?](https://doi.org/10.1787/0854b900-en)
 
 Embargo date | Launch date
 -------------|:------------:
