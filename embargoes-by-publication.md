@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Global Debt Report 2025 - Financing Growth in a Challenging Debt Market Environment](https://doi.org/10.1787/8ee42b13-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Rapport sur la dette mondiale 2025 - Financer la croissance dans un environnement de marché de la dette difficile](https://doi.org/10.1787/e334697f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 March 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 23 March 2025 at 22:59* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Trade Facilitation Indicators - Monitoring Policies up to 2025](https://doi.org/10.1787/fd6f27dc-en)
 

@@ -2,10 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 21 March 2025 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 23 March 2025 at 22:59* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [20 March 2025](#20-march-2025)
-* [21 March 2025](#21-march-2025)
 * [24 March 2025](#24-march-2025)
 * [25 March 2025](#25-march-2025)
 * [26 March 2025](#26-march-2025)
@@ -22,83 +20,6 @@ Data generated on | |
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
-
-------
-
-# 20 March 2025
-
-## [Global Debt Report 2025 - Financing Growth in a Challenging Debt Market Environment](https://doi.org/10.1787/8ee42b13-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Rapport sur la dette mondiale 2025 - Financer la croissance dans un environnement de marché de la dette difficile](https://doi.org/10.1787/e334697f-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 20 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
-# 21 March 2025
-
-## [OECD Environmental Performance Reviews: Japan 2025](https://doi.org/10.1787/583cab4c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 21 March 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 

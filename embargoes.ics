@@ -2,136 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/8ee42b13-end3e437
-SUMMARY:[Stand-alone monograph] Global Debt Repo
- rt 2025 - Financing Growth in a Challeng
- ing Debt Market Environment
-DESCRIPTION:*[Stand-alone monograph] Global Debt Rep
- ort 2025 - Financing Growth in a Challen
- ging Debt Market Environment*\n\nDirecto
- rate: Directorate for Financial and Ente
- rprise Affairs\nLanguage: English\nDOI: 
- https://doi.org/10.1787/8ee42b13-en\nPub
- lication type: Stand-alone monograph\nRe
- leased as: HTML, Paperback, PDF, ZJCR, Z
- XML\n\nEmbargo date/time: Thursday, 20 M
- arch 2025, 10:00 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 22:59, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=8ee42b13-en
- .
-DTSTAMP:20250321T225943Z
-DTSTART:20250320T100000Z
-DTEND:20250320T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Global
-  Debt Report 2025 - Financing Growth in 
- a Challenging Debt Market Environment
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/e334697f-frd3e491
-SUMMARY:[Stand-alone monograph] Rapport sur la d
- ette mondiale 2025 - Financer la croissa
- nce dans un environnement de marché de l
- a dette difficile
-DESCRIPTION:*[Stand-alone monograph] Rapport sur la 
- dette mondiale 2025 - Financer la croiss
- ance dans un environnement de marché de 
- la dette difficile*\n\nDirectorate: Dire
- ctorate for Financial and Enterprise Aff
- airs\nLanguage: French\nDOI: https://doi
- .org/10.1787/e334697f-fr\nPublication ty
- pe: Stand-alone monograph\nReleased as: 
- PDF\n\nEmbargo date/time: Thursday, 20 M
- arch 2025, 10:00 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 22:59, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=e334697f-fr
- .
-DTSTAMP:20250321T225943Z
-DTSTART:20250320T100000Z
-DTEND:20250320T101500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] Rappor
- t sur la dette mondiale 2025 - Financer 
- la croissance dans un environnement de m
- arché de la dette difficile
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/583cab4c-end3e972
-SUMMARY:[Book] OECD Environmental Performance Re
- views: Japan 2025
-DESCRIPTION:*[Book] OECD Environmental Performance R
- eviews: Japan 2025*\n\nDirectorate: Envi
- ronment Directorate\nLanguage: English\n
- DOI: https://doi.org/10.1787/583cab4c-en
- \nPublication type: Book\nReleased as: H
- TML, Paperback, PDF, ZJCR, ZXML\n\nEmbar
- go date/time: Friday, 21 March 2025, 7:0
- 0 (GMT)\n\n\niLibrary export: never\nFre
- epreview export: never\nOECD.org export:
-  never\nFTI loaded: ✓\n\nFor more inform
- ation see: https://oecd.github.io/embarg
- o-calendar/embargoes-by-publication.html
- .\n\nPlease note: This information was c
- orrect as of this afternoon at 22:59, it
-  is updated each night; therefore any su
- bsequent updates may not yet be visible 
- here. Also, please be aware that the dif
- ferent released media (PDF, HTML, etc.) 
- are not necessarily released at the same
-  time. For complete and up-to-date infor
- mation see here: http://kappa.oecd.org/v
- 3/search?term=583cab4c-en.
-DTSTAMP:20250321T225943Z
-DTSTART:20250321T070000Z
-DTEND:20250321T071500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT48H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Book] OECD Environmental Perf
- ormance Reviews: Japan 2025
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/fd6f27dc-end3e1502
+UID:10.1787/fd6f27dc-end3e63
 SUMMARY:[Stand-alone monograph] OECD Trade Facil
  itation Indicators - Monitoring Policies
   up to 2025
@@ -158,7 +29,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Trade Faci
  t the same time. For complete and up-to-
  date information see here: http://kappa.
  oecd.org/v3/search?term=fd6f27dc-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250324T070000Z
 DTEND:20250324T071500Z
 TRANSP:TRANSPARENT
@@ -173,7 +44,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD T
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4f4eb067-end3e1718
+UID:10.1787/4f4eb067-end3e279
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Follow-Up Report on Spain - Implem
  enting the Convention and Related Legal 
@@ -202,7 +73,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=4f4eb067-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250325T100000Z
 DTEND:20250325T101500Z
 TRANSP:TRANSPARENT
@@ -218,7 +89,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2a8a1ee9-end3e1772
+UID:10.1787/2a8a1ee9-end3e333
 SUMMARY:[Report] OECD Anti-Bribery Convention Ph
  ase 4 Report on Belgium - Implementing t
  he Convention and Related Legal Instrume
@@ -247,7 +118,7 @@ DESCRIPTION:*[Report] OECD Anti-Bribery Convention P
  plete and up-to-date information see her
  e: http://kappa.oecd.org/v3/search?term=
  2a8a1ee9-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250325T100000Z
 DTEND:20250325T101500Z
 TRANSP:TRANSPARENT
@@ -263,7 +134,7 @@ DESCRIPTION:Reminder: [Report] OECD Anti-Bribery Con
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/262255fd-end3e2147
+UID:10.1787/262255fd-end3e708
 SUMMARY:[Stand-alone monograph] Getting the Publ
  ic on Side - How to Make Reforms Accepta
  ble by Design
@@ -292,7 +163,7 @@ DESCRIPTION:*[Stand-alone monograph] Getting the Pub
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=262
  255fd-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250326T080000Z
 DTEND:20250326T081500Z
 TRANSP:TRANSPARENT
@@ -307,7 +178,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Gettin
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/4abf1ea5-end3e2362
+UID:10.1787/4abf1ea5-end3e923
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Lithuania 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -332,7 +203,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=4abf1ea5-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250328T080000Z
 DTEND:20250328T081500Z
 TRANSP:TRANSPARENT
@@ -346,7 +217,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28a876c2-end3e2467
+UID:10.1787/28a876c2-end3e1028
 SUMMARY:[Book] Drivers of Trust in Public Instit
  utions in Australia
 DESCRIPTION:*[Book] Drivers of Trust in Public Insti
@@ -371,7 +242,7 @@ DESCRIPTION:*[Book] Drivers of Trust in Public Insti
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=28
  a876c2-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250330T220000Z
 DTEND:20250330T221500Z
 TRANSP:TRANSPARENT
@@ -385,7 +256,7 @@ DESCRIPTION:Reminder: [Book] Drivers of Trust in Pub
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/a9096fb1-end3e3157
+UID:10.1787/a9096fb1-end3e1717
 SUMMARY:[Stand-alone monograph] The Ocean Econom
  y to 2050
 DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
@@ -411,7 +282,7 @@ DESCRIPTION:*[Stand-alone monograph] The Ocean Econo
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=a9096fb1-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250331T070000Z
 DTEND:20250331T071500Z
 TRANSP:TRANSPARENT
@@ -425,7 +296,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] The Oc
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b539499-end3e3263
+UID:10.1787/0b539499-end3e1823
 SUMMARY:[Stand-alone monograph] Improving Policy
   Coherence for Portugal’s Ocean Economy 
  - A Strategic Plan for Natural Resources
@@ -455,7 +326,7 @@ DESCRIPTION:*[Stand-alone monograph] Improving Polic
  te and up-to-date information see here: 
  http://kappa.oecd.org/v3/search?term=0b5
  39499-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250331T180000Z
 DTEND:20250331T181500Z
 TRANSP:TRANSPARENT
@@ -471,7 +342,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Improv
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d6dd02bc-end3e3369
+UID:10.1787/d6dd02bc-end3e1930
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Israel 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -496,7 +367,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=d6dd02bc-e
  n.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250402T070000Z
 DTEND:20250402T071500Z
 TRANSP:TRANSPARENT
@@ -510,7 +381,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f5b82176-end3e3421
+UID:10.1787/f5b82176-end3e1982
 SUMMARY:[Stand-alone monograph] Unlocking High-Q
  uality Teaching
 DESCRIPTION:*[Stand-alone monograph] Unlocking High-
@@ -535,7 +406,7 @@ DESCRIPTION:*[Stand-alone monograph] Unlocking High-
   time. For complete and up-to-date infor
  mation see here: http://kappa.oecd.org/v
  3/search?term=f5b82176-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250403T070000Z
 DTEND:20250403T071500Z
 TRANSP:TRANSPARENT
@@ -549,7 +420,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Unlock
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/56b60e39-end3e3474
+UID:10.1787/56b60e39-end3e2034
 SUMMARY:[Book] OECD Regulatory Policy Outlook 20
  25
 DESCRIPTION:*[Book] OECD Regulatory Policy Outlook 2
@@ -574,7 +445,7 @@ DESCRIPTION:*[Book] OECD Regulatory Policy Outlook 2
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=56b60e3
  9-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250409T070000Z
 DTEND:20250409T071500Z
 TRANSP:TRANSPARENT
@@ -588,7 +459,7 @@ DESCRIPTION:Reminder: [Book] OECD Regulatory Policy
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/2f1a3d38-frd3e3899
+UID:10.1787/2f1a3d38-frd3e2459
 SUMMARY:[Book] Perspectives de l'OCDE sur la pol
  itique de la réglementation 2025
 DESCRIPTION:*[Book] Perspectives de l'OCDE sur la po
@@ -613,7 +484,7 @@ DESCRIPTION:*[Book] Perspectives de l'OCDE sur la po
  the same time. For complete and up-to-da
  te information see here: http://kappa.oe
  cd.org/v3/search?term=2f1a3d38-fr.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250409T070000Z
 DTEND:20250409T071500Z
 TRANSP:TRANSPARENT
@@ -628,7 +499,7 @@ DESCRIPTION:Reminder: [Book] Perspectives de l'OCDE
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/229be51e-ded3e4376
+UID:10.1787/229be51e-ded3e2937
 SUMMARY:[Book] OECD‑Ausblick Regulierungspolitik
   2025 (Kurzfassung)
 DESCRIPTION:*[Book] OECD‑Ausblick Regulierungspoliti
@@ -653,7 +524,7 @@ DESCRIPTION:*[Book] OECD‑Ausblick Regulierungspoliti
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=22
  9be51e-de.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250409T070000Z
 DTEND:20250409T071500Z
 TRANSP:TRANSPARENT
@@ -667,7 +538,7 @@ DESCRIPTION:Reminder: [Book] OECD‑Ausblick Regulieru
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7a0131cf-end3e6342
+UID:10.1787/7a0131cf-end3e4902
 SUMMARY:[Stand-alone monograph] Ensuring Quality
   Vocational and Higher Education in Lith
  uania
@@ -694,7 +565,7 @@ DESCRIPTION:*[Stand-alone monograph] Ensuring Qualit
  r complete and up-to-date information se
  e here: http://kappa.oecd.org/v3/search?
  term=7a0131cf-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250410T050000Z
 DTEND:20250410T051500Z
 TRANSP:TRANSPARENT
@@ -709,7 +580,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Ensuri
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d01c660f-end3e6394
+UID:10.1787/d01c660f-end3e4954
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Türkiye 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -734,7 +605,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d up-to-date information see here: http:
  //kappa.oecd.org/v3/search?term=d01c660f
  -en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250410T100000Z
 DTEND:20250410T101500Z
 TRANSP:TRANSPARENT
@@ -748,7 +619,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/f0c8fefa-end3e6498
+UID:10.1787/f0c8fefa-end3e5059
 SUMMARY:[Book] Cities for All Ages
 DESCRIPTION:*[Book] Cities for All Ages*\n\nDirector
  ate: Centre for Entrepreneurship, SMEs, 
@@ -772,7 +643,7 @@ DESCRIPTION:*[Book] Cities for All Ages*\n\nDirector
  e and up-to-date information see here: h
  ttp://kappa.oecd.org/v3/search?term=f0c8
  fefa-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250414T120000Z
 DTEND:20250414T121500Z
 TRANSP:TRANSPARENT
@@ -785,7 +656,7 @@ DESCRIPTION:Reminder: [Book] Cities for All Ages
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/e09c21e2-end3e6550
+UID:10.1787/e09c21e2-end3e5111
 SUMMARY:[Book] The Circular Economy in Cities an
  d Regions of the European Union
 DESCRIPTION:*[Book] The Circular Economy in Cities a
@@ -811,7 +682,7 @@ DESCRIPTION:*[Book] The Circular Economy in Cities a
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=e09c21e2-e
  n.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250415T060000Z
 DTEND:20250415T061500Z
 TRANSP:TRANSPARENT
@@ -826,7 +697,7 @@ DESCRIPTION:Reminder: [Book] The Circular Economy in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/803b3ea1-end3e6602
+UID:10.1787/803b3ea1-end3e5163
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Luxembourg 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -851,7 +722,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=803b3ea
  1-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250427T220000Z
 DTEND:20250427T221500Z
 TRANSP:TRANSPARENT
@@ -865,7 +736,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d806a81d-frd3e6655
+UID:10.1787/d806a81d-frd3e5215
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : Canada 2025
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -890,7 +761,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  ete and up-to-date information see here:
   http://kappa.oecd.org/v3/search?term=d8
  06a81d-fr.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250430T070000Z
 DTEND:20250430T071500Z
 TRANSP:TRANSPARENT
@@ -904,7 +775,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28f9e02c-end3e6707
+UID:10.1787/28f9e02c-end3e5267
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Canada 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -929,7 +800,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
   up-to-date information see here: http:/
  /kappa.oecd.org/v3/search?term=28f9e02c-
  en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250430T070000Z
 DTEND:20250430T071500Z
 TRANSP:TRANSPARENT
@@ -943,7 +814,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc0babf3-end3e6759
+UID:10.1787/bc0babf3-end3e5319
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2025
@@ -970,7 +841,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
  he same time. For complete and up-to-dat
  e information see here: http://kappa.oec
  d.org/v3/search?term=bc0babf3-en.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250507T070000Z
 DTEND:20250507T071500Z
 TRANSP:TRANSPARENT
@@ -985,7 +856,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1401e408-frd3e6913
+UID:10.1787/1401e408-frd3e5474
 SUMMARY:[Stand-alone monograph] Comment va la vi
  e des enfants à l’ère numérique ? (versi
  on abrégée)
@@ -1013,7 +884,7 @@ DESCRIPTION:*[Stand-alone monograph] Comment va la v
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=1401e408-fr.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250515T090000Z
 DTEND:20250515T091500Z
 TRANSP:TRANSPARENT
@@ -1028,7 +899,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Commen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0854b900-end3e6966
+UID:10.1787/0854b900-end3e5526
 SUMMARY:[Stand-alone monograph] How's Life for C
  hildren in the Digital Age?
 DESCRIPTION:*[Stand-alone monograph] How's Life for 
@@ -1055,7 +926,7 @@ DESCRIPTION:*[Stand-alone monograph] How's Life for
  up-to-date information see here: http://
  kappa.oecd.org/v3/search?term=0854b900-e
  n.
-DTSTAMP:20250321T225943Z
+DTSTAMP:20250323T225951Z
 DTSTART:20250515T090000Z
 DTEND:20250515T091500Z
 TRANSP:TRANSPARENT
