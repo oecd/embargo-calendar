@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 March 2025 at 0:42* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 25 March 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [24 March 2025](#24-march-2025)
 * [25 March 2025](#25-march-2025)
@@ -237,7 +237,7 @@ Monday 31 March 2025 at 18:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -246,9 +246,9 @@ Monday 31 March 2025 at 18:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
