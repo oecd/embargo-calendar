@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 25 March 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Trade Facilitation Indicators - Monitoring Policies up to 2025](https://doi.org/10.1787/fd6f27dc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 24 March 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 26 March 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Anti-Bribery Convention Phase 4 Follow-Up Report on Spain - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/4f4eb067-en)
 
@@ -150,7 +127,7 @@ Sunday 30 March 2025 at 22:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,9 +136,9 @@ Sunday 30 March 2025 at 22:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
