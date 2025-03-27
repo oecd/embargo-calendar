@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 26 March 2025 at 23:05* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Anti-Bribery Convention Phase 4 Follow-Up Report on Spain - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/4f4eb067-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Convention anti-corruption de l’OCDE - Rapport d'évaluation de Phase 4 de la Belgique - Mise en oeuvre de la Convention et des instruments connexes](https://doi.org/10.1787/03f9a61a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [OECD Anti-Bribery Convention Phase 4 Report on Belgium - Implementing the Convention and Related Legal Instruments](https://doi.org/10.1787/2a8a1ee9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 25 March 2025 at 10:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Thursday 27 March 2025 at 23:01* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Getting the Public on Side - How to Make Reforms Acceptable by Design](https://doi.org/10.1787/262255fd-en)
 
@@ -196,7 +127,7 @@ Wednesday 2 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -205,7 +136,7 @@ Wednesday 2 April 2025 at 7:00 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -219,7 +150,7 @@ Thursday 3 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -228,9 +159,9 @@ Thursday 3 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -414,6 +345,29 @@ Sunday 27 April 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 28 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
