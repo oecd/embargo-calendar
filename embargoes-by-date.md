@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 27 March 2025 at 23:01* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Saturday 29 March 2025 at 0:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [26 March 2025](#26-march-2025)
 * [28 March 2025](#28-march-2025)
 * [30 March 2025](#30-march-2025)
 * [31 March 2025](#31-march-2025)
@@ -19,33 +18,6 @@ Data generated on | |
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
-
-------
-
-# 26 March 2025
-
-## [Getting the Public on Side - How to Make Reforms Acceptable by Design](https://doi.org/10.1787/262255fd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 26 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -109,7 +81,7 @@ Sunday 30 March 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 31 March 2025 at 7:00 | no launch event
+Monday 31 March 2025 at 8:30 | no launch event
 
 ### Status Information
 
@@ -159,7 +131,7 @@ Monday 31 March 2025 at 18:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 2 April 2025 at 7:00 | no launch event
+Wednesday 2 April 2025 at 9:40 | no launch event
 
 ### Status Information
 
@@ -240,7 +212,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -249,9 +221,9 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -309,7 +281,7 @@ Thursday 10 April 2025 at 5:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Thursday 10 April 2025 at 10:00 | no launch event
+Thursday 10 April 2025 at 8:30 | no launch event
 
 ### Status Information
 
