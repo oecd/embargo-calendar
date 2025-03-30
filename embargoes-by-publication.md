@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 March 2025 at 0:12* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Economic Surveys: Lithuania 2025](https://doi.org/10.1787/4abf1ea5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
+| *Sunday 30 March 2025 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Drivers of Trust in Public Institutions in Australia](https://doi.org/10.1787/28a876c2-en)
 

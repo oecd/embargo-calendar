@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Saturday 29 March 2025 at 0:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 30 March 2025 at 22:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 March 2025](#28-march-2025)
 * [30 March 2025](#30-march-2025)
 * [31 March 2025](#31-march-2025)
 * [2 April 2025](#2-april-2025)
@@ -18,33 +17,6 @@ Data generated on | |
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
-
-------
-
-# 28 March 2025
-
-## [OECD Economic Surveys: Lithuania 2025](https://doi.org/10.1787/4abf1ea5-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 28 March 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *Paperback, PDF*
-
-------
 
 ------
 
