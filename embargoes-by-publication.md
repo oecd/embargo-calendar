@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 March 2025 at 22:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 31 March 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Drivers of Trust in Public Institutions in Australia](https://doi.org/10.1787/28a876c2-en)
 
@@ -70,6 +70,29 @@ Monday 31 March 2025 at 18:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Financing SMEs and Entrepreneurs Scoreboard: 2025 Highlights](https://doi.org/10.1787/64c9063c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 April 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
 
 ------
 

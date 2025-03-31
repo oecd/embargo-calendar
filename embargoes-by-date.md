@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 30 March 2025 at 22:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 31 March 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 March 2025](#30-march-2025)
 * [31 March 2025](#31-march-2025)
@@ -98,6 +98,29 @@ Monday 31 March 2025 at 18:00 | no launch event
 ------
 
 # 2 April 2025
+
+## [OECD Financing SMEs and Entrepreneurs Scoreboard: 2025 Highlights](https://doi.org/10.1787/64c9063c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 2 April 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [OECD Economic Surveys: Israel 2025](https://doi.org/10.1787/d6dd02bc-en)
 
