@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-03-31T23:09:17.9100763+02:00">
+<report name="official-embargoes" generated="2025-04-01T23:06:30.0454115+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -3441,26 +3441,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64998f23</cell>
   </row>
   <row index="172">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/b3a95829-en</cell>
-    <cell name="title">Taxing Wages 2025 (en)</cell>
-    <cell name="subtitle">Decomposition of Personal Income Taxes and the Role of Tax Reliefs (en)</cell>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-04-28</cell>
-    <cell name="embargo date">2025-04-28T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4ea597f</cell>
-  </row>
-  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d806a81d-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
@@ -3480,7 +3460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
-  <row index="174">
+  <row index="173">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f9e02c-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
@@ -3499,6 +3479,26 @@
     <cell name="catalogue type">Economic survey</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
+  </row>
+  <row index="174">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/b3a95829-en</cell>
+    <cell name="title">Taxing Wages 2025 (en)</cell>
+    <cell name="subtitle">Decomposition of Personal Income Taxes and the Role of Tax Reliefs (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-04-30</cell>
+    <cell name="embargo date">2025-04-30T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4ea597f</cell>
   </row>
   <row index="175">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>

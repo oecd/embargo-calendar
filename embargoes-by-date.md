@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 March 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 1 April 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [30 March 2025](#30-march-2025)
 * [31 March 2025](#31-march-2025)
@@ -13,7 +13,6 @@ Data generated on | |
 * [14 April 2025](#14-april-2025)
 * [15 April 2025](#15-april-2025)
 * [27 April 2025](#27-april-2025)
-* [28 April 2025](#28-april-2025)
 * [30 April 2025](#30-april-2025)
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
@@ -378,33 +377,6 @@ Sunday 27 April 2025 at 22:00 | no launch event
 
 ------
 
-# 28 April 2025
-
-## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 April 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
-------
-
 # 30 April 2025
 
 ## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
@@ -449,6 +421,29 @@ Wednesday 30 April 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------

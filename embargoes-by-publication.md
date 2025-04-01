@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 31 March 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 1 April 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Drivers of Trust in Public Institutions in Australia](https://doi.org/10.1787/28a876c2-en)
 
@@ -326,29 +326,6 @@ Sunday 27 April 2025 at 22:00 | no launch event
 
 ------
 
-## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 April 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
 
 Embargo date | Launch date
@@ -391,6 +368,29 @@ Wednesday 30 April 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
