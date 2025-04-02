@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 1 April 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Drivers of Trust in Public Institutions in Australia](https://doi.org/10.1787/28a876c2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Sunday 30 March 2025 at 22:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [The Ocean Economy to 2050](https://doi.org/10.1787/a9096fb1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 March 2025 at 8:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Improving Policy Coherence for Portugal’s Ocean Economy - A Strategic Plan for Natural Resources, Safety and Maritime Services](https://doi.org/10.1787/0b539499-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 31 March 2025 at 18:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 2 April 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Financing SMEs and Entrepreneurs Scoreboard: 2025 Highlights](https://doi.org/10.1787/64c9063c-en)
 
@@ -196,7 +127,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -205,9 +136,9 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *German*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -303,6 +234,29 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 ------
 
+## [Études économiques de l’OCDE : Luxembourg 2025](https://doi.org/10.1787/18720180-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Sunday 27 April 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
 ## [OECD Economic Surveys: Luxembourg 2025](https://doi.org/10.1787/803b3ea1-en)
 
 Embargo date | Launch date
@@ -390,6 +344,29 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [OECD Integrity and Anti-Corruption Review of Ukraine](https://doi.org/10.1787/7dbe965b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
 
