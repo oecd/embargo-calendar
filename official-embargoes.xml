@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-04-02T23:07:31.1570476+02:00">
+<report name="official-embargoes" generated="2025-04-03T23:13:54.6889398+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -34,7 +34,7 @@
     <cell name="ilibrary last export date"/>
     <cell name="freepreview last export date"/>
     <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
+    <cell name="discoveryservice last export date">2025-04-02T21:20:37Z</cell>
     <cell name="google last export date"/>
     <cell name="catalogue type">Policy paper</cell>
     <cell name="fti loaded?">✓</cell>
@@ -2596,7 +2596,7 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3b872eca</cell>
   </row>
@@ -2721,46 +2721,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64998f23</cell>
   </row>
   <row index="136">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/d806a81d-fr</cell>
-    <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-04-30</cell>
-    <cell name="embargo date">2025-04-30T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
-  </row>
-  <row index="137">
-    <cell name="directorate">Economics Department</cell>
-    <cell name="doi">10.1787/28f9e02c-en</cell>
-    <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
-    <cell name="subtitle"/>
-    <cell name="language">English</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
-    <cell name="date of publication">2025-04-30</cell>
-    <cell name="embargo date">2025-04-30T07:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Economic survey</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
-  </row>
-  <row index="138">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b3a95829-en</cell>
     <cell name="title">Taxing Wages 2025 (en)</cell>
@@ -2780,7 +2740,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4ea597f</cell>
   </row>
-  <row index="139">
+  <row index="137">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7dbe965b-en</cell>
     <cell name="title">OECD Integrity and Anti-Corruption Review of Ukraine (en)</cell>
@@ -2800,7 +2760,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b6c75</cell>
   </row>
-  <row index="140">
+  <row index="138">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -2820,7 +2780,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="141">
+  <row index="139">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -2840,7 +2800,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2224c2aa</cell>
   </row>
-  <row index="142">
+  <row index="140">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0854b900-en</cell>
     <cell name="title">How's Life for Children in the Digital Age? (en)</cell>
@@ -2860,7 +2820,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae952d6d</cell>
   </row>
-  <row index="143">
+  <row index="141">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/1401e408-fr</cell>
     <cell name="title">Comment va la vie des enfants à l’ère numérique ? (version abrégée) (fr)</cell>
@@ -2880,7 +2840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423e7949</cell>
   </row>
-  <row index="144">
+  <row index="142">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0854b900-en</cell>
     <cell name="title">How's Life for Children in the Digital Age? (en)</cell>
@@ -2899,5 +2859,45 @@
     <cell name="catalogue type">Stand-alone monograph</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/120bb107</cell>
+  </row>
+  <row index="143">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/d806a81d-fr</cell>
+    <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-05-26</cell>
+    <cell name="embargo date">2025-05-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
+  </row>
+  <row index="144">
+    <cell name="directorate">Economics Department</cell>
+    <cell name="doi">10.1787/28f9e02c-en</cell>
+    <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-05-26</cell>
+    <cell name="embargo date">2025-05-26T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Economic survey</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
   </row>
 </report>

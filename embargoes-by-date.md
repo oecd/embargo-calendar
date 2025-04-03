@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 April 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 3 April 2025 at 23:13* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [2 April 2025](#2-april-2025)
 * [3 April 2025](#3-april-2025)
@@ -15,6 +15,7 @@ Data generated on | |
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
+* [26 May 2025](#26-may-2025)
 
 ------
 
@@ -188,7 +189,7 @@ Thursday 10 April 2025 at 5:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -324,52 +325,6 @@ Sunday 27 April 2025 at 22:00 | no launch event
 
 # 30 April 2025
 
-## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
 ## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
 
 Embargo date | Launch date
@@ -494,5 +449,55 @@ Thursday 15 May 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 26 May 2025
+
+## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------

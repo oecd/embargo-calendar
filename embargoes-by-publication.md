@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 2 April 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 3 April 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Financing SMEs and Entrepreneurs Scoreboard: 2025 Highlights](https://doi.org/10.1787/64c9063c-en)
 
@@ -160,7 +160,7 @@ Thursday 10 April 2025 at 5:00 | no launch event
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
 * Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
+* Type of publication: *Book*
 * Format: *PDF*
 
 ------
@@ -262,52 +262,6 @@ Sunday 27 April 2025 at 22:00 | no launch event
 Embargo date | Launch date
 -------------|:------------:
 Sunday 27 April 2025 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 30 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -438,5 +392,51 @@ Thursday 15 May 2025 at 9:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
+
+------
+
+## [OECD Economic Surveys: Canada 2025](https://doi.org/10.1787/28f9e02c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Format: *PDF*
 
 ------
