@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 3 April 2025 at 23:13* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Financing SMEs and Entrepreneurs Scoreboard: 2025 Highlights](https://doi.org/10.1787/64c9063c-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 April 2025 at 5:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Israel 2025](https://doi.org/10.1787/d6dd02bc-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 2 April 2025 at 9:40 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
+| *Friday 4 April 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Unlocking High-Quality Teaching](https://doi.org/10.1787/f5b82176-en)
 
@@ -77,7 +31,7 @@ Thursday 3 April 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 9 April 2025 at 7:00 | no launch event
+Wednesday 9 April 2025 at 11:30 | no launch event
 
 ### Status Information
 
@@ -92,7 +46,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -100,7 +54,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 9 April 2025 at 7:00 | no launch event
+Wednesday 9 April 2025 at 11:30 | no launch event
 
 ### Status Information
 
@@ -123,7 +77,7 @@ Wednesday 9 April 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 9 April 2025 at 7:00 | no launch event
+Wednesday 9 April 2025 at 11:30 | no launch event
 
 ### Status Information
 
@@ -150,7 +104,7 @@ Thursday 10 April 2025 at 5:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -159,9 +113,9 @@ Thursday 10 April 2025 at 5:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
