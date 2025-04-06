@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 April 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Unlocking High-Quality Teaching](https://doi.org/10.1787/f5b82176-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 6 April 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Regulatory Policy Outlook 2025](https://doi.org/10.1787/56b60e39-en)
 

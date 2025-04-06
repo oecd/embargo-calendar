@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 4 April 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 6 April 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [3 April 2025](#3-april-2025)
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
 * [14 April 2025](#14-april-2025)
@@ -15,33 +14,6 @@ Data generated on | |
 * [7 May 2025](#7-may-2025)
 * [15 May 2025](#15-may-2025)
 * [26 May 2025](#26-may-2025)
-
-------
-
-# 3 April 2025
-
-## [Unlocking High-Quality Teaching](https://doi.org/10.1787/f5b82176-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 3 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
