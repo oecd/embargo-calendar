@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Sun, 06 Apr 2025 23:04:52 GMT</pubDate>
+      <pubDate>Mon, 07 Apr 2025 23:02:13 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -94,7 +94,23 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/f0c8fefa-en-d3e6915</guid>
+         <guid isPermaLink="false">10.1787/197e3077-en-d3e6863</guid>
+         <pubDate>Thu, 10 Apr 2025 14:00:00 GMT</pubDate>
+         <title>SME digitalisation for competitiveness - The 2025 OECD D4SME Survey</title>
+         <link>https://doi.org/10.1787/197e3077-en</link>
+         <description>SME digitalisation for competitiveness - The 2025 OECD D4SME Survey by Centre for Entrepreneurship, SMEs, Regions and Cities has an embargo on Thursday 10 April 2025 at 14:00.</description>
+         <oe:embargoTime>Thu, 10 Apr 2025 14:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Working paper</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/f0c8fefa-en-d3e7289</guid>
          <pubDate>Mon, 14 Apr 2025 14:00:00 GMT</pubDate>
          <title>Cities for All Ages</title>
          <link>https://doi.org/10.1787/f0c8fefa-en</link>
@@ -103,14 +119,14 @@
          <oe:launchTime/>
          <oe:languages>English</oe:languages>
          <oe:directorate>Centre for Entrepreneurship, SMEs, Regions and Cities</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/e09c21e2-en-d3e6968</guid>
+         <guid isPermaLink="false">10.1787/e09c21e2-en-d3e7448</guid>
          <pubDate>Tue, 15 Apr 2025 08:00:00 GMT</pubDate>
          <title>The Circular Economy in Cities and Regions of the European Union</title>
          <link>https://doi.org/10.1787/e09c21e2-en</link>
@@ -126,7 +142,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/18720180-fr-d3e7020</guid>
+         <guid isPermaLink="false">10.1787/18720180-fr-d3e7500</guid>
          <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
          <title>Études économiques de l’OCDE : Luxembourg 2025</title>
          <link>https://doi.org/10.1787/18720180-fr</link>
@@ -142,7 +158,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/803b3ea1-en-d3e7072</guid>
+         <guid isPermaLink="false">10.1787/803b3ea1-en-d3e7552</guid>
          <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Luxembourg 2025</title>
          <link>https://doi.org/10.1787/803b3ea1-en</link>
@@ -158,7 +174,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/b3a95829-en-d3e7124</guid>
+         <guid isPermaLink="false">10.1787/b3a95829-en-d3e7658</guid>
          <pubDate>Wed, 30 Apr 2025 11:00:00 GMT</pubDate>
          <title>Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs</title>
          <link>https://doi.org/10.1787/b3a95829-en</link>
@@ -174,7 +190,39 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/7dbe965b-en-d3e7177</guid>
+         <guid isPermaLink="false">10.1787/e1665579-fr-d3e7711</guid>
+         <pubDate>Wed, 30 Apr 2025 11:00:00 GMT</pubDate>
+         <title>Les impôts sur les salaires 2025 - Décomposition de l'impôt sur le revenu des personnes physiques et rôle des allégements fiscaux</title>
+         <link>https://doi.org/10.1787/e1665579-fr</link>
+         <description>Les impôts sur les salaires 2025 - Décomposition de l'impôt sur le revenu des personnes physiques et rôle des allégements fiscaux by Centre for Tax Policy and Administration has an embargo on Wednesday 30 April 2025 at 11:00.</description>
+         <oe:embargoTime>Wed, 30 Apr 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/00d67508-fr-d3e7817</guid>
+         <pubDate>Mon, 05 May 2025 11:00:00 GMT</pubDate>
+         <title>Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel</title>
+         <link>https://doi.org/10.1787/00d67508-fr</link>
+         <description>Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel by Centre for Tax Policy and Administration has an embargo on Monday 5 May 2025 at 11:00.</description>
+         <oe:embargoTime>Mon, 05 May 2025 11:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Centre for Tax Policy and Administration</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/7dbe965b-en-d3e7870</guid>
          <pubDate>Tue, 06 May 2025 09:00:00 GMT</pubDate>
          <title>OECD Integrity and Anti-Corruption Review of Ukraine</title>
          <link>https://doi.org/10.1787/7dbe965b-en</link>
@@ -190,7 +238,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e7229</guid>
+         <guid isPermaLink="false">10.1787/3b54985a-fr-d3e7923</guid>
+         <pubDate>Wed, 07 May 2025 08:00:00 GMT</pubDate>
+         <title>Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025</title>
+         <link>https://doi.org/10.1787/3b54985a-fr</link>
+         <description>Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 by Development Co-operation Directorate has an embargo on Wednesday 7 May 2025 at 8:00.</description>
+         <oe:embargoTime>Wed, 07 May 2025 08:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>French</oe:languages>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded/>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e7975</guid>
          <pubDate>Wed, 07 May 2025 09:00:00 GMT</pubDate>
          <title>Economic Convergence Scoreboard for the Western Balkans 2025</title>
          <link>https://doi.org/10.1787/bc0babf3-en</link>
@@ -206,7 +270,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1401e408-fr-d3e7384</guid>
+         <guid isPermaLink="false">10.1787/1401e408-fr-d3e8129</guid>
          <pubDate>Thu, 15 May 2025 11:00:00 GMT</pubDate>
          <title>Comment va la vie des enfants à l’ère numérique ? (version abrégée)</title>
          <link>https://doi.org/10.1787/1401e408-fr</link>
@@ -222,7 +286,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0854b900-en-d3e7436</guid>
+         <guid isPermaLink="false">10.1787/0854b900-en-d3e8181</guid>
          <pubDate>Thu, 15 May 2025 11:00:00 GMT</pubDate>
          <title>How's Life for Children in the Digital Age?</title>
          <link>https://doi.org/10.1787/0854b900-en</link>
@@ -238,7 +302,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e7488</guid>
+         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e8234</guid>
          <pubDate>Mon, 26 May 2025 09:00:00 GMT</pubDate>
          <title>Études économiques de l’OCDE : Canada 2025</title>
          <link>https://doi.org/10.1787/d806a81d-fr</link>
@@ -254,7 +318,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e7540</guid>
+         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e8286</guid>
          <pubDate>Mon, 26 May 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Canada 2025</title>
          <link>https://doi.org/10.1787/28f9e02c-en</link>

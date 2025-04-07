@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 6 April 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 7 April 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Regulatory Policy Outlook 2025](https://doi.org/10.1787/56b60e39-en)
 
@@ -119,15 +119,15 @@ Thursday 10 April 2025 at 8:30 | no launch event
 
 ------
 
-## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
+## [SME digitalisation for competitiveness - The 2025 OECD D4SME Survey](https://doi.org/10.1787/197e3077-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 14 April 2025 at 12:00 | no launch event
+Thursday 10 April 2025 at 12:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -136,9 +136,32 @@ Monday 14 April 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
+* Type of publication: *Working paper*
+* Format: *PDF*
+
+------
+
+## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 14 April 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -234,6 +257,52 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 ------
 
+## [Les impôts sur les salaires 2025 - Décomposition de l'impôt sur le revenu des personnes physiques et rôle des allégements fiscaux](https://doi.org/10.1787/e1665579-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [OECD Integrity and Anti-Corruption Review of Ukraine](https://doi.org/10.1787/7dbe965b-en)
 
 Embargo date | Launch date
@@ -251,6 +320,29 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025](https://doi.org/10.1787/3b54985a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 May 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
