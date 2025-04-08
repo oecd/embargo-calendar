@@ -2,7 +2,30 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 7 April 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 8 April 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
+
+## [OECD Development Co-operation Peer Reviews: Luxembourg 2025](https://doi.org/10.1787/3713cf73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 7 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
 
 ## [OECD Regulatory Policy Outlook 2025](https://doi.org/10.1787/56b60e39-en)
 
@@ -104,7 +127,7 @@ Thursday 10 April 2025 at 8:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -113,7 +136,7 @@ Thursday 10 April 2025 at 8:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -159,7 +182,7 @@ Monday 14 April 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Published*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -326,29 +349,6 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 ------
 
-## [Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025](https://doi.org/10.1787/3b54985a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 May 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
-
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
 Embargo date | Launch date
@@ -369,6 +369,29 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025](https://doi.org/10.1787/3b54985a-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -461,5 +484,28 @@ Monday 26 May 2025 at 7:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Format: *PDF*
+
+------
+
+## [Education and skills in Romania](https://doi.org/10.1787/594cbb5d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
 
 ------
