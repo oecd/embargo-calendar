@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 8 April 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 9 April 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 April 2025](#7-april-2025)
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
 * [14 April 2025](#14-april-2025)
@@ -14,35 +13,9 @@ Data generated on | |
 * [5 May 2025](#5-may-2025)
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
+* [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
 * [26 May 2025](#26-may-2025)
-
-------
-
-# 7 April 2025
-
-## [OECD Development Co-operation Peer Reviews: Luxembourg 2025](https://doi.org/10.1787/3713cf73-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 7 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -144,6 +117,29 @@ Thursday 10 April 2025 at 5:00 | no launch event
 
 ------
 
+## [Environmental Performance of Agriculture in OECD Countries - Key Trends and Insights](https://doi.org/10.1787/2679ba38-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 10 April 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, PDF, ZJCR, ZXML*
+
+------
+
 ## [OECD Economic Surveys: Türkiye 2025](https://doi.org/10.1787/d01c660f-en)
 
 Embargo date | Launch date
@@ -240,6 +236,29 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [A global study on approaches for identifying innovation and emerging techniques for potential Best Available Techniques (BAT) determination - BAT for Preventing and Controlling Industrial Pollution – Activity 9](https://doi.org/10.1787/36a6e277-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 15 April 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Report*
 * Format: *PDF*
 
 ------
@@ -450,6 +469,33 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 ------
 
+# 13 May 2025
+
+## [Energy Prices and Subsidies in the Western Balkans - Reforms for a Fair and Green Future](https://doi.org/10.1787/082ea26a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 13 May 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Centre*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 15 May 2025
 
 ## [Comment va la vie des enfants à l’ère numérique ? (version abrégée)](https://doi.org/10.1787/1401e408-fr)
@@ -548,7 +594,7 @@ Monday 26 May 2025 at 7:00 | no launch event
 
 ------
 
-## [Education and skills in Romania](https://doi.org/10.1787/594cbb5d-en)
+## [Education and Skills in Romania](https://doi.org/10.1787/594cbb5d-en)
 
 Embargo date | Launch date
 -------------|:------------:
