@@ -8,7 +8,7 @@
       <description>A list of dates and publications</description>
       <language>en</language>
       <copyright>OECD</copyright>
-      <pubDate>Wed, 09 Apr 2025 23:03:14 GMT</pubDate>
+      <pubDate>Thu, 10 Apr 2025 23:07:01 GMT</pubDate>
       <ttl>1440</ttl>
       <atom:link href="https://oecd.github.io/embargo-calendar/embargoes.rss"
                  rel="self"
@@ -270,7 +270,23 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e8247</guid>
+         <guid isPermaLink="false">10.1787/3713cf73-en-d3e8247</guid>
+         <pubDate>Wed, 07 May 2025 09:00:00 GMT</pubDate>
+         <title>OECD Development Co-operation Peer Reviews: Luxembourg 2025</title>
+         <link>https://doi.org/10.1787/3713cf73-en</link>
+         <description>OECD Development Co-operation Peer Reviews: Luxembourg 2025 by Development Co-operation Directorate has an embargo on Wednesday 7 May 2025 at 9:00.</description>
+         <oe:embargoTime>Wed, 07 May 2025 09:00:00 GMT</oe:embargoTime>
+         <oe:launchTime/>
+         <oe:languages>English</oe:languages>
+         <oe:directorate>Development Co-operation Directorate</oe:directorate>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
+         <oe:iLibraryExport/>
+         <oe:freePreviewExport/>
+         <oe:oecdOrgExport/>
+         <oe:catalogueType>Book</oe:catalogueType>
+      </item>
+      <item>
+         <guid isPermaLink="false">10.1787/bc0babf3-en-d3e8512</guid>
          <pubDate>Wed, 07 May 2025 09:00:00 GMT</pubDate>
          <title>Economic Convergence Scoreboard for the Western Balkans 2025</title>
          <link>https://doi.org/10.1787/bc0babf3-en</link>
@@ -286,7 +302,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/3b54985a-fr-d3e8349</guid>
+         <guid isPermaLink="false">10.1787/3b54985a-fr-d3e9251</guid>
          <pubDate>Wed, 07 May 2025 09:00:00 GMT</pubDate>
          <title>Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025</title>
          <link>https://doi.org/10.1787/3b54985a-fr</link>
@@ -295,14 +311,14 @@
          <oe:launchTime/>
          <oe:languages>French</oe:languages>
          <oe:directorate>Development Co-operation Directorate</oe:directorate>
-         <oe:ftiLoaded/>
+         <oe:ftiLoaded>Yes</oe:ftiLoaded>
          <oe:iLibraryExport/>
          <oe:freePreviewExport/>
          <oe:oecdOrgExport/>
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/082ea26a-en-d3e8401</guid>
+         <guid isPermaLink="false">10.1787/082ea26a-en-d3e9942</guid>
          <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
          <title>Energy Prices and Subsidies in the Western Balkans - Reforms for a Fair and Green Future</title>
          <link>https://doi.org/10.1787/082ea26a-en</link>
@@ -318,7 +334,7 @@
          <oe:catalogueType>Book</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/1401e408-fr-d3e8558</guid>
+         <guid isPermaLink="false">10.1787/1401e408-fr-d3e10098</guid>
          <pubDate>Thu, 15 May 2025 11:00:00 GMT</pubDate>
          <title>Comment va la vie des enfants à l’ère numérique ? (version abrégée)</title>
          <link>https://doi.org/10.1787/1401e408-fr</link>
@@ -334,7 +350,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/0854b900-en-d3e8610</guid>
+         <guid isPermaLink="false">10.1787/0854b900-en-d3e10151</guid>
          <pubDate>Thu, 15 May 2025 11:00:00 GMT</pubDate>
          <title>How's Life for Children in the Digital Age?</title>
          <link>https://doi.org/10.1787/0854b900-en</link>
@@ -350,7 +366,7 @@
          <oe:catalogueType>Stand-alone monograph</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e8662</guid>
+         <guid isPermaLink="false">10.1787/d806a81d-fr-d3e10203</guid>
          <pubDate>Mon, 26 May 2025 09:00:00 GMT</pubDate>
          <title>Études économiques de l’OCDE : Canada 2025</title>
          <link>https://doi.org/10.1787/d806a81d-fr</link>
@@ -366,7 +382,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e8714</guid>
+         <guid isPermaLink="false">10.1787/28f9e02c-en-d3e10255</guid>
          <pubDate>Mon, 26 May 2025 09:00:00 GMT</pubDate>
          <title>OECD Economic Surveys: Canada 2025</title>
          <link>https://doi.org/10.1787/28f9e02c-en</link>
@@ -382,7 +398,7 @@
          <oe:catalogueType>Economic survey</oe:catalogueType>
       </item>
       <item>
-         <guid isPermaLink="false">10.1787/594cbb5d-en-d3e8766</guid>
+         <guid isPermaLink="false">10.1787/594cbb5d-en-d3e10307</guid>
          <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
          <title>Education and Skills in Romania</title>
          <link>https://doi.org/10.1787/594cbb5d-en</link>

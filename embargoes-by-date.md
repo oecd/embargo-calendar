@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 9 April 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 10 April 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
@@ -207,7 +207,7 @@ Monday 14 April 2025 at 12:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -421,6 +421,29 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 # 7 May 2025
 
+## [OECD Development Co-operation Peer Reviews: Luxembourg 2025](https://doi.org/10.1787/3713cf73-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
 Embargo date | Launch date
@@ -452,7 +475,7 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -461,9 +484,9 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
