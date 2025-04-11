@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 10 April 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 11 April 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [9 April 2025](#9-april-2025)
 * [10 April 2025](#10-april-2025)
 * [14 April 2025](#14-april-2025)
 * [15 April 2025](#15-april-2025)
@@ -16,79 +15,6 @@ Data generated on | |
 * [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
 * [26 May 2025](#26-may-2025)
-
-------
-
-# 9 April 2025
-
-## [OECD Regulatory Policy Outlook 2025](https://doi.org/10.1787/56b60e39-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 April 2025 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Perspectives de l'OCDE sur la politique de la réglementation 2025](https://doi.org/10.1787/2f1a3d38-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 April 2025 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD‑Ausblick Regulierungspolitik 2025 (Kurzfassung)](https://doi.org/10.1787/229be51e-de)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 9 April 2025 at 11:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *German*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
 
 ------
 
@@ -384,7 +310,7 @@ Monday 5 May 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
@@ -461,7 +387,7 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 * Directorate: *Global Relations and Cooperation Directorate*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
