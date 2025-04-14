@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 April 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 14 April 2025 at 23:04* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [14 April 2025](#14-april-2025)
 * [15 April 2025](#15-april-2025)
@@ -13,7 +13,9 @@ Data generated on | |
 * [7 May 2025](#7-may-2025)
 * [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
+* [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
+* [5 June 2025](#5-june-2025)
 
 ------
 
@@ -54,7 +56,7 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -63,9 +65,9 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -398,6 +400,33 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 ------
 
+# 23 May 2025
+
+## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 May 2025 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
+------
+
 # 26 May 2025
 
 ## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
@@ -466,5 +495,32 @@ Monday 26 May 2025 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 5 June 2025
+
+## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------

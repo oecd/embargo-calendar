@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 13 April 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 14 April 2025 at 23:04* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
 
@@ -35,7 +35,7 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -44,9 +44,9 @@ Tuesday 15 April 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -349,6 +349,29 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 ------
 
+## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 May 2025 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
+
+------
+
 ## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
 
 Embargo date | Launch date
@@ -415,5 +438,28 @@ Monday 26 May 2025 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 5 June 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
