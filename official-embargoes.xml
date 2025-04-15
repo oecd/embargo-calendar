@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-04-14T23:04:19.6317371+02:00">
+<report name="official-embargoes" generated="2025-04-15T23:03:06.1451643+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -521,6 +521,26 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6a7632c5</cell>
   </row>
   <row index="26">
+    <cell name="directorate">General Secretariat</cell>
+    <cell name="doi">10.1787/d192d024-en</cell>
+    <cell name="title">OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, April 2025) (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-04-23T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21b396b6</cell>
+  </row>
+  <row index="27">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/18720180-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Luxembourg 2025 (fr)</cell>
@@ -540,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bfcc5f8c</cell>
   </row>
-  <row index="27">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/803b3ea1-en</cell>
     <cell name="title">OECD Economic Surveys: Luxembourg 2025 (en)</cell>
@@ -560,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/64998f23</cell>
   </row>
-  <row index="28">
+  <row index="29">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e1665579-fr</cell>
     <cell name="title">Les impôts sur les salaires 2025 (fr)</cell>
@@ -580,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/33355ba8</cell>
   </row>
-  <row index="29">
+  <row index="30">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b3a95829-en</cell>
     <cell name="title">Taxing Wages 2025 (en)</cell>
@@ -600,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e4ea597f</cell>
   </row>
-  <row index="30">
+  <row index="31">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/e1665579-fr</cell>
     <cell name="title">Les impôts sur les salaires 2025 (fr)</cell>
@@ -620,7 +640,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/444181a6</cell>
   </row>
-  <row index="31">
+  <row index="32">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/a551b351-en</cell>
+    <cell name="title">Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2025) (en)</cell>
+    <cell name="subtitle">Inclusive Framework on BEPS (en)</cell>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-05-02</cell>
+    <cell name="embargo date">2025-05-02T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bc278040</cell>
+  </row>
+  <row index="33">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -640,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4384d75</cell>
   </row>
-  <row index="32">
+  <row index="34">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -660,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c371e4b7</cell>
   </row>
-  <row index="33">
+  <row index="35">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/7dbe965b-en</cell>
     <cell name="title">OECD Integrity and Anti-Corruption Review of Ukraine (en)</cell>
@@ -680,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a5b6c75</cell>
   </row>
-  <row index="34">
+  <row index="36">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3713cf73-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Luxembourg 2025 (en)</cell>
@@ -700,7 +740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/427daa62</cell>
   </row>
-  <row index="35">
+  <row index="37">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/6ec5e417-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -720,7 +760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24d2dc7d</cell>
   </row>
-  <row index="36">
+  <row index="38">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/677e3c89-en</cell>
     <cell name="title">Findings (en)</cell>
@@ -740,7 +780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d31c3ba3</cell>
   </row>
-  <row index="37">
+  <row index="39">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b60e73f4-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -760,7 +800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6233992b</cell>
   </row>
-  <row index="38">
+  <row index="40">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3b54985a-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 (fr)</cell>
@@ -780,7 +820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b54dc180</cell>
   </row>
-  <row index="39">
+  <row index="41">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -800,7 +840,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="40">
+  <row index="42">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3b54985a-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 (fr)</cell>
@@ -820,7 +860,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d2efc76f</cell>
   </row>
-  <row index="41">
+  <row index="43">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/28f0fa0e-en</cell>
     <cell name="title">The DAC’s recommendations to Luxembourg (en)</cell>
@@ -840,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a2582dc8</cell>
   </row>
-  <row index="42">
+  <row index="44">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/0c051c27-en</cell>
     <cell name="title">Progress against OECD legal instruments under the responsibility of the DAC (en)</cell>
@@ -860,7 +900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/18caf33a</cell>
   </row>
-  <row index="43">
+  <row index="45">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/173d97fb-fr</cell>
     <cell name="title">Points clés de l’examen par les pairs de la coopération pour le développement du Luxembourg 2025 (infographie) (fr)</cell>
@@ -880,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b0824fd</cell>
   </row>
-  <row index="44">
+  <row index="46">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3b54985a-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 (fr)</cell>
@@ -900,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f2306041</cell>
   </row>
-  <row index="45">
+  <row index="47">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/363938fd-fr</cell>
     <cell name="title">Progrès réalisés dans la mise en œuvre des recommandations de l’examen par les pairs de 2017 (fr)</cell>
@@ -920,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/da2a3fa5</cell>
   </row>
-  <row index="46">
+  <row index="48">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/eb0eec36-en</cell>
     <cell name="title">Luxembourg’s development co-operation at a glance (infographic) (en)</cell>
@@ -940,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/21b91e09</cell>
   </row>
-  <row index="47">
+  <row index="49">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/d4751e5a-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -960,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c1f46481</cell>
   </row>
-  <row index="48">
+  <row index="50">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -980,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2224c2aa</cell>
   </row>
-  <row index="49">
+  <row index="51">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3713cf73-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Luxembourg 2025 (en)</cell>
@@ -1000,7 +1040,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6c00ec9f</cell>
   </row>
-  <row index="50">
+  <row index="52">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3713cf73-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Luxembourg 2025 (en)</cell>
@@ -1020,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9ab6e458</cell>
   </row>
-  <row index="51">
+  <row index="53">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3010f3d7-fr</cell>
     <cell name="title">Progrès accomplis au regard des instruments juridiques de l’OCDE sous la responsabilité du CAD (fr)</cell>
@@ -1040,7 +1080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e59a9909</cell>
   </row>
-  <row index="52">
+  <row index="54">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/b6f2d643-fr</cell>
     <cell name="title">La coopération au développement du Luxembourg en un coup d’œil (infographie) (fr)</cell>
@@ -1060,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9321c987</cell>
   </row>
-  <row index="53">
+  <row index="55">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3b54985a-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 (fr)</cell>
@@ -1080,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cfa620dc</cell>
   </row>
-  <row index="54">
+  <row index="56">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e198a5a5-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1100,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/0b4772a9</cell>
   </row>
-  <row index="55">
+  <row index="57">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/2ad18304-fr</cell>
     <cell name="title">Organisations consultées lors de l’examen par les pairs (fr)</cell>
@@ -1120,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4494d4f</cell>
   </row>
-  <row index="56">
+  <row index="58">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/7096b4a8-en</cell>
     <cell name="title">Organisations consulted during the peer review (en)</cell>
@@ -1140,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d51b4504</cell>
   </row>
-  <row index="57">
+  <row index="59">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/4f82883c-en</cell>
     <cell name="title">Abbreviations and acronyms (en)</cell>
@@ -1160,7 +1200,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/239c9a8a</cell>
   </row>
-  <row index="58">
+  <row index="60">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/959fb7c0-en</cell>
     <cell name="title">Progress since the 2017 DAC peer review recommendations (en)</cell>
@@ -1180,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7d897a7e</cell>
   </row>
-  <row index="59">
+  <row index="61">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/87ccf123-fr</cell>
     <cell name="title">Conclusions (fr)</cell>
@@ -1200,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d17301c5</cell>
   </row>
-  <row index="60">
+  <row index="62">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3b54985a-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025 (fr)</cell>
@@ -1220,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eebf4da2</cell>
   </row>
-  <row index="61">
+  <row index="63">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/bd71ccaa-en</cell>
     <cell name="title">Highlights from the 2025 Development Co-operation Peer Review of Luxembourg (infographic) (en)</cell>
@@ -1240,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2d6bb09c</cell>
   </row>
-  <row index="62">
+  <row index="64">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/58213bab-fr</cell>
     <cell name="title">Sigles et abréviations (fr)</cell>
@@ -1260,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/22dfcbb6</cell>
   </row>
-  <row index="63">
+  <row index="65">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3713cf73-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Luxembourg 2025 (en)</cell>
@@ -1280,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/374af19e</cell>
   </row>
-  <row index="64">
+  <row index="66">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/3713cf73-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Luxembourg 2025 (en)</cell>
@@ -1300,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db5c848c</cell>
   </row>
-  <row index="65">
+  <row index="67">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/98227319-fr</cell>
     <cell name="title">Les recommandations du CAD à l’intention du Luxembourg (fr)</cell>
@@ -1320,7 +1360,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be604a0d</cell>
   </row>
-  <row index="66">
+  <row index="68">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/082ea26a-en</cell>
     <cell name="title">Energy Prices and Subsidies in the Western Balkans (en)</cell>
@@ -1340,7 +1380,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/be0a451d</cell>
   </row>
-  <row index="67">
+  <row index="69">
     <cell name="directorate">Development Centre</cell>
     <cell name="doi">10.1787/082ea26a-en</cell>
     <cell name="title">Energy Prices and Subsidies in the Western Balkans (en)</cell>
@@ -1360,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbfe4c2b</cell>
   </row>
-  <row index="68">
+  <row index="70">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0854b900-en</cell>
     <cell name="title">How's Life for Children in the Digital Age? (en)</cell>
@@ -1380,7 +1420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ae952d6d</cell>
   </row>
-  <row index="69">
+  <row index="71">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/1401e408-fr</cell>
     <cell name="title">Comment va la vie des enfants à l’ère numérique ? (version abrégée) (fr)</cell>
@@ -1400,7 +1440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/423e7949</cell>
   </row>
-  <row index="70">
+  <row index="72">
     <cell name="directorate">Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity</cell>
     <cell name="doi">10.1787/0854b900-en</cell>
     <cell name="title">How's Life for Children in the Digital Age? (en)</cell>
@@ -1420,7 +1460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/120bb107</cell>
   </row>
-  <row index="71">
+  <row index="73">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -1440,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="72">
+  <row index="74">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d806a81d-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
@@ -1460,7 +1500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
-  <row index="73">
+  <row index="75">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f9e02c-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
@@ -1480,7 +1520,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
   </row>
-  <row index="74">
+  <row index="76">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
@@ -1500,7 +1540,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04495d77</cell>
   </row>
-  <row index="75">
+  <row index="77">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
@@ -1520,7 +1560,27 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2ab34a4</cell>
   </row>
-  <row index="76">
+  <row index="78">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/7594fbdd-en</cell>
+    <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T14:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63052221</cell>
+  </row>
+  <row index="79">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bace00c4-en</cell>
     <cell name="title">Education and Skills in Croatia (en)</cell>
