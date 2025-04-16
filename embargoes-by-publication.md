@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 15 April 2025 at 23:03* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Cities for All Ages](https://doi.org/10.1787/f0c8fefa-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 14 April 2025 at 12:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 16 April 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The Circular Economy in Cities and Regions of the European Union](https://doi.org/10.1787/e09c21e2-en)
 
@@ -391,6 +368,29 @@ Thursday 15 May 2025 at 9:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Reinforcing Rural Resilience](https://doi.org/10.1787/7cd485e3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 May 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
 ------
