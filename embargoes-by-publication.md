@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 16 April 2025 at 23:06* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The Circular Economy in Cities and Regions of the European Union](https://doi.org/10.1787/e09c21e2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 April 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [A global study on approaches for identifying innovation and emerging techniques for potential Best Available Techniques (BAT) determination - BAT for Preventing and Controlling Industrial Pollution – Activity 9](https://doi.org/10.1787/36a6e277-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 15 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
+| *Thursday 17 April 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, April 2025)](https://doi.org/10.1787/d192d024-en)
 
@@ -142,7 +96,7 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 ------
 
-## [Les impôts sur les salaires 2025 - Décomposition de l'impôt sur le revenu des personnes physiques et rôle des allégements fiscaux](https://doi.org/10.1787/e1665579-fr)
+## [Les impôts sur les salaires 2025 (version abrégée) - Décomposition de l'impôt sur le revenu des personnes physiques et rôle des allégements fiscaux](https://doi.org/10.1787/e1665579-fr)
 
 Embargo date | Launch date
 -------------|:------------:
