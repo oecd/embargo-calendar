@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 17 April 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 18 April 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 April 2025](#23-april-2025)
 * [27 April 2025](#27-april-2025)
@@ -177,6 +177,52 @@ Friday 2 May 2025 at 9:00 | no launch event
 
 # 5 May 2025
 
+## [Définition de référence de l’OCDE des investissements directs internationaux (cinquième édition)](https://doi.org/10.1787/9a2754a1-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 May 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [OECD Benchmark Definition of Foreign Direct Investment (Fifth Edition)](https://doi.org/10.1787/7f05c0a3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 5 May 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Financial and Enterprise Affairs*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
 ## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
 
 Embargo date | Launch date
@@ -321,7 +367,7 @@ Tuesday 13 May 2025 at 22:00 | no launch event
 
 * Directorate: *Development Centre*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -371,7 +417,7 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
 
