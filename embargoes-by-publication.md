@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 20 April 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Monday 21 April 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, April 2025)](https://doi.org/10.1787/d192d024-en)
 
