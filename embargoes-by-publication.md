@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 21 April 2025 at 23:00* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 22 April 2025 at 23:15* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, April 2025)](https://doi.org/10.1787/d192d024-en)
 
@@ -31,7 +31,7 @@ Wednesday 23 April 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 27 April 2025 at 22:00 | no launch event
+Monday 28 April 2025 at 12:30 | no launch event
 
 ### Status Information
 
@@ -54,7 +54,7 @@ Sunday 27 April 2025 at 22:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 27 April 2025 at 22:00 | no launch event
+Monday 28 April 2025 at 12:30 | no launch event
 
 ### Status Information
 
@@ -73,11 +73,11 @@ Sunday 27 April 2025 at 22:00 | no launch event
 
 ------
 
-## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
+## [Benefits of Regulation for Chemical Accident Prevention, Preparedness and Response - Presenting the Case for Senior Policymakers and other Stakeholders](https://doi.org/10.1787/8b321d7e-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 30 April 2025 at 9:00 | no launch event
+Wednesday 30 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -88,11 +88,34 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 ### Additional Information
 
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -422,7 +445,7 @@ Friday 23 May 2025 at 4:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 26 May 2025 at 7:00 | no launch event
+Monday 26 May 2025 at 12:00 | no launch event
 
 ### Status Information
 
@@ -445,7 +468,7 @@ Monday 26 May 2025 at 7:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Monday 26 May 2025 at 7:00 | no launch event
+Monday 26 May 2025 at 12:00 | no launch event
 
 ### Status Information
 
