@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 22 April 2025 at 23:15* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 23 April 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 April 2025](#23-april-2025)
 * [28 April 2025](#28-april-2025)
@@ -31,7 +31,7 @@ Wednesday 23 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -40,7 +40,7 @@ Wednesday 23 April 2025 at 7:00 | no launch event
 
 * Directorate: *General Secretariat*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
@@ -58,7 +58,7 @@ Monday 28 April 2025 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -67,7 +67,7 @@ Monday 28 April 2025 at 12:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -81,7 +81,7 @@ Monday 28 April 2025 at 12:30 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -90,7 +90,7 @@ Monday 28 April 2025 at 12:30 | no launch event
 
 * Directorate: *Economics Department*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Economic survey*
 * Format: *PDF*
 
@@ -163,7 +163,7 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
