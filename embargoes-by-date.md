@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 23 April 2025 at 23:08* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Thursday 24 April 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [23 April 2025](#23-april-2025)
 * [28 April 2025](#28-april-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [5 May 2025](#5-may-2025)
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
+* [12 May 2025](#12-may-2025)
 * [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
@@ -154,7 +155,7 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -163,9 +164,9 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -243,29 +244,6 @@ Monday 5 May 2025 at 6:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -366,6 +344,33 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 12 May 2025
+
+## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 12 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
