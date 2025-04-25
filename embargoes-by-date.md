@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 24 April 2025 at 23:05* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 25 April 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [23 April 2025](#23-april-2025)
 * [28 April 2025](#28-april-2025)
 * [30 April 2025](#30-april-2025)
 * [2 May 2025](#2-may-2025)
@@ -22,13 +21,13 @@ Data generated on | |
 
 ------
 
-# 23 April 2025
+# 28 April 2025
 
-## [OECD Secretary-General Report to G20 Finance Ministers and Central Bank Governors on the work of the Inclusive Forum on Carbon Mitigation Approaches (United States, April 2025)](https://doi.org/10.1787/d192d024-en)
+## [Lessons Learnt from International Workshops on the Applications of Best Available Techniques (BAT) in Viet Nam and India - BAT for Preventing and Controlling Industrial Pollution – Activity 8](https://doi.org/10.1787/91cb21cd-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 23 April 2025 at 7:00 | no launch event
+Monday 28 April 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -39,17 +38,13 @@ Wednesday 23 April 2025 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *General Secretariat*
+* Directorate: *Environment Directorate*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Report*
 * Format: *PDF*
 
 ------
-
-------
-
-# 28 April 2025
 
 ## [Études économiques de l’OCDE : Luxembourg 2025](https://doi.org/10.1787/18720180-fr)
 
@@ -218,7 +213,7 @@ Monday 5 May 2025 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *French*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
@@ -241,7 +236,7 @@ Monday 5 May 2025 at 6:00 | no launch event
 
 * Directorate: *Directorate for Financial and Enterprise Affairs*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
