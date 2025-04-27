@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 25 April 2025 at 23:02* | [See embargoes by date](embargoes-by-date.md) |
+| *Sunday 27 April 2025 at 23:09* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Lessons Learnt from International Workshops on the Applications of Best Available Techniques (BAT) in Viet Nam and India - BAT for Preventing and Controlling Industrial Pollution – Activity 8](https://doi.org/10.1787/91cb21cd-en)
 
