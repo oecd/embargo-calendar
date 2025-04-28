@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 27 April 2025 at 23:09* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 28 April 2025 at 23:03* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [28 April 2025](#28-april-2025)
 * [30 April 2025](#30-april-2025)
@@ -119,6 +119,259 @@ Wednesday 30 April 2025 at 7:00 | no launch event
 
 ------
 
+## [Mexico](https://doi.org/10.1787/96be8421-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Switzerland](https://doi.org/10.1787/fd54c280-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Denmark](https://doi.org/10.1787/9a29d9e4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Chile](https://doi.org/10.1787/0bc013d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Colombia](https://doi.org/10.1787/4d618d8e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Norway](https://doi.org/10.1787/eb496647-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Türkiye](https://doi.org/10.1787/dd9db41f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Korea](https://doi.org/10.1787/e7976f81-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Ireland](https://doi.org/10.1787/f558d18c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Australia](https://doi.org/10.1787/5fec2d40-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Austria](https://doi.org/10.1787/54dd00e1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
 ## [Taxing Wages 2025 - Decomposition of Personal Income Taxes and the Role of Tax Reliefs](https://doi.org/10.1787/b3a95829-en)
 
 Embargo date | Launch date
@@ -162,6 +415,627 @@ Wednesday 30 April 2025 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [France](https://doi.org/10.1787/9cbae9b4-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [United Kingdom](https://doi.org/10.1787/be8f1763-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Slovak Republic](https://doi.org/10.1787/779b8d08-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Sweden](https://doi.org/10.1787/d22447a2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Estonia](https://doi.org/10.1787/045500d0-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Canada](https://doi.org/10.1787/11724d71-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Japan](https://doi.org/10.1787/3903832b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Luxembourg](https://doi.org/10.1787/08c93429-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Belgium](https://doi.org/10.1787/2c8c7ceb-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Finland](https://doi.org/10.1787/3f52905b-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Latvia](https://doi.org/10.1787/8861f480-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Portugal](https://doi.org/10.1787/8006b823-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Italy](https://doi.org/10.1787/cbd70ad3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Costa Rica](https://doi.org/10.1787/1924c435-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Poland](https://doi.org/10.1787/91763399-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [New Zealand](https://doi.org/10.1787/18a7de7e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Germany](https://doi.org/10.1787/510f880a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Greece](https://doi.org/10.1787/ffc83bef-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Israel](https://doi.org/10.1787/d148199d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Spain](https://doi.org/10.1787/24e311bc-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Hungary](https://doi.org/10.1787/bb88b4ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Netherlands](https://doi.org/10.1787/464bacb7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Lithuania](https://doi.org/10.1787/f6df36d1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [United States](https://doi.org/10.1787/4a2a60b9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Czechia](https://doi.org/10.1787/91151a11-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Slovenia](https://doi.org/10.1787/20b100d9-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
+
+------
+
+## [Iceland](https://doi.org/10.1787/1099af59-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 30 April 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Short content*
+* Format: *PDF*
 
 ------
 
@@ -254,7 +1128,7 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -263,9 +1137,9 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 * Directorate: *Directorate for Public Governance*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -293,29 +1167,6 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Global Relations and Cooperation Directorate*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
 
 ------
 
@@ -467,7 +1318,7 @@ Monday 19 May 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -494,9 +1345,32 @@ Friday 23 May 2025 at 4:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Global Relations and Cooperation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
@@ -567,7 +1441,7 @@ Monday 26 May 2025 at 22:00 | no launch event
 
 * Directorate: *Directorate for Education and Skills*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -594,7 +1468,7 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 
 * Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
 
