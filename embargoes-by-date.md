@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 29 April 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 30 April 2025 at 22:53* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [28 April 2025](#28-april-2025)
 * [30 April 2025](#30-april-2025)
 * [2 May 2025](#2-may-2025)
 * [5 May 2025](#5-may-2025)
@@ -17,80 +16,8 @@ Data generated on | |
 * [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
+* [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
-
-------
-
-# 28 April 2025
-
-## [Lessons Learnt from International Workshops on the Applications of Best Available Techniques (BAT) in Viet Nam and India - BAT for Preventing and Controlling Industrial Pollution – Activity 8](https://doi.org/10.1787/91cb21cd-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 April 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Environment Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Report*
-* Format: *PDF*
-
-------
-
-## [Études économiques de l’OCDE : Luxembourg 2025](https://doi.org/10.1787/18720180-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 April 2025 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
-
-## [OECD Economic Surveys: Luxembourg 2025](https://doi.org/10.1787/803b3ea1-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 28 April 2025 at 12:30 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Format: *PDF*
-
-------
 
 ------
 
@@ -1212,6 +1139,29 @@ Tuesday 6 May 2025 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Ukraine 2025](https://doi.org/10.1787/940cee85-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 6 May 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Economic survey*
+* Formats: *HTML, Paperback, PDF*
+
+------
+
 ------
 
 # 7 May 2025
@@ -1256,6 +1206,29 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 * Directorate: *Development Co-operation Directorate*
 * Language: *French*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+## [Mapping Global Trade in Fakes 2025 - Global Trends and Enforcement Challenges](https://doi.org/10.1787/94d3b29f-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 7 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
@@ -1328,7 +1301,7 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -1337,9 +1310,9 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *French*
-* Availability: *Not yet available*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
@@ -1563,6 +1536,33 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+------
+
+# 2 June 2025
+
+## [Trade and Gender Review of Latin America](https://doi.org/10.1787/c906a2f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
 
