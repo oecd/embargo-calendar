@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 30 April 2025 at 22:53* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 1 May 2025 at 22:24* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Benefits of Regulation for Chemical Accident Prevention, Preparedness and Response - Presenting the Case for Senior Policymakers and other Stakeholders](https://doi.org/10.1787/8b321d7e-en)
 
