@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 2 May 2025 at 23:02* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Sunday 4 May 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [2 May 2025](#2-may-2025)
 * [5 May 2025](#5-may-2025)
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
@@ -18,102 +17,6 @@ Data generated on | |
 * [27 May 2025](#27-may-2025)
 * [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
-
-------
-
-# 2 May 2025
-
-## [รายงานพิชญพิจารณ์ขององค์การเพื่อความร่วมมือทางเศรษฐกิจและการพัฒนา (OECD) ในเรื่องกฎหมายและนโยบายการแข่งขัน: ประเทศไทย](https://doi.org/10.1787/75f3ce69-th)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 2 May 2025 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *Thai*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-## [OECD Peer Reviews of Competition Law and Policy: Thailand](https://doi.org/10.1787/377b42f9-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 2 May 2025 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examens par les pairs du droit et de la politique de la concurrence de l’OCDE : Thaïlande](https://doi.org/10.1787/0018a3db-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 2 May 2025 at 2:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 2 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
 
 ------
 
