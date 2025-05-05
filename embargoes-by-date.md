@@ -2,13 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 4 May 2025 at 23:06* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 5 May 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 May 2025](#5-may-2025)
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
 * [11 May 2025](#11-may-2025)
-* [12 May 2025](#12-may-2025)
 * [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
@@ -76,7 +75,7 @@ Monday 5 May 2025 at 6:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 6 May 2025 at 7:00 | no launch event
+Tuesday 6 May 2025 at 8:00 | no launch event
 
 ### Status Information
 
@@ -212,33 +211,6 @@ Sunday 11 May 2025 at 22:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Not yet available*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
-------
-
-# 12 May 2025
-
-## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
@@ -307,7 +279,7 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -316,9 +288,9 @@ Thursday 15 May 2025 at 9:00 | no launch event
 
 * Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -346,6 +318,29 @@ Monday 19 May 2025 at 6:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
+
+------
+
+## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 19 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
 
@@ -525,6 +520,29 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 ------
 
 # 2 June 2025
+
+## [Commerce international et genre - Examen de l’Amérique latine](https://doi.org/10.1787/019938c0-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
 
 ## [Trade and Gender Review of Latin America](https://doi.org/10.1787/c906a2f7-en)
 
