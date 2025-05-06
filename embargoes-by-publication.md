@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 May 2025 at 23:10* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 6 May 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Définition de référence de l’OCDE des investissements directs internationaux (cinquième édition)](https://doi.org/10.1787/9a2754a1-fr)
 
@@ -169,7 +169,7 @@ Wednesday 7 May 2025 at 9:00 | no launch event
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 11 May 2025 at 22:00 | no launch event
+Monday 12 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -464,7 +464,7 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 
 ------
 
-## [Commerce international et genre - Examen de l’Amérique latine](https://doi.org/10.1787/019938c0-fr)
+## [Examen du commerce international et du genre en Amérique latine](https://doi.org/10.1787/019938c0-fr)
 
 Embargo date | Launch date
 -------------|:------------:

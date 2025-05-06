@@ -2,12 +2,12 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 5 May 2025 at 23:10* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 6 May 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [5 May 2025](#5-may-2025)
 * [6 May 2025](#6-may-2025)
 * [7 May 2025](#7-may-2025)
-* [11 May 2025](#11-may-2025)
+* [12 May 2025](#12-may-2025)
 * [13 May 2025](#13-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
@@ -192,13 +192,13 @@ Wednesday 7 May 2025 at 9:00 | no launch event
 
 ------
 
-# 11 May 2025
+# 12 May 2025
 
 ## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the use of export restrictions amid growing market and policy tensions](https://doi.org/10.1787/facc714b-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Sunday 11 May 2025 at 22:00 | no launch event
+Monday 12 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -521,7 +521,7 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 
 # 2 June 2025
 
-## [Commerce international et genre - Examen de l’Amérique latine](https://doi.org/10.1787/019938c0-fr)
+## [Examen du commerce international et du genre en Amérique latine](https://doi.org/10.1787/019938c0-fr)
 
 Embargo date | Launch date
 -------------|:------------:
