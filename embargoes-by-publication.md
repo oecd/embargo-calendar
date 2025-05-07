@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 6 May 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Définition de référence de l’OCDE des investissements directs internationaux (cinquième édition)](https://doi.org/10.1787/9a2754a1-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 May 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Benchmark Definition of Foreign Direct Investment (Fifth Edition)](https://doi.org/10.1787/7f05c0a3-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 5 May 2025 at 6:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Financial and Enterprise Affairs*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Wednesday 7 May 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Integrity and Anti-Corruption Review of Ukraine](https://doi.org/10.1787/7dbe965b-en)
 
@@ -165,7 +119,7 @@ Wednesday 7 May 2025 at 9:00 | no launch event
 
 ------
 
-## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the use of export restrictions amid growing market and policy tensions](https://doi.org/10.1787/facc714b-en)
+## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the Use of Export Restrictions Amid Growing Market and Policy Tensions](https://doi.org/10.1787/facc714b-en)
 
 Embargo date | Launch date
 -------------|:------------:
@@ -349,6 +303,29 @@ Friday 23 May 2025 at 7:00 | no launch event
 
 ------
 
+## [OECD Economic Surveys: Finland 2025](https://doi.org/10.1787/985d0555-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 23 May 2025 at 10:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Economic survey*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Études économiques de l’OCDE : Canada 2025](https://doi.org/10.1787/d806a81d-fr)
 
 Embargo date | Launch date
@@ -464,6 +441,29 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 
 ------
 
+## [Estudio sobre comercio y género en América Latina](https://doi.org/10.1787/db75af76-es)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 6:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *Spanish*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Examen du commerce international et du genre en Amérique latine](https://doi.org/10.1787/019938c0-fr)
 
 Embargo date | Launch date
@@ -510,6 +510,29 @@ Monday 2 June 2025 at 6:00 | no launch event
 
 ------
 
+## [OECD Supply Chain Resilience Review - Navigating Risks](https://doi.org/10.1787/94e3a8ea-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 2 June 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Trade and Agriculture Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
 ## [Education and Skills in Croatia](https://doi.org/10.1787/bace00c4-en)
 
 Embargo date | Launch date
@@ -530,5 +553,28 @@ Thursday 5 June 2025 at 22:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Book*
 * Format: *PDF*
+
+------
+
+## [Governing with Artificial Intelligence - The State of Play and Way Forward in Core Government Functions](https://doi.org/10.1787/795de142-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 11 June 2025 at 12:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
