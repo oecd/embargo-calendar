@@ -2,53 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 7 May 2025 at 23:08* | [See embargoes by date](embargoes-by-date.md) |
-
-## [OECD Integrity and Anti-Corruption Review of Ukraine](https://doi.org/10.1787/7dbe965b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 May 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Public Governance*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [OECD Economic Surveys: Ukraine 2025](https://doi.org/10.1787/940cee85-en)
-
-Embargo date | Launch date
--------------|:------------:
-Tuesday 6 May 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Economic survey*
-* Formats: *HTML, Paperback, PDF*
-
-------
+| *Thursday 8 May 2025 at 23:07* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Development Co-operation Peer Reviews: Luxembourg 2025](https://doi.org/10.1787/3713cf73-en)
 
