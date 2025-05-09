@@ -2,11 +2,11 @@
 
 Data generated on | |
 |:-----|------:|
-| *Thursday 8 May 2025 at 23:07* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Friday 9 May 2025 at 23:16* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [7 May 2025](#7-may-2025)
+* [9 May 2025](#9-may-2025)
 * [12 May 2025](#12-may-2025)
-* [13 May 2025](#13-may-2025)
+* [14 May 2025](#14-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
 * [23 May 2025](#23-may-2025)
@@ -15,16 +15,17 @@ Data generated on | |
 * [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
 * [11 June 2025](#11-june-2025)
+* [20 June 2025](#20-june-2025)
 
 ------
 
-# 7 May 2025
+# 9 May 2025
 
-## [OECD Development Co-operation Peer Reviews: Luxembourg 2025](https://doi.org/10.1787/3713cf73-en)
+## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Wednesday 7 May 2025 at 7:00 | no launch event
+Friday 9 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
@@ -35,57 +36,11 @@ Wednesday 7 May 2025 at 7:00 | no launch event
 
 ### Additional Information
 
-* Directorate: *Development Co-operation Directorate*
+* Directorate: *Centre for Tax Policy and Administration*
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Examens de l'OCDE sur la coopération pour le développement : Luxembourg 2025](https://doi.org/10.1787/3b54985a-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Co-operation Directorate*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
-
-## [Mapping Global Trade in Fakes 2025 - Global Trends and Enforcement Challenges](https://doi.org/10.1787/94d3b29f-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 7 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+* Format: *PDF*
 
 ------
 
@@ -101,7 +56,7 @@ Monday 12 May 2025 at 9:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -110,21 +65,21 @@ Monday 12 May 2025 at 9:00 | no launch event
 
 * Directorate: *Trade and Agriculture Directorate*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, PDF, ZJCR, ZXML*
 
 ------
 
 ------
 
-# 13 May 2025
+# 14 May 2025
 
 ## [Energy Prices and Subsidies in the Western Balkans - Reforms for a Fair and Green Future](https://doi.org/10.1787/082ea26a-en)
 
 Embargo date | Launch date
 -------------|:------------:
-Tuesday 13 May 2025 at 22:00 | no launch event
+Wednesday 14 May 2025 at 7:00 | no launch event
 
 ### Status Information
 
@@ -139,13 +94,36 @@ Tuesday 13 May 2025 at 22:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
 ------
 
 # 15 May 2025
+
+## [The effects of climate policies on emissions - Evidence from a comprehensive and systematic review of the ex-post empirical literature](https://doi.org/10.1787/ec1f7f0d-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 15 May 2025 at 8:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Policy paper*
+* Format: *PDF*
+
+------
 
 ## [Comment va la vie des enfants à l’ère numérique ? (version abrégée)](https://doi.org/10.1787/1401e408-fr)
 
@@ -247,29 +225,6 @@ Monday 19 May 2025 at 9:00 | no launch event
 
 # 23 May 2025
 
-## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 23 May 2025 at 4:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Science, Technology and Industry*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
 Embargo date | Launch date
@@ -289,7 +244,7 @@ Friday 23 May 2025 at 7:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -462,7 +417,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -485,7 +440,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Format: *PDF*
 
 ------
 
@@ -497,7 +452,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -508,7 +463,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -586,5 +541,32 @@ Wednesday 11 June 2025 at 12:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
 * Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 20 June 2025
+
+## [Closing Broadband Connectivity Divides for All - From Evidence to Practice](https://doi.org/10.1787/d5ea99b2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Friday 20 June 2025 at 4:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
+* Format: *PDF*
 
 ------
