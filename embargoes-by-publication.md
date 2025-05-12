@@ -2,30 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 9 May 2025 at 23:16* | [See embargoes by date](embargoes-by-date.md) |
-
-## [Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules (2025) - Inclusive Framework on BEPS](https://doi.org/10.1787/a551b351-en)
-
-Embargo date | Launch date
--------------|:------------:
-Friday 9 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Book*
-* Format: *PDF*
-
-------
+| *Monday 12 May 2025 at 3:49* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the Use of Export Restrictions Amid Growing Market and Policy Tensions](https://doi.org/10.1787/facc714b-en)
 
