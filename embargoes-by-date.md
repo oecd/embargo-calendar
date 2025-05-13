@@ -2,10 +2,9 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 May 2025 at 4:50* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 May 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 May 2025](#12-may-2025)
-* [14 May 2025](#14-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
 * [23 May 2025](#23-may-2025)
@@ -15,6 +14,7 @@ Data generated on | |
 * [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
 * [11 June 2025](#11-june-2025)
+* [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
 
 ------
@@ -41,33 +41,6 @@ Monday 12 May 2025 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-------
-
-# 14 May 2025
-
-## [Energy Prices and Subsidies in the Western Balkans - Reforms for a Fair and Green Future](https://doi.org/10.1787/082ea26a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -514,6 +487,33 @@ Wednesday 11 June 2025 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
+# 19 June 2025
+
+## [Strengthening Productivity Analysis for Policymaking in Thailand](https://doi.org/10.1787/0b8d13ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 June 2025 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*

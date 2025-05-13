@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 May 2025 at 4:50* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 13 May 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the Use of Export Restrictions Amid Growing Market and Policy Tensions](https://doi.org/10.1787/facc714b-en)
 
@@ -24,29 +24,6 @@ Monday 12 May 2025 at 9:00 | no launch event
 * Availability: *Published*
 * Type of publication: *Stand-alone monograph*
 * Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [Energy Prices and Subsidies in the Western Balkans - Reforms for a Fair and Green Future](https://doi.org/10.1787/082ea26a-en)
-
-Embargo date | Launch date
--------------|:------------:
-Wednesday 14 May 2025 at 7:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Development Centre*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Format: *PDF*
 
 ------
 
@@ -457,6 +434,29 @@ Wednesday 11 June 2025 at 12:00 | no launch event
 ### Additional Information
 
 * Directorate: *Directorate for Public Governance*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+## [Strengthening Productivity Analysis for Policymaking in Thailand](https://doi.org/10.1787/0b8d13ac-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Thursday 19 June 2025 at 2:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Economics Department*
 * Language: *English*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
