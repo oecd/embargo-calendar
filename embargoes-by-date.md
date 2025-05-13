@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 May 2025 at 3:49* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Tuesday 13 May 2025 at 4:50* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [12 May 2025](#12-may-2025)
 * [14 May 2025](#14-may-2025)
@@ -11,6 +11,7 @@ Data generated on | |
 * [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
+* [28 May 2025](#28-may-2025)
 * [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
 * [11 June 2025](#11-june-2025)
@@ -170,29 +171,6 @@ Monday 19 May 2025 at 6:00 | no launch event
 
 ------
 
-## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ------
 
 # 23 May 2025
@@ -310,7 +288,7 @@ Monday 26 May 2025 at 22:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -362,6 +340,33 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+------
+
+# 28 May 2025
+
+## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------

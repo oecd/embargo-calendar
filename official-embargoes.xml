@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-05-12T03:49:21.3351074+02:00">
+<report name="official-embargoes" generated="2025-05-13T04:50:53.5932579+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -541,26 +541,6 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fbc5ab11</cell>
   </row>
   <row index="27">
-    <cell name="directorate">Centre for Tax Policy and Administration</cell>
-    <cell name="doi">10.1787/00d67508-fr</cell>
-    <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
-    <cell name="subtitle">Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel (fr)</cell>
-    <cell name="language">French</cell>
-    <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
-    <cell name="date of publication">2025-05-19</cell>
-    <cell name="embargo date">2025-05-19T09:00:00Z</cell>
-    <cell name="launch date/time"/>
-    <cell name="ilibrary last export date"/>
-    <cell name="freepreview last export date"/>
-    <cell name="oecd.org last export date"/>
-    <cell name="discoveryservice last export date"/>
-    <cell name="google last export date"/>
-    <cell name="catalogue type">Stand-alone monograph</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c371e4b7</cell>
-  </row>
-  <row index="28">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -580,7 +560,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="29">
+  <row index="28">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/985d0555-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2025 (en)</cell>
@@ -600,7 +580,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73e094c5</cell>
   </row>
-  <row index="30">
+  <row index="29">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/985d0555-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2025 (en)</cell>
@@ -620,7 +600,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29eaad3e</cell>
   </row>
-  <row index="31">
+  <row index="30">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d806a81d-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
@@ -640,7 +620,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
-  <row index="32">
+  <row index="31">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f9e02c-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
@@ -660,14 +640,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
   </row>
-  <row index="33">
+  <row index="32">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/28b61a5e-en</cell>
     <cell name="title">OECD Steel Outlook 2025 (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Forthcoming</cell>
     <cell name="date of publication">2025-05-27</cell>
     <cell name="embargo date">2025-05-26T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -680,7 +660,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb0cc79a</cell>
   </row>
-  <row index="34">
+  <row index="33">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/28b61a5e-en</cell>
     <cell name="title">OECD Steel Outlook 2025 (en)</cell>
@@ -700,7 +680,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c74be27</cell>
   </row>
-  <row index="35">
+  <row index="34">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
@@ -720,7 +700,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04495d77</cell>
   </row>
-  <row index="36">
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
@@ -740,7 +720,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2ab34a4</cell>
   </row>
-  <row index="37">
+  <row index="36">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -759,6 +739,26 @@
     <cell name="catalogue type">Book</cell>
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63052221</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Centre for Tax Policy and Administration</cell>
+    <cell name="doi">10.1787/00d67508-fr</cell>
+    <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
+    <cell name="subtitle">Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel (fr)</cell>
+    <cell name="language">French</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-05-28</cell>
+    <cell name="embargo date">2025-05-28T09:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c371e4b7</cell>
   </row>
   <row index="38">
     <cell name="directorate">Trade and Agriculture Directorate</cell>

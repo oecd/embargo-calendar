@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Monday 12 May 2025 at 3:49* | [See embargoes by date](embargoes-by-date.md) |
+| *Tuesday 13 May 2025 at 4:50* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the Use of Export Restrictions Amid Growing Market and Policy Tensions](https://doi.org/10.1787/facc714b-en)
 
@@ -142,29 +142,6 @@ Monday 19 May 2025 at 6:00 | no launch event
 
 ------
 
-## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 19 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Tax Policy and Administration*
-* Language: *French*
-* Availability: *Forthcoming*
-* Type of publication: *Stand-alone monograph*
-* Format: *PDF*
-
-------
-
 ## [Economic Convergence Scoreboard for the Western Balkans 2025](https://doi.org/10.1787/bc0babf3-en)
 
 Embargo date | Launch date
@@ -274,7 +251,7 @@ Monday 26 May 2025 at 22:00 | no launch event
 
 * Directorate: *Directorate for Science, Technology and Industry*
 * Language: *English*
-* Availability: *Not yet available*
+* Availability: *Forthcoming*
 * Type of publication: *Book*
 * Formats: *Paperback, PDF*
 
@@ -322,6 +299,29 @@ Tuesday 27 May 2025 at 14:00 | no launch event
 * Language: *English*
 * Availability: *Forthcoming*
 * Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Financement de la protection sociale au Sénégal - Le rôle de la fiscalité générale, des cotisations sociales et de la contribution du secteur informel](https://doi.org/10.1787/00d67508-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Wednesday 28 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Centre for Tax Policy and Administration*
+* Language: *French*
+* Availability: *Forthcoming*
+* Type of publication: *Stand-alone monograph*
 * Format: *PDF*
 
 ------
