@@ -2,56 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OECD Embargo Calendar//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:10.1787/facc714b-end3e63
-SUMMARY:[Stand-alone monograph] OECD Inventory o
- f Export Restrictions on Industrial Raw 
- Materials 2025 - Monitoring the Use of E
- xport Restrictions Amid Growing Market a
- nd Policy Tensions
-DESCRIPTION:*[Stand-alone monograph] OECD Inventory 
- of Export Restrictions on Industrial Raw
-  Materials 2025 - Monitoring the Use of 
- Export Restrictions Amid Growing Market 
- and Policy Tensions*\n\nDirectorate: Tra
- de and Agriculture Directorate\nLanguage
- : English\nDOI: https://doi.org/10.1787/
- facc714b-en\nPublication type: Stand-alo
- ne monograph\nReleased as: HTML, PDF, ZJ
- CR, ZXML\n\nEmbargo date/time: Monday, 1
- 2 May 2025, 9:00 (GMT)\n\n\niLibrary exp
- ort: never\nFreepreview export: never\nO
- ECD.org export: never\nFTI loaded: ✓\n\n
- For more information see: https://oecd.g
- ithub.io/embargo-calendar/embargoes-by-p
- ublication.html.\n\nPlease note: This in
- formation was correct as of this afterno
- on at 23:12, it is updated each night; t
- herefore any subsequent updates may not 
- yet be visible here. Also, please be awa
- re that the different released media (PD
- F, HTML, etc.) are not necessarily relea
- sed at the same time. For complete and u
- p-to-date information see here: http://k
- appa.oecd.org/v3/search?term=facc714b-en
- .
-DTSTAMP:20250513T231204Z
-DTSTART:20250512T090000Z
-DTEND:20250512T091500Z
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT72H
-REPEAT:1
-DURATION:PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder: [Stand-alone monograph] OECD I
- nventory of Export Restrictions on Indus
- trial Raw Materials 2025 - Monitoring th
- e Use of Export Restrictions Amid Growin
- g Market and Policy Tensions
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:10.1787/ec1f7f0d-end3e279
+UID:10.1787/ec1f7f0d-end3e63
 SUMMARY:[Policy paper] The effects of climate po
  licies on emissions - Evidence from a co
  mprehensive and systematic review of the
@@ -80,7 +31,7 @@ DESCRIPTION:*[Policy paper] The effects of climate p
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=ec1f7f0d-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250515T080000Z
 DTEND:20250515T081500Z
 TRANSP:TRANSPARENT
@@ -96,7 +47,7 @@ DESCRIPTION:Reminder: [Policy paper] The effects of
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/1401e408-frd3e599
+UID:10.1787/1401e408-frd3e383
 SUMMARY:[Stand-alone monograph] Comment va la vi
  e des enfants à l’ère numérique ? (versi
  on abrégée)
@@ -124,7 +75,7 @@ DESCRIPTION:*[Stand-alone monograph] Comment va la v
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=1401e408-fr.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250515T090000Z
 DTEND:20250515T091500Z
 TRANSP:TRANSPARENT
@@ -139,7 +90,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Commen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0854b900-end3e863
+UID:10.1787/0854b900-end3e648
 SUMMARY:[Stand-alone monograph] How's Life for C
  hildren in the Digital Age?
 DESCRIPTION:*[Stand-alone monograph] How's Life for 
@@ -166,7 +117,7 @@ DESCRIPTION:*[Stand-alone monograph] How's Life for
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=0854b900-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250515T090000Z
 DTEND:20250515T091500Z
 TRANSP:TRANSPARENT
@@ -180,31 +131,31 @@ DESCRIPTION:Reminder: [Stand-alone monograph] How's
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7cd485e3-end3e1288
+UID:10.1787/7cd485e3-end3e1072
 SUMMARY:[Book] Reinforcing Rural Resilience
 DESCRIPTION:*[Book] Reinforcing Rural Resilience*\n\
  nDirectorate: Centre for Entrepreneurshi
  p, SMEs, Regions and Cities\nLanguage: E
  nglish\nDOI: https://doi.org/10.1787/7cd
  485e3-en\nPublication type: Book\nReleas
- ed as: Paperback, PDF\n\nEmbargo date/ti
- me: Monday, 19 May 2025, 6:00 (GMT)\n\n\
- niLibrary export: never\nFreepreview exp
- ort: never\nOECD.org export: never\nFTI 
- loaded: ✗\n\nFor more information see: h
- ttps://oecd.github.io/embargo-calendar/e
- mbargoes-by-publication.html.\n\nPlease 
- note: This information was correct as of
-  this afternoon at 23:12, it is updated 
- each night; therefore any subsequent upd
- ates may not yet be visible here. Also, 
- please be aware that the different relea
- sed media (PDF, HTML, etc.) are not nece
- ssarily released at the same time. For c
- omplete and up-to-date information see h
- ere: http://kappa.oecd.org/v3/search?ter
- m=7cd485e3-en.
-DTSTAMP:20250513T231204Z
+ ed as: HTML, Paperback, PDF, ZJCR, ZXML\
+ n\nEmbargo date/time: Monday, 19 May 202
+ 5, 6:00 (GMT)\n\n\niLibrary export: neve
+ r\nFreepreview export: never\nOECD.org e
+ xport: never\nFTI loaded: ✓\n\nFor more 
+ information see: https://oecd.github.io/
+ embargo-calendar/embargoes-by-publicatio
+ n.html.\n\nPlease note: This information
+  was correct as of this afternoon at 23:
+ 12, it is updated each night; therefore 
+ any subsequent updates may not yet be vi
+ sible here. Also, please be aware that t
+ he different released media (PDF, HTML, 
+ etc.) are not necessarily released at th
+ e same time. For complete and up-to-date
+  information see here: http://kappa.oecd
+ .org/v3/search?term=7cd485e3-en.
+DTSTAMP:20250514T231247Z
 DTSTART:20250519T060000Z
 DTEND:20250519T061500Z
 TRANSP:TRANSPARENT
@@ -218,7 +169,7 @@ DESCRIPTION:Reminder: [Book] Reinforcing Rural Resil
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bc0babf3-end3e1392
+UID:10.1787/bc0babf3-end3e1762
 SUMMARY:[Stand-alone monograph] Economic Converg
  ence Scoreboard for the Western Balkans 
  2025
@@ -245,7 +196,7 @@ DESCRIPTION:*[Stand-alone monograph] Economic Conver
   For complete and up-to-date information
   see here: http://kappa.oecd.org/v3/sear
  ch?term=bc0babf3-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250523T070000Z
 DTEND:20250523T071500Z
 TRANSP:TRANSPARENT
@@ -260,7 +211,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Econom
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/985d0555-end3e1444
+UID:10.1787/985d0555-end3e1814
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Finland 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -285,7 +236,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  lete and up-to-date information see here
  : http://kappa.oecd.org/v3/search?term=9
  85d0555-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250523T100000Z
 DTEND:20250523T101500Z
 TRANSP:TRANSPARENT
@@ -299,7 +250,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d806a81d-frd3e1549
+UID:10.1787/d806a81d-frd3e1919
 SUMMARY:[Economic survey] Études économiques de 
  l’OCDE : Canada 2025
 DESCRIPTION:*[Economic survey] Études économiques de
@@ -324,7 +275,7 @@ DESCRIPTION:*[Economic survey] Études économiques de
  and up-to-date information see here: htt
  p://kappa.oecd.org/v3/search?term=d806a8
  1d-fr.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250526T120000Z
 DTEND:20250526T121500Z
 TRANSP:TRANSPARENT
@@ -338,7 +289,7 @@ DESCRIPTION:Reminder: [Economic survey] Études écono
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28f9e02c-end3e1601
+UID:10.1787/28f9e02c-end3e1971
 SUMMARY:[Economic survey] OECD Economic Surveys:
   Canada 2025
 DESCRIPTION:*[Economic survey] OECD Economic Surveys
@@ -362,7 +313,7 @@ DESCRIPTION:*[Economic survey] OECD Economic Surveys
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=28f9e02c-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250526T120000Z
 DTEND:20250526T121500Z
 TRANSP:TRANSPARENT
@@ -376,7 +327,7 @@ DESCRIPTION:Reminder: [Economic survey] OECD Economi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/28b61a5e-end3e1653
+UID:10.1787/28b61a5e-end3e2023
 SUMMARY:[Book] OECD Steel Outlook 2025
 DESCRIPTION:*[Book] OECD Steel Outlook 2025*\n\nDire
  ctorate: Directorate for Science, Techno
@@ -400,7 +351,7 @@ DESCRIPTION:*[Book] OECD Steel Outlook 2025*\n\nDire
  nd up-to-date information see here: http
  ://kappa.oecd.org/v3/search?term=28b61a5
  e-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250526T220000Z
 DTEND:20250526T221500Z
 TRANSP:TRANSPARENT
@@ -413,7 +364,7 @@ DESCRIPTION:Reminder: [Book] OECD Steel Outlook 2025
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/594cbb5d-end3e1757
+UID:10.1787/594cbb5d-end3e2127
 SUMMARY:[Book] Education and Skills in Romania
 DESCRIPTION:*[Book] Education and Skills in Romania*
  \n\nDirectorate: Directorate for Educati
@@ -437,7 +388,7 @@ DESCRIPTION:*[Book] Education and Skills in Romania*
  p-to-date information see here: http://k
  appa.oecd.org/v3/search?term=594cbb5d-en
  .
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250526T220000Z
 DTEND:20250526T221500Z
 TRANSP:TRANSPARENT
@@ -451,7 +402,7 @@ DESCRIPTION:Reminder: [Book] Education and Skills in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/7594fbdd-end3e1862
+UID:10.1787/7594fbdd-end3e2232
 SUMMARY:[Book] Revenue Statistics in Latin Ameri
  ca and the Caribbean 2025
 DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
@@ -476,7 +427,7 @@ DESCRIPTION:*[Book] Revenue Statistics in Latin Amer
  e. For complete and up-to-date informati
  on see here: http://kappa.oecd.org/v3/se
  arch?term=7594fbdd-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250527T140000Z
 DTEND:20250527T141500Z
 TRANSP:TRANSPARENT
@@ -490,7 +441,7 @@ DESCRIPTION:Reminder: [Book] Revenue Statistics in L
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/00d67508-frd3e1914
+UID:10.1787/00d67508-frd3e2284
 SUMMARY:[Stand-alone monograph] Financement de l
  a protection sociale au Sénégal - Le rôl
  e de la fiscalité générale, des cotisati
@@ -521,7 +472,7 @@ DESCRIPTION:*[Stand-alone monograph] Financement de
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=00d67508-fr.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250528T090000Z
 DTEND:20250528T091500Z
 TRANSP:TRANSPARENT
@@ -538,7 +489,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Financ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/db75af76-esd3e2285
+UID:10.1787/db75af76-esd3e2920
 SUMMARY:[Stand-alone monograph] Estudio sobre co
  mercio y género en América Latina
 DESCRIPTION:*[Stand-alone monograph] Estudio sobre c
@@ -563,7 +514,7 @@ DESCRIPTION:*[Stand-alone monograph] Estudio sobre c
   at the same time. For complete and up-t
  o-date information see here: http://kapp
  a.oecd.org/v3/search?term=db75af76-es.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -578,7 +529,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Estudi
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/019938c0-frd3e2603
+UID:10.1787/019938c0-frd3e3610
 SUMMARY:[Stand-alone monograph] Examen du commer
  ce international et du genre en Amérique
   latine
@@ -588,24 +539,24 @@ DESCRIPTION:*[Stand-alone monograph] Examen du comme
  culture Directorate\nLanguage: French\nD
  OI: https://doi.org/10.1787/019938c0-fr\
  nPublication type: Stand-alone monograph
- \nReleased as: PDF\n\nEmbargo date/time:
-  Monday, 2 June 2025, 6:00 (GMT)\n\n\niL
- ibrary export: never\nFreepreview export
- : never\nOECD.org export: never\nFTI loa
- ded: ✗\n\nFor more information see: http
- s://oecd.github.io/embargo-calendar/emba
- rgoes-by-publication.html.\n\nPlease not
- e: This information was correct as of th
- is afternoon at 23:12, it is updated eac
- h night; therefore any subsequent update
- s may not yet be visible here. Also, ple
- ase be aware that the different released
-  media (PDF, HTML, etc.) are not necessa
- rily released at the same time. For comp
- lete and up-to-date information see here
- : http://kappa.oecd.org/v3/search?term=0
- 19938c0-fr.
-DTSTAMP:20250513T231204Z
+ \nReleased as: HTML, Paperback, PDF, ZJC
+ R, ZXML\n\nEmbargo date/time: Monday, 2 
+ June 2025, 6:00 (GMT)\n\n\niLibrary expo
+ rt: never\nFreepreview export: never\nOE
+ CD.org export: never\nFTI loaded: ✓\n\nF
+ or more information see: https://oecd.gi
+ thub.io/embargo-calendar/embargoes-by-pu
+ blication.html.\n\nPlease note: This inf
+ ormation was correct as of this afternoo
+ n at 23:12, it is updated each night; th
+ erefore any subsequent updates may not y
+ et be visible here. Also, please be awar
+ e that the different released media (PDF
+ , HTML, etc.) are not necessarily releas
+ ed at the same time. For complete and up
+ -to-date information see here: http://ka
+ ppa.oecd.org/v3/search?term=019938c0-fr.
+DTSTAMP:20250514T231247Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -620,7 +571,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Examen
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/c906a2f7-end3e2655
+UID:10.1787/c906a2f7-end3e3663
 SUMMARY:[Stand-alone monograph] Trade and Gender
   Review of Latin America
 DESCRIPTION:*[Stand-alone monograph] Trade and Gende
@@ -646,7 +597,7 @@ DESCRIPTION:*[Stand-alone monograph] Trade and Gende
  or complete and up-to-date information s
  ee here: http://kappa.oecd.org/v3/search
  ?term=c906a2f7-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250602T060000Z
 DTEND:20250602T061500Z
 TRANSP:TRANSPARENT
@@ -660,7 +611,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Trade
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/94e3a8ea-end3e2921
+UID:10.1787/94e3a8ea-end3e4035
 SUMMARY:[Stand-alone monograph] OECD Supply Chai
  n Resilience Review - Navigating Risks
 DESCRIPTION:*[Stand-alone monograph] OECD Supply Cha
@@ -686,7 +637,7 @@ DESCRIPTION:*[Stand-alone monograph] OECD Supply Cha
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=94e3a8ea-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250602T080000Z
 DTEND:20250602T081500Z
 TRANSP:TRANSPARENT
@@ -701,7 +652,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] OECD S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/bace00c4-end3e2974
+UID:10.1787/bace00c4-end3e4089
 SUMMARY:[Book] Education and Skills in Croatia
 DESCRIPTION:*[Book] Education and Skills in Croatia*
  \n\nDirectorate: Directorate for Educati
@@ -724,7 +675,7 @@ DESCRIPTION:*[Book] Education and Skills in Croatia*
  e same time. For complete and up-to-date
   information see here: http://kappa.oecd
  .org/v3/search?term=bace00c4-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250605T220000Z
 DTEND:20250605T221500Z
 TRANSP:TRANSPARENT
@@ -738,7 +689,7 @@ DESCRIPTION:Reminder: [Book] Education and Skills in
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/795de142-end3e3079
+UID:10.1787/795de142-end3e4194
 SUMMARY:[Stand-alone monograph] Governing with A
  rtificial Intelligence - The State of Pl
  ay and Way Forward in Core Government Fu
@@ -767,7 +718,7 @@ DESCRIPTION:*[Stand-alone monograph] Governing with
  me time. For complete and up-to-date inf
  ormation see here: http://kappa.oecd.org
  /v3/search?term=795de142-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250611T120000Z
 DTEND:20250611T121500Z
 TRANSP:TRANSPARENT
@@ -783,7 +734,49 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Govern
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/0b8d13ac-end3e3185
+UID:10.1787/d492583a-end3e4247
+SUMMARY:[Stand-alone monograph] Global Drought O
+ utlook - Trends, Impacts and Policies to
+  Adapt to a Drier World
+DESCRIPTION:*[Stand-alone monograph] Global Drought 
+ Outlook - Trends, Impacts and Policies t
+ o Adapt to a Drier World*\n\nDirectorate
+ : Environment Directorate\nLanguage: Eng
+ lish\nDOI: https://doi.org/10.1787/d4925
+ 83a-en\nPublication type: Stand-alone mo
+ nograph\nReleased as: Paperback, PDF\n\n
+ Embargo date/time: Tuesday, 17 June 2025
+ , 5:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=d492583a-en.
+DTSTAMP:20250514T231247Z
+DTSTART:20250617T050000Z
+DTEND:20250617T051500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT24H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Global
+  Drought Outlook - Trends, Impacts and P
+ olicies to Adapt to a Drier World
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/0b8d13ac-end3e4406
 SUMMARY:[Stand-alone monograph] Strengthening Pr
  oductivity Analysis for Policymaking in 
  Thailand
@@ -810,7 +803,7 @@ DESCRIPTION:*[Stand-alone monograph] Strengthening P
  omplete and up-to-date information see h
  ere: http://kappa.oecd.org/v3/search?ter
  m=0b8d13ac-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250619T020000Z
 DTEND:20250619T021500Z
 TRANSP:TRANSPARENT
@@ -825,7 +818,7 @@ DESCRIPTION:Reminder: [Stand-alone monograph] Streng
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:10.1787/d5ea99b2-end3e3237
+UID:10.1787/d5ea99b2-end3e4458
 SUMMARY:[Stand-alone monograph] Closing Broadban
  d Connectivity Divides for All - From Ev
  idence to Practice
@@ -852,7 +845,7 @@ DESCRIPTION:*[Stand-alone monograph] Closing Broadba
  d at the same time. For complete and up-
  to-date information see here: http://kap
  pa.oecd.org/v3/search?term=d5ea99b2-en.
-DTSTAMP:20250513T231204Z
+DTSTAMP:20250514T231247Z
 DTSTART:20250620T040000Z
 DTEND:20250620T041500Z
 TRANSP:TRANSPARENT
@@ -864,6 +857,47 @@ ACTION:DISPLAY
 DESCRIPTION:Reminder: [Stand-alone monograph] Closin
  g Broadband Connectivity Divides for All
   - From Evidence to Practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10.1787/3b96cf8c-end3e4511
+SUMMARY:[Stand-alone monograph] Measuring Scienc
+ e and Innovation for Sustainable Growth
+DESCRIPTION:*[Stand-alone monograph] Measuring Scien
+ ce and Innovation for Sustainable Growth
+ *\n\nDirectorate: Directorate for Scienc
+ e, Technology and Industry\nLanguage: En
+ glish\nDOI: https://doi.org/10.1787/3b96
+ cf8c-en\nPublication type: Stand-alone m
+ onograph\nReleased as: Paperback, PDF\n\
+ nEmbargo date/time: Monday, 30 June 2025
+ , 7:00 (GMT)\n\n\niLibrary export: never
+ \nFreepreview export: never\nOECD.org ex
+ port: never\nFTI loaded: ✗\n\nFor more i
+ nformation see: https://oecd.github.io/e
+ mbargo-calendar/embargoes-by-publication
+ .html.\n\nPlease note: This information 
+ was correct as of this afternoon at 23:1
+ 2, it is updated each night; therefore a
+ ny subsequent updates may not yet be vis
+ ible here. Also, please be aware that th
+ e different released media (PDF, HTML, e
+ tc.) are not necessarily released at the
+  same time. For complete and up-to-date 
+ information see here: http://kappa.oecd.
+ org/v3/search?term=3b96cf8c-en.
+DTSTAMP:20250514T231247Z
+DTSTART:20250630T070000Z
+DTEND:20250630T071500Z
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT72H
+REPEAT:1
+DURATION:PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Stand-alone monograph] Measur
+ ing Science and Innovation for Sustainab
+ le Growth
 END:VALARM
 END:VEVENT
 END:VCALENDAR

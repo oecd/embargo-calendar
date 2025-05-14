@@ -2,9 +2,8 @@
 
 Data generated on | |
 |:-----|------:|
-| *Tuesday 13 May 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Wednesday 14 May 2025 at 23:12* | [See embargoes by publication](embargoes-by-publication.md) |
 
-* [12 May 2025](#12-may-2025)
 * [15 May 2025](#15-may-2025)
 * [19 May 2025](#19-may-2025)
 * [23 May 2025](#23-may-2025)
@@ -14,35 +13,10 @@ Data generated on | |
 * [2 June 2025](#2-june-2025)
 * [5 June 2025](#5-june-2025)
 * [11 June 2025](#11-june-2025)
+* [17 June 2025](#17-june-2025)
 * [19 June 2025](#19-june-2025)
 * [20 June 2025](#20-june-2025)
-
-------
-
-# 12 May 2025
-
-## [OECD Inventory of Export Restrictions on Industrial Raw Materials 2025 - Monitoring the Use of Export Restrictions Amid Growing Market and Policy Tensions](https://doi.org/10.1787/facc714b-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 12 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Trade and Agriculture Directorate*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
+* [30 June 2025](#30-june-2025)
 
 ------
 
@@ -129,7 +103,7 @@ Monday 19 May 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -138,9 +112,9 @@ Monday 19 May 2025 at 6:00 | no launch event
 
 * Directorate: *Centre for Entrepreneurship, SMEs, Regions and Cities*
 * Language: *English*
-* Availability: *Forthcoming*
+* Availability: *Published*
 * Type of publication: *Book*
-* Formats: *Paperback, PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -379,7 +353,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -390,7 +364,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 * Language: *French*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
@@ -496,6 +470,33 @@ Wednesday 11 June 2025 at 12:00 | no launch event
 
 ------
 
+# 17 June 2025
+
+## [Global Drought Outlook - Trends, Impacts and Policies to Adapt to a Drier World](https://doi.org/10.1787/d492583a-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 17 June 2025 at 5:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
+
+------
+
+------
+
 # 19 June 2025
 
 ## [Strengthening Productivity Analysis for Policymaking in Thailand](https://doi.org/10.1787/0b8d13ac-en)
@@ -545,5 +546,32 @@ Friday 20 June 2025 at 4:00 | no launch event
 * Availability: *Forthcoming*
 * Type of publication: *Stand-alone monograph*
 * Format: *PDF*
+
+------
+
+------
+
+# 30 June 2025
+
+## [Measuring Science and Innovation for Sustainable Growth](https://doi.org/10.1787/3b96cf8c-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 30 June 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Science, Technology and Industry*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Stand-alone monograph*
+* Formats: *Paperback, PDF*
 
 ------
