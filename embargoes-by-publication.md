@@ -2,7 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Wednesday 14 May 2025 at 23:12* | [See embargoes by date](embargoes-by-date.md) |
+| *Thursday 15 May 2025 at 23:26* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [The effects of climate policies on emissions - Evidence from a comprehensive and systematic review of the ex-post empirical literature](https://doi.org/10.1787/ec1f7f0d-en)
 
@@ -139,6 +139,52 @@ Friday 23 May 2025 at 10:00 | no launch event
 * Availability: *Not yet available*
 * Type of publication: *Economic survey*
 * Formats: *Paperback, PDF*
+
+------
+
+## [OECD Development Co-operation Peer Reviews: Canada 2025](https://doi.org/10.1787/fcd70ea1-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *English*
+* Availability: *Forthcoming*
+* Type of publication: *Book*
+* Format: *PDF*
+
+------
+
+## [Examens de l'OCDE sur la coopération pour le développement : Canada 2025](https://doi.org/10.1787/e9a5a8ce-fr)
+
+Embargo date | Launch date
+-------------|:------------:
+Monday 26 May 2025 at 9:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Development Co-operation Directorate*
+* Language: *French*
+* Availability: *Not yet available*
+* Type of publication: *Book*
+* Format: *PDF*
 
 ------
 
@@ -288,7 +334,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 
 ### Status Information
 
-- [ ] FTI loaded
+- [x] FTI loaded 
 - [ ] Exported to iLibrary
 - [ ] Exported to Keepeek
 - [ ] Exported to OECD.org
@@ -299,7 +345,7 @@ Monday 2 June 2025 at 6:00 | no launch event
 * Language: *Spanish*
 * Availability: *Not yet available*
 * Type of publication: *Stand-alone monograph*
-* Format: *PDF*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
 
