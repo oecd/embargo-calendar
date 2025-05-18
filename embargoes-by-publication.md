@@ -2,76 +2,7 @@
 
 Data generated on | |
 |:-----|------:|
-| *Friday 16 May 2025 at 23:27* | [See embargoes by date](embargoes-by-date.md) |
-
-## [The effects of climate policies on emissions - Evidence from a comprehensive and systematic review of the ex-post empirical literature](https://doi.org/10.1787/ec1f7f0d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 May 2025 at 8:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Economics Department*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Policy paper*
-* Format: *PDF*
-
-------
-
-## [Comment va la vie des enfants à l’ère numérique ? (version abrégée)](https://doi.org/10.1787/1401e408-fr)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *French*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, PDF, ZJCR, ZXML*
-
-------
-
-## [How's Life for Children in the Digital Age?](https://doi.org/10.1787/0854b900-en)
-
-Embargo date | Launch date
--------------|:------------:
-Thursday 15 May 2025 at 9:00 | no launch event
-
-### Status Information
-
-- [x] FTI loaded 
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Centre for Well-Being, Inclusion, Sustainability and Equal Opportunity*
-* Language: *English*
-* Availability: *Published*
-* Type of publication: *Stand-alone monograph*
-* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
-
-------
+| *Sunday 18 May 2025 at 22:52* | [See embargoes by date](embargoes-by-date.md) |
 
 ## [Reinforcing Rural Resilience](https://doi.org/10.1787/7cd485e3-en)
 
