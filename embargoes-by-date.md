@@ -2,9 +2,10 @@
 
 Data generated on | |
 |:-----|------:|
-| *Sunday 18 May 2025 at 22:52* | [See embargoes by publication](embargoes-by-publication.md) |
+| *Monday 19 May 2025 at 23:29* | [See embargoes by publication](embargoes-by-publication.md) |
 
 * [19 May 2025](#19-may-2025)
+* [20 May 2025](#20-may-2025)
 * [23 May 2025](#23-may-2025)
 * [26 May 2025](#26-may-2025)
 * [27 May 2025](#27-may-2025)
@@ -41,6 +42,33 @@ Monday 19 May 2025 at 6:00 | no launch event
 * Language: *English*
 * Availability: *Published*
 * Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 20 May 2025
+
+## [The State of Global Teenage Career Preparation](https://doi.org/10.1787/d5f8e3f2-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 20 May 2025 at 4:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Stand-alone monograph*
 * Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
 
 ------
@@ -191,11 +219,61 @@ Monday 26 May 2025 at 12:00 | no launch event
 
 ------
 
-## [OECD Steel Outlook 2025](https://doi.org/10.1787/28b61a5e-en)
+## [Education and Skills in Romania](https://doi.org/10.1787/594cbb5d-en)
 
 Embargo date | Launch date
 -------------|:------------:
 Monday 26 May 2025 at 22:00 | no launch event
+
+### Status Information
+
+- [x] FTI loaded 
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Directorate for Education and Skills*
+* Language: *English*
+* Availability: *Published*
+* Type of publication: *Book*
+* Formats: *HTML, Paperback, PDF, ZJCR, ZXML*
+
+------
+
+------
+
+# 27 May 2025
+
+## [Customisation Opportunities of IUCLID for the Management of Chemical Data – 4th edition](https://doi.org/10.1787/d8db13f7-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 May 2025 at 7:00 | no launch event
+
+### Status Information
+
+- [ ] FTI loaded
+- [ ] Exported to iLibrary
+- [ ] Exported to Keepeek
+- [ ] Exported to OECD.org
+
+### Additional Information
+
+* Directorate: *Environment Directorate*
+* Language: *English*
+* Availability: *Not yet available*
+* Type of publication: *Report*
+* Format: *PDF*
+
+------
+
+## [OECD Steel Outlook 2025](https://doi.org/10.1787/28b61a5e-en)
+
+Embargo date | Launch date
+-------------|:------------:
+Tuesday 27 May 2025 at 7:30 | no launch event
 
 ### Status Information
 
@@ -213,33 +291,6 @@ Monday 26 May 2025 at 22:00 | no launch event
 * Formats: *Paperback, PDF*
 
 ------
-
-## [Education and Skills in Romania](https://doi.org/10.1787/594cbb5d-en)
-
-Embargo date | Launch date
--------------|:------------:
-Monday 26 May 2025 at 22:00 | no launch event
-
-### Status Information
-
-- [ ] FTI loaded
-- [ ] Exported to iLibrary
-- [ ] Exported to Keepeek
-- [ ] Exported to OECD.org
-
-### Additional Information
-
-* Directorate: *Directorate for Education and Skills*
-* Language: *English*
-* Availability: *Forthcoming*
-* Type of publication: *Book*
-* Formats: *Paperback, PDF*
-
-------
-
-------
-
-# 27 May 2025
 
 ## [Revenue Statistics in Latin America and the Caribbean 2025](https://doi.org/10.1787/7594fbdd-en)
 

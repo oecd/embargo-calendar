@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<report name="official-embargoes" generated="2025-05-18T22:52:25.9426028+02:00">
+<report name="official-embargoes" generated="2025-05-19T23:29:44.7941747+02:00">
   <row index="0">
     <cell name="directorate">Directorate</cell>
     <cell name="doi">DOI</cell>
@@ -281,6 +281,106 @@
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2242e9c7</cell>
   </row>
   <row index="14">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d5f8e3f2-en</cell>
+    <cell name="title">The State of Global Teenage Career Preparation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-20</cell>
+    <cell name="embargo date">2025-05-20T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63316203</cell>
+  </row>
+  <row index="15">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d5f8e3f2-en</cell>
+    <cell name="title">The State of Global Teenage Career Preparation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">Paperback</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication">2025-05-20</cell>
+    <cell name="embargo date">2025-05-20T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/879a3d46</cell>
+  </row>
+  <row index="16">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d5f8e3f2-en</cell>
+    <cell name="title">The State of Global Teenage Career Preparation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-20</cell>
+    <cell name="embargo date">2025-05-20T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/671bb897</cell>
+  </row>
+  <row index="17">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d5f8e3f2-en</cell>
+    <cell name="title">The State of Global Teenage Career Preparation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-20</cell>
+    <cell name="embargo date">2025-05-20T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bbc60ada</cell>
+  </row>
+  <row index="18">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/d5f8e3f2-en</cell>
+    <cell name="title">The State of Global Teenage Career Preparation (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-20</cell>
+    <cell name="embargo date">2025-05-20T04:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Stand-alone monograph</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d4bc81e</cell>
+  </row>
+  <row index="19">
     <cell name="directorate">Global Relations and Cooperation Directorate</cell>
     <cell name="doi">10.1787/bc0babf3-en</cell>
     <cell name="title">Economic Convergence Scoreboard for the Western Balkans 2025 (en)</cell>
@@ -300,7 +400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c80b89de</cell>
   </row>
-  <row index="15">
+  <row index="20">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/985d0555-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2025 (en)</cell>
@@ -320,7 +420,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/73e094c5</cell>
   </row>
-  <row index="16">
+  <row index="21">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/985d0555-en</cell>
     <cell name="title">OECD Economic Surveys: Finland 2025 (en)</cell>
@@ -340,7 +440,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/29eaad3e</cell>
   </row>
-  <row index="17">
+  <row index="22">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/fcd70ea1-en</cell>
     <cell name="title">OECD Development Co-operation Peer Reviews: Canada 2025 (en)</cell>
@@ -360,7 +460,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/68563fdc</cell>
   </row>
-  <row index="18">
+  <row index="23">
     <cell name="directorate">Development Co-operation Directorate</cell>
     <cell name="doi">10.1787/e9a5a8ce-fr</cell>
     <cell name="title">Examens de l'OCDE sur la coopération pour le développement : Canada 2025 (fr)</cell>
@@ -380,7 +480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/89596150</cell>
   </row>
-  <row index="19">
+  <row index="24">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/d806a81d-fr</cell>
     <cell name="title">Études économiques de l’OCDE : Canada 2025 (fr)</cell>
@@ -400,7 +500,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2ed9dbc1</cell>
   </row>
-  <row index="20">
+  <row index="25">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/28f9e02c-en</cell>
     <cell name="title">OECD Economic Surveys: Canada 2025 (en)</cell>
@@ -420,14 +520,14 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/169ca0b2</cell>
   </row>
-  <row index="21">
-    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
-    <cell name="doi">10.1787/28b61a5e-en</cell>
-    <cell name="title">OECD Steel Outlook 2025 (en)</cell>
+  <row index="26">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/e38cf667-en</cell>
+    <cell name="title">Education and skills in Romania: Driving inclusive growth (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-05-27</cell>
     <cell name="embargo date">2025-05-26T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -436,11 +536,11 @@
     <cell name="oecd.org last export date"/>
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
-    <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
-    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb0cc79a</cell>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7553e044</cell>
   </row>
-  <row index="22">
+  <row index="27">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/28b61a5e-en</cell>
     <cell name="title">OECD Steel Outlook 2025 (en)</cell>
@@ -460,14 +560,154 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c74be27</cell>
   </row>
-  <row index="23">
+  <row index="28">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/594cbb5d-en</cell>
+    <cell name="title">Education and Skills in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">HTML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/aad10d3a</cell>
+  </row>
+  <row index="29">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/e5d7b77b-en</cell>
+    <cell name="title">Foreword (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/262230ef</cell>
+  </row>
+  <row index="30">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/ca43b3be-en</cell>
+    <cell name="title">Executive summary (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/fb17d492</cell>
+  </row>
+  <row index="31">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/15895d3d-en</cell>
+    <cell name="title">Early Childhood Education and Care: Giving all children a strong foundation for life (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9f5acc45</cell>
+  </row>
+  <row index="32">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/4d001a90-en</cell>
+    <cell name="title">Acronyms and abbreviations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/62e0bddd</cell>
+  </row>
+  <row index="33">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/19015724-en</cell>
+    <cell name="title">School education: Giving every student a fair chance to succeed (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4d545ae2</cell>
+  </row>
+  <row index="34">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/6edd1c08-en</cell>
+    <cell name="title">Assessment and Recommendations (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c7043ab5</cell>
+  </row>
+  <row index="35">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">PDF</cell>
-    <cell name="availability">Forthcoming</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-05-27</cell>
     <cell name="embargo date">2025-05-26T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -477,17 +717,97 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/04495d77</cell>
   </row>
-  <row index="24">
+  <row index="36">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/1f8bbe53-en</cell>
+    <cell name="title">Skills: Building the workforce for a modernising economy (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/71229719</cell>
+  </row>
+  <row index="37">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/594cbb5d-en</cell>
+    <cell name="title">Education and Skills in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZJCR</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb1ac6ef</cell>
+  </row>
+  <row index="38">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/ee66cb6a-en</cell>
+    <cell name="title">Tertiary education: Creating a more attractive, relevant and accessible system (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Chapter</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1a0b69df</cell>
+  </row>
+  <row index="39">
+    <cell name="directorate">Directorate for Education and Skills</cell>
+    <cell name="doi">10.1787/594cbb5d-en</cell>
+    <cell name="title">Education and Skills in Romania (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">ZXML</cell>
+    <cell name="availability">Published</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-26T22:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?">✓</cell>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6bdd9740</cell>
+  </row>
+  <row index="40">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/594cbb5d-en</cell>
     <cell name="title">Education and Skills in Romania (en)</cell>
     <cell name="subtitle"/>
     <cell name="language">English</cell>
     <cell name="medium">Paperback</cell>
-    <cell name="availability">Not yet available</cell>
+    <cell name="availability">Published</cell>
     <cell name="date of publication">2025-05-27</cell>
     <cell name="embargo date">2025-05-26T22:00:00Z</cell>
     <cell name="launch date/time"/>
@@ -497,10 +817,50 @@
     <cell name="discoveryservice last export date"/>
     <cell name="google last export date"/>
     <cell name="catalogue type">Book</cell>
-    <cell name="fti loaded?"/>
+    <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e2ab34a4</cell>
   </row>
-  <row index="25">
+  <row index="41">
+    <cell name="directorate">Environment Directorate</cell>
+    <cell name="doi">10.1787/d8db13f7-en</cell>
+    <cell name="title">Customisation Opportunities of IUCLID for the Management of Chemical Data – 4th edition (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Not yet available</cell>
+    <cell name="date of publication"/>
+    <cell name="embargo date">2025-05-27T07:00:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Report</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d163135e</cell>
+  </row>
+  <row index="42">
+    <cell name="directorate">Directorate for Science, Technology and Industry</cell>
+    <cell name="doi">10.1787/28b61a5e-en</cell>
+    <cell name="title">OECD Steel Outlook 2025 (en)</cell>
+    <cell name="subtitle"/>
+    <cell name="language">English</cell>
+    <cell name="medium">PDF</cell>
+    <cell name="availability">Forthcoming</cell>
+    <cell name="date of publication">2025-05-27</cell>
+    <cell name="embargo date">2025-05-27T07:30:00Z</cell>
+    <cell name="launch date/time"/>
+    <cell name="ilibrary last export date"/>
+    <cell name="freepreview last export date"/>
+    <cell name="oecd.org last export date"/>
+    <cell name="discoveryservice last export date"/>
+    <cell name="google last export date"/>
+    <cell name="catalogue type">Book</cell>
+    <cell name="fti loaded?"/>
+    <cell name="kappa link">http://kappa.oecd.org/v3/metadata/eb0cc79a</cell>
+  </row>
+  <row index="43">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -520,7 +880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/681d91d8</cell>
   </row>
-  <row index="26">
+  <row index="44">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -540,7 +900,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f02099fd</cell>
   </row>
-  <row index="27">
+  <row index="45">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/a74816b2-en</cell>
     <cell name="title">Non-tax revenues in Latin America and the Caribbean (en)</cell>
@@ -560,7 +920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/81d39dfd</cell>
   </row>
-  <row index="28">
+  <row index="46">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2ca45045-en</cell>
     <cell name="title">Fiscal revenues from non-renewable natural resources in Latin America and the Caribbean (en)</cell>
@@ -580,7 +940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/df7b8c54</cell>
   </row>
-  <row index="29">
+  <row index="47">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c257a767-en</cell>
     <cell name="title">Executive summary (en)</cell>
@@ -600,7 +960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/db5ed508</cell>
   </row>
-  <row index="30">
+  <row index="48">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -620,7 +980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/63052221</cell>
   </row>
-  <row index="31">
+  <row index="49">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -640,7 +1000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/51ad0265</cell>
   </row>
-  <row index="32">
+  <row index="50">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/f0bee3b4-es</cell>
     <cell name="title">Estadísticas tributarias en América Latina y el Caribe 2025 (es)</cell>
@@ -660,7 +1020,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dcf6868a</cell>
   </row>
-  <row index="33">
+  <row index="51">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2e806a9e-en</cell>
     <cell name="title">Tax levels and tax structures, 1990-2023 (en)</cell>
@@ -680,7 +1040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/203147f8</cell>
   </row>
-  <row index="34">
+  <row index="52">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/b9ecdb22-en</cell>
     <cell name="title">Country tables, tax revenues by sub-sectors of general government, 1990-2023 (en)</cell>
@@ -700,7 +1060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/37d45c64</cell>
   </row>
-  <row index="35">
+  <row index="53">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -720,7 +1080,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/deb58004</cell>
   </row>
-  <row index="36">
+  <row index="54">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/cac86d61-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -740,7 +1100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9c77062f</cell>
   </row>
-  <row index="37">
+  <row index="55">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/d71ae2b4-en</cell>
     <cell name="title">Country tables, 1990-2023 – Tax revenues (en)</cell>
@@ -760,7 +1120,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/54dea199</cell>
   </row>
-  <row index="38">
+  <row index="56">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/7594fbdd-en</cell>
     <cell name="title">Revenue Statistics in Latin America and the Caribbean 2025 (en)</cell>
@@ -780,7 +1140,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4a436625</cell>
   </row>
-  <row index="39">
+  <row index="57">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/2cabda25-en</cell>
     <cell name="title">The OECD classification of taxes and interpretative guide (en)</cell>
@@ -800,7 +1160,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2e27dd48</cell>
   </row>
-  <row index="40">
+  <row index="58">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/c012816a-en</cell>
     <cell name="title">Tax revenue trends, 1990-2023 (en)</cell>
@@ -820,7 +1180,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9cd2506b</cell>
   </row>
-  <row index="41">
+  <row index="59">
     <cell name="directorate">Centre for Tax Policy and Administration</cell>
     <cell name="doi">10.1787/00d67508-fr</cell>
     <cell name="title">Financement de la protection sociale au Sénégal (fr)</cell>
@@ -840,7 +1200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c371e4b7</cell>
   </row>
-  <row index="42">
+  <row index="60">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f7f7d3cf-fr</cell>
     <cell name="title">L’emploi des femmes (fr)</cell>
@@ -860,7 +1220,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/44243e65</cell>
   </row>
-  <row index="43">
+  <row index="61">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/30220b5e-es</cell>
     <cell name="title">Prólogo (es)</cell>
@@ -880,7 +1240,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/bd1ac386</cell>
   </row>
-  <row index="44">
+  <row index="62">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -900,7 +1260,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/711e1727</cell>
   </row>
-  <row index="45">
+  <row index="63">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -920,7 +1280,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/55d7a4d1</cell>
   </row>
-  <row index="46">
+  <row index="64">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/bb7655f5-fr</cell>
     <cell name="title">Échanges de services en Amérique latine (fr)</cell>
@@ -940,7 +1300,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7a19e7cd</cell>
   </row>
-  <row index="47">
+  <row index="65">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -960,7 +1320,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/1d9464e6</cell>
   </row>
-  <row index="48">
+  <row index="66">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/5b09ad7e-en</cell>
     <cell name="title">Introduction (en)</cell>
@@ -980,7 +1340,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/b4938571</cell>
   </row>
-  <row index="49">
+  <row index="67">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -1000,7 +1360,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4035dcaf</cell>
   </row>
-  <row index="50">
+  <row index="68">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -1020,7 +1380,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/783b833d</cell>
   </row>
-  <row index="51">
+  <row index="69">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -1040,7 +1400,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/c160bd84</cell>
   </row>
-  <row index="52">
+  <row index="70">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/ac740e38-es</cell>
     <cell name="title">Acuerdos comerciales y mujeres (es)</cell>
@@ -1060,7 +1420,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8d641b7b</cell>
   </row>
-  <row index="53">
+  <row index="71">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/44b91857-en</cell>
     <cell name="title">Women consumers (en)</cell>
@@ -1080,7 +1440,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3f47f0d0</cell>
   </row>
-  <row index="54">
+  <row index="72">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/d82b3d9e-en</cell>
     <cell name="title">Trade in services in Latin America (en)</cell>
@@ -1100,7 +1460,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/d3c057fa</cell>
   </row>
-  <row index="55">
+  <row index="73">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -1120,7 +1480,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/e6a11f7a</cell>
   </row>
-  <row index="56">
+  <row index="74">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/77508a78-en</cell>
     <cell name="title">Executive Summary (en)</cell>
@@ -1140,7 +1500,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/97cc51f8</cell>
   </row>
-  <row index="57">
+  <row index="75">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -1160,7 +1520,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f28b4927</cell>
   </row>
-  <row index="58">
+  <row index="76">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/e6af49af-fr</cell>
     <cell name="title">Facilitation des échanges (fr)</cell>
@@ -1180,7 +1540,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/584b35ce</cell>
   </row>
-  <row index="59">
+  <row index="77">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/060a0981-es</cell>
     <cell name="title">Facilitación del comercio (es)</cell>
@@ -1200,7 +1560,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a32b8370</cell>
   </row>
-  <row index="60">
+  <row index="78">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6f7d59fb-es</cell>
     <cell name="title">Resumen (es)</cell>
@@ -1220,7 +1580,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/723191fe</cell>
   </row>
-  <row index="61">
+  <row index="79">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -1240,7 +1600,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/013f5541</cell>
   </row>
-  <row index="62">
+  <row index="80">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/90e120f2-en</cell>
     <cell name="title">Policy recommendations (en)</cell>
@@ -1260,7 +1620,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/cabb68fb</cell>
   </row>
-  <row index="63">
+  <row index="81">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3a8428fa-en</cell>
     <cell name="title">Foreword (en)</cell>
@@ -1280,7 +1640,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/34a2086f</cell>
   </row>
-  <row index="64">
+  <row index="82">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/061579a5-es</cell>
     <cell name="title">Mujeres directivas de empresas en el comercio (es)</cell>
@@ -1300,7 +1660,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9359856e</cell>
   </row>
-  <row index="65">
+  <row index="83">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/6dfeafb3-fr</cell>
     <cell name="title">Résumé (fr)</cell>
@@ -1320,7 +1680,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/78726f5b</cell>
   </row>
-  <row index="66">
+  <row index="84">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -1340,7 +1700,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7f1c195f</cell>
   </row>
-  <row index="67">
+  <row index="85">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/1add2e50-en</cell>
     <cell name="title">Women workers (en)</cell>
@@ -1360,7 +1720,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4790caac</cell>
   </row>
-  <row index="68">
+  <row index="86">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/3977eb3f-es</cell>
     <cell name="title">Recomendaciones en materia de políticas (es)</cell>
@@ -1380,7 +1740,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/95392d8b</cell>
   </row>
-  <row index="69">
+  <row index="87">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/018cfa14-fr</cell>
     <cell name="title">Recommandations d’action (fr)</cell>
@@ -1400,7 +1760,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/309c32d5</cell>
   </row>
-  <row index="70">
+  <row index="88">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f25df717-es</cell>
     <cell name="title">Mujeres trabajadoras (es)</cell>
@@ -1420,7 +1780,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/42247edc</cell>
   </row>
-  <row index="71">
+  <row index="89">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/b28ec069-en</cell>
     <cell name="title">Trade agreements and women (en)</cell>
@@ -1440,7 +1800,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f1935704</cell>
   </row>
-  <row index="72">
+  <row index="90">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c9af11a7-fr</cell>
     <cell name="title">Introduction (fr)</cell>
@@ -1460,7 +1820,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/84c820c7</cell>
   </row>
-  <row index="73">
+  <row index="91">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c35f514f-fr</cell>
     <cell name="title">Les femmes consommatrices (fr)</cell>
@@ -1480,7 +1840,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/807ae61f</cell>
   </row>
-  <row index="74">
+  <row index="92">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -1500,7 +1860,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/992a2272</cell>
   </row>
-  <row index="75">
+  <row index="93">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/579e2df4-fr</cell>
     <cell name="title">Les accords commerciaux et les femmes (fr)</cell>
@@ -1520,7 +1880,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8fcf8204</cell>
   </row>
-  <row index="76">
+  <row index="94">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/019938c0-fr</cell>
     <cell name="title">Examen du commerce international et du genre en Amérique latine (fr)</cell>
@@ -1540,7 +1900,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2727b798</cell>
   </row>
-  <row index="77">
+  <row index="95">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/8d66d042-es</cell>
     <cell name="title">Comercio de servicios en América Latina (es)</cell>
@@ -1560,7 +1920,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9d57bfb9</cell>
   </row>
-  <row index="78">
+  <row index="96">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -1580,7 +1940,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/a4158e3e</cell>
   </row>
-  <row index="79">
+  <row index="97">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/7edc1b73-fr</cell>
     <cell name="title">Les femmes cheffes d’entreprise dans le commerce international (fr)</cell>
@@ -1600,7 +1960,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/2b38905f</cell>
   </row>
-  <row index="80">
+  <row index="98">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/db75af76-es</cell>
     <cell name="title">Estudio sobre comercio y género en América Latina (es)</cell>
@@ -1620,7 +1980,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/28cadddc</cell>
   </row>
-  <row index="81">
+  <row index="99">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/949b5bcb-es</cell>
     <cell name="title">Mujeres consumidoras (es)</cell>
@@ -1640,7 +2000,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/9befcd6c</cell>
   </row>
-  <row index="82">
+  <row index="100">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/930eaf10-en</cell>
     <cell name="title">Women business leaders in trade (en)</cell>
@@ -1660,7 +2020,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/31b03dde</cell>
   </row>
-  <row index="83">
+  <row index="101">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/feb24cf8-en</cell>
     <cell name="title">Trade facilitation (en)</cell>
@@ -1680,7 +2040,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/02531414</cell>
   </row>
-  <row index="84">
+  <row index="102">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/c906a2f7-en</cell>
     <cell name="title">Trade and Gender Review of Latin America (en)</cell>
@@ -1700,7 +2060,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/24a8d10e</cell>
   </row>
-  <row index="85">
+  <row index="103">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/f1a20e05-es</cell>
     <cell name="title">Introducción (es)</cell>
@@ -1720,7 +2080,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/3e934729</cell>
   </row>
-  <row index="86">
+  <row index="104">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/4cd8da43-fr</cell>
     <cell name="title">Avant-propos (fr)</cell>
@@ -1740,7 +2100,7 @@
     <cell name="fti loaded?">✓</cell>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f5dd4a81</cell>
   </row>
-  <row index="87">
+  <row index="105">
     <cell name="directorate">Trade and Agriculture Directorate</cell>
     <cell name="doi">10.1787/94e3a8ea-en</cell>
     <cell name="title">OECD Supply Chain Resilience Review (en)</cell>
@@ -1760,7 +2120,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/ee9f613d</cell>
   </row>
-  <row index="88">
+  <row index="106">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/bace00c4-en</cell>
     <cell name="title">Education and Skills in Croatia (en)</cell>
@@ -1780,7 +2140,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/57227c41</cell>
   </row>
-  <row index="89">
+  <row index="107">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -1800,7 +2160,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/69e3f756</cell>
   </row>
-  <row index="90">
+  <row index="108">
     <cell name="directorate">Directorate for Public Governance</cell>
     <cell name="doi">10.1787/795de142-en</cell>
     <cell name="title">Governing with Artificial Intelligence (en)</cell>
@@ -1820,7 +2180,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7c912729</cell>
   </row>
-  <row index="91">
+  <row index="109">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
@@ -1840,7 +2200,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/52d81891</cell>
   </row>
-  <row index="92">
+  <row index="110">
     <cell name="directorate">Directorate for Education and Skills</cell>
     <cell name="doi">10.1787/ac0229da-en</cell>
     <cell name="title">Education and Skills in Bulgaria (en)</cell>
@@ -1860,7 +2220,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/7fe20d9a</cell>
   </row>
-  <row index="93">
+  <row index="111">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -1880,7 +2240,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/4b4a93c1</cell>
   </row>
-  <row index="94">
+  <row index="112">
     <cell name="directorate">Environment Directorate</cell>
     <cell name="doi">10.1787/d492583a-en</cell>
     <cell name="title">Global Drought Outlook (en)</cell>
@@ -1900,7 +2260,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/6b31ff34</cell>
   </row>
-  <row index="95">
+  <row index="113">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -1920,7 +2280,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/f794f573</cell>
   </row>
-  <row index="96">
+  <row index="114">
     <cell name="directorate">Economics Department</cell>
     <cell name="doi">10.1787/0b8d13ac-en</cell>
     <cell name="title">Strengthening Productivity Analysis for Policymaking in Thailand (en)</cell>
@@ -1940,7 +2300,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/8e0fc112</cell>
   </row>
-  <row index="97">
+  <row index="115">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/d5ea99b2-en</cell>
     <cell name="title">Closing Broadband Connectivity Divides for All (en)</cell>
@@ -1960,7 +2320,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/93191187</cell>
   </row>
-  <row index="98">
+  <row index="116">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
@@ -1980,7 +2340,7 @@
     <cell name="fti loaded?"/>
     <cell name="kappa link">http://kappa.oecd.org/v3/metadata/dddfd872</cell>
   </row>
-  <row index="99">
+  <row index="117">
     <cell name="directorate">Directorate for Science, Technology and Industry</cell>
     <cell name="doi">10.1787/3b96cf8c-en</cell>
     <cell name="title">Measuring Science and Innovation for Sustainable Growth (en)</cell>
